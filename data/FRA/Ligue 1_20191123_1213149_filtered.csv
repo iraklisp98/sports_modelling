@@ -1,0 +1,956 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 18:14:58","Scout in Stadion",0,0
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 18:15:00","Transmission Online",1,0
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 18:15:22","GCC",2,0
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 18:19:23","Jersey Changed",3,0
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 18:19:23","Jersey Changed",4,0
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 18:25:24","Lineup changed",5,0
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 18:30:51","Lineup changed",6,0
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 18:42:15","GCC",7,0
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 18:42:56","GCC",8,0
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 18:49:09","GCC",9,0
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 18:50:38","Lineup changed",10,0
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 18:55:15","GCC",11,0
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 18:56:32","Players are coming out",12,0
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 18:56:51","GCC",13,0
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 18:57:09","Players lined up",14,0
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 18:57:16","Shake hands",15,0
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 18:57:51","Flip coin",16,0
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 18:59:19","Game about to start",17,0
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 18:59:57","Start RT1 Team 2",18,1
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 18:59:58","SAFE2",19,1
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:00:16","AT2",20,1
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:00:22","SAFE2",21,1
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:00:39","POSSIBLE_TI",22,1
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:00:39","TI2",23,1
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:00:53","AT2",24,1
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:00:54","Restart",25,1
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:00:59","POSSIBLE_TI",26,2
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:01:00","TI2",27,2
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:01:06","Restart",28,2
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:01:14","Possible Free Kick",29,2
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:01:17","SAFE1",31,2
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:01:17","F2",32,2
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:01:17","FK1",33,2
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:01:17","Ball Position",34,2
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:01:25","Restart",35,2
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:01:54","AT1",36,2
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:02:01","DANGER1",37,3
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:02:01","DAT1",38,3
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:02:10","POSSIBLE_TI",39,3
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:02:20","TI1",40,3
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:02:24","Restart",41,3
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:02:47","SAFE2",42,3
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:02:50","AT2",43,3
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:02:58","POSSIBLE_TI",44,4
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:02:59","TI2",45,4
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:03:11","Restart",46,4
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:03:13","DANGER2",47,4
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:03:13","DAT2",48,4
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:03:26","SAFE2",49,4
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:03:40","AT2",50,4
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:03:45","SAFE1",51,4
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:03:46","AT1",52,4
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:03:48","SAFE2",53,4
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:03:57","AT2",54,4
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:04:00","DANGER2",55,5
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:04:00","DAT2",56,5
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:04:21","SAFE2",57,5
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:04:26","POSSIBLE_TI",58,5
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:04:27","TI1",59,5
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:04:28","AT1",60,5
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:04:30","Restart",61,5
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:04:43","POSSIBLE_TI",62,5
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:04:43","TI2",63,5
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:05:11","Restart",64,6
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:05:13","SAFE1",65,6
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:05:46","SAFE2",66,6
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:05:57","AT2",67,7
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:05:58","SAFE2",68,7
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:06:16","AT2",69,7
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:06:19","SAFE2",70,7
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:06:20","AT2",71,7
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:06:23","POSSIBLE_TI",72,7
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:06:24","TI2",73,7
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:06:32","Restart",74,7
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:06:35","SAFE1",75,7
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:06:39","AT1",76,7
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:06:42","SAFE1",77,7
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:06:52","AT1",78,7
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:07:00","SAFE2",79,8
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:07:01","AT2",80,8
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:07:05","SAFE1",81,8
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:07:23","AT1",82,8
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:07:27","POSSIBLE_TI",83,8
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:07:28","TI1",84,8
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:07:31","Restart",85,8
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:07:37","SAFE2",86,8
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:07:41","AT2",87,8
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:07:43","DANGER2",88,8
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:07:43","DAT2",89,8
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:07:50","SAFE2",90,8
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:08:06","AT2",91,9
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:08:09","SAFE2",92,9
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:08:17","AT2",93,9
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:08:18","DANGER2",94,9
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:08:18","DAT2",95,9
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:08:36","POSSIBLE_TI",96,9
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:08:37","TI2",97,9
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:08:47","Restart",98,9
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:09:10","PCR2",99,10
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:09:13","CR2",100,10
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:09:14","Ball Position",101,10
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:09:30","Restart",102,10
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:09:35","SAFE1",103,10
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:09:36","GK1",104,10
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:09:50","Restart",105,10
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:10:00","AT2",106,11
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:10:02","DANGER2",107,11
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:10:02","DAT2",108,11
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:10:08","SAFE1",109,11
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:10:13","AT1",110,11
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:10:25","DANGER1",111,11
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:10:25","DAT1",112,11
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:10:35","Possible Free Kick",113,11
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:11:08","F2",115,12
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:11:08","FK1",116,12
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:11:08","DFK1",117,12
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:11:09","Ball Position",118,12
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:11:50","Restart",119,12
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:11:56","SHW1",120,12
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:12:01","SAFE2",121,13
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:12:02","GK2",122,13
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:12:14","Restart",123,13
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:12:32","AT1",124,13
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:12:43","SAFE1",125,13
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:13:23","AT1",126,14
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:13:26","SAFE1",127,14
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:13:33","AT1",128,14
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:13:39","DANGER1",129,14
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:13:39","DAT1",130,14
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:13:49","SAFE1",131,14
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:14:04","AT1",132,15
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:14:15","SAFE2",133,15
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:14:16","AT2",134,15
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:14:20","DANGER2",135,15
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:14:20","DAT2",136,15
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:14:30","SHB2",137,15
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:14:33","SAFE1",138,15
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:14:34","GK1",139,15
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:14:48","Restart",140,15
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:15:18","AT1",141,16
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:15:21","SAFE2",142,16
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:15:30","AT2",143,16
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:15:37","Possible Free Kick",144,16
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:15:38","SAFE1",146,16
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:15:38","F2",147,16
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:15:38","FK1",148,16
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:15:38","Ball Position",149,16
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:15:41","Restart",150,16
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:15:59","AT1",151,17
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:16:00","SAFE2",152,17
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:16:08","AT2",153,17
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:16:09","SAFE1",154,17
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:16:10","AT1",155,17
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:16:15","DANGER1",156,17
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:16:15","DAT1",157,17
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:16:20","SHB1",158,17
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:16:29","SHW1",159,17
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:16:35","POSSIBLE_TI",160,17
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:16:41","TI2",161,17
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:16:47","Restart",162,17
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:16:52","Possible Free Kick",163,17
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:16:59","SAFE2",165,18
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:17:00","F1",166,18
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:17:00","FK2",167,18
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:17:00","Ball Position",168,18
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:17:12","Restart",169,18
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:17:23","AT2",170,18
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:17:26","SAFE1",171,18
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:17:42","AT1",172,18
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:17:54","SAFE2",173,18
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:18:11","AT2",174,19
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:18:15","POSSIBLE_TI",175,19
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:18:16","TI2",176,19
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:18:19","Restart",177,19
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:18:20","SAFE2",178,19
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:18:23","SAFE1",179,19
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:18:28","AT1",180,19
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:18:37","SAFE1",181,19
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:18:39","AT2",182,19
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:18:42","SAFE1",183,19
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:18:44","AT1",184,19
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:18:47","SAFE2",185,19
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:18:48","AT2",186,19
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:18:49","SAFE1",187,19
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:18:55","AT1",188,19
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:19:09","SAFE1",189,20
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:19:14","AT1",190,20
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:19:17","POSSIBLE_TI",191,20
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:19:17","TI2",192,20
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:19:37","Restart",193,20
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:19:39","SAFE2",194,20
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:19:40","AT2",195,20
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:19:43","DANGER2",196,20
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:19:43","DAT2",197,20
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:19:50","PPEN",198,20
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:19:50","PPEN2",199,20
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:19:57","No PEN",200,21
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:19:58","POSSIBLE_CARDS",201,21
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:20:01","YC2",202,21
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:20:06","CONF_YC2",203,21
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:20:11","Scorer",204,21
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:20:20","Possible Free Kick",205,21
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:20:24","SAFE1",207,21
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:20:24","F2",208,21
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:20:24","FK1",209,21
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:20:24","Ball Position",210,21
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:20:26","Restart",211,21
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:20:30","Scorer",212,21
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:20:30","Player_DATA_CONFIRMED",213,21
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:20:45","AT2",214,21
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:20:48","DANGER2",215,21
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:20:48","DAT2",216,21
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:20:54","POSSIBLE_TI",217,21
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:20:55","TI2",218,21
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:21:07","Restart",219,22
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:21:11","SAFE2",220,22
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:21:27","AT2",221,22
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:21:28","DANGER2",222,22
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:21:28","DAT2",223,22
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:21:54","POSSIBLE_TI",224,22
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:21:54","TI2",225,22
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:22:06","Restart",226,23
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:22:41","SAFE2",227,23
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:23:24","AT2",228,24
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:23:37","SAFE1",229,24
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:23:37","AT1",230,24
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:23:42","DANGER1",231,24
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:23:42","DAT1",232,24
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:23:47","SHB1",233,24
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:23:50","SAFE2",234,24
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:23:50","GK2",235,24
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:24:07","Restart",236,25
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:24:22","Possible Free Kick",237,25
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:24:26","F1",239,25
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:24:26","FK2",240,25
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:24:26","Ball Position",241,25
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:24:29","Restart",242,25
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:24:37","AT2",243,25
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:24:43","SAFE1",244,25
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:24:50","AT1",245,25
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:24:57","DANGER1",246,26
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:24:57","DAT1",247,26
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:25:03","PCR1",248,26
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:25:04","CR1",249,26
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:25:05","Ball Position",250,26
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:25:21","Restart",251,26
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:25:28","Possible Free Kick",252,26
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:25:34","SAFE2",254,26
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:25:35","F1",255,26
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:25:35","FK2",256,26
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:25:35","Ball Position",257,26
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:26:17","Restart",258,27
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:26:27","AT1",259,27
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:26:35","SAFE1",260,27
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:26:41","AT1",261,27
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:26:41","SAFE1",262,27
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:26:47","AT1",263,27
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:26:53","DANGER1",264,27
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:26:53","DAT1",265,27
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:26:58","Possible Free Kick",266,28
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:27:00","SAFE2",268,28
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:27:01","F1",269,28
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:27:01","FK2",270,28
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:27:01","Ball Position",271,28
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:27:13","Restart",272,28
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:27:20","AT2",273,28
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:27:31","Possible Free Kick",274,28
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:27:32","SAFE1",276,28
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:27:32","F2",277,28
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:27:32","FK1",278,28
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:27:32","Ball Position",279,28
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:27:33","Restart",280,28
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:27:59","AT1",281,29
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:28:10","Possible Free Kick",282,29
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:28:12","SAFE2",284,29
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:28:12","F1",285,29
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:28:12","FK2",286,29
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:28:12","Ball Position",287,29
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:28:26","Restart",288,29
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:28:34","AT2",289,29
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:28:43","POSSIBLE_TI",290,29
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:28:44","TI2",291,29
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:28:46","DANGER2",292,29
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:28:46","DAT2",293,29
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:28:48","Restart",294,29
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:28:59","Possible Free Kick",295,30
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:29:04","SAFE1",297,30
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:29:04","F2",298,30
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:29:04","FK1",299,30
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:29:04","Ball Position",300,30
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:29:09","Restart",301,30
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:29:29","AT1",302,30
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:29:37","DANGER1",303,30
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:29:37","DAT1",304,30
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:29:51","POSSIBLE_TI",305,30
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:29:52","TI2",306,30
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:30:20","Restart",307,31
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:30:30","SHG1",308,31
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:30:33","SAFE2",309,31
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:30:34","AT2",310,31
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:30:35","DANGER2",311,31
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:30:35","DAT2",312,31
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:30:41","SAFE1",313,31
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:30:49","AT1",314,31
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:30:58","DANGER1",315,32
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:30:58","DAT1",316,32
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:31:27","SHB1",317,32
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:31:32","SAFE1",318,32
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:31:37","AT1",319,32
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:31:58","Possible Free Kick",320,33
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:32:22","F2",322,33
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:32:22","FK1",323,33
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:32:22","Ball Position",324,33
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:32:22","DANGER1",325,33
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:32:22","DFK1",326,33
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:32:43","Restart",327,33
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:32:50","Possible Free Kick",328,33
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:32:51","SAFE2",330,33
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:32:51","F1",331,33
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:32:51","FK2",332,33
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:32:51","Ball Position",333,33
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:33:19","Restart",334,34
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:33:21","AT2",335,34
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:33:27","POSSIBLE_TI",336,34
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:33:28","TI1",337,34
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:33:29","Restart",338,34
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:33:43","DANGER2",339,34
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:33:43","DAT2",340,34
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:33:51","PCR2",341,34
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:34:01","SHG2",342,35
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:34:03","CR2",343,35
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:34:05","Ball Position",344,35
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:34:24","Restart",345,35
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:34:29","POSSIBLE_TI",346,35
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:34:29","TI2",347,35
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:34:38","Restart",348,35
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:34:44","PCR2",349,35
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:34:46","CR2",350,35
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:34:47","Ball Position",351,35
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:35:05","Restart",352,36
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:35:13","SAFE1",353,36
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:35:14","GK1",354,36
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:35:25","Restart",355,36
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:35:38","AT1",356,36
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:35:45","POSSIBLE_TI",357,36
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:35:45","TI2",358,36
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:35:58","Restart",359,37
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:36:02","SAFE2",360,37
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:36:03","AT2",361,37
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:36:04","SAFE1",362,37
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:36:27","AT1",363,37
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:36:33","SAFE1",364,37
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:36:51","AT1",365,37
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:36:58","SAFE1",366,38
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:37:06","AT1",367,38
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:37:10","DANGER1",368,38
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:37:10","DAT1",369,38
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:37:16","SHG1",370,38
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:37:18","POSSIBLE_TI",371,38
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:37:18","TI1",372,38
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:37:20","Restart",373,38
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:37:24","SAFE2",374,38
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:37:30","POSSIBLE_TI",375,38
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:37:30","TI2",376,38
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:37:42","Restart",377,38
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:37:47","SAFE1",378,38
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:38:17","AT1",379,39
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:38:27","DANGER1",380,39
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:38:27","DAT1",381,39
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:38:34","PCR1",382,39
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:38:35","CR1",383,39
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:38:36","Ball Position",384,39
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:39:00","Restart",385,40
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:39:09","SAFE2",386,40
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:39:11","AT2",387,40
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:39:12","SAFE1",388,40
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:39:14","AT1",389,40
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:39:18","DANGER1",390,40
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:39:18","DAT1",391,40
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:39:27","SAFE2",392,40
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:39:28","AT2",393,40
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:39:35","Possible Free Kick",394,40
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:39:42","F1",396,40
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:39:42","FK2",397,40
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:39:42","Ball Position",398,40
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:39:42","DANGER2",399,40
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:39:42","DFK2",400,40
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:39:51","Restart",401,40
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:39:52","SAFE2",402,40
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:40:00","AT2",403,41
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:40:05","SAFE2",404,41
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:40:18","AT2",405,41
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:40:22","POSSIBLE_TI",406,41
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:40:23","TI1",407,41
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:40:38","Restart",408,41
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:40:47","Possible Free Kick",409,41
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:41:01","F1",411,42
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:41:01","FK2",412,42
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:41:01","Ball Position",413,42
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:41:01","DANGER2",414,42
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:41:01","DFK2",415,42
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:41:23","Restart",416,42
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:41:30","SHB2",417,42
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:41:31","SAFE1",418,42
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:41:32","GK1",419,42
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:41:40","Restart",420,42
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:41:48","AT2",421,42
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:41:48","DANGER2",422,42
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:41:48","DAT2",423,42
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:41:59","SAFE1",424,43
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:42:01","AT2",425,43
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:42:06","SAFE1",426,43
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:42:15","AT1",427,43
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:42:27","POSSIBLE_TI",428,43
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:42:28","TI1",429,43
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:42:31","Restart",430,43
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:42:39","Possible Free Kick",431,43
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:42:46","F2",433,43
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:42:46","FK1",434,43
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:42:46","Ball Position",435,43
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:42:46","DANGER1",436,43
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:42:46","DFK1",437,43
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:42:57","Restart",438,43
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:42:58","SAFE1",439,44
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:43:02","AT1",440,44
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:43:10","DANGER1",441,44
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:43:10","DAT1",442,44
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:43:13","POSSIBLE_TI",443,44
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:43:13","TI1",444,44
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:43:22","Restart",445,44
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:43:31","SHG1",446,44
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:43:35","SAFE2",447,44
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:43:47","AT2",448,44
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:43:51","SAFE2",449,44
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:43:56","AT1",450,44
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:44:02","DANGER1",451,45
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:44:02","DAT1",452,45
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:44:09","SHG1",453,45
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:44:11","SAFE2",454,45
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:44:23","AT2",455,45
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:44:28","SAFE1",456,45
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:44:39","AT1",457,45
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:44:43","SAFE1",458,45
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:44:47","AT1",459,45
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:45:07","Stop RT1",460,46
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:45:14","CONF_PERIOD_SCORE",461,45
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:46:01","GCC",462,45
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 19:58:23","Players are coming out",463,45
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:00:25","Game about to start",464,45
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:00:56","Start RT2 Team 1",465,46
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:00:57","SAFE1",466,46
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:01:00","AT1",467,46
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:01:04","SAFE2",468,46
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:01:09","AT2",469,46
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:01:13","Possible Free Kick",470,46
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:01:27","F1",472,46
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:01:27","FK2",473,46
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:01:27","Ball Position",474,46
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:01:27","DANGER2",475,46
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:01:27","DFK2",476,46
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:01:44","Restart",477,46
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:01:46","SAFE2",478,46
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:02:03","AT2",479,47
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:02:07","DANGER2",480,47
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:02:07","DAT2",481,47
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:02:08","SAFE1",482,47
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:02:19","AT1",483,47
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:02:21","SAFE2",484,47
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:02:35","AT1",485,47
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:02:39","POSSIBLE_TI",486,47
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:02:39","TI1",487,47
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:02:45","Restart",488,47
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:02:49","DANGER1",489,47
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:02:49","DAT1",490,47
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:02:57","SAFE2",491,48
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:02:57","GK2",492,48
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:03:20","Restart",493,48
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:03:22","AT2",494,48
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:03:25","DANGER2",495,48
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:03:25","DAT2",496,48
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:03:34","SAFE1",497,48
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:03:46","AT1",498,48
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:03:59","SAFE2",499,49
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:04:00","AT2",500,49
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:04:05","DANGER2",501,49
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:04:05","DAT2",502,49
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:04:07","SAFE1",503,49
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:04:38","AT1",504,49
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:04:46","DANGER1",505,49
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:04:46","DAT1",506,49
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:04:47","SAFE2",507,49
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:04:52","AT2",508,49
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:04:54","SAFE1",509,49
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:04:56","AT1",510,50
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:04:59","SAFE1",511,50
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:05:01","AT2",512,50
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:05:05","DANGER2",513,50
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:05:05","DAT2",514,50
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:05:09","SAFE1",515,50
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:05:18","AT1",516,50
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:05:27","SAFE1",517,50
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:05:29","AT1",518,50
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:05:51","DANGER1",519,50
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:05:51","DAT1",520,50
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:05:58","SAFE2",521,51
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:06:14","AT2",522,51
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:06:21","DANGER2",523,51
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:06:21","DAT2",524,51
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:06:25","SAFE1",525,51
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:06:36","AT1",526,51
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:06:49","SAFE1",527,51
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:06:52","AT1",528,51
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:06:59","SAFE2",529,52
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:07:01","AT2",530,52
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:07:03","DANGER2",531,52
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:07:03","DAT2",532,52
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:07:06","PCR2",533,52
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:07:09","CR2",534,52
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:07:10","Ball Position",535,52
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:07:38","Restart",536,52
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:07:53","POSSIBLE_TI",537,52
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:08:16","NO_TI",538,53
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:08:19","Referee Ball",539,53
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:08:22","Restart",540,53
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:08:23","SAFE1",541,53
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:08:33","AT1",542,53
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:08:40","SAFE1",543,53
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:08:50","AT1",544,53
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:08:53","SAFE1",545,53
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:09:05","AT1",546,54
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:09:08","DANGER1",547,54
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:09:08","DAT1",548,54
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:09:14","Possible Free Kick",549,54
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:09:24","SAFE2",551,54
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:09:24","F1",552,54
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:09:24","FK2",553,54
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:09:24","Ball Position",554,54
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:09:48","Restart",555,54
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:09:50","AT2",556,54
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:09:54","SAFE1",557,54
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:10:00","AT1",558,55
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:10:04","SAFE2",559,55
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:10:08","AT2",560,55
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:10:12","SAFE1",561,55
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:10:14","AT1",562,55
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:10:21","SAFE1",563,55
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:10:44","AT1",564,55
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:10:47","Possible Free Kick",565,55
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:10:51","SAFE2",567,55
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:10:51","F1",568,55
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:10:51","FK2",569,55
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:10:51","Ball Position",570,55
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:11:00","Restart",571,56
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:11:20","AT2",572,56
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:11:28","SAFE1",573,56
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:11:28","AT1",574,56
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:11:40","DANGER1",575,56
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:11:40","DAT1",576,56
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:11:43","Possible Free Kick",577,56
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:11:46","SAFE2",579,56
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:11:46","F1",580,56
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:11:46","FK2",581,56
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:11:46","Ball Position",582,56
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:12:02","Restart",583,57
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:12:04","AT2",584,57
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:12:06","SAFE1",585,57
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:12:11","AT2",586,57
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:12:15","DANGER2",587,57
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:12:15","DAT2",588,57
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:12:20","SHG2",589,57
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:12:23","SAFE1",590,57
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:12:28","AT2",591,57
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:12:30","DANGER2",592,57
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:12:30","DAT2",593,57
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:12:46","SAFE1",594,57
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:13:03","AT1",595,58
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:13:09","DANGER1",596,58
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:13:09","DAT1",597,58
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:13:13","SAFE2",598,58
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:13:18","AT2",599,58
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:13:20","DANGER2",600,58
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:13:20","DAT2",601,58
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:13:23","GOAL2",602,58
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:14:04","Scorer",603,59
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:14:07","Injury Break",604,59
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:14:52","SUB2",605,59
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:15:14","SUB1",606,60
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:15:24","CONF_GOAL2",607,60
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:15:25","Restart",608,60
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:15:25","KO1",609,60
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:15:25","SAFE1",610,60
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:15:37","POSSIBLE_TI",611,60
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:15:37","TI1",612,60
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:15:43","Restart",613,60
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:15:53","AT1",614,60
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:15:56","SAFE2",615,61
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:16:16","Player_DATA_CONFIRMED",616,61
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:16:16","Player_DATA_CONFIRMED",617,61
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:16:25","Possible Free Kick",618,61
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:16:44","F1",620,61
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:16:44","FK2",621,61
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:16:44","Ball Position",622,61
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:16:55","Restart",623,61
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:16:57","AT2",624,62
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:17:03","POSSIBLE_TI",625,62
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:17:04","TI2",626,62
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:17:15","POSSIBLE_CARDS",627,62
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:17:21","YC2",628,62
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:17:37","CONF_YC2",629,62
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:17:46","Scorer",630,62
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:17:46","Scorer",631,62
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:17:46","Player_DATA_CONFIRMED",632,62
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:17:54","Restart",633,62
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:17:58","Possible Free Kick",634,63
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:18:09","No Free Kick",636,63
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:18:11","POSSIBLE_TI",637,63
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:18:12","TI1",638,63
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:18:14","Restart",639,63
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:18:15","SAFE1",640,63
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:18:23","AT1",641,63
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:18:41","DANGER1",642,63
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:18:41","DAT1",643,63
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:18:46","SAFE2",644,63
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:18:49","AT2",645,63
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:18:52","SAFE1",646,63
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:19:15","AT1",647,64
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:19:21","POSSIBLE_TI",648,64
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:19:21","TI2",649,64
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:19:29","Restart",650,64
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:19:33","POSSIBLE_TI",651,64
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:19:33","TI1",652,64
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:19:35","Restart",653,64
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:19:46","Player_DATA_CONFIRMED",654,64
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:19:47","SAFE2",655,64
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:19:52","AT2",656,64
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:19:53","DANGER2",657,64
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:19:53","DAT2",658,64
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:20:08","SHG2",659,65
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:20:10","SAFE1",660,65
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:20:37","AT1",661,65
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:20:43","SAFE2",662,65
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:20:46","AT2",663,65
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:20:56","DANGER2",664,66
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:20:56","DAT2",665,66
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:20:58","Possible Free Kick",666,66
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:21:00","SAFE1",668,66
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:21:00","F2",669,66
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:21:00","FK1",670,66
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:21:01","Ball Position",671,66
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:21:01","Restart",672,66
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:21:08","AT1",673,66
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:21:10","POSSIBLE_TI",674,66
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:21:14","TI2",675,66
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:21:27","Restart",676,66
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:21:36","SAFE1",677,66
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:21:37","AT1",678,66
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:21:43","SAFE2",679,66
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:22:07","Possible Free Kick",680,67
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:22:10","F2",682,67
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:22:10","FK1",683,67
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:22:10","Ball Position",684,67
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:22:10","DANGER1",685,67
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:22:10","DFK1",686,67
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:22:11","Restart",687,67
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:22:24","Possible Free Kick",688,67
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:22:29","POSSIBLE_CARDS",690,67
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:22:31","YC1",691,67
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:22:37","CONF_YC1",692,67
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:22:46","Scorer",693,67
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:22:54","SAFE2",694,67
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:22:54","F1",695,67
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:22:54","FK2",696,67
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:22:54","Ball Position",697,67
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:22:56","Player_DATA_CONFIRMED",698,68
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:23:18","SUB1",699,68
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:23:26","Player_DATA_CONFIRMED",700,68
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:23:36","Restart",701,68
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:23:38","AT2",702,68
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:23:42","POSSIBLE_TI",703,68
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:23:42","TI1",704,68
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:23:50","Restart",705,68
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:23:56","SAFE1",706,69
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:24:00","AT1",707,69
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:24:08","DANGER1",708,69
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:24:08","DAT1",709,69
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:24:16","Possible Free Kick",710,69
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:24:27","SAFE2",712,69
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:24:27","O1",713,69
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:24:27","FK2",714,69
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:24:27","Ball Position",715,69
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:24:39","Restart",716,69
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:24:42","AT2",717,69
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:24:48","SAFE2",718,69
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:24:52","AT2",719,69
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:24:58","SAFE1",720,70
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:24:58","AT1",721,70
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:25:08","DANGER1",722,70
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:25:08","DAT1",723,70
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:25:28","GOAL1",724,70
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:25:41","Scorer",725,70
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:26:13","Player_DATA_CONFIRMED",726,71
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:26:21","CONF_GOAL1",727,71
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:26:22","KO2",728,71
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:26:22","SAFE2",729,71
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:26:29","AT2",730,71
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:26:33","POSSIBLE_TI",731,71
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:26:36","TI1",732,71
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:26:37","Restart",733,71
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:26:38","SAFE1",734,71
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:26:39","AT1",735,71
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:26:40","POSSIBLE_TI",736,71
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:26:41","TI1",737,71
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:26:44","Assist",738,71
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:26:49","Restart",739,71
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:26:51","DANGER1",740,71
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:26:51","DAT1",741,71
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:26:59","SAFE2",742,72
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:27:03","AT2",743,72
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:27:06","SAFE2",744,72
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:27:07","AT2",745,72
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:27:13","DANGER2",746,72
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:27:13","DAT2",747,72
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:27:28","SAFE1",748,72
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:27:37","AT1",749,72
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:27:38","SAFE1",750,72
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:28:02","AT1",751,73
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:28:03","DANGER1",752,73
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:28:03","DAT1",753,73
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:28:15","SAFE2",754,73
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:28:16","GK2",755,73
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:28:44","Restart",756,73
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:28:46","AT2",757,73
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:28:47","SAFE2",758,73
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:29:06","AT2",759,74
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:29:08","DANGER2",760,74
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:29:08","DAT2",761,74
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:29:11","SAFE1",762,74
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:29:24","AT1",763,74
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:29:26","SAFE1",764,74
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:29:29","AT2",765,74
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:29:36","DANGER2",766,74
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:29:36","DAT2",767,74
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:29:37","SAFE1",768,74
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:29:52","AT1",769,74
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:30:04","SAFE2",770,75
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:30:22","AT2",771,75
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:30:31","DANGER2",772,75
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:30:31","DAT2",773,75
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:30:39","Possible Free Kick",774,75
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:30:41","SAFE1",776,75
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:30:41","F2",777,75
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:30:41","FK1",778,75
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:30:41","Ball Position",779,75
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:31:02","SUB2",780,76
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:31:15","Player_DATA_CONFIRMED",781,76
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:31:15","Restart",782,76
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:31:17","AT1",783,76
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:31:22","Possible Free Kick",784,76
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:31:26","F2",786,76
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:31:26","FK1",787,76
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:31:26","Ball Position",788,76
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:31:26","DANGER1",789,76
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:31:26","DFK1",790,76
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:32:10","Restart",791,77
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:32:31","POSSIBLE_TI",792,77
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:32:32","TI1",793,77
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:32:35","Restart",794,77
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:32:36","SAFE1",795,77
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:32:45","AT1",796,77
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:32:50","DANGER1",797,77
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:32:50","DAT1",798,77
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:32:57","PCR1",799,78
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:33:11","SHG1",800,78
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:33:15","CR1",801,78
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:33:16","Ball Position",802,78
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:33:22","Restart",803,78
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:33:30","SAFE2",804,78
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:33:31","AT2",805,78
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:33:34","SAFE1",806,78
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:33:44","AT1",807,78
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:33:53","DANGER1",808,78
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:33:53","DAT1",809,78
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:34:00","SHB1",810,79
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:34:01","SAFE2",811,79
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:34:01","GK2",812,79
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:34:17","Restart",813,79
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:34:20","AT2",814,79
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:34:23","SAFE1",815,79
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:34:23","AT1",816,79
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:34:28","POSSIBLE_TI",817,79
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:34:29","TI1",818,79
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:34:31","Restart",819,79
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:34:35","Possible Free Kick",820,79
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:34:37","F2",822,79
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:34:37","FK1",823,79
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:34:37","Ball Position",824,79
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:34:37","DANGER1",825,79
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:34:37","DFK1",826,79
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:34:39","Restart",827,79
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:34:50","Possible Free Kick",828,79
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:34:54","SAFE2",830,79
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:34:54","O1",831,79
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:34:54","FK2",832,79
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:34:54","Ball Position",833,79
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:35:13","Restart",834,80
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:35:15","AT2",835,80
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:35:20","POSSIBLE_TI",836,80
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:35:21","TI1",837,80
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:35:23","Restart",838,80
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:35:23","SAFE1",839,80
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:35:42","AT1",840,80
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:35:45","DANGER1",841,80
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:35:45","DAT1",842,80
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:35:52","SHB1",843,80
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:35:53","SAFE2",844,80
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:35:54","GK2",845,80
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:36:19","Restart",846,81
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:36:25","AT2",847,81
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:36:27","DANGER2",848,81
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:36:27","DAT2",849,81
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:36:31","POSSIBLE_TI",850,81
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:36:32","TI2",851,81
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:36:37","Restart",852,81
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:36:44","Possible Free Kick",853,81
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:36:49","F1",855,81
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:36:49","FK2",856,81
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:36:49","DFK2",857,81
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:36:49","Ball Position",858,81
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:36:51","Restart",859,81
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:36:53","SAFE2",860,81
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:36:57","AT2",861,82
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:36:58","SAFE2",862,82
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:37:02","AT2",863,82
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:37:06","POSSIBLE_TI",864,82
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:37:07","TI1",865,82
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:37:13","Restart",866,82
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:37:17","SAFE1",867,82
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:37:18","AT1",868,82
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:37:19","SAFE1",869,82
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:37:22","AT1",870,82
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:37:38","DANGER1",871,82
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:37:38","DAT1",872,82
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:37:42","GOAL1",873,82
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:38:17","Scorer",874,83
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:38:38","CONF_GOAL1",875,83
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:38:38","KO2",876,83
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:38:38","SAFE2",877,83
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:38:43","Player_DATA_CONFIRMED",878,83
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:38:43","Assist",879,83
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:38:44","AT2",880,83
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:38:47","SAFE1",881,83
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:38:48","AT1",882,83
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:38:51","DANGER1",883,83
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:38:51","DAT1",884,83
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:38:56","PCR1",885,84
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:38:57","CR1",886,84
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:38:58","Ball Position",887,84
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:39:26","Restart",888,84
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:39:46","SAFE2",889,84
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:39:53","POSSIBLE_TI",890,84
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:39:54","TI2",891,84
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:39:59","Restart",892,85
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:40:04","AT2",893,85
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:40:06","POSSIBLE_TI",894,85
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:40:06","TI2",895,85
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:40:10","Restart",896,85
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:40:10","SAFE2",897,85
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:40:40","AT2",898,85
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:40:45","DANGER2",899,85
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:40:45","DAT2",900,85
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:40:52","POSSIBLE_TI",901,85
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:40:55","TI2",902,85
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:41:11","SUB2",903,86
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:41:15","Restart",904,86
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:41:18","SAFE1",905,86
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:41:26","AT2",906,86
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:41:29","DANGER2",907,86
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:41:29","DAT2",908,86
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:41:53","SHB2",909,86
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:41:56","SAFE1",910,86
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:41:56","GK1",911,87
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:42:22","Restart",912,87
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:42:24","AT1",913,87
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:42:27","SAFE2",914,87
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:42:28","AT2",915,87
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:42:30","Possible Free Kick",916,87
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:42:36","F1",918,87
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:42:36","FK2",919,87
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:42:36","Ball Position",920,87
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:42:36","DANGER2",921,87
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:42:36","DFK2",922,87
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:42:43","Player_DATA_CONFIRMED",923,87
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:43:00","Restart",924,88
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:43:28","SHB2",925,88
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:43:30","SAFE1",926,88
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:43:31","GK1",927,88
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:43:58","Restart",928,89
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:44:00","AT1",929,89
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:44:03","Possible Free Kick",930,89
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:44:07","F2",932,89
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:44:07","FK1",933,89
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:44:07","Ball Position",934,89
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:44:07","DANGER1",935,89
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:44:07","DFK1",936,89
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:44:17","Restart",937,89
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:44:28","Possible Free Kick",938,89
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:44:30","F2",940,89
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:44:30","FK1",941,89
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:44:30","DFK1",942,89
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:44:30","Ball Position",943,89
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:44:43","Restart",944,89
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:45:01","Possible Free Kick",945,90
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:45:23","SAFE2",947,90
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:45:23","F1",948,90
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:45:23","FK2",949,90
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:45:23","Ball Position",950,90
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:45:27","Restart",951,90
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:45:40","AT2",952,90
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:45:47","DANGER2",953,90
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:45:47","DAT2",954,90
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:45:52","SHB2",955,90
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:45:52","SAFE1",956,90
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:45:53","GK1",957,90
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:46:14","SUB1",958,91
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:46:25","Extra Time",959,91
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:46:28","Restart",960,91
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:46:30","AT1",961,91
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:46:40","POSSIBLE_TI",962,91
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:46:41","TI1",963,91
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:46:59","Restart",964,92
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:47:02","DANGER1",965,92
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:47:02","DAT1",966,92
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:47:09","SAFE2",967,92
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:47:12","AT2",968,92
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:47:20","DANGER2",969,92
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:47:20","DAT2",970,92
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:47:33","SAFE1",971,92
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:47:44","Player_DATA_CONFIRMED",972,92
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:47:50","AT1",973,92
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:47:55","SAFE2",974,92
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:48:18","AT2",975,93
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:48:25","SAFE2",976,93
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:48:28","AT2",977,93
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:48:33","Possible Free Kick",978,93
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:48:45","F1",980,93
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:48:45","FK2",981,93
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:48:45","Ball Position",982,93
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:48:45","DANGER2",983,93
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:48:45","DFK2",984,93
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:49:04","Restart",985,94
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:49:07","SAFE1",986,94
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:49:24","AT1",987,94
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:49:30","Stop RT2",988,94
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:49:30","Stop Game",989,94
+1213149,"Dijon FCO","Stade Rennais","11/23/2019 20:49:42","CONF_PERIOD_SCORE",990,93

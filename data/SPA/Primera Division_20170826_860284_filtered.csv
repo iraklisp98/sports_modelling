@@ -1,0 +1,901 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+860284,"Girona FC","Malaga CF","08/26/2017 16:22:33","Transmission Online",0,0
+860284,"Girona FC","Malaga CF","08/26/2017 16:22:41","GCC",1,0
+860284,"Girona FC","Malaga CF","08/26/2017 16:23:14","Jersey Changed",2,0
+860284,"Girona FC","Malaga CF","08/26/2017 16:23:14","Jersey Changed",3,0
+860284,"Girona FC","Malaga CF","08/26/2017 17:11:34","GCC",4,0
+860284,"Girona FC","Malaga CF","08/26/2017 17:11:38","Lineup changed",5,0
+860284,"Girona FC","Malaga CF","08/26/2017 18:01:26","Scout in Stadion",6,0
+860284,"Girona FC","Malaga CF","08/26/2017 18:01:26","GCC",7,0
+860284,"Girona FC","Malaga CF","08/26/2017 18:13:05","Players are coming out",8,0
+860284,"Girona FC","Malaga CF","08/26/2017 18:13:06","Players lined up",9,0
+860284,"Girona FC","Malaga CF","08/26/2017 18:13:24","Shake hands",10,0
+860284,"Girona FC","Malaga CF","08/26/2017 18:14:17","Photo taking",11,0
+860284,"Girona FC","Malaga CF","08/26/2017 18:14:49","Flip coin",12,0
+860284,"Girona FC","Malaga CF","08/26/2017 18:15:26","Game about to start",13,0
+860284,"Girona FC","Malaga CF","08/26/2017 18:15:53","Start RT1 Team 2",14,1
+860284,"Girona FC","Malaga CF","08/26/2017 18:16:41","AT2",15,1
+860284,"Girona FC","Malaga CF","08/26/2017 18:16:49","SAFE1",16,1
+860284,"Girona FC","Malaga CF","08/26/2017 18:17:17","AT1",17,2
+860284,"Girona FC","Malaga CF","08/26/2017 18:17:22","DANGER1",18,2
+860284,"Girona FC","Malaga CF","08/26/2017 18:17:22","DAT1",19,2
+860284,"Girona FC","Malaga CF","08/26/2017 18:17:29","POSSIBLE_TI",20,2
+860284,"Girona FC","Malaga CF","08/26/2017 18:17:33","NO_TI",21,2
+860284,"Girona FC","Malaga CF","08/26/2017 18:17:35","Possible Free Kick",22,2
+860284,"Girona FC","Malaga CF","08/26/2017 18:17:39","F2",24,2
+860284,"Girona FC","Malaga CF","08/26/2017 18:17:39","FK1",25,2
+860284,"Girona FC","Malaga CF","08/26/2017 18:17:39","DFK1",26,2
+860284,"Girona FC","Malaga CF","08/26/2017 18:17:39","Ball Position",27,2
+860284,"Girona FC","Malaga CF","08/26/2017 18:18:03","Restart",28,3
+860284,"Girona FC","Malaga CF","08/26/2017 18:18:13","POSSIBLE_TI",29,3
+860284,"Girona FC","Malaga CF","08/26/2017 18:18:20","TI1",30,3
+860284,"Girona FC","Malaga CF","08/26/2017 18:18:27","Restart",31,3
+860284,"Girona FC","Malaga CF","08/26/2017 18:18:32","SAFE2",32,3
+860284,"Girona FC","Malaga CF","08/26/2017 18:18:46","SAFE1",33,3
+860284,"Girona FC","Malaga CF","08/26/2017 18:18:46","AT1",34,3
+860284,"Girona FC","Malaga CF","08/26/2017 18:18:50","DANGER1",35,3
+860284,"Girona FC","Malaga CF","08/26/2017 18:18:50","DAT1",36,3
+860284,"Girona FC","Malaga CF","08/26/2017 18:19:00","SAFE1",37,4
+860284,"Girona FC","Malaga CF","08/26/2017 18:19:06","AT1",38,4
+860284,"Girona FC","Malaga CF","08/26/2017 18:19:06","DANGER1",39,4
+860284,"Girona FC","Malaga CF","08/26/2017 18:19:06","DAT1",40,4
+860284,"Girona FC","Malaga CF","08/26/2017 18:19:12","POSSIBLE_TI",41,4
+860284,"Girona FC","Malaga CF","08/26/2017 18:19:14","TI1",42,4
+860284,"Girona FC","Malaga CF","08/26/2017 18:19:16","Restart",43,4
+860284,"Girona FC","Malaga CF","08/26/2017 18:19:22","SAFE2",44,4
+860284,"Girona FC","Malaga CF","08/26/2017 18:19:37","SAFE1",45,4
+860284,"Girona FC","Malaga CF","08/26/2017 18:19:59","SAFE2",46,5
+860284,"Girona FC","Malaga CF","08/26/2017 18:20:00","AT2",47,5
+860284,"Girona FC","Malaga CF","08/26/2017 18:20:01","DANGER2",48,5
+860284,"Girona FC","Malaga CF","08/26/2017 18:20:01","DAT2",49,5
+860284,"Girona FC","Malaga CF","08/26/2017 18:20:11","SAFE1",50,5
+860284,"Girona FC","Malaga CF","08/26/2017 18:20:45","AT1",51,5
+860284,"Girona FC","Malaga CF","08/26/2017 18:20:49","POSSIBLE_TI",52,5
+860284,"Girona FC","Malaga CF","08/26/2017 18:20:49","TI2",53,5
+860284,"Girona FC","Malaga CF","08/26/2017 18:20:50","SAFE2",54,5
+860284,"Girona FC","Malaga CF","08/26/2017 18:20:52","Restart",55,5
+860284,"Girona FC","Malaga CF","08/26/2017 18:20:55","AT1",56,6
+860284,"Girona FC","Malaga CF","08/26/2017 18:20:55","DANGER1",57,6
+860284,"Girona FC","Malaga CF","08/26/2017 18:20:55","DAT1",58,6
+860284,"Girona FC","Malaga CF","08/26/2017 18:20:58","SAFE2",59,6
+860284,"Girona FC","Malaga CF","08/26/2017 18:21:34","AT1",60,6
+860284,"Girona FC","Malaga CF","08/26/2017 18:21:34","DANGER1",61,6
+860284,"Girona FC","Malaga CF","08/26/2017 18:21:34","DAT1",62,6
+860284,"Girona FC","Malaga CF","08/26/2017 18:21:41","PCR1",63,6
+860284,"Girona FC","Malaga CF","08/26/2017 18:21:50","NCR1",64,6
+860284,"Girona FC","Malaga CF","08/26/2017 18:21:51","POSSIBLE_TI",65,6
+860284,"Girona FC","Malaga CF","08/26/2017 18:21:52","TI1",66,6
+860284,"Girona FC","Malaga CF","08/26/2017 18:21:54","Restart",67,7
+860284,"Girona FC","Malaga CF","08/26/2017 18:22:01","Possible Free Kick",68,7
+860284,"Girona FC","Malaga CF","08/26/2017 18:22:04","SAFE2",70,7
+860284,"Girona FC","Malaga CF","08/26/2017 18:22:04","O1",71,7
+860284,"Girona FC","Malaga CF","08/26/2017 18:22:04","FK2",72,7
+860284,"Girona FC","Malaga CF","08/26/2017 18:22:04","Ball Position",73,7
+860284,"Girona FC","Malaga CF","08/26/2017 18:22:21","Restart",74,7
+860284,"Girona FC","Malaga CF","08/26/2017 18:22:29","POSSIBLE_TI",75,7
+860284,"Girona FC","Malaga CF","08/26/2017 18:22:33","TI1",76,7
+860284,"Girona FC","Malaga CF","08/26/2017 18:22:36","Restart",77,7
+860284,"Girona FC","Malaga CF","08/26/2017 18:22:37","AT1",78,7
+860284,"Girona FC","Malaga CF","08/26/2017 18:22:38","DANGER1",79,7
+860284,"Girona FC","Malaga CF","08/26/2017 18:22:38","DAT1",80,7
+860284,"Girona FC","Malaga CF","08/26/2017 18:22:42","SAFE2",81,7
+860284,"Girona FC","Malaga CF","08/26/2017 18:22:57","AT2",82,8
+860284,"Girona FC","Malaga CF","08/26/2017 18:22:59","DANGER2",83,8
+860284,"Girona FC","Malaga CF","08/26/2017 18:22:59","DAT2",84,8
+860284,"Girona FC","Malaga CF","08/26/2017 18:23:06","SAFE1",85,8
+860284,"Girona FC","Malaga CF","08/26/2017 18:23:08","GK1",86,8
+860284,"Girona FC","Malaga CF","08/26/2017 18:23:17","Restart",87,8
+860284,"Girona FC","Malaga CF","08/26/2017 18:23:24","AT2",88,8
+860284,"Girona FC","Malaga CF","08/26/2017 18:23:24","DANGER2",89,8
+860284,"Girona FC","Malaga CF","08/26/2017 18:23:24","DAT2",90,8
+860284,"Girona FC","Malaga CF","08/26/2017 18:23:34","SAFE1",91,8
+860284,"Girona FC","Malaga CF","08/26/2017 18:23:34","GK1",92,8
+860284,"Girona FC","Malaga CF","08/26/2017 18:24:00","Restart",93,9
+860284,"Girona FC","Malaga CF","08/26/2017 18:24:06","Possible Free Kick",94,9
+860284,"Girona FC","Malaga CF","08/26/2017 18:24:15","SAFE2",96,9
+860284,"Girona FC","Malaga CF","08/26/2017 18:24:16","F1",97,9
+860284,"Girona FC","Malaga CF","08/26/2017 18:24:16","FK2",98,9
+860284,"Girona FC","Malaga CF","08/26/2017 18:24:16","Ball Position",99,9
+860284,"Girona FC","Malaga CF","08/26/2017 18:24:19","Restart",100,9
+860284,"Girona FC","Malaga CF","08/26/2017 18:24:25","AT2",101,9
+860284,"Girona FC","Malaga CF","08/26/2017 18:24:38","SAFE1",102,9
+860284,"Girona FC","Malaga CF","08/26/2017 18:24:40","AT1",103,9
+860284,"Girona FC","Malaga CF","08/26/2017 18:24:41","DANGER1",104,9
+860284,"Girona FC","Malaga CF","08/26/2017 18:24:41","DAT1",105,9
+860284,"Girona FC","Malaga CF","08/26/2017 18:25:05","SHB1",106,10
+860284,"Girona FC","Malaga CF","08/26/2017 18:25:06","SAFE2",107,10
+860284,"Girona FC","Malaga CF","08/26/2017 18:25:06","GK2",108,10
+860284,"Girona FC","Malaga CF","08/26/2017 18:25:30","Restart",109,10
+860284,"Girona FC","Malaga CF","08/26/2017 18:25:39","SAFE1",110,10
+860284,"Girona FC","Malaga CF","08/26/2017 18:25:51","AT1",111,10
+860284,"Girona FC","Malaga CF","08/26/2017 18:25:53","DANGER1",112,11
+860284,"Girona FC","Malaga CF","08/26/2017 18:25:53","DAT1",113,11
+860284,"Girona FC","Malaga CF","08/26/2017 18:26:13","Possible Free Kick",114,11
+860284,"Girona FC","Malaga CF","08/26/2017 18:26:18","F2",116,11
+860284,"Girona FC","Malaga CF","08/26/2017 18:26:18","FK1",117,11
+860284,"Girona FC","Malaga CF","08/26/2017 18:26:18","DFK1",118,11
+860284,"Girona FC","Malaga CF","08/26/2017 18:26:18","Ball Position",119,11
+860284,"Girona FC","Malaga CF","08/26/2017 18:26:50","Restart",120,11
+860284,"Girona FC","Malaga CF","08/26/2017 18:26:54","SHB1",121,12
+860284,"Girona FC","Malaga CF","08/26/2017 18:26:56","SAFE2",122,12
+860284,"Girona FC","Malaga CF","08/26/2017 18:26:57","GK2",123,12
+860284,"Girona FC","Malaga CF","08/26/2017 18:27:18","Restart",124,12
+860284,"Girona FC","Malaga CF","08/26/2017 18:27:25","Possible Free Kick",125,12
+860284,"Girona FC","Malaga CF","08/26/2017 18:27:29","F1",127,12
+860284,"Girona FC","Malaga CF","08/26/2017 18:27:29","FK2",128,12
+860284,"Girona FC","Malaga CF","08/26/2017 18:27:29","Ball Position",129,12
+860284,"Girona FC","Malaga CF","08/26/2017 18:27:36","Restart",130,12
+860284,"Girona FC","Malaga CF","08/26/2017 18:27:56","POSSIBLE_TI",131,13
+860284,"Girona FC","Malaga CF","08/26/2017 18:27:57","TI1",132,13
+860284,"Girona FC","Malaga CF","08/26/2017 18:27:58","SAFE1",133,13
+860284,"Girona FC","Malaga CF","08/26/2017 18:28:15","Restart",134,13
+860284,"Girona FC","Malaga CF","08/26/2017 18:28:20","Possible Free Kick",135,13
+860284,"Girona FC","Malaga CF","08/26/2017 18:28:22","F2",137,13
+860284,"Girona FC","Malaga CF","08/26/2017 18:28:22","FK1",138,13
+860284,"Girona FC","Malaga CF","08/26/2017 18:28:22","DANGER1",139,13
+860284,"Girona FC","Malaga CF","08/26/2017 18:28:22","DFK1",140,13
+860284,"Girona FC","Malaga CF","08/26/2017 18:28:22","Ball Position",141,13
+860284,"Girona FC","Malaga CF","08/26/2017 18:28:31","Restart",142,13
+860284,"Girona FC","Malaga CF","08/26/2017 18:28:33","SAFE1",143,13
+860284,"Girona FC","Malaga CF","08/26/2017 18:28:44","AT1",144,13
+860284,"Girona FC","Malaga CF","08/26/2017 18:28:52","DANGER1",145,13
+860284,"Girona FC","Malaga CF","08/26/2017 18:28:52","DAT1",146,13
+860284,"Girona FC","Malaga CF","08/26/2017 18:29:18","Possible Free Kick",147,14
+860284,"Girona FC","Malaga CF","08/26/2017 18:29:22","F2",149,14
+860284,"Girona FC","Malaga CF","08/26/2017 18:29:22","FK1",150,14
+860284,"Girona FC","Malaga CF","08/26/2017 18:29:22","DFK1",151,14
+860284,"Girona FC","Malaga CF","08/26/2017 18:29:22","Ball Position",152,14
+860284,"Girona FC","Malaga CF","08/26/2017 18:30:01","Restart",153,15
+860284,"Girona FC","Malaga CF","08/26/2017 18:30:08","PCR1",154,15
+860284,"Girona FC","Malaga CF","08/26/2017 18:30:12","CR1",155,15
+860284,"Girona FC","Malaga CF","08/26/2017 18:30:13","Ball Position",156,15
+860284,"Girona FC","Malaga CF","08/26/2017 18:30:35","Restart",157,15
+860284,"Girona FC","Malaga CF","08/26/2017 18:30:39","SHB1",158,15
+860284,"Girona FC","Malaga CF","08/26/2017 18:30:39","SAFE2",159,15
+860284,"Girona FC","Malaga CF","08/26/2017 18:30:41","GK2",160,15
+860284,"Girona FC","Malaga CF","08/26/2017 18:31:06","Restart",161,16
+860284,"Girona FC","Malaga CF","08/26/2017 18:31:11","AT1",162,16
+860284,"Girona FC","Malaga CF","08/26/2017 18:31:15","POSSIBLE_TI",163,16
+860284,"Girona FC","Malaga CF","08/26/2017 18:31:19","TI1",164,16
+860284,"Girona FC","Malaga CF","08/26/2017 18:31:28","DANGER1",165,16
+860284,"Girona FC","Malaga CF","08/26/2017 18:31:28","DAT1",166,16
+860284,"Girona FC","Malaga CF","08/26/2017 18:31:33","Restart",167,16
+860284,"Girona FC","Malaga CF","08/26/2017 18:31:35","SAFE1",168,16
+860284,"Girona FC","Malaga CF","08/26/2017 18:31:42","AT1",169,16
+860284,"Girona FC","Malaga CF","08/26/2017 18:31:45","DANGER1",170,16
+860284,"Girona FC","Malaga CF","08/26/2017 18:31:45","DAT1",171,16
+860284,"Girona FC","Malaga CF","08/26/2017 18:31:49","POSSIBLE_TI",172,16
+860284,"Girona FC","Malaga CF","08/26/2017 18:31:53","TI2",173,17
+860284,"Girona FC","Malaga CF","08/26/2017 18:31:53","SAFE2",174,17
+860284,"Girona FC","Malaga CF","08/26/2017 18:31:58","Restart",175,17
+860284,"Girona FC","Malaga CF","08/26/2017 18:32:13","POSSIBLE_TI",176,17
+860284,"Girona FC","Malaga CF","08/26/2017 18:32:14","TI1",177,17
+860284,"Girona FC","Malaga CF","08/26/2017 18:32:15","Restart",178,17
+860284,"Girona FC","Malaga CF","08/26/2017 18:32:16","AT1",179,17
+860284,"Girona FC","Malaga CF","08/26/2017 18:32:27","SAFE1",180,17
+860284,"Girona FC","Malaga CF","08/26/2017 18:32:34","AT1",181,17
+860284,"Girona FC","Malaga CF","08/26/2017 18:32:34","DANGER1",182,17
+860284,"Girona FC","Malaga CF","08/26/2017 18:32:34","DAT1",183,17
+860284,"Girona FC","Malaga CF","08/26/2017 18:32:43","POSSIBLE_TI",184,17
+860284,"Girona FC","Malaga CF","08/26/2017 18:32:44","TI1",185,17
+860284,"Girona FC","Malaga CF","08/26/2017 18:32:56","Restart",186,18
+860284,"Girona FC","Malaga CF","08/26/2017 18:32:59","SAFE1",187,18
+860284,"Girona FC","Malaga CF","08/26/2017 18:33:01","AT1",188,18
+860284,"Girona FC","Malaga CF","08/26/2017 18:33:16","POSSIBLE_TI",189,18
+860284,"Girona FC","Malaga CF","08/26/2017 18:33:17","TI1",190,18
+860284,"Girona FC","Malaga CF","08/26/2017 18:33:22","Restart",191,18
+860284,"Girona FC","Malaga CF","08/26/2017 18:33:32","POSSIBLE_TI",192,18
+860284,"Girona FC","Malaga CF","08/26/2017 18:33:34","TI2",193,18
+860284,"Girona FC","Malaga CF","08/26/2017 18:33:35","SAFE2",194,18
+860284,"Girona FC","Malaga CF","08/26/2017 18:33:42","Restart",195,18
+860284,"Girona FC","Malaga CF","08/26/2017 18:34:01","SAFE1",196,19
+860284,"Girona FC","Malaga CF","08/26/2017 18:34:09","POSSIBLE_TI",197,19
+860284,"Girona FC","Malaga CF","08/26/2017 18:34:11","TI1",198,19
+860284,"Girona FC","Malaga CF","08/26/2017 18:34:16","Restart",199,19
+860284,"Girona FC","Malaga CF","08/26/2017 18:34:24","SAFE2",200,19
+860284,"Girona FC","Malaga CF","08/26/2017 18:34:27","SAFE1",201,19
+860284,"Girona FC","Malaga CF","08/26/2017 18:34:30","AT1",202,19
+860284,"Girona FC","Malaga CF","08/26/2017 18:34:34","SAFE1",203,19
+860284,"Girona FC","Malaga CF","08/26/2017 18:34:41","AT1",204,19
+860284,"Girona FC","Malaga CF","08/26/2017 18:34:52","DANGER1",205,19
+860284,"Girona FC","Malaga CF","08/26/2017 18:34:52","DAT1",206,19
+860284,"Girona FC","Malaga CF","08/26/2017 18:35:02","PCR1",207,20
+860284,"Girona FC","Malaga CF","08/26/2017 18:35:06","CR1",208,20
+860284,"Girona FC","Malaga CF","08/26/2017 18:35:08","Ball Position",209,20
+860284,"Girona FC","Malaga CF","08/26/2017 18:35:38","Restart",210,20
+860284,"Girona FC","Malaga CF","08/26/2017 18:35:46","SAFE2",211,20
+860284,"Girona FC","Malaga CF","08/26/2017 18:35:49","AT2",212,20
+860284,"Girona FC","Malaga CF","08/26/2017 18:35:53","DANGER2",213,21
+860284,"Girona FC","Malaga CF","08/26/2017 18:35:53","DAT2",214,21
+860284,"Girona FC","Malaga CF","08/26/2017 18:35:59","Possible Free Kick",215,21
+860284,"Girona FC","Malaga CF","08/26/2017 18:36:10","SAFE1",217,21
+860284,"Girona FC","Malaga CF","08/26/2017 18:36:10","F2",218,21
+860284,"Girona FC","Malaga CF","08/26/2017 18:36:10","FK1",219,21
+860284,"Girona FC","Malaga CF","08/26/2017 18:36:10","Ball Position",220,21
+860284,"Girona FC","Malaga CF","08/26/2017 18:36:27","Restart",221,21
+860284,"Girona FC","Malaga CF","08/26/2017 18:36:35","AT1",222,21
+860284,"Girona FC","Malaga CF","08/26/2017 18:36:37","DANGER1",223,21
+860284,"Girona FC","Malaga CF","08/26/2017 18:36:37","DAT1",224,21
+860284,"Girona FC","Malaga CF","08/26/2017 18:36:52","SAFE2",225,21
+860284,"Girona FC","Malaga CF","08/26/2017 18:36:57","AT1",226,22
+860284,"Girona FC","Malaga CF","08/26/2017 18:36:57","DANGER1",227,22
+860284,"Girona FC","Malaga CF","08/26/2017 18:36:57","DAT1",228,22
+860284,"Girona FC","Malaga CF","08/26/2017 18:37:04","Possible Free Kick",229,22
+860284,"Girona FC","Malaga CF","08/26/2017 18:37:15","POSSIBLE_CARDS",231,22
+860284,"Girona FC","Malaga CF","08/26/2017 18:37:16","YC1",232,22
+860284,"Girona FC","Malaga CF","08/26/2017 18:37:22","CONF_YC1",233,22
+860284,"Girona FC","Malaga CF","08/26/2017 18:37:25","Scorer",234,22
+860284,"Girona FC","Malaga CF","08/26/2017 18:37:27","SAFE2",235,22
+860284,"Girona FC","Malaga CF","08/26/2017 18:37:27","F1",236,22
+860284,"Girona FC","Malaga CF","08/26/2017 18:37:27","FK2",237,22
+860284,"Girona FC","Malaga CF","08/26/2017 18:37:27","Ball Position",238,22
+860284,"Girona FC","Malaga CF","08/26/2017 18:37:44","Restart",239,22
+860284,"Girona FC","Malaga CF","08/26/2017 18:37:58","AT2",240,23
+860284,"Girona FC","Malaga CF","08/26/2017 18:38:15","Player_DATA_CONFIRMED",241,23
+860284,"Girona FC","Malaga CF","08/26/2017 18:38:16","DANGER2",242,23
+860284,"Girona FC","Malaga CF","08/26/2017 18:38:16","DAT2",243,23
+860284,"Girona FC","Malaga CF","08/26/2017 18:38:23","SAFE1",244,23
+860284,"Girona FC","Malaga CF","08/26/2017 18:38:57","AT1",245,24
+860284,"Girona FC","Malaga CF","08/26/2017 18:38:57","DANGER1",246,24
+860284,"Girona FC","Malaga CF","08/26/2017 18:38:57","DAT1",247,24
+860284,"Girona FC","Malaga CF","08/26/2017 18:39:06","SAFE2",248,24
+860284,"Girona FC","Malaga CF","08/26/2017 18:39:12","SAFE1",249,24
+860284,"Girona FC","Malaga CF","08/26/2017 18:39:14","AT1",250,24
+860284,"Girona FC","Malaga CF","08/26/2017 18:39:19","DANGER1",251,24
+860284,"Girona FC","Malaga CF","08/26/2017 18:39:19","DAT1",252,24
+860284,"Girona FC","Malaga CF","08/26/2017 18:39:22","BLOCKED1",253,24
+860284,"Girona FC","Malaga CF","08/26/2017 18:39:33","SAFE1",254,24
+860284,"Girona FC","Malaga CF","08/26/2017 18:39:37","AT1",255,24
+860284,"Girona FC","Malaga CF","08/26/2017 18:39:40","DANGER1",256,24
+860284,"Girona FC","Malaga CF","08/26/2017 18:39:40","DAT1",257,24
+860284,"Girona FC","Malaga CF","08/26/2017 18:39:46","SHB1",258,24
+860284,"Girona FC","Malaga CF","08/26/2017 18:39:47","SAFE2",259,24
+860284,"Girona FC","Malaga CF","08/26/2017 18:39:48","GK2",260,24
+860284,"Girona FC","Malaga CF","08/26/2017 18:40:13","Restart",261,25
+860284,"Girona FC","Malaga CF","08/26/2017 18:40:22","POSSIBLE_TI",262,25
+860284,"Girona FC","Malaga CF","08/26/2017 18:40:22","TI1",263,25
+860284,"Girona FC","Malaga CF","08/26/2017 18:40:35","Restart",264,25
+860284,"Girona FC","Malaga CF","08/26/2017 18:40:47","Possible Free Kick",265,25
+860284,"Girona FC","Malaga CF","08/26/2017 18:40:49","F1",267,25
+860284,"Girona FC","Malaga CF","08/26/2017 18:40:49","FK2",268,25
+860284,"Girona FC","Malaga CF","08/26/2017 18:40:49","Ball Position",269,25
+860284,"Girona FC","Malaga CF","08/26/2017 18:40:58","Restart",270,26
+860284,"Girona FC","Malaga CF","08/26/2017 18:40:58","AT2",271,26
+860284,"Girona FC","Malaga CF","08/26/2017 18:41:15","SAFE1",272,26
+860284,"Girona FC","Malaga CF","08/26/2017 18:41:23","SAFE2",273,26
+860284,"Girona FC","Malaga CF","08/26/2017 18:41:23","AT2",274,26
+860284,"Girona FC","Malaga CF","08/26/2017 18:41:25","SAFE1",275,26
+860284,"Girona FC","Malaga CF","08/26/2017 18:41:29","AT1",276,26
+860284,"Girona FC","Malaga CF","08/26/2017 18:41:33","DANGER1",277,26
+860284,"Girona FC","Malaga CF","08/26/2017 18:41:33","DAT1",278,26
+860284,"Girona FC","Malaga CF","08/26/2017 18:41:37","SAFE2",279,26
+860284,"Girona FC","Malaga CF","08/26/2017 18:41:52","AT2",280,26
+860284,"Girona FC","Malaga CF","08/26/2017 18:41:52","DANGER2",281,26
+860284,"Girona FC","Malaga CF","08/26/2017 18:41:52","DAT2",282,26
+860284,"Girona FC","Malaga CF","08/26/2017 18:41:58","SHG2",283,27
+860284,"Girona FC","Malaga CF","08/26/2017 18:41:59","SAFE1",284,27
+860284,"Girona FC","Malaga CF","08/26/2017 18:42:12","POSSIBLE_TI",285,27
+860284,"Girona FC","Malaga CF","08/26/2017 18:42:13","TI2",286,27
+860284,"Girona FC","Malaga CF","08/26/2017 18:42:16","Restart",287,27
+860284,"Girona FC","Malaga CF","08/26/2017 18:42:16","AT2",288,27
+860284,"Girona FC","Malaga CF","08/26/2017 18:42:27","DANGER2",289,27
+860284,"Girona FC","Malaga CF","08/26/2017 18:42:27","DAT2",290,27
+860284,"Girona FC","Malaga CF","08/26/2017 18:42:34","SAFE1",291,27
+860284,"Girona FC","Malaga CF","08/26/2017 18:42:47","Possible Free Kick",292,27
+860284,"Girona FC","Malaga CF","08/26/2017 18:42:50","F2",294,27
+860284,"Girona FC","Malaga CF","08/26/2017 18:42:50","FK1",295,27
+860284,"Girona FC","Malaga CF","08/26/2017 18:42:50","DANGER1",296,27
+860284,"Girona FC","Malaga CF","08/26/2017 18:42:50","DFK1",297,27
+860284,"Girona FC","Malaga CF","08/26/2017 18:42:50","Ball Position",298,27
+860284,"Girona FC","Malaga CF","08/26/2017 18:43:34","Restart",299,28
+860284,"Girona FC","Malaga CF","08/26/2017 18:43:41","GOAL1",300,28
+860284,"Girona FC","Malaga CF","08/26/2017 18:43:49","CONF_GOAL1",301,28
+860284,"Girona FC","Malaga CF","08/26/2017 18:44:19","Scorer",302,29
+860284,"Girona FC","Malaga CF","08/26/2017 18:44:42","KO2",303,29
+860284,"Girona FC","Malaga CF","08/26/2017 18:44:42","SAFE2",304,29
+860284,"Girona FC","Malaga CF","08/26/2017 18:44:47","AT2",305,29
+860284,"Girona FC","Malaga CF","08/26/2017 18:44:54","Player_DATA_CONFIRMED",306,30
+860284,"Girona FC","Malaga CF","08/26/2017 18:45:15","DANGER2",307,30
+860284,"Girona FC","Malaga CF","08/26/2017 18:45:15","DAT2",308,30
+860284,"Girona FC","Malaga CF","08/26/2017 18:45:20","SAFE1",309,30
+860284,"Girona FC","Malaga CF","08/26/2017 18:45:46","AT1",310,30
+860284,"Girona FC","Malaga CF","08/26/2017 18:45:49","DANGER1",311,30
+860284,"Girona FC","Malaga CF","08/26/2017 18:45:49","DAT1",312,30
+860284,"Girona FC","Malaga CF","08/26/2017 18:45:58","SHB1",313,31
+860284,"Girona FC","Malaga CF","08/26/2017 18:45:59","SAFE2",314,31
+860284,"Girona FC","Malaga CF","08/26/2017 18:45:59","GK2",315,31
+860284,"Girona FC","Malaga CF","08/26/2017 18:46:19","Restart",316,31
+860284,"Girona FC","Malaga CF","08/26/2017 18:46:31","SAFE1",317,31
+860284,"Girona FC","Malaga CF","08/26/2017 18:46:46","AT1",318,31
+860284,"Girona FC","Malaga CF","08/26/2017 18:46:46","DANGER1",319,31
+860284,"Girona FC","Malaga CF","08/26/2017 18:46:46","DAT1",320,31
+860284,"Girona FC","Malaga CF","08/26/2017 18:46:56","POSSIBLE_TI",321,32
+860284,"Girona FC","Malaga CF","08/26/2017 18:46:59","TI1",322,32
+860284,"Girona FC","Malaga CF","08/26/2017 18:47:13","Restart",323,32
+860284,"Girona FC","Malaga CF","08/26/2017 18:47:16","SAFE1",324,32
+860284,"Girona FC","Malaga CF","08/26/2017 18:47:19","AT1",325,32
+860284,"Girona FC","Malaga CF","08/26/2017 18:47:24","POSSIBLE_TI",326,32
+860284,"Girona FC","Malaga CF","08/26/2017 18:47:30","TI2",327,32
+860284,"Girona FC","Malaga CF","08/26/2017 18:47:31","SAFE2",328,32
+860284,"Girona FC","Malaga CF","08/26/2017 18:47:34","Restart",329,32
+860284,"Girona FC","Malaga CF","08/26/2017 18:47:39","SAFE1",330,32
+860284,"Girona FC","Malaga CF","08/26/2017 18:47:52","SAFE2",331,32
+860284,"Girona FC","Malaga CF","08/26/2017 18:48:18","AT2",332,33
+860284,"Girona FC","Malaga CF","08/26/2017 18:48:31","SAFE2",333,33
+860284,"Girona FC","Malaga CF","08/26/2017 18:48:39","AT2",334,33
+860284,"Girona FC","Malaga CF","08/26/2017 18:48:46","DANGER2",335,33
+860284,"Girona FC","Malaga CF","08/26/2017 18:48:46","DAT2",336,33
+860284,"Girona FC","Malaga CF","08/26/2017 18:48:48","SAFE1",337,33
+860284,"Girona FC","Malaga CF","08/26/2017 18:48:51","AT1",338,33
+860284,"Girona FC","Malaga CF","08/26/2017 18:48:51","DANGER1",339,33
+860284,"Girona FC","Malaga CF","08/26/2017 18:48:51","DAT1",340,33
+860284,"Girona FC","Malaga CF","08/26/2017 18:49:01","BLOCKED1",341,34
+860284,"Girona FC","Malaga CF","08/26/2017 18:49:06","POSSIBLE_TI",342,34
+860284,"Girona FC","Malaga CF","08/26/2017 18:49:07","TI2",343,34
+860284,"Girona FC","Malaga CF","08/26/2017 18:49:07","SAFE2",344,34
+860284,"Girona FC","Malaga CF","08/26/2017 18:49:27","Restart",345,34
+860284,"Girona FC","Malaga CF","08/26/2017 18:49:30","SAFE1",346,34
+860284,"Girona FC","Malaga CF","08/26/2017 18:49:39","AT1",347,34
+860284,"Girona FC","Malaga CF","08/26/2017 18:49:45","POSSIBLE_TI",348,34
+860284,"Girona FC","Malaga CF","08/26/2017 18:49:46","TI2",349,34
+860284,"Girona FC","Malaga CF","08/26/2017 18:49:47","SAFE2",350,34
+860284,"Girona FC","Malaga CF","08/26/2017 18:50:07","Restart",351,35
+860284,"Girona FC","Malaga CF","08/26/2017 18:50:10","SAFE1",352,35
+860284,"Girona FC","Malaga CF","08/26/2017 18:50:13","AT1",353,35
+860284,"Girona FC","Malaga CF","08/26/2017 18:50:37","POSSIBLE_TI",354,35
+860284,"Girona FC","Malaga CF","08/26/2017 18:50:39","TI1",355,35
+860284,"Girona FC","Malaga CF","08/26/2017 18:50:45","Restart",356,35
+860284,"Girona FC","Malaga CF","08/26/2017 18:50:48","SAFE1",357,35
+860284,"Girona FC","Malaga CF","08/26/2017 18:50:50","AT1",358,35
+860284,"Girona FC","Malaga CF","08/26/2017 18:50:54","POSSIBLE_TI",359,36
+860284,"Girona FC","Malaga CF","08/26/2017 18:50:54","TI2",360,36
+860284,"Girona FC","Malaga CF","08/26/2017 18:50:55","SAFE2",361,36
+860284,"Girona FC","Malaga CF","08/26/2017 18:51:10","Restart",362,36
+860284,"Girona FC","Malaga CF","08/26/2017 18:51:14","POSSIBLE_TI",363,36
+860284,"Girona FC","Malaga CF","08/26/2017 18:51:18","TI2",364,36
+860284,"Girona FC","Malaga CF","08/26/2017 18:51:22","Restart",365,36
+860284,"Girona FC","Malaga CF","08/26/2017 18:51:22","AT2",366,36
+860284,"Girona FC","Malaga CF","08/26/2017 18:51:45","DANGER2",367,36
+860284,"Girona FC","Malaga CF","08/26/2017 18:51:45","DAT2",368,36
+860284,"Girona FC","Malaga CF","08/26/2017 18:51:55","SAFE1",369,37
+860284,"Girona FC","Malaga CF","08/26/2017 18:51:58","SAFE2",370,37
+860284,"Girona FC","Malaga CF","08/26/2017 18:52:07","AT2",371,37
+860284,"Girona FC","Malaga CF","08/26/2017 18:52:34","SAFE2",372,37
+860284,"Girona FC","Malaga CF","08/26/2017 18:52:37","AT2",373,37
+860284,"Girona FC","Malaga CF","08/26/2017 18:52:51","DANGER2",374,37
+860284,"Girona FC","Malaga CF","08/26/2017 18:52:51","DAT2",375,37
+860284,"Girona FC","Malaga CF","08/26/2017 18:53:08","SHB2",376,38
+860284,"Girona FC","Malaga CF","08/26/2017 18:53:09","SAFE1",377,38
+860284,"Girona FC","Malaga CF","08/26/2017 18:53:10","GK1",378,38
+860284,"Girona FC","Malaga CF","08/26/2017 18:53:34","Restart",379,38
+860284,"Girona FC","Malaga CF","08/26/2017 18:53:42","SAFE2",380,38
+860284,"Girona FC","Malaga CF","08/26/2017 18:53:57","SAFE1",381,39
+860284,"Girona FC","Malaga CF","08/26/2017 18:54:00","Possible Free Kick",382,39
+860284,"Girona FC","Malaga CF","08/26/2017 18:54:03","F2",384,39
+860284,"Girona FC","Malaga CF","08/26/2017 18:54:03","FK1",385,39
+860284,"Girona FC","Malaga CF","08/26/2017 18:54:03","DANGER1",386,39
+860284,"Girona FC","Malaga CF","08/26/2017 18:54:03","DFK1",387,39
+860284,"Girona FC","Malaga CF","08/26/2017 18:54:03","Ball Position",388,39
+860284,"Girona FC","Malaga CF","08/26/2017 18:54:27","Restart",389,39
+860284,"Girona FC","Malaga CF","08/26/2017 18:54:33","SAFE2",390,39
+860284,"Girona FC","Malaga CF","08/26/2017 18:54:34","GK2",391,39
+860284,"Girona FC","Malaga CF","08/26/2017 18:54:54","Restart",392,40
+860284,"Girona FC","Malaga CF","08/26/2017 18:55:01","AT2",393,40
+860284,"Girona FC","Malaga CF","08/26/2017 18:55:11","DANGER2",394,40
+860284,"Girona FC","Malaga CF","08/26/2017 18:55:11","DAT2",395,40
+860284,"Girona FC","Malaga CF","08/26/2017 18:55:25","SAFE1",396,40
+860284,"Girona FC","Malaga CF","08/26/2017 18:55:46","SAFE2",397,40
+860284,"Girona FC","Malaga CF","08/26/2017 18:55:50","POSSIBLE_TI",398,40
+860284,"Girona FC","Malaga CF","08/26/2017 18:55:54","TI1",399,41
+860284,"Girona FC","Malaga CF","08/26/2017 18:56:04","Restart",400,41
+860284,"Girona FC","Malaga CF","08/26/2017 18:56:07","SAFE1",401,41
+860284,"Girona FC","Malaga CF","08/26/2017 18:56:19","POSSIBLE_TI",402,41
+860284,"Girona FC","Malaga CF","08/26/2017 18:56:22","TI2",403,41
+860284,"Girona FC","Malaga CF","08/26/2017 18:56:29","Restart",404,41
+860284,"Girona FC","Malaga CF","08/26/2017 18:56:38","AT2",405,41
+860284,"Girona FC","Malaga CF","08/26/2017 18:56:39","DANGER2",406,41
+860284,"Girona FC","Malaga CF","08/26/2017 18:56:39","DAT2",407,41
+860284,"Girona FC","Malaga CF","08/26/2017 18:56:45","SAFE1",408,41
+860284,"Girona FC","Malaga CF","08/26/2017 18:57:09","AT1",409,42
+860284,"Girona FC","Malaga CF","08/26/2017 18:57:09","DANGER1",410,42
+860284,"Girona FC","Malaga CF","08/26/2017 18:57:09","DAT1",411,42
+860284,"Girona FC","Malaga CF","08/26/2017 18:57:13","POSSIBLE_TI",412,42
+860284,"Girona FC","Malaga CF","08/26/2017 18:57:13","TI2",413,42
+860284,"Girona FC","Malaga CF","08/26/2017 18:57:14","SAFE2",414,42
+860284,"Girona FC","Malaga CF","08/26/2017 18:57:21","Restart",415,42
+860284,"Girona FC","Malaga CF","08/26/2017 18:57:32","AT2",416,42
+860284,"Girona FC","Malaga CF","08/26/2017 18:57:39","DANGER2",417,42
+860284,"Girona FC","Malaga CF","08/26/2017 18:57:39","DAT2",418,42
+860284,"Girona FC","Malaga CF","08/26/2017 18:57:46","PCR2",419,42
+860284,"Girona FC","Malaga CF","08/26/2017 18:57:48","SHG2",420,42
+860284,"Girona FC","Malaga CF","08/26/2017 18:57:53","CR2",421,43
+860284,"Girona FC","Malaga CF","08/26/2017 18:57:55","Ball Position",422,43
+860284,"Girona FC","Malaga CF","08/26/2017 18:58:24","Restart",423,43
+860284,"Girona FC","Malaga CF","08/26/2017 18:58:30","SAFE1",424,43
+860284,"Girona FC","Malaga CF","08/26/2017 18:58:32","GK1",425,43
+860284,"Girona FC","Malaga CF","08/26/2017 18:58:55","Restart",426,44
+860284,"Girona FC","Malaga CF","08/26/2017 18:59:03","AT2",427,44
+860284,"Girona FC","Malaga CF","08/26/2017 18:59:24","SAFE2",428,44
+860284,"Girona FC","Malaga CF","08/26/2017 18:59:46","AT2",429,44
+860284,"Girona FC","Malaga CF","08/26/2017 18:59:46","DANGER2",430,44
+860284,"Girona FC","Malaga CF","08/26/2017 18:59:46","DAT2",431,44
+860284,"Girona FC","Malaga CF","08/26/2017 18:59:59","SHB2",432,45
+860284,"Girona FC","Malaga CF","08/26/2017 19:00:00","SAFE1",433,45
+860284,"Girona FC","Malaga CF","08/26/2017 19:00:01","GK1",434,45
+860284,"Girona FC","Malaga CF","08/26/2017 19:00:26","Restart",435,45
+860284,"Girona FC","Malaga CF","08/26/2017 19:00:38","Possible Free Kick",436,45
+860284,"Girona FC","Malaga CF","08/26/2017 19:00:41","SAFE2",438,45
+860284,"Girona FC","Malaga CF","08/26/2017 19:00:41","F1",439,45
+860284,"Girona FC","Malaga CF","08/26/2017 19:00:41","FK2",440,45
+860284,"Girona FC","Malaga CF","08/26/2017 19:00:41","Ball Position",441,45
+860284,"Girona FC","Malaga CF","08/26/2017 19:00:49","Restart",442,45
+860284,"Girona FC","Malaga CF","08/26/2017 19:00:50","AT2",443,45
+860284,"Girona FC","Malaga CF","08/26/2017 19:00:50","DANGER2",444,45
+860284,"Girona FC","Malaga CF","08/26/2017 19:00:50","DAT2",445,45
+860284,"Girona FC","Malaga CF","08/26/2017 19:01:02","Stop RT1",446,45
+860284,"Girona FC","Malaga CF","08/26/2017 19:01:09","CONF_PERIOD_SCORE",447,45
+860284,"Girona FC","Malaga CF","08/26/2017 19:15:49","Players are coming out",448,45
+860284,"Girona FC","Malaga CF","08/26/2017 19:16:21","Game about to start",449,45
+860284,"Girona FC","Malaga CF","08/26/2017 19:16:46","Start RT2 Team 1",450,46
+860284,"Girona FC","Malaga CF","08/26/2017 19:16:53","AT1",451,46
+860284,"Girona FC","Malaga CF","08/26/2017 19:16:59","Possible Free Kick",452,46
+860284,"Girona FC","Malaga CF","08/26/2017 19:17:03","F2",454,46
+860284,"Girona FC","Malaga CF","08/26/2017 19:17:03","FK1",455,46
+860284,"Girona FC","Malaga CF","08/26/2017 19:17:03","DANGER1",456,46
+860284,"Girona FC","Malaga CF","08/26/2017 19:17:03","DFK1",457,46
+860284,"Girona FC","Malaga CF","08/26/2017 19:17:03","Ball Position",458,46
+860284,"Girona FC","Malaga CF","08/26/2017 19:17:32","Restart",459,46
+860284,"Girona FC","Malaga CF","08/26/2017 19:17:38","SAFE2",460,46
+860284,"Girona FC","Malaga CF","08/26/2017 19:17:39","GK2",461,46
+860284,"Girona FC","Malaga CF","08/26/2017 19:17:59","SUB1",462,47
+860284,"Girona FC","Malaga CF","08/26/2017 19:18:08","CLS",463,47
+860284,"Girona FC","Malaga CF","08/26/2017 19:18:24","SUB2",464,47
+860284,"Girona FC","Malaga CF","08/26/2017 19:18:27","Restart",465,47
+860284,"Girona FC","Malaga CF","08/26/2017 19:18:32","Possible Free Kick",466,47
+860284,"Girona FC","Malaga CF","08/26/2017 19:18:33","F2",468,47
+860284,"Girona FC","Malaga CF","08/26/2017 19:18:33","FK1",469,47
+860284,"Girona FC","Malaga CF","08/26/2017 19:18:33","DANGER1",470,47
+860284,"Girona FC","Malaga CF","08/26/2017 19:18:33","DFK1",471,47
+860284,"Girona FC","Malaga CF","08/26/2017 19:18:33","Ball Position",472,47
+860284,"Girona FC","Malaga CF","08/26/2017 19:18:36","Restart",473,47
+860284,"Girona FC","Malaga CF","08/26/2017 19:18:38","SAFE1",474,47
+860284,"Girona FC","Malaga CF","08/26/2017 19:18:49","Possible Free Kick",475,48
+860284,"Girona FC","Malaga CF","08/26/2017 19:18:51","SAFE2",477,48
+860284,"Girona FC","Malaga CF","08/26/2017 19:18:51","F1",478,48
+860284,"Girona FC","Malaga CF","08/26/2017 19:18:51","FK2",479,48
+860284,"Girona FC","Malaga CF","08/26/2017 19:18:51","Ball Position",480,48
+860284,"Girona FC","Malaga CF","08/26/2017 19:18:52","Restart",481,48
+860284,"Girona FC","Malaga CF","08/26/2017 19:18:53","AT2",482,48
+860284,"Girona FC","Malaga CF","08/26/2017 19:18:54","SUB_UPDATE",483,48
+860284,"Girona FC","Malaga CF","08/26/2017 19:18:54","Player_DATA_CONFIRMED",484,48
+860284,"Girona FC","Malaga CF","08/26/2017 19:18:59","SAFE1",485,48
+860284,"Girona FC","Malaga CF","08/26/2017 19:19:01","SAFE2",486,48
+860284,"Girona FC","Malaga CF","08/26/2017 19:19:12","AT1",487,48
+860284,"Girona FC","Malaga CF","08/26/2017 19:19:12","DANGER1",488,48
+860284,"Girona FC","Malaga CF","08/26/2017 19:19:12","DAT1",489,48
+860284,"Girona FC","Malaga CF","08/26/2017 19:19:22","SHB1",490,48
+860284,"Girona FC","Malaga CF","08/26/2017 19:19:23","SAFE2",491,48
+860284,"Girona FC","Malaga CF","08/26/2017 19:19:24","GK2",492,48
+860284,"Girona FC","Malaga CF","08/26/2017 19:19:47","Restart",493,49
+860284,"Girona FC","Malaga CF","08/26/2017 19:19:54","AT2",494,49
+860284,"Girona FC","Malaga CF","08/26/2017 19:19:59","DANGER2",495,49
+860284,"Girona FC","Malaga CF","08/26/2017 19:19:59","DAT2",496,49
+860284,"Girona FC","Malaga CF","08/26/2017 19:20:04","SAFE1",497,49
+860284,"Girona FC","Malaga CF","08/26/2017 19:20:15","Possible Free Kick",498,49
+860284,"Girona FC","Malaga CF","08/26/2017 19:20:18","F2",500,49
+860284,"Girona FC","Malaga CF","08/26/2017 19:20:18","FK1",501,49
+860284,"Girona FC","Malaga CF","08/26/2017 19:20:18","Ball Position",502,49
+860284,"Girona FC","Malaga CF","08/26/2017 19:20:46","Restart",503,50
+860284,"Girona FC","Malaga CF","08/26/2017 19:20:54","AT1",504,50
+860284,"Girona FC","Malaga CF","08/26/2017 19:20:54","DANGER1",505,50
+860284,"Girona FC","Malaga CF","08/26/2017 19:20:54","DAT1",506,50
+860284,"Girona FC","Malaga CF","08/26/2017 19:20:58","SAFE2",507,50
+860284,"Girona FC","Malaga CF","08/26/2017 19:21:10","AT2",508,50
+860284,"Girona FC","Malaga CF","08/26/2017 19:21:42","DANGER2",509,50
+860284,"Girona FC","Malaga CF","08/26/2017 19:21:42","DAT2",510,50
+860284,"Girona FC","Malaga CF","08/26/2017 19:21:52","SAFE1",511,51
+860284,"Girona FC","Malaga CF","08/26/2017 19:22:11","Possible Free Kick",512,51
+860284,"Girona FC","Malaga CF","08/26/2017 19:22:12","F2",514,51
+860284,"Girona FC","Malaga CF","08/26/2017 19:22:12","FK1",515,51
+860284,"Girona FC","Malaga CF","08/26/2017 19:22:12","Ball Position",516,51
+860284,"Girona FC","Malaga CF","08/26/2017 19:22:30","Restart",517,51
+860284,"Girona FC","Malaga CF","08/26/2017 19:22:32","AT1",518,51
+860284,"Girona FC","Malaga CF","08/26/2017 19:22:32","DANGER1",519,51
+860284,"Girona FC","Malaga CF","08/26/2017 19:22:32","DAT1",520,51
+860284,"Girona FC","Malaga CF","08/26/2017 19:22:52","SHG1",521,52
+860284,"Girona FC","Malaga CF","08/26/2017 19:22:52","SAFE2",522,52
+860284,"Girona FC","Malaga CF","08/26/2017 19:23:05","Injury Break",523,52
+860284,"Girona FC","Malaga CF","08/26/2017 19:24:12","POSSIBLE_TI",524,53
+860284,"Girona FC","Malaga CF","08/26/2017 19:24:14","Restart",525,53
+860284,"Girona FC","Malaga CF","08/26/2017 19:24:14","TI1",526,53
+860284,"Girona FC","Malaga CF","08/26/2017 19:24:16","Restart",527,53
+860284,"Girona FC","Malaga CF","08/26/2017 19:24:17","SAFE2",528,53
+860284,"Girona FC","Malaga CF","08/26/2017 19:24:46","AT2",529,54
+860284,"Girona FC","Malaga CF","08/26/2017 19:24:56","POSSIBLE_TI",530,54
+860284,"Girona FC","Malaga CF","08/26/2017 19:25:01","TI1",531,54
+860284,"Girona FC","Malaga CF","08/26/2017 19:25:13","SUB2",532,54
+860284,"Girona FC","Malaga CF","08/26/2017 19:25:16","SAFE1",533,54
+860284,"Girona FC","Malaga CF","08/26/2017 19:25:22","Restart",534,54
+860284,"Girona FC","Malaga CF","08/26/2017 19:25:28","SAFE2",535,54
+860284,"Girona FC","Malaga CF","08/26/2017 19:25:44","AT2",536,54
+860284,"Girona FC","Malaga CF","08/26/2017 19:25:50","Possible Free Kick",537,55
+860284,"Girona FC","Malaga CF","08/26/2017 19:26:12","POSSIBLE_CARDS",539,55
+860284,"Girona FC","Malaga CF","08/26/2017 19:26:13","PRC",540,55
+860284,"Girona FC","Malaga CF","08/26/2017 19:26:13","Danger",541,55
+860284,"Girona FC","Malaga CF","08/26/2017 19:26:29","YC1",542,55
+860284,"Girona FC","Malaga CF","08/26/2017 19:26:32","CONF_YC1",543,55
+860284,"Girona FC","Malaga CF","08/26/2017 19:26:36","Scorer",544,55
+860284,"Girona FC","Malaga CF","08/26/2017 19:26:51","No RC",545,56
+860284,"Girona FC","Malaga CF","08/26/2017 19:26:55","POSSIBLE_CARDS",546,56
+860284,"Girona FC","Malaga CF","08/26/2017 19:26:56","YC2",547,56
+860284,"Girona FC","Malaga CF","08/26/2017 19:27:06","CYC2",548,56
+860284,"Girona FC","Malaga CF","08/26/2017 19:27:07","YC1",549,56
+860284,"Girona FC","Malaga CF","08/26/2017 19:27:15","CONF_YC1",550,56
+860284,"Girona FC","Malaga CF","08/26/2017 19:27:20","Scorer",551,56
+860284,"Girona FC","Malaga CF","08/26/2017 19:27:24","F1",553,56
+860284,"Girona FC","Malaga CF","08/26/2017 19:27:24","FK2",554,56
+860284,"Girona FC","Malaga CF","08/26/2017 19:27:24","DFK2",555,56
+860284,"Girona FC","Malaga CF","08/26/2017 19:27:24","Ball Position",556,56
+860284,"Girona FC","Malaga CF","08/26/2017 19:27:25","Player_DATA_CONFIRMED",557,56
+860284,"Girona FC","Malaga CF","08/26/2017 19:27:55","Restart",558,57
+860284,"Girona FC","Malaga CF","08/26/2017 19:27:58","SAFE2",559,57
+860284,"Girona FC","Malaga CF","08/26/2017 19:28:27","System Message",560,57
+860284,"Girona FC","Malaga CF","08/26/2017 19:28:30","SAFE1",561,57
+860284,"Girona FC","Malaga CF","08/26/2017 19:28:30","AT1",562,57
+860284,"Girona FC","Malaga CF","08/26/2017 19:28:34","DANGER1",563,57
+860284,"Girona FC","Malaga CF","08/26/2017 19:28:34","DAT1",564,57
+860284,"Girona FC","Malaga CF","08/26/2017 19:28:44","System Message",565,57
+860284,"Girona FC","Malaga CF","08/26/2017 19:28:55","SAFE1",566,58
+860284,"Girona FC","Malaga CF","08/26/2017 19:28:57","AT1",567,58
+860284,"Girona FC","Malaga CF","08/26/2017 19:29:03","Player_DATA_CONFIRMED",568,58
+860284,"Girona FC","Malaga CF","08/26/2017 19:29:04","Player_DATA_CONFIRMED",569,58
+860284,"Girona FC","Malaga CF","08/26/2017 19:29:06","Possible Free Kick",570,58
+860284,"Girona FC","Malaga CF","08/26/2017 19:29:11","F2",572,58
+860284,"Girona FC","Malaga CF","08/26/2017 19:29:11","FK1",573,58
+860284,"Girona FC","Malaga CF","08/26/2017 19:29:11","DANGER1",574,58
+860284,"Girona FC","Malaga CF","08/26/2017 19:29:11","DFK1",575,58
+860284,"Girona FC","Malaga CF","08/26/2017 19:29:11","Ball Position",576,58
+860284,"Girona FC","Malaga CF","08/26/2017 19:29:14","POSSIBLE_CARDS",577,58
+860284,"Girona FC","Malaga CF","08/26/2017 19:29:15","YC2",578,58
+860284,"Girona FC","Malaga CF","08/26/2017 19:29:24","CONF_YC2",579,58
+860284,"Girona FC","Malaga CF","08/26/2017 19:29:28","Scorer",580,58
+860284,"Girona FC","Malaga CF","08/26/2017 19:29:50","Time Correction",581,59
+860284,"Girona FC","Malaga CF","08/26/2017 19:29:56","Restart",582,59
+860284,"Girona FC","Malaga CF","08/26/2017 19:30:01","SAFE2",583,59
+860284,"Girona FC","Malaga CF","08/26/2017 19:30:02","GK2",584,59
+860284,"Girona FC","Malaga CF","08/26/2017 19:30:12","Restart",585,59
+860284,"Girona FC","Malaga CF","08/26/2017 19:30:25","AT1",586,59
+860284,"Girona FC","Malaga CF","08/26/2017 19:30:25","DANGER1",587,59
+860284,"Girona FC","Malaga CF","08/26/2017 19:30:25","DAT1",588,59
+860284,"Girona FC","Malaga CF","08/26/2017 19:30:42","SAFE2",589,59
+860284,"Girona FC","Malaga CF","08/26/2017 19:30:51","POSSIBLE_TI",590,60
+860284,"Girona FC","Malaga CF","08/26/2017 19:30:53","TI2",591,60
+860284,"Girona FC","Malaga CF","08/26/2017 19:30:57","Restart",592,60
+860284,"Girona FC","Malaga CF","08/26/2017 19:30:59","Player_DATA_CONFIRMED",593,60
+860284,"Girona FC","Malaga CF","08/26/2017 19:31:18","SAFE1",594,60
+860284,"Girona FC","Malaga CF","08/26/2017 19:31:23","AT1",595,60
+860284,"Girona FC","Malaga CF","08/26/2017 19:31:24","DANGER1",596,60
+860284,"Girona FC","Malaga CF","08/26/2017 19:31:24","DAT1",597,60
+860284,"Girona FC","Malaga CF","08/26/2017 19:31:29","POSSIBLE_TI",598,60
+860284,"Girona FC","Malaga CF","08/26/2017 19:31:35","TI1",599,60
+860284,"Girona FC","Malaga CF","08/26/2017 19:31:55","Restart",600,61
+860284,"Girona FC","Malaga CF","08/26/2017 19:32:11","SAFE1",601,61
+860284,"Girona FC","Malaga CF","08/26/2017 19:32:24","AT1",602,61
+860284,"Girona FC","Malaga CF","08/26/2017 19:32:28","DANGER1",603,61
+860284,"Girona FC","Malaga CF","08/26/2017 19:32:28","DAT1",604,61
+860284,"Girona FC","Malaga CF","08/26/2017 19:32:40","GOAL1",605,61
+860284,"Girona FC","Malaga CF","08/26/2017 19:32:56","CGOAL1",606,62
+860284,"Girona FC","Malaga CF","08/26/2017 19:32:57","Possible Free Kick",607,62
+860284,"Girona FC","Malaga CF","08/26/2017 19:32:59","SAFE2",609,62
+860284,"Girona FC","Malaga CF","08/26/2017 19:32:59","O1",610,62
+860284,"Girona FC","Malaga CF","08/26/2017 19:32:59","FK2",611,62
+860284,"Girona FC","Malaga CF","08/26/2017 19:32:59","Ball Position",612,62
+860284,"Girona FC","Malaga CF","08/26/2017 19:33:02","Restart",613,62
+860284,"Girona FC","Malaga CF","08/26/2017 19:33:05","SAFE1",614,62
+860284,"Girona FC","Malaga CF","08/26/2017 19:33:12","AT1",615,62
+860284,"Girona FC","Malaga CF","08/26/2017 19:33:17","DANGER1",616,62
+860284,"Girona FC","Malaga CF","08/26/2017 19:33:17","DAT1",617,62
+860284,"Girona FC","Malaga CF","08/26/2017 19:33:22","SAFE1",618,62
+860284,"Girona FC","Malaga CF","08/26/2017 19:33:35","AT1",619,62
+860284,"Girona FC","Malaga CF","08/26/2017 19:33:42","Possible Free Kick",620,62
+860284,"Girona FC","Malaga CF","08/26/2017 19:33:48","POSSIBLE_CARDS",622,63
+860284,"Girona FC","Malaga CF","08/26/2017 19:33:49","YC2",623,63
+860284,"Girona FC","Malaga CF","08/26/2017 19:33:50","CONF_YC2",624,63
+860284,"Girona FC","Malaga CF","08/26/2017 19:33:57","Scorer",625,63
+860284,"Girona FC","Malaga CF","08/26/2017 19:34:00","F2",626,63
+860284,"Girona FC","Malaga CF","08/26/2017 19:34:00","FK1",627,63
+860284,"Girona FC","Malaga CF","08/26/2017 19:34:00","DANGER1",628,63
+860284,"Girona FC","Malaga CF","08/26/2017 19:34:00","DFK1",629,63
+860284,"Girona FC","Malaga CF","08/26/2017 19:34:00","Ball Position",630,63
+860284,"Girona FC","Malaga CF","08/26/2017 19:34:20","Restart",631,63
+860284,"Girona FC","Malaga CF","08/26/2017 19:34:25","SHB1",632,63
+860284,"Girona FC","Malaga CF","08/26/2017 19:34:26","SAFE2",633,63
+860284,"Girona FC","Malaga CF","08/26/2017 19:34:31","GK2",634,63
+860284,"Girona FC","Malaga CF","08/26/2017 19:34:47","POSSIBLE_CARDS",635,64
+860284,"Girona FC","Malaga CF","08/26/2017 19:34:48","YC2",636,64
+860284,"Girona FC","Malaga CF","08/26/2017 19:34:54","CONF_YC2",637,64
+860284,"Girona FC","Malaga CF","08/26/2017 19:34:59","Scorer",638,64
+860284,"Girona FC","Malaga CF","08/26/2017 19:35:04","Player_DATA_CONFIRMED",639,64
+860284,"Girona FC","Malaga CF","08/26/2017 19:35:10","Restart",640,64
+860284,"Girona FC","Malaga CF","08/26/2017 19:35:20","AT2",641,64
+860284,"Girona FC","Malaga CF","08/26/2017 19:35:39","SAFE2",642,64
+860284,"Girona FC","Malaga CF","08/26/2017 19:35:58","AT2",643,65
+860284,"Girona FC","Malaga CF","08/26/2017 19:36:01","DANGER2",644,65
+860284,"Girona FC","Malaga CF","08/26/2017 19:36:01","DAT2",645,65
+860284,"Girona FC","Malaga CF","08/26/2017 19:36:14","BLOCKED2",646,65
+860284,"Girona FC","Malaga CF","08/26/2017 19:36:19","SHB2",647,65
+860284,"Girona FC","Malaga CF","08/26/2017 19:36:20","SAFE1",648,65
+860284,"Girona FC","Malaga CF","08/26/2017 19:36:21","GK1",649,65
+860284,"Girona FC","Malaga CF","08/26/2017 19:36:23","Scorer",650,65
+860284,"Girona FC","Malaga CF","08/26/2017 19:36:23","Player_DATA_CONFIRMED",651,65
+860284,"Girona FC","Malaga CF","08/26/2017 19:36:24","Injury Break",652,65
+860284,"Girona FC","Malaga CF","08/26/2017 19:36:50","Restart",653,66
+860284,"Girona FC","Malaga CF","08/26/2017 19:36:56","POSSIBLE_TI",654,66
+860284,"Girona FC","Malaga CF","08/26/2017 19:36:58","TI2",655,66
+860284,"Girona FC","Malaga CF","08/26/2017 19:37:01","SAFE2",656,66
+860284,"Girona FC","Malaga CF","08/26/2017 19:37:07","Restart",657,66
+860284,"Girona FC","Malaga CF","08/26/2017 19:37:20","AT2",658,66
+860284,"Girona FC","Malaga CF","08/26/2017 19:37:23","DANGER2",659,66
+860284,"Girona FC","Malaga CF","08/26/2017 19:37:23","DAT2",660,66
+860284,"Girona FC","Malaga CF","08/26/2017 19:37:43","SAFE1",661,66
+860284,"Girona FC","Malaga CF","08/26/2017 19:37:51","SAFE2",662,67
+860284,"Girona FC","Malaga CF","08/26/2017 19:38:06","AT1",663,67
+860284,"Girona FC","Malaga CF","08/26/2017 19:38:06","DANGER1",664,67
+860284,"Girona FC","Malaga CF","08/26/2017 19:38:06","DAT1",665,67
+860284,"Girona FC","Malaga CF","08/26/2017 19:38:09","SAFE2",666,67
+860284,"Girona FC","Malaga CF","08/26/2017 19:38:22","AT2",667,67
+860284,"Girona FC","Malaga CF","08/26/2017 19:38:42","Start score update",668,67
+860284,"Girona FC","Malaga CF","08/26/2017 19:38:53","Statistic confirmation",669,68
+860284,"Girona FC","Malaga CF","08/26/2017 19:38:53","Score update finished",670,68
+860284,"Girona FC","Malaga CF","08/26/2017 19:38:59","CYC2",671,68
+860284,"Girona FC","Malaga CF","08/26/2017 19:39:07","AT1",672,68
+860284,"Girona FC","Malaga CF","08/26/2017 19:39:07","DANGER1",673,68
+860284,"Girona FC","Malaga CF","08/26/2017 19:39:07","DAT1",674,68
+860284,"Girona FC","Malaga CF","08/26/2017 19:39:12","System Message",675,68
+860284,"Girona FC","Malaga CF","08/26/2017 19:39:23","SAFE2",676,68
+860284,"Girona FC","Malaga CF","08/26/2017 19:39:44","AT2",677,68
+860284,"Girona FC","Malaga CF","08/26/2017 19:39:44","DANGER2",678,68
+860284,"Girona FC","Malaga CF","08/26/2017 19:39:44","DAT2",679,68
+860284,"Girona FC","Malaga CF","08/26/2017 19:39:54","PCR2",680,69
+860284,"Girona FC","Malaga CF","08/26/2017 19:40:04","CR2",681,69
+860284,"Girona FC","Malaga CF","08/26/2017 19:40:07","Ball Position",682,69
+860284,"Girona FC","Malaga CF","08/26/2017 19:40:15","System Message",683,69
+860284,"Girona FC","Malaga CF","08/26/2017 19:40:23","Restart",684,69
+860284,"Girona FC","Malaga CF","08/26/2017 19:40:25","System Message",685,69
+860284,"Girona FC","Malaga CF","08/26/2017 19:40:34","PCR2",686,69
+860284,"Girona FC","Malaga CF","08/26/2017 19:40:38","CR2",687,69
+860284,"Girona FC","Malaga CF","08/26/2017 19:40:39","Ball Position",688,69
+860284,"Girona FC","Malaga CF","08/26/2017 19:40:52","Restart",689,70
+860284,"Girona FC","Malaga CF","08/26/2017 19:41:00","SAFE1",690,70
+860284,"Girona FC","Malaga CF","08/26/2017 19:41:02","AT1",691,70
+860284,"Girona FC","Malaga CF","08/26/2017 19:41:02","DANGER1",692,70
+860284,"Girona FC","Malaga CF","08/26/2017 19:41:02","DAT1",693,70
+860284,"Girona FC","Malaga CF","08/26/2017 19:41:06","POSSIBLE_TI",694,70
+860284,"Girona FC","Malaga CF","08/26/2017 19:41:07","TI2",695,70
+860284,"Girona FC","Malaga CF","08/26/2017 19:41:07","SAFE2",696,70
+860284,"Girona FC","Malaga CF","08/26/2017 19:41:15","Restart",697,70
+860284,"Girona FC","Malaga CF","08/26/2017 19:41:31","POSSIBLE_TI",698,70
+860284,"Girona FC","Malaga CF","08/26/2017 19:41:36","TI1",699,70
+860284,"Girona FC","Malaga CF","08/26/2017 19:41:38","SAFE1",700,70
+860284,"Girona FC","Malaga CF","08/26/2017 19:41:47","Restart",701,71
+860284,"Girona FC","Malaga CF","08/26/2017 19:42:01","AT1",702,71
+860284,"Girona FC","Malaga CF","08/26/2017 19:42:02","DANGER1",703,71
+860284,"Girona FC","Malaga CF","08/26/2017 19:42:02","DAT1",704,71
+860284,"Girona FC","Malaga CF","08/26/2017 19:42:15","SAFE2",705,71
+860284,"Girona FC","Malaga CF","08/26/2017 19:42:20","POSSIBLE_TI",706,71
+860284,"Girona FC","Malaga CF","08/26/2017 19:42:24","TI1",707,71
+860284,"Girona FC","Malaga CF","08/26/2017 19:42:42","Restart",708,71
+860284,"Girona FC","Malaga CF","08/26/2017 19:42:45","SAFE1",709,71
+860284,"Girona FC","Malaga CF","08/26/2017 19:42:58","SAFE2",710,72
+860284,"Girona FC","Malaga CF","08/26/2017 19:43:11","SAFE2",711,72
+860284,"Girona FC","Malaga CF","08/26/2017 19:43:12","AT2",712,72
+860284,"Girona FC","Malaga CF","08/26/2017 19:43:17","DANGER2",713,72
+860284,"Girona FC","Malaga CF","08/26/2017 19:43:17","DAT2",714,72
+860284,"Girona FC","Malaga CF","08/26/2017 19:43:25","SAFE1",715,72
+860284,"Girona FC","Malaga CF","08/26/2017 19:43:26","GK1",716,72
+860284,"Girona FC","Malaga CF","08/26/2017 19:44:02","SUB1",717,73
+860284,"Girona FC","Malaga CF","08/26/2017 19:44:18","Restart",718,73
+860284,"Girona FC","Malaga CF","08/26/2017 19:44:24","Player_DATA_CONFIRMED",719,73
+860284,"Girona FC","Malaga CF","08/26/2017 19:44:28","SAFE2",720,73
+860284,"Girona FC","Malaga CF","08/26/2017 19:44:47","POSSIBLE_TI",721,74
+860284,"Girona FC","Malaga CF","08/26/2017 19:44:50","TI1",722,74
+860284,"Girona FC","Malaga CF","08/26/2017 19:44:51","SAFE1",723,74
+860284,"Girona FC","Malaga CF","08/26/2017 19:44:59","Restart",724,74
+860284,"Girona FC","Malaga CF","08/26/2017 19:45:07","SAFE2",725,74
+860284,"Girona FC","Malaga CF","08/26/2017 19:45:21","POSSIBLE_TI",726,74
+860284,"Girona FC","Malaga CF","08/26/2017 19:45:24","TI2",727,74
+860284,"Girona FC","Malaga CF","08/26/2017 19:45:25","Restart",728,74
+860284,"Girona FC","Malaga CF","08/26/2017 19:45:27","AT2",729,74
+860284,"Girona FC","Malaga CF","08/26/2017 19:45:30","SAFE1",730,74
+860284,"Girona FC","Malaga CF","08/26/2017 19:45:31","GK1",731,74
+860284,"Girona FC","Malaga CF","08/26/2017 19:46:03","Restart",732,75
+860284,"Girona FC","Malaga CF","08/26/2017 19:46:05","AT1",733,75
+860284,"Girona FC","Malaga CF","08/26/2017 19:46:11","DANGER1",734,75
+860284,"Girona FC","Malaga CF","08/26/2017 19:46:11","DAT1",735,75
+860284,"Girona FC","Malaga CF","08/26/2017 19:46:16","SAFE2",736,75
+860284,"Girona FC","Malaga CF","08/26/2017 19:46:22","Possible Free Kick",737,75
+860284,"Girona FC","Malaga CF","08/26/2017 19:46:26","F1",739,75
+860284,"Girona FC","Malaga CF","08/26/2017 19:46:26","FK2",740,75
+860284,"Girona FC","Malaga CF","08/26/2017 19:46:26","Ball Position",741,75
+860284,"Girona FC","Malaga CF","08/26/2017 19:46:28","Restart",742,75
+860284,"Girona FC","Malaga CF","08/26/2017 19:47:07","AT2",743,76
+860284,"Girona FC","Malaga CF","08/26/2017 19:47:11","POSSIBLE_TI",744,76
+860284,"Girona FC","Malaga CF","08/26/2017 19:47:15","TI2",745,76
+860284,"Girona FC","Malaga CF","08/26/2017 19:47:16","Restart",746,76
+860284,"Girona FC","Malaga CF","08/26/2017 19:47:20","AT1",747,76
+860284,"Girona FC","Malaga CF","08/26/2017 19:47:20","DANGER1",748,76
+860284,"Girona FC","Malaga CF","08/26/2017 19:47:20","DAT1",749,76
+860284,"Girona FC","Malaga CF","08/26/2017 19:47:22","CLS",750,76
+860284,"Girona FC","Malaga CF","08/26/2017 19:47:22","DANGER2",751,76
+860284,"Girona FC","Malaga CF","08/26/2017 19:47:22","DAT2",752,76
+860284,"Girona FC","Malaga CF","08/26/2017 19:47:27","SAFE1",753,76
+860284,"Girona FC","Malaga CF","08/26/2017 19:47:30","AT1",754,76
+860284,"Girona FC","Malaga CF","08/26/2017 19:47:30","DANGER1",755,76
+860284,"Girona FC","Malaga CF","08/26/2017 19:47:30","DAT1",756,76
+860284,"Girona FC","Malaga CF","08/26/2017 19:47:37","POSSIBLE_TI",757,76
+860284,"Girona FC","Malaga CF","08/26/2017 19:47:46","TI1",758,77
+860284,"Girona FC","Malaga CF","08/26/2017 19:47:57","Restart",759,77
+860284,"Girona FC","Malaga CF","08/26/2017 19:47:58","SAFE1",760,77
+860284,"Girona FC","Malaga CF","08/26/2017 19:48:11","SAFE2",761,77
+860284,"Girona FC","Malaga CF","08/26/2017 19:48:30","SAFE1",762,77
+860284,"Girona FC","Malaga CF","08/26/2017 19:48:37","AT1",763,77
+860284,"Girona FC","Malaga CF","08/26/2017 19:48:48","SAFE2",764,78
+860284,"Girona FC","Malaga CF","08/26/2017 19:48:51","AT2",765,78
+860284,"Girona FC","Malaga CF","08/26/2017 19:48:53","DANGER2",766,78
+860284,"Girona FC","Malaga CF","08/26/2017 19:48:53","DAT2",767,78
+860284,"Girona FC","Malaga CF","08/26/2017 19:49:06","SAFE2",768,78
+860284,"Girona FC","Malaga CF","08/26/2017 19:49:08","AT2",769,78
+860284,"Girona FC","Malaga CF","08/26/2017 19:49:38","DANGER2",770,78
+860284,"Girona FC","Malaga CF","08/26/2017 19:49:38","DAT2",771,78
+860284,"Girona FC","Malaga CF","08/26/2017 19:49:46","SAFE1",772,79
+860284,"Girona FC","Malaga CF","08/26/2017 19:50:07","Possible Free Kick",773,79
+860284,"Girona FC","Malaga CF","08/26/2017 19:50:14","SAFE2",775,79
+860284,"Girona FC","Malaga CF","08/26/2017 19:50:14","F1",776,79
+860284,"Girona FC","Malaga CF","08/26/2017 19:50:14","FK2",777,79
+860284,"Girona FC","Malaga CF","08/26/2017 19:50:14","Ball Position",778,79
+860284,"Girona FC","Malaga CF","08/26/2017 19:50:20","Restart",779,79
+860284,"Girona FC","Malaga CF","08/26/2017 19:50:51","AT2",780,80
+860284,"Girona FC","Malaga CF","08/26/2017 19:51:17","DANGER2",781,80
+860284,"Girona FC","Malaga CF","08/26/2017 19:51:17","DAT2",782,80
+860284,"Girona FC","Malaga CF","08/26/2017 19:51:21","SAFE1",783,80
+860284,"Girona FC","Malaga CF","08/26/2017 19:51:43","POSSIBLE_TI",784,80
+860284,"Girona FC","Malaga CF","08/26/2017 19:51:46","TI1",785,80
+860284,"Girona FC","Malaga CF","08/26/2017 19:51:53","Restart",786,81
+860284,"Girona FC","Malaga CF","08/26/2017 19:52:00","POSSIBLE_TI",787,81
+860284,"Girona FC","Malaga CF","08/26/2017 19:52:02","TI1",788,81
+860284,"Girona FC","Malaga CF","08/26/2017 19:52:21","SUB1",789,81
+860284,"Girona FC","Malaga CF","08/26/2017 19:52:25","SAFE1",790,81
+860284,"Girona FC","Malaga CF","08/26/2017 19:53:03","SUB2",791,82
+860284,"Girona FC","Malaga CF","08/26/2017 19:53:07","Restart",792,82
+860284,"Girona FC","Malaga CF","08/26/2017 19:53:11","Possible Free Kick",793,82
+860284,"Girona FC","Malaga CF","08/26/2017 19:53:18","SAFE2",795,82
+860284,"Girona FC","Malaga CF","08/26/2017 19:53:18","FK2",796,82
+860284,"Girona FC","Malaga CF","08/26/2017 19:53:18","Ball Position",797,82
+860284,"Girona FC","Malaga CF","08/26/2017 19:53:20","Restart",798,82
+860284,"Girona FC","Malaga CF","08/26/2017 19:53:40","AT2",799,82
+860284,"Girona FC","Malaga CF","08/26/2017 19:53:45","SAFE1",800,82
+860284,"Girona FC","Malaga CF","08/26/2017 19:53:58","AT1",801,83
+860284,"Girona FC","Malaga CF","08/26/2017 19:54:01","DANGER1",802,83
+860284,"Girona FC","Malaga CF","08/26/2017 19:54:01","DAT1",803,83
+860284,"Girona FC","Malaga CF","08/26/2017 19:54:08","SHG1",804,83
+860284,"Girona FC","Malaga CF","08/26/2017 19:54:17","SAFE2",805,83
+860284,"Girona FC","Malaga CF","08/26/2017 19:54:22","SAFE1",806,83
+860284,"Girona FC","Malaga CF","08/26/2017 19:54:23","AT1",807,83
+860284,"Girona FC","Malaga CF","08/26/2017 19:54:25","Player_DATA_CONFIRMED",808,83
+860284,"Girona FC","Malaga CF","08/26/2017 19:54:28","DANGER1",809,83
+860284,"Girona FC","Malaga CF","08/26/2017 19:54:28","DAT1",810,83
+860284,"Girona FC","Malaga CF","08/26/2017 19:54:32","SUB_UPDATE",811,83
+860284,"Girona FC","Malaga CF","08/26/2017 19:54:33","Player_DATA_CONFIRMED",812,83
+860284,"Girona FC","Malaga CF","08/26/2017 19:54:42","SAFE2",813,83
+860284,"Girona FC","Malaga CF","08/26/2017 19:55:07","AT2",814,84
+860284,"Girona FC","Malaga CF","08/26/2017 19:55:27","DANGER2",815,84
+860284,"Girona FC","Malaga CF","08/26/2017 19:55:27","DAT2",816,84
+860284,"Girona FC","Malaga CF","08/26/2017 19:55:30","SAFE1",817,84
+860284,"Girona FC","Malaga CF","08/26/2017 19:55:36","AT1",818,84
+860284,"Girona FC","Malaga CF","08/26/2017 19:55:39","DANGER1",819,84
+860284,"Girona FC","Malaga CF","08/26/2017 19:55:39","DAT1",820,84
+860284,"Girona FC","Malaga CF","08/26/2017 19:55:44","Possible Free Kick",821,84
+860284,"Girona FC","Malaga CF","08/26/2017 19:55:47","No Free Kick",823,85
+860284,"Girona FC","Malaga CF","08/26/2017 19:55:50","SAFE2",824,85
+860284,"Girona FC","Malaga CF","08/26/2017 19:55:58","AT2",825,85
+860284,"Girona FC","Malaga CF","08/26/2017 19:56:08","SAFE1",826,85
+860284,"Girona FC","Malaga CF","08/26/2017 19:56:09","GK1",827,85
+860284,"Girona FC","Malaga CF","08/26/2017 19:56:47","SUB1",828,86
+860284,"Girona FC","Malaga CF","08/26/2017 19:57:18","Restart",829,86
+860284,"Girona FC","Malaga CF","08/26/2017 19:57:27","AT1",830,86
+860284,"Girona FC","Malaga CF","08/26/2017 19:57:34","POSSIBLE_TI",831,86
+860284,"Girona FC","Malaga CF","08/26/2017 19:57:35","TI2",832,86
+860284,"Girona FC","Malaga CF","08/26/2017 19:57:36","SAFE2",833,86
+860284,"Girona FC","Malaga CF","08/26/2017 19:57:38","Restart",834,86
+860284,"Girona FC","Malaga CF","08/26/2017 19:57:48","Possible Free Kick",835,87
+860284,"Girona FC","Malaga CF","08/26/2017 19:57:49","F2",837,87
+860284,"Girona FC","Malaga CF","08/26/2017 19:57:49","FK1",838,87
+860284,"Girona FC","Malaga CF","08/26/2017 19:57:49","DANGER1",839,87
+860284,"Girona FC","Malaga CF","08/26/2017 19:57:49","DFK1",840,87
+860284,"Girona FC","Malaga CF","08/26/2017 19:57:49","Ball Position",841,87
+860284,"Girona FC","Malaga CF","08/26/2017 19:57:54","Player_DATA_CONFIRMED",842,87
+860284,"Girona FC","Malaga CF","08/26/2017 19:58:13","Restart",843,87
+860284,"Girona FC","Malaga CF","08/26/2017 19:58:28","Possible Free Kick",844,87
+860284,"Girona FC","Malaga CF","08/26/2017 19:58:31","SAFE2",846,87
+860284,"Girona FC","Malaga CF","08/26/2017 19:58:31","F1",847,87
+860284,"Girona FC","Malaga CF","08/26/2017 19:58:31","FK2",848,87
+860284,"Girona FC","Malaga CF","08/26/2017 19:58:31","Ball Position",849,87
+860284,"Girona FC","Malaga CF","08/26/2017 19:58:38","Restart",850,87
+860284,"Girona FC","Malaga CF","08/26/2017 19:58:46","AT2",851,87
+860284,"Girona FC","Malaga CF","08/26/2017 19:58:53","DANGER2",852,88
+860284,"Girona FC","Malaga CF","08/26/2017 19:58:53","DAT2",853,88
+860284,"Girona FC","Malaga CF","08/26/2017 19:59:00","Possible Free Kick",854,88
+860284,"Girona FC","Malaga CF","08/26/2017 19:59:03","SAFE1",856,88
+860284,"Girona FC","Malaga CF","08/26/2017 19:59:03","F2",857,88
+860284,"Girona FC","Malaga CF","08/26/2017 19:59:03","FK1",858,88
+860284,"Girona FC","Malaga CF","08/26/2017 19:59:03","Ball Position",859,88
+860284,"Girona FC","Malaga CF","08/26/2017 19:59:11","Injury Break",860,88
+860284,"Girona FC","Malaga CF","08/26/2017 20:00:40","Restart",861,89
+860284,"Girona FC","Malaga CF","08/26/2017 20:00:50","AT1",862,90
+860284,"Girona FC","Malaga CF","08/26/2017 20:00:50","DANGER1",863,90
+860284,"Girona FC","Malaga CF","08/26/2017 20:00:50","DAT1",864,90
+860284,"Girona FC","Malaga CF","08/26/2017 20:00:52","SAFE2",865,90
+860284,"Girona FC","Malaga CF","08/26/2017 20:01:05","Possible Free Kick",866,90
+860284,"Girona FC","Malaga CF","08/26/2017 20:01:06","F1",868,90
+860284,"Girona FC","Malaga CF","08/26/2017 20:01:06","FK2",869,90
+860284,"Girona FC","Malaga CF","08/26/2017 20:01:06","DANGER2",870,90
+860284,"Girona FC","Malaga CF","08/26/2017 20:01:06","DFK2",871,90
+860284,"Girona FC","Malaga CF","08/26/2017 20:01:06","Ball Position",872,90
+860284,"Girona FC","Malaga CF","08/26/2017 20:01:08","Restart",873,90
+860284,"Girona FC","Malaga CF","08/26/2017 20:01:10","CLS",874,90
+860284,"Girona FC","Malaga CF","08/26/2017 20:01:19","Restart",875,90
+860284,"Girona FC","Malaga CF","08/26/2017 20:01:32","SAFE1",876,90
+860284,"Girona FC","Malaga CF","08/26/2017 20:01:56","Extra Time",877,91
+860284,"Girona FC","Malaga CF","08/26/2017 20:02:01","POSSIBLE_TI",878,91
+860284,"Girona FC","Malaga CF","08/26/2017 20:02:07","TI1",879,91
+860284,"Girona FC","Malaga CF","08/26/2017 20:02:13","Restart",880,91
+860284,"Girona FC","Malaga CF","08/26/2017 20:02:15","AT1",881,91
+860284,"Girona FC","Malaga CF","08/26/2017 20:02:15","DANGER1",882,91
+860284,"Girona FC","Malaga CF","08/26/2017 20:02:15","DAT1",883,91
+860284,"Girona FC","Malaga CF","08/26/2017 20:02:22","POSSIBLE_TI",884,91
+860284,"Girona FC","Malaga CF","08/26/2017 20:02:22","TI1",885,91
+860284,"Girona FC","Malaga CF","08/26/2017 20:02:27","Restart",886,91
+860284,"Girona FC","Malaga CF","08/26/2017 20:02:37","SAFE2",887,91
+860284,"Girona FC","Malaga CF","08/26/2017 20:02:54","AT2",888,92
+860284,"Girona FC","Malaga CF","08/26/2017 20:02:54","DANGER2",889,92
+860284,"Girona FC","Malaga CF","08/26/2017 20:02:54","DAT2",890,92
+860284,"Girona FC","Malaga CF","08/26/2017 20:03:11","POSSIBLE_TI",891,92
+860284,"Girona FC","Malaga CF","08/26/2017 20:03:13","TI2",892,92
+860284,"Girona FC","Malaga CF","08/26/2017 20:03:28","Restart",893,92
+860284,"Girona FC","Malaga CF","08/26/2017 20:03:44","POSSIBLE_TI",894,92
+860284,"Girona FC","Malaga CF","08/26/2017 20:03:45","TI2",895,92
+860284,"Girona FC","Malaga CF","08/26/2017 20:03:46","SAFE2",896,92
+860284,"Girona FC","Malaga CF","08/26/2017 20:03:49","Restart",897,93
+860284,"Girona FC","Malaga CF","08/26/2017 20:03:50","AT2",898,93
+860284,"Girona FC","Malaga CF","08/26/2017 20:03:52","SAFE1",899,93
+860284,"Girona FC","Malaga CF","08/26/2017 20:03:56","AT1",900,93
+860284,"Girona FC","Malaga CF","08/26/2017 20:03:57","DANGER1",901,93
+860284,"Girona FC","Malaga CF","08/26/2017 20:03:57","DAT1",902,93
+860284,"Girona FC","Malaga CF","08/26/2017 20:04:09","SAFE2",903,93
+860284,"Girona FC","Malaga CF","08/26/2017 20:04:16","AT2",904,93
+860284,"Girona FC","Malaga CF","08/26/2017 20:04:16","DANGER2",905,93
+860284,"Girona FC","Malaga CF","08/26/2017 20:04:16","DAT2",906,93
+860284,"Girona FC","Malaga CF","08/26/2017 20:04:20","POSSIBLE_TI",907,93
+860284,"Girona FC","Malaga CF","08/26/2017 20:04:21","TI2",908,93
+860284,"Girona FC","Malaga CF","08/26/2017 20:04:37","Restart",909,93
+860284,"Girona FC","Malaga CF","08/26/2017 20:04:55","BLOCKED2",910,94
+860284,"Girona FC","Malaga CF","08/26/2017 20:04:56","BLOCKED2",911,94
+860284,"Girona FC","Malaga CF","08/26/2017 20:05:00","SAFE1",912,94
+860284,"Girona FC","Malaga CF","08/26/2017 20:05:02","Possible Free Kick",913,94
+860284,"Girona FC","Malaga CF","08/26/2017 20:05:05","F2",915,94
+860284,"Girona FC","Malaga CF","08/26/2017 20:05:05","FK1",916,94
+860284,"Girona FC","Malaga CF","08/26/2017 20:05:05","Ball Position",917,94
+860284,"Girona FC","Malaga CF","08/26/2017 20:05:07","POSSIBLE_CARDS",918,94
+860284,"Girona FC","Malaga CF","08/26/2017 20:05:08","YC2",919,94
+860284,"Girona FC","Malaga CF","08/26/2017 20:05:11","CONF_YC2",920,94
+860284,"Girona FC","Malaga CF","08/26/2017 20:05:20","Scorer",921,94
+860284,"Girona FC","Malaga CF","08/26/2017 20:05:41","Restart",922,94
+860284,"Girona FC","Malaga CF","08/26/2017 20:05:45","AT1",923,94
+860284,"Girona FC","Malaga CF","08/26/2017 20:05:45","DANGER1",924,94
+860284,"Girona FC","Malaga CF","08/26/2017 20:05:45","DAT1",925,94
+860284,"Girona FC","Malaga CF","08/26/2017 20:05:51","SAFE2",926,95
+860284,"Girona FC","Malaga CF","08/26/2017 20:05:58","Stop RT2",927,95
+860284,"Girona FC","Malaga CF","08/26/2017 20:05:58","Stop Game",928,95
+860284,"Girona FC","Malaga CF","08/26/2017 20:06:11","CONF_PERIOD_SCORE",929,94
+860284,"Girona FC","Malaga CF","08/26/2017 20:06:24","Scorer",930,94
+860284,"Girona FC","Malaga CF","08/26/2017 20:06:24","Player_DATA_CONFIRMED",931,94

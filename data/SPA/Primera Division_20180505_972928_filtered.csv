@@ -1,0 +1,980 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 13:16:46","Lineup changed",0,0
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 13:17:43","Transmission Online",1,0
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 13:17:43","Scout in Stadion",2,0
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 13:41:30","GCC",3,0
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:08:33","GCC",4,0
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:12:45","System Message",5,0
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:13:07","Players are coming out",6,0
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:13:27","Players lined up",7,0
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:14:07","Jersey Changed",8,0
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:14:07","Jersey Changed",9,0
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:14:41","Shake hands",10,0
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:14:43","Flip coin",11,0
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:14:55","Photo taking",12,0
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:15:13","Game about to start",13,0
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:15:59","Start RT1 Team 1",14,1
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:16:09","SAFE2",15,1
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:16:16","AT1",16,1
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:16:16","DANGER1",17,1
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:16:16","DAT1",18,1
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:16:29","POSSIBLE_TI",19,1
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:16:30","TI1",20,1
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:16:32","Restart",21,1
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:16:38","SAFE2",22,1
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:16:42","AT1",23,1
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:16:43","DANGER1",24,1
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:16:43","DAT1",25,1
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:16:47","Possible Free Kick",26,1
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:16:50","SAFE2",28,1
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:16:50","F1",29,1
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:16:50","FK2",30,1
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:16:50","Ball Position",31,1
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:17:03","Restart",32,2
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:17:13","AT1",33,2
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:17:15","DANGER1",34,2
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:17:15","DAT1",35,2
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:17:35","SAFE1",36,2
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:17:52","AT1",37,2
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:17:56","SAFE2",38,2
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:18:05","AT1",39,3
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:18:05","DANGER1",40,3
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:18:05","DAT1",41,3
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:18:06","SAFE2",42,3
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:18:10","AT2",43,3
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:18:12","DANGER2",44,3
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:18:12","DAT2",45,3
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:18:36","POSSIBLE_TI",46,3
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:18:37","TI2",47,3
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:18:38","Restart",48,3
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:18:44","SAFE1",49,3
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:18:53","AT1",50,3
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:18:57","DANGER1",51,3
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:18:57","DAT1",52,3
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:19:03","SAFE1",53,4
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:19:13","AT1",54,4
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:19:13","DANGER1",55,4
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:19:13","DAT1",56,4
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:19:24","Possible Free Kick",57,4
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:19:28","SAFE2",59,4
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:19:28","O1",60,4
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:19:28","FK2",61,4
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:19:29","Ball Position",62,4
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:19:35","Restart",63,4
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:19:43","SAFE1",64,4
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:19:54","POSSIBLE_TI",65,4
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:19:55","TI2",66,4
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:20:17","Restart",67,5
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:20:43","AT1",68,5
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:20:49","SAFE2",69,5
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:20:54","AT2",70,5
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:20:54","DANGER2",71,5
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:20:54","DAT2",72,5
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:21:00","POSSIBLE_TI",73,6
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:21:01","TI1",74,6
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:21:18","Restart",75,6
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:21:25","SAFE1",76,6
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:21:39","AT1",77,6
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:21:42","DANGER1",78,6
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:21:42","DAT1",79,6
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:21:52","PCR1",80,6
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:21:56","NCR1",81,6
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:21:58","SHB1",82,6
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:21:59","SAFE2",83,6
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:21:59","GK2",84,7
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:22:07","Restart",85,7
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:22:14","AT1",86,7
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:22:14","DANGER1",87,7
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:22:14","DAT1",88,7
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:22:17","SAFE2",89,7
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:22:21","SAFE1",90,7
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:22:24","AT2",91,7
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:22:24","DANGER2",92,7
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:22:24","DAT2",93,7
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:22:28","POSSIBLE_TI",94,7
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:22:29","TI2",95,7
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:22:43","Restart",96,7
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:23:00","SAFE2",97,8
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:23:21","AT2",98,8
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:23:21","DANGER2",99,8
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:23:21","DAT2",100,8
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:23:39","SAFE1",101,8
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:23:40","SAFE2",102,8
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:23:43","AT2",103,8
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:24:12","SAFE2",104,9
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:24:31","SAFE1",105,9
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:24:37","AT1",106,9
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:24:39","DANGER1",107,9
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:24:39","DAT1",108,9
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:24:44","SAFE2",109,9
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:25:14","AT2",110,10
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:25:14","DANGER2",111,10
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:25:14","DAT2",112,10
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:25:17","SAFE1",113,10
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:25:27","AT2",114,10
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:25:27","DANGER2",115,10
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:25:27","DAT2",116,10
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:25:34","SAFE1",117,10
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:25:35","AT1",118,10
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:25:37","DANGER1",119,10
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:25:37","DAT1",120,10
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:25:45","PCR1",121,10
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:25:55","CR1",122,10
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:25:58","Ball Position",123,10
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:26:17","Injury Break",124,11
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:27:44","Restart",125,12
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:27:58","SAFE1",126,12
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:28:00","AT1",127,13
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:28:09","SAFE1",128,13
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:28:26","AT1",129,13
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:28:26","DANGER1",130,13
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:28:26","DAT1",131,13
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:28:27","SAFE2",132,13
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:28:48","AT1",133,13
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:28:48","DANGER1",134,13
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:28:48","DAT1",135,13
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:28:51","SAFE2",136,13
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:28:54","POSSIBLE_TI",137,13
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:28:55","TI1",138,13
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:29:01","Restart",139,14
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:29:02","SAFE1",140,14
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:29:18","AT1",141,14
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:29:18","DANGER1",142,14
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:29:18","DAT1",143,14
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:29:27","PCR1",144,14
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:29:28","CR1",145,14
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:29:30","Ball Position",146,14
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:29:54","Restart",147,14
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:30:02","SHB1",148,15
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:30:03","SAFE2",149,15
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:30:03","GK2",150,15
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:30:18","Restart",151,15
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:31:01","AT2",152,16
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:31:10","DANGER2",153,16
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:31:10","DAT2",154,16
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:31:35","POSSIBLE_TI",155,16
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:31:36","TI2",156,16
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:31:43","Restart",157,16
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:31:56","SAFE2",158,16
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:31:59","AT2",159,17
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:31:59","DANGER2",160,17
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:31:59","DAT2",161,17
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:32:00","SAFE1",162,17
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:32:11","AT1",163,17
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:32:15","SAFE2",164,17
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:32:17","Possible Free Kick",165,17
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:32:22","F1",167,17
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:32:22","FK2",168,17
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:32:22","DANGER2",169,17
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:32:22","DFK2",170,17
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:32:22","Ball Position",171,17
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:32:23","Restart",172,17
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:32:24","SAFE2",173,17
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:32:37","AT1",174,17
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:32:37","DANGER1",175,17
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:32:37","DAT1",176,17
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:32:41","SAFE2",177,17
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:32:47","AT2",178,17
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:32:48","DANGER2",179,17
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:32:48","DAT2",180,17
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:33:31","PCR2",181,18
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:33:34","CR2",182,18
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:33:35","Ball Position",183,18
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:34:08","Restart",184,19
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:34:14","PCR2",185,19
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:34:16","NCR2",186,19
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:34:17","Possible Free Kick",187,19
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:34:19","SAFE1",189,19
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:34:19","O2",190,19
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:34:19","FK1",191,19
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:34:20","Ball Position",192,19
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:34:40","Injury Break",193,19
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:35:17","SUB2",194,20
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:35:29","Player_DATA_CONFIRMED",195,20
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:35:38","Restart",196,20
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:35:43","AT1",197,20
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:35:44","Possible Free Kick",198,20
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:35:46","SAFE2",200,20
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:35:46","O1",201,20
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:35:46","FK2",202,20
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:35:46","Ball Position",203,20
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:36:00","Restart",204,21
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:36:16","AT1",205,21
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:36:16","DANGER1",206,21
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:36:16","DAT1",207,21
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:36:25","SAFE2",208,21
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:36:29","SAFE1",209,21
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:36:36","AT1",210,21
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:36:36","DANGER1",211,21
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:36:36","DAT1",212,21
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:36:53","SHB1",213,21
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:36:53","SAFE2",214,21
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:36:54","GK2",215,21
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:37:18","Restart",216,22
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:37:29","AT2",217,22
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:37:32","SAFE1",218,22
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:37:55","AT1",219,22
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:38:00","DANGER1",220,23
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:38:00","DAT1",221,23
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:38:05","POSSIBLE_TI",222,23
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:38:07","TI1",223,23
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:38:09","Restart",224,23
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:38:27","Possible Free Kick",225,23
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:38:30","SAFE2",227,23
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:38:30","F1",228,23
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:38:30","FK2",229,23
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:38:30","Ball Position",230,23
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:38:48","Restart",231,23
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:38:58","AT2",232,23
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:39:09","DANGER2",233,24
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:39:09","DAT2",234,24
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:39:14","SAFE1",235,24
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:39:17","AT1",236,24
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:39:17","DANGER1",237,24
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:39:17","DAT1",238,24
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:39:31","SAFE2",239,24
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:39:43","AT1",240,24
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:39:43","DANGER1",241,24
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:39:43","DAT1",242,24
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:39:49","POSSIBLE_TI",243,24
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:39:52","TI1",244,24
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:39:58","Restart",245,24
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:40:17","SHB1",246,25
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:40:18","SAFE2",247,25
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:40:18","GK2",248,25
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:40:27","Restart",249,25
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:40:33","AT1",250,25
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:40:33","DANGER1",251,25
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:40:33","DAT1",252,25
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:40:36","SAFE2",253,25
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:40:40","SAFE1",254,25
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:40:58","AT1",255,25
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:41:06","POSSIBLE_TI",256,26
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:41:07","TI1",257,26
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:41:10","Restart",258,26
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:41:14","Possible Free Kick",259,26
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:41:18","F2",261,26
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:41:18","FK1",262,26
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:41:18","DANGER1",263,26
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:41:18","DFK1",264,26
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:41:18","Ball Position",265,26
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:41:51","Restart",266,26
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:41:57","SHW1",267,26
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:42:22","SAFE1",268,27
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:42:29","AT1",269,27
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:42:38","SAFE2",270,27
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:42:40","SAFE1",271,27
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:42:54","AT1",272,27
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:42:55","DANGER1",273,27
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:42:55","DAT1",274,27
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:42:57","Possible Free Kick",275,27
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:42:59","POSSIBLE_CARDS",277,27
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:43:01","YC2",278,28
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:43:09","CONF_YC2",279,28
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:43:19","Scorer",280,28
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:43:19","Player_DATA_CONFIRMED",281,28
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:43:21","Scorer",282,28
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:43:25","F2",283,28
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:43:25","FK1",284,28
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:43:25","DFK1",285,28
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:43:25","Ball Position",286,28
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:44:05","Restart",287,29
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:44:08","GOAL1",288,29
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:44:17","CGOAL1",289,29
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:44:18","Possible Free Kick",290,29
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:44:22","SAFE2",292,29
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:44:22","O1",293,29
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:44:22","FK2",294,29
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:44:22","Ball Position",295,29
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:44:29","Restart",296,29
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:44:34","AT1",297,29
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:44:34","DANGER1",298,29
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:44:34","DAT1",299,29
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:44:50","Possible Free Kick",300,29
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:44:51","SAFE2",302,29
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:44:51","F1",303,29
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:44:51","FK2",304,29
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:44:51","Ball Position",305,29
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:45:09","Restart",306,30
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:45:21","AT2",307,30
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:45:31","POSSIBLE_TI",308,30
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:45:32","TI2",309,30
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:45:35","Restart",310,30
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:45:36","SAFE2",311,30
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:45:50","AT2",312,30
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:45:50","DANGER2",313,30
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:45:50","DAT2",314,30
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:46:18","SAFE1",315,31
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:46:21","AT1",316,31
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:46:24","DANGER1",317,31
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:46:24","DAT1",318,31
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:46:48","POSSIBLE_TI",319,31
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:46:49","TI1",320,31
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:46:59","Restart",321,31
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:47:01","SAFE1",322,32
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:47:12","AT1",323,32
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:47:12","DANGER1",324,32
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:47:12","DAT1",325,32
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:47:18","SAFE2",326,32
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:47:56","POSSIBLE_TI",327,32
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:47:57","TI2",328,32
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:48:07","Restart",329,33
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:48:25","AT2",330,33
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:48:34","DANGER2",331,33
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:48:34","DAT2",332,33
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:48:54","SAFE1",333,33
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:49:00","Possible Free Kick",334,34
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:49:01","POSSIBLE_CARDS",336,34
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:49:03","PRC",337,34
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:49:03","Danger",338,34
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:49:26","No RC",339,34
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:49:30","NO_Cards",340,34
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:49:31","F2",341,34
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:49:31","FK1",342,34
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:49:31","DFK1",343,34
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:49:31","Ball Position",344,34
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:49:32","Restart",345,34
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:49:34","SAFE1",346,34
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:49:42","AT1",347,34
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:49:46","SAFE1",348,34
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:49:55","AT1",349,34
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:49:57","DANGER1",350,34
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:49:57","DAT1",351,34
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:50:03","SAFE2",352,35
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:50:17","SAFE1",353,35
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:50:18","AT1",354,35
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:50:19","DANGER1",355,35
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:50:19","DAT1",356,35
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:50:24","SHG1",357,35
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:50:25","SAFE2",358,35
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:50:50","AT2",359,35
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:50:52","DANGER2",360,35
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:50:52","DAT2",361,35
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:50:56","SAFE1",362,35
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:50:59","Possible Free Kick",363,36
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:51:03","F2",365,36
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:51:03","FK1",366,36
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:51:03","Ball Position",367,36
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:51:04","Restart",368,36
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:51:14","AT1",369,36
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:51:15","DANGER1",370,36
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:51:15","DAT1",371,36
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:51:30","SAFE2",372,36
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:51:31","GK2",373,36
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:51:47","Restart",374,36
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:51:52","SAFE1",375,36
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:52:01","AT1",376,37
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:52:02","DANGER1",377,37
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:52:02","DAT1",378,37
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:52:04","POSSIBLE_TI",379,37
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:52:06","TI2",380,37
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:52:10","Restart",381,37
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:52:13","SAFE2",382,37
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:52:54","AT2",383,37
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:52:54","DANGER2",384,37
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:52:54","DAT2",385,37
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:52:56","SAFE1",386,37
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:53:11","AT1",387,38
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:53:13","SAFE1",388,38
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:53:19","AT1",389,38
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:53:27","DANGER1",390,38
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:53:27","DAT1",391,38
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:53:37","SAFE2",392,38
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:53:41","AT2",393,38
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:53:43","Possible Free Kick",394,38
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:53:46","SAFE1",396,38
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:53:46","F2",397,38
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:53:46","FK1",398,38
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:53:46","Ball Position",399,38
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:53:51","Restart",400,38
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:53:55","AT1",401,38
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:54:06","DANGER1",402,39
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:54:06","DAT1",403,39
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:54:18","POSSIBLE_TI",404,39
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:54:19","TI2",405,39
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:54:36","Restart",406,39
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:54:45","SAFE2",407,39
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:54:47","SAFE1",408,39
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:54:48","AT1",409,39
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:54:58","DANGER1",410,39
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:54:58","DAT1",411,39
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:55:08","SHG1",412,40
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:55:08","SAFE2",413,40
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:55:38","AT2",414,40
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:55:44","DANGER2",415,40
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:55:44","DAT2",416,40
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:55:45","POSSIBLE_TI",417,40
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:55:46","TI2",418,40
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:55:51","Restart",419,40
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:55:52","SAFE2",420,40
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:55:58","AT2",421,40
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:56:05","DANGER2",422,41
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:56:05","DAT2",423,41
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:56:15","PCR2",424,41
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:56:17","CR2",425,41
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:56:19","Ball Position",426,41
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:56:31","Restart",427,41
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:56:40","PCR2",428,41
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:56:47","NCR2",429,41
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:56:48","SAFE1",430,41
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:56:49","GK1",431,41
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:57:12","Restart",432,42
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:57:15","AT1",433,42
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:57:19","SAFE1",434,42
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:57:29","AT1",435,42
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:57:30","DANGER1",436,42
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:57:30","DAT1",437,42
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:57:41","SHW1",438,42
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:57:47","Possible Free Kick",439,42
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:57:49","SAFE2",441,42
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:57:49","O1",442,42
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:57:49","FK2",443,42
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:57:49","Ball Position",444,42
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:58:04","Restart",445,43
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:58:17","AT1",446,43
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:58:17","DANGER1",447,43
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:58:17","DAT1",448,43
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:58:22","POSSIBLE_TI",449,43
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:58:23","TI1",450,43
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:58:24","Restart",451,43
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:58:33","SAFE1",452,43
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:58:40","AT1",453,43
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:58:42","DANGER1",454,43
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:58:42","DAT1",455,43
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:58:46","SAFE2",456,43
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:58:50","SAFE1",457,43
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:58:51","AT1",458,43
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:58:54","DANGER1",459,43
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:58:54","DAT1",460,43
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:59:08","SHB1",461,44
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:59:08","SAFE2",462,44
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:59:09","GK2",463,44
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:59:21","Restart",464,44
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:59:33","AT2",465,44
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:59:38","SAFE2",466,44
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:59:45","AT2",467,44
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:59:46","DANGER2",468,44
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:59:46","DAT2",469,44
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:59:48","SAFE1",470,44
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 14:59:58","AT1",471,44
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:00:16","DANGER1",472,45
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:00:16","DAT1",473,45
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:00:41","SAFE2",474,45
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:00:45","POSSIBLE_TI",475,45
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:00:46","TI1",476,45
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:00:51","Restart",477,45
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:00:51","SAFE1",478,45
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:01:05","Extra Time",479,46
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:01:32","AT1",480,46
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:01:32","DANGER1",481,46
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:01:32","DAT1",482,46
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:01:34","BREAKAWAY1",483,46
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:01:36","POSSIBLE_TI",484,46
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:01:36","TI1",485,46
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:01:40","Restart",486,46
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:02:06","Possible Free Kick",487,47
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:02:08","SAFE2",489,47
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:02:08","F1",490,47
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:02:08","FK2",491,47
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:02:08","Ball Position",492,47
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:02:09","Restart",493,47
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:02:25","AT2",494,47
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:02:25","DANGER2",495,47
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:02:25","DAT2",496,47
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:02:29","SAFE1",497,47
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:02:41","AT1",498,47
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:02:46","SAFE1",499,47
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:02:54","AT1",500,47
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:02:56","DANGER1",501,47
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:02:56","DAT1",502,47
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:03:03","Stop RT1",503,47
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:03:06","CONF_PERIOD_SCORE",504,45
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:17:38","Players are coming out",505,45
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:18:07","Game about to start",506,45
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:18:29","Start RT2 Team 2",507,46
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:18:52","AT2",508,46
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:18:52","DANGER2",509,46
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:18:52","DAT2",510,46
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:18:58","POSSIBLE_TI",511,46
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:18:58","TI2",512,46
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:19:04","Restart",513,46
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:19:05","SAFE2",514,46
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:19:59","AT2",515,47
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:20:02","Possible Free Kick",516,47
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:20:12","SAFE2",518,47
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:20:12","F1",519,47
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:20:12","FK2",520,47
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:20:12","Ball Position",521,47
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:20:19","AT2",522,47
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:20:19","DANGER2",523,47
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:20:19","DAT2",524,47
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:20:20","Restart",525,47
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:20:31","POSSIBLE_TI",526,48
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:20:38","TI1",527,48
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:20:52","Restart",528,48
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:20:56","SAFE1",529,48
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:20:58","Possible Free Kick",530,48
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:21:08","F2",532,48
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:21:08","FK1",533,48
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:21:08","Ball Position",534,48
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:21:20","Restart",535,48
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:21:24","AT1",536,48
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:21:27","POSSIBLE_TI",537,48
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:21:34","NO_TI",538,49
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:21:35","Possible Free Kick",539,49
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:21:36","SAFE1",541,49
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:21:36","F2",542,49
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:21:36","FK1",543,49
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:21:36","Ball Position",544,49
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:21:36","Restart",545,49
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:21:39","AT1",546,49
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:21:41","DANGER1",547,49
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:21:41","DAT1",548,49
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:21:47","POSSIBLE_TI",549,49
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:21:48","TI2",550,49
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:21:49","Restart",551,49
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:21:51","SAFE2",552,49
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:21:55","SAFE1",553,49
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:22:09","SAFE2",554,49
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:22:36","Possible Free Kick",555,50
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:22:40","F1",557,50
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:22:40","FK2",558,50
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:22:40","Ball Position",559,50
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:22:44","Restart",560,50
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:22:54","AT2",561,50
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:22:55","DANGER2",562,50
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:22:55","DAT2",563,50
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:23:00","SAFE1",564,50
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:23:05","POSSIBLE_TI",565,50
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:23:05","TI2",566,50
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:23:13","SAFE2",567,50
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:23:14","Restart",568,50
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:23:27","AT2",569,50
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:23:28","DANGER2",570,50
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:23:28","DAT2",571,50
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:23:34","SAFE1",572,51
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:23:47","SAFE2",573,51
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:23:58","AT2",574,51
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:23:59","DANGER2",575,51
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:23:59","DAT2",576,51
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:24:02","POSSIBLE_TI",577,51
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:24:03","TI2",578,51
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:24:10","Restart",579,51
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:24:18","SAFE2",580,51
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:24:24","AT2",581,51
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:24:27","SAFE2",582,51
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:24:32","AT2",583,52
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:24:35","DANGER2",584,52
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:24:35","DAT2",585,52
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:24:36","SAFE1",586,52
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:24:42","SAFE2",587,52
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:25:00","AT2",588,52
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:25:13","DANGER2",589,52
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:25:13","DAT2",590,52
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:25:34","SHB2",591,53
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:25:34","SAFE1",592,53
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:25:35","GK1",593,53
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:25:55","Restart",594,53
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:25:59","AT2",595,53
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:25:59","DANGER2",596,53
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:25:59","DAT2",597,53
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:26:07","SAFE1",598,53
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:26:08","SAFE2",599,53
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:26:26","AT1",600,53
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:26:26","DANGER1",601,53
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:26:26","DAT1",602,53
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:26:45","SAFE2",603,54
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:26:46","SAFE1",604,54
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:26:48","SAFE2",605,54
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:26:49","AT2",606,54
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:27:01","DANGER2",607,54
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:27:01","DAT2",608,54
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:27:15","POSSIBLE_TI",609,54
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:27:16","TI1",610,54
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:27:23","Restart",611,54
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:27:36","SAFE1",612,55
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:27:38","SAFE2",613,55
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:27:59","AT2",614,55
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:28:03","DANGER2",615,55
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:28:03","DAT2",616,55
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:28:12","POSSIBLE_TI",617,55
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:28:16","TI1",618,55
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:28:29","Restart",619,56
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:28:30","SAFE1",620,56
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:28:44","AT1",621,56
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:28:53","SAFE1",622,56
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:28:57","AT1",623,56
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:29:04","DANGER1",624,56
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:29:04","DAT1",625,56
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:29:17","SAFE1",626,56
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:29:21","AT1",627,56
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:29:29","DANGER1",628,56
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:29:29","DAT1",629,56
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:29:38","SAFE2",630,57
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:29:41","AT2",631,57
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:29:45","DANGER2",632,57
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:29:45","DAT2",633,57
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:29:58","SAFE2",634,57
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:30:00","AT2",635,57
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:30:07","DANGER2",636,57
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:30:07","DAT2",637,57
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:30:09","POSSIBLE_TI",638,57
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:30:11","TI1",639,57
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:30:32","Restart",640,58
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:30:37","SAFE1",641,58
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:30:40","SAFE2",642,58
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:30:41","AT2",643,58
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:30:47","SAFE2",644,58
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:30:59","AT2",645,58
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:31:01","DANGER2",646,58
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:31:01","DAT2",647,58
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:31:05","PCR2",648,58
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:31:07","NCR2",649,58
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:31:08","SHB2",650,58
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:31:09","SAFE1",651,58
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:31:10","GK1",652,58
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:31:32","Restart",653,59
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:31:35","AT1",654,59
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:31:40","Possible Free Kick",655,59
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:31:43","SAFE2",657,59
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:31:43","F1",658,59
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:31:43","FK2",659,59
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:31:43","Ball Position",660,59
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:31:50","Restart",661,59
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:31:55","SAFE1",662,59
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:32:00","AT1",663,59
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:32:02","SAFE2",664,59
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:32:10","AT1",665,59
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:32:10","DANGER1",666,59
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:32:10","DAT1",667,59
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:32:17","SAFE1",668,59
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:32:24","AT1",669,59
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:32:25","Possible Free Kick",670,59
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:32:30","F2",672,60
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:32:30","FK1",673,60
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:32:30","DANGER1",674,60
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:32:30","DFK1",675,60
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:32:30","Ball Position",676,60
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:32:38","Restart",677,60
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:32:43","SAFE1",678,60
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:32:50","AT1",679,60
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:32:54","DANGER1",680,60
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:32:54","DAT1",681,60
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:33:04","PCR1",682,60
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:33:08","CR1",683,60
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:33:10","SHB1",684,60
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:33:11","Ball Position",685,60
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:33:36","Restart",686,61
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:33:45","Possible Free Kick",687,61
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:33:51","F2",689,61
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:33:51","FK1",690,61
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:33:51","DFK1",691,61
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:33:51","Ball Position",692,61
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:34:49","Restart",693,62
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:34:53","SHB1",694,62
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:34:54","SAFE2",695,62
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:34:54","GK2",696,62
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:35:15","SUB1",697,62
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:35:32","SUB2",698,63
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:35:49","Player_DATA_CONFIRMED",699,63
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:35:51","Restart",700,63
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:35:57","SAFE1",701,63
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:36:01","AT1",702,63
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:36:02","DANGER1",703,63
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:36:02","DAT1",704,63
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:36:08","PCR1",705,63
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:36:09","CR1",706,63
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:36:10","Ball Position",707,63
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:36:24","Player_DATA_CONFIRMED",708,63
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:36:31","Restart",709,64
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:36:36","SHG1",710,64
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:36:37","SAFE2",711,64
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:36:52","AT1",712,64
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:36:52","DANGER1",713,64
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:36:52","DAT1",714,64
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:36:57","SAFE2",715,64
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:36:59","AT1",716,64
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:37:02","DANGER1",717,64
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:37:02","DAT1",718,64
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:37:08","SHG1",719,64
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:37:09","SAFE2",720,64
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:37:18","AT2",721,64
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:37:28","SAFE2",722,64
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:37:30","AT2",723,65
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:37:30","DANGER2",724,65
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:37:30","DAT2",725,65
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:37:56","SAFE2",726,65
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:38:00","AT2",727,65
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:38:11","DANGER2",728,65
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:38:11","DAT2",729,65
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:38:22","Possible Free Kick",730,65
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:38:34","F1",732,66
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:38:34","FK2",733,66
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:38:34","DFK2",734,66
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:38:34","Ball Position",735,66
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:39:05","Restart",736,66
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:39:09","SAFE1",737,66
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:39:10","GK1",738,66
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:39:27","Restart",739,66
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:39:42","AT1",740,67
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:40:03","SAFE1",741,67
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:40:07","AT1",742,67
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:40:18","SAFE1",743,67
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:40:21","AT1",744,67
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:40:28","DANGER1",745,67
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:40:28","DAT1",746,67
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:40:55","POSSIBLE_TI",747,68
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:40:56","TI1",748,68
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:41:03","Restart",749,68
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:41:11","SAFE1",750,68
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:41:16","AT1",751,68
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:41:29","DANGER1",752,68
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:41:29","DAT1",753,68
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:41:32","SAFE2",754,69
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:41:41","AT1",755,69
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:41:41","DANGER1",756,69
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:41:41","DAT1",757,69
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:41:53","POSSIBLE_TI",758,69
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:41:57","TI1",759,69
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:42:01","Restart",760,69
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:42:05","SAFE1",761,69
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:42:37","AT1",762,70
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:42:45","DANGER1",763,70
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:42:45","DAT1",764,70
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:42:53","Possible Free Kick",765,70
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:43:01","SAFE2",767,70
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:43:01","F1",768,70
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:43:01","FK2",769,70
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:43:01","Ball Position",770,70
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:43:17","Restart",771,70
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:43:32","AT2",772,71
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:43:35","DANGER2",773,71
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:43:35","DAT2",774,71
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:44:04","SAFE1",775,71
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:44:06","AT1",776,71
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:44:16","SAFE1",777,71
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:44:19","AT1",778,71
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:44:25","DANGER1",779,71
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:44:25","DAT1",780,71
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:44:35","SAFE2",781,72
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:44:36","SAFE1",782,72
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:44:39","AT1",783,72
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:44:47","DANGER1",784,72
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:44:47","DAT1",785,72
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:45:03","PCR1",786,72
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:45:05","NCR1",787,72
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:45:06","SAFE2",788,72
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:45:06","GK2",789,72
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:45:36","SUB1",790,73
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:45:47","Player_DATA_CONFIRMED",791,73
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:45:52","Restart",792,73
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:45:59","Possible Free Kick",793,73
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:46:00","SAFE1",795,73
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:46:00","F2",796,73
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:46:00","FK1",797,73
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:46:00","Ball Position",798,73
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:46:50","SUB2",799,74
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:46:56","Player_DATA_CONFIRMED",800,74
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:47:14","AT1",801,74
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:47:14","DANGER1",802,74
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:47:14","DAT1",803,74
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:47:16","Restart",804,74
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:47:26","Possible Free Kick",805,74
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:47:34","SAFE2",807,75
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:47:34","O1",808,75
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:47:34","FK2",809,75
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:47:34","Ball Position",810,75
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:47:43","Restart",811,75
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:47:53","SAFE1",812,75
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:47:55","AT1",813,75
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:47:55","DANGER1",814,75
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:47:55","DAT1",815,75
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:48:00","SAFE2",816,75
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:48:04","POSSIBLE_TI",817,75
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:48:04","TI2",818,75
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:48:14","Restart",819,75
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:48:22","AT1",820,75
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:48:22","DANGER1",821,75
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:48:22","DAT1",822,75
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:48:27","SAFE2",823,75
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:48:31","AT2",824,76
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:48:32","SAFE1",825,76
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:48:36","AT1",826,76
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:48:39","DANGER1",827,76
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:48:39","DAT1",828,76
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:48:47","SHB1",829,76
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:48:55","GOAL1",830,76
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:49:02","Scorer",831,76
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:49:15","CONF_GOAL1",832,76
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:49:55","Player_DATA_CONFIRMED",833,77
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:49:55","Assist",834,77
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:49:57","Scorer",835,77
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:50:13","Scorer",836,77
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:50:13","KO2",837,77
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:50:13","SAFE2",838,77
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:50:25","AT2",839,77
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:50:30","Possible Free Kick",840,78
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:50:40","F1",842,78
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:50:40","FK2",843,78
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:50:40","DANGER2",844,78
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:50:40","DFK2",845,78
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:50:40","Ball Position",846,78
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:50:43","Restart",847,78
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:50:45","SAFE2",848,78
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:50:50","AT2",849,78
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:50:55","SAFE1",850,78
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:50:56","AT1",851,78
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:50:58","DANGER1",852,78
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:50:58","DAT1",853,78
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:51:24","SAFE1",854,78
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:51:30","AT1",855,79
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:51:37","DANGER1",856,79
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:51:37","DAT1",857,79
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:51:47","Possible Free Kick",858,79
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:51:55","F2",860,79
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:51:55","FK1",861,79
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:51:55","DFK1",862,79
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:51:55","Ball Position",863,79
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:52:33","Restart",864,80
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:52:40","SHG1",865,80
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:52:41","SAFE2",866,80
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:52:45","AT2",867,80
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:52:56","DANGER2",868,80
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:52:56","DAT2",869,80
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:53:25","SAFE2",870,80
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:53:48","AT2",871,81
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:53:55","DANGER2",872,81
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:53:55","DAT2",873,81
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:54:04","SHG2",874,81
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:54:04","SAFE1",875,81
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:54:20","SAFE2",876,81
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:54:24","AT2",877,81
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:54:30","DANGER2",878,82
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:54:30","DAT2",879,82
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:54:47","POSSIBLE_TI",880,82
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:54:48","TI1",881,82
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:55:31","SUB1",882,83
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:55:49","Restart",883,83
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:55:50","Player_DATA_CONFIRMED",884,83
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:55:53","POSSIBLE_TI",885,83
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:55:54","TI1",886,83
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:56:01","Restart",887,83
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:56:07","SAFE1",888,83
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:56:14","SAFE2",889,83
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:56:36","AT2",890,84
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:56:39","DANGER2",891,84
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:56:39","DAT2",892,84
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:56:54","SAFE2",893,84
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:56:56","AT2",894,84
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:56:59","DANGER2",895,84
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:56:59","DAT2",896,84
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:57:06","SAFE1",897,84
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:57:08","AT1",898,84
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:57:12","DANGER1",899,84
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:57:12","DAT1",900,84
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:57:21","SAFE1",901,84
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:57:36","AT1",902,85
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:57:41","SAFE1",903,85
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:57:59","POSSIBLE_TI",904,85
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:57:59","TI1",905,85
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:58:05","Restart",906,85
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:58:11","Possible Free Kick",907,85
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:58:14","SAFE2",909,85
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:58:14","F1",910,85
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:58:14","FK2",911,85
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:58:14","Ball Position",912,85
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:58:17","Restart",913,85
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:58:39","SAFE1",914,86
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:58:41","AT1",915,86
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:58:45","SAFE2",916,86
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:58:49","AT2",917,86
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:58:51","DANGER2",918,86
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:58:51","DAT2",919,86
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:59:02","PCR2",920,86
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:59:05","CR2",921,86
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:59:06","SHG2",922,86
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:59:09","Ball Position",923,86
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:59:27","Restart",924,86
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:59:32","SAFE1",925,87
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:59:46","AT1",926,87
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:59:46","DANGER1",927,87
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:59:46","DAT1",928,87
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:59:49","BREAKAWAY1",929,87
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 15:59:56","DANGER1",930,87
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:00:02","SAFE2",931,87
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:00:07","POSSIBLE_TI",932,87
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:00:09","TI2",933,87
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:00:19","Restart",934,87
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:00:28","AT2",935,87
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:00:31","DANGER2",936,88
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:00:31","DAT2",937,88
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:00:43","PCR2",938,88
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:00:46","CR2",939,88
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:00:49","SHG2",940,88
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:00:49","Ball Position",941,88
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:01:03","Restart",942,88
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:01:06","GOAL2",943,88
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:01:20","CGOAL2",944,88
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:01:21","Possible Free Kick",945,88
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:01:25","SAFE1",947,88
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:01:25","F2",948,88
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:01:25","FK1",949,88
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:01:25","Ball Position",950,88
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:01:37","System Message",951,89
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:01:47","Restart",952,89
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:01:49","AT1",953,89
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:01:51","DANGER1",954,89
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:01:51","DAT1",955,89
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:01:57","POSSIBLE_TI",956,89
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:01:58","TI1",957,89
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:02:14","Restart",958,89
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:02:34","SAFE2",959,90
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:02:38","AT1",960,90
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:02:42","Possible Free Kick",961,90
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:02:43","SAFE2",963,90
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:02:43","F1",964,90
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:02:43","FK2",965,90
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:02:43","Ball Position",966,90
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:02:46","Restart",967,90
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:02:57","AT2",968,90
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:03:05","DANGER2",969,90
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:03:05","DAT2",970,90
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:03:08","POSSIBLE_TI",971,90
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:03:09","TI2",972,90
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:03:13","Restart",973,90
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:03:27","PCR2",974,90
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:03:31","CR2",975,91
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:03:32","Ball Position",976,91
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:03:35","Extra Time",977,91
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:03:50","Restart",978,91
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:03:54","SHW2",979,91
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:04:03","SAFE2",980,91
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:04:18","AT2",981,91
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:04:18","DANGER2",982,91
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:04:18","DAT2",983,91
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:04:21","SAFE1",984,91
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:04:42","AT1",985,92
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:04:48","SAFE2",986,92
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:04:57","AT2",987,92
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:05:01","SAFE1",988,92
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:05:03","AT1",989,92
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:05:03","DANGER1",990,92
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:05:03","DAT1",991,92
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:05:09","BREAKAWAY1",992,92
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:05:14","GOAL1",993,92
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:05:24","Scorer",994,92
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:05:34","CONF_GOAL1",995,93
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:06:26","Player_DATA_CONFIRMED",996,93
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:06:26","Assist",997,93
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:06:28","POSSIBLE_CARDS",998,93
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:06:37","KO2",999,94
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:06:37","SAFE2",1000,94
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:06:43","YC2",1001,94
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:06:46","CONF_YC2",1002,94
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:06:48","Scorer",1003,94
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:06:53","Stop RT2",1004,94
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:06:53","Stop Game",1005,94
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:06:54","Scorer",1006,93
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:06:55","Player_DATA_CONFIRMED",1007,93
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:06:56","CONF_PERIOD_SCORE",1008,93
+972928,"Athletic Club Bilbao","Real Betis Balompie","05/05/2018 16:07:41","Scorer",1009,93

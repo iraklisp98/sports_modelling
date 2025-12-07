@@ -1,0 +1,845 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 18:38:00","Transmission Online",0,0
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 18:38:16","GCC",1,0
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 19:00:48","Lineup changed",2,0
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 19:01:21","Scout in Stadion",3,0
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 19:41:00","GCC",4,0
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 19:41:37","Jersey Changed",5,0
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 19:41:37","Jersey Changed",6,0
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 19:56:09","Players are coming out",7,0
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 19:56:12","System Message",8,0
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 19:57:05","Players lined up",9,0
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 19:57:10","Shake hands",10,0
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 19:58:04","System Message",11,0
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 19:58:12","GCC",12,0
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 19:58:44","Flip coin",13,0
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 19:59:07","Game about to start",14,0
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:00:26","Start RT1",15,1
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:00:31","Start score update",16,1
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:00:31","Statistic confirmation",17,1
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:00:32","Score update finished",18,1
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:00:36","POSSIBLE_TI",19,1
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:00:37","TI2",20,1
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:00:37","Restart",21,1
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:00:49","SAFE1",22,1
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:01:06","System Message",23,1
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:01:07","POSSIBLE_TI",24,1
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:01:09","TI2",25,1
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:01:10","Restart",26,1
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:01:12","SAFE2",27,1
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:01:34","POSSIBLE_TI",28,2
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:01:35","TI1",29,2
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:01:35","Restart",30,2
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:01:57","AT1",31,2
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:01:57","DANGER1",32,2
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:01:57","DAT1",33,2
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:02:06","Adjust Game Clock",34,3
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:02:28","POSSIBLE_TI",35,3
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:02:28","TI1",36,3
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:02:37","Adjust Game Clock",37,3
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:02:51","Possible Free Kick",38,3
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:02:52","SAFE2",40,3
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:02:52","F1",41,3
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:02:52","FK2",42,3
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:02:53","Ball Position",43,3
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:03:02","System Message",44,4
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:03:03","Restart",45,4
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:03:19","Danger",46,4
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:03:21","POSSIBLE_TI",47,4
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:03:22","TI1",48,4
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:03:24","Restart",49,4
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:03:27","SAFE1",50,4
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:03:29","Start score update",51,4
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:03:29","Statistic confirmation",52,4
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:03:29","Score update finished",53,4
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:03:33","AT1",54,4
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:03:38","DANGER1",55,4
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:03:38","DAT1",56,4
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:03:45","System Message",57,4
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:03:51","SAFE1",58,4
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:03:59","AT1",59,4
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:04:03","DANGER1",60,5
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:04:03","DAT1",61,5
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:04:11","System Message",62,5
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:04:11","SHG1",63,5
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:04:12","SAFE2",64,5
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:04:38","SAFE1",65,5
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:04:41","SAFE2",66,5
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:04:43","AT2",67,5
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:04:46","DANGER2",68,5
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:04:46","DAT2",69,5
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:04:57","POSSIBLE_TI",70,5
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:04:58","TI2",71,5
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:05:07","Restart",72,6
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:05:21","BLOCKED2",73,6
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:05:32","Possible Free Kick",74,6
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:05:35","SAFE1",76,6
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:05:35","F2",77,6
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:05:35","FK1",78,6
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:05:35","Ball Position",79,6
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:05:42","Restart",80,6
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:05:58","SAFE2",81,6
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:06:23","POSSIBLE_TI",82,7
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:06:24","TI2",83,7
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:06:37","Restart",84,7
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:06:41","SAFE1",85,7
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:06:55","POSSIBLE_TI",86,7
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:06:56","TI2",87,7
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:07:11","Restart",88,8
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:07:16","POSSIBLE_TI",89,8
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:07:17","TI1",90,8
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:07:19","Restart",91,8
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:07:20","SAFE1",92,8
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:08:09","AT1",93,9
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:08:11","DANGER1",94,9
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:08:11","DAT1",95,9
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:08:13","PCR1",96,9
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:08:16","CR1",97,9
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:08:25","Ball Position",98,9
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:08:39","Restart",99,9
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:09:00","Scout offline",100,9
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:09:26","Transmission Online",101,10
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:09:26","Start score update",102,10
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:09:26","Statistic confirmation",103,10
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:09:26","Score update finished",104,10
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:09:27","SAFE1",105,10
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:09:30","System Message",106,10
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:09:30","POSSIBLE_TI",107,10
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:09:33","NO_TI",108,10
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:09:34","Possible Free Kick",109,10
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:09:44","F1",111,10
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:09:44","FK2",112,10
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:09:44","DANGER2",113,10
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:09:44","DFK2",114,10
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:09:44","Ball Position",115,10
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:09:49","Restart",116,10
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:09:55","POSSIBLE_TI",117,10
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:09:56","TI2",118,10
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:10:01","Restart",119,10
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:10:06","SAFE1",120,11
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:10:11","AT1",121,11
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:10:22","DANGER1",122,11
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:10:22","DAT1",123,11
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:10:25","SAFE2",124,11
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:10:36","AT2",125,11
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:10:42","SAFE1",126,11
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:11:23","AT1",127,12
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:11:26","DANGER1",128,12
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:11:26","DAT1",129,12
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:11:49","SAFE1",130,12
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:11:55","AT1",131,12
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:11:57","DANGER1",132,12
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:11:57","DAT1",133,12
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:12:02","SHG1",134,13
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:12:03","SAFE2",135,13
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:12:35","SAFE1",136,13
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:12:45","AT1",137,13
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:12:59","SAFE1",138,13
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:13:09","AT1",139,14
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:13:19","SAFE2",140,14
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:13:21","SAFE1",141,14
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:13:27","AT1",142,14
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:13:31","DANGER1",143,14
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:13:31","DAT1",144,14
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:13:47","SAFE2",145,14
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:13:53","SAFE1",146,14
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:14:21","Possible Free Kick",147,15
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:14:22","F2",149,15
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:14:22","FK1",150,15
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:14:22","Ball Position",151,15
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:14:26","Restart",152,15
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:14:41","AT2",153,15
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:14:44","DANGER2",154,15
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:14:44","DAT2",155,15
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:14:47","PCR2",156,15
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:14:53","CR2",157,15
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:14:55","Ball Position",158,15
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:15:30","Restart",159,16
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:15:35","SAFE1",160,16
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:15:40","AT1",161,16
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:15:47","POSSIBLE_TI",162,16
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:15:48","TI2",163,16
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:16:05","Restart",164,17
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:16:11","SAFE2",165,17
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:16:34","AT2",166,17
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:16:40","SAFE1",167,17
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:16:41","GK1",168,17
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:17:05","Restart",169,18
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:17:29","AT1",170,18
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:17:35","SAFE2",171,18
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:17:44","SAFE1",172,18
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:17:46","AT1",173,18
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:17:50","SAFE2",174,18
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:18:20","Start score update",175,19
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:18:20","Statistic confirmation",176,19
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:18:20","Score update finished",177,19
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:18:25","SAFE2",178,19
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:18:30","System Message",179,19
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:18:45","AT2",180,19
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:18:48","DANGER2",181,19
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:18:48","DAT2",182,19
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:19:17","SAFE2",183,20
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:19:21","AT2",184,20
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:19:36","SAFE2",185,20
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:19:42","AT2",186,20
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:19:46","DANGER2",187,20
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:19:46","DAT2",188,20
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:20:05","SHB2",189,21
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:20:06","SAFE1",190,21
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:20:07","GK1",191,21
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:20:39","Restart",192,21
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:20:44","AT1",193,21
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:20:53","SAFE1",194,21
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:21:07","SAFE2",195,22
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:21:25","AT2",196,22
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:21:39","SAFE1",197,22
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:21:52","AT2",198,22
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:22:07","DANGER2",199,23
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:22:07","DAT2",200,23
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:22:09","PCR2",201,23
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:22:13","NCR2",202,23
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:22:14","Possible Free Kick",203,23
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:22:18","SAFE1",205,23
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:22:18","O2",206,23
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:22:18","FK1",207,23
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:22:18","Ball Position",208,23
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:22:35","Restart",209,23
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:22:42","AT1",210,23
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:22:44","SAFE2",211,23
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:23:03","AT2",212,24
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:23:11","DANGER2",213,24
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:23:11","DAT2",214,24
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:23:21","SAFE2",215,24
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:23:43","POSSIBLE_TI",216,24
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:23:45","TI2",217,24
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:23:50","Restart",218,24
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:24:12","Possible Free Kick",219,25
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:24:15","F1",221,25
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:24:15","FK2",222,25
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:24:15","DANGER2",223,25
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:24:15","DFK2",224,25
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:24:15","Ball Position",225,25
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:24:18","Restart",226,25
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:24:41","PCR2",227,25
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:24:49","CR2",228,25
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:24:50","Ball Position",229,25
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:25:22","Restart",230,26
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:25:30","GOAL2",231,26
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:26:09","CONF_GOAL2",232,27
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:26:12","Scorer",233,27
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:26:12","KO1",234,27
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:26:12","SAFE1",235,27
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:26:15","SAFE1",236,27
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:26:27","AT1",237,27
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:26:44","Scorer",238,27
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:26:44","Player_DATA_CONFIRMED",239,27
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:26:44","Assist",240,27
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:26:48","Scorer",241,27
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:27:12","DANGER1",242,28
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:27:12","DAT1",243,28
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:27:32","SAFE1",244,28
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:27:39","AT1",245,28
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:27:44","DANGER1",246,28
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:27:44","DAT1",247,28
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:27:46","POSSIBLE_TI",248,28
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:27:47","TI1",249,28
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:27:51","Restart",250,28
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:28:21","SAFE1",251,29
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:28:33","AT1",252,29
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:28:39","Possible Free Kick",253,29
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:28:42","F2",255,29
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:28:42","FK1",256,29
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:28:42","DANGER1",257,29
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:28:42","DFK1",258,29
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:28:42","Ball Position",259,29
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:29:54","Restart",260,30
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:30:00","GOAL1",261,30
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:30:26","CONF_GOAL1",262,31
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:30:33","Scorer",263,31
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:30:33","KO2",264,31
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:30:33","SAFE2",265,31
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:30:36","SAFE2",266,31
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:30:49","AT1",267,31
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:30:53","Scorer",268,31
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:30:53","DANGER1",269,31
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:30:53","DAT1",270,31
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:30:53","Player_DATA_CONFIRMED",271,31
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:31:02","SAFE2",272,32
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:31:24","Possible Free Kick",273,32
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:31:58","No Free Kick",275,32
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:31:59","POSSIBLE_TI",276,32
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:32:03","TI2",277,33
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:32:16","Restart",278,33
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:32:19","AT1",279,33
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:32:26","Possible Free Kick",280,33
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:32:28","SAFE2",282,33
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:32:28","F1",283,33
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:32:28","FK2",284,33
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:32:28","Ball Position",285,33
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:33:02","Restart",286,34
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:33:06","AT2",287,34
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:33:11","SAFE2",288,34
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:33:14","Assist",289,34
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:33:25","AT2",290,34
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:33:38","SAFE2",291,34
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:33:57","AT1",292,34
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:34:00","SAFE2",293,34
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:34:01","AT2",294,34
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:34:02","DANGER2",295,35
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:34:02","DAT2",296,35
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:34:08","PCR2",297,35
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:34:16","CR2",298,35
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:34:16","Ball Position",299,35
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:34:55","Restart",300,35
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:35:03","SAFE2",301,36
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:35:32","Possible Free Kick",302,36
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:35:33","F1",304,36
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:35:33","FK2",305,36
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:35:33","Ball Position",306,36
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:35:55","SUB2",307,36
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:36:03","Restart",308,37
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:36:18","POSSIBLE_TI",309,37
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:36:20","TI1",310,37
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:36:27","Restart",311,37
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:36:31","AT1",312,37
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:36:34","DANGER1",313,37
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:36:34","DAT1",314,37
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:36:42","PPEN",315,37
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:36:42","PPEN1",316,37
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:36:45","POSSIBLE_CARDS",317,37
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:36:46","YC2",318,37
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:36:50","CONF_YC2",319,37
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:36:50","Scorer",320,37
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:37:00","No PEN",321,37
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:37:01","Possible Free Kick",322,38
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:37:03","F2",324,38
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:37:03","FK1",325,38
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:37:03","DFK1",326,38
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:37:04","Ball Position",327,38
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:37:06","Scorer",328,38
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:37:06","Player_DATA_CONFIRMED",329,38
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:37:14","Player_DATA_CONFIRMED",330,38
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:37:37","Restart",331,38
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:37:43","BLOCKED1",332,38
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:37:46","POSSIBLE_CARDS",333,38
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:37:46","PRC",334,38
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:37:58","YC1",335,38
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:38:00","CONF_YC1",336,38
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:38:07","Scorer",337,39
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:38:16","No RC",338,39
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:38:17","Possible Free Kick",339,39
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:38:18","SAFE2",341,39
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:38:18","F1",342,39
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:38:18","FK2",343,39
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:38:18","Ball Position",344,39
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:38:32","Scorer",345,39
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:38:32","Player_DATA_CONFIRMED",346,39
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:38:50","Restart",347,39
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:39:09","Possible Free Kick",348,40
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:39:12","POSSIBLE_CARDS",350,40
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:39:13","YC1",351,40
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:39:14","CONF_YC1",352,40
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:39:32","Scorer",353,40
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:39:35","F1",354,40
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:39:35","FK2",355,40
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:39:35","Ball Position",356,40
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:39:43","Restart",357,40
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:39:44","AT2",358,40
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:39:53","SAFE1",359,40
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:39:54","AT1",360,40
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:40:02","SAFE1",361,41
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:40:13","AT1",362,41
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:40:16","Possible Free Kick",363,41
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:40:18","POSSIBLE_CARDS",365,41
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:40:40","YC2",366,41
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:40:40","CONF_YC2",367,41
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:40:40","Scorer",368,41
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:40:49","F2",369,41
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:40:49","FK1",370,41
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:40:50","DANGER1",371,41
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:40:50","DFK1",372,41
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:40:50","Ball Position",373,41
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:40:58","Scorer",374,41
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:40:58","Player_DATA_CONFIRMED",375,41
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:41:06","Restart",376,42
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:41:44","SAFE2",377,42
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:41:47","AT2",378,42
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:41:50","Possible Free Kick",379,42
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:41:52","POSSIBLE_CARDS",381,42
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:41:52","YC1",382,42
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:41:53","CONF_YC1",383,42
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:41:55","Scorer",384,42
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:41:59","F1",385,42
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:41:59","FK2",386,42
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:41:59","DANGER2",387,42
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:41:59","DFK2",388,42
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:41:59","Ball Position",389,42
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:42:14","Scorer",390,43
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:42:14","Player_DATA_CONFIRMED",391,43
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:42:14","Restart",392,43
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:42:18","SAFE2",393,43
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:42:39","AT2",394,43
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:43:00","Possible Free Kick",395,43
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:43:02","SAFE1",397,44
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:43:02","F2",398,44
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:43:02","FK1",399,44
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:43:02","Ball Position",400,44
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:43:31","Injury Break",401,44
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:44:03","Player_DATA_CONFIRMED",402,45
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:44:55","Restart",403,45
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:45:05","Extra Time",404,46
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:45:10","AT1",405,46
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:45:23","SAFE2",406,46
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:45:25","AT2",407,46
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:45:47","SAFE2",408,46
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:46:19","AT2",409,47
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:46:37","DANGER2",410,47
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:46:37","DAT2",411,47
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:46:43","Possible Free Kick",412,47
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:46:45","SAFE1",414,47
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:46:45","F2",415,47
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:46:45","FK1",416,47
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:46:45","Ball Position",417,47
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:47:09","Restart",418,48
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:47:11","AT1",419,48
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:47:48","Referee Ball",420,48
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:47:55","Restart",421,48
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:47:59","SAFE2",422,48
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:48:09","Stop RT1",423,48
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 20:48:22","CONF_PERIOD_SCORE",424,45
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:01:42","Players are coming out",425,45
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:02:51","SUB2",426,45
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:03:09","Game about to start",427,45
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:03:14","Player_DATA_CONFIRMED",428,45
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:03:25","System Message",429,45
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:03:34","Start RT2 Team 1",430,46
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:03:36","SAFE1",431,46
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:03:42","System Message",432,46
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:03:45","AT1",433,46
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:03:49","SAFE2",434,46
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:03:49","GK2",435,46
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:03:57","Restart",436,46
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:04:15","SAFE1",437,46
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:04:38","SAFE2",438,47
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:05:17","AT2",439,47
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:05:28","DANGER2",440,47
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:05:28","DAT2",441,47
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:05:55","SAFE1",442,48
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:05:55","GK1",443,48
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:06:18","Restart",444,48
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:06:24","SAFE2",445,48
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:06:28","AT2",446,48
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:06:32","DANGER2",447,48
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:06:32","DAT2",448,48
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:06:56","Possible Free Kick",449,49
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:06:57","SAFE1",451,49
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:06:58","F2",452,49
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:06:58","FK1",453,49
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:06:58","Ball Position",454,49
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:07:09","Restart",455,49
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:07:24","AT1",456,49
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:07:29","SAFE2",457,49
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:07:48","SAFE1",458,50
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:08:09","AT1",459,50
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:08:10","POSSIBLE_TI",460,50
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:08:10","TI2",461,50
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:08:21","Start score update",462,50
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:08:21","Statistic confirmation",463,50
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:08:21","Score update finished",464,50
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:08:27","Restart",465,50
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:08:32","DANGER1",466,50
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:08:32","DAT1",467,50
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:08:41","Scout offline",468,51
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:08:42","Transmission Online",469,51
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:08:42","POSSIBLE_TI",470,51
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:08:43","TI2",471,51
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:08:55","Start score update",472,51
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:08:55","Statistic confirmation",473,51
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:08:55","Score update finished",474,51
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:08:55","Restart",475,51
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:08:57","POSSIBLE_TI",476,51
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:08:57","TI1",477,51
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:09:02","Restart",478,51
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:09:13","POSSIBLE_TI",479,51
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:09:13","TI2",480,51
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:09:14","Restart",481,51
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:09:37","PCR1",482,52
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:09:43","CR1",483,52
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:09:45","Ball Position",484,52
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:09:54","Restart",485,52
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:10:08","POSSIBLE_TI",486,52
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:10:08","TI2",487,52
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:10:26","Restart",488,52
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:10:30","SAFE2",489,52
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:10:31","GK2",490,52
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:10:50","Restart",491,53
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:10:58","CLS",492,53
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:11:17","Restart",493,53
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:11:22","AT1",494,53
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:11:23","DANGER1",495,53
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:11:23","DAT1",496,53
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:11:38","POSSIBLE_TI",497,54
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:11:39","TI2",498,54
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:11:46","Injury Break",499,54
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:13:01","Restart",500,55
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:13:12","SAFE2",501,55
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:13:13","AT2",502,55
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:13:21","SAFE1",503,55
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:14:00","Danger",504,56
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:14:00","Scout offline",505,56
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:14:08","Transmission Online",506,56
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:14:08","Start score update",507,56
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:14:09","Statistic confirmation",508,56
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:14:09","Score update finished",509,56
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:14:10","SAFE2",510,56
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:14:12","AT2",511,56
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:14:27","SAFE1",512,56
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:14:28","AT1",513,56
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:14:28","DANGER1",514,56
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:14:28","DAT1",515,56
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:14:37","PCR1",516,57
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:14:40","CR1",517,57
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:14:41","Ball Position",518,57
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:14:51","Restart",519,57
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:14:52","CLS",520,57
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:15:01","Restart",521,57
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:15:07","POSSIBLE_TI",522,57
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:15:07","TI1",523,57
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:15:10","Restart",524,57
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:15:23","SAFE1",525,57
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:15:42","Possible Free Kick",526,58
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:15:44","F2",528,58
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:15:44","FK1",529,58
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:15:44","Ball Position",530,58
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:15:45","Restart",531,58
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:15:58","AT1",532,58
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:16:02","POSSIBLE_TI",533,58
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:16:03","TI1",534,58
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:16:09","Restart",535,58
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:16:37","SAFE1",536,59
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:16:37","Start score update",537,59
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:16:37","Statistic confirmation",538,59
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:16:37","Score update finished",539,59
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:16:42","SAFE1",540,59
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:16:44","AT1",541,59
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:16:46","System Message",542,59
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:16:56","DANGER1",543,59
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:16:56","DAT1",544,59
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:17:05","SHG1",545,59
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:17:06","PCR1",546,59
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:17:13","CR1",547,59
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:17:14","Ball Position",548,59
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:17:23","Restart",549,59
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:17:25","CLS",550,59
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:17:30","Restart",551,59
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:17:35","PPEN",552,60
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:17:35","PPEN1",553,60
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:17:38","No PEN",554,60
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:17:42","SAFE2",555,60
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:17:43","POSSIBLE_TI",556,60
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:17:46","TI2",557,60
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:17:57","Restart",558,60
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:18:05","AT2",559,60
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:18:09","DANGER2",560,60
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:18:09","DAT2",561,60
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:18:53","SAFE2",562,61
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:19:07","Possible Free Kick",563,61
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:19:12","F1",565,61
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:19:12","FK2",566,61
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:19:12","DANGER2",567,61
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:19:12","DFK2",568,61
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:19:12","Ball Position",569,61
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:19:12","Restart",570,61
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:19:26","SAFE1",571,61
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:19:32","SAFE2",572,61
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:19:37","AT2",573,62
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:19:41","DANGER2",574,62
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:19:41","DAT2",575,62
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:19:48","SAFE1",576,62
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:19:59","Injury Break",577,62
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:21:10","Danger",578,63
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:21:10","Scout offline",579,63
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:21:25","System Message",580,63
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:21:36","Transmission Online",581,64
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:21:36","SUB1",582,64
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:21:41","Start score update",583,64
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:21:41","Statistic confirmation",584,64
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:21:41","Score update finished",585,64
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:21:54","Restart",586,64
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:21:55","SAFE1",587,64
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:22:16","POSSIBLE_TI",588,64
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:22:17","TI2",589,64
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:22:41","SUB2",590,65
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:22:42","Restart",591,65
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:22:43","SAFE2",592,65
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:22:44","Player_DATA_CONFIRMED",593,65
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:22:54","SAFE1",594,65
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:23:14","Player_DATA_CONFIRMED",595,65
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:23:17","AT1",596,65
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:23:26","Possible Free Kick",597,65
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:23:27","SAFE2",599,65
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:23:28","F1",600,65
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:23:28","FK2",601,65
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:23:28","Ball Position",602,65
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:23:50","Restart",603,66
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:24:00","AT1",604,66
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:24:06","SAFE2",605,66
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:24:44","POSSIBLE_TI",606,67
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:24:45","TI2",607,67
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:24:46","Restart",608,67
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:25:11","Possible Free Kick",609,67
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:25:16","F1",611,67
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:25:16","FK2",612,67
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:25:16","Ball Position",613,67
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:25:19","Restart",614,67
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:25:32","POSSIBLE_TI",615,67
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:25:32","TI1",616,67
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:25:38","Restart",617,68
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:25:39","SAFE1",618,68
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:25:48","AT2",619,68
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:25:50","DANGER2",620,68
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:25:50","DAT2",621,68
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:25:54","GOAL2",622,68
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:27:10","System Message",623,69
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:27:24","Start score update",624,69
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:27:26","GOAL1",625,69
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:27:44","CONF_GOAL1",626,70
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:27:46","Scorer",627,70
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:27:46","KO2",628,70
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:27:49","Score update finished",629,70
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:27:58","CONF_GOAL2",630,70
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:28:00","Scorer",631,70
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:28:00","KO1",632,70
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:28:00","SAFE1",633,70
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:28:02","AT2",634,70
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:28:04","DANGER2",635,70
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:28:04","DAT2",636,70
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:28:07","System Message",637,70
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:28:24","SAFE1",638,70
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:28:37","AT1",639,71
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:28:40","SAFE2",640,71
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:28:40","System Message",641,71
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:28:48","Possible Free Kick",642,71
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:28:50","F1",644,71
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:28:50","FK2",645,71
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:28:50","Ball Position",646,71
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:28:53","Restart",647,71
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:28:54","AT2",648,71
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:29:08","DANGER2",649,71
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:29:08","DAT2",650,71
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:29:13","Scorer",651,71
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:29:14","Player_DATA_CONFIRMED",652,71
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:29:14","Scorer",653,71
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:29:14","Player_DATA_CONFIRMED",654,71
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:29:25","System Message",655,71
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:29:30","SHG2",656,71
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:29:32","BLOCKED2",657,71
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:29:56","SHB2",658,72
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:29:56","SAFE1",659,72
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:29:57","GK1",660,72
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:30:23","SUB1",661,72
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:30:27","Restart",662,72
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:30:29","AT1",663,72
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:30:40","SAFE2",664,73
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:30:55","AT2",665,73
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:31:09","SAFE2",666,73
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:31:15","AT2",667,73
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:31:23","SAFE1",668,73
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:31:27","AT1",669,73
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:31:27","DANGER1",670,73
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:31:27","DAT1",671,73
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:31:34","SAFE2",672,73
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:31:45","AT2",673,74
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:31:49","DANGER2",674,74
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:31:49","DAT2",675,74
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:32:10","SAFE1",676,74
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:32:11","AT1",677,74
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:32:13","DANGER1",678,74
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:32:13","DAT1",679,74
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:32:15","Player_DATA_CONFIRMED",680,74
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:32:39","SAFE2",681,75
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:32:42","AT2",682,75
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:32:51","DANGER2",683,75
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:32:51","DAT2",684,75
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:32:56","PCR2",685,75
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:32:59","CR2",686,75
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:33:00","Ball Position",687,75
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:33:04","SHG2",688,75
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:33:22","SUB1",689,75
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:33:42","Restart",690,76
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:33:50","POSSIBLE_TI",691,76
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:33:51","TI2",692,76
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:34:03","Restart",693,76
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:34:15","POSSIBLE_TI",694,76
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:34:16","TI1",695,76
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:34:30","Restart",696,76
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:34:35","SAFE1",697,77
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:34:44","Player_DATA_CONFIRMED",698,77
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:35:07","AT1",699,77
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:35:10","POSSIBLE_TI",700,77
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:35:11","TI1",701,77
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:35:15","Restart",702,77
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:35:20","SAFE1",703,77
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:35:27","AT1",704,77
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:35:31","SAFE2",705,77
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:35:52","AT2",706,78
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:35:53","POSSIBLE_TI",707,78
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:35:54","TI2",708,78
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:36:10","Restart",709,78
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:36:13","SAFE2",710,78
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:36:46","SAFE1",711,79
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:36:47","AT1",712,79
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:36:49","DANGER1",713,79
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:36:49","DAT1",714,79
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:36:53","POSSIBLE_TI",715,79
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:36:54","TI1",716,79
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:36:57","Restart",717,79
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:37:38","Possible Free Kick",718,80
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:37:52","No Free Kick",720,80
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:37:54","SAFE1",721,80
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:38:00","AT1",722,80
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:38:07","POSSIBLE_TI",723,80
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:38:07","TI1",724,80
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:38:18","Restart",725,80
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:38:23","DANGER1",726,80
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:38:23","DAT1",727,80
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:38:24","POSSIBLE_TI",728,80
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:38:24","TI1",729,80
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:38:28","Restart",730,80
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:38:47","SAFE2",731,81
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:38:50","SAFE1",732,81
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:39:38","SAFE2",733,82
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:39:49","Possible Free Kick",734,82
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:39:51","F1",736,82
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:39:51","FK2",737,82
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:39:52","Ball Position",738,82
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:40:10","Restart",739,82
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:40:11","AT2",740,82
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:40:16","DANGER2",741,82
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:40:16","DAT2",742,82
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:40:29","SAFE2",743,82
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:40:41","AT1",744,83
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:40:42","POSSIBLE_TI",745,83
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:40:43","TI1",746,83
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:40:49","Restart",747,83
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:41:07","SAFE2",748,83
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:41:09","AT2",749,83
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:41:12","POSSIBLE_TI",750,83
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:41:12","TI1",751,83
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:41:15","Restart",752,83
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:41:15","SAFE1",753,83
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:41:41","SAFE2",754,84
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:41:49","AT2",755,84
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:41:56","SAFE2",756,84
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:42:18","AT2",757,84
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:42:22","POSSIBLE_TI",758,84
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:42:23","TI1",759,84
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:42:30","POSSIBLE_CARDS",760,84
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:42:37","NO_Cards",761,85
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:42:39","Restart",762,85
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:42:40","SAFE1",763,85
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:43:15","AT1",764,85
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:43:22","DANGER1",765,85
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:43:22","DAT1",766,85
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:43:25","SHG1",767,85
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:43:26","SAFE2",768,85
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:43:43","AT1",769,86
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:43:44","POSSIBLE_TI",770,86
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:43:45","TI2",771,86
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:44:12","POSSIBLE_CARDS",772,86
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:44:13","YC2",773,86
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:44:20","CONF_YC2",774,86
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:44:22","Scorer",775,86
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:44:29","Restart",776,86
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:44:32","SAFE2",777,86
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:44:33","AT2",778,86
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:44:44","Scorer",779,87
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:44:44","Player_DATA_CONFIRMED",780,87
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:44:48","DANGER2",781,87
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:44:48","DAT2",782,87
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:45:01","Possible Free Kick",783,87
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:45:07","F1",785,87
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:45:07","FK2",786,87
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:45:07","DFK2",787,87
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:45:08","Ball Position",788,87
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:45:31","Restart",789,87
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:45:35","SAFE1",790,88
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:45:35","GK1",791,88
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:45:45","Restart",792,88
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:45:46","AT1",793,88
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:46:02","SAFE2",794,88
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:46:12","AT2",795,88
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:46:15","SAFE2",796,88
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:46:29","AT2",797,88
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:46:32","DANGER2",798,88
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:46:32","DAT2",799,88
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:47:06","SAFE1",800,89
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:47:16","Possible Free Kick",801,89
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:47:18","F2",803,89
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:47:18","FK1",804,89
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:47:18","Ball Position",805,89
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:47:28","Restart",806,89
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:47:28","AT1",807,89
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:47:33","Possible Free Kick",808,89
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:47:37","SAFE2",810,90
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:47:37","O1",811,90
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:47:37","FK2",812,90
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:47:37","Ball Position",813,90
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:47:59","Restart",814,90
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:48:00","AT2",815,90
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:48:04","POSSIBLE_TI",816,90
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:48:04","TI2",817,90
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:48:11","Restart",818,90
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:48:14","DANGER2",819,90
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:48:14","DAT2",820,90
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:48:37","SHG2",821,91
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:48:39","Possible Free Kick",822,91
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:48:43","SAFE1",824,91
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:48:43","O2",825,91
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:48:43","FK1",826,91
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:48:44","Ball Position",827,91
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:48:47","Extra Time",828,91
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:48:48","Restart",829,91
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:48:54","Possible Free Kick",830,91
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:48:56","O2",832,91
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:48:56","FK1",833,91
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:48:57","Ball Position",834,91
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:49:18","Restart",835,91
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:49:20","AT1",836,91
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:49:28","SAFE2",837,91
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:49:49","AT1",838,92
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:49:56","DANGER1",839,92
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:49:56","DAT1",840,92
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:50:01","SAFE2",841,92
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:50:13","AT2",842,92
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:50:18","DANGER2",843,92
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:50:18","DAT2",844,92
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:50:38","SAFE2",845,93
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:50:47","AT2",846,93
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:50:54","DANGER2",847,93
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:50:54","DAT2",848,93
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:51:10","SAFE2",849,93
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:51:16","AT2",850,93
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:51:22","SAFE1",851,93
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:51:28","POSSIBLE_TI",852,93
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:51:29","TI1",853,93
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:52:06","Start score update",854,94
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:52:06","Statistic confirmation",855,94
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:52:06","Score update finished",856,94
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:52:23","Restart",857,94
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:52:24","AT1",858,94
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:52:36","DANGER1",859,95
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:52:36","DAT1",860,95
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:53:08","Injury Break",861,95
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:54:07","Restart",862,96
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:54:07","SAFE1",863,96
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:54:09","AT1",864,96
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:54:12","DANGER1",865,96
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:54:12","DAT1",866,96
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:54:25","POSSIBLE_TI",867,96
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:54:26","TI1",868,96
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:54:37","Restart",869,97
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:54:39","Stop RT2",870,97
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:54:39","Stop Game",871,97
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 21:54:57","CONF_PERIOD_SCORE",872,96
+1056379,"Manchester United FC","Arsenal FC","12/05/2018 22:16:56","Scorer",873,96

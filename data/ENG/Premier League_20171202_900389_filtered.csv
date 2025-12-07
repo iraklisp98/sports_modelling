@@ -1,0 +1,920 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 14:01:00","Lineup changed",0,0
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 14:01:30","Transmission Online",1,0
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 14:01:30","Scout in Stadion",2,0
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 14:24:42","GCC",3,0
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 14:45:10","GCC",4,0
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 14:56:20","Players are coming out",5,0
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 14:56:55","Jersey Changed",6,0
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 14:56:55","Jersey Changed",7,0
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 14:57:18","Players lined up",8,0
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 14:58:02","Photo taking",9,0
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 14:58:55","System Message",10,0
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 14:59:23","System Message",11,0
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 14:59:36","Game about to start",12,0
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:00:02","System Message",13,0
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:00:05","Start RT1 Team 1",14,1
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:00:26","SAFE1",15,1
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:00:50","SAFE2",16,1
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:01:41","Danger",17,2
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:01:41","Scout offline",18,2
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:01:45","Transmission Online",19,2
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:01:45","Start score update",20,2
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:01:45","Statistic confirmation",21,2
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:01:45","Score update finished",22,2
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:01:50","SAFE2",23,2
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:01:56","POSSIBLE_TI",24,2
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:02:01","TI2",25,2
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:02:10","Restart",26,3
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:02:17","AT2",27,3
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:02:21","DANGER2",28,3
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:02:21","DAT2",29,3
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:02:22","GOAL2",30,3
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:03:11","CONF_GOAL2",31,4
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:03:14","Scorer",32,4
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:03:14","KO1",33,4
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:03:14","SAFE1",34,4
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:03:23","SAFE1",35,4
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:03:33","AT1",36,4
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:03:40","Danger",37,4
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:03:40","Scout offline",38,4
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:03:42","Transmission Online",39,4
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:03:42","AT1",40,4
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:03:51","SAFE1",41,4
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:04:02","POSSIBLE_TI",42,4
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:04:03","TI1",43,4
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:04:08","CLS",44,5
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:04:11","Possible Free Kick",45,5
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:04:13","F2",47,5
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:04:13","FK1",48,5
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:04:13","DANGER1",49,5
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:04:13","DFK1",50,5
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:04:13","Ball Position",51,5
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:04:27","Player_DATA_CONFIRMED",52,5
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:04:27","Assist",53,5
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:04:27","Restart",54,5
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:04:39","POSSIBLE_TI",55,5
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:04:40","TI1",56,5
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:04:41","Restart",57,5
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:04:47","SAFE1",58,5
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:05:04","POSSIBLE_TI",59,5
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:05:05","TI1",60,5
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:05:13","Restart",61,6
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:05:23","AT1",62,6
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:05:28","DANGER1",63,6
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:05:28","DAT1",64,6
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:05:40","SAFE2",65,6
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:06:06","AT1",66,7
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:06:24","SAFE2",67,7
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:06:34","SAFE1",68,7
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:06:51","AT1",69,7
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:06:55","DANGER1",70,7
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:06:55","DAT1",71,7
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:06:59","SAFE2",72,7
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:07:00","Start score update",73,7
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:07:00","Statistic confirmation",74,7
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:07:00","Score update finished",75,7
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:07:04","SAFE1",76,7
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:07:06","AT1",77,8
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:07:11","DANGER1",78,8
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:07:11","DAT1",79,8
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:07:15","SAFE2",80,8
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:07:26","SAFE1",81,8
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:07:35","System Message",82,8
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:07:38","Possible Free Kick",83,8
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:07:39","F2",85,8
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:07:39","FK1",86,8
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:07:39","Ball Position",87,8
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:07:40","Restart",88,8
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:07:48","AT1",89,8
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:07:56","DANGER1",90,8
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:07:56","DAT1",91,8
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:08:02","SHB1",92,8
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:08:09","SAFE2",93,9
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:08:28","GK2",94,9
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:08:32","Restart",95,9
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:08:42","AT1",96,9
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:08:42","DANGER1",97,9
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:08:42","DAT1",98,9
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:08:52","POSSIBLE_TI",99,9
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:08:52","TI1",100,9
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:09:02","Restart",101,9
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:09:15","SAFE2",102,10
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:09:23","GK2",103,10
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:09:24","Restart",104,10
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:09:45","AT2",105,10
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:09:46","SAFE1",106,10
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:10:16","SAFE1",107,11
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:10:24","AT1",108,11
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:10:29","DANGER1",109,11
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:10:29","DAT1",110,11
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:10:40","SHB1",111,11
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:10:44","SAFE2",112,11
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:10:49","GK2",113,11
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:11:03","Restart",114,11
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:11:24","Danger",115,12
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:11:24","Scout offline",116,12
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:11:43","Transmission Online",117,12
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:11:43","Start score update",118,12
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:11:43","Statistic confirmation",119,12
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:11:43","Score update finished",120,12
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:11:43","SAFE2",121,12
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:11:50","AT2",122,12
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:11:59","SAFE1",123,12
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:12:08","GK1",124,13
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:12:20","Restart",125,13
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:12:24","AT1",126,13
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:12:29","DANGER1",127,13
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:12:29","DAT1",128,13
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:12:31","SAFE2",129,13
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:12:36","AT2",130,13
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:12:38","DANGER2",131,13
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:12:38","DAT2",132,13
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:12:49","SAFE1",133,13
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:12:57","POSSIBLE_TI",134,13
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:12:57","TI1",135,13
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:13:00","Restart",136,13
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:13:17","SAFE1",137,14
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:13:26","AT1",138,14
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:13:27","DANGER1",139,14
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:13:27","DAT1",140,14
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:13:32","POSSIBLE_TI",141,14
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:13:33","TI1",142,14
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:13:35","Restart",143,14
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:14:07","SAFE2",144,15
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:14:35","SAFE2",145,15
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:14:52","AT2",146,15
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:14:56","SAFE1",147,15
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:15:07","AT1",148,16
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:15:19","SAFE2",149,16
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:15:22","Possible Free Kick",150,16
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:15:25","F1",152,16
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:15:25","FK2",153,16
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:15:25","Ball Position",154,16
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:15:34","Restart",155,16
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:15:44","SAFE1",156,16
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:15:51","AT1",157,16
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:16:03","DANGER1",158,16
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:16:03","DAT1",159,16
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:16:22","SAFE1",160,17
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:16:34","AT1",161,17
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:16:36","SAFE2",162,17
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:16:43","Possible Free Kick",163,17
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:16:44","F1",165,17
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:16:44","FK2",166,17
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:16:44","Ball Position",167,17
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:16:54","Restart",168,17
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:17:13","AT2",169,18
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:17:17","POSSIBLE_TI",170,18
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:17:18","TI1",171,18
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:17:32","Restart",172,18
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:17:37","SAFE2",173,18
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:18:13","SAFE2",174,19
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:18:23","POSSIBLE_TI",175,19
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:18:23","TI1",176,19
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:18:26","Restart",177,19
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:18:28","AT1",178,19
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:18:31","DANGER1",179,19
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:18:31","DAT1",180,19
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:18:39","SAFE2",181,19
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:18:55","AT2",182,19
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:19:06","SAFE2",183,20
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:19:17","AT2",184,20
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:19:21","POSSIBLE_TI",185,20
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:19:24","TI1",186,20
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:19:37","Restart",187,20
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:19:40","SAFE1",188,20
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:19:44","AT2",189,20
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:19:46","DANGER2",190,20
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:19:46","DAT2",191,20
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:20:02","SAFE1",192,20
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:20:13","GK1",193,21
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:20:31","Restart",194,21
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:20:36","SAFE2",195,21
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:20:39","SAFE1",196,21
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:20:42","AT2",197,21
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:20:44","DANGER2",198,21
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:20:44","DAT2",199,21
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:20:46","BLOCKED2",200,21
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:21:10","SAFE2",201,22
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:21:24","SAFE1",202,22
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:21:41","AT1",203,22
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:21:45","SAFE1",204,22
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:21:55","AT1",205,22
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:21:56","DANGER1",206,22
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:21:56","DAT1",207,22
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:22:17","Injury Break",208,23
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:23:33","Referee Ball",209,24
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:23:33","Restart",210,24
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:23:38","SAFE1",211,24
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:24:15","AT1",212,25
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:24:16","DANGER1",213,25
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:24:16","DAT1",214,25
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:24:29","POSSIBLE_TI",215,25
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:24:33","TI1",216,25
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:24:42","Restart",217,25
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:25:00","SAFE2",218,25
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:25:09","AT1",219,26
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:25:12","POSSIBLE_TI",220,26
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:25:14","TI1",221,26
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:25:26","Restart",222,26
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:25:30","POSSIBLE_TI",223,26
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:25:34","TI2",224,26
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:25:46","Restart",225,26
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:25:49","SAFE1",226,26
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:25:57","POSSIBLE_TI",227,26
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:25:57","TI1",228,26
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:26:05","Restart",229,26
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:26:12","SAFE2",230,27
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:26:24","SAFE2",231,27
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:26:39","AT2",232,27
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:26:40","DANGER2",233,27
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:26:40","DAT2",234,27
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:26:52","SAFE2",235,27
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:27:26","SAFE1",236,28
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:27:33","AT1",237,28
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:27:37","DANGER1",238,28
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:27:37","DAT1",239,28
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:27:47","SAFE2",240,28
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:27:48","Possible Free Kick",241,28
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:27:51","F1",243,28
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:27:51","FK2",244,28
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:27:51","Ball Position",245,28
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:28:18","Restart",246,29
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:28:29","SAFE2",247,29
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:28:52","POSSIBLE_TI",248,29
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:28:52","TI2",249,29
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:28:59","Restart",250,29
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:29:03","SAFE2",251,29
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:29:04","AT2",252,29
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:29:08","DANGER2",253,30
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:29:08","DAT2",254,30
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:29:14","PCR2",255,30
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:29:26","CR2",256,30
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:29:27","Ball Position",257,30
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:29:47","Restart",258,30
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:29:54","BLOCKED2",259,30
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:30:08","POSSIBLE_TI",260,31
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:30:10","TI1",261,31
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:30:14","Restart",262,31
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:30:15","SAFE1",263,31
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:30:21","AT1",264,31
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:30:23","DANGER1",265,31
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:30:23","DAT1",266,31
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:30:30","SAFE2",267,31
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:30:49","AT2",268,31
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:30:51","DANGER2",269,31
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:30:51","DAT2",270,31
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:31:02","SAFE2",271,31
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:31:12","AT2",272,32
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:31:14","DANGER2",273,32
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:31:14","DAT2",274,32
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:31:18","POSSIBLE_TI",275,32
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:31:19","TI2",276,32
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:31:35","Restart",277,32
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:31:43","SAFE2",278,32
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:31:59","AT2",279,32
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:32:01","DANGER2",280,32
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:32:01","DAT2",281,32
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:32:02","SHB2",282,32
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:32:03","SAFE1",283,32
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:32:18","GK1",284,33
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:32:28","Restart",285,33
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:32:33","SAFE2",286,33
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:32:37","POSSIBLE_TI",287,33
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:32:38","TI1",288,33
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:32:48","Restart",289,33
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:32:52","SAFE1",290,33
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:32:59","AT1",291,33
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:32:59","DANGER1",292,33
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:32:59","DAT1",293,33
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:33:02","SHB1",294,33
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:33:08","SAFE2",295,34
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:33:11","GK2",296,34
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:33:27","Restart",297,34
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:33:33","Possible Free Kick",298,34
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:33:34","SAFE1",300,34
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:33:34","F2",301,34
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:33:34","FK1",302,34
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:33:34","Ball Position",303,34
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:33:35","Restart",304,34
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:33:41","SAFE2",305,34
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:33:51","SAFE1",306,34
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:33:56","POSSIBLE_TI",307,34
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:33:59","TI2",308,34
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:34:15","Restart",309,35
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:34:18","SAFE1",310,35
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:34:27","SAFE2",311,35
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:34:40","POSSIBLE_TI",312,35
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:34:41","TI1",313,35
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:34:44","Restart",314,35
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:34:47","SAFE1",315,35
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:34:59","AT1",316,35
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:35:00","DANGER1",317,35
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:35:00","DAT1",318,35
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:35:03","SAFE2",319,35
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:35:08","AT1",320,36
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:35:09","DANGER1",321,36
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:35:09","DAT1",322,36
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:35:10","GOAL1",323,36
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:35:20","Scorer",324,36
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:35:30","CONF_GOAL1",325,36
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:35:57","KO2",326,36
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:35:57","SAFE2",327,36
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:36:03","SAFE2",328,36
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:36:11","AT2",329,37
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:36:14","DANGER2",330,37
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:36:14","DAT2",331,37
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:36:24","PCR2",332,37
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:36:28","Player_DATA_CONFIRMED",333,37
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:36:28","Assist",334,37
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:36:34","CR2",335,37
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:36:34","Ball Position",336,37
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:36:52","Restart",337,37
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:36:59","SAFE1",338,37
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:37:02","GK1",339,37
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:37:22","Restart",340,38
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:37:29","SAFE2",341,38
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:37:41","SAFE1",342,38
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:37:53","AT1",343,38
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:37:57","POSSIBLE_TI",344,38
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:37:58","TI1",345,38
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:38:12","Restart",346,39
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:38:15","DANGER1",347,39
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:38:15","DAT1",348,39
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:38:30","SAFE1",349,39
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:38:50","AT1",350,39
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:38:56","DANGER1",351,39
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:38:56","DAT1",352,39
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:39:00","POSSIBLE_TI",353,39
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:39:01","TI1",354,39
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:39:06","Restart",355,40
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:39:16","SAFE1",356,40
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:39:23","AT1",357,40
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:39:26","DANGER1",358,40
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:39:26","DAT1",359,40
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:39:28","GOAL1",360,40
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:39:48","Scorer",361,40
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:39:48","CONF_GOAL1",362,40
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:40:18","KO2",363,41
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:40:18","SAFE2",364,41
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:40:21","SAFE2",365,41
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:40:31","AT2",366,41
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:40:41","DANGER2",367,41
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:40:41","DAT2",368,41
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:40:50","SAFE1",369,41
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:40:54","SAFE2",370,41
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:40:57","Assist",371,41
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:41:01","Possible Free Kick",372,41
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:41:07","SAFE1",374,42
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:41:07","F2",375,42
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:41:07","FK1",376,42
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:41:07","Ball Position",377,42
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:41:14","Player_DATA_CONFIRMED",378,42
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:41:20","Restart",379,42
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:41:26","AT1",380,42
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:41:28","Scorer",381,42
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:41:30","DANGER1",382,42
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:41:30","DAT1",383,42
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:41:47","SAFE2",384,42
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:41:47","Possible Free Kick",385,42
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:41:48","F1",387,42
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:41:48","FK2",388,42
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:41:48","Ball Position",389,42
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:42:13","Restart",390,43
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:42:15","SAFE2",391,43
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:42:21","AT1",392,43
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:42:21","DANGER1",393,43
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:42:21","DAT1",394,43
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:42:26","SAFE2",395,43
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:42:34","AT2",396,43
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:42:38","POSSIBLE_TI",397,43
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:42:53","TI1",398,43
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:43:28","Restart",399,44
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:43:33","SAFE2",400,44
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:43:35","Possible Free Kick",401,44
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:43:37","F1",403,44
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:43:37","FK2",404,44
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:43:37","DANGER2",405,44
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:43:37","DFK2",406,44
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:43:37","Ball Position",407,44
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:43:44","Restart",408,44
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:43:59","SAFE1",409,44
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:44:03","AT1",410,44
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:44:04","SAFE2",411,44
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:44:23","SAFE2",412,45
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:44:33","SAFE1",413,45
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:44:37","SAFE1",414,45
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:44:56","AT1",415,45
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:45:02","POSSIBLE_TI",416,45
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:45:02","TI1",417,45
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:45:11","Restart",418,46
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:45:11","DANGER1",419,46
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:45:11","DAT1",420,46
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:45:21","SAFE2",421,46
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:45:27","Extra Time",422,46
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:45:32","AT1",423,46
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:45:32","Possible Free Kick",424,46
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:45:34","F2",426,46
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:45:34","FK1",427,46
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:45:34","DANGER1",428,46
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:45:34","DFK1",429,46
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:45:34","Ball Position",430,46
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:45:56","Restart",431,46
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:46:02","SHB1",432,46
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:46:02","SAFE2",433,46
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:46:18","AT2",434,47
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:46:40","DANGER2",435,47
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:46:40","DAT2",436,47
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:46:45","SHB2",437,47
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:46:46","SAFE1",438,47
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:47:00","GK1",439,47
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:47:10","Stop RT1",440,47
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:47:15","CONF_PERIOD_SCORE",441,45
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 15:59:41","Players are coming out",442,45
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:01:49","System Message",443,45
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:01:52","Game about to start",444,45
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:02:07","Start RT2 Team 2",445,46
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:02:14","SAFE2",446,46
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:02:25","POSSIBLE_TI",447,46
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:02:26","TI1",448,46
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:02:33","Restart",449,46
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:02:33","Danger",450,46
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:02:33","Scout offline",451,46
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:02:37","Transmission Online",452,46
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:02:37","Start score update",453,46
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:02:37","Statistic confirmation",454,46
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:02:37","Score update finished",455,46
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:02:41","Danger",456,46
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:02:47","SAFE2",457,46
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:02:55","Start score update",458,46
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:02:55","Statistic confirmation",459,46
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:02:55","Score update finished",460,46
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:03:03","SAFE2",461,46
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:03:08","AT1",462,47
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:03:15","System Message",463,47
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:03:23","SAFE1",464,47
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:03:23","Danger",465,47
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:03:23","Scout offline",466,47
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:03:51","Transmission Online",467,47
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:03:51","Start score update",468,47
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:03:51","Statistic confirmation",469,47
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:03:51","Score update finished",470,47
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:03:52","SAFE1",471,47
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:03:59","System Message",472,47
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:04:04","SAFE2",473,47
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:04:42","Danger",474,48
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:04:42","Scout offline",475,48
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:04:43","Transmission Online",476,48
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:04:43","SAFE1",477,48
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:04:49","Injury Break",478,48
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:05:44","POSSIBLE_TI",479,49
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:05:46","TI2",480,49
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:07:43","Start score update",481,51
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:07:43","Statistic confirmation",482,51
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:07:43","Score update finished",483,51
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:08:09","System Message",484,52
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:08:09","Game suspended",485,52
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:09:20","SUB1",486,53
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:09:27","Restart",487,53
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:09:29","System Message",488,53
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:09:32","SAFE1",489,53
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:10:13","Danger",490,54
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:10:14","Scout offline",491,54
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:10:17","Transmission Online",492,54
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:10:17","Start score update",493,54
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:10:17","Statistic confirmation",494,54
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:10:17","Score update finished",495,54
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:10:18","Possible Free Kick",496,54
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:10:19","SAFE2",498,54
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:10:19","F1",499,54
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:10:19","FK2",500,54
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:10:19","Ball Position",501,54
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:10:23","Restart",502,54
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:10:25","AT2",503,54
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:10:31","POSSIBLE_TI",504,54
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:10:32","TI2",505,54
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:10:34","Player_DATA_CONFIRMED",506,54
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:10:34","CLS",507,54
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:10:36","POSSIBLE_TI",508,54
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:10:37","TI1",509,54
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:10:51","Restart",510,54
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:11:10","POSSIBLE_TI",511,55
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:11:10","TI1",512,55
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:11:11","Restart",513,55
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:11:13","SAFE2",514,55
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:11:19","Danger",515,55
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:11:23","AT1",516,55
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:11:37","SAFE2",517,55
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:11:39","Possible Free Kick",518,55
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:11:41","F1",520,55
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:11:41","FK2",521,55
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:11:41","Ball Position",522,55
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:11:51","Restart",523,55
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:11:53","SAFE1",524,55
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:12:05","AT1",525,55
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:12:10","DANGER1",526,56
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:12:10","DAT1",527,56
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:12:24","SAFE2",528,56
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:12:36","AT2",529,56
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:12:43","DANGER2",530,56
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:12:43","DAT2",531,56
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:12:53","SAFE1",532,56
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:12:59","AT2",533,56
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:13:09","SAFE1",534,57
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:13:18","Danger",535,57
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:13:23","AT2",536,57
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:13:23","DANGER2",537,57
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:13:23","DAT2",538,57
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:13:25","SAFE1",539,57
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:13:26","GK1",540,57
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:13:47","Restart",541,57
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:13:56","SAFE2",542,57
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:14:05","POSSIBLE_TI",543,57
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:14:06","TI1",544,57
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:14:17","Restart",545,58
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:14:25","AT2",546,58
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:14:27","DANGER2",547,58
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:14:27","DAT2",548,58
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:14:33","PCR2",549,58
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:14:38","CR2",550,58
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:14:40","Ball Position",551,58
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:14:53","Restart",552,58
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:15:01","SAFE1",553,58
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:15:06","AT1",554,58
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:15:09","SAFE2",555,59
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:15:33","AT2",556,59
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:15:39","SAFE1",557,59
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:15:39","GK1",558,59
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:16:03","Restart",559,59
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:16:12","Danger",560,60
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:16:13","AT2",561,60
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:16:24","DANGER2",562,60
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:16:24","DAT2",563,60
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:16:30","PCR2",564,60
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:16:39","CR2",565,60
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:16:42","Ball Position",566,60
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:17:11","Restart",567,61
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:17:20","PCR2",568,61
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:17:37","CR2",569,61
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:17:39","Ball Position",570,61
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:17:46","SHG2",571,61
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:17:47","Restart",572,61
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:17:53","SAFE1",573,61
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:17:58","POSSIBLE_TI",574,61
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:17:59","TI2",575,61
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:18:02","Player_DATA_CONFIRMED",576,61
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:18:06","Restart",577,61
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:18:07","SAFE2",578,61
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:18:45","AT2",579,62
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:18:49","SAFE1",580,62
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:18:50","GK1",581,62
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:19:13","Restart",582,63
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:19:25","AT1",583,63
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:19:28","SAFE2",584,63
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:19:35","AT2",585,63
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:19:41","POSSIBLE_TI",586,63
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:19:41","TI2",587,63
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:19:45","Restart",588,63
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:19:50","SAFE2",589,63
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:20:00","AT2",590,63
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:20:01","SAFE1",591,63
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:20:20","AT1",592,64
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:20:25","POSSIBLE_TI",593,64
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:20:26","TI1",594,64
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:20:29","Restart",595,64
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:20:30","DANGER1",596,64
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:20:30","DAT1",597,64
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:20:42","SAFE2",598,64
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:20:52","Possible Free Kick",599,64
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:20:59","F2",601,64
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:20:59","FK1",602,64
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:20:59","DANGER1",603,64
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:20:59","DFK1",604,64
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:20:59","Ball Position",605,64
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:21:13","Restart",606,65
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:21:16","SAFE2",607,65
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:21:24","POSSIBLE_TI",608,65
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:21:25","TI2",609,65
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:21:37","Restart",610,65
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:21:41","POSSIBLE_TI",611,65
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:21:41","TI2",612,65
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:21:43","Restart",613,65
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:21:47","POSSIBLE_TI",614,65
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:21:47","TI2",615,65
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:21:57","Restart",616,65
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:21:59","SAFE1",617,65
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:22:17","SAFE2",618,66
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:22:45","AT2",619,66
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:22:56","DANGER2",620,66
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:22:56","DAT2",621,66
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:23:11","SAFE1",622,67
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:23:19","AT1",623,67
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:23:23","DANGER1",624,67
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:23:23","DAT1",625,67
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:23:32","SHB1",626,67
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:23:34","SAFE2",627,67
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:23:36","GK2",628,67
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:23:42","Restart",629,67
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:23:52","AT2",630,67
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:24:05","DANGER2",631,67
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:24:05","DAT2",632,67
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:24:13","SAFE1",633,68
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:24:14","AT2",634,68
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:24:21","DANGER2",635,68
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:24:21","DAT2",636,68
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:24:34","SHG2",637,68
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:24:46","POSSIBLE_TI",638,68
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:24:46","TI2",639,68
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:25:09","Restart",640,69
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:25:17","POSSIBLE_TI",641,69
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:25:17","TI1",642,69
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:25:37","Restart",643,69
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:25:43","SAFE1",644,69
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:25:50","POSSIBLE_TI",645,69
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:25:51","TI2",646,69
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:25:52","Restart",647,69
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:26:03","SAFE2",648,69
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:26:13","AT2",649,70
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:26:17","POSSIBLE_TI",650,70
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:26:17","TI2",651,70
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:26:36","SUB1",652,70
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:26:51","SUB1",653,70
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:27:15","Restart",654,71
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:27:32","DANGER2",655,71
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:27:32","DAT2",656,71
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:27:41","SAFE1",657,71
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:27:47","POSSIBLE_TI",658,71
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:27:48","TI1",659,71
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:28:09","Restart",660,72
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:28:39","Player_DATA_CONFIRMED",661,72
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:28:40","SAFE2",662,72
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:28:42","Player_DATA_CONFIRMED",663,72
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:28:51","AT2",664,72
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:28:54","SAFE1",665,72
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:29:10","GK1",666,73
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:29:15","SUB2",667,73
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:29:28","SUB2",668,73
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:29:43","SUB_UPDATE",669,73
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:29:43","Player_DATA_CONFIRMED",670,73
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:29:44","Restart",671,73
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:29:54","POSSIBLE_TI",672,73
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:29:55","TI2",673,73
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:30:00","Restart",674,73
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:30:05","SAFE2",675,73
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:30:10","SUB_UPDATE",676,74
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:30:10","Player_DATA_CONFIRMED",677,74
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:30:36","AT2",678,74
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:30:36","DANGER2",679,74
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:30:36","DAT2",680,74
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:30:44","Possible Free Kick",681,74
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:30:45","SAFE1",683,74
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:30:45","F2",684,74
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:30:45","FK1",685,74
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:30:45","Ball Position",686,74
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:31:10","Restart",687,75
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:31:22","AT1",688,75
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:31:25","Possible Free Kick",689,75
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:31:28","SAFE2",691,75
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:31:28","F1",692,75
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:31:28","FK2",693,75
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:31:28","Ball Position",694,75
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:31:29","Restart",695,75
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:31:43","AT2",696,75
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:31:46","DANGER2",697,75
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:31:46","DAT2",698,75
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:32:00","SAFE2",699,75
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:32:11","AT2",700,76
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:32:13","DANGER2",701,76
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:32:13","DAT2",702,76
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:32:21","SAFE1",703,76
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:32:24","AT1",704,76
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:32:25","DANGER1",705,76
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:32:25","DAT1",706,76
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:32:35","SAFE2",707,76
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:32:54","AT2",708,76
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:32:58","DANGER2",709,76
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:32:58","DAT2",710,76
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:33:13","SAFE1",711,77
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:33:23","POSSIBLE_TI",712,77
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:33:27","TI1",713,77
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:33:31","Restart",714,77
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:33:44","SAFE2",715,77
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:33:56","POSSIBLE_TI",716,77
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:33:56","TI2",717,77
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:34:09","Restart",718,78
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:34:12","AT2",719,78
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:34:33","Possible Free Kick",720,78
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:34:36","F2",722,78
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:34:36","FK1",723,78
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:34:36","DANGER1",724,78
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:34:36","DFK1",725,78
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:34:36","Ball Position",726,78
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:34:42","CLS",727,78
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:34:44","CLS",728,78
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:34:45","Possible Free Kick",729,78
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:34:48","F1",731,78
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:34:48","FK2",732,78
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:34:48","DANGER2",733,78
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:34:48","DFK2",734,78
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:34:48","Ball Position",735,78
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:35:02","Restart",736,78
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:35:10","SHG2",737,79
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:35:12","PCR2",738,79
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:35:19","CR2",739,79
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:35:21","Ball Position",740,79
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:35:29","Restart",741,79
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:35:37","SAFE1",742,79
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:35:45","AT2",743,79
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:35:47","DANGER2",744,79
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:35:47","DAT2",745,79
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:35:52","SAFE1",746,79
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:35:53","GK1",747,79
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:36:22","Restart",748,80
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:36:27","SAFE2",749,80
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:36:34","SAFE1",750,80
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:36:39","AT1",751,80
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:36:54","POSSIBLE_TI",752,80
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:36:54","TI1",753,80
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:37:11","Restart",754,81
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:37:39","DANGER1",755,81
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:37:39","DAT1",756,81
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:37:49","SAFE2",757,81
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:37:57","Possible Free Kick",758,81
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:38:00","POSSIBLE_CARDS",760,81
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:38:03","YC1",761,81
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:38:08","CONF_YC1",762,82
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:38:09","Scorer",763,82
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:38:13","F1",764,82
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:38:13","FK2",765,82
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:38:13","DANGER2",766,82
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:38:13","DFK2",767,82
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:38:13","Ball Position",768,82
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:38:23","Restart",769,82
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:38:32","Possible Free Kick",770,82
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:38:34","SAFE1",772,82
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:38:34","F2",773,82
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:38:34","FK1",774,82
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:38:34","Ball Position",775,82
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:38:58","Restart",776,82
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:39:04","Danger",777,82
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:39:05","AT1",778,82
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:39:08","SAFE2",779,83
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:39:12","Danger",780,83
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:39:15","PCR1",781,83
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:39:15","DANGER1",782,83
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:39:24","CR1",783,83
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:39:27","Player_DATA_CONFIRMED",784,83
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:39:33","Ball Position",785,83
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:39:37","Restart",786,83
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:39:45","SAFE2",787,83
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:40:08","AT2",788,84
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:40:14","DANGER2",789,84
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:40:14","DAT2",790,84
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:40:22","POSSIBLE_TI",791,84
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:40:22","TI2",792,84
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:40:26","Restart",793,84
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:40:33","POSSIBLE_TI",794,84
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:40:33","TI2",795,84
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:40:40","Restart",796,84
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:40:50","SAFE1",797,84
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:41:10","POSSIBLE_TI",798,85
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:41:10","TI2",799,85
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:41:22","SUB2",800,85
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:41:26","Restart",801,85
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:41:37","SAFE2",802,85
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:41:41","AT2",803,85
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:41:49","POSSIBLE_TI",804,85
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:41:49","TI1",805,85
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:41:58","Player_DATA_CONFIRMED",806,85
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:42:09","Restart",807,86
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:42:17","Possible Free Kick",808,86
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:42:19","SAFE1",810,86
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:42:19","F2",811,86
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:42:19","FK1",812,86
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:42:19","Ball Position",813,86
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:42:51","Restart",814,86
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:42:54","AT1",815,86
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:42:54","DANGER1",816,86
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:42:54","DAT1",817,86
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:43:05","POSSIBLE_TI",818,86
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:43:05","TI2",819,86
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:43:13","Restart",820,87
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:43:15","SAFE2",821,87
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:43:35","AT2",822,87
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:43:52","SAFE2",823,87
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:43:53","POSSIBLE_TI",824,87
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:43:54","TI2",825,87
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:43:57","Restart",826,87
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:44:12","AT2",827,88
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:44:39","DANGER2",828,88
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:44:39","DAT2",829,88
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:44:59","Possible Free Kick",830,88
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:45:01","F1",832,88
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:45:01","FK2",833,88
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:45:01","DFK2",834,88
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:45:02","Ball Position",835,88
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:45:17","Restart",836,89
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:45:19","SAFE1",837,89
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:45:30","AT1",838,89
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:45:32","DANGER1",839,89
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:45:32","DAT1",840,89
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:45:36","SAFE2",841,89
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:45:49","AT2",842,89
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:45:52","POSSIBLE_TI",843,89
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:45:53","TI2",844,89
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:45:57","Restart",845,89
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:46:03","SAFE2",846,89
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:46:22","Danger",847,90
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:46:23","AT2",848,90
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:46:25","SAFE1",849,90
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:46:33","AT1",850,90
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:46:37","DANGER1",851,90
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:46:37","DAT1",852,90
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:46:41","SHG1",853,90
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:46:49","SAFE2",854,90
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:46:50","GK2",855,90
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:47:02","Restart",856,90
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:47:10","SAFE1",857,91
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:47:11","AT2",858,91
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:47:16","Extra Time",859,91
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:47:22","Possible Free Kick",860,91
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:47:30","F1",862,91
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:47:30","FK2",863,91
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:47:30","DANGER2",864,91
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:47:30","DFK2",865,91
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:47:30","Ball Position",866,91
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:47:58","Restart",867,91
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:48:00","Time Correction",868,91
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:48:06","SAFE1",869,91
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:48:13","POSSIBLE_TI",870,92
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:48:13","TI1",871,92
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:48:29","Restart",872,92
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:48:39","AT2",873,92
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:48:40","POSSIBLE_TI",874,92
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:48:40","TI2",875,92
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:48:42","Restart",876,92
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:48:57","Possible Free Kick",877,92
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:49:00","F1",879,92
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:49:00","FK2",880,92
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:49:00","DANGER2",881,92
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:49:00","DFK2",882,92
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:49:00","Ball Position",883,92
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:49:24","Restart",884,93
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:49:43","SAFE1",885,93
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:49:55","Possible Free Kick",886,93
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:49:58","F2",888,93
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:49:58","FK1",889,93
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:49:58","Ball Position",890,93
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:50:23","Restart",891,94
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:50:27","AT1",892,94
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:50:28","DANGER1",893,94
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:50:28","DAT1",894,94
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:50:32","PCR1",895,94
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:50:37","CR1",896,94
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:50:38","Ball Position",897,94
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:51:02","Restart",898,94
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:51:17","SAFE2",899,95
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:51:17","Possible Free Kick",900,95
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:51:20","O1",902,95
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:51:20","FK2",903,95
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:51:20","Ball Position",904,95
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:51:26","Restart",905,95
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:51:33","SAFE1",906,95
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:51:38","AT1",907,95
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:51:41","Possible Free Kick",908,95
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:51:44","POSSIBLE_CARDS",910,95
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:51:51","YC1",911,95
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:52:05","CONF_YC1",912,95
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:52:06","Scorer",913,95
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:52:09","SAFE2",914,96
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:52:09","F1",915,96
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:52:09","FK2",916,96
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:52:09","Ball Position",917,96
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:52:11","Restart",918,96
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:52:17","AT2",919,96
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:52:19","DANGER2",920,96
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:52:19","DAT2",921,96
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:52:32","SAFE1",922,96
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:52:48","GK1",923,96
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:52:55","Restart",924,96
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:53:00","SAFE2",925,96
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:53:15","AT2",926,97
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:53:17","SAFE1",927,97
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:53:19","Danger",928,97
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:53:20","AT1",929,97
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:53:23","SAFE2",930,97
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:53:32","AT2",931,97
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:53:33","SAFE1",932,97
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:53:38","AT1",933,97
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:53:41","DANGER1",934,97
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:53:41","DAT1",935,97
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:54:03","POSSIBLE_TI",936,97
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:54:04","TI1",937,97
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:54:24","CLS",938,98
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:54:25","CLS",939,98
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:54:27","Stop RT2",940,98
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:54:27","Stop Game",941,98
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:54:27","Scorer",942,97
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:54:27","Player_DATA_CONFIRMED",943,97
+900389,"Stoke City FC","Swansea City AFC","12/02/2017 16:54:46","CONF_PERIOD_SCORE",944,97

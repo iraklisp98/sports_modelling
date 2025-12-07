@@ -1,0 +1,938 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1213145,"FC Metz","Stade de Reims","11/23/2019 16:33:42","System Message",0,0
+1213145,"FC Metz","Stade de Reims","11/23/2019 18:05:24","Lineup changed",1,0
+1213145,"FC Metz","Stade de Reims","11/23/2019 18:05:57","Transmission Online",2,0
+1213145,"FC Metz","Stade de Reims","11/23/2019 18:05:57","Scout in Stadion",3,0
+1213145,"FC Metz","Stade de Reims","11/23/2019 18:50:37","Lineup changed",4,0
+1213145,"FC Metz","Stade de Reims","11/23/2019 18:54:04","GCC",5,0
+1213145,"FC Metz","Stade de Reims","11/23/2019 18:57:51","Players are coming out",6,0
+1213145,"FC Metz","Stade de Reims","11/23/2019 18:59:34","Jersey Changed",7,0
+1213145,"FC Metz","Stade de Reims","11/23/2019 18:59:34","Jersey Changed",8,0
+1213145,"FC Metz","Stade de Reims","11/23/2019 18:59:35","Players lined up",9,0
+1213145,"FC Metz","Stade de Reims","11/23/2019 18:59:39","Flip coin",10,0
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:01:08","System Message",11,0
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:01:14","Game about to start",12,0
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:01:31","Start RT1 Team 2",13,1
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:01:32","SAFE2",14,1
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:01:50","AT2",15,1
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:01:55","SAFE2",16,1
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:02:05","Possible Free Kick",17,1
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:02:14","SAFE1",19,1
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:02:14","O2",20,1
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:02:14","FK1",21,1
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:02:14","Ball Position",22,1
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:02:24","Restart",23,1
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:02:26","AT1",24,1
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:02:29","DANGER1",25,1
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:02:29","DAT1",26,1
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:02:37","POSSIBLE_TI",27,2
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:02:38","TI2",28,2
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:02:41","Danger",29,2
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:02:49","Restart",30,2
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:03:08","SAFE2",31,2
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:03:19","AT2",32,2
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:03:25","SAFE2",33,2
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:03:37","AT2",34,3
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:03:43","SAFE1",35,3
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:04:04","AT1",36,3
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:04:07","DANGER1",37,3
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:04:07","DAT1",38,3
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:04:09","POSSIBLE_TI",39,3
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:04:15","Danger",40,3
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:04:17","TI1",41,3
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:04:19","Restart",42,3
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:04:28","SAFE1",43,3
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:04:39","AT1",44,4
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:04:40","SAFE1",45,4
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:05:03","AT1",46,4
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:05:06","SAFE1",47,4
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:05:23","AT1",48,4
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:05:26","DANGER1",49,4
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:05:26","DAT1",50,4
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:06:01","POSSIBLE_TI",51,5
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:06:03","TI2",52,5
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:06:04","Restart",53,5
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:06:09","POSSIBLE_TI",54,5
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:06:16","TI2",55,5
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:06:21","Restart",56,5
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:06:28","SAFE2",57,5
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:06:37","Possible Free Kick",58,6
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:06:45","F1",60,6
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:06:45","FK2",61,6
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:06:45","Ball Position",62,6
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:06:46","Restart",63,6
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:06:49","AT2",64,6
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:06:53","SAFE1",65,6
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:07:27","AT1",66,6
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:07:33","SAFE2",67,7
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:07:35","AT2",68,7
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:07:40","DANGER2",69,7
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:07:40","DAT2",70,7
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:07:49","Possible Free Kick",71,7
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:08:14","F1",73,7
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:08:14","FK2",74,7
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:08:14","DFK2",75,7
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:08:14","Ball Position",76,7
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:08:19","Restart",77,7
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:08:25","GOAL2",78,7
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:08:29","Scorer",79,7
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:09:07","Danger",80,8
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:09:14","Player_DATA_CONFIRMED",81,8
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:09:43","Assist",82,9
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:10:01","CONF_GOAL2",83,9
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:10:02","KO1",84,9
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:10:02","SAFE1",85,9
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:10:17","AT1",86,9
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:10:22","POSSIBLE_TI",87,9
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:10:26","TI1",88,9
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:10:27","Restart",89,9
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:10:28","SAFE1",90,9
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:10:57","AT1",91,10
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:10:58","POSSIBLE_TI",92,10
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:11:08","TI2",93,10
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:11:13","Restart",94,10
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:11:14","SAFE2",95,10
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:11:23","POSSIBLE_TI",96,10
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:11:37","TI2",97,11
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:11:38","Restart",98,11
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:11:39","AT2",99,11
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:11:43","SAFE1",100,11
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:11:51","AT1",101,11
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:11:56","SAFE2",102,11
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:12:05","Possible Free Kick",103,11
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:12:31","Danger",105,11
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:12:34","SAFE2",106,12
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:12:35","F1",107,12
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:12:35","FK2",108,12
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:12:35","Ball Position",109,12
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:12:36","Restart",110,12
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:12:38","AT2",111,12
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:12:41","SAFE2",112,12
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:12:43","POSSIBLE_TI",113,12
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:12:51","TI2",114,12
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:12:52","Restart",115,12
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:12:57","AT2",116,12
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:13:01","SAFE1",117,12
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:13:17","AT1",118,12
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:13:22","SAFE2",119,12
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:13:24","AT2",120,12
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:13:28","DANGER2",121,12
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:13:28","DAT2",122,12
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:13:31","PCR2",123,13
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:13:36","POSSIBLE_CARDS",124,13
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:13:49","YC1",125,13
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:13:50","CONF_YC1",126,13
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:13:55","Scorer",127,13
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:14:03","CR2",128,13
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:14:05","Ball Position",129,13
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:14:13","Player_DATA_CONFIRMED",130,13
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:14:38","Danger",131,14
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:14:47","Injury Break",132,14
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:16:27","SUB1",133,15
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:16:38","Restart",134,16
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:16:53","SHB2",135,16
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:16:54","SAFE1",136,16
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:16:55","GK1",137,16
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:17:01","Danger",138,16
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:17:10","Restart",139,16
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:17:13","Player_DATA_CONFIRMED",140,16
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:17:14","AT1",141,16
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:17:15","SAFE1",142,16
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:17:25","AT1",143,16
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:17:28","SAFE1",144,16
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:17:38","AT1",145,17
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:17:41","DANGER1",146,17
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:17:41","DAT1",147,17
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:17:44","PCR1",148,17
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:17:59","NCR1",149,17
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:18:04","Possible Free Kick",150,17
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:18:12","SAFE2",152,17
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:18:12","O1",153,17
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:18:12","FK2",154,17
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:18:12","Ball Position",155,17
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:18:13","Restart",156,17
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:18:14","AT2",157,17
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:18:20","POSSIBLE_TI",158,17
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:18:24","TI2",159,17
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:18:26","Restart",160,17
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:18:27","SAFE2",161,17
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:18:37","AT2",162,18
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:18:40","DANGER2",163,18
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:18:40","DAT2",164,18
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:18:52","SAFE1",165,18
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:18:55","AT1",166,18
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:19:02","POSSIBLE_TI",167,18
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:19:10","TI1",168,18
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:19:11","Restart",169,18
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:19:15","SAFE1",170,18
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:19:22","AT1",171,18
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:19:43","POSSIBLE_TI",172,19
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:19:52","TI1",173,19
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:19:54","Restart",174,19
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:19:55","SAFE1",175,19
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:19:59","AT1",176,19
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:20:00","SAFE1",177,19
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:20:07","AT1",178,19
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:20:08","SAFE1",179,19
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:20:17","AT1",180,19
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:20:44","SAFE2",181,20
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:20:50","AT2",182,20
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:20:50","DANGER2",183,20
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:20:50","DAT2",184,20
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:20:54","SAFE1",185,20
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:21:01","AT1",186,20
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:21:02","SAFE2",187,20
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:21:07","AT2",188,20
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:21:14","DANGER2",189,20
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:21:14","DAT2",190,20
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:21:29","SHG2",191,20
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:21:31","SAFE1",192,20
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:21:34","Danger",193,21
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:21:48","AT1",194,21
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:21:49","DANGER1",195,21
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:21:49","DAT1",196,21
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:22:08","Possible Free Kick",197,21
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:22:33","SAFE2",199,22
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:22:33","O1",200,22
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:22:33","FK2",201,22
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:22:34","Ball Position",202,22
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:22:35","Restart",203,22
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:22:36","AT2",204,22
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:22:38","SAFE2",205,22
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:22:41","POSSIBLE_TI",206,22
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:22:44","TI2",207,22
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:22:48","Restart",208,22
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:22:49","AT2",209,22
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:22:55","POSSIBLE_TI",210,22
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:23:09","TI2",211,22
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:23:15","Restart",212,22
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:23:25","POSSIBLE_TI",213,22
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:23:28","TI2",214,22
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:23:34","Restart",215,23
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:23:51","SAFE2",216,23
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:23:57","AT2",217,23
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:24:06","DANGER2",218,23
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:24:06","DAT2",219,23
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:24:12","SAFE2",220,23
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:24:38","Possible Free Kick",221,24
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:24:43","SAFE1",223,24
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:24:43","F2",224,24
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:24:43","FK1",225,24
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:24:43","Ball Position",226,24
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:24:44","Restart",227,24
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:24:49","AT1",228,24
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:24:50","SAFE1",229,24
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:25:18","AT1",230,24
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:25:23","POSSIBLE_TI",231,24
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:25:25","TI2",232,24
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:25:26","Restart",233,24
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:25:27","SAFE2",234,24
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:25:31","AT2",235,25
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:25:41","SAFE2",236,25
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:25:45","AT2",237,25
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:25:52","DANGER2",238,25
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:25:52","DAT2",239,25
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:25:55","SAFE1",240,25
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:26:07","AT2",241,25
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:26:10","Possible Free Kick",242,25
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:26:27","F1",244,25
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:26:27","FK2",245,25
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:26:27","Ball Position",246,25
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:26:27","DANGER2",247,25
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:26:27","DFK2",248,25
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:26:33","Restart",249,26
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:26:34","SAFE2",250,26
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:26:39","AT2",251,26
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:26:47","DANGER2",252,26
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:26:47","DAT2",253,26
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:26:55","POSSIBLE_TI",254,26
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:27:08","TI1",255,26
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:27:18","Restart",256,26
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:27:27","SAFE1",257,26
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:27:29","AT1",258,26
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:27:32","Possible Free Kick",259,27
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:27:46","F2",261,27
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:27:46","FK1",262,27
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:27:46","Ball Position",263,27
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:27:46","DANGER1",264,27
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:27:46","DFK1",265,27
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:27:47","Restart",266,27
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:28:00","SAFE1",267,27
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:28:02","AT1",268,27
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:28:06","SAFE1",269,27
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:28:08","AT1",270,27
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:28:31","Possible Free Kick",271,28
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:28:34","F2",273,28
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:28:34","FK1",274,28
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:28:34","Ball Position",275,28
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:28:34","DANGER1",276,28
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:28:34","DFK1",277,28
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:28:36","Restart",278,28
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:28:44","SHG1",279,28
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:28:45","SAFE2",280,28
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:28:55","AT2",281,28
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:29:01","DANGER2",282,28
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:29:01","DAT2",283,28
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:29:26","BLOCKED2",284,28
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:29:48","POSSIBLE_TI",285,29
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:29:50","TI2",286,29
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:29:51","Restart",287,29
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:30:06","SAFE1",288,29
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:30:22","Possible Free Kick",289,29
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:30:24","F2",291,29
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:30:24","FK1",292,29
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:30:24","Ball Position",293,29
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:30:26","Restart",294,29
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:30:28","AT1",295,29
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:30:44","SAFE2",296,30
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:30:50","AT2",297,30
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:30:52","DANGER2",298,30
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:30:52","DAT2",299,30
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:31:04","Possible Free Kick",300,30
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:31:09","Danger",302,30
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:31:18","SAFE1",303,30
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:31:18","F2",304,30
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:31:18","FK1",305,30
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:31:18","Ball Position",306,30
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:31:19","Restart",307,30
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:31:30","AT1",308,30
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:31:40","SAFE2",309,31
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:31:45","POSSIBLE_TI",310,31
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:31:47","TI1",311,31
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:31:48","Restart",312,31
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:31:49","AT1",313,31
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:31:51","SAFE1",314,31
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:32:00","AT1",315,31
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:32:05","SAFE2",316,31
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:32:07","AT2",317,31
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:32:08","DANGER2",318,31
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:32:08","DAT2",319,31
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:32:08","SAFE1",320,31
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:32:21","AT1",321,31
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:32:25","SAFE2",322,31
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:32:27","AT2",323,31
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:32:53","DANGER2",324,32
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:32:53","DAT2",325,32
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:33:01","SAFE2",326,32
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:33:09","AT2",327,32
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:33:12","DANGER2",328,32
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:33:12","DAT2",329,32
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:33:36","SHG2",330,33
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:33:38","SAFE1",331,33
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:33:40","AT1",332,33
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:33:42","SAFE2",333,33
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:33:44","AT2",334,33
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:34:03","SAFE2",335,33
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:34:29","AT2",336,33
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:34:35","SAFE1",337,34
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:34:54","AT1",338,34
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:35:01","DANGER1",339,34
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:35:01","DAT1",340,34
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:35:09","SAFE2",341,34
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:35:34","AT2",342,35
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:35:39","DANGER2",343,35
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:35:39","DAT2",344,35
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:35:39","SAFE1",345,35
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:35:45","AT2",346,35
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:36:04","SAFE2",347,35
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:36:21","AT2",348,35
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:36:22","SAFE2",349,35
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:36:26","AT2",350,35
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:36:27","SAFE2",351,35
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:36:37","AT2",352,36
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:36:41","DANGER2",353,36
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:36:41","DAT2",354,36
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:36:47","SHG2",355,36
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:36:48","SAFE1",356,36
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:37:00","Danger",357,36
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:37:31","AT1",358,36
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:37:31","SAFE2",359,37
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:37:37","AT2",360,37
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:37:39","SAFE2",361,37
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:37:46","AT2",362,37
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:38:02","DANGER2",363,37
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:38:02","DAT2",364,37
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:38:07","SAFE1",365,37
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:38:11","GK1",366,37
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:38:26","Restart",367,37
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:38:27","AT1",368,37
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:38:32","SAFE2",369,38
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:39:03","AT2",370,38
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:39:04","SAFE1",371,38
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:39:07","AT1",372,38
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:39:20","SAFE2",373,38
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:39:21","AT2",374,38
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:39:26","SAFE1",375,38
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:39:43","AT1",376,39
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:39:53","SAFE1",377,39
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:39:54","AT1",378,39
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:39:58","DANGER1",379,39
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:39:58","DAT1",380,39
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:40:00","POSSIBLE_TI",381,39
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:40:07","TI1",382,39
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:40:14","Restart",383,39
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:40:19","PCR1",384,39
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:40:27","CR1",385,39
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:40:35","Ball Position",386,40
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:40:40","Restart",387,40
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:40:44","PCR1",388,40
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:40:47","CR1",389,40
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:41:06","Ball Position",390,40
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:41:09","Restart",391,40
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:41:25","Danger",392,40
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:41:36","Possible Free Kick",393,41
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:41:41","SAFE2",395,41
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:41:41","F1",396,41
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:41:41","FK2",397,41
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:41:41","Ball Position",398,41
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:41:42","Restart",399,41
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:41:44","AT2",400,41
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:41:46","SAFE1",401,41
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:41:47","AT1",402,41
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:41:49","DANGER1",403,41
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:41:49","DAT1",404,41
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:41:53","GOAL1",405,41
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:42:35","CGOAL1",406,42
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:42:37","Possible Free Kick",407,42
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:42:41","SAFE2",409,42
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:42:41","O1",410,42
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:42:41","FK2",411,42
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:42:41","Ball Position",412,42
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:42:42","Restart",413,42
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:42:45","AT2",414,42
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:42:52","SAFE1",415,42
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:42:56","Possible Free Kick",416,42
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:43:08","POSSIBLE_CARDS",418,42
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:43:27","YC2",419,42
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:43:28","CONF_YC2",420,42
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:43:33","Scorer",421,43
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:43:35","F2",422,43
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:43:35","FK1",423,43
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:43:35","Ball Position",424,43
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:43:37","Restart",425,43
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:43:38","AT2",426,43
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:43:40","DANGER2",427,43
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:43:40","DAT2",428,43
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:43:43","Player_DATA_CONFIRMED",429,43
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:43:44","Possible Free Kick",430,43
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:44:01","Danger",432,43
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:44:13","SAFE1",433,43
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:44:13","F2",434,43
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:44:13","FK1",435,43
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:44:13","Ball Position",436,43
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:44:15","Restart",437,43
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:44:16","AT1",438,43
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:44:18","DANGER1",439,43
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:44:18","DAT1",440,43
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:44:19","SAFE2",441,43
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:44:26","Possible Free Kick",442,43
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:44:54","F1",444,44
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:44:54","FK2",445,44
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:44:54","Ball Position",446,44
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:44:55","Restart",447,44
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:44:56","AT2",448,44
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:45:09","Possible Free Kick",449,44
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:45:44","F1",451,45
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:45:44","FK2",452,45
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:45:44","Ball Position",453,45
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:45:44","DANGER2",454,45
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:45:44","DFK2",455,45
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:46:06","Restart",456,45
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:46:11","SHG2",457,45
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:46:19","SAFE2",458,45
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:46:39","AT2",459,46
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:46:42","DANGER2",460,46
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:46:42","DAT2",461,46
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:47:05","SAFE2",462,46
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:47:09","POSSIBLE_TI",463,46
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:47:11","TI1",464,46
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:47:17","Extra Time",465,46
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:47:18","AT1",466,46
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:47:25","Restart",467,46
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:47:27","DANGER1",468,46
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:47:27","DAT1",469,46
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:47:28","POSSIBLE_TI",470,46
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:47:35","TI1",471,47
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:47:36","Restart",472,47
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:47:44","SAFE2",473,47
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:47:56","AT2",474,47
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:47:57","SAFE1",475,47
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:48:18","AT1",476,47
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:48:31","Stop RT1",477,47
+1213145,"FC Metz","Stade de Reims","11/23/2019 19:48:49","CONF_PERIOD_SCORE",478,45
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:03:36","Players are coming out",479,45
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:05:36","Game about to start",480,45
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:05:41","Start RT2 Team 1",481,46
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:05:42","SAFE1",482,46
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:05:45","AT1",483,46
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:05:50","DANGER1",484,46
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:05:50","DAT1",485,46
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:05:54","POSSIBLE_TI",486,46
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:06:00","TI2",487,46
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:06:02","Restart",488,46
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:06:03","SAFE2",489,46
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:06:08","AT1",490,46
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:06:19","Possible Free Kick",491,46
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:06:46","F2",493,47
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:06:46","FK1",494,47
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:06:46","Ball Position",495,47
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:06:46","DANGER1",496,47
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:06:46","DFK1",497,47
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:07:01","Restart",498,47
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:07:05","SAFE2",499,47
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:07:08","AT1",500,47
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:07:13","DANGER1",501,47
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:07:13","DAT1",502,47
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:07:19","GOAL1",503,47
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:07:26","Scorer",504,47
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:08:11","Danger",505,48
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:08:21","CONF_GOAL1",506,48
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:08:21","KO2",507,48
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:08:21","SAFE2",508,48
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:08:25","AT2",509,48
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:08:36","DANGER2",510,48
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:08:36","DAT2",511,48
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:08:43","Player_DATA_CONFIRMED",512,49
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:08:50","SHB2",513,49
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:08:59","SAFE1",514,49
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:09:02","GK1",515,49
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:09:10","Restart",516,49
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:09:12","AT1",517,49
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:09:12","SAFE1",518,49
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:09:20","AT1",519,49
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:09:26","Possible Free Kick",520,49
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:09:31","SAFE2",522,49
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:09:31","F1",523,49
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:09:31","FK2",524,49
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:09:31","Ball Position",525,49
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:09:32","Restart",526,49
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:09:48","AT2",527,50
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:09:50","SAFE2",528,50
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:09:58","AT2",529,50
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:10:02","DANGER2",530,50
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:10:02","DAT2",531,50
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:10:11","SAFE1",532,50
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:10:17","AT2",533,50
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:10:20","SAFE1",534,50
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:10:24","AT1",535,50
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:10:36","Possible Free Kick",536,50
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:10:42","Danger",538,51
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:11:00","SAFE2",539,51
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:11:00","F1",540,51
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:11:00","FK2",541,51
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:11:01","Ball Position",542,51
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:11:08","Restart",543,51
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:11:19","AT2",544,51
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:11:23","DANGER2",545,51
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:11:23","DAT2",546,51
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:11:37","POSSIBLE_TI",547,51
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:11:47","TI1",548,52
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:11:49","Restart",549,52
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:11:51","SAFE1",550,52
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:12:00","Possible Free Kick",551,52
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:12:22","F1",553,52
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:12:22","FK2",554,52
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:12:22","Ball Position",555,52
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:12:22","DANGER2",556,52
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:12:22","DFK2",557,52
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:12:24","Restart",558,52
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:12:33","SHB2",559,52
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:12:34","SAFE1",560,52
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:12:36","GK1",561,52
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:12:51","Restart",562,53
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:12:53","AT1",563,53
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:12:56","SAFE2",564,53
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:12:58","AT2",565,53
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:13:02","SAFE1",566,53
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:13:14","AT1",567,53
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:13:20","SAFE1",568,53
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:13:22","AT1",569,53
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:13:28","DANGER1",570,53
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:13:28","DAT1",571,53
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:13:36","PCR1",572,53
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:13:47","CR1",573,54
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:13:50","Ball Position",574,54
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:13:57","Restart",575,54
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:14:10","SAFE2",576,54
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:14:44","AT2",577,55
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:14:49","SAFE2",578,55
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:15:00","AT2",579,55
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:15:01","DANGER2",580,55
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:15:01","DAT2",581,55
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:15:06","POSSIBLE_TI",582,55
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:15:11","TI2",583,55
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:15:17","Restart",584,55
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:15:27","BLOCKED2",585,55
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:15:35","SAFE1",586,55
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:15:40","AT2",587,55
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:15:52","SAFE1",588,56
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:15:58","AT1",589,56
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:16:10","DANGER1",590,56
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:16:10","DAT1",591,56
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:16:21","SAFE1",592,56
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:16:24","AT1",593,56
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:16:31","SAFE1",594,56
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:16:41","AT1",595,57
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:16:42","SAFE1",596,57
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:16:47","AT1",597,57
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:17:00","SAFE2",598,57
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:17:05","AT2",599,57
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:17:07","Possible Free Kick",600,57
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:17:21","POSSIBLE_CARDS",602,57
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:18:10","F1",604,58
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:18:10","FK2",605,58
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:18:10","Ball Position",606,58
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:18:10","DANGER2",607,58
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:18:10","DFK2",608,58
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:18:12","Restart",609,58
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:18:26","SAFE1",610,58
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:18:28","AT1",611,58
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:18:29","SAFE2",612,58
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:18:31","NO_Cards",613,58
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:18:38","AT2",614,58
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:18:43","DANGER2",615,59
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:18:43","DAT2",616,59
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:18:57","SAFE1",617,59
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:19:02","POSSIBLE_TI",618,59
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:19:06","TI2",619,59
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:19:07","Restart",620,59
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:19:08","AT2",621,59
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:19:24","SAFE2",622,59
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:19:27","AT2",623,59
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:19:44","DANGER2",624,60
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:19:44","DAT2",625,60
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:19:45","PCR2",626,60
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:19:58","POSSIBLE_CARDS",627,60
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:20:24","NO_Cards",628,60
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:20:26","CR2",629,60
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:20:30","Ball Position",630,60
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:20:34","Restart",631,60
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:20:48","SHB2",632,61
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:20:49","SAFE1",633,61
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:20:50","GK1",634,61
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:21:12","Restart",635,61
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:21:14","AT1",636,61
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:21:17","SAFE1",637,61
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:21:24","AT1",638,61
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:21:27","POSSIBLE_TI",639,61
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:21:32","TI2",640,61
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:21:35","Restart",641,61
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:21:36","SAFE2",642,61
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:21:45","AT2",643,62
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:21:55","DANGER2",644,62
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:21:55","DAT2",645,62
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:22:09","SAFE1",646,62
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:22:16","AT1",647,62
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:22:33","Possible Free Kick",648,62
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:22:38","Danger",650,62
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:22:43","F2",651,63
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:22:43","FK1",652,63
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:22:43","Ball Position",653,63
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:22:43","DANGER1",654,63
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:22:43","DFK1",655,63
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:22:43","Restart",656,63
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:22:45","SAFE1",657,63
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:22:53","AT1",658,63
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:22:53","SAFE2",659,63
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:23:13","AT2",660,63
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:23:17","SAFE1",661,63
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:23:25","AT1",662,63
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:23:29","DANGER1",663,63
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:23:29","DAT1",664,63
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:23:47","SHB1",665,64
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:23:48","SAFE2",666,64
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:23:49","GK2",667,64
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:23:55","Restart",668,64
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:23:56","AT2",669,64
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:23:58","DANGER2",670,64
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:23:58","DAT2",671,64
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:24:14","SHG2",672,64
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:24:15","SAFE1",673,64
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:24:17","Danger",674,64
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:24:28","AT1",675,64
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:24:29","AT2",676,64
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:24:29","DANGER2",677,64
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:24:29","DAT2",678,64
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:24:33","PCR2",679,64
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:25:03","CR2",680,65
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:25:04","Ball Position",681,65
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:25:05","Restart",682,65
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:25:11","SHG2",683,65
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:25:13","SAFE1",684,65
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:25:27","Danger",685,65
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:25:29","AT1",686,65
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:25:32","DANGER1",687,65
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:25:32","DAT1",688,65
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:25:35","POSSIBLE_TI",689,65
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:25:45","TI1",690,66
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:25:46","Restart",691,66
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:26:18","SAFE2",692,66
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:26:31","AT2",693,66
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:26:33","DANGER2",694,66
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:26:33","DAT2",695,66
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:26:35","SAFE1",696,66
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:26:40","AT1",697,66
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:26:45","SAFE2",698,67
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:26:49","AT2",699,67
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:26:50","SAFE1",700,67
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:26:52","AT1",701,67
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:27:03","DANGER1",702,67
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:27:03","DAT1",703,67
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:27:13","SAFE2",704,67
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:27:22","AT2",705,67
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:27:25","DANGER2",706,67
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:27:25","DAT2",707,67
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:27:30","PCR2",708,67
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:27:53","CR2",709,68
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:27:55","Ball Position",710,68
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:28:01","Restart",711,68
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:28:10","SHB2",712,68
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:28:12","SAFE1",713,68
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:28:14","GK1",714,68
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:28:15","Danger",715,68
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:28:50","SUB2",716,69
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:28:57","Restart",717,69
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:28:59","AT1",718,69
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:29:04","SAFE2",719,69
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:29:21","AT2",720,69
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:29:25","SAFE1",721,69
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:29:34","AT1",722,69
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:29:44","DANGER1",723,70
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:29:44","DAT1",724,70
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:29:47","SAFE2",725,70
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:30:06","AT2",726,70
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:30:07","SAFE2",727,70
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:30:15","Player_DATA_CONFIRMED",728,70
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:30:23","AT2",729,70
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:30:27","DANGER2",730,70
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:30:27","DAT2",731,70
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:30:38","PCR2",732,70
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:30:55","CR2",733,71
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:30:57","Ball Position",734,71
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:30:58","Restart",735,71
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:31:16","Possible Free Kick",736,71
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:31:35","SAFE1",738,71
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:31:35","F2",739,71
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:31:35","FK1",740,71
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:31:35","Ball Position",741,71
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:31:36","Restart",742,71
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:31:39","AT1",743,71
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:31:41","DANGER1",744,72
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:31:41","DAT1",745,72
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:31:42","SAFE2",746,72
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:31:59","AT2",747,72
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:32:00","SAFE1",748,72
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:32:02","AT1",749,72
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:32:06","DANGER1",750,72
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:32:06","DAT1",751,72
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:32:23","POSSIBLE_TI",752,72
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:32:24","TI1",753,72
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:32:26","Restart",754,72
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:32:27","POSSIBLE_TI",755,72
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:32:57","SUB2",756,73
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:33:08","TI2",757,73
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:33:10","Restart",758,73
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:33:11","SAFE2",759,73
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:33:13","Player_DATA_CONFIRMED",760,73
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:33:35","AT2",761,73
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:33:39","SAFE1",762,73
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:33:49","POSSIBLE_TI",763,74
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:34:25","TI2",764,74
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:34:27","Restart",765,74
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:34:42","AT1",766,75
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:34:45","SAFE2",767,75
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:34:55","AT2",768,75
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:34:57","SAFE1",769,75
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:35:06","AT1",770,75
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:35:20","SAFE1",771,75
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:35:26","AT1",772,75
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:35:31","SAFE1",773,75
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:35:34","AT1",774,75
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:35:37","Possible Free Kick",775,75
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:36:16","SUB1",777,76
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:36:36","SAFE2",778,76
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:36:36","F1",779,76
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:36:36","FK2",780,76
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:36:36","Ball Position",781,76
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:36:37","Restart",782,76
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:36:40","AT2",783,76
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:36:45","DANGER2",784,77
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:36:45","DAT2",785,77
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:36:46","SAFE1",786,77
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:37:03","AT1",787,77
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:37:08","SAFE2",788,77
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:37:12","AT1",789,77
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:37:14","Player_DATA_CONFIRMED",790,77
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:37:14","SAFE1",791,77
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:37:21","AT1",792,77
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:37:21","SAFE2",793,77
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:37:27","AT2",794,77
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:37:29","DANGER2",795,77
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:37:29","DAT2",796,77
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:37:32","SAFE1",797,77
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:37:37","AT2",798,77
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:37:48","POSSIBLE_TI",799,78
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:37:54","TI2",800,78
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:38:01","Restart",801,78
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:38:04","DANGER2",802,78
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:38:04","DAT2",803,78
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:38:12","Possible Free Kick",804,78
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:38:33","SAFE1",806,78
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:38:33","F2",807,78
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:38:33","FK1",808,78
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:38:33","Ball Position",809,78
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:38:35","Restart",810,78
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:38:36","AT1",811,78
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:38:43","Possible Free Kick",812,79
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:39:14","SAFE2",814,79
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:39:14","F1",815,79
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:39:14","FK2",816,79
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:39:14","Ball Position",817,79
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:39:16","Restart",818,79
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:39:22","AT2",819,79
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:39:22","SAFE2",820,79
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:39:25","AT2",821,79
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:39:32","DANGER2",822,79
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:39:32","DAT2",823,79
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:39:41","SAFE1",824,80
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:39:50","POSSIBLE_TI",825,80
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:40:15","SUB1",826,80
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:40:30","TI1",827,80
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:40:31","Restart",828,80
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:40:34","AT1",829,80
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:40:35","SAFE2",830,80
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:40:36","AT2",831,80
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:40:56","POSSIBLE_TI",832,81
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:40:57","TI2",833,81
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:41:04","Restart",834,81
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:41:07","DANGER2",835,81
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:41:07","DAT2",836,81
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:41:09","POSSIBLE_TI",837,81
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:41:21","TI2",838,81
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:41:22","Restart",839,81
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:41:30","PCR2",840,81
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:41:46","Danger",841,82
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:42:10","SUB2",842,82
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:42:12","NCR2",843,82
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:42:13","SAFE1",844,82
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:42:15","GK1",845,82
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:42:16","Restart",846,82
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:42:18","AT1",847,82
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:42:19","SAFE1",848,82
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:42:27","AT1",849,82
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:42:40","DANGER1",850,82
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:42:40","DAT1",851,82
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:42:41","POSSIBLE_TI",852,83
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:42:43","Player_DATA_CONFIRMED",853,83
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:42:43","Player_DATA_CONFIRMED",854,83
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:42:49","TI1",855,83
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:42:51","Restart",856,83
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:42:52","SAFE2",857,83
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:42:54","POSSIBLE_TI",858,83
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:42:56","TI2",859,83
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:42:57","Restart",860,83
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:43:07","AT2",861,83
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:43:16","SAFE1",862,83
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:43:32","AT1",863,83
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:43:57","DANGER1",864,84
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:43:57","DAT1",865,84
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:44:17","PCR1",866,84
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:44:41","CR1",867,85
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:44:43","Ball Position",868,85
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:44:44","Restart",869,85
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:44:56","POSSIBLE_TI",870,85
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:44:57","TI1",871,85
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:44:59","Restart",872,85
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:45:05","POSSIBLE_TI",873,85
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:45:10","Danger",874,85
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:45:15","TI1",875,85
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:45:16","Restart",876,85
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:45:17","PCR1",877,85
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:45:23","CR1",878,85
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:45:26","Ball Position",879,85
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:45:31","Restart",880,85
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:45:47","SHB1",881,86
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:45:48","SAFE2",882,86
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:45:49","GK2",883,86
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:46:19","Restart",884,86
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:46:24","AT2",885,86
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:46:25","SAFE2",886,86
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:46:27","AT2",887,86
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:46:28","DANGER2",888,86
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:46:28","DAT2",889,86
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:46:31","PCR2",890,86
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:46:51","NCR2",891,87
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:46:53","SAFE1",892,87
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:46:54","GK1",893,87
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:47:01","Restart",894,87
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:47:02","AT1",895,87
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:47:05","SAFE2",896,87
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:47:27","AT2",897,87
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:47:29","DANGER2",898,87
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:47:29","DAT2",899,87
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:47:37","BLOCKED2",900,87
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:47:39","SAFE1",901,87
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:47:45","AT1",902,88
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:47:47","DANGER1",903,88
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:47:47","DAT1",904,88
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:47:52","PCR1",905,88
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:48:17","CR1",906,88
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:48:18","Ball Position",907,88
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:48:19","Restart",908,88
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:48:26","SHB1",909,88
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:48:27","SAFE2",910,88
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:48:28","GK2",911,88
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:48:47","Restart",912,89
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:48:57","AT2",913,89
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:48:58","POSSIBLE_TI",914,89
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:49:06","TI1",915,89
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:49:08","Restart",916,89
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:49:14","POSSIBLE_TI",917,89
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:49:45","Danger",918,90
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:49:47","POSSIBLE_CARDS",919,90
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:49:52","TI2",920,90
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:49:55","NO_Cards",921,90
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:49:56","Restart",922,90
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:49:59","POSSIBLE_CARDS",923,90
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:50:11","PRC",924,90
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:50:15","RC2",925,90
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:50:20","CONF_RC2",926,90
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:50:38","System Message",927,90
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:51:17","Extra Time",928,91
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:51:59","CRC2",929,92
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:52:01","YRC2",930,92
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:52:03","CONF_YC_RC2",931,92
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:52:17","Scorer",932,92
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:52:19","YC1",933,92
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:52:27","CONF_YC1",934,92
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:52:31","Scorer",935,92
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:52:51","Possible Free Kick",936,93
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:52:59","SAFE1",938,93
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:53:00","F2",939,93
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:53:00","FK1",940,93
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:53:00","Ball Position",941,93
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:53:01","Restart",942,93
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:53:02","AT1",943,93
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:53:03","DANGER1",944,93
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:53:03","DAT1",945,93
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:53:08","SHG1",946,93
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:53:10","SAFE2",947,93
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:53:19","AT2",948,93
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:53:19","Possible Free Kick",949,93
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:53:22","SAFE1",951,93
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:53:22","F2",952,93
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:53:22","FK1",953,93
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:53:22","Ball Position",954,93
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:53:23","Restart",955,93
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:53:24","AT1",956,93
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:53:25","DANGER1",957,93
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:53:25","DAT1",958,93
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:53:27","SAFE2",959,93
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:53:31","AT2",960,93
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:53:32","SAFE1",961,93
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:53:39","System Message",962,93
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:53:47","Stop RT2",963,93
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:53:47","Stop Game",964,93
+1213145,"FC Metz","Stade de Reims","11/23/2019 20:54:56","CONF_PERIOD_SCORE",965,93
+1213145,"FC Metz","Stade de Reims","11/23/2019 21:13:09","Player_DATA_CONFIRMED",966,93
+1213145,"FC Metz","Stade de Reims","11/23/2019 21:13:14","Player_DATA_CONFIRMED",967,93

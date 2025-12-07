@@ -1,0 +1,881 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+935634,"Burnley FC","Southampton FC","02/24/2018 14:00:50","Lineup changed",0,0
+935634,"Burnley FC","Southampton FC","02/24/2018 14:01:21","Transmission Online",1,0
+935634,"Burnley FC","Southampton FC","02/24/2018 14:01:21","Scout in Stadion",2,0
+935634,"Burnley FC","Southampton FC","02/24/2018 14:25:45","GCC",3,0
+935634,"Burnley FC","Southampton FC","02/24/2018 14:56:24","Players are coming out",4,0
+935634,"Burnley FC","Southampton FC","02/24/2018 14:57:10","Players lined up",5,0
+935634,"Burnley FC","Southampton FC","02/24/2018 14:57:20","Shake hands",6,0
+935634,"Burnley FC","Southampton FC","02/24/2018 14:58:40","Jersey Changed",7,0
+935634,"Burnley FC","Southampton FC","02/24/2018 14:58:40","Jersey Changed",8,0
+935634,"Burnley FC","Southampton FC","02/24/2018 14:58:45","Photo taking",9,0
+935634,"Burnley FC","Southampton FC","02/24/2018 14:59:02","Flip coin",10,0
+935634,"Burnley FC","Southampton FC","02/24/2018 14:59:28","Game about to start",11,0
+935634,"Burnley FC","Southampton FC","02/24/2018 15:00:13","Start RT1 Team 1",12,1
+935634,"Burnley FC","Southampton FC","02/24/2018 15:00:23","AT1",13,1
+935634,"Burnley FC","Southampton FC","02/24/2018 15:00:35","SAFE2",14,1
+935634,"Burnley FC","Southampton FC","02/24/2018 15:00:36","AT2",15,1
+935634,"Burnley FC","Southampton FC","02/24/2018 15:00:36","DANGER2",16,1
+935634,"Burnley FC","Southampton FC","02/24/2018 15:00:36","DAT2",17,1
+935634,"Burnley FC","Southampton FC","02/24/2018 15:01:07","SAFE2",18,1
+935634,"Burnley FC","Southampton FC","02/24/2018 15:01:25","AT2",19,2
+935634,"Burnley FC","Southampton FC","02/24/2018 15:01:25","DANGER2",20,2
+935634,"Burnley FC","Southampton FC","02/24/2018 15:01:25","DAT2",21,2
+935634,"Burnley FC","Southampton FC","02/24/2018 15:01:46","POSSIBLE_TI",22,2
+935634,"Burnley FC","Southampton FC","02/24/2018 15:01:47","TI1",23,2
+935634,"Burnley FC","Southampton FC","02/24/2018 15:02:03","Restart",24,2
+935634,"Burnley FC","Southampton FC","02/24/2018 15:02:04","SAFE1",25,2
+935634,"Burnley FC","Southampton FC","02/24/2018 15:02:06","POSSIBLE_TI",26,2
+935634,"Burnley FC","Southampton FC","02/24/2018 15:02:06","TI1",27,2
+935634,"Burnley FC","Southampton FC","02/24/2018 15:02:14","Restart",28,3
+935634,"Burnley FC","Southampton FC","02/24/2018 15:02:15","AT1",29,3
+935634,"Burnley FC","Southampton FC","02/24/2018 15:02:33","POSSIBLE_TI",30,3
+935634,"Burnley FC","Southampton FC","02/24/2018 15:02:35","TI1",31,3
+935634,"Burnley FC","Southampton FC","02/24/2018 15:02:43","Restart",32,3
+935634,"Burnley FC","Southampton FC","02/24/2018 15:02:57","SAFE1",33,3
+935634,"Burnley FC","Southampton FC","02/24/2018 15:03:07","AT1",34,3
+935634,"Burnley FC","Southampton FC","02/24/2018 15:03:10","DANGER1",35,3
+935634,"Burnley FC","Southampton FC","02/24/2018 15:03:10","DAT1",36,3
+935634,"Burnley FC","Southampton FC","02/24/2018 15:03:13","POSSIBLE_TI",37,3
+935634,"Burnley FC","Southampton FC","02/24/2018 15:03:14","TI1",38,4
+935634,"Burnley FC","Southampton FC","02/24/2018 15:03:31","Restart",39,4
+935634,"Burnley FC","Southampton FC","02/24/2018 15:04:10","SHB1",40,4
+935634,"Burnley FC","Southampton FC","02/24/2018 15:04:18","SAFE2",41,5
+935634,"Burnley FC","Southampton FC","02/24/2018 15:04:19","GK2",42,5
+935634,"Burnley FC","Southampton FC","02/24/2018 15:04:40","Restart",43,5
+935634,"Burnley FC","Southampton FC","02/24/2018 15:04:46","AT1",44,5
+935634,"Burnley FC","Southampton FC","02/24/2018 15:04:47","DANGER1",45,5
+935634,"Burnley FC","Southampton FC","02/24/2018 15:04:47","DAT1",46,5
+935634,"Burnley FC","Southampton FC","02/24/2018 15:05:05","AT2",47,5
+935634,"Burnley FC","Southampton FC","02/24/2018 15:05:05","DANGER2",48,5
+935634,"Burnley FC","Southampton FC","02/24/2018 15:05:05","DAT2",49,5
+935634,"Burnley FC","Southampton FC","02/24/2018 15:05:16","SAFE1",50,6
+935634,"Burnley FC","Southampton FC","02/24/2018 15:05:28","AT1",51,6
+935634,"Burnley FC","Southampton FC","02/24/2018 15:05:28","DANGER1",52,6
+935634,"Burnley FC","Southampton FC","02/24/2018 15:05:28","DAT1",53,6
+935634,"Burnley FC","Southampton FC","02/24/2018 15:05:31","SAFE2",54,6
+935634,"Burnley FC","Southampton FC","02/24/2018 15:05:40","AT2",55,6
+935634,"Burnley FC","Southampton FC","02/24/2018 15:05:40","DANGER2",56,6
+935634,"Burnley FC","Southampton FC","02/24/2018 15:05:40","DAT2",57,6
+935634,"Burnley FC","Southampton FC","02/24/2018 15:05:44","PCR2",58,6
+935634,"Burnley FC","Southampton FC","02/24/2018 15:06:06","CR2",59,6
+935634,"Burnley FC","Southampton FC","02/24/2018 15:06:07","Ball Position",60,6
+935634,"Burnley FC","Southampton FC","02/24/2018 15:06:26","Restart",61,7
+935634,"Burnley FC","Southampton FC","02/24/2018 15:06:33","SAFE2",62,7
+935634,"Burnley FC","Southampton FC","02/24/2018 15:06:51","AT2",63,7
+935634,"Burnley FC","Southampton FC","02/24/2018 15:06:56","Possible Free Kick",64,7
+935634,"Burnley FC","Southampton FC","02/24/2018 15:06:59","SAFE1",66,7
+935634,"Burnley FC","Southampton FC","02/24/2018 15:06:59","F2",67,7
+935634,"Burnley FC","Southampton FC","02/24/2018 15:06:59","FK1",68,7
+935634,"Burnley FC","Southampton FC","02/24/2018 15:07:00","Ball Position",69,7
+935634,"Burnley FC","Southampton FC","02/24/2018 15:07:12","AT1",70,7
+935634,"Burnley FC","Southampton FC","02/24/2018 15:07:12","DANGER1",71,7
+935634,"Burnley FC","Southampton FC","02/24/2018 15:07:12","DAT1",72,7
+935634,"Burnley FC","Southampton FC","02/24/2018 15:07:13","Restart",73,7
+935634,"Burnley FC","Southampton FC","02/24/2018 15:07:17","POSSIBLE_TI",74,8
+935634,"Burnley FC","Southampton FC","02/24/2018 15:07:20","TI2",75,8
+935634,"Burnley FC","Southampton FC","02/24/2018 15:07:36","Restart",76,8
+935634,"Burnley FC","Southampton FC","02/24/2018 15:07:40","POSSIBLE_TI",77,8
+935634,"Burnley FC","Southampton FC","02/24/2018 15:07:41","TI2",78,8
+935634,"Burnley FC","Southampton FC","02/24/2018 15:07:55","Restart",79,8
+935634,"Burnley FC","Southampton FC","02/24/2018 15:08:04","SAFE2",80,8
+935634,"Burnley FC","Southampton FC","02/24/2018 15:08:07","AT2",81,8
+935634,"Burnley FC","Southampton FC","02/24/2018 15:08:10","DANGER2",82,8
+935634,"Burnley FC","Southampton FC","02/24/2018 15:08:10","DAT2",83,8
+935634,"Burnley FC","Southampton FC","02/24/2018 15:08:17","POSSIBLE_TI",84,9
+935634,"Burnley FC","Southampton FC","02/24/2018 15:08:18","TI1",85,9
+935634,"Burnley FC","Southampton FC","02/24/2018 15:08:32","Restart",86,9
+935634,"Burnley FC","Southampton FC","02/24/2018 15:08:41","POSSIBLE_TI",87,9
+935634,"Burnley FC","Southampton FC","02/24/2018 15:08:51","TI2",88,9
+935634,"Burnley FC","Southampton FC","02/24/2018 15:08:55","Restart",89,9
+935634,"Burnley FC","Southampton FC","02/24/2018 15:09:13","SAFE1",90,9
+935634,"Burnley FC","Southampton FC","02/24/2018 15:09:16","AT1",91,10
+935634,"Burnley FC","Southampton FC","02/24/2018 15:09:21","SAFE2",92,10
+935634,"Burnley FC","Southampton FC","02/24/2018 15:09:40","Possible Free Kick",93,10
+935634,"Burnley FC","Southampton FC","02/24/2018 15:09:41","SAFE1",95,10
+935634,"Burnley FC","Southampton FC","02/24/2018 15:09:41","F2",96,10
+935634,"Burnley FC","Southampton FC","02/24/2018 15:09:41","FK1",97,10
+935634,"Burnley FC","Southampton FC","02/24/2018 15:09:41","Ball Position",98,10
+935634,"Burnley FC","Southampton FC","02/24/2018 15:10:05","Restart",99,10
+935634,"Burnley FC","Southampton FC","02/24/2018 15:10:09","CLS",100,10
+935634,"Burnley FC","Southampton FC","02/24/2018 15:10:21","AT1",101,11
+935634,"Burnley FC","Southampton FC","02/24/2018 15:10:21","DANGER1",102,11
+935634,"Burnley FC","Southampton FC","02/24/2018 15:10:21","DAT1",103,11
+935634,"Burnley FC","Southampton FC","02/24/2018 15:10:24","Restart",104,11
+935634,"Burnley FC","Southampton FC","02/24/2018 15:10:31","SHG1",105,11
+935634,"Burnley FC","Southampton FC","02/24/2018 15:10:42","SAFE2",106,11
+935634,"Burnley FC","Southampton FC","02/24/2018 15:10:48","AT2",107,11
+935634,"Burnley FC","Southampton FC","02/24/2018 15:10:48","DANGER2",108,11
+935634,"Burnley FC","Southampton FC","02/24/2018 15:10:48","DAT2",109,11
+935634,"Burnley FC","Southampton FC","02/24/2018 15:11:14","SAFE2",110,12
+935634,"Burnley FC","Southampton FC","02/24/2018 15:11:17","POSSIBLE_TI",111,12
+935634,"Burnley FC","Southampton FC","02/24/2018 15:11:17","TI2",112,12
+935634,"Burnley FC","Southampton FC","02/24/2018 15:11:22","Restart",113,12
+935634,"Burnley FC","Southampton FC","02/24/2018 15:11:27","Possible Free Kick",114,12
+935634,"Burnley FC","Southampton FC","02/24/2018 15:11:34","F1",116,12
+935634,"Burnley FC","Southampton FC","02/24/2018 15:11:34","FK2",117,12
+935634,"Burnley FC","Southampton FC","02/24/2018 15:11:34","Ball Position",118,12
+935634,"Burnley FC","Southampton FC","02/24/2018 15:11:34","Restart",119,12
+935634,"Burnley FC","Southampton FC","02/24/2018 15:11:43","AT2",120,12
+935634,"Burnley FC","Southampton FC","02/24/2018 15:11:53","DANGER2",121,12
+935634,"Burnley FC","Southampton FC","02/24/2018 15:11:53","DAT2",122,12
+935634,"Burnley FC","Southampton FC","02/24/2018 15:12:04","SHG2",123,12
+935634,"Burnley FC","Southampton FC","02/24/2018 15:12:07","BLOCKED2",124,12
+935634,"Burnley FC","Southampton FC","02/24/2018 15:12:35","Injury Break",125,13
+935634,"Burnley FC","Southampton FC","02/24/2018 15:12:36","Possible Free Kick",126,13
+935634,"Burnley FC","Southampton FC","02/24/2018 15:12:52","No Free Kick",128,13
+935634,"Burnley FC","Southampton FC","02/24/2018 15:13:01","Referee Ball",129,13
+935634,"Burnley FC","Southampton FC","02/24/2018 15:13:02","Restart",130,13
+935634,"Burnley FC","Southampton FC","02/24/2018 15:13:04","SAFE2",131,13
+935634,"Burnley FC","Southampton FC","02/24/2018 15:13:29","AT1",132,14
+935634,"Burnley FC","Southampton FC","02/24/2018 15:13:29","DANGER1",133,14
+935634,"Burnley FC","Southampton FC","02/24/2018 15:13:29","DAT1",134,14
+935634,"Burnley FC","Southampton FC","02/24/2018 15:13:45","SAFE2",135,14
+935634,"Burnley FC","Southampton FC","02/24/2018 15:13:46","GK2",136,14
+935634,"Burnley FC","Southampton FC","02/24/2018 15:14:06","Restart",137,14
+935634,"Burnley FC","Southampton FC","02/24/2018 15:14:16","SAFE1",138,15
+935634,"Burnley FC","Southampton FC","02/24/2018 15:14:22","AT2",139,15
+935634,"Burnley FC","Southampton FC","02/24/2018 15:14:22","DANGER2",140,15
+935634,"Burnley FC","Southampton FC","02/24/2018 15:14:22","DAT2",141,15
+935634,"Burnley FC","Southampton FC","02/24/2018 15:14:34","SAFE1",142,15
+935634,"Burnley FC","Southampton FC","02/24/2018 15:14:53","GK1",143,15
+935634,"Burnley FC","Southampton FC","02/24/2018 15:14:59","Restart",144,15
+935634,"Burnley FC","Southampton FC","02/24/2018 15:15:01","AT1",145,15
+935634,"Burnley FC","Southampton FC","02/24/2018 15:15:01","DANGER1",146,15
+935634,"Burnley FC","Southampton FC","02/24/2018 15:15:01","DAT1",147,15
+935634,"Burnley FC","Southampton FC","02/24/2018 15:15:05","POSSIBLE_TI",148,15
+935634,"Burnley FC","Southampton FC","02/24/2018 15:15:06","TI2",149,15
+935634,"Burnley FC","Southampton FC","02/24/2018 15:15:22","Restart",150,16
+935634,"Burnley FC","Southampton FC","02/24/2018 15:15:46","SAFE2",151,16
+935634,"Burnley FC","Southampton FC","02/24/2018 15:15:49","GK2",152,16
+935634,"Burnley FC","Southampton FC","02/24/2018 15:15:50","POSSIBLE_CARDS",153,16
+935634,"Burnley FC","Southampton FC","02/24/2018 15:16:03","NO_Cards",154,16
+935634,"Burnley FC","Southampton FC","02/24/2018 15:16:15","Restart",155,17
+935634,"Burnley FC","Southampton FC","02/24/2018 15:16:25","AT1",156,17
+935634,"Burnley FC","Southampton FC","02/24/2018 15:16:27","DANGER1",157,17
+935634,"Burnley FC","Southampton FC","02/24/2018 15:16:27","DAT1",158,17
+935634,"Burnley FC","Southampton FC","02/24/2018 15:16:30","POSSIBLE_TI",159,17
+935634,"Burnley FC","Southampton FC","02/24/2018 15:16:32","TI1",160,17
+935634,"Burnley FC","Southampton FC","02/24/2018 15:16:33","Restart",161,17
+935634,"Burnley FC","Southampton FC","02/24/2018 15:16:44","Possible Free Kick",162,17
+935634,"Burnley FC","Southampton FC","02/24/2018 15:16:48","SAFE2",164,17
+935634,"Burnley FC","Southampton FC","02/24/2018 15:16:48","FK2",165,17
+935634,"Burnley FC","Southampton FC","02/24/2018 15:16:48","Ball Position",166,17
+935634,"Burnley FC","Southampton FC","02/24/2018 15:17:08","Restart",167,17
+935634,"Burnley FC","Southampton FC","02/24/2018 15:17:13","AT2",168,17
+935634,"Burnley FC","Southampton FC","02/24/2018 15:17:13","DANGER2",169,17
+935634,"Burnley FC","Southampton FC","02/24/2018 15:17:13","DAT2",170,17
+935634,"Burnley FC","Southampton FC","02/24/2018 15:17:50","POSSIBLE_TI",171,18
+935634,"Burnley FC","Southampton FC","02/24/2018 15:17:53","TI2",172,18
+935634,"Burnley FC","Southampton FC","02/24/2018 15:18:26","Restart",173,19
+935634,"Burnley FC","Southampton FC","02/24/2018 15:18:39","Possible Free Kick",174,19
+935634,"Burnley FC","Southampton FC","02/24/2018 15:18:41","SAFE1",176,19
+935634,"Burnley FC","Southampton FC","02/24/2018 15:18:41","F2",177,19
+935634,"Burnley FC","Southampton FC","02/24/2018 15:18:41","FK1",178,19
+935634,"Burnley FC","Southampton FC","02/24/2018 15:18:41","Ball Position",179,19
+935634,"Burnley FC","Southampton FC","02/24/2018 15:18:43","AT1",180,19
+935634,"Burnley FC","Southampton FC","02/24/2018 15:18:43","DANGER1",181,19
+935634,"Burnley FC","Southampton FC","02/24/2018 15:18:43","DAT1",182,19
+935634,"Burnley FC","Southampton FC","02/24/2018 15:18:44","Restart",183,19
+935634,"Burnley FC","Southampton FC","02/24/2018 15:19:00","POSSIBLE_TI",184,19
+935634,"Burnley FC","Southampton FC","02/24/2018 15:19:05","TI2",185,19
+935634,"Burnley FC","Southampton FC","02/24/2018 15:19:06","SAFE2",186,19
+935634,"Burnley FC","Southampton FC","02/24/2018 15:19:16","Restart",187,20
+935634,"Burnley FC","Southampton FC","02/24/2018 15:19:24","AT1",188,20
+935634,"Burnley FC","Southampton FC","02/24/2018 15:19:24","DANGER1",189,20
+935634,"Burnley FC","Southampton FC","02/24/2018 15:19:24","DAT1",190,20
+935634,"Burnley FC","Southampton FC","02/24/2018 15:19:28","SAFE2",191,20
+935634,"Burnley FC","Southampton FC","02/24/2018 15:19:37","AT2",192,20
+935634,"Burnley FC","Southampton FC","02/24/2018 15:19:39","POSSIBLE_TI",193,20
+935634,"Burnley FC","Southampton FC","02/24/2018 15:19:40","TI2",194,20
+935634,"Burnley FC","Southampton FC","02/24/2018 15:20:01","Restart",195,20
+935634,"Burnley FC","Southampton FC","02/24/2018 15:20:07","DANGER2",196,20
+935634,"Burnley FC","Southampton FC","02/24/2018 15:20:07","DAT2",197,20
+935634,"Burnley FC","Southampton FC","02/24/2018 15:20:35","POSSIBLE_TI",198,21
+935634,"Burnley FC","Southampton FC","02/24/2018 15:20:36","TI2",199,21
+935634,"Burnley FC","Southampton FC","02/24/2018 15:20:50","Restart",200,21
+935634,"Burnley FC","Southampton FC","02/24/2018 15:21:10","POSSIBLE_TI",201,21
+935634,"Burnley FC","Southampton FC","02/24/2018 15:21:16","TI2",202,22
+935634,"Burnley FC","Southampton FC","02/24/2018 15:21:20","CLS",203,22
+935634,"Burnley FC","Southampton FC","02/24/2018 15:21:21","TI1",204,22
+935634,"Burnley FC","Southampton FC","02/24/2018 15:21:26","Restart",205,22
+935634,"Burnley FC","Southampton FC","02/24/2018 15:21:28","SAFE1",206,22
+935634,"Burnley FC","Southampton FC","02/24/2018 15:21:33","AT1",207,22
+935634,"Burnley FC","Southampton FC","02/24/2018 15:21:36","DANGER1",208,22
+935634,"Burnley FC","Southampton FC","02/24/2018 15:21:36","DAT1",209,22
+935634,"Burnley FC","Southampton FC","02/24/2018 15:21:53","POSSIBLE_TI",210,22
+935634,"Burnley FC","Southampton FC","02/24/2018 15:21:56","TI1",211,22
+935634,"Burnley FC","Southampton FC","02/24/2018 15:22:02","Restart",212,22
+935634,"Burnley FC","Southampton FC","02/24/2018 15:22:11","SAFE1",213,22
+935634,"Burnley FC","Southampton FC","02/24/2018 15:22:19","AT1",214,23
+935634,"Burnley FC","Southampton FC","02/24/2018 15:22:21","DANGER1",215,23
+935634,"Burnley FC","Southampton FC","02/24/2018 15:22:21","DAT1",216,23
+935634,"Burnley FC","Southampton FC","02/24/2018 15:22:29","SAFE2",217,23
+935634,"Burnley FC","Southampton FC","02/24/2018 15:22:45","AT2",218,23
+935634,"Burnley FC","Southampton FC","02/24/2018 15:22:48","DANGER2",219,23
+935634,"Burnley FC","Southampton FC","02/24/2018 15:22:48","DAT2",220,23
+935634,"Burnley FC","Southampton FC","02/24/2018 15:22:54","POSSIBLE_TI",221,23
+935634,"Burnley FC","Southampton FC","02/24/2018 15:23:01","TI2",222,23
+935634,"Burnley FC","Southampton FC","02/24/2018 15:23:09","Restart",223,23
+935634,"Burnley FC","Southampton FC","02/24/2018 15:23:22","SAFE2",224,24
+935634,"Burnley FC","Southampton FC","02/24/2018 15:23:29","AT2",225,24
+935634,"Burnley FC","Southampton FC","02/24/2018 15:23:32","DANGER2",226,24
+935634,"Burnley FC","Southampton FC","02/24/2018 15:23:32","DAT2",227,24
+935634,"Burnley FC","Southampton FC","02/24/2018 15:23:36","POSSIBLE_TI",228,24
+935634,"Burnley FC","Southampton FC","02/24/2018 15:23:40","TI2",229,24
+935634,"Burnley FC","Southampton FC","02/24/2018 15:23:48","Restart",230,24
+935634,"Burnley FC","Southampton FC","02/24/2018 15:24:15","SAFE1",231,25
+935634,"Burnley FC","Southampton FC","02/24/2018 15:24:16","AT1",232,25
+935634,"Burnley FC","Southampton FC","02/24/2018 15:24:21","SAFE2",233,25
+935634,"Burnley FC","Southampton FC","02/24/2018 15:24:28","AT2",234,25
+935634,"Burnley FC","Southampton FC","02/24/2018 15:24:30","DANGER2",235,25
+935634,"Burnley FC","Southampton FC","02/24/2018 15:24:30","DAT2",236,25
+935634,"Burnley FC","Southampton FC","02/24/2018 15:24:39","SHG2",237,25
+935634,"Burnley FC","Southampton FC","02/24/2018 15:24:43","SAFE1",238,25
+935634,"Burnley FC","Southampton FC","02/24/2018 15:24:54","AT1",239,25
+935634,"Burnley FC","Southampton FC","02/24/2018 15:25:13","SAFE2",240,25
+935634,"Burnley FC","Southampton FC","02/24/2018 15:25:31","AT2",241,26
+935634,"Burnley FC","Southampton FC","02/24/2018 15:25:39","SAFE1",242,26
+935634,"Burnley FC","Southampton FC","02/24/2018 15:25:43","POSSIBLE_TI",243,26
+935634,"Burnley FC","Southampton FC","02/24/2018 15:25:44","TI1",244,26
+935634,"Burnley FC","Southampton FC","02/24/2018 15:25:56","Restart",245,26
+935634,"Burnley FC","Southampton FC","02/24/2018 15:26:06","AT1",246,26
+935634,"Burnley FC","Southampton FC","02/24/2018 15:26:06","DANGER1",247,26
+935634,"Burnley FC","Southampton FC","02/24/2018 15:26:06","DAT1",248,26
+935634,"Burnley FC","Southampton FC","02/24/2018 15:26:37","SAFE1",249,27
+935634,"Burnley FC","Southampton FC","02/24/2018 15:26:41","AT1",250,27
+935634,"Burnley FC","Southampton FC","02/24/2018 15:26:47","DANGER1",251,27
+935634,"Burnley FC","Southampton FC","02/24/2018 15:26:47","DAT1",252,27
+935634,"Burnley FC","Southampton FC","02/24/2018 15:27:26","BLOCKED1",253,28
+935634,"Burnley FC","Southampton FC","02/24/2018 15:27:41","PCR1",254,28
+935634,"Burnley FC","Southampton FC","02/24/2018 15:28:04","CR1",255,28
+935634,"Burnley FC","Southampton FC","02/24/2018 15:28:06","Ball Position",256,28
+935634,"Burnley FC","Southampton FC","02/24/2018 15:28:12","Restart",257,28
+935634,"Burnley FC","Southampton FC","02/24/2018 15:28:48","SAFE2",258,29
+935634,"Burnley FC","Southampton FC","02/24/2018 15:28:50","GK2",259,29
+935634,"Burnley FC","Southampton FC","02/24/2018 15:29:16","Restart",260,30
+935634,"Burnley FC","Southampton FC","02/24/2018 15:29:23","POSSIBLE_TI",261,30
+935634,"Burnley FC","Southampton FC","02/24/2018 15:29:24","TI1",262,30
+935634,"Burnley FC","Southampton FC","02/24/2018 15:29:32","SAFE1",263,30
+935634,"Burnley FC","Southampton FC","02/24/2018 15:29:37","Restart",264,30
+935634,"Burnley FC","Southampton FC","02/24/2018 15:29:56","Possible Free Kick",265,30
+935634,"Burnley FC","Southampton FC","02/24/2018 15:30:01","F2",267,30
+935634,"Burnley FC","Southampton FC","02/24/2018 15:30:01","FK1",268,30
+935634,"Burnley FC","Southampton FC","02/24/2018 15:30:01","DANGER1",269,30
+935634,"Burnley FC","Southampton FC","02/24/2018 15:30:01","DFK1",270,30
+935634,"Burnley FC","Southampton FC","02/24/2018 15:30:01","Ball Position",271,30
+935634,"Burnley FC","Southampton FC","02/24/2018 15:30:31","Restart",272,31
+935634,"Burnley FC","Southampton FC","02/24/2018 15:31:47","POSSIBLE_TI",273,32
+935634,"Burnley FC","Southampton FC","02/24/2018 15:31:48","TI1",274,32
+935634,"Burnley FC","Southampton FC","02/24/2018 15:32:09","Restart",275,32
+935634,"Burnley FC","Southampton FC","02/24/2018 15:32:21","SAFE2",276,33
+935634,"Burnley FC","Southampton FC","02/24/2018 15:32:48","AT2",277,33
+935634,"Burnley FC","Southampton FC","02/24/2018 15:32:56","AT1",278,33
+935634,"Burnley FC","Southampton FC","02/24/2018 15:32:56","DANGER1",279,33
+935634,"Burnley FC","Southampton FC","02/24/2018 15:32:56","DAT1",280,33
+935634,"Burnley FC","Southampton FC","02/24/2018 15:33:07","Possible Free Kick",281,33
+935634,"Burnley FC","Southampton FC","02/24/2018 15:33:11","SAFE2",283,33
+935634,"Burnley FC","Southampton FC","02/24/2018 15:33:11","F1",284,33
+935634,"Burnley FC","Southampton FC","02/24/2018 15:33:11","FK2",285,33
+935634,"Burnley FC","Southampton FC","02/24/2018 15:33:11","Ball Position",286,33
+935634,"Burnley FC","Southampton FC","02/24/2018 15:33:14","POSSIBLE_CARDS",287,34
+935634,"Burnley FC","Southampton FC","02/24/2018 15:33:22","NO_Cards",288,34
+935634,"Burnley FC","Southampton FC","02/24/2018 15:33:37","Restart",289,34
+935634,"Burnley FC","Southampton FC","02/24/2018 15:33:39","AT2",290,34
+935634,"Burnley FC","Southampton FC","02/24/2018 15:33:46","SAFE1",291,34
+935634,"Burnley FC","Southampton FC","02/24/2018 15:33:49","Possible Free Kick",292,34
+935634,"Burnley FC","Southampton FC","02/24/2018 15:33:51","SAFE2",294,34
+935634,"Burnley FC","Southampton FC","02/24/2018 15:33:51","F1",295,34
+935634,"Burnley FC","Southampton FC","02/24/2018 15:33:51","FK2",296,34
+935634,"Burnley FC","Southampton FC","02/24/2018 15:33:51","Ball Position",297,34
+935634,"Burnley FC","Southampton FC","02/24/2018 15:33:56","POSSIBLE_CARDS",298,34
+935634,"Burnley FC","Southampton FC","02/24/2018 15:34:28","NO_Cards",299,35
+935634,"Burnley FC","Southampton FC","02/24/2018 15:34:31","Restart",300,35
+935634,"Burnley FC","Southampton FC","02/24/2018 15:34:46","AT2",301,35
+935634,"Burnley FC","Southampton FC","02/24/2018 15:34:46","DANGER2",302,35
+935634,"Burnley FC","Southampton FC","02/24/2018 15:34:46","DAT2",303,35
+935634,"Burnley FC","Southampton FC","02/24/2018 15:34:50","Possible Free Kick",304,35
+935634,"Burnley FC","Southampton FC","02/24/2018 15:34:53","F1",306,35
+935634,"Burnley FC","Southampton FC","02/24/2018 15:34:53","FK2",307,35
+935634,"Burnley FC","Southampton FC","02/24/2018 15:34:53","DFK2",308,35
+935634,"Burnley FC","Southampton FC","02/24/2018 15:34:53","Ball Position",309,35
+935634,"Burnley FC","Southampton FC","02/24/2018 15:35:26","Restart",310,36
+935634,"Burnley FC","Southampton FC","02/24/2018 15:35:38","SAFE1",311,36
+935634,"Burnley FC","Southampton FC","02/24/2018 15:35:39","AT1",312,36
+935634,"Burnley FC","Southampton FC","02/24/2018 15:35:40","DANGER1",313,36
+935634,"Burnley FC","Southampton FC","02/24/2018 15:35:40","DAT1",314,36
+935634,"Burnley FC","Southampton FC","02/24/2018 15:35:46","POSSIBLE_TI",315,36
+935634,"Burnley FC","Southampton FC","02/24/2018 15:35:47","TI1",316,36
+935634,"Burnley FC","Southampton FC","02/24/2018 15:35:54","Restart",317,36
+935634,"Burnley FC","Southampton FC","02/24/2018 15:36:17","POSSIBLE_TI",318,37
+935634,"Burnley FC","Southampton FC","02/24/2018 15:36:18","TI1",319,37
+935634,"Burnley FC","Southampton FC","02/24/2018 15:36:41","Restart",320,37
+935634,"Burnley FC","Southampton FC","02/24/2018 15:37:00","SAFE2",321,37
+935634,"Burnley FC","Southampton FC","02/24/2018 15:37:01","GK2",322,37
+935634,"Burnley FC","Southampton FC","02/24/2018 15:37:22","Restart",323,38
+935634,"Burnley FC","Southampton FC","02/24/2018 15:37:30","AT1",324,38
+935634,"Burnley FC","Southampton FC","02/24/2018 15:37:30","DANGER1",325,38
+935634,"Burnley FC","Southampton FC","02/24/2018 15:37:30","DAT1",326,38
+935634,"Burnley FC","Southampton FC","02/24/2018 15:37:45","SAFE2",327,38
+935634,"Burnley FC","Southampton FC","02/24/2018 15:37:46","AT2",328,38
+935634,"Burnley FC","Southampton FC","02/24/2018 15:37:56","SAFE1",329,38
+935634,"Burnley FC","Southampton FC","02/24/2018 15:38:15","AT1",330,39
+935634,"Burnley FC","Southampton FC","02/24/2018 15:38:16","DANGER1",331,39
+935634,"Burnley FC","Southampton FC","02/24/2018 15:38:16","DAT1",332,39
+935634,"Burnley FC","Southampton FC","02/24/2018 15:38:24","PCR1",333,39
+935634,"Burnley FC","Southampton FC","02/24/2018 15:38:29","CR1",334,39
+935634,"Burnley FC","Southampton FC","02/24/2018 15:38:33","Ball Position",335,39
+935634,"Burnley FC","Southampton FC","02/24/2018 15:39:01","Restart",336,39
+935634,"Burnley FC","Southampton FC","02/24/2018 15:39:18","Possible Free Kick",337,40
+935634,"Burnley FC","Southampton FC","02/24/2018 15:39:22","SAFE2",339,40
+935634,"Burnley FC","Southampton FC","02/24/2018 15:39:22","O1",340,40
+935634,"Burnley FC","Southampton FC","02/24/2018 15:39:22","FK2",341,40
+935634,"Burnley FC","Southampton FC","02/24/2018 15:39:22","Ball Position",342,40
+935634,"Burnley FC","Southampton FC","02/24/2018 15:39:45","Restart",343,40
+935634,"Burnley FC","Southampton FC","02/24/2018 15:39:46","AT2",344,40
+935634,"Burnley FC","Southampton FC","02/24/2018 15:39:53","AT1",345,40
+935634,"Burnley FC","Southampton FC","02/24/2018 15:39:53","DANGER1",346,40
+935634,"Burnley FC","Southampton FC","02/24/2018 15:39:53","DAT1",347,40
+935634,"Burnley FC","Southampton FC","02/24/2018 15:40:08","SAFE1",348,40
+935634,"Burnley FC","Southampton FC","02/24/2018 15:40:16","AT1",349,41
+935634,"Burnley FC","Southampton FC","02/24/2018 15:40:17","POSSIBLE_TI",350,41
+935634,"Burnley FC","Southampton FC","02/24/2018 15:40:18","TI1",351,41
+935634,"Burnley FC","Southampton FC","02/24/2018 15:40:28","Restart",352,41
+935634,"Burnley FC","Southampton FC","02/24/2018 15:40:42","DANGER1",353,41
+935634,"Burnley FC","Southampton FC","02/24/2018 15:40:42","DAT1",354,41
+935634,"Burnley FC","Southampton FC","02/24/2018 15:40:51","SAFE2",355,41
+935634,"Burnley FC","Southampton FC","02/24/2018 15:40:52","AT2",356,41
+935634,"Burnley FC","Southampton FC","02/24/2018 15:41:05","Possible Free Kick",357,41
+935634,"Burnley FC","Southampton FC","02/24/2018 15:41:08","SAFE1",359,41
+935634,"Burnley FC","Southampton FC","02/24/2018 15:41:09","F2",360,41
+935634,"Burnley FC","Southampton FC","02/24/2018 15:41:09","FK1",361,41
+935634,"Burnley FC","Southampton FC","02/24/2018 15:41:09","Ball Position",362,41
+935634,"Burnley FC","Southampton FC","02/24/2018 15:41:21","Restart",363,42
+935634,"Burnley FC","Southampton FC","02/24/2018 15:41:31","AT1",364,42
+935634,"Burnley FC","Southampton FC","02/24/2018 15:41:31","DANGER1",365,42
+935634,"Burnley FC","Southampton FC","02/24/2018 15:41:31","DAT1",366,42
+935634,"Burnley FC","Southampton FC","02/24/2018 15:41:36","POSSIBLE_TI",367,42
+935634,"Burnley FC","Southampton FC","02/24/2018 15:41:38","TI1",368,42
+935634,"Burnley FC","Southampton FC","02/24/2018 15:41:50","Restart",369,42
+935634,"Burnley FC","Southampton FC","02/24/2018 15:42:02","SAFE2",370,42
+935634,"Burnley FC","Southampton FC","02/24/2018 15:42:04","GK2",371,42
+935634,"Burnley FC","Southampton FC","02/24/2018 15:42:21","Restart",372,43
+935634,"Burnley FC","Southampton FC","02/24/2018 15:42:26","AT2",373,43
+935634,"Burnley FC","Southampton FC","02/24/2018 15:42:26","DANGER2",374,43
+935634,"Burnley FC","Southampton FC","02/24/2018 15:42:26","DAT2",375,43
+935634,"Burnley FC","Southampton FC","02/24/2018 15:42:44","SAFE1",376,43
+935634,"Burnley FC","Southampton FC","02/24/2018 15:42:53","AT1",377,43
+935634,"Burnley FC","Southampton FC","02/24/2018 15:42:53","DANGER1",378,43
+935634,"Burnley FC","Southampton FC","02/24/2018 15:42:53","DAT1",379,43
+935634,"Burnley FC","Southampton FC","02/24/2018 15:43:04","SAFE2",380,43
+935634,"Burnley FC","Southampton FC","02/24/2018 15:43:05","AT2",381,43
+935634,"Burnley FC","Southampton FC","02/24/2018 15:43:14","POSSIBLE_TI",382,44
+935634,"Burnley FC","Southampton FC","02/24/2018 15:43:31","TI2",383,44
+935634,"Burnley FC","Southampton FC","02/24/2018 15:43:35","Restart",384,44
+935634,"Burnley FC","Southampton FC","02/24/2018 15:43:36","AT1",385,44
+935634,"Burnley FC","Southampton FC","02/24/2018 15:43:36","DANGER1",386,44
+935634,"Burnley FC","Southampton FC","02/24/2018 15:43:36","DAT1",387,44
+935634,"Burnley FC","Southampton FC","02/24/2018 15:43:44","POSSIBLE_TI",388,44
+935634,"Burnley FC","Southampton FC","02/24/2018 15:43:47","TI1",389,44
+935634,"Burnley FC","Southampton FC","02/24/2018 15:43:57","Restart",390,44
+935634,"Burnley FC","Southampton FC","02/24/2018 15:44:12","POSSIBLE_TI",391,44
+935634,"Burnley FC","Southampton FC","02/24/2018 15:44:12","TI1",392,44
+935634,"Burnley FC","Southampton FC","02/24/2018 15:44:19","Restart",393,45
+935634,"Burnley FC","Southampton FC","02/24/2018 15:44:28","Possible Free Kick",394,45
+935634,"Burnley FC","Southampton FC","02/24/2018 15:44:30","F2",396,45
+935634,"Burnley FC","Southampton FC","02/24/2018 15:44:30","FK1",397,45
+935634,"Burnley FC","Southampton FC","02/24/2018 15:44:30","DFK1",398,45
+935634,"Burnley FC","Southampton FC","02/24/2018 15:44:30","Ball Position",399,45
+935634,"Burnley FC","Southampton FC","02/24/2018 15:44:32","POSSIBLE_CARDS",400,45
+935634,"Burnley FC","Southampton FC","02/24/2018 15:44:50","NO_Cards",401,45
+935634,"Burnley FC","Southampton FC","02/24/2018 15:45:22","Restart",402,46
+935634,"Burnley FC","Southampton FC","02/24/2018 15:45:25","PCR1",403,46
+935634,"Burnley FC","Southampton FC","02/24/2018 15:45:28","CR1",404,46
+935634,"Burnley FC","Southampton FC","02/24/2018 15:45:31","Ball Position",405,46
+935634,"Burnley FC","Southampton FC","02/24/2018 15:45:38","Extra Time",406,46
+935634,"Burnley FC","Southampton FC","02/24/2018 15:45:47","Restart",407,46
+935634,"Burnley FC","Southampton FC","02/24/2018 15:45:58","SAFE2",408,46
+935634,"Burnley FC","Southampton FC","02/24/2018 15:46:02","SAFE1",409,46
+935634,"Burnley FC","Southampton FC","02/24/2018 15:46:05","AT1",410,46
+935634,"Burnley FC","Southampton FC","02/24/2018 15:46:07","DANGER1",411,46
+935634,"Burnley FC","Southampton FC","02/24/2018 15:46:07","DAT1",412,46
+935634,"Burnley FC","Southampton FC","02/24/2018 15:46:23","Stop RT1",413,46
+935634,"Burnley FC","Southampton FC","02/24/2018 15:46:35","CONF_PERIOD_SCORE",414,45
+935634,"Burnley FC","Southampton FC","02/24/2018 16:00:02","Players are coming out",415,45
+935634,"Burnley FC","Southampton FC","02/24/2018 16:01:45","Game about to start",416,45
+935634,"Burnley FC","Southampton FC","02/24/2018 16:02:18","Start RT2 Team 2",417,46
+935634,"Burnley FC","Southampton FC","02/24/2018 16:02:23","AT2",418,46
+935634,"Burnley FC","Southampton FC","02/24/2018 16:02:35","DANGER2",419,46
+935634,"Burnley FC","Southampton FC","02/24/2018 16:02:35","DAT2",420,46
+935634,"Burnley FC","Southampton FC","02/24/2018 16:03:01","SAFE1",421,46
+935634,"Burnley FC","Southampton FC","02/24/2018 16:03:02","AT1",422,46
+935634,"Burnley FC","Southampton FC","02/24/2018 16:03:03","DANGER1",423,46
+935634,"Burnley FC","Southampton FC","02/24/2018 16:03:03","DAT1",424,46
+935634,"Burnley FC","Southampton FC","02/24/2018 16:03:19","SAFE2",425,47
+935634,"Burnley FC","Southampton FC","02/24/2018 16:03:30","AT2",426,47
+935634,"Burnley FC","Southampton FC","02/24/2018 16:03:30","DANGER2",427,47
+935634,"Burnley FC","Southampton FC","02/24/2018 16:03:30","DAT2",428,47
+935634,"Burnley FC","Southampton FC","02/24/2018 16:03:53","PCR2",429,47
+935634,"Burnley FC","Southampton FC","02/24/2018 16:03:59","NCR2",430,47
+935634,"Burnley FC","Southampton FC","02/24/2018 16:04:02","SAFE1",431,47
+935634,"Burnley FC","Southampton FC","02/24/2018 16:04:03","GK1",432,47
+935634,"Burnley FC","Southampton FC","02/24/2018 16:04:20","Restart",433,48
+935634,"Burnley FC","Southampton FC","02/24/2018 16:04:25","AT1",434,48
+935634,"Burnley FC","Southampton FC","02/24/2018 16:04:25","DANGER1",435,48
+935634,"Burnley FC","Southampton FC","02/24/2018 16:04:25","DAT1",436,48
+935634,"Burnley FC","Southampton FC","02/24/2018 16:04:32","SAFE2",437,48
+935634,"Burnley FC","Southampton FC","02/24/2018 16:04:34","AT2",438,48
+935634,"Burnley FC","Southampton FC","02/24/2018 16:04:34","DANGER2",439,48
+935634,"Burnley FC","Southampton FC","02/24/2018 16:04:34","DAT2",440,48
+935634,"Burnley FC","Southampton FC","02/24/2018 16:04:39","POSSIBLE_TI",441,48
+935634,"Burnley FC","Southampton FC","02/24/2018 16:04:55","TI1",442,48
+935634,"Burnley FC","Southampton FC","02/24/2018 16:05:00","Restart",443,48
+935634,"Burnley FC","Southampton FC","02/24/2018 16:06:12","SAFE1",444,49
+935634,"Burnley FC","Southampton FC","02/24/2018 16:06:12","AT1",445,49
+935634,"Burnley FC","Southampton FC","02/24/2018 16:06:16","POSSIBLE_TI",446,49
+935634,"Burnley FC","Southampton FC","02/24/2018 16:06:17","TI2",447,49
+935634,"Burnley FC","Southampton FC","02/24/2018 16:06:21","Restart",448,50
+935634,"Burnley FC","Southampton FC","02/24/2018 16:06:29","AT2",449,50
+935634,"Burnley FC","Southampton FC","02/24/2018 16:06:29","DANGER2",450,50
+935634,"Burnley FC","Southampton FC","02/24/2018 16:06:29","DAT2",451,50
+935634,"Burnley FC","Southampton FC","02/24/2018 16:06:37","POSSIBLE_TI",452,50
+935634,"Burnley FC","Southampton FC","02/24/2018 16:06:38","TI2",453,50
+935634,"Burnley FC","Southampton FC","02/24/2018 16:06:49","Restart",454,50
+935634,"Burnley FC","Southampton FC","02/24/2018 16:07:01","Possible Free Kick",455,50
+935634,"Burnley FC","Southampton FC","02/24/2018 16:07:03","SAFE1",457,50
+935634,"Burnley FC","Southampton FC","02/24/2018 16:07:03","F2",458,50
+935634,"Burnley FC","Southampton FC","02/24/2018 16:07:03","FK1",459,50
+935634,"Burnley FC","Southampton FC","02/24/2018 16:07:03","Ball Position",460,50
+935634,"Burnley FC","Southampton FC","02/24/2018 16:07:18","AT1",461,50
+935634,"Burnley FC","Southampton FC","02/24/2018 16:07:18","DANGER1",462,50
+935634,"Burnley FC","Southampton FC","02/24/2018 16:07:18","DAT1",463,50
+935634,"Burnley FC","Southampton FC","02/24/2018 16:07:22","Restart",464,51
+935634,"Burnley FC","Southampton FC","02/24/2018 16:07:49","PCR1",465,51
+935634,"Burnley FC","Southampton FC","02/24/2018 16:07:54","CR1",466,51
+935634,"Burnley FC","Southampton FC","02/24/2018 16:07:55","Ball Position",467,51
+935634,"Burnley FC","Southampton FC","02/24/2018 16:08:16","Restart",468,51
+935634,"Burnley FC","Southampton FC","02/24/2018 16:08:23","POSSIBLE_TI",469,52
+935634,"Burnley FC","Southampton FC","02/24/2018 16:08:24","TI2",470,52
+935634,"Burnley FC","Southampton FC","02/24/2018 16:08:45","Restart",471,52
+935634,"Burnley FC","Southampton FC","02/24/2018 16:08:49","POSSIBLE_TI",472,52
+935634,"Burnley FC","Southampton FC","02/24/2018 16:08:51","TI2",473,52
+935634,"Burnley FC","Southampton FC","02/24/2018 16:08:56","Restart",474,52
+935634,"Burnley FC","Southampton FC","02/24/2018 16:09:01","CLS",475,52
+935634,"Burnley FC","Southampton FC","02/24/2018 16:09:19","POSSIBLE_CARDS",476,53
+935634,"Burnley FC","Southampton FC","02/24/2018 16:09:35","NO_Cards",477,53
+935634,"Burnley FC","Southampton FC","02/24/2018 16:09:41","Restart",478,53
+935634,"Burnley FC","Southampton FC","02/24/2018 16:09:43","SAFE2",479,53
+935634,"Burnley FC","Southampton FC","02/24/2018 16:09:45","AT2",480,53
+935634,"Burnley FC","Southampton FC","02/24/2018 16:09:47","DANGER2",481,53
+935634,"Burnley FC","Southampton FC","02/24/2018 16:09:47","DAT2",482,53
+935634,"Burnley FC","Southampton FC","02/24/2018 16:10:22","POSSIBLE_TI",483,54
+935634,"Burnley FC","Southampton FC","02/24/2018 16:10:33","TI2",484,54
+935634,"Burnley FC","Southampton FC","02/24/2018 16:10:41","Restart",485,54
+935634,"Burnley FC","Southampton FC","02/24/2018 16:10:45","PCR2",486,54
+935634,"Burnley FC","Southampton FC","02/24/2018 16:11:09","CR2",487,54
+935634,"Burnley FC","Southampton FC","02/24/2018 16:11:10","Ball Position",488,54
+935634,"Burnley FC","Southampton FC","02/24/2018 16:11:15","Restart",489,54
+935634,"Burnley FC","Southampton FC","02/24/2018 16:11:18","BLOCKED2",490,55
+935634,"Burnley FC","Southampton FC","02/24/2018 16:11:26","AT1",491,55
+935634,"Burnley FC","Southampton FC","02/24/2018 16:11:26","DANGER1",492,55
+935634,"Burnley FC","Southampton FC","02/24/2018 16:11:26","DAT1",493,55
+935634,"Burnley FC","Southampton FC","02/24/2018 16:11:40","SAFE1",494,55
+935634,"Burnley FC","Southampton FC","02/24/2018 16:11:45","AT1",495,55
+935634,"Burnley FC","Southampton FC","02/24/2018 16:11:55","Possible Free Kick",496,55
+935634,"Burnley FC","Southampton FC","02/24/2018 16:11:57","POSSIBLE_CARDS",498,55
+935634,"Burnley FC","Southampton FC","02/24/2018 16:12:04","SAFE1",499,55
+935634,"Burnley FC","Southampton FC","02/24/2018 16:12:04","F2",500,55
+935634,"Burnley FC","Southampton FC","02/24/2018 16:12:04","FK1",501,55
+935634,"Burnley FC","Southampton FC","02/24/2018 16:12:04","Ball Position",502,55
+935634,"Burnley FC","Southampton FC","02/24/2018 16:12:25","NO_Cards",503,56
+935634,"Burnley FC","Southampton FC","02/24/2018 16:12:34","AT1",504,56
+935634,"Burnley FC","Southampton FC","02/24/2018 16:12:34","DANGER1",505,56
+935634,"Burnley FC","Southampton FC","02/24/2018 16:12:34","DAT1",506,56
+935634,"Burnley FC","Southampton FC","02/24/2018 16:12:35","Restart",507,56
+935634,"Burnley FC","Southampton FC","02/24/2018 16:12:48","PCR1",508,56
+935634,"Burnley FC","Southampton FC","02/24/2018 16:12:54","CR1",509,56
+935634,"Burnley FC","Southampton FC","02/24/2018 16:12:55","Ball Position",510,56
+935634,"Burnley FC","Southampton FC","02/24/2018 16:13:15","Restart",511,56
+935634,"Burnley FC","Southampton FC","02/24/2018 16:13:24","SAFE2",512,57
+935634,"Burnley FC","Southampton FC","02/24/2018 16:13:25","POSSIBLE_TI",513,57
+935634,"Burnley FC","Southampton FC","02/24/2018 16:13:26","TI1",514,57
+935634,"Burnley FC","Southampton FC","02/24/2018 16:13:29","SAFE1",515,57
+935634,"Burnley FC","Southampton FC","02/24/2018 16:13:45","Restart",516,57
+935634,"Burnley FC","Southampton FC","02/24/2018 16:13:47","AT1",517,57
+935634,"Burnley FC","Southampton FC","02/24/2018 16:13:57","DANGER1",518,57
+935634,"Burnley FC","Southampton FC","02/24/2018 16:13:57","DAT1",519,57
+935634,"Burnley FC","Southampton FC","02/24/2018 16:14:09","SAFE2",520,57
+935634,"Burnley FC","Southampton FC","02/24/2018 16:14:10","AT2",521,57
+935634,"Burnley FC","Southampton FC","02/24/2018 16:14:14","DANGER2",522,57
+935634,"Burnley FC","Southampton FC","02/24/2018 16:14:14","DAT2",523,57
+935634,"Burnley FC","Southampton FC","02/24/2018 16:14:30","POSSIBLE_TI",524,58
+935634,"Burnley FC","Southampton FC","02/24/2018 16:14:36","TI1",525,58
+935634,"Burnley FC","Southampton FC","02/24/2018 16:14:38","SAFE1",526,58
+935634,"Burnley FC","Southampton FC","02/24/2018 16:14:39","Restart",527,58
+935634,"Burnley FC","Southampton FC","02/24/2018 16:14:40","AT1",528,58
+935634,"Burnley FC","Southampton FC","02/24/2018 16:14:43","DANGER1",529,58
+935634,"Burnley FC","Southampton FC","02/24/2018 16:14:43","DAT1",530,58
+935634,"Burnley FC","Southampton FC","02/24/2018 16:14:54","BLOCKED1",531,58
+935634,"Burnley FC","Southampton FC","02/24/2018 16:15:04","SAFE2",532,58
+935634,"Burnley FC","Southampton FC","02/24/2018 16:15:05","AT2",533,58
+935634,"Burnley FC","Southampton FC","02/24/2018 16:15:05","DANGER2",534,58
+935634,"Burnley FC","Southampton FC","02/24/2018 16:15:05","DAT2",535,58
+935634,"Burnley FC","Southampton FC","02/24/2018 16:15:09","SAFE1",536,58
+935634,"Burnley FC","Southampton FC","02/24/2018 16:15:17","AT1",537,58
+935634,"Burnley FC","Southampton FC","02/24/2018 16:15:30","SAFE2",538,59
+935634,"Burnley FC","Southampton FC","02/24/2018 16:15:32","AT2",539,59
+935634,"Burnley FC","Southampton FC","02/24/2018 16:15:32","DANGER2",540,59
+935634,"Burnley FC","Southampton FC","02/24/2018 16:15:32","DAT2",541,59
+935634,"Burnley FC","Southampton FC","02/24/2018 16:15:58","POSSIBLE_TI",542,59
+935634,"Burnley FC","Southampton FC","02/24/2018 16:15:58","TI1",543,59
+935634,"Burnley FC","Southampton FC","02/24/2018 16:16:15","Restart",544,59
+935634,"Burnley FC","Southampton FC","02/24/2018 16:16:27","SAFE1",545,60
+935634,"Burnley FC","Southampton FC","02/24/2018 16:16:27","AT1",546,60
+935634,"Burnley FC","Southampton FC","02/24/2018 16:16:27","DANGER1",547,60
+935634,"Burnley FC","Southampton FC","02/24/2018 16:16:27","DAT1",548,60
+935634,"Burnley FC","Southampton FC","02/24/2018 16:17:02","PCR1",549,60
+935634,"Burnley FC","Southampton FC","02/24/2018 16:17:07","CR1",550,60
+935634,"Burnley FC","Southampton FC","02/24/2018 16:17:09","Ball Position",551,60
+935634,"Burnley FC","Southampton FC","02/24/2018 16:17:33","Restart",552,61
+935634,"Burnley FC","Southampton FC","02/24/2018 16:17:47","SHB1",553,61
+935634,"Burnley FC","Southampton FC","02/24/2018 16:17:56","SAFE2",554,61
+935634,"Burnley FC","Southampton FC","02/24/2018 16:17:57","GK2",555,61
+935634,"Burnley FC","Southampton FC","02/24/2018 16:18:13","Restart",556,61
+935634,"Burnley FC","Southampton FC","02/24/2018 16:18:18","AT1",557,62
+935634,"Burnley FC","Southampton FC","02/24/2018 16:18:21","AT2",558,62
+935634,"Burnley FC","Southampton FC","02/24/2018 16:18:21","DANGER2",559,62
+935634,"Burnley FC","Southampton FC","02/24/2018 16:18:21","DAT2",560,62
+935634,"Burnley FC","Southampton FC","02/24/2018 16:18:26","Possible Free Kick",561,62
+935634,"Burnley FC","Southampton FC","02/24/2018 16:18:30","SAFE1",563,62
+935634,"Burnley FC","Southampton FC","02/24/2018 16:18:30","F2",564,62
+935634,"Burnley FC","Southampton FC","02/24/2018 16:18:30","FK1",565,62
+935634,"Burnley FC","Southampton FC","02/24/2018 16:18:30","Ball Position",566,62
+935634,"Burnley FC","Southampton FC","02/24/2018 16:18:49","Restart",567,62
+935634,"Burnley FC","Southampton FC","02/24/2018 16:18:53","AT1",568,62
+935634,"Burnley FC","Southampton FC","02/24/2018 16:18:53","DANGER1",569,62
+935634,"Burnley FC","Southampton FC","02/24/2018 16:18:53","DAT1",570,62
+935634,"Burnley FC","Southampton FC","02/24/2018 16:19:15","POSSIBLE_CARDS",571,62
+935634,"Burnley FC","Southampton FC","02/24/2018 16:19:28","Possible Free Kick",572,63
+935634,"Burnley FC","Southampton FC","02/24/2018 16:19:32","SAFE1",574,63
+935634,"Burnley FC","Southampton FC","02/24/2018 16:19:32","F2",575,63
+935634,"Burnley FC","Southampton FC","02/24/2018 16:19:32","FK1",576,63
+935634,"Burnley FC","Southampton FC","02/24/2018 16:19:32","Ball Position",577,63
+935634,"Burnley FC","Southampton FC","02/24/2018 16:19:43","NO_Cards",578,63
+935634,"Burnley FC","Southampton FC","02/24/2018 16:19:44","Restart",579,63
+935634,"Burnley FC","Southampton FC","02/24/2018 16:19:49","AT1",580,63
+935634,"Burnley FC","Southampton FC","02/24/2018 16:19:49","DANGER1",581,63
+935634,"Burnley FC","Southampton FC","02/24/2018 16:19:49","DAT1",582,63
+935634,"Burnley FC","Southampton FC","02/24/2018 16:19:56","POSSIBLE_TI",583,63
+935634,"Burnley FC","Southampton FC","02/24/2018 16:19:58","TI2",584,63
+935634,"Burnley FC","Southampton FC","02/24/2018 16:20:07","SAFE2",585,63
+935634,"Burnley FC","Southampton FC","02/24/2018 16:20:13","Restart",586,63
+935634,"Burnley FC","Southampton FC","02/24/2018 16:20:24","SAFE1",587,64
+935634,"Burnley FC","Southampton FC","02/24/2018 16:20:28","Possible Free Kick",588,64
+935634,"Burnley FC","Southampton FC","02/24/2018 16:20:30","F2",590,64
+935634,"Burnley FC","Southampton FC","02/24/2018 16:20:30","FK1",591,64
+935634,"Burnley FC","Southampton FC","02/24/2018 16:20:30","DANGER1",592,64
+935634,"Burnley FC","Southampton FC","02/24/2018 16:20:30","DFK1",593,64
+935634,"Burnley FC","Southampton FC","02/24/2018 16:20:30","Ball Position",594,64
+935634,"Burnley FC","Southampton FC","02/24/2018 16:20:49","Restart",595,64
+935634,"Burnley FC","Southampton FC","02/24/2018 16:21:45","POSSIBLE_TI",596,65
+935634,"Burnley FC","Southampton FC","02/24/2018 16:21:47","TI1",597,65
+935634,"Burnley FC","Southampton FC","02/24/2018 16:22:02","Restart",598,65
+935634,"Burnley FC","Southampton FC","02/24/2018 16:22:20","AT2",599,66
+935634,"Burnley FC","Southampton FC","02/24/2018 16:22:20","DANGER2",600,66
+935634,"Burnley FC","Southampton FC","02/24/2018 16:22:20","DAT2",601,66
+935634,"Burnley FC","Southampton FC","02/24/2018 16:22:28","Possible Free Kick",602,66
+935634,"Burnley FC","Southampton FC","02/24/2018 16:22:31","POSSIBLE_CARDS",604,66
+935634,"Burnley FC","Southampton FC","02/24/2018 16:22:52","NO_Cards",605,66
+935634,"Burnley FC","Southampton FC","02/24/2018 16:22:53","SAFE1",606,66
+935634,"Burnley FC","Southampton FC","02/24/2018 16:22:53","F2",607,66
+935634,"Burnley FC","Southampton FC","02/24/2018 16:22:53","FK1",608,66
+935634,"Burnley FC","Southampton FC","02/24/2018 16:22:53","Ball Position",609,66
+935634,"Burnley FC","Southampton FC","02/24/2018 16:23:08","AT1",610,66
+935634,"Burnley FC","Southampton FC","02/24/2018 16:23:08","DANGER1",611,66
+935634,"Burnley FC","Southampton FC","02/24/2018 16:23:08","DAT1",612,66
+935634,"Burnley FC","Southampton FC","02/24/2018 16:23:09","Restart",613,66
+935634,"Burnley FC","Southampton FC","02/24/2018 16:23:21","SAFE2",614,67
+935634,"Burnley FC","Southampton FC","02/24/2018 16:23:25","AT2",615,67
+935634,"Burnley FC","Southampton FC","02/24/2018 16:23:30","DANGER2",616,67
+935634,"Burnley FC","Southampton FC","02/24/2018 16:23:30","DAT2",617,67
+935634,"Burnley FC","Southampton FC","02/24/2018 16:23:35","SAFE1",618,67
+935634,"Burnley FC","Southampton FC","02/24/2018 16:23:45","AT1",619,67
+935634,"Burnley FC","Southampton FC","02/24/2018 16:23:45","DANGER1",620,67
+935634,"Burnley FC","Southampton FC","02/24/2018 16:23:45","DAT1",621,67
+935634,"Burnley FC","Southampton FC","02/24/2018 16:24:04","GOAL1",622,67
+935634,"Burnley FC","Southampton FC","02/24/2018 16:24:42","Scorer",623,68
+935634,"Burnley FC","Southampton FC","02/24/2018 16:25:02","SUB2",624,68
+935634,"Burnley FC","Southampton FC","02/24/2018 16:25:06","CONF_GOAL1",625,68
+935634,"Burnley FC","Southampton FC","02/24/2018 16:25:16","KO2",626,68
+935634,"Burnley FC","Southampton FC","02/24/2018 16:25:16","SAFE2",627,68
+935634,"Burnley FC","Southampton FC","02/24/2018 16:25:27","POSSIBLE_TI",628,69
+935634,"Burnley FC","Southampton FC","02/24/2018 16:25:29","TI2",629,69
+935634,"Burnley FC","Southampton FC","02/24/2018 16:25:30","Restart",630,69
+935634,"Burnley FC","Southampton FC","02/24/2018 16:25:31","AT2",631,69
+935634,"Burnley FC","Southampton FC","02/24/2018 16:25:31","DANGER2",632,69
+935634,"Burnley FC","Southampton FC","02/24/2018 16:25:31","DAT2",633,69
+935634,"Burnley FC","Southampton FC","02/24/2018 16:25:32","Player_DATA_CONFIRMED",634,69
+935634,"Burnley FC","Southampton FC","02/24/2018 16:25:32","Assist",635,69
+935634,"Burnley FC","Southampton FC","02/24/2018 16:25:39","SAFE1",636,69
+935634,"Burnley FC","Southampton FC","02/24/2018 16:25:48","AT1",637,69
+935634,"Burnley FC","Southampton FC","02/24/2018 16:25:48","DANGER1",638,69
+935634,"Burnley FC","Southampton FC","02/24/2018 16:25:48","DAT1",639,69
+935634,"Burnley FC","Southampton FC","02/24/2018 16:25:51","SUB_UPDATE",640,69
+935634,"Burnley FC","Southampton FC","02/24/2018 16:25:51","Player_DATA_CONFIRMED",641,69
+935634,"Burnley FC","Southampton FC","02/24/2018 16:26:00","Possible Free Kick",642,69
+935634,"Burnley FC","Southampton FC","02/24/2018 16:26:09","No Free Kick",644,69
+935634,"Burnley FC","Southampton FC","02/24/2018 16:26:10","POSSIBLE_TI",645,69
+935634,"Burnley FC","Southampton FC","02/24/2018 16:26:15","TI1",646,69
+935634,"Burnley FC","Southampton FC","02/24/2018 16:26:22","Restart",647,70
+935634,"Burnley FC","Southampton FC","02/24/2018 16:26:41","SAFE2",648,70
+935634,"Burnley FC","Southampton FC","02/24/2018 16:26:44","GK2",649,70
+935634,"Burnley FC","Southampton FC","02/24/2018 16:27:01","Restart",650,70
+935634,"Burnley FC","Southampton FC","02/24/2018 16:27:08","AT2",651,70
+935634,"Burnley FC","Southampton FC","02/24/2018 16:27:08","DANGER2",652,70
+935634,"Burnley FC","Southampton FC","02/24/2018 16:27:08","DAT2",653,70
+935634,"Burnley FC","Southampton FC","02/24/2018 16:27:17","POSSIBLE_TI",654,70
+935634,"Burnley FC","Southampton FC","02/24/2018 16:27:29","TI2",655,71
+935634,"Burnley FC","Southampton FC","02/24/2018 16:27:31","Restart",656,71
+935634,"Burnley FC","Southampton FC","02/24/2018 16:27:51","POSSIBLE_TI",657,71
+935634,"Burnley FC","Southampton FC","02/24/2018 16:27:53","TI2",658,71
+935634,"Burnley FC","Southampton FC","02/24/2018 16:28:08","Scout offline",659,71
+935634,"Burnley FC","Southampton FC","02/24/2018 16:28:18","Transmission Online",660,71
+935634,"Burnley FC","Southampton FC","02/24/2018 16:28:18","Start score update",661,71
+935634,"Burnley FC","Southampton FC","02/24/2018 16:28:18","Statistic confirmation",662,72
+935634,"Burnley FC","Southampton FC","02/24/2018 16:28:18","Score update finished",663,72
+935634,"Burnley FC","Southampton FC","02/24/2018 16:28:21","SAFE2",664,72
+935634,"Burnley FC","Southampton FC","02/24/2018 16:28:25","Restart",665,72
+935634,"Burnley FC","Southampton FC","02/24/2018 16:28:25","AT2",666,72
+935634,"Burnley FC","Southampton FC","02/24/2018 16:28:32","DANGER2",667,72
+935634,"Burnley FC","Southampton FC","02/24/2018 16:28:32","DAT2",668,72
+935634,"Burnley FC","Southampton FC","02/24/2018 16:28:36","POSSIBLE_TI",669,72
+935634,"Burnley FC","Southampton FC","02/24/2018 16:28:38","TI1",670,72
+935634,"Burnley FC","Southampton FC","02/24/2018 16:28:51","Restart",671,72
+935634,"Burnley FC","Southampton FC","02/24/2018 16:28:59","SAFE1",672,72
+935634,"Burnley FC","Southampton FC","02/24/2018 16:29:11","AT1",673,72
+935634,"Burnley FC","Southampton FC","02/24/2018 16:29:18","DANGER1",674,72
+935634,"Burnley FC","Southampton FC","02/24/2018 16:29:18","DAT1",675,72
+935634,"Burnley FC","Southampton FC","02/24/2018 16:29:23","SAFE2",676,73
+935634,"Burnley FC","Southampton FC","02/24/2018 16:29:35","AT2",677,73
+935634,"Burnley FC","Southampton FC","02/24/2018 16:29:35","DANGER2",678,73
+935634,"Burnley FC","Southampton FC","02/24/2018 16:29:35","DAT2",679,73
+935634,"Burnley FC","Southampton FC","02/24/2018 16:29:43","PCR2",680,73
+935634,"Burnley FC","Southampton FC","02/24/2018 16:29:47","CR2",681,73
+935634,"Burnley FC","Southampton FC","02/24/2018 16:29:49","Ball Position",682,73
+935634,"Burnley FC","Southampton FC","02/24/2018 16:30:08","Restart",683,73
+935634,"Burnley FC","Southampton FC","02/24/2018 16:30:14","SHG2",684,73
+935634,"Burnley FC","Southampton FC","02/24/2018 16:30:15","SAFE1",685,73
+935634,"Burnley FC","Southampton FC","02/24/2018 16:30:25","AT1",686,74
+935634,"Burnley FC","Southampton FC","02/24/2018 16:30:25","DANGER1",687,74
+935634,"Burnley FC","Southampton FC","02/24/2018 16:30:25","DAT1",688,74
+935634,"Burnley FC","Southampton FC","02/24/2018 16:30:44","AT2",689,74
+935634,"Burnley FC","Southampton FC","02/24/2018 16:30:44","DANGER2",690,74
+935634,"Burnley FC","Southampton FC","02/24/2018 16:30:44","DAT2",691,74
+935634,"Burnley FC","Southampton FC","02/24/2018 16:30:52","PCR2",692,74
+935634,"Burnley FC","Southampton FC","02/24/2018 16:31:05","SHG2",693,74
+935634,"Burnley FC","Southampton FC","02/24/2018 16:31:09","CR2",694,74
+935634,"Burnley FC","Southampton FC","02/24/2018 16:31:10","Ball Position",695,74
+935634,"Burnley FC","Southampton FC","02/24/2018 16:31:20","Restart",696,75
+935634,"Burnley FC","Southampton FC","02/24/2018 16:31:27","SHB2",697,75
+935634,"Burnley FC","Southampton FC","02/24/2018 16:31:35","SAFE1",698,75
+935634,"Burnley FC","Southampton FC","02/24/2018 16:31:40","GK1",699,75
+935634,"Burnley FC","Southampton FC","02/24/2018 16:31:47","SUB2",700,75
+935634,"Burnley FC","Southampton FC","02/24/2018 16:32:06","Restart",701,75
+935634,"Burnley FC","Southampton FC","02/24/2018 16:32:09","AT1",702,75
+935634,"Burnley FC","Southampton FC","02/24/2018 16:32:10","DANGER1",703,75
+935634,"Burnley FC","Southampton FC","02/24/2018 16:32:10","DAT1",704,75
+935634,"Burnley FC","Southampton FC","02/24/2018 16:32:18","SAFE2",705,75
+935634,"Burnley FC","Southampton FC","02/24/2018 16:32:18","AT2",706,76
+935634,"Burnley FC","Southampton FC","02/24/2018 16:32:21","POSSIBLE_TI",707,76
+935634,"Burnley FC","Southampton FC","02/24/2018 16:32:24","TI1",708,76
+935634,"Burnley FC","Southampton FC","02/24/2018 16:32:51","Restart",709,76
+935634,"Burnley FC","Southampton FC","02/24/2018 16:33:01","DANGER2",710,76
+935634,"Burnley FC","Southampton FC","02/24/2018 16:33:01","DAT2",711,76
+935634,"Burnley FC","Southampton FC","02/24/2018 16:33:12","Possible Free Kick",712,76
+935634,"Burnley FC","Southampton FC","02/24/2018 16:33:17","POSSIBLE_CARDS",714,76
+935634,"Burnley FC","Southampton FC","02/24/2018 16:33:33","SUB_UPDATE",715,77
+935634,"Burnley FC","Southampton FC","02/24/2018 16:33:33","Player_DATA_CONFIRMED",716,77
+935634,"Burnley FC","Southampton FC","02/24/2018 16:33:37","NO_Cards",717,77
+935634,"Burnley FC","Southampton FC","02/24/2018 16:33:42","F1",718,77
+935634,"Burnley FC","Southampton FC","02/24/2018 16:33:42","FK2",719,77
+935634,"Burnley FC","Southampton FC","02/24/2018 16:33:42","DFK2",720,77
+935634,"Burnley FC","Southampton FC","02/24/2018 16:33:42","Ball Position",721,77
+935634,"Burnley FC","Southampton FC","02/24/2018 16:34:04","Restart",722,77
+935634,"Burnley FC","Southampton FC","02/24/2018 16:34:20","SHG2",723,78
+935634,"Burnley FC","Southampton FC","02/24/2018 16:34:22","SAFE1",724,78
+935634,"Burnley FC","Southampton FC","02/24/2018 16:34:34","AT1",725,78
+935634,"Burnley FC","Southampton FC","02/24/2018 16:34:40","POSSIBLE_TI",726,78
+935634,"Burnley FC","Southampton FC","02/24/2018 16:34:40","TI2",727,78
+935634,"Burnley FC","Southampton FC","02/24/2018 16:34:50","Restart",728,78
+935634,"Burnley FC","Southampton FC","02/24/2018 16:34:53","SAFE2",729,78
+935634,"Burnley FC","Southampton FC","02/24/2018 16:34:55","AT2",730,78
+935634,"Burnley FC","Southampton FC","02/24/2018 16:34:58","POSSIBLE_TI",731,78
+935634,"Burnley FC","Southampton FC","02/24/2018 16:35:00","TI2",732,78
+935634,"Burnley FC","Southampton FC","02/24/2018 16:35:05","Restart",733,78
+935634,"Burnley FC","Southampton FC","02/24/2018 16:35:06","DANGER2",734,78
+935634,"Burnley FC","Southampton FC","02/24/2018 16:35:06","DAT2",735,78
+935634,"Burnley FC","Southampton FC","02/24/2018 16:35:14","SHB2",736,78
+935634,"Burnley FC","Southampton FC","02/24/2018 16:35:36","SAFE1",737,79
+935634,"Burnley FC","Southampton FC","02/24/2018 16:35:37","GK1",738,79
+935634,"Burnley FC","Southampton FC","02/24/2018 16:35:49","Restart",739,79
+935634,"Burnley FC","Southampton FC","02/24/2018 16:35:54","AT1",740,79
+935634,"Burnley FC","Southampton FC","02/24/2018 16:36:01","DANGER1",741,79
+935634,"Burnley FC","Southampton FC","02/24/2018 16:36:01","DAT1",742,79
+935634,"Burnley FC","Southampton FC","02/24/2018 16:36:18","SAFE2",743,80
+935634,"Burnley FC","Southampton FC","02/24/2018 16:36:28","AT2",744,80
+935634,"Burnley FC","Southampton FC","02/24/2018 16:36:34","DANGER2",745,80
+935634,"Burnley FC","Southampton FC","02/24/2018 16:36:34","DAT2",746,80
+935634,"Burnley FC","Southampton FC","02/24/2018 16:36:47","PCR2",747,80
+935634,"Burnley FC","Southampton FC","02/24/2018 16:36:57","CR2",748,80
+935634,"Burnley FC","Southampton FC","02/24/2018 16:36:58","Ball Position",749,80
+935634,"Burnley FC","Southampton FC","02/24/2018 16:37:08","Restart",750,80
+935634,"Burnley FC","Southampton FC","02/24/2018 16:37:25","SAFE1",751,81
+935634,"Burnley FC","Southampton FC","02/24/2018 16:37:27","AT1",752,81
+935634,"Burnley FC","Southampton FC","02/24/2018 16:37:29","DANGER1",753,81
+935634,"Burnley FC","Southampton FC","02/24/2018 16:37:29","DAT1",754,81
+935634,"Burnley FC","Southampton FC","02/24/2018 16:37:42","SAFE1",755,81
+935634,"Burnley FC","Southampton FC","02/24/2018 16:37:47","POSSIBLE_TI",756,81
+935634,"Burnley FC","Southampton FC","02/24/2018 16:37:48","TI2",757,81
+935634,"Burnley FC","Southampton FC","02/24/2018 16:38:04","SUB2",758,81
+935634,"Burnley FC","Southampton FC","02/24/2018 16:38:14","SAFE2",759,81
+935634,"Burnley FC","Southampton FC","02/24/2018 16:38:16","Restart",760,81
+935634,"Burnley FC","Southampton FC","02/24/2018 16:38:20","AT1",761,82
+935634,"Burnley FC","Southampton FC","02/24/2018 16:38:20","DANGER1",762,82
+935634,"Burnley FC","Southampton FC","02/24/2018 16:38:20","DAT1",763,82
+935634,"Burnley FC","Southampton FC","02/24/2018 16:38:30","SAFE2",764,82
+935634,"Burnley FC","Southampton FC","02/24/2018 16:38:31","AT2",765,82
+935634,"Burnley FC","Southampton FC","02/24/2018 16:38:38","Possible Free Kick",766,82
+935634,"Burnley FC","Southampton FC","02/24/2018 16:38:41","F1",768,82
+935634,"Burnley FC","Southampton FC","02/24/2018 16:38:41","FK2",769,82
+935634,"Burnley FC","Southampton FC","02/24/2018 16:38:41","DANGER2",770,82
+935634,"Burnley FC","Southampton FC","02/24/2018 16:38:41","DFK2",771,82
+935634,"Burnley FC","Southampton FC","02/24/2018 16:38:41","Ball Position",772,82
+935634,"Burnley FC","Southampton FC","02/24/2018 16:38:51","Restart",773,82
+935634,"Burnley FC","Southampton FC","02/24/2018 16:39:02","SUB_UPDATE",774,82
+935634,"Burnley FC","Southampton FC","02/24/2018 16:39:02","Player_DATA_CONFIRMED",775,82
+935634,"Burnley FC","Southampton FC","02/24/2018 16:39:15","SHB2",776,82
+935634,"Burnley FC","Southampton FC","02/24/2018 16:39:25","SAFE1",777,83
+935634,"Burnley FC","Southampton FC","02/24/2018 16:39:30","GK1",778,83
+935634,"Burnley FC","Southampton FC","02/24/2018 16:40:03","Restart",779,83
+935634,"Burnley FC","Southampton FC","02/24/2018 16:40:04","AT1",780,83
+935634,"Burnley FC","Southampton FC","02/24/2018 16:40:04","DANGER1",781,83
+935634,"Burnley FC","Southampton FC","02/24/2018 16:40:04","DAT1",782,83
+935634,"Burnley FC","Southampton FC","02/24/2018 16:40:21","SAFE2",783,84
+935634,"Burnley FC","Southampton FC","02/24/2018 16:40:21","GK2",784,84
+935634,"Burnley FC","Southampton FC","02/24/2018 16:40:39","Restart",785,84
+935634,"Burnley FC","Southampton FC","02/24/2018 16:40:40","AT2",786,84
+935634,"Burnley FC","Southampton FC","02/24/2018 16:41:01","SAFE1",787,84
+935634,"Burnley FC","Southampton FC","02/24/2018 16:41:03","GK1",788,84
+935634,"Burnley FC","Southampton FC","02/24/2018 16:41:30","Restart",789,85
+935634,"Burnley FC","Southampton FC","02/24/2018 16:41:31","AT1",790,85
+935634,"Burnley FC","Southampton FC","02/24/2018 16:41:31","DANGER1",791,85
+935634,"Burnley FC","Southampton FC","02/24/2018 16:41:31","DAT1",792,85
+935634,"Burnley FC","Southampton FC","02/24/2018 16:41:42","SHB1",793,85
+935634,"Burnley FC","Southampton FC","02/24/2018 16:41:46","SAFE2",794,85
+935634,"Burnley FC","Southampton FC","02/24/2018 16:41:48","GK2",795,85
+935634,"Burnley FC","Southampton FC","02/24/2018 16:41:54","Restart",796,85
+935634,"Burnley FC","Southampton FC","02/24/2018 16:42:06","POSSIBLE_TI",797,85
+935634,"Burnley FC","Southampton FC","02/24/2018 16:42:08","TI1",798,85
+935634,"Burnley FC","Southampton FC","02/24/2018 16:42:15","SAFE1",799,85
+935634,"Burnley FC","Southampton FC","02/24/2018 16:42:27","Restart",800,86
+935634,"Burnley FC","Southampton FC","02/24/2018 16:42:27","AT1",801,86
+935634,"Burnley FC","Southampton FC","02/24/2018 16:42:32","POSSIBLE_TI",802,86
+935634,"Burnley FC","Southampton FC","02/24/2018 16:42:34","TI1",803,86
+935634,"Burnley FC","Southampton FC","02/24/2018 16:42:36","DANGER1",804,86
+935634,"Burnley FC","Southampton FC","02/24/2018 16:42:36","DAT1",805,86
+935634,"Burnley FC","Southampton FC","02/24/2018 16:42:56","Restart",806,86
+935634,"Burnley FC","Southampton FC","02/24/2018 16:42:59","POSSIBLE_TI",807,86
+935634,"Burnley FC","Southampton FC","02/24/2018 16:43:01","TI2",808,86
+935634,"Burnley FC","Southampton FC","02/24/2018 16:43:08","Restart",809,86
+935634,"Burnley FC","Southampton FC","02/24/2018 16:43:11","SAFE2",810,86
+935634,"Burnley FC","Southampton FC","02/24/2018 16:43:26","POSSIBLE_CARDS",811,87
+935634,"Burnley FC","Southampton FC","02/24/2018 16:43:47","NO_Cards",812,87
+935634,"Burnley FC","Southampton FC","02/24/2018 16:43:51","Referee Ball",813,87
+935634,"Burnley FC","Southampton FC","02/24/2018 16:43:52","Restart",814,87
+935634,"Burnley FC","Southampton FC","02/24/2018 16:43:55","SAFE1",815,87
+935634,"Burnley FC","Southampton FC","02/24/2018 16:43:57","AT1",816,87
+935634,"Burnley FC","Southampton FC","02/24/2018 16:44:11","DANGER1",817,87
+935634,"Burnley FC","Southampton FC","02/24/2018 16:44:11","DAT1",818,87
+935634,"Burnley FC","Southampton FC","02/24/2018 16:44:27","SAFE2",819,88
+935634,"Burnley FC","Southampton FC","02/24/2018 16:44:27","AT2",820,88
+935634,"Burnley FC","Southampton FC","02/24/2018 16:44:35","SAFE1",821,88
+935634,"Burnley FC","Southampton FC","02/24/2018 16:44:37","POSSIBLE_TI",822,88
+935634,"Burnley FC","Southampton FC","02/24/2018 16:44:39","TI1",823,88
+935634,"Burnley FC","Southampton FC","02/24/2018 16:44:56","Restart",824,88
+935634,"Burnley FC","Southampton FC","02/24/2018 16:44:58","AT1",825,88
+935634,"Burnley FC","Southampton FC","02/24/2018 16:45:13","SAFE2",826,88
+935634,"Burnley FC","Southampton FC","02/24/2018 16:45:14","AT2",827,88
+935634,"Burnley FC","Southampton FC","02/24/2018 16:45:15","DANGER2",828,88
+935634,"Burnley FC","Southampton FC","02/24/2018 16:45:15","DAT2",829,88
+935634,"Burnley FC","Southampton FC","02/24/2018 16:45:23","SAFE1",830,89
+935634,"Burnley FC","Southampton FC","02/24/2018 16:45:25","AT1",831,89
+935634,"Burnley FC","Southampton FC","02/24/2018 16:45:30","DANGER1",832,89
+935634,"Burnley FC","Southampton FC","02/24/2018 16:45:30","DAT1",833,89
+935634,"Burnley FC","Southampton FC","02/24/2018 16:45:43","PCR1",834,89
+935634,"Burnley FC","Southampton FC","02/24/2018 16:45:48","CR1",835,89
+935634,"Burnley FC","Southampton FC","02/24/2018 16:45:50","Ball Position",836,89
+935634,"Burnley FC","Southampton FC","02/24/2018 16:46:15","Restart",837,89
+935634,"Burnley FC","Southampton FC","02/24/2018 16:46:22","Possible Free Kick",838,90
+935634,"Burnley FC","Southampton FC","02/24/2018 16:46:25","SAFE2",840,90
+935634,"Burnley FC","Southampton FC","02/24/2018 16:46:26","F1",841,90
+935634,"Burnley FC","Southampton FC","02/24/2018 16:46:26","FK2",842,90
+935634,"Burnley FC","Southampton FC","02/24/2018 16:46:26","Ball Position",843,90
+935634,"Burnley FC","Southampton FC","02/24/2018 16:46:34","Restart",844,90
+935634,"Burnley FC","Southampton FC","02/24/2018 16:46:38","AT2",845,90
+935634,"Burnley FC","Southampton FC","02/24/2018 16:46:38","DANGER2",846,90
+935634,"Burnley FC","Southampton FC","02/24/2018 16:46:38","DAT2",847,90
+935634,"Burnley FC","Southampton FC","02/24/2018 16:46:57","GOAL2",848,90
+935634,"Burnley FC","Southampton FC","02/24/2018 16:47:33","CONF_GOAL2",849,91
+935634,"Burnley FC","Southampton FC","02/24/2018 16:47:36","Extra Time",850,91
+935634,"Burnley FC","Southampton FC","02/24/2018 16:47:48","POSSIBLE_CARDS",851,91
+935634,"Burnley FC","Southampton FC","02/24/2018 16:47:52","YC1",852,91
+935634,"Burnley FC","Southampton FC","02/24/2018 16:47:56","CONF_YC1",853,91
+935634,"Burnley FC","Southampton FC","02/24/2018 16:48:04","Scorer",854,91
+935634,"Burnley FC","Southampton FC","02/24/2018 16:48:06","Scorer",855,91
+935634,"Burnley FC","Southampton FC","02/24/2018 16:48:07","KO1",856,91
+935634,"Burnley FC","Southampton FC","02/24/2018 16:48:07","SAFE1",857,91
+935634,"Burnley FC","Southampton FC","02/24/2018 16:48:16","POSSIBLE_TI",858,91
+935634,"Burnley FC","Southampton FC","02/24/2018 16:48:19","TI1",859,92
+935634,"Burnley FC","Southampton FC","02/24/2018 16:48:29","Restart",860,92
+935634,"Burnley FC","Southampton FC","02/24/2018 16:48:32","Scorer",861,92
+935634,"Burnley FC","Southampton FC","02/24/2018 16:48:32","Player_DATA_CONFIRMED",862,92
+935634,"Burnley FC","Southampton FC","02/24/2018 16:48:32","Assist",863,92
+935634,"Burnley FC","Southampton FC","02/24/2018 16:48:33","Scorer",864,92
+935634,"Burnley FC","Southampton FC","02/24/2018 16:48:33","Player_DATA_CONFIRMED",865,92
+935634,"Burnley FC","Southampton FC","02/24/2018 16:48:39","Possible Free Kick",866,92
+935634,"Burnley FC","Southampton FC","02/24/2018 16:48:41","F2",868,92
+935634,"Burnley FC","Southampton FC","02/24/2018 16:48:41","FK1",869,92
+935634,"Burnley FC","Southampton FC","02/24/2018 16:48:41","Ball Position",870,92
+935634,"Burnley FC","Southampton FC","02/24/2018 16:48:49","AT1",871,92
+935634,"Burnley FC","Southampton FC","02/24/2018 16:48:49","DANGER1",872,92
+935634,"Burnley FC","Southampton FC","02/24/2018 16:48:49","DAT1",873,92
+935634,"Burnley FC","Southampton FC","02/24/2018 16:48:55","Restart",874,92
+935634,"Burnley FC","Southampton FC","02/24/2018 16:49:04","POSSIBLE_TI",875,92
+935634,"Burnley FC","Southampton FC","02/24/2018 16:49:05","TI1",876,92
+935634,"Burnley FC","Southampton FC","02/24/2018 16:49:13","Restart",877,92
+935634,"Burnley FC","Southampton FC","02/24/2018 16:49:34","POSSIBLE_TI",878,93
+935634,"Burnley FC","Southampton FC","02/24/2018 16:49:35","TI2",879,93
+935634,"Burnley FC","Southampton FC","02/24/2018 16:49:51","Restart",880,93
+935634,"Burnley FC","Southampton FC","02/24/2018 16:49:52","SAFE2",881,93
+935634,"Burnley FC","Southampton FC","02/24/2018 16:49:53","AT2",882,93
+935634,"Burnley FC","Southampton FC","02/24/2018 16:49:55","POSSIBLE_TI",883,93
+935634,"Burnley FC","Southampton FC","02/24/2018 16:50:00","TI1",884,93
+935634,"Burnley FC","Southampton FC","02/24/2018 16:50:02","Restart",885,93
+935634,"Burnley FC","Southampton FC","02/24/2018 16:50:06","Possible Free Kick",886,93
+935634,"Burnley FC","Southampton FC","02/24/2018 16:50:08","SAFE1",888,93
+935634,"Burnley FC","Southampton FC","02/24/2018 16:50:08","F2",889,93
+935634,"Burnley FC","Southampton FC","02/24/2018 16:50:08","FK1",890,93
+935634,"Burnley FC","Southampton FC","02/24/2018 16:50:08","Ball Position",891,93
+935634,"Burnley FC","Southampton FC","02/24/2018 16:50:22","AT1",892,94
+935634,"Burnley FC","Southampton FC","02/24/2018 16:50:22","DANGER1",893,94
+935634,"Burnley FC","Southampton FC","02/24/2018 16:50:22","DAT1",894,94
+935634,"Burnley FC","Southampton FC","02/24/2018 16:50:23","Restart",895,94
+935634,"Burnley FC","Southampton FC","02/24/2018 16:50:34","PPEN",896,94
+935634,"Burnley FC","Southampton FC","02/24/2018 16:50:34","PPEN1",897,94
+935634,"Burnley FC","Southampton FC","02/24/2018 16:50:42","No PEN",898,94
+935634,"Burnley FC","Southampton FC","02/24/2018 16:50:43","POSSIBLE_TI",899,94
+935634,"Burnley FC","Southampton FC","02/24/2018 16:50:46","TI1",900,94
+935634,"Burnley FC","Southampton FC","02/24/2018 16:50:59","Restart",901,94
+935634,"Burnley FC","Southampton FC","02/24/2018 16:51:10","Stop RT2",902,94
+935634,"Burnley FC","Southampton FC","02/24/2018 16:51:10","Stop Game",903,94
+935634,"Burnley FC","Southampton FC","02/24/2018 16:51:35","CONF_PERIOD_SCORE",904,93

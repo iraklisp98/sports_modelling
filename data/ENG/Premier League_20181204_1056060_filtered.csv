@@ -1,0 +1,780 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1056060,"Watford FC","Manchester City FC","12/04/2018 19:00:33","Scout in Stadion",0,0
+1056060,"Watford FC","Manchester City FC","12/04/2018 19:00:50","Lineup changed",1,0
+1056060,"Watford FC","Manchester City FC","12/04/2018 19:01:21","Transmission Online",2,0
+1056060,"Watford FC","Manchester City FC","12/04/2018 19:06:48","GCC",3,0
+1056060,"Watford FC","Manchester City FC","12/04/2018 19:50:23","GCC",4,0
+1056060,"Watford FC","Manchester City FC","12/04/2018 19:56:10","Players are coming out",5,0
+1056060,"Watford FC","Manchester City FC","12/04/2018 19:57:01","Jersey Changed",6,0
+1056060,"Watford FC","Manchester City FC","12/04/2018 19:57:01","Jersey Changed",7,0
+1056060,"Watford FC","Manchester City FC","12/04/2018 19:57:07","Shake hands",8,0
+1056060,"Watford FC","Manchester City FC","12/04/2018 19:59:37","Game about to start",9,0
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:00:00","Start RT1 Team 2",10,1
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:00:03","SAFE2",11,1
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:00:13","AT2",12,1
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:00:17","SAFE2",13,1
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:00:21","AT2",14,1
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:00:34","SAFE2",15,1
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:00:43","AT2",16,1
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:00:43","DANGER2",17,1
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:00:43","DAT2",18,1
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:00:46","POSSIBLE_TI",19,1
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:00:48","TI1",20,1
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:01:04","Restart",21,2
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:01:24","BLOCKED2",22,2
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:01:27","SHB2",23,2
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:01:27","SAFE1",24,2
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:01:28","GK1",25,2
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:01:53","Restart",26,2
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:02:08","AT1",27,3
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:02:13","Possible Free Kick",28,3
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:02:17","F2",30,3
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:02:17","FK1",31,3
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:02:17","DANGER1",32,3
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:02:17","DFK1",33,3
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:02:17","Ball Position",34,3
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:02:52","Restart",35,3
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:02:57","Possible Free Kick",36,3
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:02:59","SAFE2",38,3
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:02:59","O1",39,3
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:02:59","FK2",40,3
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:02:59","Ball Position",41,3
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:03:06","Restart",42,4
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:03:32","AT2",43,4
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:03:45","DANGER2",44,4
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:03:45","DAT2",45,4
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:03:59","SAFE1",46,4
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:04:19","POSSIBLE_TI",47,5
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:04:20","TI1",48,5
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:04:40","Restart",49,5
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:04:50","SAFE2",50,5
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:05:12","AT2",51,6
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:05:15","DANGER2",52,6
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:05:15","DAT2",53,6
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:05:36","AT1",54,6
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:05:36","DANGER1",55,6
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:05:36","DAT1",56,6
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:05:49","AT2",57,6
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:05:49","DANGER2",58,6
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:05:49","DAT2",59,6
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:06:43","SAFE1",60,7
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:06:44","GK1",61,7
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:07:13","Restart",62,8
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:07:34","AT1",63,8
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:07:37","SAFE1",64,8
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:07:43","POSSIBLE_TI",65,8
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:07:44","TI1",66,8
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:08:12","Restart",67,9
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:08:21","AT1",68,9
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:08:21","DANGER1",69,9
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:08:21","DAT1",70,9
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:08:32","SHB1",71,9
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:08:32","SAFE2",72,9
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:08:33","GK2",73,9
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:08:49","Restart",74,9
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:09:05","AT2",75,10
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:09:14","DANGER2",76,10
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:09:14","DAT2",77,10
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:09:20","SAFE1",78,10
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:09:29","AT2",79,10
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:09:29","DANGER2",80,10
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:09:29","DAT2",81,10
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:09:47","SAFE1",82,10
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:10:00","AT1",83,10
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:10:04","AT2",84,11
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:10:04","DANGER2",85,11
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:10:04","DAT2",86,11
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:10:12","PCR2",87,11
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:10:13","SHG2",88,11
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:10:15","CR2",89,11
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:10:16","Ball Position",90,11
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:10:40","Restart",91,11
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:10:44","SHB2",92,11
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:10:44","SAFE1",93,11
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:10:45","GK1",94,11
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:11:12","Restart",95,12
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:11:17","POSSIBLE_TI",96,12
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:11:18","TI2",97,12
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:11:27","Restart",98,12
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:11:28","AT2",99,12
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:11:34","DANGER2",100,12
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:11:34","DAT2",101,12
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:11:56","SAFE2",102,12
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:11:58","Possible Free Kick",103,12
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:12:03","F1",105,13
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:12:03","FK2",106,13
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:12:03","DANGER2",107,13
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:12:03","DFK2",108,13
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:12:03","Ball Position",109,13
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:12:33","Restart",110,13
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:12:37","PCR2",111,13
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:12:39","CR2",112,13
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:12:40","Ball Position",113,13
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:12:58","Restart",114,13
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:13:24","SAFE1",115,14
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:13:28","AT2",116,14
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:13:31","SAFE2",117,14
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:13:35","AT2",118,14
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:13:35","DANGER2",119,14
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:13:35","DAT2",120,14
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:14:13","SAFE1",121,15
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:14:30","AT1",122,15
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:14:38","SAFE2",123,15
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:14:45","AT2",124,15
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:14:47","DANGER2",125,15
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:14:47","DAT2",126,15
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:15:16","PCR2",127,16
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:15:19","CR2",128,16
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:15:20","Ball Position",129,16
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:15:38","Restart",130,16
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:15:43","PCR2",131,16
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:15:45","CR2",132,16
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:15:46","Ball Position",133,16
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:16:01","Restart",134,17
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:16:12","PCR2",135,17
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:16:15","CR2",136,17
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:16:19","Ball Position",137,17
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:16:24","Restart",138,17
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:16:37","BLOCKED2",139,17
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:16:40","Possible Free Kick",140,17
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:16:48","SAFE1",142,17
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:16:48","O2",143,17
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:16:48","FK1",144,17
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:16:48","Ball Position",145,17
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:17:20","Restart",146,18
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:17:25","Possible Free Kick",147,18
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:17:29","SAFE2",149,18
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:17:29","O1",150,18
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:17:29","FK2",151,18
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:17:29","Ball Position",152,18
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:17:31","Restart",153,18
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:17:38","AT2",154,18
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:17:43","SAFE2",155,18
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:17:47","AT2",156,18
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:17:49","DANGER2",157,18
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:17:49","DAT2",158,18
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:18:03","SAFE2",159,19
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:18:07","AT2",160,19
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:18:10","DANGER2",161,19
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:18:10","DAT2",162,19
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:18:21","SHG2",163,19
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:18:23","SHG2",164,19
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:18:34","SAFE1",165,19
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:18:37","AT1",166,19
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:18:40","DANGER1",167,19
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:18:40","DAT1",168,19
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:18:46","POSSIBLE_TI",169,19
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:18:54","TI1",170,19
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:19:03","Restart",171,20
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:19:05","SAFE1",172,20
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:19:17","AT1",173,20
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:19:17","DANGER1",174,20
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:19:17","DAT1",175,20
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:19:20","SAFE2",176,20
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:19:52","AT2",177,20
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:19:54","POSSIBLE_TI",178,20
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:19:59","TI1",179,20
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:20:08","Restart",180,21
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:20:11","SAFE1",181,21
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:20:21","AT1",182,21
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:20:21","DANGER1",183,21
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:20:21","DAT1",184,21
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:20:29","POSSIBLE_TI",185,21
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:20:31","TI1",186,21
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:21:03","Restart",187,22
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:21:15","SHG1",188,22
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:21:15","SAFE2",189,22
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:21:33","AT2",190,22
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:21:38","SAFE2",191,22
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:21:40","AT2",192,22
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:21:47","DANGER2",193,22
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:21:47","DAT2",194,22
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:22:14","SAFE1",195,23
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:22:33","AT1",196,23
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:22:40","AT2",197,23
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:22:40","DANGER2",198,23
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:22:40","DAT2",199,23
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:22:48","SAFE1",200,23
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:22:57","Possible Free Kick",201,23
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:23:07","SAFE2",203,24
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:23:07","F1",204,24
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:23:07","FK2",205,24
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:23:07","Ball Position",206,24
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:23:14","Restart",207,24
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:23:21","AT2",208,24
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:23:44","DANGER2",209,24
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:23:44","DAT2",210,24
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:23:47","POSSIBLE_TI",211,24
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:23:48","TI2",212,24
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:24:05","Restart",213,25
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:24:10","POSSIBLE_TI",214,25
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:24:15","TI1",215,25
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:24:25","Restart",216,25
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:24:35","AT1",217,25
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:24:35","DANGER1",218,25
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:24:35","DAT1",219,25
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:25:05","SAFE2",220,26
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:25:29","AT2",221,26
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:25:39","DANGER2",222,26
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:25:39","DAT2",223,26
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:25:44","SAFE1",224,26
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:25:56","AT1",225,26
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:25:56","DANGER1",226,26
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:25:56","DAT1",227,26
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:26:07","POSSIBLE_TI",228,27
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:26:12","TI2",229,27
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:26:24","Restart",230,27
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:26:33","SAFE2",231,27
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:26:34","AT2",232,27
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:26:44","DANGER2",233,27
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:26:44","DAT2",234,27
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:27:33","SAFE1",235,28
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:27:41","SAFE2",236,28
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:27:51","AT2",237,28
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:27:51","DANGER2",238,28
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:27:51","DAT2",239,28
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:27:58","SAFE2",240,28
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:28:08","AT2",241,29
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:28:14","DANGER2",242,29
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:28:14","DAT2",243,29
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:28:19","SAFE1",244,29
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:28:34","AT1",245,29
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:28:40","SAFE1",246,29
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:28:48","POSSIBLE_TI",247,29
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:28:49","TI1",248,29
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:29:05","Restart",249,30
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:29:12","AT1",250,30
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:29:18","SAFE1",251,30
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:29:26","POSSIBLE_TI",252,30
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:29:28","TI2",253,30
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:29:32","Restart",254,30
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:29:35","SAFE2",255,30
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:29:42","AT2",256,30
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:29:45","SAFE2",257,30
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:29:51","AT2",258,30
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:30:08","DANGER2",259,31
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:30:08","DAT2",260,31
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:30:13","PCR2",261,31
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:30:16","SHG2",262,31
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:30:17","CR2",263,31
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:30:19","Ball Position",264,31
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:30:33","Restart",265,31
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:30:38","SHB2",266,31
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:30:39","SAFE1",267,31
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:30:39","GK1",268,31
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:31:06","Restart",269,32
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:31:11","AT1",270,32
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:31:15","DANGER1",271,32
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:31:15","DAT1",272,32
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:31:28","SHG1",273,32
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:31:50","SAFE2",274,32
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:31:51","GK2",275,32
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:31:58","Restart",276,32
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:32:20","AT2",277,33
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:32:25","DANGER2",278,33
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:32:25","DAT2",279,33
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:32:35","POSSIBLE_TI",280,33
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:32:36","TI2",281,33
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:32:46","Restart",282,33
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:32:51","SAFE2",283,33
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:33:16","AT1",284,34
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:33:26","SAFE1",285,34
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:33:40","SAFE2",286,34
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:33:47","AT2",287,34
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:33:50","DANGER2",288,34
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:33:50","DAT2",289,34
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:34:46","Possible Free Kick",290,35
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:35:06","SAFE1",292,36
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:35:06","F2",293,36
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:35:06","FK1",294,36
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:35:06","Ball Position",295,36
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:35:15","Restart",296,36
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:35:21","POSSIBLE_TI",297,36
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:35:26","TI2",298,36
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:35:38","Restart",299,36
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:35:40","SAFE2",300,36
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:35:55","AT2",301,36
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:36:05","DANGER2",302,37
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:36:05","DAT2",303,37
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:36:20","BLOCKED2",304,37
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:36:29","SAFE1",305,37
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:36:30","GK1",306,37
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:37:03","Restart",307,38
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:37:20","AT2",308,38
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:37:24","DANGER2",309,38
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:37:24","DAT2",310,38
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:37:29","SAFE2",311,38
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:37:41","AT2",312,38
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:37:51","DANGER2",313,38
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:37:51","DAT2",314,38
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:38:13","SAFE2",315,39
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:38:20","AT2",316,39
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:38:20","DANGER2",317,39
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:38:20","DAT2",318,39
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:38:32","Possible Free Kick",319,39
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:38:35","SAFE1",321,39
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:38:35","O2",322,39
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:38:35","FK1",323,39
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:38:35","Ball Position",324,39
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:39:05","Restart",325,40
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:39:07","AT1",326,40
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:39:11","SAFE2",327,40
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:39:23","AT2",328,40
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:39:29","DANGER2",329,40
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:39:29","DAT2",330,40
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:39:38","SHG2",331,40
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:39:45","GOAL2",332,40
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:39:57","Scorer",333,40
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:40:40","CONF_GOAL2",334,41
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:40:42","KO1",335,41
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:40:42","SAFE1",336,41
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:40:48","AT1",337,41
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:40:56","DANGER1",338,41
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:40:56","DAT1",339,41
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:41:02","POSSIBLE_TI",340,42
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:41:04","TI1",341,42
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:41:13","Player_DATA_CONFIRMED",342,42
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:41:13","Assist",343,42
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:41:23","Restart",344,42
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:41:44","AT2",345,42
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:41:44","DANGER2",346,42
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:41:44","DAT2",347,42
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:41:46","BREAKAWAY2",348,42
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:41:52","SHB2",349,42
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:41:53","SAFE1",350,42
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:41:53","GK1",351,42
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:42:22","Restart",352,43
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:42:36","POSSIBLE_TI",353,43
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:42:38","TI2",354,43
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:42:39","AT2",355,43
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:42:39","DANGER2",356,43
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:42:39","DAT2",357,43
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:42:54","Restart",358,43
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:43:01","POSSIBLE_TI",359,44
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:43:02","TI2",360,44
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:43:08","Restart",361,44
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:43:14","POSSIBLE_TI",362,44
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:43:15","NO_TI",363,44
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:43:16","Possible Free Kick",364,44
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:43:17","SAFE1",366,44
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:43:17","F2",367,44
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:43:17","FK1",368,44
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:43:17","Ball Position",369,44
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:43:36","Restart",370,44
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:43:38","AT1",371,44
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:43:42","SAFE2",372,44
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:43:54","AT2",373,44
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:43:54","DANGER2",374,44
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:43:54","DAT2",375,44
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:44:50","SAFE2",376,45
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:44:56","AT1",377,45
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:45:00","SAFE2",378,45
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:45:06","Extra Time",379,46
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:45:16","AT2",380,46
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:45:16","DANGER2",381,46
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:45:16","DAT2",382,46
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:45:23","Possible Free Kick",383,46
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:45:41","F1",385,46
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:45:41","FK2",386,46
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:45:41","DFK2",387,46
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:45:41","Ball Position",388,46
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:46:07","Restart",389,47
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:46:10","PCR2",390,47
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:46:13","NCR2",391,47
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:46:15","Stop RT1",392,47
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:46:27","CONF_PERIOD_SCORE",393,45
+1056060,"Watford FC","Manchester City FC","12/04/2018 20:59:42","Players are coming out",394,45
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:01:29","Game about to start",395,45
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:01:38","Start RT2 Team 1",396,46
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:01:42","AT1",397,46
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:01:56","Injury Break",398,46
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:02:19","Referee Ball",399,46
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:02:19","Restart",400,46
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:02:23","SAFE2",401,46
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:02:35","AT2",402,46
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:02:40","SAFE2",403,47
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:02:48","AT2",404,47
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:02:52","SAFE2",405,47
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:03:02","AT2",406,47
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:03:13","DANGER2",407,47
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:03:13","DAT2",408,47
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:03:37","SAFE2",409,47
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:03:45","AT2",410,48
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:03:48","DANGER2",411,48
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:03:48","DAT2",412,48
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:04:17","SAFE1",413,48
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:04:30","Injury Break",414,48
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:05:32","Restart",415,49
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:05:39","AT1",416,50
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:05:47","SAFE2",417,50
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:05:52","AT2",418,50
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:05:52","DANGER2",419,50
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:05:52","DAT2",420,50
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:06:17","POSSIBLE_TI",421,50
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:06:18","TI1",422,50
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:06:33","Restart",423,50
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:06:42","GOAL2",424,51
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:06:50","Scorer",425,51
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:07:00","CONF_GOAL2",426,51
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:07:31","SUB1",427,51
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:07:44","Player_DATA_CONFIRMED",428,52
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:07:44","Assist",429,52
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:07:50","KO1",430,52
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:07:50","SAFE1",431,52
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:07:51","CLS",432,52
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:07:58","Scorer",433,52
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:07:59","KO1",434,52
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:07:59","SAFE1",435,52
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:08:03","AT1",436,52
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:08:10","SAFE2",437,52
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:08:17","AT1",438,52
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:08:17","DANGER1",439,52
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:08:17","DAT1",440,52
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:08:35","SAFE2",441,52
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:08:43","Player_DATA_CONFIRMED",442,53
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:08:44","SAFE1",443,53
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:09:12","SAFE2",444,53
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:09:32","AT2",445,53
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:09:35","SAFE1",446,53
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:09:47","Possible Free Kick",447,54
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:09:50","F2",449,54
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:09:50","FK1",450,54
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:09:50","DANGER1",451,54
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:09:50","DFK1",452,54
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:09:50","Ball Position",453,54
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:09:57","Restart",454,54
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:10:09","SAFE1",455,54
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:10:18","AT1",456,54
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:10:18","DANGER1",457,54
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:10:18","DAT1",458,54
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:10:27","SAFE2",459,54
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:11:02","AT2",460,55
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:11:02","DANGER2",461,55
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:11:02","DAT2",462,55
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:11:18","AT1",463,55
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:11:18","DANGER1",464,55
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:11:18","DAT1",465,55
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:11:28","BLOCKED1",466,55
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:11:43","SAFE1",467,56
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:11:55","POSSIBLE_TI",468,56
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:11:56","TI2",469,56
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:12:03","Restart",470,56
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:12:05","SAFE2",471,56
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:12:43","AT2",472,57
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:12:48","SAFE1",473,57
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:12:58","SAFE2",474,57
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:13:04","SAFE1",475,57
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:13:16","SAFE2",476,57
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:13:26","AT2",477,57
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:13:29","DANGER2",478,57
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:13:29","DAT2",479,57
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:13:31","Possible Free Kick",480,57
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:13:41","SAFE1",482,58
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:13:41","O2",483,58
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:13:41","FK1",484,58
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:13:41","Ball Position",485,58
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:13:58","Restart",486,58
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:14:04","SAFE2",487,58
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:14:33","AT2",488,58
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:14:42","DANGER2",489,59
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:14:42","DAT2",490,59
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:15:02","POSSIBLE_TI",491,59
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:15:04","TI2",492,59
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:15:20","Restart",493,59
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:15:28","POSSIBLE_TI",494,59
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:15:29","TI2",495,59
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:15:42","Restart",496,60
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:15:58","PCR2",497,60
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:16:00","SHB2",498,60
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:16:01","CR2",499,60
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:16:05","Ball Position",500,60
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:16:23","Restart",501,60
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:16:29","AT1",502,60
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:16:29","DANGER1",503,60
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:16:29","DAT1",504,60
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:16:39","SAFE2",505,61
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:16:40","AT2",506,61
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:16:45","DANGER2",507,61
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:16:45","DAT2",508,61
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:17:36","SAFE1",509,61
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:17:44","SAFE2",510,62
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:17:52","AT2",511,62
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:18:01","SAFE2",512,62
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:18:06","AT2",513,62
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:18:11","DANGER2",514,62
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:18:11","DAT2",515,62
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:18:25","SAFE2",516,62
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:18:35","AT2",517,62
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:18:35","DANGER2",518,62
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:18:35","DAT2",519,62
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:18:44","PCR2",520,63
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:18:46","CR2",521,63
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:18:53","Ball Position",522,63
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:19:03","Restart",523,63
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:19:09","SHB2",524,63
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:19:09","SAFE1",525,63
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:19:10","GK1",526,63
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:19:33","SUB1",527,63
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:19:50","Restart",528,64
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:19:57","SAFE2",529,64
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:20:10","AT2",530,64
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:20:15","Player_DATA_CONFIRMED",531,64
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:20:24","SAFE2",532,64
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:20:52","AT2",533,65
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:20:59","DANGER2",534,65
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:20:59","DAT2",535,65
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:21:07","SAFE2",536,65
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:21:16","AT2",537,65
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:21:16","DANGER2",538,65
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:21:16","DAT2",539,65
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:21:35","SAFE2",540,65
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:21:47","AT2",541,66
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:21:49","Possible Free Kick",542,66
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:21:53","SAFE1",544,66
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:21:53","O2",545,66
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:21:53","FK1",546,66
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:21:53","Ball Position",547,66
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:22:15","Restart",548,66
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:22:50","AT1",549,67
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:23:02","POSSIBLE_TI",550,67
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:23:07","TI1",551,67
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:23:08","Restart",552,67
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:23:09","SAFE1",553,67
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:23:12","Scorer",554,67
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:23:19","AT2",555,67
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:23:21","DANGER2",556,67
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:23:21","DAT2",557,67
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:23:35","Possible Free Kick",558,67
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:23:38","SAFE1",560,68
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:23:38","O2",561,68
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:23:38","FK1",562,68
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:23:38","Ball Position",563,68
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:24:03","Restart",564,68
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:24:08","AT1",565,68
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:24:08","DANGER1",566,68
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:24:08","DAT1",567,68
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:24:14","SHB1",568,68
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:24:15","SAFE2",569,68
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:24:16","GK2",570,68
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:24:30","Restart",571,68
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:24:36","AT2",572,68
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:24:36","DANGER2",573,68
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:24:36","DAT2",574,68
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:24:48","SAFE1",575,69
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:24:53","AT1",576,69
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:25:04","SAFE2",577,69
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:25:05","AT2",578,69
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:25:08","DANGER2",579,69
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:25:08","DAT2",580,69
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:25:13","SHB2",581,69
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:25:13","SAFE1",582,69
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:25:14","GK1",583,69
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:25:40","Restart",584,70
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:25:47","Possible Free Kick",585,70
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:25:51","F2",587,70
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:25:51","FK1",588,70
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:25:52","DANGER1",589,70
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:25:52","DFK1",590,70
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:25:52","Ball Position",591,70
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:26:21","Restart",592,70
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:26:39","Possible Free Kick",593,71
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:26:42","F2",595,71
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:26:42","FK1",596,71
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:26:42","DFK1",597,71
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:26:42","Ball Position",598,71
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:27:13","Restart",599,71
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:27:17","SHG1",600,71
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:27:17","SAFE2",601,71
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:27:49","AT2",602,72
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:27:53","DANGER2",603,72
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:27:53","DAT2",604,72
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:27:54","Possible Free Kick",605,72
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:27:56","SAFE1",607,72
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:27:56","O2",608,72
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:27:56","FK1",609,72
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:27:56","Ball Position",610,72
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:28:18","Restart",611,72
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:28:26","SAFE2",612,72
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:28:44","AT2",613,73
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:28:47","DANGER2",614,73
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:28:47","DAT2",615,73
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:28:59","SAFE1",616,73
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:29:00","GK1",617,73
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:29:21","SUB2",618,73
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:29:43","Restart",619,74
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:30:14","SAFE2",620,74
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:30:16","Player_DATA_CONFIRMED",621,74
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:30:21","AT1",622,74
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:30:21","DANGER1",623,74
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:30:21","DAT1",624,74
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:30:28","SHG1",625,74
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:30:28","SAFE2",626,74
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:30:58","AT1",627,75
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:31:01","SAFE1",628,75
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:31:18","POSSIBLE_TI",629,75
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:31:19","TI2",630,75
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:31:37","SUB1",631,75
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:31:39","Restart",632,76
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:31:43","SAFE2",633,76
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:32:26","AT2",634,76
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:32:26","DANGER2",635,76
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:32:26","DAT2",636,76
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:32:30","SAFE2",637,76
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:32:39","AT2",638,77
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:32:39","DANGER2",639,77
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:32:39","DAT2",640,77
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:32:47","PCR2",641,77
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:32:49","CR2",642,77
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:32:51","Ball Position",643,77
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:33:09","Restart",644,77
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:33:16","POSSIBLE_TI",645,77
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:33:18","TI2",646,77
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:33:24","Restart",647,77
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:33:29","SAFE2",648,77
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:33:42","AT2",649,78
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:33:44","Player_DATA_CONFIRMED",650,78
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:33:47","DANGER2",651,78
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:33:47","DAT2",652,78
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:34:07","SAFE2",653,78
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:34:19","AT2",654,78
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:34:20","DANGER2",655,78
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:34:20","DAT2",656,78
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:34:28","PCR2",657,78
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:34:29","CR2",658,78
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:34:32","Ball Position",659,78
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:34:55","Restart",660,79
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:35:00","PCR2",661,79
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:35:02","CR2",662,79
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:35:05","Ball Position",663,79
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:35:15","Restart",664,79
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:35:24","POSSIBLE_TI",665,79
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:35:30","TI1",666,79
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:35:43","Restart",667,80
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:35:50","AT1",668,80
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:35:50","DANGER1",669,80
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:35:50","DAT1",670,80
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:35:56","SAFE2",671,80
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:35:59","AT2",672,80
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:36:03","SAFE1",673,80
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:36:19","AT1",674,80
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:36:35","DANGER1",675,80
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:36:35","DAT1",676,80
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:36:47","AT2",677,81
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:36:47","DANGER2",678,81
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:36:47","DAT2",679,81
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:37:13","SAFE2",680,81
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:37:19","AT2",681,81
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:37:23","Possible Free Kick",682,81
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:37:31","F1",684,81
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:37:31","FK2",685,81
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:37:31","DANGER2",686,81
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:37:31","DFK2",687,81
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:37:31","Ball Position",688,81
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:37:35","Restart",689,81
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:38:29","SHG2",690,82
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:38:40","SAFE1",691,83
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:38:44","SAFE2",692,83
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:38:46","AT2",693,83
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:39:07","POSSIBLE_TI",694,83
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:39:08","TI2",695,83
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:39:33","SUB2",696,83
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:39:44","Restart",697,84
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:39:53","SAFE2",698,84
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:40:04","POSSIBLE_TI",699,84
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:40:08","TI2",700,84
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:40:16","Player_DATA_CONFIRMED",701,84
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:40:24","Restart",702,84
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:40:28","AT1",703,84
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:40:31","DANGER1",704,84
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:40:31","DAT1",705,84
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:40:45","GOAL1",706,85
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:41:05","Scorer",707,85
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:41:17","CONF_GOAL1",708,85
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:41:22","KO2",709,85
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:41:22","SAFE2",710,85
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:41:30","POSSIBLE_TI",711,85
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:41:32","TI1",712,85
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:41:45","Restart",713,86
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:41:59","AT1",714,86
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:42:03","POSSIBLE_TI",715,86
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:42:03","TI1",716,86
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:42:13","Restart",717,86
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:42:18","DANGER1",718,86
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:42:18","DAT1",719,86
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:42:22","PCR1",720,86
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:42:23","CR1",721,86
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:42:25","Ball Position",722,86
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:42:32","Player_DATA_CONFIRMED",723,86
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:42:51","Restart",724,87
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:42:55","SHG1",725,87
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:42:55","SAFE2",726,87
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:43:11","AT2",727,87
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:43:22","SAFE1",728,87
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:43:26","AT1",729,87
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:43:31","DANGER1",730,87
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:43:31","DAT1",731,87
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:43:50","SAFE2",732,88
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:43:51","GK2",733,88
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:44:53","SUB2",734,89
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:45:18","Restart",735,89
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:45:27","Player_DATA_CONFIRMED",736,89
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:45:30","Possible Free Kick",737,89
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:45:32","SAFE1",739,89
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:45:32","F2",740,89
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:45:32","FK1",741,89
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:45:32","Ball Position",742,89
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:45:43","AT1",743,90
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:45:43","DANGER1",744,90
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:45:43","DAT1",745,90
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:45:52","Restart",746,90
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:45:59","Possible Free Kick",747,90
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:46:03","SAFE2",749,90
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:46:03","O1",750,90
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:46:03","FK2",751,90
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:46:03","Ball Position",752,90
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:46:15","POSSIBLE_CARDS",753,90
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:46:16","YC2",754,90
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:46:17","CONF_YC2",755,90
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:46:28","Scorer",756,90
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:46:36","Restart",757,90
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:46:47","AT1",758,91
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:46:54","Extra Time",759,91
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:47:01","Player_DATA_CONFIRMED",760,91
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:47:03","SAFE1",761,91
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:47:11","POSSIBLE_TI",762,91
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:47:12","TI1",763,91
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:47:16","Restart",764,91
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:47:32","Possible Free Kick",765,91
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:47:35","F2",767,91
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:47:35","FK1",768,91
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:47:35","Ball Position",769,91
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:47:49","Restart",770,92
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:47:50","AT1",771,92
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:47:50","DANGER1",772,92
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:47:50","DAT1",773,92
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:48:07","PCR1",774,92
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:48:13","CR1",775,92
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:48:16","Ball Position",776,92
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:48:32","Restart",777,92
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:48:49","PCR1",778,93
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:48:51","SHG1",779,93
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:48:51","CR1",780,93
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:48:52","Ball Position",781,93
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:49:10","Restart",782,93
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:49:18","Possible Free Kick",783,93
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:49:23","SAFE2",785,93
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:49:23","O1",786,93
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:49:23","FK2",787,93
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:49:23","Ball Position",788,93
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:49:52","Restart",789,94
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:49:57","SAFE1",790,94
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:50:01","AT1",791,94
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:50:12","DANGER1",792,94
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:50:12","DAT1",793,94
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:50:26","SAFE1",794,94
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:50:34","AT1",795,94
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:50:34","DANGER1",796,94
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:50:34","DAT1",797,94
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:50:43","Stop RT2",798,94
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:50:43","Stop Game",799,94
+1056060,"Watford FC","Manchester City FC","12/04/2018 21:51:07","CONF_PERIOD_SCORE",800,94

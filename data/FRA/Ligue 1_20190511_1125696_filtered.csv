@@ -1,0 +1,818 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1125696,"Amiens SC","Toulouse FC","05/11/2019 16:59:25","Transmission Online",0,0
+1125696,"Amiens SC","Toulouse FC","05/11/2019 17:11:08","Scout in Stadion",1,0
+1125696,"Amiens SC","Toulouse FC","05/11/2019 17:15:47","Lineup changed",2,0
+1125696,"Amiens SC","Toulouse FC","05/11/2019 17:39:55","GCC",3,0
+1125696,"Amiens SC","Toulouse FC","05/11/2019 17:57:23","Players are coming out",4,0
+1125696,"Amiens SC","Toulouse FC","05/11/2019 17:57:46","Players lined up",5,0
+1125696,"Amiens SC","Toulouse FC","05/11/2019 17:58:08","Shake hands",6,0
+1125696,"Amiens SC","Toulouse FC","05/11/2019 17:58:30","Flip coin",7,0
+1125696,"Amiens SC","Toulouse FC","05/11/2019 17:59:06","Jersey Changed",8,0
+1125696,"Amiens SC","Toulouse FC","05/11/2019 17:59:06","Jersey Changed",9,0
+1125696,"Amiens SC","Toulouse FC","05/11/2019 17:59:48","Game about to start",10,0
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:00:13","Start RT1 Team 2",11,1
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:00:21","SAFE2",12,1
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:00:23","AT2",13,1
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:00:24","POSSIBLE_TI",14,1
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:00:25","TI2",15,1
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:00:27","Restart",16,1
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:00:57","DANGER2",17,1
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:00:57","DAT2",18,1
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:01:03","SAFE1",19,1
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:01:06","GK1",20,1
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:01:25","Restart",21,2
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:01:52","AT1",22,2
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:01:55","DANGER1",23,2
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:01:55","DAT1",24,2
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:01:58","POSSIBLE_TI",25,2
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:02:00","TI1",26,2
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:02:09","Restart",27,2
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:02:13","SAFE1",28,2
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:02:13","AT1",29,3
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:02:27","SAFE1",30,3
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:02:48","AT1",31,3
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:02:54","POSSIBLE_TI",32,3
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:02:55","TI2",33,3
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:02:59","Restart",34,3
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:03:08","SAFE2",35,3
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:03:11","AT2",36,3
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:03:14","DANGER2",37,4
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:03:14","DAT2",38,4
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:03:38","SAFE1",39,4
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:03:45","AT1",40,4
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:04:09","Possible Free Kick",41,4
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:04:10","F2",43,4
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:04:10","FK1",44,4
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:04:10","DANGER1",45,4
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:04:10","DFK1",46,4
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:04:10","Ball Position",47,4
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:04:41","Restart",48,5
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:05:08","SAFE2",49,5
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:05:09","GK2",50,5
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:05:21","Restart",51,6
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:05:31","AT1",52,6
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:05:37","Possible Free Kick",53,6
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:05:39","POSSIBLE_CARDS",55,6
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:06:05","F2",56,6
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:06:05","FK1",57,6
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:06:05","DANGER1",58,6
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:06:05","DFK1",59,6
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:06:05","Ball Position",60,6
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:06:23","NO_Cards",61,7
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:06:23","Restart",62,7
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:06:39","SHB1",63,7
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:06:40","SAFE2",64,7
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:06:42","GK2",65,7
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:06:58","Restart",66,7
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:07:09","AT2",67,7
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:07:18","POSSIBLE_TI",68,8
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:07:19","TI1",69,8
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:07:23","Restart",70,8
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:07:34","SAFE1",71,8
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:07:35","Possible Free Kick",72,8
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:07:44","F2",74,8
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:07:44","FK1",75,8
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:07:44","Ball Position",76,8
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:07:44","POSSIBLE_CARDS",77,8
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:08:00","Injury Break",78,8
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:08:49","YC2",79,9
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:08:55","CONF_YC2",80,9
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:09:09","Scorer",81,9
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:09:14","Player_DATA_CONFIRMED",82,10
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:09:23","Restart",83,10
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:09:25","AT1",84,10
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:09:25","DANGER1",85,10
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:09:25","DAT1",86,10
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:09:40","SAFE2",87,10
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:09:41","Possible Free Kick",88,10
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:09:44","O1",90,10
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:09:44","FK2",91,10
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:09:45","Ball Position",92,10
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:10:07","Restart",93,10
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:10:08","SAFE1",94,10
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:10:09","POSSIBLE_TI",95,10
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:10:10","TI1",96,10
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:10:12","Restart",97,10
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:10:35","AT2",98,11
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:10:35","POSSIBLE_TI",99,11
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:10:36","TI2",100,11
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:10:40","Restart",101,11
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:10:47","DANGER2",102,11
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:10:47","DAT2",103,11
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:10:57","SAFE2",104,11
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:10:58","AT2",105,11
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:10:59","POSSIBLE_TI",106,11
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:10:59","TI2",107,11
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:11:07","Restart",108,11
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:11:24","SAFE1",109,12
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:11:25","Possible Free Kick",110,12
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:11:25","F2",112,12
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:11:25","FK1",113,12
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:11:25","Ball Position",114,12
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:11:38","Restart",115,12
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:11:48","SAFE2",116,12
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:11:49","POSSIBLE_TI",117,12
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:11:50","TI2",118,12
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:11:57","Restart",119,12
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:12:27","Possible Free Kick",120,13
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:12:28","F2",122,13
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:12:28","FK1",123,13
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:12:28","DANGER1",124,13
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:12:28","DFK1",125,13
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:12:28","Ball Position",126,13
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:12:36","Restart",127,13
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:12:39","SAFE1",128,13
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:12:41","AT1",129,13
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:12:49","SAFE2",130,13
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:12:49","Possible Free Kick",131,13
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:12:51","O1",133,13
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:12:51","FK2",134,13
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:12:51","Ball Position",135,13
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:13:02","Restart",136,13
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:13:52","Possible Free Kick",137,14
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:13:55","F2",139,14
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:13:55","FK1",140,14
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:13:55","DANGER1",141,14
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:13:55","DFK1",142,14
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:13:55","Ball Position",143,14
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:14:54","Restart",144,15
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:15:03","Referee Ball",145,15
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:15:05","Injury Break",146,15
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:16:21","Restart",147,17
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:16:22","SAFE1",148,17
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:16:51","AT1",149,17
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:17:00","DANGER1",150,17
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:17:00","DAT1",151,17
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:17:12","POSSIBLE_TI",152,17
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:17:13","TI1",153,17
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:17:22","Restart",154,18
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:17:46","POSSIBLE_CARDS",155,18
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:17:47","PRC",156,18
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:18:28","No RC",157,19
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:18:36","Possible Free Kick",158,19
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:18:38","F2",160,19
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:18:38","FK1",161,19
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:18:38","DFK1",162,19
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:18:38","Ball Position",163,19
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:18:43","NO_Cards",164,19
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:18:45","Restart",165,19
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:18:52","SAFE2",166,19
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:18:52","Possible Free Kick",167,19
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:18:53","F1",169,19
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:18:53","FK2",170,19
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:18:53","Ball Position",171,19
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:19:15","Restart",172,20
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:19:45","Possible Free Kick",173,20
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:19:47","SAFE1",175,20
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:19:47","F2",176,20
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:19:47","FK1",177,20
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:19:47","Ball Position",178,20
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:19:53","Restart",179,20
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:20:14","SAFE2",180,21
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:20:38","AT1",181,21
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:20:43","DANGER1",182,21
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:20:43","DAT1",183,21
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:20:54","SAFE2",184,21
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:21:09","AT2",185,21
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:21:24","POSSIBLE_TI",186,22
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:21:25","TI2",187,22
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:21:29","Restart",188,22
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:21:38","SAFE1",189,22
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:21:45","SAFE2",190,22
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:21:47","AT2",191,22
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:22:10","DANGER2",192,22
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:22:10","DAT2",193,22
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:22:23","SHB2",194,23
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:22:24","SAFE1",195,23
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:22:27","GK1",196,23
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:22:34","Restart",197,23
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:22:40","AT2",198,23
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:22:42","SAFE1",199,23
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:22:43","POSSIBLE_TI",200,23
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:22:45","TI1",201,23
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:22:45","Restart",202,23
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:22:55","SAFE2",203,23
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:22:56","Possible Free Kick",204,23
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:22:57","F1",206,23
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:22:57","FK2",207,23
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:22:57","Ball Position",208,23
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:23:07","Restart",209,23
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:23:10","AT2",210,23
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:23:12","SAFE1",211,23
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:23:13","Possible Free Kick",212,23
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:23:15","O2",214,24
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:23:15","FK1",215,24
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:23:15","Ball Position",216,24
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:23:32","Restart",217,24
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:23:47","AT1",218,24
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:24:00","DANGER1",219,24
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:24:00","DAT1",220,24
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:24:01","Possible Free Kick",221,24
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:24:03","POSSIBLE_CARDS",223,24
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:24:07","YC2",224,24
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:24:08","CONF_YC2",225,24
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:24:22","Scorer",226,25
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:24:29","F2",227,25
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:24:29","FK1",228,25
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:24:29","DFK1",229,25
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:24:29","Ball Position",230,25
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:24:55","Restart",231,25
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:25:05","SHG1",232,25
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:25:12","POSSIBLE_TI",233,25
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:25:13","TI2",234,25
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:25:15","Restart",235,26
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:25:32","SAFE2",236,26
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:25:33","GK2",237,26
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:25:50","Player_DATA_CONFIRMED",238,26
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:26:03","Restart",239,26
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:26:14","AT1",240,27
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:26:19","SAFE2",241,27
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:26:23","AT2",242,27
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:26:26","DANGER2",243,27
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:26:26","DAT2",244,27
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:26:31","SAFE1",245,27
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:26:33","Possible Free Kick",246,27
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:26:36","FK1",248,27
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:26:36","Ball Position",249,27
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:27:00","Restart",250,27
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:27:04","AT1",251,27
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:27:05","DANGER1",252,27
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:27:05","DAT1",253,27
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:27:12","SHB1",254,27
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:27:13","SAFE2",255,27
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:27:14","GK2",256,28
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:27:35","Restart",257,28
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:27:50","AT2",258,28
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:27:56","DANGER2",259,28
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:27:56","DAT2",260,28
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:28:02","POSSIBLE_TI",261,28
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:28:05","TI2",262,28
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:28:21","Restart",263,29
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:28:28","SAFE1",264,29
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:28:46","AT2",265,29
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:28:50","DANGER2",266,29
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:28:50","DAT2",267,29
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:29:02","SHG2",268,29
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:29:03","SAFE1",269,29
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:29:28","SAFE2",270,30
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:29:49","Possible Free Kick",271,30
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:29:50","F1",273,30
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:29:50","FK2",274,30
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:29:50","Ball Position",275,30
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:30:03","Restart",276,30
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:30:09","AT2",277,30
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:30:14","SAFE1",278,31
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:30:14","Possible Free Kick",279,31
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:30:16","F2",281,31
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:30:16","FK1",282,31
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:30:17","Ball Position",283,31
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:30:26","Restart",284,31
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:30:42","SAFE2",285,31
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:30:51","SAFE1",286,31
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:31:19","POSSIBLE_TI",287,32
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:31:19","TI1",288,32
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:31:22","Restart",289,32
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:31:37","AT1",290,32
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:32:14","SAFE2",291,33
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:32:20","SAFE1",292,33
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:32:21","AT1",293,33
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:32:35","DANGER1",294,33
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:32:35","DAT1",295,33
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:32:50","SAFE2",296,33
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:32:50","Possible Free Kick",297,33
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:32:54","F1",299,33
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:32:54","FK2",300,33
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:32:54","Ball Position",301,33
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:33:16","Restart",302,34
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:33:29","Possible Free Kick",303,34
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:33:31","SAFE1",305,34
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:33:31","O2",306,34
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:33:31","FK1",307,34
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:33:31","Ball Position",308,34
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:33:52","Restart",309,34
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:34:01","Possible Free Kick",310,34
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:34:02","F2",312,34
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:34:02","FK1",313,34
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:34:03","DANGER1",314,34
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:34:03","DFK1",315,34
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:34:03","Ball Position",316,34
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:34:16","Restart",317,35
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:34:17","SAFE2",318,35
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:34:18","POSSIBLE_TI",319,35
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:34:20","TI2",320,35
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:34:27","Restart",321,35
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:34:54","AT2",322,35
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:34:56","POSSIBLE_TI",323,35
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:34:57","TI2",324,35
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:34:58","Restart",325,35
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:35:08","SAFE1",326,35
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:35:09","Possible Free Kick",327,35
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:35:12","POSSIBLE_CARDS",329,35
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:35:42","F2",330,36
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:35:42","FK1",331,36
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:35:42","Ball Position",332,36
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:35:50","Restart",333,36
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:35:50","NO_Cards",334,36
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:36:07","AT2",335,36
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:36:07","DANGER2",336,36
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:36:07","DAT2",337,36
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:36:15","SAFE1",338,37
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:36:22","AT1",339,37
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:36:30","SAFE2",340,37
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:36:31","POSSIBLE_TI",341,37
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:36:31","TI2",342,37
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:36:41","Restart",343,37
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:36:53","AT2",344,37
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:36:56","DANGER2",345,37
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:36:56","DAT2",346,37
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:37:11","AT1",347,37
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:37:11","DANGER1",348,37
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:37:11","DAT1",349,37
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:37:44","SAFE2",350,38
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:37:45","Possible Free Kick",351,38
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:37:46","F1",353,38
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:37:46","FK2",354,38
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:37:46","Ball Position",355,38
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:38:23","Restart",356,39
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:38:39","SAFE1",357,39
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:38:48","SAFE2",358,39
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:38:49","POSSIBLE_TI",359,39
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:38:50","TI2",360,39
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:39:03","Restart",361,39
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:39:18","AT2",362,40
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:39:23","SAFE1",363,40
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:39:23","Possible Free Kick",364,40
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:39:24","F2",366,40
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:39:24","FK1",367,40
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:39:24","Ball Position",368,40
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:39:59","Restart",369,40
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:40:13","AT1",370,40
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:40:16","DANGER1",371,41
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:40:16","DAT1",372,41
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:40:23","SAFE2",373,41
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:40:32","AT1",374,41
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:40:50","SAFE1",375,41
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:40:59","AT1",376,41
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:41:16","SAFE1",377,42
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:41:30","SAFE1",378,42
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:41:30","SAFE2",379,42
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:41:31","POSSIBLE_TI",380,42
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:41:32","TI2",381,42
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:41:41","Restart",382,42
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:41:48","AT2",383,42
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:42:00","SAFE1",384,42
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:42:14","POSSIBLE_TI",385,43
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:42:15","TI2",386,43
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:42:18","Injury Break",387,43
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:43:33","Restart",388,44
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:43:36","SAFE1",389,44
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:43:58","AT1",390,44
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:44:01","SAFE2",391,44
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:44:01","Possible Free Kick",392,44
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:44:04","F1",394,44
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:44:04","FK2",395,44
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:44:04","Ball Position",396,44
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:44:19","Restart",397,45
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:44:51","AT2",398,45
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:44:54","POSSIBLE_TI",399,45
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:44:55","TI2",400,45
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:45:01","Restart",401,45
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:45:20","DANGER2",402,46
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:45:20","DAT2",403,46
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:45:21","POSSIBLE_TI",404,46
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:45:22","TI1",405,46
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:45:25","Extra Time",406,46
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:45:38","Restart",407,46
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:45:50","SAFE1",408,46
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:45:53","AT1",409,46
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:45:56","DANGER1",410,46
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:45:56","DAT1",411,46
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:46:03","PCR1",412,46
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:46:13","NCR1",413,46
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:46:14","POSSIBLE_TI",414,47
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:46:16","TI1",415,47
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:46:26","Restart",416,47
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:46:47","SAFE2",417,47
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:46:47","GK2",418,47
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:47:10","Restart",419,47
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:47:23","Possible Free Kick",420,48
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:47:36","SAFE1",422,48
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:47:36","F2",423,48
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:47:36","FK1",424,48
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:47:36","Ball Position",425,48
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:47:52","AT1",426,48
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:47:52","DANGER1",427,48
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:47:52","DAT1",428,48
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:47:53","Restart",429,48
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:47:57","SAFE2",430,48
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:48:15","Stop RT1",431,48
+1125696,"Amiens SC","Toulouse FC","05/11/2019 18:48:22","CONF_PERIOD_SCORE",432,45
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:01:15","Players are coming out",433,45
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:02:10","Game about to start",434,45
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:02:37","SUB1",435,45
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:02:56","Start RT2 Team 1",436,46
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:03:00","SAFE1",437,46
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:03:21","Player_DATA_CONFIRMED",438,46
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:03:29","AT1",439,46
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:03:38","DANGER1",440,46
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:03:38","DAT1",441,46
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:03:47","SAFE2",442,46
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:03:49","AT2",443,46
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:03:54","POSSIBLE_TI",444,46
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:03:55","TI2",445,46
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:04:11","Restart",446,47
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:04:18","SAFE1",447,47
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:04:22","SAFE2",448,47
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:04:23","Possible Free Kick",449,47
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:04:27","F1",451,47
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:04:27","FK2",452,47
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:04:27","DANGER2",453,47
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:04:27","DFK2",454,47
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:04:27","Ball Position",455,47
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:04:54","Restart",456,47
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:05:09","SAFE1",457,48
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:05:09","GK1",458,48
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:05:28","Restart",459,48
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:05:42","SAFE2",460,48
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:05:43","POSSIBLE_TI",461,48
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:05:43","TI2",462,48
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:05:46","Restart",463,48
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:06:08","SAFE2",464,49
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:06:18","Possible Free Kick",465,49
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:06:19","F1",467,49
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:06:19","FK2",468,49
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:06:19","Ball Position",469,49
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:06:27","Restart",470,49
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:06:44","AT2",471,49
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:06:53","DANGER2",472,49
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:06:53","DAT2",473,49
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:07:02","SAFE1",474,50
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:07:08","SAFE2",475,50
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:08:01","AT1",476,51
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:08:01","DANGER1",477,51
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:08:01","DAT1",478,51
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:08:10","SHG1",479,51
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:08:12","SAFE2",480,51
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:08:24","AT1",481,51
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:08:24","DANGER1",482,51
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:08:24","DAT1",483,51
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:08:34","SHB1",484,51
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:08:37","SAFE2",485,51
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:08:39","GK2",486,51
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:08:51","Restart",487,51
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:09:00","SAFE1",488,52
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:09:01","POSSIBLE_TI",489,52
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:09:02","TI1",490,52
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:09:09","Restart",491,52
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:09:15","POSSIBLE_TI",492,52
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:09:15","TI1",493,52
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:09:30","Restart",494,52
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:09:33","AT1",495,52
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:09:45","DANGER1",496,52
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:09:45","DAT1",497,52
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:09:53","SAFE2",498,52
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:09:54","GK2",499,52
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:10:01","Restart",500,53
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:10:09","AT2",501,53
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:10:18","SAFE1",502,53
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:10:18","Possible Free Kick",503,53
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:10:20","F2",505,53
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:10:20","FK1",506,53
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:10:20","Ball Position",507,53
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:10:30","Restart",508,53
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:10:41","SAFE1",509,53
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:10:47","AT1",510,53
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:11:10","POSSIBLE_TI",511,54
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:11:13","TI1",512,54
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:11:14","Restart",513,54
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:11:19","DANGER1",514,54
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:11:19","DAT1",515,54
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:11:27","Possible Free Kick",516,54
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:11:28","F2",518,54
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:11:28","FK1",519,54
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:11:28","DFK1",520,54
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:11:28","Ball Position",521,54
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:11:59","Restart",522,55
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:12:18","SHB1",523,55
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:12:19","SAFE2",524,55
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:12:20","GK2",525,55
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:12:39","Restart",526,55
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:12:56","SAFE2",527,55
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:12:56","Possible Free Kick",528,56
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:13:01","O1",530,56
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:13:01","FK2",531,56
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:13:01","Ball Position",532,56
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:13:16","Restart",533,56
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:13:22","AT1",534,56
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:13:30","SAFE2",535,56
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:13:30","POSSIBLE_TI",536,56
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:13:32","TI2",537,56
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:13:44","Restart",538,56
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:13:54","Possible Free Kick",539,56
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:13:55","F1",541,56
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:13:55","FK2",542,56
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:13:55","DANGER2",543,56
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:13:55","DFK2",544,56
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:13:55","Ball Position",545,56
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:14:29","Restart",546,57
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:14:43","POSSIBLE_CARDS",547,57
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:14:53","YC1",548,57
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:14:56","CONF_YC1",549,58
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:15:04","Scorer",550,58
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:15:12","Possible Free Kick",551,58
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:15:13","F1",553,58
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:15:13","FK2",554,58
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:15:13","DFK2",555,58
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:15:13","Ball Position",556,58
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:15:15","Injury Break",557,58
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:15:25","Player_DATA_CONFIRMED",558,58
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:16:02","Restart",559,59
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:16:05","PCR2",560,59
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:16:11","CR2",561,59
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:16:18","Ball Position",562,59
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:16:35","Restart",563,59
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:16:47","SAFE2",564,59
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:17:01","AT2",565,60
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:17:16","POSSIBLE_TI",566,60
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:17:16","TI2",567,60
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:17:17","Restart",568,60
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:17:32","SAFE2",569,60
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:17:33","AT1",570,60
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:17:33","DANGER1",571,60
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:17:33","DAT1",572,60
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:17:34","BREAKAWAY1",573,60
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:17:42","SHG1",574,60
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:17:44","SAFE2",575,60
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:17:59","SAFE1",576,61
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:18:08","SAFE2",577,61
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:18:09","POSSIBLE_TI",578,61
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:18:09","TI2",579,61
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:18:10","Restart",580,61
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:18:27","SAFE1",581,61
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:18:27","POSSIBLE_TI",582,61
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:18:29","TI1",583,61
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:18:35","POSSIBLE_CARDS",584,61
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:18:38","YC2",585,61
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:18:39","CONF_YC2",586,61
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:18:55","Scorer",587,61
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:19:04","Restart",588,62
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:19:18","AT1",589,62
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:19:21","SAFE2",590,62
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:19:21","Player_DATA_CONFIRMED",591,62
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:19:41","AT1",592,62
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:19:43","DANGER1",593,62
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:19:43","DAT1",594,62
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:19:53","SHB1",595,62
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:19:53","SAFE2",596,62
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:19:54","GK2",597,62
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:20:29","SUB1",598,63
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:20:44","Restart",599,63
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:20:51","Player_DATA_CONFIRMED",600,63
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:21:08","SAFE1",601,64
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:21:09","POSSIBLE_TI",602,64
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:21:09","TI1",603,64
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:21:12","Restart",604,64
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:21:18","AT1",605,64
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:21:23","DANGER1",606,64
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:21:23","DAT1",607,64
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:21:34","SAFE2",608,64
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:21:35","Possible Free Kick",609,64
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:21:42","O1",611,64
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:21:42","FK2",612,64
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:21:42","Ball Position",613,64
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:22:15","SUB2",614,65
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:22:21","Player_DATA_CONFIRMED",615,65
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:22:23","Restart",616,65
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:22:27","AT2",617,65
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:22:29","SAFE1",618,65
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:23:02","SAFE2",619,66
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:23:03","POSSIBLE_TI",620,66
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:23:04","TI2",621,66
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:23:11","Restart",622,66
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:23:24","SAFE1",623,66
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:23:25","Possible Free Kick",624,66
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:23:25","F2",626,66
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:23:25","FK1",627,66
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:23:25","Ball Position",628,66
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:23:34","Restart",629,66
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:23:36","AT1",630,66
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:23:41","DANGER1",631,66
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:23:41","DAT1",632,66
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:23:53","SAFE1",633,66
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:24:38","AT1",634,67
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:24:47","SAFE2",635,67
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:24:53","SAFE1",636,67
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:25:09","AT1",637,68
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:25:19","DANGER1",638,68
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:25:19","DAT1",639,68
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:25:22","PCR1",640,68
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:25:38","CR1",641,68
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:25:39","Ball Position",642,68
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:25:52","Restart",643,68
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:25:58","PCR1",644,69
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:26:05","SHG1",645,69
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:26:13","CR1",646,69
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:26:14","Ball Position",647,69
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:26:38","Restart",648,69
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:26:58","SAFE2",649,70
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:27:07","AT2",650,70
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:27:14","DANGER2",651,70
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:27:14","DAT2",652,70
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:27:14","POSSIBLE_TI",653,70
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:27:15","TI2",654,70
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:27:21","Restart",655,70
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:27:34","SAFE1",656,70
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:27:35","AT1",657,70
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:27:38","DANGER1",658,70
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:27:38","DAT1",659,70
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:29:06","POSSIBLE_TI",660,72
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:29:12","TI1",661,72
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:29:18","Restart",662,72
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:29:22","SAFE2",663,72
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:29:39","SAFE1",664,72
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:29:39","POSSIBLE_TI",665,72
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:29:39","TI1",666,72
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:29:49","Restart",667,72
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:30:06","AT1",668,73
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:30:11","DANGER1",669,73
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:30:11","DAT1",670,73
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:30:21","POSSIBLE_TI",671,73
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:30:22","TI1",672,73
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:30:46","Restart",673,73
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:30:58","POSSIBLE_TI",674,74
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:31:01","TI1",675,74
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:31:02","Restart",676,74
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:31:05","SAFE1",677,74
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:31:06","AT1",678,74
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:31:16","SAFE2",679,74
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:31:43","POSSIBLE_TI",680,74
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:31:44","TI2",681,74
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:32:06","SUB2",682,75
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:32:09","Restart",683,75
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:32:18","AT2",684,75
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:32:20","Player_DATA_CONFIRMED",685,75
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:32:21","POSSIBLE_TI",686,75
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:32:23","TI1",687,75
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:32:38","Restart",688,75
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:32:39","SAFE1",689,75
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:32:56","AT1",690,75
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:33:44","DANGER1",691,76
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:33:44","DAT1",692,76
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:34:03","Referee Ball",693,77
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:34:25","Restart",694,77
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:34:25","SAFE1",695,77
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:34:41","AT1",696,77
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:34:46","SAFE2",697,77
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:34:47","AT2",698,77
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:34:55","Possible Free Kick",699,77
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:34:55","POSSIBLE_CARDS",701,77
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:35:01","YC1",702,78
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:35:01","CONF_YC1",703,78
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:35:11","Scorer",704,78
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:35:21","Player_DATA_CONFIRMED",705,78
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:35:45","F1",706,78
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:35:45","FK2",707,78
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:35:45","DANGER2",708,78
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:35:45","DFK2",709,78
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:35:45","Ball Position",710,78
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:35:47","Restart",711,78
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:36:07","PCR2",712,79
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:36:21","CR2",713,79
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:36:23","Ball Position",714,79
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:36:37","Restart",715,79
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:36:46","SHG2",716,79
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:36:46","SAFE1",717,79
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:36:57","AT1",718,80
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:37:00","DANGER1",719,80
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:37:00","DAT1",720,80
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:37:36","SAFE2",721,80
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:37:37","GK2",722,80
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:38:14","SUB1",723,81
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:38:16","Restart",724,81
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:38:20","Player_DATA_CONFIRMED",725,81
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:38:24","SAFE1",726,81
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:38:26","AT1",727,81
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:38:27","DANGER1",728,81
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:38:27","DAT1",729,81
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:38:36","SHB1",730,81
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:38:37","SAFE2",731,81
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:38:38","GK2",732,81
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:38:59","Restart",733,82
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:39:04","AT2",734,82
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:39:12","DANGER2",735,82
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:39:12","DAT2",736,82
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:39:25","SAFE2",737,82
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:39:33","Possible Free Kick",738,82
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:39:35","F2",740,82
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:39:35","FK1",741,82
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:39:35","DANGER1",742,82
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:39:35","DFK1",743,82
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:39:35","Ball Position",744,82
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:39:38","POSSIBLE_CARDS",745,82
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:39:46","YC2",746,82
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:39:47","CONF_YC2",747,82
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:40:00","Scorer",748,83
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:40:14","Restart",749,83
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:40:23","Player_DATA_CONFIRMED",750,83
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:40:39","SAFE1",751,83
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:40:57","AT1",752,84
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:41:06","DANGER1",753,84
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:41:06","DAT1",754,84
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:41:12","SAFE2",755,84
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:41:13","GK2",756,84
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:41:45","Restart",757,84
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:41:51","AT1",758,84
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:41:58","SAFE2",759,85
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:42:05","POSSIBLE_TI",760,85
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:42:07","TI2",761,85
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:42:12","Restart",762,85
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:42:20","AT1",763,85
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:42:20","DANGER1",764,85
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:42:20","DAT1",765,85
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:42:21","BREAKAWAY1",766,85
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:42:31","SAFE2",767,85
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:42:32","GK2",768,85
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:42:56","Restart",769,85
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:43:03","AT1",770,86
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:43:09","DANGER1",771,86
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:43:09","DAT1",772,86
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:43:18","POSSIBLE_TI",773,86
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:43:18","TI1",774,86
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:43:36","Restart",775,86
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:43:54","SHG1",776,86
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:44:18","SAFE2",777,87
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:44:19","SAFE1",778,87
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:44:20","POSSIBLE_TI",779,87
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:44:20","TI1",780,87
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:44:23","Restart",781,87
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:44:32","Possible Free Kick",782,87
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:44:33","SAFE2",784,87
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:44:33","F1",785,87
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:44:33","FK2",786,87
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:44:33","Ball Position",787,87
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:45:05","AT2",788,88
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:45:05","DANGER2",789,88
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:45:05","DAT2",790,88
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:45:08","Restart",791,88
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:45:26","SAFE1",792,88
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:45:34","AT1",793,88
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:45:39","DANGER1",794,88
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:45:39","DAT1",795,88
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:45:48","PCR1",796,88
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:45:59","CR1",797,89
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:46:00","Ball Position",798,89
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:46:12","Restart",799,89
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:46:20","SAFE1",800,89
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:46:29","SAFE2",801,89
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:46:30","POSSIBLE_TI",802,89
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:46:31","TI2",803,89
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:46:54","Restart",804,89
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:46:59","SAFE1",805,90
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:46:59","POSSIBLE_TI",806,90
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:47:03","TI1",807,90
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:47:05","Restart",808,90
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:47:12","Possible Free Kick",809,90
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:47:13","F2",811,90
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:47:13","FK1",812,90
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:47:13","DANGER1",813,90
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:47:13","DFK1",814,90
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:47:13","Ball Position",815,90
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:47:31","Restart",816,90
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:47:53","Extra Time",817,90
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:47:57","SAFE1",818,91
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:48:01","AT1",819,91
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:48:08","SAFE2",820,91
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:48:13","AT2",821,91
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:48:16","DANGER2",822,91
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:48:16","DAT2",823,91
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:48:20","PCR2",824,91
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:48:38","CR2",825,91
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:48:39","Ball Position",826,91
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:48:50","Restart",827,91
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:48:56","SAFE1",828,92
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:48:57","Possible Free Kick",829,92
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:49:00","F2",831,92
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:49:00","FK1",832,92
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:49:00","Ball Position",833,92
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:49:16","Restart",834,92
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:49:17","AT1",835,92
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:49:27","SAFE2",836,92
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:49:35","Possible Free Kick",837,92
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:49:36","F1",839,92
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:49:36","FK2",840,92
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:49:36","DANGER2",841,92
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:49:36","DFK2",842,92
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:49:36","Ball Position",843,92
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:50:08","Restart",844,93
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:50:20","SAFE1",845,93
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:50:24","AT1",846,93
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:50:26","DANGER1",847,93
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:50:26","DAT1",848,93
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:50:29","SAFE2",849,93
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:50:40","AT1",850,93
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:50:43","DANGER1",851,93
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:50:43","DAT1",852,93
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:50:48","SAFE2",853,93
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:51:04","Stop RT2",854,93
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:51:04","Stop Game",855,93
+1125696,"Amiens SC","Toulouse FC","05/11/2019 19:51:09","CONF_PERIOD_SCORE",856,93

@@ -1,0 +1,990 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+851337,"Manchester City FC","Everton FC","08/21/2017 18:02:45","Lineup changed",0,0
+851337,"Manchester City FC","Everton FC","08/21/2017 18:17:34","Scout in Stadion",1,0
+851337,"Manchester City FC","Everton FC","08/21/2017 18:17:38","Transmission Online",2,0
+851337,"Manchester City FC","Everton FC","08/21/2017 18:18:38","Jersey Changed",3,0
+851337,"Manchester City FC","Everton FC","08/21/2017 18:18:38","Jersey Changed",4,0
+851337,"Manchester City FC","Everton FC","08/21/2017 18:18:57","GCC",5,0
+851337,"Manchester City FC","Everton FC","08/21/2017 18:56:24","Players are coming out",6,0
+851337,"Manchester City FC","Everton FC","08/21/2017 18:56:55","Players lined up",7,0
+851337,"Manchester City FC","Everton FC","08/21/2017 18:57:12","System Message",8,0
+851337,"Manchester City FC","Everton FC","08/21/2017 18:57:14","Shake hands",9,0
+851337,"Manchester City FC","Everton FC","08/21/2017 18:58:26","Photo taking",10,0
+851337,"Manchester City FC","Everton FC","08/21/2017 18:59:24","Flip coin",11,0
+851337,"Manchester City FC","Everton FC","08/21/2017 18:59:55","Game about to start",12,0
+851337,"Manchester City FC","Everton FC","08/21/2017 19:00:20","Start RT1 Team 1",13,1
+851337,"Manchester City FC","Everton FC","08/21/2017 19:00:22","System Message",14,1
+851337,"Manchester City FC","Everton FC","08/21/2017 19:00:28","Jersey Changed",15,1
+851337,"Manchester City FC","Everton FC","08/21/2017 19:00:29","AT1",16,1
+851337,"Manchester City FC","Everton FC","08/21/2017 19:00:29","DANGER1",17,1
+851337,"Manchester City FC","Everton FC","08/21/2017 19:00:29","DAT1",18,1
+851337,"Manchester City FC","Everton FC","08/21/2017 19:00:35","SAFE2",19,1
+851337,"Manchester City FC","Everton FC","08/21/2017 19:00:36","GK2",20,1
+851337,"Manchester City FC","Everton FC","08/21/2017 19:00:56","Restart",21,1
+851337,"Manchester City FC","Everton FC","08/21/2017 19:01:00","Danger",22,1
+851337,"Manchester City FC","Everton FC","08/21/2017 19:01:00","Scout offline",23,1
+851337,"Manchester City FC","Everton FC","08/21/2017 19:01:04","Transmission Online",24,1
+851337,"Manchester City FC","Everton FC","08/21/2017 19:01:04","SAFE2",25,1
+851337,"Manchester City FC","Everton FC","08/21/2017 19:01:08","AT1",26,1
+851337,"Manchester City FC","Everton FC","08/21/2017 19:01:12","SAFE2",27,1
+851337,"Manchester City FC","Everton FC","08/21/2017 19:01:14","POSSIBLE_TI",28,1
+851337,"Manchester City FC","Everton FC","08/21/2017 19:01:15","TI2",29,1
+851337,"Manchester City FC","Everton FC","08/21/2017 19:01:23","Restart",30,2
+851337,"Manchester City FC","Everton FC","08/21/2017 19:01:28","AT1",31,2
+851337,"Manchester City FC","Everton FC","08/21/2017 19:01:30","DANGER1",32,2
+851337,"Manchester City FC","Everton FC","08/21/2017 19:01:30","DAT1",33,2
+851337,"Manchester City FC","Everton FC","08/21/2017 19:01:49","SHG1",34,2
+851337,"Manchester City FC","Everton FC","08/21/2017 19:01:52","SAFE2",35,2
+851337,"Manchester City FC","Everton FC","08/21/2017 19:02:08","AT2",36,2
+851337,"Manchester City FC","Everton FC","08/21/2017 19:02:09","DANGER2",37,2
+851337,"Manchester City FC","Everton FC","08/21/2017 19:02:09","DAT2",38,2
+851337,"Manchester City FC","Everton FC","08/21/2017 19:02:15","POSSIBLE_TI",39,2
+851337,"Manchester City FC","Everton FC","08/21/2017 19:02:16","TI1",40,2
+851337,"Manchester City FC","Everton FC","08/21/2017 19:02:29","Restart",41,3
+851337,"Manchester City FC","Everton FC","08/21/2017 19:02:36","SAFE1",42,3
+851337,"Manchester City FC","Everton FC","08/21/2017 19:02:37","POSSIBLE_TI",43,3
+851337,"Manchester City FC","Everton FC","08/21/2017 19:02:37","TI1",44,3
+851337,"Manchester City FC","Everton FC","08/21/2017 19:02:42","Restart",45,3
+851337,"Manchester City FC","Everton FC","08/21/2017 19:03:07","AT1",46,3
+851337,"Manchester City FC","Everton FC","08/21/2017 19:03:20","SAFE2",47,4
+851337,"Manchester City FC","Everton FC","08/21/2017 19:03:21","AT2",48,4
+851337,"Manchester City FC","Everton FC","08/21/2017 19:03:22","DANGER2",49,4
+851337,"Manchester City FC","Everton FC","08/21/2017 19:03:22","DAT2",50,4
+851337,"Manchester City FC","Everton FC","08/21/2017 19:03:25","SHB2",51,4
+851337,"Manchester City FC","Everton FC","08/21/2017 19:03:26","SAFE1",52,4
+851337,"Manchester City FC","Everton FC","08/21/2017 19:03:27","GK1",53,4
+851337,"Manchester City FC","Everton FC","08/21/2017 19:03:38","Restart",54,4
+851337,"Manchester City FC","Everton FC","08/21/2017 19:03:58","AT1",55,4
+851337,"Manchester City FC","Everton FC","08/21/2017 19:04:18","SAFE2",56,4
+851337,"Manchester City FC","Everton FC","08/21/2017 19:04:19","POSSIBLE_TI",57,4
+851337,"Manchester City FC","Everton FC","08/21/2017 19:04:20","TI2",58,5
+851337,"Manchester City FC","Everton FC","08/21/2017 19:04:33","Restart",59,5
+851337,"Manchester City FC","Everton FC","08/21/2017 19:04:34","AT1",60,5
+851337,"Manchester City FC","Everton FC","08/21/2017 19:04:49","DANGER1",61,5
+851337,"Manchester City FC","Everton FC","08/21/2017 19:04:49","DAT1",62,5
+851337,"Manchester City FC","Everton FC","08/21/2017 19:05:02","Possible Free Kick",63,5
+851337,"Manchester City FC","Everton FC","08/21/2017 19:05:09","F2",65,5
+851337,"Manchester City FC","Everton FC","08/21/2017 19:05:09","FK1",66,5
+851337,"Manchester City FC","Everton FC","08/21/2017 19:05:09","DFK1",67,5
+851337,"Manchester City FC","Everton FC","08/21/2017 19:05:09","Ball Position",68,5
+851337,"Manchester City FC","Everton FC","08/21/2017 19:05:32","POSSIBLE_CARDS",69,6
+851337,"Manchester City FC","Everton FC","08/21/2017 19:05:38","NO_Cards",70,6
+851337,"Manchester City FC","Everton FC","08/21/2017 19:05:51","Restart",71,6
+851337,"Manchester City FC","Everton FC","08/21/2017 19:05:56","SHG1",72,6
+851337,"Manchester City FC","Everton FC","08/21/2017 19:05:56","SAFE2",73,6
+851337,"Manchester City FC","Everton FC","08/21/2017 19:06:04","Danger",74,6
+851337,"Manchester City FC","Everton FC","08/21/2017 19:06:04","Scout offline",75,6
+851337,"Manchester City FC","Everton FC","08/21/2017 19:06:06","Transmission Online",76,6
+851337,"Manchester City FC","Everton FC","08/21/2017 19:06:06","SAFE2",77,6
+851337,"Manchester City FC","Everton FC","08/21/2017 19:06:24","AT2",78,7
+851337,"Manchester City FC","Everton FC","08/21/2017 19:06:24","DANGER2",79,7
+851337,"Manchester City FC","Everton FC","08/21/2017 19:06:24","DAT2",80,7
+851337,"Manchester City FC","Everton FC","08/21/2017 19:06:27","POSSIBLE_TI",81,7
+851337,"Manchester City FC","Everton FC","08/21/2017 19:06:27","TI2",82,7
+851337,"Manchester City FC","Everton FC","08/21/2017 19:06:33","Restart",83,7
+851337,"Manchester City FC","Everton FC","08/21/2017 19:06:39","SAFE1",84,7
+851337,"Manchester City FC","Everton FC","08/21/2017 19:06:42","AT1",85,7
+851337,"Manchester City FC","Everton FC","08/21/2017 19:06:54","Possible Free Kick",86,7
+851337,"Manchester City FC","Everton FC","08/21/2017 19:07:03","POSSIBLE_CARDS",88,7
+851337,"Manchester City FC","Everton FC","08/21/2017 19:07:06","YC2",89,7
+851337,"Manchester City FC","Everton FC","08/21/2017 19:07:26","CONF_YC2",90,8
+851337,"Manchester City FC","Everton FC","08/21/2017 19:07:27","Scorer",91,8
+851337,"Manchester City FC","Everton FC","08/21/2017 19:07:44","No Free Kick",92,8
+851337,"Manchester City FC","Everton FC","08/21/2017 19:07:46","Referee Ball",93,8
+851337,"Manchester City FC","Everton FC","08/21/2017 19:07:48","Restart",94,8
+851337,"Manchester City FC","Everton FC","08/21/2017 19:07:50","SAFE2",95,8
+851337,"Manchester City FC","Everton FC","08/21/2017 19:07:51","AT2",96,8
+851337,"Manchester City FC","Everton FC","08/21/2017 19:07:52","SAFE1",97,8
+851337,"Manchester City FC","Everton FC","08/21/2017 19:07:53","POSSIBLE_TI",98,8
+851337,"Manchester City FC","Everton FC","08/21/2017 19:07:54","TI1",99,8
+851337,"Manchester City FC","Everton FC","08/21/2017 19:07:56","Player_DATA_CONFIRMED",100,8
+851337,"Manchester City FC","Everton FC","08/21/2017 19:08:01","Restart",101,8
+851337,"Manchester City FC","Everton FC","08/21/2017 19:08:16","AT1",102,8
+851337,"Manchester City FC","Everton FC","08/21/2017 19:08:19","DANGER1",103,8
+851337,"Manchester City FC","Everton FC","08/21/2017 19:08:19","DAT1",104,8
+851337,"Manchester City FC","Everton FC","08/21/2017 19:08:29","PCR1",105,9
+851337,"Manchester City FC","Everton FC","08/21/2017 19:08:44","CR1",106,9
+851337,"Manchester City FC","Everton FC","08/21/2017 19:08:46","Ball Position",107,9
+851337,"Manchester City FC","Everton FC","08/21/2017 19:08:49","Restart",108,9
+851337,"Manchester City FC","Everton FC","08/21/2017 19:08:57","SHB1",109,9
+851337,"Manchester City FC","Everton FC","08/21/2017 19:08:57","SAFE2",110,9
+851337,"Manchester City FC","Everton FC","08/21/2017 19:08:58","GK2",111,9
+851337,"Manchester City FC","Everton FC","08/21/2017 19:09:18","Start score update",112,9
+851337,"Manchester City FC","Everton FC","08/21/2017 19:09:18","Statistic confirmation",113,9
+851337,"Manchester City FC","Everton FC","08/21/2017 19:09:19","Score update finished",114,9
+851337,"Manchester City FC","Everton FC","08/21/2017 19:09:19","Restart",115,9
+851337,"Manchester City FC","Everton FC","08/21/2017 19:09:41","AT2",116,10
+851337,"Manchester City FC","Everton FC","08/21/2017 19:09:42","POSSIBLE_TI",117,10
+851337,"Manchester City FC","Everton FC","08/21/2017 19:09:43","TI2",118,10
+851337,"Manchester City FC","Everton FC","08/21/2017 19:09:57","Restart",119,10
+851337,"Manchester City FC","Everton FC","08/21/2017 19:10:01","Possible Free Kick",120,10
+851337,"Manchester City FC","Everton FC","08/21/2017 19:10:04","SAFE1",122,10
+851337,"Manchester City FC","Everton FC","08/21/2017 19:10:04","O2",123,10
+851337,"Manchester City FC","Everton FC","08/21/2017 19:10:04","FK1",124,10
+851337,"Manchester City FC","Everton FC","08/21/2017 19:10:04","Ball Position",125,10
+851337,"Manchester City FC","Everton FC","08/21/2017 19:10:13","Danger",126,10
+851337,"Manchester City FC","Everton FC","08/21/2017 19:10:14","Scout offline",127,10
+851337,"Manchester City FC","Everton FC","08/21/2017 19:10:16","Transmission Online",128,10
+851337,"Manchester City FC","Everton FC","08/21/2017 19:10:16","Restart",129,10
+851337,"Manchester City FC","Everton FC","08/21/2017 19:10:17","AT1",130,10
+851337,"Manchester City FC","Everton FC","08/21/2017 19:10:19","DANGER1",131,10
+851337,"Manchester City FC","Everton FC","08/21/2017 19:10:19","DAT1",132,10
+851337,"Manchester City FC","Everton FC","08/21/2017 19:10:31","POSSIBLE_TI",133,11
+851337,"Manchester City FC","Everton FC","08/21/2017 19:10:32","TI1",134,11
+851337,"Manchester City FC","Everton FC","08/21/2017 19:10:34","Start score update",135,11
+851337,"Manchester City FC","Everton FC","08/21/2017 19:10:34","Statistic confirmation",136,11
+851337,"Manchester City FC","Everton FC","08/21/2017 19:10:35","Score update finished",137,11
+851337,"Manchester City FC","Everton FC","08/21/2017 19:10:50","Restart",138,11
+851337,"Manchester City FC","Everton FC","08/21/2017 19:10:51","SAFE1",139,11
+851337,"Manchester City FC","Everton FC","08/21/2017 19:10:53","AT1",140,11
+851337,"Manchester City FC","Everton FC","08/21/2017 19:10:55","DANGER1",141,11
+851337,"Manchester City FC","Everton FC","08/21/2017 19:10:55","DAT1",142,11
+851337,"Manchester City FC","Everton FC","08/21/2017 19:11:08","System Message",143,11
+851337,"Manchester City FC","Everton FC","08/21/2017 19:11:14","PCR1",144,11
+851337,"Manchester City FC","Everton FC","08/21/2017 19:11:17","CR1",145,11
+851337,"Manchester City FC","Everton FC","08/21/2017 19:11:19","SHB1",146,11
+851337,"Manchester City FC","Everton FC","08/21/2017 19:11:23","Ball Position",147,12
+851337,"Manchester City FC","Everton FC","08/21/2017 19:11:43","Restart",148,12
+851337,"Manchester City FC","Everton FC","08/21/2017 19:11:53","SHB1",149,12
+851337,"Manchester City FC","Everton FC","08/21/2017 19:11:53","SAFE2",150,12
+851337,"Manchester City FC","Everton FC","08/21/2017 19:11:53","GK2",151,12
+851337,"Manchester City FC","Everton FC","08/21/2017 19:12:15","Restart",152,12
+851337,"Manchester City FC","Everton FC","08/21/2017 19:12:18","AT2",153,12
+851337,"Manchester City FC","Everton FC","08/21/2017 19:12:30","AT1",154,13
+851337,"Manchester City FC","Everton FC","08/21/2017 19:12:30","DANGER1",155,13
+851337,"Manchester City FC","Everton FC","08/21/2017 19:12:30","DAT1",156,13
+851337,"Manchester City FC","Everton FC","08/21/2017 19:12:38","POSSIBLE_TI",157,13
+851337,"Manchester City FC","Everton FC","08/21/2017 19:12:42","TI1",158,13
+851337,"Manchester City FC","Everton FC","08/21/2017 19:12:51","Restart",159,13
+851337,"Manchester City FC","Everton FC","08/21/2017 19:13:31","SAFE2",160,14
+851337,"Manchester City FC","Everton FC","08/21/2017 19:13:31","AT2",161,14
+851337,"Manchester City FC","Everton FC","08/21/2017 19:13:43","DANGER2",162,14
+851337,"Manchester City FC","Everton FC","08/21/2017 19:13:43","DAT2",163,14
+851337,"Manchester City FC","Everton FC","08/21/2017 19:13:50","POSSIBLE_TI",164,14
+851337,"Manchester City FC","Everton FC","08/21/2017 19:13:51","TI2",165,14
+851337,"Manchester City FC","Everton FC","08/21/2017 19:14:07","Restart",166,14
+851337,"Manchester City FC","Everton FC","08/21/2017 19:14:21","POSSIBLE_TI",167,15
+851337,"Manchester City FC","Everton FC","08/21/2017 19:14:22","TI2",168,15
+851337,"Manchester City FC","Everton FC","08/21/2017 19:14:32","Restart",169,15
+851337,"Manchester City FC","Everton FC","08/21/2017 19:14:37","SAFE2",170,15
+851337,"Manchester City FC","Everton FC","08/21/2017 19:14:46","AT1",171,15
+851337,"Manchester City FC","Everton FC","08/21/2017 19:14:54","DANGER1",172,15
+851337,"Manchester City FC","Everton FC","08/21/2017 19:14:54","DAT1",173,15
+851337,"Manchester City FC","Everton FC","08/21/2017 19:14:58","POSSIBLE_TI",174,15
+851337,"Manchester City FC","Everton FC","08/21/2017 19:14:59","TI1",175,15
+851337,"Manchester City FC","Everton FC","08/21/2017 19:15:04","Restart",176,15
+851337,"Manchester City FC","Everton FC","08/21/2017 19:15:21","SAFE1",177,16
+851337,"Manchester City FC","Everton FC","08/21/2017 19:15:23","AT1",178,16
+851337,"Manchester City FC","Everton FC","08/21/2017 19:15:32","DANGER1",179,16
+851337,"Manchester City FC","Everton FC","08/21/2017 19:15:32","DAT1",180,16
+851337,"Manchester City FC","Everton FC","08/21/2017 19:15:38","SHG1",181,16
+851337,"Manchester City FC","Everton FC","08/21/2017 19:15:39","SAFE2",182,16
+851337,"Manchester City FC","Everton FC","08/21/2017 19:15:43","AT2",183,16
+851337,"Manchester City FC","Everton FC","08/21/2017 19:15:43","DANGER2",184,16
+851337,"Manchester City FC","Everton FC","08/21/2017 19:15:43","DAT2",185,16
+851337,"Manchester City FC","Everton FC","08/21/2017 19:15:53","SHB2",186,16
+851337,"Manchester City FC","Everton FC","08/21/2017 19:15:55","SAFE1",187,16
+851337,"Manchester City FC","Everton FC","08/21/2017 19:15:56","GK1",188,16
+851337,"Manchester City FC","Everton FC","08/21/2017 19:15:59","Restart",189,16
+851337,"Manchester City FC","Everton FC","08/21/2017 19:16:15","AT1",190,16
+851337,"Manchester City FC","Everton FC","08/21/2017 19:16:19","SAFE2",191,16
+851337,"Manchester City FC","Everton FC","08/21/2017 19:16:32","SAFE1",192,17
+851337,"Manchester City FC","Everton FC","08/21/2017 19:16:32","POSSIBLE_TI",193,17
+851337,"Manchester City FC","Everton FC","08/21/2017 19:16:33","TI1",194,17
+851337,"Manchester City FC","Everton FC","08/21/2017 19:16:35","Restart",195,17
+851337,"Manchester City FC","Everton FC","08/21/2017 19:16:47","AT1",196,17
+851337,"Manchester City FC","Everton FC","08/21/2017 19:16:49","DANGER1",197,17
+851337,"Manchester City FC","Everton FC","08/21/2017 19:16:49","DAT1",198,17
+851337,"Manchester City FC","Everton FC","08/21/2017 19:16:53","SAFE2",199,17
+851337,"Manchester City FC","Everton FC","08/21/2017 19:16:53","GK2",200,17
+851337,"Manchester City FC","Everton FC","08/21/2017 19:17:16","Restart",201,17
+851337,"Manchester City FC","Everton FC","08/21/2017 19:17:19","AT2",202,17
+851337,"Manchester City FC","Everton FC","08/21/2017 19:17:25","SAFE2",203,18
+851337,"Manchester City FC","Everton FC","08/21/2017 19:17:26","POSSIBLE_TI",204,18
+851337,"Manchester City FC","Everton FC","08/21/2017 19:17:27","TI2",205,18
+851337,"Manchester City FC","Everton FC","08/21/2017 19:17:44","Restart",206,18
+851337,"Manchester City FC","Everton FC","08/21/2017 19:17:44","AT2",207,18
+851337,"Manchester City FC","Everton FC","08/21/2017 19:17:54","SAFE1",208,18
+851337,"Manchester City FC","Everton FC","08/21/2017 19:17:54","AT1",209,18
+851337,"Manchester City FC","Everton FC","08/21/2017 19:17:57","SAFE2",210,18
+851337,"Manchester City FC","Everton FC","08/21/2017 19:17:58","AT2",211,18
+851337,"Manchester City FC","Everton FC","08/21/2017 19:18:00","DANGER2",212,18
+851337,"Manchester City FC","Everton FC","08/21/2017 19:18:00","DAT2",213,18
+851337,"Manchester City FC","Everton FC","08/21/2017 19:18:14","PCR2",214,18
+851337,"Manchester City FC","Everton FC","08/21/2017 19:18:17","CR2",215,18
+851337,"Manchester City FC","Everton FC","08/21/2017 19:18:33","Ball Position",216,19
+851337,"Manchester City FC","Everton FC","08/21/2017 19:18:50","Restart",217,19
+851337,"Manchester City FC","Everton FC","08/21/2017 19:18:57","SAFE1",218,19
+851337,"Manchester City FC","Everton FC","08/21/2017 19:19:03","SAFE2",219,19
+851337,"Manchester City FC","Everton FC","08/21/2017 19:19:06","AT2",220,19
+851337,"Manchester City FC","Everton FC","08/21/2017 19:19:11","SAFE1",221,19
+851337,"Manchester City FC","Everton FC","08/21/2017 19:19:23","AT1",222,20
+851337,"Manchester City FC","Everton FC","08/21/2017 19:19:39","DANGER1",223,20
+851337,"Manchester City FC","Everton FC","08/21/2017 19:19:39","DAT1",224,20
+851337,"Manchester City FC","Everton FC","08/21/2017 19:19:47","SAFE2",225,20
+851337,"Manchester City FC","Everton FC","08/21/2017 19:20:07","AT2",226,20
+851337,"Manchester City FC","Everton FC","08/21/2017 19:20:15","SAFE1",227,20
+851337,"Manchester City FC","Everton FC","08/21/2017 19:20:15","AT1",228,20
+851337,"Manchester City FC","Everton FC","08/21/2017 19:20:16","SAFE1",229,20
+851337,"Manchester City FC","Everton FC","08/21/2017 19:20:20","AT1",230,21
+851337,"Manchester City FC","Everton FC","08/21/2017 19:20:22","DANGER1",231,21
+851337,"Manchester City FC","Everton FC","08/21/2017 19:20:22","DAT1",232,21
+851337,"Manchester City FC","Everton FC","08/21/2017 19:20:32","SAFE1",233,21
+851337,"Manchester City FC","Everton FC","08/21/2017 19:20:43","AT1",234,21
+851337,"Manchester City FC","Everton FC","08/21/2017 19:21:09","SAFE2",235,21
+851337,"Manchester City FC","Everton FC","08/21/2017 19:21:16","AT2",236,21
+851337,"Manchester City FC","Everton FC","08/21/2017 19:21:18","DANGER2",237,21
+851337,"Manchester City FC","Everton FC","08/21/2017 19:21:18","DAT2",238,21
+851337,"Manchester City FC","Everton FC","08/21/2017 19:21:43","SAFE2",239,22
+851337,"Manchester City FC","Everton FC","08/21/2017 19:21:56","AT2",240,22
+851337,"Manchester City FC","Everton FC","08/21/2017 19:21:59","SAFE1",241,22
+851337,"Manchester City FC","Everton FC","08/21/2017 19:22:01","AT1",242,22
+851337,"Manchester City FC","Everton FC","08/21/2017 19:22:07","DANGER1",243,22
+851337,"Manchester City FC","Everton FC","08/21/2017 19:22:07","DAT1",244,22
+851337,"Manchester City FC","Everton FC","08/21/2017 19:22:15","Possible Free Kick",245,22
+851337,"Manchester City FC","Everton FC","08/21/2017 19:22:24","SAFE2",247,23
+851337,"Manchester City FC","Everton FC","08/21/2017 19:22:24","F1",248,23
+851337,"Manchester City FC","Everton FC","08/21/2017 19:22:24","FK2",249,23
+851337,"Manchester City FC","Everton FC","08/21/2017 19:22:24","Ball Position",250,23
+851337,"Manchester City FC","Everton FC","08/21/2017 19:22:46","Restart",251,23
+851337,"Manchester City FC","Everton FC","08/21/2017 19:22:47","AT2",252,23
+851337,"Manchester City FC","Everton FC","08/21/2017 19:22:53","POSSIBLE_TI",253,23
+851337,"Manchester City FC","Everton FC","08/21/2017 19:22:53","TI2",254,23
+851337,"Manchester City FC","Everton FC","08/21/2017 19:23:05","Restart",255,23
+851337,"Manchester City FC","Everton FC","08/21/2017 19:23:11","SAFE2",256,23
+851337,"Manchester City FC","Everton FC","08/21/2017 19:23:12","AT2",257,23
+851337,"Manchester City FC","Everton FC","08/21/2017 19:23:14","DANGER2",258,23
+851337,"Manchester City FC","Everton FC","08/21/2017 19:23:14","DAT2",259,23
+851337,"Manchester City FC","Everton FC","08/21/2017 19:23:19","SAFE1",260,23
+851337,"Manchester City FC","Everton FC","08/21/2017 19:23:21","AT1",261,24
+851337,"Manchester City FC","Everton FC","08/21/2017 19:23:26","DANGER1",262,24
+851337,"Manchester City FC","Everton FC","08/21/2017 19:23:26","DAT1",263,24
+851337,"Manchester City FC","Everton FC","08/21/2017 19:23:37","AT2",264,24
+851337,"Manchester City FC","Everton FC","08/21/2017 19:23:37","DANGER2",265,24
+851337,"Manchester City FC","Everton FC","08/21/2017 19:23:37","DAT2",266,24
+851337,"Manchester City FC","Everton FC","08/21/2017 19:23:52","Possible Free Kick",267,24
+851337,"Manchester City FC","Everton FC","08/21/2017 19:23:55","POSSIBLE_CARDS",269,24
+851337,"Manchester City FC","Everton FC","08/21/2017 19:24:01","YC2",270,24
+851337,"Manchester City FC","Everton FC","08/21/2017 19:24:02","CONF_YC2",271,24
+851337,"Manchester City FC","Everton FC","08/21/2017 19:24:13","Scorer",272,24
+851337,"Manchester City FC","Everton FC","08/21/2017 19:24:18","SAFE1",273,24
+851337,"Manchester City FC","Everton FC","08/21/2017 19:24:18","FK1",274,24
+851337,"Manchester City FC","Everton FC","08/21/2017 19:24:18","Ball Position",275,24
+851337,"Manchester City FC","Everton FC","08/21/2017 19:24:24","Scorer",276,25
+851337,"Manchester City FC","Everton FC","08/21/2017 19:24:24","Player_DATA_CONFIRMED",277,25
+851337,"Manchester City FC","Everton FC","08/21/2017 19:24:33","Restart",278,25
+851337,"Manchester City FC","Everton FC","08/21/2017 19:24:40","AT1",279,25
+851337,"Manchester City FC","Everton FC","08/21/2017 19:24:40","DANGER1",280,25
+851337,"Manchester City FC","Everton FC","08/21/2017 19:24:40","DAT1",281,25
+851337,"Manchester City FC","Everton FC","08/21/2017 19:24:56","Possible Free Kick",282,25
+851337,"Manchester City FC","Everton FC","08/21/2017 19:24:59","SAFE1",284,25
+851337,"Manchester City FC","Everton FC","08/21/2017 19:24:59","O2",285,25
+851337,"Manchester City FC","Everton FC","08/21/2017 19:24:59","FK1",286,25
+851337,"Manchester City FC","Everton FC","08/21/2017 19:24:59","Ball Position",287,25
+851337,"Manchester City FC","Everton FC","08/21/2017 19:25:01","Restart",288,25
+851337,"Manchester City FC","Everton FC","08/21/2017 19:25:10","AT1",289,25
+851337,"Manchester City FC","Everton FC","08/21/2017 19:25:16","DANGER1",290,25
+851337,"Manchester City FC","Everton FC","08/21/2017 19:25:16","DAT1",291,25
+851337,"Manchester City FC","Everton FC","08/21/2017 19:25:54","PCR1",292,26
+851337,"Manchester City FC","Everton FC","08/21/2017 19:25:57","CR1",293,26
+851337,"Manchester City FC","Everton FC","08/21/2017 19:26:00","SHG1",294,26
+851337,"Manchester City FC","Everton FC","08/21/2017 19:26:03","SHG1",295,26
+851337,"Manchester City FC","Everton FC","08/21/2017 19:26:05","Ball Position",296,26
+851337,"Manchester City FC","Everton FC","08/21/2017 19:26:20","Restart",297,27
+851337,"Manchester City FC","Everton FC","08/21/2017 19:26:23","SHB1",298,27
+851337,"Manchester City FC","Everton FC","08/21/2017 19:26:25","SAFE2",299,27
+851337,"Manchester City FC","Everton FC","08/21/2017 19:26:26","GK2",300,27
+851337,"Manchester City FC","Everton FC","08/21/2017 19:26:47","Restart",301,27
+851337,"Manchester City FC","Everton FC","08/21/2017 19:26:48","AT2",302,27
+851337,"Manchester City FC","Everton FC","08/21/2017 19:26:53","POSSIBLE_TI",303,27
+851337,"Manchester City FC","Everton FC","08/21/2017 19:26:53","TI2",304,27
+851337,"Manchester City FC","Everton FC","08/21/2017 19:27:04","Restart",305,27
+851337,"Manchester City FC","Everton FC","08/21/2017 19:27:05","DANGER2",306,27
+851337,"Manchester City FC","Everton FC","08/21/2017 19:27:05","DAT2",307,27
+851337,"Manchester City FC","Everton FC","08/21/2017 19:27:09","SAFE1",308,27
+851337,"Manchester City FC","Everton FC","08/21/2017 19:27:10","AT1",309,27
+851337,"Manchester City FC","Everton FC","08/21/2017 19:27:19","SAFE2",310,27
+851337,"Manchester City FC","Everton FC","08/21/2017 19:27:33","AT2",311,28
+851337,"Manchester City FC","Everton FC","08/21/2017 19:27:47","SAFE2",312,28
+851337,"Manchester City FC","Everton FC","08/21/2017 19:27:55","AT2",313,28
+851337,"Manchester City FC","Everton FC","08/21/2017 19:27:55","DANGER2",314,28
+851337,"Manchester City FC","Everton FC","08/21/2017 19:27:55","DAT2",315,28
+851337,"Manchester City FC","Everton FC","08/21/2017 19:28:21","POSSIBLE_TI",316,29
+851337,"Manchester City FC","Everton FC","08/21/2017 19:28:22","TI2",317,29
+851337,"Manchester City FC","Everton FC","08/21/2017 19:28:30","Restart",318,29
+851337,"Manchester City FC","Everton FC","08/21/2017 19:28:42","SAFE1",319,29
+851337,"Manchester City FC","Everton FC","08/21/2017 19:28:43","AT1",320,29
+851337,"Manchester City FC","Everton FC","08/21/2017 19:28:45","DANGER1",321,29
+851337,"Manchester City FC","Everton FC","08/21/2017 19:28:45","DAT1",322,29
+851337,"Manchester City FC","Everton FC","08/21/2017 19:29:00","SAFE2",323,29
+851337,"Manchester City FC","Everton FC","08/21/2017 19:29:07","POSSIBLE_TI",324,29
+851337,"Manchester City FC","Everton FC","08/21/2017 19:29:07","TI2",325,29
+851337,"Manchester City FC","Everton FC","08/21/2017 19:29:12","Restart",326,29
+851337,"Manchester City FC","Everton FC","08/21/2017 19:29:37","Possible Free Kick",327,30
+851337,"Manchester City FC","Everton FC","08/21/2017 19:29:50","F1",329,30
+851337,"Manchester City FC","Everton FC","08/21/2017 19:29:50","FK2",330,30
+851337,"Manchester City FC","Everton FC","08/21/2017 19:29:50","DANGER2",331,30
+851337,"Manchester City FC","Everton FC","08/21/2017 19:29:50","DFK2",332,30
+851337,"Manchester City FC","Everton FC","08/21/2017 19:29:50","Ball Position",333,30
+851337,"Manchester City FC","Everton FC","08/21/2017 19:30:14","Restart",334,30
+851337,"Manchester City FC","Everton FC","08/21/2017 19:30:21","SAFE1",335,31
+851337,"Manchester City FC","Everton FC","08/21/2017 19:30:21","GK1",336,31
+851337,"Manchester City FC","Everton FC","08/21/2017 19:30:30","Restart",337,31
+851337,"Manchester City FC","Everton FC","08/21/2017 19:30:39","AT1",338,31
+851337,"Manchester City FC","Everton FC","08/21/2017 19:30:43","DANGER1",339,31
+851337,"Manchester City FC","Everton FC","08/21/2017 19:30:43","DAT1",340,31
+851337,"Manchester City FC","Everton FC","08/21/2017 19:30:49","SAFE2",341,31
+851337,"Manchester City FC","Everton FC","08/21/2017 19:30:52","AT2",342,31
+851337,"Manchester City FC","Everton FC","08/21/2017 19:30:52","DANGER2",343,31
+851337,"Manchester City FC","Everton FC","08/21/2017 19:30:52","DAT2",344,31
+851337,"Manchester City FC","Everton FC","08/21/2017 19:31:01","POSSIBLE_TI",345,31
+851337,"Manchester City FC","Everton FC","08/21/2017 19:31:01","TI1",346,31
+851337,"Manchester City FC","Everton FC","08/21/2017 19:31:02","Restart",347,31
+851337,"Manchester City FC","Everton FC","08/21/2017 19:31:05","SAFE1",348,31
+851337,"Manchester City FC","Everton FC","08/21/2017 19:31:19","AT1",349,31
+851337,"Manchester City FC","Everton FC","08/21/2017 19:31:26","DANGER1",350,32
+851337,"Manchester City FC","Everton FC","08/21/2017 19:31:26","DAT1",351,32
+851337,"Manchester City FC","Everton FC","08/21/2017 19:31:45","SAFE2",352,32
+851337,"Manchester City FC","Everton FC","08/21/2017 19:31:45","GK2",353,32
+851337,"Manchester City FC","Everton FC","08/21/2017 19:32:08","Restart",354,32
+851337,"Manchester City FC","Everton FC","08/21/2017 19:32:09","AT2",355,32
+851337,"Manchester City FC","Everton FC","08/21/2017 19:32:15","POSSIBLE_TI",356,32
+851337,"Manchester City FC","Everton FC","08/21/2017 19:32:17","TI2",357,32
+851337,"Manchester City FC","Everton FC","08/21/2017 19:32:22","Restart",358,33
+851337,"Manchester City FC","Everton FC","08/21/2017 19:32:30","AT1",359,33
+851337,"Manchester City FC","Everton FC","08/21/2017 19:32:30","DANGER1",360,33
+851337,"Manchester City FC","Everton FC","08/21/2017 19:32:30","DAT1",361,33
+851337,"Manchester City FC","Everton FC","08/21/2017 19:32:33","BREAKAWAY1",362,33
+851337,"Manchester City FC","Everton FC","08/21/2017 19:32:40","POSSIBLE_TI",363,33
+851337,"Manchester City FC","Everton FC","08/21/2017 19:32:41","TI1",364,33
+851337,"Manchester City FC","Everton FC","08/21/2017 19:32:45","Restart",365,33
+851337,"Manchester City FC","Everton FC","08/21/2017 19:33:11","SAFE1",366,33
+851337,"Manchester City FC","Everton FC","08/21/2017 19:33:19","AT1",367,33
+851337,"Manchester City FC","Everton FC","08/21/2017 19:33:24","DANGER1",368,34
+851337,"Manchester City FC","Everton FC","08/21/2017 19:33:24","DAT1",369,34
+851337,"Manchester City FC","Everton FC","08/21/2017 19:33:37","SAFE1",370,34
+851337,"Manchester City FC","Everton FC","08/21/2017 19:33:38","AT1",371,34
+851337,"Manchester City FC","Everton FC","08/21/2017 19:33:43","DANGER1",372,34
+851337,"Manchester City FC","Everton FC","08/21/2017 19:33:43","DAT1",373,34
+851337,"Manchester City FC","Everton FC","08/21/2017 19:34:05","SHW1",374,34
+851337,"Manchester City FC","Everton FC","08/21/2017 19:34:23","POSSIBLE_TI",375,35
+851337,"Manchester City FC","Everton FC","08/21/2017 19:34:24","TI1",376,35
+851337,"Manchester City FC","Everton FC","08/21/2017 19:34:30","Restart",377,35
+851337,"Manchester City FC","Everton FC","08/21/2017 19:34:42","SAFE2",378,35
+851337,"Manchester City FC","Everton FC","08/21/2017 19:34:45","AT2",379,35
+851337,"Manchester City FC","Everton FC","08/21/2017 19:34:45","DANGER2",380,35
+851337,"Manchester City FC","Everton FC","08/21/2017 19:34:45","DAT2",381,35
+851337,"Manchester City FC","Everton FC","08/21/2017 19:34:55","GOAL2",382,35
+851337,"Manchester City FC","Everton FC","08/21/2017 19:35:14","CONF_GOAL2",383,35
+851337,"Manchester City FC","Everton FC","08/21/2017 19:35:17","Scorer",384,35
+851337,"Manchester City FC","Everton FC","08/21/2017 19:36:00","KO1",385,36
+851337,"Manchester City FC","Everton FC","08/21/2017 19:36:00","SAFE1",386,36
+851337,"Manchester City FC","Everton FC","08/21/2017 19:36:13","AT1",387,36
+851337,"Manchester City FC","Everton FC","08/21/2017 19:36:25","Player_DATA_CONFIRMED",388,37
+851337,"Manchester City FC","Everton FC","08/21/2017 19:36:35","DANGER1",389,37
+851337,"Manchester City FC","Everton FC","08/21/2017 19:36:35","DAT1",390,37
+851337,"Manchester City FC","Everton FC","08/21/2017 19:36:35","Assist",391,37
+851337,"Manchester City FC","Everton FC","08/21/2017 19:37:01","Possible Free Kick",392,37
+851337,"Manchester City FC","Everton FC","08/21/2017 19:37:13","F2",394,37
+851337,"Manchester City FC","Everton FC","08/21/2017 19:37:13","FK1",395,37
+851337,"Manchester City FC","Everton FC","08/21/2017 19:37:13","DFK1",396,37
+851337,"Manchester City FC","Everton FC","08/21/2017 19:37:13","Ball Position",397,37
+851337,"Manchester City FC","Everton FC","08/21/2017 19:37:23","Restart",398,38
+851337,"Manchester City FC","Everton FC","08/21/2017 19:37:25","SHB1",399,38
+851337,"Manchester City FC","Everton FC","08/21/2017 19:37:27","SAFE2",400,38
+851337,"Manchester City FC","Everton FC","08/21/2017 19:37:28","GK2",401,38
+851337,"Manchester City FC","Everton FC","08/21/2017 19:37:50","Restart",402,38
+851337,"Manchester City FC","Everton FC","08/21/2017 19:37:51","AT2",403,38
+851337,"Manchester City FC","Everton FC","08/21/2017 19:38:00","SAFE1",404,38
+851337,"Manchester City FC","Everton FC","08/21/2017 19:38:00","POSSIBLE_TI",405,38
+851337,"Manchester City FC","Everton FC","08/21/2017 19:38:01","TI1",406,38
+851337,"Manchester City FC","Everton FC","08/21/2017 19:38:34","Restart",407,39
+851337,"Manchester City FC","Everton FC","08/21/2017 19:38:35","SAFE2",408,39
+851337,"Manchester City FC","Everton FC","08/21/2017 19:38:46","Possible Free Kick",409,39
+851337,"Manchester City FC","Everton FC","08/21/2017 19:39:00","SAFE1",411,39
+851337,"Manchester City FC","Everton FC","08/21/2017 19:39:00","FK1",412,39
+851337,"Manchester City FC","Everton FC","08/21/2017 19:39:01","Ball Position",413,39
+851337,"Manchester City FC","Everton FC","08/21/2017 19:39:02","Restart",414,39
+851337,"Manchester City FC","Everton FC","08/21/2017 19:39:05","AT1",415,39
+851337,"Manchester City FC","Everton FC","08/21/2017 19:39:20","DANGER1",416,40
+851337,"Manchester City FC","Everton FC","08/21/2017 19:39:20","DAT1",417,40
+851337,"Manchester City FC","Everton FC","08/21/2017 19:39:39","POSSIBLE_TI",418,40
+851337,"Manchester City FC","Everton FC","08/21/2017 19:39:39","TI1",419,40
+851337,"Manchester City FC","Everton FC","08/21/2017 19:39:47","Restart",420,40
+851337,"Manchester City FC","Everton FC","08/21/2017 19:39:50","Possible Free Kick",421,40
+851337,"Manchester City FC","Everton FC","08/21/2017 19:39:52","SAFE2",423,40
+851337,"Manchester City FC","Everton FC","08/21/2017 19:39:52","FK2",424,40
+851337,"Manchester City FC","Everton FC","08/21/2017 19:39:52","Ball Position",425,40
+851337,"Manchester City FC","Everton FC","08/21/2017 19:40:08","CLS",426,40
+851337,"Manchester City FC","Everton FC","08/21/2017 19:40:10","No Free Kick",427,40
+851337,"Manchester City FC","Everton FC","08/21/2017 19:40:10","POSSIBLE_TI",428,40
+851337,"Manchester City FC","Everton FC","08/21/2017 19:40:11","TI2",429,40
+851337,"Manchester City FC","Everton FC","08/21/2017 19:40:12","Restart",430,40
+851337,"Manchester City FC","Everton FC","08/21/2017 19:40:12","AT2",431,40
+851337,"Manchester City FC","Everton FC","08/21/2017 19:40:12","DANGER2",432,40
+851337,"Manchester City FC","Everton FC","08/21/2017 19:40:12","DAT2",433,40
+851337,"Manchester City FC","Everton FC","08/21/2017 19:40:14","AT1",434,40
+851337,"Manchester City FC","Everton FC","08/21/2017 19:40:14","DANGER1",435,40
+851337,"Manchester City FC","Everton FC","08/21/2017 19:40:14","DAT1",436,40
+851337,"Manchester City FC","Everton FC","08/21/2017 19:40:18","SAFE2",437,40
+851337,"Manchester City FC","Everton FC","08/21/2017 19:40:29","AT2",438,41
+851337,"Manchester City FC","Everton FC","08/21/2017 19:40:37","SAFE2",439,41
+851337,"Manchester City FC","Everton FC","08/21/2017 19:40:37","POSSIBLE_TI",440,41
+851337,"Manchester City FC","Everton FC","08/21/2017 19:40:38","TI2",441,41
+851337,"Manchester City FC","Everton FC","08/21/2017 19:40:52","Restart",442,41
+851337,"Manchester City FC","Everton FC","08/21/2017 19:41:12","SAFE1",443,41
+851337,"Manchester City FC","Everton FC","08/21/2017 19:41:20","AT1",444,41
+851337,"Manchester City FC","Everton FC","08/21/2017 19:41:26","POSSIBLE_CARDS",445,42
+851337,"Manchester City FC","Everton FC","08/21/2017 19:41:26","PRC",446,42
+851337,"Manchester City FC","Everton FC","08/21/2017 19:41:26","Danger",447,42
+851337,"Manchester City FC","Everton FC","08/21/2017 19:41:27","Possible Free Kick",448,42
+851337,"Manchester City FC","Everton FC","08/21/2017 19:41:31","YC1",450,42
+851337,"Manchester City FC","Everton FC","08/21/2017 19:41:32","CONF_YC1",451,42
+851337,"Manchester City FC","Everton FC","08/21/2017 19:41:37","Scorer",452,42
+851337,"Manchester City FC","Everton FC","08/21/2017 19:41:46","No RC",453,42
+851337,"Manchester City FC","Everton FC","08/21/2017 19:41:46","SAFE2",454,42
+851337,"Manchester City FC","Everton FC","08/21/2017 19:41:46","F1",455,42
+851337,"Manchester City FC","Everton FC","08/21/2017 19:41:46","FK2",456,42
+851337,"Manchester City FC","Everton FC","08/21/2017 19:41:46","Ball Position",457,42
+851337,"Manchester City FC","Everton FC","08/21/2017 19:41:48","Player_DATA_CONFIRMED",458,42
+851337,"Manchester City FC","Everton FC","08/21/2017 19:42:00","Restart",459,42
+851337,"Manchester City FC","Everton FC","08/21/2017 19:42:03","AT2",460,42
+851337,"Manchester City FC","Everton FC","08/21/2017 19:42:03","DANGER2",461,42
+851337,"Manchester City FC","Everton FC","08/21/2017 19:42:03","DAT2",462,42
+851337,"Manchester City FC","Everton FC","08/21/2017 19:42:18","SAFE2",463,42
+851337,"Manchester City FC","Everton FC","08/21/2017 19:42:25","AT1",464,43
+851337,"Manchester City FC","Everton FC","08/21/2017 19:42:25","DANGER1",465,43
+851337,"Manchester City FC","Everton FC","08/21/2017 19:42:25","DAT1",466,43
+851337,"Manchester City FC","Everton FC","08/21/2017 19:42:33","SAFE2",467,43
+851337,"Manchester City FC","Everton FC","08/21/2017 19:42:39","AT2",468,43
+851337,"Manchester City FC","Everton FC","08/21/2017 19:42:47","SAFE2",469,43
+851337,"Manchester City FC","Everton FC","08/21/2017 19:42:49","AT1",470,43
+851337,"Manchester City FC","Everton FC","08/21/2017 19:42:49","DANGER1",471,43
+851337,"Manchester City FC","Everton FC","08/21/2017 19:42:49","DAT1",472,43
+851337,"Manchester City FC","Everton FC","08/21/2017 19:43:01","SHG1",473,43
+851337,"Manchester City FC","Everton FC","08/21/2017 19:43:02","SAFE2",474,43
+851337,"Manchester City FC","Everton FC","08/21/2017 19:43:19","AT2",475,43
+851337,"Manchester City FC","Everton FC","08/21/2017 19:43:23","POSSIBLE_CARDS",476,44
+851337,"Manchester City FC","Everton FC","08/21/2017 19:43:23","PRC",477,44
+851337,"Manchester City FC","Everton FC","08/21/2017 19:43:23","Danger",478,44
+851337,"Manchester City FC","Everton FC","08/21/2017 19:43:25","Possible Free Kick",479,44
+851337,"Manchester City FC","Everton FC","08/21/2017 19:43:45","YRC1",481,44
+851337,"Manchester City FC","Everton FC","08/21/2017 19:43:48","CONF_YC_RC1",482,44
+851337,"Manchester City FC","Everton FC","08/21/2017 19:43:54","Scorer",483,44
+851337,"Manchester City FC","Everton FC","08/21/2017 19:44:52","F1",484,45
+851337,"Manchester City FC","Everton FC","08/21/2017 19:44:52","FK2",485,45
+851337,"Manchester City FC","Everton FC","08/21/2017 19:44:52","DFK2",486,45
+851337,"Manchester City FC","Everton FC","08/21/2017 19:44:52","Ball Position",487,45
+851337,"Manchester City FC","Everton FC","08/21/2017 19:45:05","Restart",488,45
+851337,"Manchester City FC","Everton FC","08/21/2017 19:45:12","SHB2",489,45
+851337,"Manchester City FC","Everton FC","08/21/2017 19:45:14","SAFE1",490,45
+851337,"Manchester City FC","Everton FC","08/21/2017 19:45:14","GK1",491,45
+851337,"Manchester City FC","Everton FC","08/21/2017 19:45:34","Danger",492,46
+851337,"Manchester City FC","Everton FC","08/21/2017 19:45:35","Scout offline",493,46
+851337,"Manchester City FC","Everton FC","08/21/2017 19:46:06","Transmission Online",494,46
+851337,"Manchester City FC","Everton FC","08/21/2017 19:46:06","Start score update",495,46
+851337,"Manchester City FC","Everton FC","08/21/2017 19:46:07","Statistic confirmation",496,46
+851337,"Manchester City FC","Everton FC","08/21/2017 19:46:07","Score update finished",497,46
+851337,"Manchester City FC","Everton FC","08/21/2017 19:46:07","Possible Free Kick",498,46
+851337,"Manchester City FC","Everton FC","08/21/2017 19:46:09","SAFE2",500,46
+851337,"Manchester City FC","Everton FC","08/21/2017 19:46:09","F1",501,46
+851337,"Manchester City FC","Everton FC","08/21/2017 19:46:09","FK2",502,46
+851337,"Manchester City FC","Everton FC","08/21/2017 19:46:09","Ball Position",503,46
+851337,"Manchester City FC","Everton FC","08/21/2017 19:46:12","Danger",504,46
+851337,"Manchester City FC","Everton FC","08/21/2017 19:46:12","Scout offline",505,46
+851337,"Manchester City FC","Everton FC","08/21/2017 19:46:16","System Message",506,46
+851337,"Manchester City FC","Everton FC","08/21/2017 19:46:21","Transmission Online",507,47
+851337,"Manchester City FC","Everton FC","08/21/2017 19:46:21","Restart",508,47
+851337,"Manchester City FC","Everton FC","08/21/2017 19:46:24","Extra Time",509,47
+851337,"Manchester City FC","Everton FC","08/21/2017 19:46:25","AT2",510,47
+851337,"Manchester City FC","Everton FC","08/21/2017 19:46:25","DANGER2",511,47
+851337,"Manchester City FC","Everton FC","08/21/2017 19:46:25","DAT2",512,47
+851337,"Manchester City FC","Everton FC","08/21/2017 19:46:33","SAFE1",513,47
+851337,"Manchester City FC","Everton FC","08/21/2017 19:46:34","POSSIBLE_TI",514,47
+851337,"Manchester City FC","Everton FC","08/21/2017 19:46:34","TI1",515,47
+851337,"Manchester City FC","Everton FC","08/21/2017 19:46:38","Player_DATA_CONFIRMED",516,47
+851337,"Manchester City FC","Everton FC","08/21/2017 19:46:41","Restart",517,47
+851337,"Manchester City FC","Everton FC","08/21/2017 19:46:48","SAFE2",518,47
+851337,"Manchester City FC","Everton FC","08/21/2017 19:46:56","AT2",519,47
+851337,"Manchester City FC","Everton FC","08/21/2017 19:46:56","DANGER2",520,47
+851337,"Manchester City FC","Everton FC","08/21/2017 19:46:56","DAT2",521,47
+851337,"Manchester City FC","Everton FC","08/21/2017 19:47:05","Possible Free Kick",522,47
+851337,"Manchester City FC","Everton FC","08/21/2017 19:47:08","SAFE1",524,47
+851337,"Manchester City FC","Everton FC","08/21/2017 19:47:08","O2",525,47
+851337,"Manchester City FC","Everton FC","08/21/2017 19:47:08","FK1",526,47
+851337,"Manchester City FC","Everton FC","08/21/2017 19:47:08","Ball Position",527,47
+851337,"Manchester City FC","Everton FC","08/21/2017 19:47:16","Restart",528,47
+851337,"Manchester City FC","Everton FC","08/21/2017 19:47:29","Stop RT1",529,47
+851337,"Manchester City FC","Everton FC","08/21/2017 19:47:31","CONF_PERIOD_SCORE",530,45
+851337,"Manchester City FC","Everton FC","08/21/2017 19:58:42","System Message",531,45
+851337,"Manchester City FC","Everton FC","08/21/2017 20:02:39","Players are coming out",532,45
+851337,"Manchester City FC","Everton FC","08/21/2017 20:04:12","SUB1",533,45
+851337,"Manchester City FC","Everton FC","08/21/2017 20:04:19","Game about to start",534,45
+851337,"Manchester City FC","Everton FC","08/21/2017 20:04:22","Player_DATA_CONFIRMED",535,45
+851337,"Manchester City FC","Everton FC","08/21/2017 20:04:37","Start RT2 Team 2",536,46
+851337,"Manchester City FC","Everton FC","08/21/2017 20:04:44","SAFE1",537,46
+851337,"Manchester City FC","Everton FC","08/21/2017 20:04:45","POSSIBLE_TI",538,46
+851337,"Manchester City FC","Everton FC","08/21/2017 20:04:45","TI1",539,46
+851337,"Manchester City FC","Everton FC","08/21/2017 20:04:47","Restart",540,46
+851337,"Manchester City FC","Everton FC","08/21/2017 20:04:50","AT2",541,46
+851337,"Manchester City FC","Everton FC","08/21/2017 20:04:51","POSSIBLE_TI",542,46
+851337,"Manchester City FC","Everton FC","08/21/2017 20:04:51","TI2",543,46
+851337,"Manchester City FC","Everton FC","08/21/2017 20:05:04","Restart",544,46
+851337,"Manchester City FC","Everton FC","08/21/2017 20:05:05","SAFE2",545,46
+851337,"Manchester City FC","Everton FC","08/21/2017 20:05:21","AT2",546,46
+851337,"Manchester City FC","Everton FC","08/21/2017 20:05:28","SAFE1",547,46
+851337,"Manchester City FC","Everton FC","08/21/2017 20:05:29","AT1",548,46
+851337,"Manchester City FC","Everton FC","08/21/2017 20:05:29","DANGER1",549,46
+851337,"Manchester City FC","Everton FC","08/21/2017 20:05:29","DAT1",550,46
+851337,"Manchester City FC","Everton FC","08/21/2017 20:05:36","SAFE2",551,46
+851337,"Manchester City FC","Everton FC","08/21/2017 20:05:37","AT2",552,47
+851337,"Manchester City FC","Everton FC","08/21/2017 20:05:43","SAFE2",553,47
+851337,"Manchester City FC","Everton FC","08/21/2017 20:06:04","SAFE1",554,47
+851337,"Manchester City FC","Everton FC","08/21/2017 20:06:05","POSSIBLE_TI",555,47
+851337,"Manchester City FC","Everton FC","08/21/2017 20:06:05","TI1",556,47
+851337,"Manchester City FC","Everton FC","08/21/2017 20:06:17","Restart",557,47
+851337,"Manchester City FC","Everton FC","08/21/2017 20:06:53","AT1",558,48
+851337,"Manchester City FC","Everton FC","08/21/2017 20:06:57","DANGER1",559,48
+851337,"Manchester City FC","Everton FC","08/21/2017 20:06:57","DAT1",560,48
+851337,"Manchester City FC","Everton FC","08/21/2017 20:07:07","SAFE2",561,48
+851337,"Manchester City FC","Everton FC","08/21/2017 20:07:22","POSSIBLE_TI",562,48
+851337,"Manchester City FC","Everton FC","08/21/2017 20:07:23","TI2",563,48
+851337,"Manchester City FC","Everton FC","08/21/2017 20:07:32","Restart",564,48
+851337,"Manchester City FC","Everton FC","08/21/2017 20:07:33","AT2",565,48
+851337,"Manchester City FC","Everton FC","08/21/2017 20:07:36","SAFE1",566,48
+851337,"Manchester City FC","Everton FC","08/21/2017 20:07:52","AT1",567,49
+851337,"Manchester City FC","Everton FC","08/21/2017 20:07:58","SAFE1",568,49
+851337,"Manchester City FC","Everton FC","08/21/2017 20:08:09","AT1",569,49
+851337,"Manchester City FC","Everton FC","08/21/2017 20:08:19","POSSIBLE_TI",570,49
+851337,"Manchester City FC","Everton FC","08/21/2017 20:08:21","TI1",571,49
+851337,"Manchester City FC","Everton FC","08/21/2017 20:08:26","Restart",572,49
+851337,"Manchester City FC","Everton FC","08/21/2017 20:08:42","SAFE1",573,50
+851337,"Manchester City FC","Everton FC","08/21/2017 20:08:45","AT1",574,50
+851337,"Manchester City FC","Everton FC","08/21/2017 20:08:48","SAFE2",575,50
+851337,"Manchester City FC","Everton FC","08/21/2017 20:08:56","SAFE1",576,50
+851337,"Manchester City FC","Everton FC","08/21/2017 20:08:57","POSSIBLE_TI",577,50
+851337,"Manchester City FC","Everton FC","08/21/2017 20:08:57","TI1",578,50
+851337,"Manchester City FC","Everton FC","08/21/2017 20:09:01","Restart",579,50
+851337,"Manchester City FC","Everton FC","08/21/2017 20:09:16","AT1",580,50
+851337,"Manchester City FC","Everton FC","08/21/2017 20:09:20","DANGER1",581,50
+851337,"Manchester City FC","Everton FC","08/21/2017 20:09:20","DAT1",582,50
+851337,"Manchester City FC","Everton FC","08/21/2017 20:09:42","PCR1",583,51
+851337,"Manchester City FC","Everton FC","08/21/2017 20:09:44","CR1",584,51
+851337,"Manchester City FC","Everton FC","08/21/2017 20:09:46","BLOCKED1",585,51
+851337,"Manchester City FC","Everton FC","08/21/2017 20:09:47","Ball Position",586,51
+851337,"Manchester City FC","Everton FC","08/21/2017 20:10:06","Restart",587,51
+851337,"Manchester City FC","Everton FC","08/21/2017 20:10:56","PCR1",588,52
+851337,"Manchester City FC","Everton FC","08/21/2017 20:11:05","CR1",589,52
+851337,"Manchester City FC","Everton FC","08/21/2017 20:11:06","Ball Position",590,52
+851337,"Manchester City FC","Everton FC","08/21/2017 20:11:15","Restart",591,52
+851337,"Manchester City FC","Everton FC","08/21/2017 20:11:59","SAFE1",592,53
+851337,"Manchester City FC","Everton FC","08/21/2017 20:11:59","POSSIBLE_TI",593,53
+851337,"Manchester City FC","Everton FC","08/21/2017 20:12:00","TI1",594,53
+851337,"Manchester City FC","Everton FC","08/21/2017 20:12:01","Restart",595,53
+851337,"Manchester City FC","Everton FC","08/21/2017 20:12:22","AT1",596,53
+851337,"Manchester City FC","Everton FC","08/21/2017 20:12:32","POSSIBLE_TI",597,53
+851337,"Manchester City FC","Everton FC","08/21/2017 20:12:32","TI1",598,53
+851337,"Manchester City FC","Everton FC","08/21/2017 20:12:34","Restart",599,53
+851337,"Manchester City FC","Everton FC","08/21/2017 20:12:46","SAFE1",600,54
+851337,"Manchester City FC","Everton FC","08/21/2017 20:12:52","AT1",601,54
+851337,"Manchester City FC","Everton FC","08/21/2017 20:12:57","Possible Free Kick",602,54
+851337,"Manchester City FC","Everton FC","08/21/2017 20:13:04","F2",604,54
+851337,"Manchester City FC","Everton FC","08/21/2017 20:13:04","FK1",605,54
+851337,"Manchester City FC","Everton FC","08/21/2017 20:13:04","DANGER1",606,54
+851337,"Manchester City FC","Everton FC","08/21/2017 20:13:04","DFK1",607,54
+851337,"Manchester City FC","Everton FC","08/21/2017 20:13:04","Ball Position",608,54
+851337,"Manchester City FC","Everton FC","08/21/2017 20:13:09","Restart",609,54
+851337,"Manchester City FC","Everton FC","08/21/2017 20:13:22","SAFE2",610,54
+851337,"Manchester City FC","Everton FC","08/21/2017 20:13:23","GK2",611,54
+851337,"Manchester City FC","Everton FC","08/21/2017 20:13:33","Restart",612,54
+851337,"Manchester City FC","Everton FC","08/21/2017 20:13:56","SAFE1",613,55
+851337,"Manchester City FC","Everton FC","08/21/2017 20:13:56","POSSIBLE_TI",614,55
+851337,"Manchester City FC","Everton FC","08/21/2017 20:13:57","TI1",615,55
+851337,"Manchester City FC","Everton FC","08/21/2017 20:14:14","Restart",616,55
+851337,"Manchester City FC","Everton FC","08/21/2017 20:14:18","AT1",617,55
+851337,"Manchester City FC","Everton FC","08/21/2017 20:14:23","DANGER1",618,55
+851337,"Manchester City FC","Everton FC","08/21/2017 20:14:23","DAT1",619,55
+851337,"Manchester City FC","Everton FC","08/21/2017 20:15:05","SAFE2",620,56
+851337,"Manchester City FC","Everton FC","08/21/2017 20:15:12","AT2",621,56
+851337,"Manchester City FC","Everton FC","08/21/2017 20:15:12","DANGER2",622,56
+851337,"Manchester City FC","Everton FC","08/21/2017 20:15:12","DAT2",623,56
+851337,"Manchester City FC","Everton FC","08/21/2017 20:15:18","SAFE1",624,56
+851337,"Manchester City FC","Everton FC","08/21/2017 20:15:24","AT1",625,56
+851337,"Manchester City FC","Everton FC","08/21/2017 20:15:41","DANGER1",626,57
+851337,"Manchester City FC","Everton FC","08/21/2017 20:15:41","DAT1",627,57
+851337,"Manchester City FC","Everton FC","08/21/2017 20:15:59","Possible Free Kick",628,57
+851337,"Manchester City FC","Everton FC","08/21/2017 20:16:01","POSSIBLE_CARDS",630,57
+851337,"Manchester City FC","Everton FC","08/21/2017 20:16:15","NO_Cards",631,57
+851337,"Manchester City FC","Everton FC","08/21/2017 20:16:16","F2",632,57
+851337,"Manchester City FC","Everton FC","08/21/2017 20:16:16","FK1",633,57
+851337,"Manchester City FC","Everton FC","08/21/2017 20:16:16","DFK1",634,57
+851337,"Manchester City FC","Everton FC","08/21/2017 20:16:16","Ball Position",635,57
+851337,"Manchester City FC","Everton FC","08/21/2017 20:17:00","Restart",636,58
+851337,"Manchester City FC","Everton FC","08/21/2017 20:17:05","BLOCKED1",637,58
+851337,"Manchester City FC","Everton FC","08/21/2017 20:17:06","BLOCKED1",638,58
+851337,"Manchester City FC","Everton FC","08/21/2017 20:17:19","Injury Break",639,58
+851337,"Manchester City FC","Everton FC","08/21/2017 20:18:20","Restart",640,59
+851337,"Manchester City FC","Everton FC","08/21/2017 20:18:23","Referee Ball",641,59
+851337,"Manchester City FC","Everton FC","08/21/2017 20:18:24","Restart",642,59
+851337,"Manchester City FC","Everton FC","08/21/2017 20:18:26","SAFE1",643,59
+851337,"Manchester City FC","Everton FC","08/21/2017 20:18:40","AT1",644,60
+851337,"Manchester City FC","Everton FC","08/21/2017 20:18:44","DANGER1",645,60
+851337,"Manchester City FC","Everton FC","08/21/2017 20:18:44","DAT1",646,60
+851337,"Manchester City FC","Everton FC","08/21/2017 20:19:05","SAFE1",647,60
+851337,"Manchester City FC","Everton FC","08/21/2017 20:19:26","AT2",648,60
+851337,"Manchester City FC","Everton FC","08/21/2017 20:19:26","DANGER2",649,60
+851337,"Manchester City FC","Everton FC","08/21/2017 20:19:26","DAT2",650,60
+851337,"Manchester City FC","Everton FC","08/21/2017 20:19:28","POSSIBLE_TI",651,60
+851337,"Manchester City FC","Everton FC","08/21/2017 20:19:31","TI2",652,60
+851337,"Manchester City FC","Everton FC","08/21/2017 20:19:43","SUB2",653,61
+851337,"Manchester City FC","Everton FC","08/21/2017 20:20:01","SUB2",654,61
+851337,"Manchester City FC","Everton FC","08/21/2017 20:20:04","Player_DATA_CONFIRMED",655,61
+851337,"Manchester City FC","Everton FC","08/21/2017 20:20:05","Player_DATA_CONFIRMED",656,61
+851337,"Manchester City FC","Everton FC","08/21/2017 20:20:31","Restart",657,61
+851337,"Manchester City FC","Everton FC","08/21/2017 20:20:39","SAFE2",658,62
+851337,"Manchester City FC","Everton FC","08/21/2017 20:20:43","AT2",659,62
+851337,"Manchester City FC","Everton FC","08/21/2017 20:20:44","SAFE1",660,62
+851337,"Manchester City FC","Everton FC","08/21/2017 20:21:01","SAFE2",661,62
+851337,"Manchester City FC","Everton FC","08/21/2017 20:21:01","POSSIBLE_TI",662,62
+851337,"Manchester City FC","Everton FC","08/21/2017 20:21:02","TI2",663,62
+851337,"Manchester City FC","Everton FC","08/21/2017 20:21:12","Restart",664,62
+851337,"Manchester City FC","Everton FC","08/21/2017 20:21:24","AT2",665,62
+851337,"Manchester City FC","Everton FC","08/21/2017 20:21:24","DANGER2",666,62
+851337,"Manchester City FC","Everton FC","08/21/2017 20:21:24","DAT2",667,62
+851337,"Manchester City FC","Everton FC","08/21/2017 20:21:24","POSSIBLE_TI",668,62
+851337,"Manchester City FC","Everton FC","08/21/2017 20:21:25","TI2",669,62
+851337,"Manchester City FC","Everton FC","08/21/2017 20:21:35","Restart",670,62
+851337,"Manchester City FC","Everton FC","08/21/2017 20:21:47","Possible Free Kick",671,63
+851337,"Manchester City FC","Everton FC","08/21/2017 20:22:07","F1",673,63
+851337,"Manchester City FC","Everton FC","08/21/2017 20:22:07","FK2",674,63
+851337,"Manchester City FC","Everton FC","08/21/2017 20:22:07","DFK2",675,63
+851337,"Manchester City FC","Everton FC","08/21/2017 20:22:07","Ball Position",676,63
+851337,"Manchester City FC","Everton FC","08/21/2017 20:22:12","SUB_UPDATE",677,63
+851337,"Manchester City FC","Everton FC","08/21/2017 20:22:13","SUB_UPDATE",678,63
+851337,"Manchester City FC","Everton FC","08/21/2017 20:22:24","Restart",679,63
+851337,"Manchester City FC","Everton FC","08/21/2017 20:22:30","POSSIBLE_TI",680,63
+851337,"Manchester City FC","Everton FC","08/21/2017 20:22:31","TI2",681,63
+851337,"Manchester City FC","Everton FC","08/21/2017 20:22:48","Restart",682,64
+851337,"Manchester City FC","Everton FC","08/21/2017 20:22:55","SAFE1",683,64
+851337,"Manchester City FC","Everton FC","08/21/2017 20:22:55","POSSIBLE_TI",684,64
+851337,"Manchester City FC","Everton FC","08/21/2017 20:22:57","TI1",685,64
+851337,"Manchester City FC","Everton FC","08/21/2017 20:23:05","Restart",686,64
+851337,"Manchester City FC","Everton FC","08/21/2017 20:23:09","AT1",687,64
+851337,"Manchester City FC","Everton FC","08/21/2017 20:23:11","DANGER1",688,64
+851337,"Manchester City FC","Everton FC","08/21/2017 20:23:11","DAT1",689,64
+851337,"Manchester City FC","Everton FC","08/21/2017 20:23:24","BLOCKED1",690,64
+851337,"Manchester City FC","Everton FC","08/21/2017 20:23:41","SAFE2",691,65
+851337,"Manchester City FC","Everton FC","08/21/2017 20:23:42","AT2",692,65
+851337,"Manchester City FC","Everton FC","08/21/2017 20:23:42","DANGER2",693,65
+851337,"Manchester City FC","Everton FC","08/21/2017 20:23:42","DAT2",694,65
+851337,"Manchester City FC","Everton FC","08/21/2017 20:23:49","SAFE1",695,65
+851337,"Manchester City FC","Everton FC","08/21/2017 20:23:55","POSSIBLE_TI",696,65
+851337,"Manchester City FC","Everton FC","08/21/2017 20:23:55","TI1",697,65
+851337,"Manchester City FC","Everton FC","08/21/2017 20:24:13","SUB1",698,65
+851337,"Manchester City FC","Everton FC","08/21/2017 20:24:27","Restart",699,65
+851337,"Manchester City FC","Everton FC","08/21/2017 20:24:27","Player_DATA_CONFIRMED",700,65
+851337,"Manchester City FC","Everton FC","08/21/2017 20:24:41","AT2",701,66
+851337,"Manchester City FC","Everton FC","08/21/2017 20:24:41","DANGER2",702,66
+851337,"Manchester City FC","Everton FC","08/21/2017 20:24:41","DAT2",703,66
+851337,"Manchester City FC","Everton FC","08/21/2017 20:24:43","SAFE1",704,66
+851337,"Manchester City FC","Everton FC","08/21/2017 20:24:44","AT1",705,66
+851337,"Manchester City FC","Everton FC","08/21/2017 20:24:54","AT2",706,66
+851337,"Manchester City FC","Everton FC","08/21/2017 20:24:54","DANGER2",707,66
+851337,"Manchester City FC","Everton FC","08/21/2017 20:24:54","DAT2",708,66
+851337,"Manchester City FC","Everton FC","08/21/2017 20:25:03","SAFE1",709,66
+851337,"Manchester City FC","Everton FC","08/21/2017 20:25:04","POSSIBLE_TI",710,66
+851337,"Manchester City FC","Everton FC","08/21/2017 20:25:04","TI1",711,66
+851337,"Manchester City FC","Everton FC","08/21/2017 20:25:08","Restart",712,66
+851337,"Manchester City FC","Everton FC","08/21/2017 20:25:36","SAFE2",713,66
+851337,"Manchester City FC","Everton FC","08/21/2017 20:25:38","AT2",714,67
+851337,"Manchester City FC","Everton FC","08/21/2017 20:25:42","SAFE1",715,67
+851337,"Manchester City FC","Everton FC","08/21/2017 20:25:43","AT1",716,67
+851337,"Manchester City FC","Everton FC","08/21/2017 20:25:47","DANGER1",717,67
+851337,"Manchester City FC","Everton FC","08/21/2017 20:25:47","DAT1",718,67
+851337,"Manchester City FC","Everton FC","08/21/2017 20:25:55","SAFE2",719,67
+851337,"Manchester City FC","Everton FC","08/21/2017 20:26:02","POSSIBLE_TI",720,67
+851337,"Manchester City FC","Everton FC","08/21/2017 20:26:03","TI2",721,67
+851337,"Manchester City FC","Everton FC","08/21/2017 20:26:20","Restart",722,67
+851337,"Manchester City FC","Everton FC","08/21/2017 20:26:24","SAFE1",723,67
+851337,"Manchester City FC","Everton FC","08/21/2017 20:26:25","POSSIBLE_TI",724,67
+851337,"Manchester City FC","Everton FC","08/21/2017 20:26:26","TI1",725,67
+851337,"Manchester City FC","Everton FC","08/21/2017 20:26:28","Restart",726,67
+851337,"Manchester City FC","Everton FC","08/21/2017 20:26:36","AT1",727,67
+851337,"Manchester City FC","Everton FC","08/21/2017 20:26:37","DANGER1",728,68
+851337,"Manchester City FC","Everton FC","08/21/2017 20:26:37","DAT1",729,68
+851337,"Manchester City FC","Everton FC","08/21/2017 20:26:47","POSSIBLE_TI",730,68
+851337,"Manchester City FC","Everton FC","08/21/2017 20:26:48","TI2",731,68
+851337,"Manchester City FC","Everton FC","08/21/2017 20:27:02","Restart",732,68
+851337,"Manchester City FC","Everton FC","08/21/2017 20:27:14","POSSIBLE_TI",733,68
+851337,"Manchester City FC","Everton FC","08/21/2017 20:27:16","TI1",734,68
+851337,"Manchester City FC","Everton FC","08/21/2017 20:27:16","Restart",735,68
+851337,"Manchester City FC","Everton FC","08/21/2017 20:27:18","SAFE1",736,68
+851337,"Manchester City FC","Everton FC","08/21/2017 20:27:28","AT1",737,68
+851337,"Manchester City FC","Everton FC","08/21/2017 20:27:31","DANGER1",738,68
+851337,"Manchester City FC","Everton FC","08/21/2017 20:27:31","DAT1",739,68
+851337,"Manchester City FC","Everton FC","08/21/2017 20:27:46","POSSIBLE_TI",740,69
+851337,"Manchester City FC","Everton FC","08/21/2017 20:27:47","TI1",741,69
+851337,"Manchester City FC","Everton FC","08/21/2017 20:27:49","Restart",742,69
+851337,"Manchester City FC","Everton FC","08/21/2017 20:28:07","SUB1",743,69
+851337,"Manchester City FC","Everton FC","08/21/2017 20:28:40","SAFE2",744,70
+851337,"Manchester City FC","Everton FC","08/21/2017 20:28:41","POSSIBLE_TI",745,70
+851337,"Manchester City FC","Everton FC","08/21/2017 20:28:43","NO_TI",746,70
+851337,"Manchester City FC","Everton FC","08/21/2017 20:28:43","GK2",747,70
+851337,"Manchester City FC","Everton FC","08/21/2017 20:28:54","Restart",748,70
+851337,"Manchester City FC","Everton FC","08/21/2017 20:28:59","AT2",749,70
+851337,"Manchester City FC","Everton FC","08/21/2017 20:29:07","DANGER2",750,70
+851337,"Manchester City FC","Everton FC","08/21/2017 20:29:07","DAT2",751,70
+851337,"Manchester City FC","Everton FC","08/21/2017 20:29:21","SAFE1",752,70
+851337,"Manchester City FC","Everton FC","08/21/2017 20:29:27","AT1",753,70
+851337,"Manchester City FC","Everton FC","08/21/2017 20:29:27","DANGER1",754,70
+851337,"Manchester City FC","Everton FC","08/21/2017 20:29:27","DAT1",755,70
+851337,"Manchester City FC","Everton FC","08/21/2017 20:29:47","SHB1",756,71
+851337,"Manchester City FC","Everton FC","08/21/2017 20:29:48","SAFE2",757,71
+851337,"Manchester City FC","Everton FC","08/21/2017 20:29:48","GK2",758,71
+851337,"Manchester City FC","Everton FC","08/21/2017 20:30:03","Player_DATA_CONFIRMED",759,71
+851337,"Manchester City FC","Everton FC","08/21/2017 20:30:10","Restart",760,71
+851337,"Manchester City FC","Everton FC","08/21/2017 20:30:11","AT2",761,71
+851337,"Manchester City FC","Everton FC","08/21/2017 20:30:16","SAFE1",762,71
+851337,"Manchester City FC","Everton FC","08/21/2017 20:30:19","AT1",763,71
+851337,"Manchester City FC","Everton FC","08/21/2017 20:30:19","DANGER1",764,71
+851337,"Manchester City FC","Everton FC","08/21/2017 20:30:19","DAT1",765,71
+851337,"Manchester City FC","Everton FC","08/21/2017 20:30:28","SAFE2",766,71
+851337,"Manchester City FC","Everton FC","08/21/2017 20:30:29","POSSIBLE_TI",767,71
+851337,"Manchester City FC","Everton FC","08/21/2017 20:30:30","TI2",768,71
+851337,"Manchester City FC","Everton FC","08/21/2017 20:30:47","Restart",769,72
+851337,"Manchester City FC","Everton FC","08/21/2017 20:30:51","SAFE1",770,72
+851337,"Manchester City FC","Everton FC","08/21/2017 20:30:55","AT1",771,72
+851337,"Manchester City FC","Everton FC","08/21/2017 20:30:57","DANGER1",772,72
+851337,"Manchester City FC","Everton FC","08/21/2017 20:30:57","DAT1",773,72
+851337,"Manchester City FC","Everton FC","08/21/2017 20:31:04","SHB1",774,72
+851337,"Manchester City FC","Everton FC","08/21/2017 20:31:06","SAFE2",775,72
+851337,"Manchester City FC","Everton FC","08/21/2017 20:31:06","GK2",776,72
+851337,"Manchester City FC","Everton FC","08/21/2017 20:31:27","Restart",777,72
+851337,"Manchester City FC","Everton FC","08/21/2017 20:31:38","AT2",778,73
+851337,"Manchester City FC","Everton FC","08/21/2017 20:31:46","POSSIBLE_TI",779,73
+851337,"Manchester City FC","Everton FC","08/21/2017 20:31:47","TI2",780,73
+851337,"Manchester City FC","Everton FC","08/21/2017 20:31:59","Restart",781,73
+851337,"Manchester City FC","Everton FC","08/21/2017 20:32:06","DANGER2",782,73
+851337,"Manchester City FC","Everton FC","08/21/2017 20:32:06","DAT2",783,73
+851337,"Manchester City FC","Everton FC","08/21/2017 20:32:27","SAFE1",784,73
+851337,"Manchester City FC","Everton FC","08/21/2017 20:32:30","AT1",785,73
+851337,"Manchester City FC","Everton FC","08/21/2017 20:32:36","AT2",786,73
+851337,"Manchester City FC","Everton FC","08/21/2017 20:32:36","DANGER2",787,73
+851337,"Manchester City FC","Everton FC","08/21/2017 20:32:36","DAT2",788,73
+851337,"Manchester City FC","Everton FC","08/21/2017 20:32:46","SHB2",789,74
+851337,"Manchester City FC","Everton FC","08/21/2017 20:32:47","SAFE1",790,74
+851337,"Manchester City FC","Everton FC","08/21/2017 20:32:47","GK1",791,74
+851337,"Manchester City FC","Everton FC","08/21/2017 20:32:56","Restart",792,74
+851337,"Manchester City FC","Everton FC","08/21/2017 20:32:57","AT1",793,74
+851337,"Manchester City FC","Everton FC","08/21/2017 20:33:02","DANGER1",794,74
+851337,"Manchester City FC","Everton FC","08/21/2017 20:33:02","DAT1",795,74
+851337,"Manchester City FC","Everton FC","08/21/2017 20:33:03","POSSIBLE_TI",796,74
+851337,"Manchester City FC","Everton FC","08/21/2017 20:33:04","TI1",797,74
+851337,"Manchester City FC","Everton FC","08/21/2017 20:33:06","Restart",798,74
+851337,"Manchester City FC","Everton FC","08/21/2017 20:33:21","SHB1",799,74
+851337,"Manchester City FC","Everton FC","08/21/2017 20:33:26","SAFE2",800,74
+851337,"Manchester City FC","Everton FC","08/21/2017 20:33:27","GK2",801,74
+851337,"Manchester City FC","Everton FC","08/21/2017 20:33:49","Restart",802,75
+851337,"Manchester City FC","Everton FC","08/21/2017 20:33:50","AT2",803,75
+851337,"Manchester City FC","Everton FC","08/21/2017 20:34:03","SAFE1",804,75
+851337,"Manchester City FC","Everton FC","08/21/2017 20:34:07","AT1",805,75
+851337,"Manchester City FC","Everton FC","08/21/2017 20:34:09","DANGER1",806,75
+851337,"Manchester City FC","Everton FC","08/21/2017 20:34:09","DAT1",807,75
+851337,"Manchester City FC","Everton FC","08/21/2017 20:34:15","PCR1",808,75
+851337,"Manchester City FC","Everton FC","08/21/2017 20:34:17","CR1",809,75
+851337,"Manchester City FC","Everton FC","08/21/2017 20:34:19","SHB1",810,75
+851337,"Manchester City FC","Everton FC","08/21/2017 20:34:19","Ball Position",811,75
+851337,"Manchester City FC","Everton FC","08/21/2017 20:34:25","Restart",812,75
+851337,"Manchester City FC","Everton FC","08/21/2017 20:34:35","SAFE2",813,75
+851337,"Manchester City FC","Everton FC","08/21/2017 20:34:35","GK2",814,75
+851337,"Manchester City FC","Everton FC","08/21/2017 20:34:59","Restart",815,76
+851337,"Manchester City FC","Everton FC","08/21/2017 20:35:01","AT2",816,76
+851337,"Manchester City FC","Everton FC","08/21/2017 20:35:10","POSSIBLE_CARDS",817,76
+851337,"Manchester City FC","Everton FC","08/21/2017 20:35:10","PRC",818,76
+851337,"Manchester City FC","Everton FC","08/21/2017 20:35:10","Danger",819,76
+851337,"Manchester City FC","Everton FC","08/21/2017 20:35:48","No RC",820,77
+851337,"Manchester City FC","Everton FC","08/21/2017 20:35:51","NO_Cards",821,77
+851337,"Manchester City FC","Everton FC","08/21/2017 20:35:53","POSSIBLE_TI",822,77
+851337,"Manchester City FC","Everton FC","08/21/2017 20:35:55","TI2",823,77
+851337,"Manchester City FC","Everton FC","08/21/2017 20:35:58","Restart",824,77
+851337,"Manchester City FC","Everton FC","08/21/2017 20:36:10","SAFE1",825,77
+851337,"Manchester City FC","Everton FC","08/21/2017 20:36:10","AT1",826,77
+851337,"Manchester City FC","Everton FC","08/21/2017 20:36:10","DANGER1",827,77
+851337,"Manchester City FC","Everton FC","08/21/2017 20:36:10","DAT1",828,77
+851337,"Manchester City FC","Everton FC","08/21/2017 20:36:23","SHG1",829,77
+851337,"Manchester City FC","Everton FC","08/21/2017 20:36:29","SAFE2",830,77
+851337,"Manchester City FC","Everton FC","08/21/2017 20:36:29","AT2",831,77
+851337,"Manchester City FC","Everton FC","08/21/2017 20:36:33","Possible Free Kick",832,77
+851337,"Manchester City FC","Everton FC","08/21/2017 20:36:40","POSSIBLE_CARDS",834,78
+851337,"Manchester City FC","Everton FC","08/21/2017 20:37:04","YC1",835,78
+851337,"Manchester City FC","Everton FC","08/21/2017 20:37:05","CONF_YC1",836,78
+851337,"Manchester City FC","Everton FC","08/21/2017 20:37:13","Scorer",837,78
+851337,"Manchester City FC","Everton FC","08/21/2017 20:37:16","F1",838,78
+851337,"Manchester City FC","Everton FC","08/21/2017 20:37:16","FK2",839,78
+851337,"Manchester City FC","Everton FC","08/21/2017 20:37:16","DANGER2",840,78
+851337,"Manchester City FC","Everton FC","08/21/2017 20:37:16","DFK2",841,78
+851337,"Manchester City FC","Everton FC","08/21/2017 20:37:16","Ball Position",842,78
+851337,"Manchester City FC","Everton FC","08/21/2017 20:37:35","Restart",843,78
+851337,"Manchester City FC","Everton FC","08/21/2017 20:37:38","Player_DATA_CONFIRMED",844,79
+851337,"Manchester City FC","Everton FC","08/21/2017 20:37:40","SHG2",845,79
+851337,"Manchester City FC","Everton FC","08/21/2017 20:37:41","SAFE1",846,79
+851337,"Manchester City FC","Everton FC","08/21/2017 20:37:56","AT1",847,79
+851337,"Manchester City FC","Everton FC","08/21/2017 20:38:02","DANGER1",848,79
+851337,"Manchester City FC","Everton FC","08/21/2017 20:38:02","DAT1",849,79
+851337,"Manchester City FC","Everton FC","08/21/2017 20:38:03","POSSIBLE_TI",850,79
+851337,"Manchester City FC","Everton FC","08/21/2017 20:38:03","TI2",851,79
+851337,"Manchester City FC","Everton FC","08/21/2017 20:38:13","Restart",852,79
+851337,"Manchester City FC","Everton FC","08/21/2017 20:38:21","SAFE2",853,79
+851337,"Manchester City FC","Everton FC","08/21/2017 20:38:23","AT2",854,79
+851337,"Manchester City FC","Everton FC","08/21/2017 20:38:26","SAFE1",855,79
+851337,"Manchester City FC","Everton FC","08/21/2017 20:38:30","AT1",856,79
+851337,"Manchester City FC","Everton FC","08/21/2017 20:38:32","DANGER1",857,79
+851337,"Manchester City FC","Everton FC","08/21/2017 20:38:32","DAT1",858,79
+851337,"Manchester City FC","Everton FC","08/21/2017 20:38:43","Possible Free Kick",859,80
+851337,"Manchester City FC","Everton FC","08/21/2017 20:38:46","F2",861,80
+851337,"Manchester City FC","Everton FC","08/21/2017 20:38:46","FK1",862,80
+851337,"Manchester City FC","Everton FC","08/21/2017 20:38:46","DFK1",863,80
+851337,"Manchester City FC","Everton FC","08/21/2017 20:38:46","Ball Position",864,80
+851337,"Manchester City FC","Everton FC","08/21/2017 20:38:47","Restart",865,80
+851337,"Manchester City FC","Everton FC","08/21/2017 20:38:52","PPEN",866,80
+851337,"Manchester City FC","Everton FC","08/21/2017 20:38:52","PPEN1",867,80
+851337,"Manchester City FC","Everton FC","08/21/2017 20:38:58","No PEN",868,80
+851337,"Manchester City FC","Everton FC","08/21/2017 20:38:58","POSSIBLE_TI",869,80
+851337,"Manchester City FC","Everton FC","08/21/2017 20:38:59","TI2",870,80
+851337,"Manchester City FC","Everton FC","08/21/2017 20:39:03","Restart",871,80
+851337,"Manchester City FC","Everton FC","08/21/2017 20:39:05","CLS",872,80
+851337,"Manchester City FC","Everton FC","08/21/2017 20:39:22","Restart",873,80
+851337,"Manchester City FC","Everton FC","08/21/2017 20:39:29","SAFE1",874,80
+851337,"Manchester City FC","Everton FC","08/21/2017 20:39:32","AT1",875,80
+851337,"Manchester City FC","Everton FC","08/21/2017 20:39:39","DANGER1",876,81
+851337,"Manchester City FC","Everton FC","08/21/2017 20:39:39","DAT1",877,81
+851337,"Manchester City FC","Everton FC","08/21/2017 20:39:44","SAFE2",878,81
+851337,"Manchester City FC","Everton FC","08/21/2017 20:39:45","GK2",879,81
+851337,"Manchester City FC","Everton FC","08/21/2017 20:39:59","Restart",880,81
+851337,"Manchester City FC","Everton FC","08/21/2017 20:40:12","AT2",881,81
+851337,"Manchester City FC","Everton FC","08/21/2017 20:40:19","DANGER2",882,81
+851337,"Manchester City FC","Everton FC","08/21/2017 20:40:19","DAT2",883,81
+851337,"Manchester City FC","Everton FC","08/21/2017 20:40:29","SAFE1",884,81
+851337,"Manchester City FC","Everton FC","08/21/2017 20:40:34","AT1",885,81
+851337,"Manchester City FC","Everton FC","08/21/2017 20:40:41","DANGER1",886,82
+851337,"Manchester City FC","Everton FC","08/21/2017 20:40:41","DAT1",887,82
+851337,"Manchester City FC","Everton FC","08/21/2017 20:41:29","GOAL1",888,82
+851337,"Manchester City FC","Everton FC","08/21/2017 20:41:36","CONF_GOAL1",889,82
+851337,"Manchester City FC","Everton FC","08/21/2017 20:41:45","Scorer",890,83
+851337,"Manchester City FC","Everton FC","08/21/2017 20:41:57","KO2",891,83
+851337,"Manchester City FC","Everton FC","08/21/2017 20:41:57","SAFE2",892,83
+851337,"Manchester City FC","Everton FC","08/21/2017 20:42:04","AT2",893,83
+851337,"Manchester City FC","Everton FC","08/21/2017 20:42:06","DANGER2",894,83
+851337,"Manchester City FC","Everton FC","08/21/2017 20:42:06","DAT2",895,83
+851337,"Manchester City FC","Everton FC","08/21/2017 20:42:10","POSSIBLE_TI",896,83
+851337,"Manchester City FC","Everton FC","08/21/2017 20:42:11","TI2",897,83
+851337,"Manchester City FC","Everton FC","08/21/2017 20:42:12","Player_DATA_CONFIRMED",898,83
+851337,"Manchester City FC","Everton FC","08/21/2017 20:42:27","Restart",899,83
+851337,"Manchester City FC","Everton FC","08/21/2017 20:42:34","Possible Free Kick",900,83
+851337,"Manchester City FC","Everton FC","08/21/2017 20:42:36","SAFE1",902,83
+851337,"Manchester City FC","Everton FC","08/21/2017 20:42:36","F2",903,83
+851337,"Manchester City FC","Everton FC","08/21/2017 20:42:36","FK1",904,83
+851337,"Manchester City FC","Everton FC","08/21/2017 20:42:36","Ball Position",905,83
+851337,"Manchester City FC","Everton FC","08/21/2017 20:42:39","POSSIBLE_CARDS",906,84
+851337,"Manchester City FC","Everton FC","08/21/2017 20:42:40","YC2",907,84
+851337,"Manchester City FC","Everton FC","08/21/2017 20:42:41","CONF_YC2",908,84
+851337,"Manchester City FC","Everton FC","08/21/2017 20:42:47","Scorer",909,84
+851337,"Manchester City FC","Everton FC","08/21/2017 20:42:50","Restart",910,84
+851337,"Manchester City FC","Everton FC","08/21/2017 20:42:56","Player_DATA_CONFIRMED",911,84
+851337,"Manchester City FC","Everton FC","08/21/2017 20:43:00","AT1",912,84
+851337,"Manchester City FC","Everton FC","08/21/2017 20:43:12","DANGER1",913,84
+851337,"Manchester City FC","Everton FC","08/21/2017 20:43:12","DAT1",914,84
+851337,"Manchester City FC","Everton FC","08/21/2017 20:43:56","SHB1",915,85
+851337,"Manchester City FC","Everton FC","08/21/2017 20:43:58","SAFE2",916,85
+851337,"Manchester City FC","Everton FC","08/21/2017 20:43:59","GK2",917,85
+851337,"Manchester City FC","Everton FC","08/21/2017 20:44:16","Restart",918,85
+851337,"Manchester City FC","Everton FC","08/21/2017 20:44:18","AT2",919,85
+851337,"Manchester City FC","Everton FC","08/21/2017 20:44:23","SAFE1",920,85
+851337,"Manchester City FC","Everton FC","08/21/2017 20:44:24","POSSIBLE_TI",921,85
+851337,"Manchester City FC","Everton FC","08/21/2017 20:44:25","TI1",922,85
+851337,"Manchester City FC","Everton FC","08/21/2017 20:44:32","Restart",923,85
+851337,"Manchester City FC","Everton FC","08/21/2017 20:44:39","AT2",924,86
+851337,"Manchester City FC","Everton FC","08/21/2017 20:44:46","SAFE1",925,86
+851337,"Manchester City FC","Everton FC","08/21/2017 20:44:47","POSSIBLE_TI",926,86
+851337,"Manchester City FC","Everton FC","08/21/2017 20:44:47","TI1",927,86
+851337,"Manchester City FC","Everton FC","08/21/2017 20:44:49","Restart",928,86
+851337,"Manchester City FC","Everton FC","08/21/2017 20:45:00","AT1",929,86
+851337,"Manchester City FC","Everton FC","08/21/2017 20:45:04","DANGER1",930,86
+851337,"Manchester City FC","Everton FC","08/21/2017 20:45:04","DAT1",931,86
+851337,"Manchester City FC","Everton FC","08/21/2017 20:45:40","SAFE2",932,87
+851337,"Manchester City FC","Everton FC","08/21/2017 20:45:40","GK2",933,87
+851337,"Manchester City FC","Everton FC","08/21/2017 20:46:03","Restart",934,87
+851337,"Manchester City FC","Everton FC","08/21/2017 20:46:05","AT2",935,87
+851337,"Manchester City FC","Everton FC","08/21/2017 20:46:12","POSSIBLE_TI",936,87
+851337,"Manchester City FC","Everton FC","08/21/2017 20:46:13","TI2",937,87
+851337,"Manchester City FC","Everton FC","08/21/2017 20:46:19","Restart",938,87
+851337,"Manchester City FC","Everton FC","08/21/2017 20:46:20","DANGER2",939,87
+851337,"Manchester City FC","Everton FC","08/21/2017 20:46:20","DAT2",940,87
+851337,"Manchester City FC","Everton FC","08/21/2017 20:46:47","POSSIBLE_TI",941,88
+851337,"Manchester City FC","Everton FC","08/21/2017 20:46:48","TI2",942,88
+851337,"Manchester City FC","Everton FC","08/21/2017 20:47:04","Restart",943,88
+851337,"Manchester City FC","Everton FC","08/21/2017 20:47:13","POSSIBLE_CARDS",944,88
+851337,"Manchester City FC","Everton FC","08/21/2017 20:47:13","PRC",945,88
+851337,"Manchester City FC","Everton FC","08/21/2017 20:47:14","Possible Free Kick",946,88
+851337,"Manchester City FC","Everton FC","08/21/2017 20:47:21","YRC1",948,88
+851337,"Manchester City FC","Everton FC","08/21/2017 20:47:24","CYC_RC1",949,88
+851337,"Manchester City FC","Everton FC","08/21/2017 20:47:25","YRC2",950,88
+851337,"Manchester City FC","Everton FC","08/21/2017 20:47:26","CONF_YC_RC2",951,88
+851337,"Manchester City FC","Everton FC","08/21/2017 20:47:34","Scorer",952,88
+851337,"Manchester City FC","Everton FC","08/21/2017 20:47:47","System Message",953,89
+851337,"Manchester City FC","Everton FC","08/21/2017 20:47:47","SAFE1",954,89
+851337,"Manchester City FC","Everton FC","08/21/2017 20:47:47","F2",955,89
+851337,"Manchester City FC","Everton FC","08/21/2017 20:47:47","FK1",956,89
+851337,"Manchester City FC","Everton FC","08/21/2017 20:47:47","Ball Position",957,89
+851337,"Manchester City FC","Everton FC","08/21/2017 20:47:51","Restart",958,89
+851337,"Manchester City FC","Everton FC","08/21/2017 20:47:56","System Message",959,89
+851337,"Manchester City FC","Everton FC","08/21/2017 20:47:59","AT1",960,89
+851337,"Manchester City FC","Everton FC","08/21/2017 20:47:59","DANGER1",961,89
+851337,"Manchester City FC","Everton FC","08/21/2017 20:47:59","DAT1",962,89
+851337,"Manchester City FC","Everton FC","08/21/2017 20:48:03","Time Correction",963,89
+851337,"Manchester City FC","Everton FC","08/21/2017 20:48:16","SAFE2",964,89
+851337,"Manchester City FC","Everton FC","08/21/2017 20:48:17","GK2",965,89
+851337,"Manchester City FC","Everton FC","08/21/2017 20:48:29","System Message",966,89
+851337,"Manchester City FC","Everton FC","08/21/2017 20:48:36","Player_DATA_CONFIRMED",967,89
+851337,"Manchester City FC","Everton FC","08/21/2017 20:48:53","SUB2",968,90
+851337,"Manchester City FC","Everton FC","08/21/2017 20:49:03","Player_DATA_CONFIRMED",969,90
+851337,"Manchester City FC","Everton FC","08/21/2017 20:49:05","Restart",970,90
+851337,"Manchester City FC","Everton FC","08/21/2017 20:49:06","AT2",971,90
+851337,"Manchester City FC","Everton FC","08/21/2017 20:49:12","DANGER2",972,90
+851337,"Manchester City FC","Everton FC","08/21/2017 20:49:12","DAT2",973,90
+851337,"Manchester City FC","Everton FC","08/21/2017 20:49:15","POSSIBLE_TI",974,90
+851337,"Manchester City FC","Everton FC","08/21/2017 20:49:16","TI2",975,90
+851337,"Manchester City FC","Everton FC","08/21/2017 20:49:35","Restart",976,90
+851337,"Manchester City FC","Everton FC","08/21/2017 20:49:51","POSSIBLE_TI",977,91
+851337,"Manchester City FC","Everton FC","08/21/2017 20:49:51","TI2",978,91
+851337,"Manchester City FC","Everton FC","08/21/2017 20:49:56","Extra Time",979,91
+851337,"Manchester City FC","Everton FC","08/21/2017 20:50:04","Restart",980,91
+851337,"Manchester City FC","Everton FC","08/21/2017 20:50:17","SAFE1",981,91
+851337,"Manchester City FC","Everton FC","08/21/2017 20:50:18","GK1",982,91
+851337,"Manchester City FC","Everton FC","08/21/2017 20:50:18","Restart",983,91
+851337,"Manchester City FC","Everton FC","08/21/2017 20:50:27","AT1",984,91
+851337,"Manchester City FC","Everton FC","08/21/2017 20:50:29","DANGER1",985,91
+851337,"Manchester City FC","Everton FC","08/21/2017 20:50:29","DAT1",986,91
+851337,"Manchester City FC","Everton FC","08/21/2017 20:51:02","AT2",987,92
+851337,"Manchester City FC","Everton FC","08/21/2017 20:51:02","DANGER2",988,92
+851337,"Manchester City FC","Everton FC","08/21/2017 20:51:02","DAT2",989,92
+851337,"Manchester City FC","Everton FC","08/21/2017 20:51:10","SAFE1",990,92
+851337,"Manchester City FC","Everton FC","08/21/2017 20:51:12","AT1",991,92
+851337,"Manchester City FC","Everton FC","08/21/2017 20:51:15","DANGER1",992,92
+851337,"Manchester City FC","Everton FC","08/21/2017 20:51:15","DAT1",993,92
+851337,"Manchester City FC","Everton FC","08/21/2017 20:52:22","PCR1",994,93
+851337,"Manchester City FC","Everton FC","08/21/2017 20:52:29","CR1",995,93
+851337,"Manchester City FC","Everton FC","08/21/2017 20:52:31","Ball Position",996,93
+851337,"Manchester City FC","Everton FC","08/21/2017 20:52:43","Restart",997,94
+851337,"Manchester City FC","Everton FC","08/21/2017 20:52:52","SAFE2",998,94
+851337,"Manchester City FC","Everton FC","08/21/2017 20:53:10","AT2",999,94
+851337,"Manchester City FC","Everton FC","08/21/2017 20:53:12","SAFE1",1000,94
+851337,"Manchester City FC","Everton FC","08/21/2017 20:53:13","POSSIBLE_TI",1001,94
+851337,"Manchester City FC","Everton FC","08/21/2017 20:53:14","TI1",1002,94
+851337,"Manchester City FC","Everton FC","08/21/2017 20:53:21","Restart",1003,94
+851337,"Manchester City FC","Everton FC","08/21/2017 20:53:22","AT1",1004,94
+851337,"Manchester City FC","Everton FC","08/21/2017 20:53:36","DANGER1",1005,94
+851337,"Manchester City FC","Everton FC","08/21/2017 20:53:36","DAT1",1006,94
+851337,"Manchester City FC","Everton FC","08/21/2017 20:53:51","Stop RT2",1007,94
+851337,"Manchester City FC","Everton FC","08/21/2017 20:53:51","Stop Game",1008,94
+851337,"Manchester City FC","Everton FC","08/21/2017 20:53:57","CONF_PERIOD_SCORE",1009,94

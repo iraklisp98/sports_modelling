@@ -1,0 +1,862 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 18:05:55","Scout in Stadion",0,0
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 18:06:00","Transmission Online",1,0
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 18:06:21","GCC",2,0
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 18:06:27","Lineup changed",3,0
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 18:56:25","Players are coming out",4,0
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 18:56:47","Players lined up",5,0
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 18:57:11","Jersey Changed",6,0
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 18:57:11","Jersey Changed",7,0
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 18:57:14","Shake hands",8,0
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 18:57:38","Flip coin",9,0
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 18:59:10","Game about to start",10,0
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:00:01","Start RT1 Team 1",11,1
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:00:20","Possible Free Kick",12,1
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:00:25","SAFE2",14,1
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:00:26","F1",15,1
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:00:26","FK2",16,1
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:00:26","Ball Position",17,1
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:00:45","Injury Break",18,1
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:02:10","System Message",19,3
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:02:10","Game suspended",20,3
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:03:26","Restart",21,4
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:03:30","AT2",22,4
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:03:32","System Message",23,4
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:03:32","DANGER2",24,4
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:03:32","DAT2",25,4
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:04:09","SAFE1",26,5
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:04:14","Possible Free Kick",27,5
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:04:16","F2",29,5
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:04:16","FK1",30,5
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:04:16","Ball Position",31,5
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:04:27","SUB1",32,5
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:04:32","Player_DATA_CONFIRMED",33,5
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:04:40","Restart",34,5
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:04:46","AT1",35,5
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:04:47","DANGER1",36,5
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:04:47","DAT1",37,5
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:04:51","SAFE2",38,5
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:05:06","SAFE1",39,6
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:05:28","POSSIBLE_CARDS",40,6
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:05:42","NO_Cards",41,6
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:05:43","Possible Free Kick",42,6
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:05:47","F2",44,6
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:05:47","FK1",45,6
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:05:47","DANGER1",46,6
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:05:47","DFK1",47,6
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:05:47","Ball Position",48,6
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:06:02","Restart",49,7
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:06:08","SAFE2",50,7
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:06:09","GK2",51,7
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:06:32","Restart",52,7
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:06:45","AT1",53,7
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:06:46","DANGER1",54,7
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:06:46","DAT1",55,7
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:06:51","SAFE2",56,7
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:06:53","GK2",57,7
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:07:19","Restart",58,8
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:07:43","AT2",59,8
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:07:44","SAFE1",60,8
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:08:08","AT1",61,9
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:08:17","DANGER1",62,9
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:08:17","DAT1",63,9
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:08:22","SAFE2",64,9
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:08:38","AT2",65,9
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:08:40","DANGER2",66,9
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:08:40","DAT2",67,9
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:08:50","POSSIBLE_TI",68,9
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:08:51","TI1",69,9
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:09:04","Restart",70,10
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:09:10","SAFE1",71,10
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:09:11","Possible Free Kick",72,10
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:09:12","F2",74,10
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:09:12","FK1",75,10
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:09:12","Ball Position",76,10
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:09:14","Restart",77,10
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:09:27","SAFE2",78,10
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:09:41","AT1",79,10
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:09:42","DANGER1",80,10
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:09:42","DAT1",81,10
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:09:49","SAFE2",82,10
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:10:04","AT1",83,11
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:10:08","DANGER1",84,11
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:10:08","DAT1",85,11
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:10:16","SAFE2",86,11
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:10:17","AT2",87,11
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:10:32","POSSIBLE_CARDS",88,11
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:11:01","YC1",89,12
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:11:03","CONF_YC1",90,12
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:11:04","Scorer",91,12
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:11:14","Injury Break",92,12
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:11:28","Scorer",93,12
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:11:28","Player_DATA_CONFIRMED",94,12
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:11:45","Restart",95,12
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:11:50","SAFE2",96,12
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:11:59","POSSIBLE_TI",97,12
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:12:05","TI2",98,13
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:12:05","Restart",99,13
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:12:26","AT2",100,13
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:12:33","SAFE1",101,13
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:12:35","Possible Free Kick",102,13
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:12:39","O2",104,13
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:12:39","FK1",105,13
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:12:39","Ball Position",106,13
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:12:42","Restart",107,13
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:12:48","AT1",108,13
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:12:50","DANGER1",109,13
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:12:50","DAT1",110,13
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:13:03","SAFE2",111,14
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:13:07","Possible Free Kick",112,14
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:13:09","F1",114,14
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:13:09","FK2",115,14
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:13:09","Ball Position",116,14
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:13:27","Restart",117,14
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:13:33","SAFE1",118,14
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:14:09","AT1",119,15
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:14:11","POSSIBLE_TI",120,15
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:14:13","TI1",121,15
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:14:17","Restart",122,15
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:14:18","DANGER1",123,15
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:14:18","DAT1",124,15
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:14:21","SAFE2",125,15
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:14:23","Possible Free Kick",126,15
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:14:24","F1",128,15
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:14:24","FK2",129,15
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:14:24","Ball Position",130,15
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:14:31","Restart",131,15
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:14:38","AT2",132,15
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:14:42","DANGER2",133,15
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:14:42","DAT2",134,15
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:14:43","POSSIBLE_TI",135,15
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:14:45","TI2",136,15
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:14:50","Restart",137,15
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:14:57","SHB2",138,15
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:14:59","SAFE1",139,15
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:15:00","GK1",140,15
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:15:16","Restart",141,16
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:15:24","AT1",142,16
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:15:26","DANGER1",143,16
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:15:26","DAT1",144,16
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:15:41","POSSIBLE_TI",145,16
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:15:42","TI1",146,16
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:15:43","Restart",147,16
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:16:03","SAFE2",148,17
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:16:18","Possible Free Kick",149,17
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:16:22","SAFE1",151,17
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:16:22","F2",152,17
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:16:22","FK1",153,17
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:16:22","Ball Position",154,17
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:16:36","Restart",155,17
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:16:38","AT1",156,17
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:16:42","DANGER1",157,17
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:16:42","DAT1",158,17
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:16:49","SHG1",159,17
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:16:53","SAFE2",160,17
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:17:20","AT1",161,18
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:17:21","DANGER1",162,18
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:17:21","DAT1",163,18
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:17:25","PCR1",164,18
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:17:31","CR1",165,18
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:17:35","Ball Position",166,18
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:17:57","Restart",167,18
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:18:16","SAFE2",168,19
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:18:17","Possible Free Kick",169,19
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:18:18","F1",171,19
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:18:18","FK2",172,19
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:18:18","Ball Position",173,19
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:18:19","Restart",174,19
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:18:24","AT2",175,19
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:18:34","DANGER2",176,19
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:18:34","DAT2",177,19
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:18:38","SAFE1",178,19
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:18:40","GK1",179,19
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:18:43","Restart",180,19
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:19:17","AT2",181,20
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:19:22","DANGER2",182,20
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:19:22","DAT2",183,20
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:19:32","POSSIBLE_TI",184,20
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:19:33","TI2",185,20
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:19:34","Restart",186,20
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:20:17","SHB2",187,21
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:20:21","SAFE1",188,21
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:20:21","GK1",189,21
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:20:43","Restart",190,21
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:20:48","AT2",191,21
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:21:16","DANGER2",192,22
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:21:16","DAT2",193,22
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:21:40","SAFE1",194,22
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:21:53","AT1",195,22
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:21:57","DANGER1",196,22
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:21:57","DAT1",197,22
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:22:09","SAFE2",198,23
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:22:15","POSSIBLE_CARDS",199,23
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:22:28","YC1",200,23
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:22:30","CONF_YC1",201,23
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:22:31","Scorer",202,23
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:22:35","Possible Free Kick",203,23
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:22:36","F1",205,23
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:22:36","FK2",206,23
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:22:36","Ball Position",207,23
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:22:40","Scorer",208,23
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:22:40","Player_DATA_CONFIRMED",209,23
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:22:47","Restart",210,23
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:22:52","AT2",211,23
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:22:53","DANGER2",212,23
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:22:53","DAT2",213,23
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:23:09","POSSIBLE_TI",214,24
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:23:10","TI2",215,24
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:23:26","Restart",216,24
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:23:41","SAFE1",217,24
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:23:43","AT1",218,24
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:23:47","DANGER1",219,24
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:23:47","DAT1",220,24
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:23:54","PCR1",221,24
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:24:02","CR1",222,25
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:24:03","Ball Position",223,25
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:24:30","Restart",224,25
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:24:34","PCR1",225,25
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:24:41","CR1",226,25
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:24:42","Ball Position",227,25
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:24:55","Restart",228,25
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:25:03","SAFE2",229,26
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:25:08","SAFE1",230,26
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:25:27","SAFE2",231,26
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:25:29","POSSIBLE_TI",232,26
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:25:30","TI2",233,26
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:25:40","Restart",234,26
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:25:52","Possible Free Kick",235,26
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:25:56","F1",237,26
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:25:56","FK2",238,26
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:25:56","DANGER2",239,26
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:25:56","DFK2",240,26
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:25:56","Ball Position",241,26
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:26:01","Restart",242,26
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:26:50","SAFE1",243,27
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:26:58","AT1",244,27
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:27:02","DANGER1",245,28
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:27:02","DAT1",246,28
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:27:19","SAFE2",247,28
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:27:23","SAFE1",248,28
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:27:26","AT1",249,28
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:27:32","SAFE2",250,28
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:27:33","AT2",251,28
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:27:37","DANGER2",252,28
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:27:37","DAT2",253,28
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:28:02","POSSIBLE_TI",254,29
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:28:03","TI1",255,29
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:28:14","Restart",256,29
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:28:22","SAFE1",257,29
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:28:27","AT1",258,29
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:28:34","DANGER1",259,29
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:28:34","DAT1",260,29
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:28:43","Possible Free Kick",261,29
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:28:49","F2",263,29
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:28:49","FK1",264,29
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:28:49","DFK1",265,29
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:28:49","Ball Position",266,29
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:29:25","Restart",267,30
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:29:29","SAFE2",268,30
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:29:48","Possible Free Kick",269,30
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:29:54","F1",271,30
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:29:54","FK2",272,30
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:29:54","DANGER2",273,30
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:29:54","DFK2",274,30
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:29:54","Ball Position",275,30
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:30:30","Restart",276,31
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:30:47","POSSIBLE_TI",277,31
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:30:48","TI2",278,31
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:30:51","Restart",279,31
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:31:10","PCR2",280,32
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:31:14","SHG2",281,32
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:31:18","CR2",282,32
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:31:20","Ball Position",283,32
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:31:26","Restart",284,32
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:31:39","SAFE2",285,32
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:31:46","AT2",286,32
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:31:47","DANGER2",287,32
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:31:47","DAT2",288,32
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:32:00","SAFE1",289,32
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:32:09","AT1",290,33
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:32:12","DANGER1",291,33
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:32:12","DAT1",292,33
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:32:32","POSSIBLE_TI",293,33
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:32:33","TI2",294,33
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:32:47","Injury Break",295,33
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:34:06","Restart",296,35
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:34:10","SAFE2",297,35
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:34:14","SAFE1",298,35
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:34:33","AT1",299,35
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:34:37","POSSIBLE_TI",300,35
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:34:39","TI1",301,35
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:34:47","Restart",302,35
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:34:49","DANGER1",303,35
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:34:49","DAT1",304,35
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:34:54","PCR1",305,35
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:35:00","CR1",306,35
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:35:01","Ball Position",307,36
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:35:16","Restart",308,36
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:35:46","SAFE2",309,36
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:35:49","Possible Free Kick",310,36
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:35:50","F1",312,36
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:35:50","FK2",313,36
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:35:50","Ball Position",314,36
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:36:19","Restart",315,37
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:36:27","AT2",316,37
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:36:28","DANGER2",317,37
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:36:28","DAT2",318,37
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:36:34","SAFE1",319,37
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:36:50","GK1",320,37
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:36:54","Restart",321,37
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:37:09","AT1",322,38
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:37:12","DANGER1",323,38
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:37:12","DAT1",324,38
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:37:19","SHG1",325,38
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:37:22","SAFE2",326,38
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:37:41","AT2",327,38
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:37:44","DANGER2",328,38
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:37:44","DAT2",329,38
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:38:05","SAFE2",330,39
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:38:12","AT2",331,39
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:38:20","SAFE1",332,39
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:38:37","AT1",333,39
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:38:41","DANGER1",334,39
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:38:41","DAT1",335,39
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:38:48","SAFE2",336,39
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:38:54","GK2",337,39
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:39:21","Restart",338,40
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:39:30","POSSIBLE_TI",339,40
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:39:31","TI2",340,40
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:39:44","Restart",341,40
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:39:45","AT2",342,40
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:39:48","DANGER2",343,40
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:39:48","DAT2",344,40
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:40:10","POSSIBLE_TI",345,41
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:40:12","TI2",346,41
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:40:14","Restart",347,41
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:40:18","SAFE1",348,41
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:40:32","AT1",349,41
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:40:34","DANGER1",350,41
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:40:34","DAT1",351,41
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:40:38","SAFE2",352,41
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:41:01","AT2",353,41
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:41:31","SAFE1",354,42
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:41:38","AT1",355,42
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:41:42","DANGER1",356,42
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:41:42","DAT1",357,42
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:41:53","POSSIBLE_TI",358,42
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:42:00","TI2",359,42
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:42:20","Restart",360,43
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:42:33","SAFE1",361,43
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:42:44","Possible Free Kick",362,43
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:42:57","F2",364,43
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:42:57","FK1",365,43
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:42:57","DANGER1",366,43
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:42:57","DFK1",367,43
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:42:57","Ball Position",368,43
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:43:26","Restart",369,44
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:43:39","PCR1",370,44
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:43:46","CR1",371,44
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:43:48","Ball Position",372,44
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:44:03","Restart",373,45
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:44:20","POSSIBLE_TI",374,45
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:44:21","TI1",375,45
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:44:46","Restart",376,45
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:45:10","SAFE2",377,46
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:45:14","SAFE1",378,46
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:45:16","Extra Time",379,46
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:45:25","POSSIBLE_TI",380,46
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:45:26","TI2",381,46
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:45:30","Restart",382,46
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:45:31","AT2",383,46
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:45:59","POSSIBLE_TI",384,46
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:46:00","TI1",385,46
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:46:05","Restart",386,47
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:46:07","SAFE1",387,47
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:46:11","AT1",388,47
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:46:15","SAFE2",389,47
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:46:16","Possible Free Kick",390,47
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:46:18","O1",392,47
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:46:18","FK2",393,47
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:46:18","Ball Position",394,47
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:46:45","Restart",395,47
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:46:50","POSSIBLE_TI",396,47
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:46:51","TI1",397,47
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:47:01","Restart",398,47
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:47:08","AT2",399,48
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:47:10","DANGER2",400,48
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:47:10","DAT2",401,48
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:47:14","POSSIBLE_TI",402,48
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:47:18","TI2",403,48
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:47:32","Restart",404,48
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:47:37","SAFE1",405,48
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:48:00","Stop RT1",406,48
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 19:48:13","CONF_PERIOD_SCORE",407,45
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:01:42","Players are coming out",408,45
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:03:42","Game about to start",409,45
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:04:17","Start RT2 Team 2",410,46
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:04:30","AT2",411,46
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:04:31","DANGER2",412,46
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:04:31","DAT2",413,46
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:04:41","GOAL2",414,46
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:05:16","Scorer",415,46
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:05:17","CONF_GOAL2",416,47
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:05:26","Player_DATA_CONFIRMED",417,47
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:05:35","KO1",418,47
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:05:35","SAFE1",419,47
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:05:46","SAFE1",420,47
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:05:53","AT1",421,47
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:05:54","DANGER1",422,47
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:05:54","DAT1",423,47
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:06:00","Assist",424,47
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:06:04","SAFE2",425,47
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:06:18","GK2",426,48
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:06:31","Restart",427,48
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:06:40","AT2",428,48
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:06:46","POSSIBLE_TI",429,48
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:06:47","TI1",430,48
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:06:51","Restart",431,48
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:06:53","SAFE1",432,48
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:07:15","Possible Free Kick",433,48
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:07:19","F2",435,49
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:07:19","FK1",436,49
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:07:19","Ball Position",437,49
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:07:19","Restart",438,49
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:07:43","AT1",439,49
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:07:45","DANGER1",440,49
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:07:45","DAT1",441,49
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:08:18","SHB1",442,50
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:08:22","SAFE2",443,50
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:08:32","GK2",444,50
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:08:47","Restart",445,50
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:08:58","POSSIBLE_TI",446,50
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:09:00","TI2",447,50
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:09:05","Restart",448,50
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:09:10","AT2",449,50
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:09:15","SAFE1",450,50
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:09:19","AT1",451,51
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:09:20","DANGER1",452,51
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:09:20","DAT1",453,51
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:09:35","SAFE1",454,51
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:10:02","SAFE2",455,51
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:10:08","AT2",456,51
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:10:10","DANGER2",457,51
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:10:10","DAT2",458,51
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:10:14","SAFE1",459,51
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:10:24","AT1",460,52
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:10:33","DANGER1",461,52
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:10:33","DAT1",462,52
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:10:42","SAFE2",463,52
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:10:52","AT2",464,52
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:10:57","DANGER2",465,52
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:10:57","DAT2",466,52
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:11:05","SAFE1",467,52
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:11:13","AT2",468,52
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:11:18","DANGER2",469,53
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:11:18","DAT2",470,53
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:11:23","SHG2",471,53
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:11:27","SAFE1",472,53
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:11:33","AT1",473,53
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:11:34","DANGER1",474,53
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:11:34","DAT1",475,53
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:11:41","SAFE2",476,53
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:11:42","GK2",477,53
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:12:09","Restart",478,53
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:12:16","AT1",479,53
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:12:20","DANGER1",480,54
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:12:20","DAT1",481,54
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:12:27","PCR1",482,54
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:12:32","SHB1",483,54
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:12:36","NCR1",484,54
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:12:38","SAFE2",485,54
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:12:41","GK2",486,54
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:12:56","Restart",487,54
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:13:03","SAFE1",488,54
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:13:13","AT1",489,54
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:13:44","DANGER1",490,55
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:13:44","DAT1",491,55
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:13:49","POSSIBLE_TI",492,55
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:13:53","TI1",493,55
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:13:54","Restart",494,55
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:13:59","POSSIBLE_TI",495,55
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:14:01","TI2",496,55
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:14:17","Restart",497,55
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:14:23","SAFE2",498,56
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:14:25","AT2",499,56
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:14:26","DANGER2",500,56
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:14:26","DAT2",501,56
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:14:32","POSSIBLE_TI",502,56
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:14:33","TI2",503,56
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:14:48","Restart",504,56
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:14:53","SAFE1",505,56
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:14:54","GK1",506,56
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:15:02","Restart",507,56
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:15:19","AT1",508,57
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:15:27","DANGER1",509,57
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:15:27","DAT1",510,57
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:15:45","SAFE2",511,57
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:16:03","AT2",512,57
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:16:09","Possible Free Kick",513,57
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:16:13","F1",515,57
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:16:13","FK2",516,57
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:16:14","DANGER2",517,57
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:16:14","DFK2",518,57
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:16:14","Ball Position",519,57
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:16:53","Restart",520,58
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:17:01","SHB2",521,58
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:17:03","SAFE1",522,58
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:17:04","GK1",523,58
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:17:14","Restart",524,58
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:17:20","POSSIBLE_TI",525,59
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:17:21","TI1",526,59
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:17:23","Restart",527,59
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:17:27","AT1",528,59
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:17:32","DANGER1",529,59
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:17:32","DAT1",530,59
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:17:46","SAFE1",531,59
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:18:08","AT1",532,59
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:18:09","POSSIBLE_TI",533,59
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:18:10","TI1",534,59
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:18:45","SUB1",535,60
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:18:51","POSSIBLE_TI",536,60
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:18:52","Player_DATA_CONFIRMED",537,60
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:18:52","Restart",538,60
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:18:52","TI2",539,60
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:19:02","Restart",540,60
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:19:06","POSSIBLE_TI",541,60
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:19:07","TI2",542,60
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:19:17","Restart",543,60
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:19:25","SAFE1",544,61
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:19:26","AT1",545,61
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:19:33","SAFE2",546,61
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:19:38","AT2",547,61
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:19:43","POSSIBLE_TI",548,61
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:19:45","TI2",549,61
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:19:47","Restart",550,61
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:19:48","DANGER2",551,61
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:19:48","DAT2",552,61
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:20:03","SAFE2",553,61
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:20:13","SAFE1",554,61
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:20:29","AT2",555,62
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:20:33","DANGER2",556,62
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:20:33","DAT2",557,62
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:20:39","GOAL2",558,62
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:20:45","CGOAL2",559,62
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:20:46","SAFE1",560,62
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:20:47","Possible Free Kick",561,62
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:20:49","O2",563,62
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:20:49","FK1",564,62
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:20:49","Ball Position",565,62
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:20:50","Restart",566,62
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:20:54","System Message",567,62
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:21:00","AT2",568,62
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:21:17","DANGER2",569,62
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:21:17","DAT2",570,62
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:21:24","SAFE1",571,63
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:21:29","AT1",572,63
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:21:36","DANGER1",573,63
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:21:36","DAT1",574,63
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:21:46","SAFE2",575,63
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:22:01","Possible Free Kick",576,63
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:22:02","F1",578,63
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:22:02","FK2",579,63
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:22:02","Ball Position",580,63
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:22:24","Restart",581,64
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:22:39","POSSIBLE_TI",582,64
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:22:40","TI1",583,64
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:22:42","Restart",584,64
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:22:46","POSSIBLE_TI",585,64
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:22:47","TI2",586,64
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:23:01","Restart",587,64
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:23:07","AT2",588,64
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:23:21","SAFE1",589,65
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:23:23","AT1",590,65
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:23:30","DANGER1",591,65
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:23:30","DAT1",592,65
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:23:44","SAFE2",593,65
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:23:54","SAFE1",594,65
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:23:55","Possible Free Kick",595,65
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:23:58","F2",597,65
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:23:58","FK1",598,65
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:23:58","Ball Position",599,65
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:23:59","Restart",600,65
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:24:01","AT1",601,65
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:24:05","DANGER1",602,65
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:24:05","DAT1",603,65
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:24:10","SAFE2",604,65
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:24:11","GK2",605,65
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:24:35","Restart",606,66
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:24:45","SAFE1",607,66
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:25:36","SUB2",608,67
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:25:49","Referee Ball",609,67
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:25:51","Restart",610,67
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:25:53","SAFE1",611,67
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:25:57","Player_DATA_CONFIRMED",612,67
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:26:15","POSSIBLE_TI",613,67
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:26:19","TI1",614,68
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:26:20","Restart",615,68
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:26:24","AT1",616,68
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:26:31","SAFE2",617,68
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:26:32","GK2",618,68
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:26:54","Restart",619,68
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:27:09","AT2",620,68
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:27:11","DANGER2",621,68
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:27:11","DAT2",622,68
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:27:18","SAFE1",623,69
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:27:19","GK1",624,69
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:27:23","Restart",625,69
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:27:42","AT1",626,69
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:27:57","DANGER1",627,69
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:27:57","DAT1",628,69
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:28:06","SAFE2",629,69
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:28:10","SAFE1",630,69
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:28:13","AT1",631,69
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:28:15","DANGER1",632,69
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:28:15","DAT1",633,69
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:28:29","SHG1",634,70
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:28:33","SAFE2",635,70
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:28:48","POSSIBLE_TI",636,70
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:28:50","TI2",637,70
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:29:08","Restart",638,70
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:29:13","AT1",639,70
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:29:15","DANGER1",640,70
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:29:15","DAT1",641,70
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:29:23","SAFE2",642,71
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:29:39","AT2",643,71
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:29:44","DANGER2",644,71
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:29:44","DAT2",645,71
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:29:49","SHB2",646,71
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:29:52","SAFE1",647,71
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:29:53","GK1",648,71
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:30:08","SUB1",649,71
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:30:13","Restart",650,71
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:30:14","Player_DATA_CONFIRMED",651,71
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:30:25","AT1",652,72
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:30:27","DANGER1",653,72
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:30:27","DAT1",654,72
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:30:33","SAFE2",655,72
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:30:34","GK2",656,72
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:30:50","Restart",657,72
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:30:59","AT1",658,72
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:31:04","DANGER1",659,72
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:31:04","DAT1",660,72
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:31:10","SAFE1",661,72
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:31:18","POSSIBLE_TI",662,73
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:31:19","TI1",663,73
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:31:22","Restart",664,73
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:31:27","Possible Free Kick",665,73
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:31:29","SAFE2",667,73
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:31:29","F1",668,73
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:31:29","FK2",669,73
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:31:29","Ball Position",670,73
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:31:48","Restart",671,73
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:31:52","POSSIBLE_TI",672,73
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:31:53","TI1",673,73
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:32:06","Restart",674,73
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:32:12","AT1",675,73
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:32:13","DANGER1",676,73
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:32:13","DAT1",677,73
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:32:19","SAFE2",678,74
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:32:36","SAFE1",679,74
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:32:43","AT1",680,74
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:32:44","DANGER1",681,74
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:32:44","DAT1",682,74
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:33:01","SHB1",683,74
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:33:14","Injury Break",684,74
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:34:20","Restart",685,76
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:34:21","SAFE2",686,76
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:34:21","GK2",687,76
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:34:38","Restart",688,76
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:34:46","AT2",689,76
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:35:05","DANGER2",690,76
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:35:05","DAT2",691,76
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:35:18","SAFE1",692,77
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:35:27","AT1",693,77
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:35:31","DANGER1",694,77
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:35:31","DAT1",695,77
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:35:57","SAFE2",696,77
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:36:01","POSSIBLE_TI",697,77
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:36:02","TI2",698,77
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:36:26","SUB2",699,78
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:36:31","Player_DATA_CONFIRMED",700,78
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:36:48","Restart",701,78
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:36:52","AT2",702,78
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:37:01","SAFE1",703,78
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:37:07","AT2",704,78
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:37:18","DANGER2",705,79
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:37:18","DAT2",706,79
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:37:24","SAFE1",707,79
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:37:32","AT1",708,79
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:37:38","POSSIBLE_TI",709,79
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:37:39","TI1",710,79
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:37:41","Restart",711,79
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:37:43","DANGER1",712,79
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:37:43","DAT1",713,79
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:37:45","PCR1",714,79
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:37:49","NCR1",715,79
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:37:50","SAFE2",716,79
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:37:54","GK2",717,79
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:38:09","Restart",718,79
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:38:13","AT2",719,79
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:38:22","SAFE1",720,80
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:38:27","AT1",721,80
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:38:41","DANGER1",722,80
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:38:41","DAT1",723,80
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:39:27","SAFE2",724,81
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:39:32","AT2",725,81
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:39:34","DANGER2",726,81
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:39:34","DAT2",727,81
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:39:44","POSSIBLE_TI",728,81
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:39:48","TI2",729,81
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:40:05","Restart",730,81
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:40:16","SHB2",731,81
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:40:18","SAFE1",732,82
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:40:19","GK1",733,82
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:40:27","Restart",734,82
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:40:33","AT1",735,82
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:40:38","POSSIBLE_TI",736,82
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:40:39","TI1",737,82
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:40:42","Restart",738,82
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:40:48","DANGER1",739,82
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:40:48","DAT1",740,82
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:40:56","SAFE2",741,82
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:41:00","AT2",742,82
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:41:04","DANGER2",743,82
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:41:04","DAT2",744,82
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:41:08","SAFE1",745,82
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:41:27","POSSIBLE_TI",746,83
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:41:28","TI1",747,83
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:41:30","Restart",748,83
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:41:38","AT1",749,83
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:41:41","DANGER1",750,83
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:41:41","DAT1",751,83
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:41:56","SAFE2",752,83
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:42:09","Possible Free Kick",753,83
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:42:10","F1",755,83
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:42:10","FK2",756,83
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:42:10","DANGER2",757,83
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:42:10","DFK2",758,83
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:42:10","Ball Position",759,83
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:42:33","Restart",760,84
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:42:46","PCR2",761,84
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:42:49","CR2",762,84
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:42:50","Ball Position",763,84
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:43:19","Restart",764,85
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:43:26","SAFE1",765,85
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:43:34","POSSIBLE_TI",766,85
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:43:35","TI2",767,85
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:43:52","Restart",768,85
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:43:57","AT2",769,85
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:44:01","DANGER2",770,85
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:44:01","DAT2",771,85
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:44:14","SAFE1",772,85
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:44:14","Possible Free Kick",773,85
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:44:18","F2",775,86
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:44:18","FK1",776,86
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:44:18","Ball Position",777,86
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:44:19","Restart",778,86
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:44:24","AT1",779,86
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:44:45","DANGER1",780,86
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:44:45","DAT1",781,86
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:44:50","SAFE2",782,86
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:45:04","AT2",783,86
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:45:22","SAFE1",784,87
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:45:22","Possible Free Kick",785,87
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:45:23","F2",787,87
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:45:23","FK1",788,87
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:45:24","Ball Position",789,87
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:45:24","Restart",790,87
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:45:42","POSSIBLE_CARDS",791,87
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:45:53","YC2",792,87
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:45:54","CONF_YC2",793,87
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:45:56","Scorer",794,87
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:46:01","Possible Free Kick",795,87
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:46:05","F2",797,87
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:46:05","FK1",798,87
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:46:05","DANGER1",799,87
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:46:05","DFK1",800,87
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:46:05","Ball Position",801,87
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:46:06","Scorer",802,87
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:46:06","Player_DATA_CONFIRMED",803,87
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:46:07","Restart",804,87
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:46:11","SAFE2",805,87
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:46:36","POSSIBLE_TI",806,88
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:46:37","TI2",807,88
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:46:42","Restart",808,88
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:46:45","SAFE1",809,88
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:46:46","Possible Free Kick",810,88
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:46:48","O2",812,88
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:46:48","FK1",813,88
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:46:48","Ball Position",814,88
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:46:50","Restart",815,88
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:47:01","POSSIBLE_TI",816,88
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:47:05","TI1",817,88
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:47:18","SUB2",818,89
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:47:23","Restart",819,89
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:47:25","AT1",820,89
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:47:28","DANGER1",821,89
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:47:28","DAT1",822,89
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:47:32","GOAL1",823,89
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:47:57","Scorer",824,89
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:48:00","Player_DATA_CONFIRMED",825,89
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:48:01","CONF_GOAL1",826,89
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:48:12","KO2",827,89
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:48:12","SAFE2",828,89
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:48:28","POSSIBLE_TI",829,90
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:48:28","TI1",830,90
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:48:30","Player_DATA_CONFIRMED",831,90
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:48:30","Assist",832,90
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:48:31","Restart",833,90
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:49:00","AT1",834,90
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:49:05","DANGER1",835,90
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:49:05","DAT1",836,90
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:49:22","POSSIBLE_TI",837,91
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:49:23","TI1",838,91
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:49:24","Restart",839,91
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:49:37","PCR1",840,91
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:49:43","SHB1",841,91
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:49:45","CR1",842,91
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:49:47","Ball Position",843,91
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:49:54","Restart",844,91
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:49:55","Extra Time",845,91
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:50:12","GOAL1",846,91
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:50:36","Scorer",847,92
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:50:47","CONF_GOAL1",848,92
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:51:18","KO2",849,93
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:51:18","SAFE2",850,93
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:51:23","Extra Time",851,93
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:51:24","AT2",852,93
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:51:29","DANGER2",853,93
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:51:29","DAT2",854,93
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:51:34","SAFE1",855,93
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:51:41","Scorer",856,93
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:51:41","Player_DATA_CONFIRMED",857,93
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:51:44","AT1",858,93
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:51:46","SAFE2",859,93
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:51:56","AT2",860,93
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:51:57","DANGER2",861,93
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:51:57","DAT2",862,93
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:52:01","SAFE1",863,93
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:52:02","GK1",864,93
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:52:22","Restart",865,94
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:52:37","SAFE2",866,94
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:52:39","POSSIBLE_TI",867,94
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:52:40","TI2",868,94
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:52:45","Restart",869,94
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:52:59","AT2",870,94
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:53:03","DANGER2",871,94
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:53:03","DAT2",872,94
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:53:11","GOAL2",873,94
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:53:53","Scorer",874,95
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:53:54","CONF_GOAL2",875,95
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:54:13","KO1",876,95
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:54:13","SAFE1",877,95
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:54:20","CLS",878,96
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:54:21","Scorer",879,96
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:54:22","KO1",880,96
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:54:22","SAFE1",881,96
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:54:27","Stop RT2",882,96
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:54:27","Stop Game",883,96
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:55:02","CONF_PERIOD_SCORE",884,95
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:56:02","Scorer",885,95
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:56:02","Player_DATA_CONFIRMED",886,95
+946502,"Toulouse FC","RCS Strasbourg","03/17/2018 20:56:02","Assist",887,95

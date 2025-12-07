@@ -1,0 +1,969 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 12:11:46","Lineup changed",0,0
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 12:25:16","Scout in Stadion",1,0
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 12:25:23","Transmission Online",2,0
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 12:49:07","GCC",3,0
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 12:56:07","Players are coming out",4,0
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 12:56:34","Jersey Changed",5,0
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 12:56:34","Jersey Changed",6,0
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 12:59:17","Game about to start",7,0
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:00:02","Start RT1 Team 2",8,1
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:00:06","AT2",9,1
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:00:34","SAFE1",10,1
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:00:35","AT1",11,1
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:00:35","DANGER1",12,1
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:00:35","DAT1",13,1
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:00:47","SAFE2",14,1
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:00:49","AT2",15,1
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:00:51","SAFE1",16,1
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:00:52","AT1",17,1
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:00:53","DANGER1",18,1
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:00:53","DAT1",19,1
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:01:01","SHG1",20,1
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:01:08","SAFE2",21,2
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:01:49","AT2",22,2
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:01:51","DANGER2",23,2
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:01:51","DAT2",24,2
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:02:01","Possible Free Kick",25,2
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:02:05","No Free Kick",27,3
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:02:06","POSSIBLE_TI",28,3
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:02:07","TI2",29,3
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:02:09","Restart",30,3
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:02:10","POSSIBLE_TI",31,3
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:02:15","TI2",32,3
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:02:17","Restart",33,3
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:02:22","POSSIBLE_TI",34,3
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:02:28","TI2",35,3
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:02:28","Restart",36,3
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:03:17","POSSIBLE_TI",37,4
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:03:19","TI2",38,4
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:03:21","Restart",39,4
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:03:24","POSSIBLE_TI",40,4
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:03:29","TI2",41,4
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:03:36","Restart",42,4
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:03:45","PCR2",43,4
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:03:47","SHB2",44,4
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:03:52","NCR2",45,4
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:03:52","SAFE1",46,4
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:03:54","GK1",47,4
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:04:08","Restart",48,5
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:04:13","Possible Free Kick",49,5
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:04:33","F2",51,5
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:04:33","FK1",52,5
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:04:33","DANGER1",53,5
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:04:33","DFK1",54,5
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:04:33","Ball Position",55,5
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:04:38","Restart",56,5
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:04:45","PCR1",57,5
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:04:59","NCR1",58,5
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:04:59","SAFE2",59,5
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:05:00","GK2",60,5
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:05:02","Restart",61,5
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:05:15","AT2",62,6
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:05:16","DANGER2",63,6
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:05:16","DAT2",64,6
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:05:25","PCR2",65,6
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:05:33","NCR2",66,6
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:05:34","SAFE1",67,6
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:05:35","GK1",68,6
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:05:46","Restart",69,6
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:05:51","AT1",70,6
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:05:52","POSSIBLE_TI",71,6
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:06:05","TI1",72,7
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:06:06","Restart",73,7
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:06:26","SAFE2",74,7
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:06:27","AT2",75,7
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:06:31","SAFE1",76,7
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:06:31","AT1",77,7
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:06:32","POSSIBLE_TI",78,7
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:06:39","TI1",79,7
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:06:43","Restart",80,7
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:06:46","POSSIBLE_TI",81,7
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:06:51","TI1",82,7
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:06:56","Restart",83,7
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:06:56","DANGER1",84,7
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:06:56","DAT1",85,7
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:06:57","BREAKAWAY1",86,7
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:06:57","DANGER1",87,7
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:06:58","BREAKAWAY1",88,7
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:06:59","DANGER1",89,7
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:07:03","PCR1",90,8
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:07:08","NCR1",91,8
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:07:08","SAFE2",92,8
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:07:10","GK2",93,8
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:07:12","Restart",94,8
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:07:34","AT2",95,8
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:07:44","POSSIBLE_TI",96,8
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:07:46","TI1",97,8
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:07:50","Restart",98,8
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:07:52","AT1",99,8
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:07:52","DANGER1",100,8
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:07:52","DAT1",101,8
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:08:00","PCR1",102,8
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:08:08","CR1",103,9
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:08:10","Ball Position",104,9
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:08:25","Restart",105,9
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:08:31","PCR1",106,9
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:08:35","SHB1",107,9
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:08:40","NCR1",108,9
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:08:41","SAFE2",109,9
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:08:42","GK2",110,9
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:08:43","Restart",111,9
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:08:55","AT2",112,9
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:09:10","POSSIBLE_TI",113,10
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:09:14","TI2",114,10
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:09:15","Restart",115,10
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:09:28","SAFE2",116,10
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:09:38","Possible Free Kick",117,10
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:09:48","No Free Kick",119,10
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:09:53","Referee Ball",120,10
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:09:54","Restart",121,10
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:10:09","AT2",122,11
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:10:22","DANGER2",123,11
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:10:22","DAT2",124,11
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:10:28","SAFE1",125,11
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:10:29","AT1",126,11
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:10:30","DANGER1",127,11
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:10:30","DAT1",128,11
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:10:36","PCR1",129,11
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:10:44","CR1",130,11
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:10:45","Ball Position",131,11
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:11:03","Restart",132,12
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:11:12","Possible Free Kick",133,12
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:11:13","No Free Kick",135,12
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:11:13","POSSIBLE_TI",136,12
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:11:19","TI1",137,12
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:11:23","Restart",138,12
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:11:35","SAFE2",139,12
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:11:58","AT2",140,12
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:12:17","DANGER2",141,13
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:12:17","DAT2",142,13
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:12:37","POSSIBLE_TI",143,13
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:12:42","TI2",144,13
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:12:46","Restart",145,13
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:12:50","POSSIBLE_TI",146,13
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:13:00","TI1",147,13
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:13:03","Restart",148,14
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:13:08","SAFE1",149,14
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:13:08","AT1",150,14
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:13:09","POSSIBLE_TI",151,14
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:13:14","TI1",152,14
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:13:24","Restart",153,14
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:13:30","POSSIBLE_TI",154,14
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:13:35","TI2",155,14
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:13:36","Restart",156,14
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:13:40","SAFE2",157,14
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:14:02","AT2",158,14
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:14:24","DANGER2",159,15
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:14:24","DAT2",160,15
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:14:43","POSSIBLE_TI",161,15
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:14:49","TI2",162,15
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:15:18","Restart",163,16
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:15:37","POSSIBLE_TI",164,16
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:15:41","TI2",165,16
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:15:43","Restart",166,16
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:16:10","SAFE1",167,17
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:16:10","AT1",168,17
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:16:11","DANGER1",169,17
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:16:11","DAT1",170,17
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:16:19","SAFE2",171,17
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:16:21","AT2",172,17
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:16:24","DANGER2",173,17
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:16:24","DAT2",174,17
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:16:42","SAFE1",175,17
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:16:46","AT1",176,17
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:16:51","DANGER1",177,17
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:16:51","DAT1",178,17
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:16:57","SHG1",179,17
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:17:22","SAFE2",180,18
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:17:28","AT2",181,18
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:17:30","DANGER2",182,18
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:17:30","DAT2",183,18
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:17:52","SAFE1",184,18
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:17:53","AT1",185,18
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:17:53","DANGER1",186,18
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:17:53","DAT1",187,18
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:18:01","Possible Free Kick",188,18
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:18:23","F2",190,19
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:18:23","FK1",191,19
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:18:23","DFK1",192,19
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:18:23","Ball Position",193,19
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:18:54","Restart",194,19
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:19:02","POSSIBLE_TI",195,20
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:19:16","TI2",196,20
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:19:20","Restart",197,20
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:19:27","SHG1",198,20
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:19:29","SAFE2",199,20
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:19:31","AT2",200,20
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:19:39","SAFE1",201,20
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:19:40","AT1",202,20
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:19:41","DANGER1",203,20
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:19:41","DAT1",204,20
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:19:47","SAFE2",205,20
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:19:47","AT2",206,20
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:20:06","SAFE1",207,21
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:20:06","AT1",208,21
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:20:06","DANGER1",209,21
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:20:06","DAT1",210,21
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:20:09","POSSIBLE_TI",211,21
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:20:18","TI2",212,21
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:20:19","Restart",213,21
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:20:24","SAFE2",214,21
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:20:28","AT2",215,21
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:20:38","DANGER2",216,21
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:20:38","DAT2",217,21
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:21:01","SAFE1",218,21
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:21:15","AT1",219,22
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:21:21","SAFE2",220,22
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:21:34","AT2",221,22
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:21:35","DANGER2",222,22
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:21:35","DAT2",223,22
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:21:41","PCR2",224,22
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:21:45","SHG2",225,22
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:21:54","CR2",226,22
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:21:56","Ball Position",227,22
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:22:06","Restart",228,23
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:22:10","PCR2",229,23
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:22:12","SHB2",230,23
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:22:22","NCR2",231,23
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:22:22","SAFE1",232,23
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:22:23","GK1",233,23
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:22:36","Restart",234,23
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:22:38","AT1",235,23
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:22:54","SAFE2",236,23
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:23:09","AT2",237,24
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:23:10","DANGER2",238,24
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:23:10","DAT2",239,24
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:23:12","Possible Free Kick",240,24
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:23:29","SAFE1",242,24
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:23:29","O2",243,24
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:23:29","FK1",244,24
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:23:29","Ball Position",245,24
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:23:33","Restart",246,24
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:23:38","AT1",247,24
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:23:39","POSSIBLE_TI",248,24
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:23:44","TI2",249,24
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:23:44","Restart",250,24
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:23:54","SAFE2",251,24
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:23:54","AT2",252,24
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:23:58","DANGER2",253,24
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:23:58","DAT2",254,24
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:24:12","SAFE2",255,25
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:24:26","AT2",256,25
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:24:30","DANGER2",257,25
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:24:30","DAT2",258,25
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:24:34","POSSIBLE_TI",259,25
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:24:36","TI1",260,25
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:24:48","Restart",261,25
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:24:53","Possible Free Kick",262,25
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:25:04","SAFE1",264,26
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:25:04","F2",265,26
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:25:04","FK1",266,26
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:25:04","Ball Position",267,26
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:25:17","Restart",268,26
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:25:34","POSSIBLE_TI",269,26
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:25:36","TI2",270,26
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:25:37","Restart",271,26
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:25:47","AT2",272,26
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:25:56","DANGER2",273,26
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:25:56","DAT2",274,26
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:25:59","PCR2",275,26
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:26:04","SHB2",276,27
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:26:18","NCR2",277,27
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:26:18","SAFE1",278,27
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:26:19","GK1",279,27
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:26:29","Restart",280,27
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:26:30","AT1",281,27
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:26:35","POSSIBLE_TI",282,27
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:27:00","TI2",283,27
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:27:01","Restart",284,27
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:27:05","SAFE2",285,28
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:27:39","AT2",286,28
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:27:40","DANGER2",287,28
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:27:40","DAT2",288,28
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:27:46","POSSIBLE_TI",289,28
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:27:48","TI2",290,28
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:27:49","Restart",291,28
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:28:05","Possible Free Kick",292,29
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:28:36","F1",294,29
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:28:36","FK2",295,29
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:28:36","DFK2",296,29
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:28:36","Ball Position",297,29
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:29:05","Restart",298,30
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:29:10","PCR2",299,30
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:29:14","SHB2",300,30
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:29:20","NCR2",301,30
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:29:21","SAFE1",302,30
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:29:27","GK1",303,30
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:29:49","Restart",304,30
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:29:57","Possible Free Kick",305,30
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:30:16","F1",307,31
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:30:16","FK2",308,31
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:30:16","DANGER2",309,31
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:30:16","DFK2",310,31
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:30:16","Ball Position",311,31
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:30:16","Restart",312,31
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:30:35","SAFE1",313,31
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:30:35","AT1",314,31
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:30:36","DANGER1",315,31
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:30:36","DAT1",316,31
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:30:44","PCR1",317,31
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:30:51","CR1",318,31
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:30:53","Ball Position",319,31
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:31:06","Restart",320,32
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:32:04","PCR1",321,33
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:32:10","CR1",322,33
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:32:12","Ball Position",323,33
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:32:30","Restart",324,33
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:32:35","PCR1",325,33
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:32:41","CR1",326,33
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:32:42","Ball Position",327,33
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:32:44","Restart",328,33
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:32:59","Possible Free Kick",329,33
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:33:00","POSSIBLE_CARDS",331,33
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:33:04","PRC",332,34
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:33:35","RC1",333,34
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:34:02","CONF_RC1",334,35
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:34:17","Scorer",335,35
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:34:30","Injury Break",336,35
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:35:11","SAFE2",337,36
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:35:11","Restart",338,36
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:35:11","F1",339,36
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:35:11","FK2",340,36
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:35:11","Ball Position",341,36
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:35:11","Restart",342,36
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:35:31","AT2",343,36
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:35:38","SAFE1",344,36
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:35:40","AT1",345,36
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:35:40","Player_DATA_CONFIRMED",346,36
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:35:41","DANGER1",347,36
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:35:41","DAT1",348,36
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:35:46","POSSIBLE_TI",349,36
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:35:49","TI2",350,36
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:35:53","Restart",351,36
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:35:54","SAFE2",352,36
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:36:02","AT2",353,37
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:36:20","DANGER2",354,37
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:36:20","DAT2",355,37
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:36:26","POSSIBLE_TI",356,37
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:36:39","TI2",357,37
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:36:42","Restart",358,37
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:36:50","Possible Free Kick",359,37
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:36:59","SAFE1",361,37
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:36:59","F2",362,37
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:36:59","FK1",363,37
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:36:59","Ball Position",364,37
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:37:16","Restart",365,38
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:37:23","AT1",366,38
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:37:27","SAFE2",367,38
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:37:28","AT2",368,38
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:37:30","SAFE1",369,38
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:37:30","AT1",370,38
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:37:31","DANGER1",371,38
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:37:31","DAT1",372,38
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:37:35","PCR1",373,38
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:37:38","SHB1",374,38
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:37:39","NCR1",375,38
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:37:40","SAFE2",376,38
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:37:41","GK2",377,38
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:37:41","Restart",378,38
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:37:46","AT2",379,38
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:37:47","DANGER2",380,38
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:37:47","DAT2",381,38
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:37:48","POSSIBLE_TI",382,38
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:37:50","TI1",383,38
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:37:58","Restart",384,38
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:38:02","POSSIBLE_TI",385,38
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:38:06","TI2",386,39
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:38:29","SUB1",387,39
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:38:31","Restart",388,39
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:38:35","SAFE2",389,39
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:38:40","Player_DATA_CONFIRMED",390,39
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:38:45","AT2",391,39
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:38:52","DANGER2",392,39
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:38:52","DAT2",393,39
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:39:45","BLOCKED2",394,40
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:39:55","SAFE1",395,40
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:39:55","AT1",396,40
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:39:57","DANGER1",397,40
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:39:57","DAT1",398,40
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:40:05","GOAL1",399,41
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:40:41","Scorer",400,41
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:40:49","CONF_GOAL1",401,41
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:40:50","KO2",402,41
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:40:50","SAFE2",403,41
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:41:05","AT2",404,42
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:41:14","DANGER2",405,42
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:41:14","DAT2",406,42
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:41:27","POSSIBLE_TI",407,42
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:41:29","TI2",408,42
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:41:31","Restart",409,42
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:41:38","PCR2",410,42
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:41:43","CR2",411,42
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:41:46","Ball Position",412,42
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:41:59","Restart",413,42
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:42:09","SAFE1",414,43
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:42:18","AT1",415,43
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:42:26","SAFE2",416,43
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:42:32","AT2",417,43
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:42:34","DANGER2",418,43
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:42:34","DAT2",419,43
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:42:39","Player_DATA_CONFIRMED",420,43
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:42:39","Assist",421,43
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:42:48","SAFE1",422,43
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:42:50","AT1",423,43
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:42:58","SAFE2",424,43
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:43:02","AT2",425,43
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:43:08","DANGER2",426,44
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:43:08","DAT2",427,44
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:43:39","SAFE1",428,44
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:43:46","AT1",429,44
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:43:51","DANGER1",430,44
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:43:51","DAT1",431,44
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:43:59","SHG1",432,44
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:44:01","SAFE2",433,44
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:44:09","AT2",434,45
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:44:10","DANGER2",435,45
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:44:10","DAT2",436,45
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:44:57","PCR2",437,45
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:44:59","CR2",438,45
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:45:01","Ball Position",439,45
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:45:07","Extra Time",440,46
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:45:23","Restart",441,46
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:45:33","SAFE1",442,46
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:45:34","AT1",443,46
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:45:36","DANGER1",444,46
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:45:36","DAT1",445,46
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:45:49","SAFE2",446,46
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:45:50","AT2",447,46
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:45:57","DANGER2",448,46
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:45:57","DAT2",449,46
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:46:06","Stop RT1",450,46
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:46:19","CONF_PERIOD_SCORE",451,45
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 13:59:21","Players are coming out",452,45
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:03:09","SUB2",453,45
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:03:13","Game about to start",454,45
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:03:32","Start RT2 Team 1",455,46
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:03:36","AT1",456,46
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:03:40","Player_DATA_CONFIRMED",457,46
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:03:47","SAFE2",458,46
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:03:47","AT2",459,46
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:03:49","DANGER2",460,46
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:03:49","DAT2",461,46
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:03:50","POSSIBLE_TI",462,46
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:03:52","TI2",463,46
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:03:53","Restart",464,46
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:04:15","POSSIBLE_TI",465,46
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:04:23","TI1",466,46
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:04:32","Restart",467,47
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:04:42","POSSIBLE_TI",468,47
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:04:51","TI1",469,47
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:04:54","Restart",470,47
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:05:56","Possible Free Kick",471,48
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:06:08","F1",473,48
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:06:08","FK2",474,48
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:06:08","DFK2",475,48
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:06:08","Ball Position",476,48
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:06:31","Restart",477,48
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:06:36","PCR2",478,49
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:06:43","SHB2",479,49
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:06:49","CR2",480,49
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:06:51","Ball Position",481,49
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:06:59","Restart",482,49
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:07:06","Possible Free Kick",483,49
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:07:13","SAFE1",485,49
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:07:13","F2",486,49
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:07:13","FK1",487,49
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:07:13","Ball Position",488,49
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:07:22","Restart",489,49
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:07:23","AT1",490,49
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:07:33","SAFE2",491,50
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:07:48","AT2",492,50
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:07:49","DANGER2",493,50
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:07:49","DAT2",494,50
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:07:55","Possible Free Kick",495,50
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:08:12","SAFE1",497,50
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:08:12","O2",498,50
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:08:12","FK1",499,50
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:08:12","Ball Position",500,50
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:08:22","Restart",501,50
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:08:24","AT1",502,50
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:08:31","SAFE2",503,50
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:08:35","AT2",504,51
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:08:51","DANGER2",505,51
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:08:51","DAT2",506,51
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:09:28","SAFE1",507,51
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:09:32","AT1",508,52
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:09:33","SAFE2",509,52
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:09:33","AT2",510,52
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:09:34","DANGER2",511,52
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:09:34","DAT2",512,52
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:09:41","SAFE1",513,52
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:10:06","AT1",514,52
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:10:07","POSSIBLE_TI",515,52
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:10:08","TI2",516,52
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:10:09","Restart",517,52
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:10:11","SAFE2",518,52
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:10:25","AT2",519,52
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:10:27","DANGER2",520,52
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:10:27","DAT2",521,52
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:10:36","GOAL2",522,53
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:10:55","Scorer",523,53
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:11:08","CONF_GOAL2",524,53
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:11:15","KO1",525,53
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:11:15","SAFE1",526,53
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:11:24","AT1",527,53
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:11:30","Possible Free Kick",528,53
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:11:51","F2",530,54
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:11:51","FK1",531,54
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:11:51","DANGER1",532,54
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:11:51","DFK1",533,54
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:11:51","Ball Position",534,54
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:12:00","Restart",535,54
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:12:08","SAFE2",536,54
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:12:08","AT2",537,54
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:12:10","Player_DATA_CONFIRMED",538,54
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:12:10","Assist",539,54
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:12:12","DANGER2",540,54
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:12:12","DAT2",541,54
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:12:19","PCR2",542,54
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:12:26","NCR2",543,54
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:12:26","SAFE1",544,54
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:12:27","GK1",545,54
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:12:46","Restart",546,55
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:12:47","AT1",547,55
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:13:02","SAFE2",548,55
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:13:03","AT2",549,55
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:13:08","DANGER2",550,55
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:13:08","DAT2",551,55
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:13:10","Possible Free Kick",552,55
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:13:28","SAFE1",554,55
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:13:28","O2",555,55
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:13:28","FK1",556,55
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:13:28","Ball Position",557,55
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:13:28","Restart",558,55
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:13:33","AT1",559,56
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:13:39","Possible Free Kick",560,56
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:14:04","F2",562,56
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:14:04","FK1",563,56
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:14:04","DANGER1",564,56
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:14:04","DFK1",565,56
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:14:04","Ball Position",566,56
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:14:12","Restart",567,56
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:14:16","Possible Free Kick",568,56
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:14:36","F2",570,57
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:14:36","FK1",571,57
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:14:36","DFK1",572,57
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:14:36","Ball Position",573,57
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:15:21","Restart",574,57
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:15:23","GOAL1",575,57
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:15:56","Scorer",576,58
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:16:10","CONF_GOAL1",577,58
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:16:11","KO2",578,58
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:16:11","SAFE2",579,58
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:16:21","AT2",580,58
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:16:34","DANGER2",581,59
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:16:34","DAT2",582,59
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:16:40","Player_DATA_CONFIRMED",583,59
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:16:43","POSSIBLE_TI",584,59
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:16:50","TI1",585,59
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:16:52","Restart",586,59
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:16:56","POSSIBLE_TI",587,59
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:17:05","TI1",588,59
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:17:10","Restart",589,59
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:17:16","SAFE1",590,59
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:17:16","AT1",591,59
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:17:19","SAFE2",592,59
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:17:26","AT2",593,59
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:17:33","DANGER2",594,60
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:17:33","DAT2",595,60
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:18:27","SAFE1",596,60
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:18:30","AT1",597,60
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:18:31","SAFE2",598,60
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:18:32","AT2",599,60
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:18:33","DANGER2",600,61
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:18:33","DAT2",601,61
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:18:43","Possible Free Kick",602,61
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:18:52","SAFE1",604,61
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:18:52","O2",605,61
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:18:52","FK1",606,61
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:18:52","Ball Position",607,61
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:19:09","SUB2",608,61
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:19:53","Restart",609,62
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:19:57","AT1",610,62
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:20:11","Player_DATA_CONFIRMED",611,62
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:20:13","SAFE2",612,62
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:20:26","AT2",613,62
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:20:31","DANGER2",614,62
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:20:31","DAT2",615,62
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:20:42","POSSIBLE_TI",616,63
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:20:48","TI1",617,63
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:20:54","Restart",618,63
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:21:05","SAFE1",619,63
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:21:06","AT1",620,63
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:21:11","DANGER1",621,63
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:21:11","DAT1",622,63
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:21:24","SAFE2",623,63
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:21:25","AT2",624,63
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:21:26","DANGER2",625,63
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:21:26","DAT2",626,63
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:21:40","PCR2",627,64
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:21:41","SHG2",628,64
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:21:54","CR2",629,64
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:21:55","Ball Position",630,64
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:22:07","Restart",631,64
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:22:16","POSSIBLE_TI",632,64
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:22:17","TI2",633,64
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:22:19","Restart",634,64
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:22:43","SAFE1",635,65
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:22:44","AT1",636,65
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:22:48","DANGER1",637,65
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:22:48","DAT1",638,65
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:22:53","PCR1",639,65
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:22:55","NCR1",640,65
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:22:56","SAFE2",641,65
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:22:57","GK2",642,65
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:23:01","Restart",643,65
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:23:03","AT2",644,65
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:23:05","DANGER2",645,65
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:23:05","DAT2",646,65
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:23:28","BLOCKED2",647,65
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:23:45","SAFE1",648,66
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:23:49","AT1",649,66
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:23:51","DANGER1",650,66
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:23:51","DAT1",651,66
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:24:08","SAFE2",652,66
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:24:08","AT2",653,66
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:24:24","DANGER2",654,66
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:24:24","DAT2",655,66
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:24:50","SAFE1",656,67
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:24:55","AT1",657,67
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:24:56","DANGER1",658,67
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:24:56","DAT1",659,67
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:25:09","SAFE2",660,67
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:25:09","AT2",661,67
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:25:13","DANGER2",662,67
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:25:13","DAT2",663,67
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:25:20","PCR2",664,67
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:25:21","NCR2",665,67
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:25:23","SHG2",666,67
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:25:36","POSSIBLE_TI",667,68
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:25:41","TI1",668,68
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:26:17","SUB1",669,68
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:26:23","Restart",670,68
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:26:29","SAFE1",671,68
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:26:30","AT1",672,68
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:26:31","DANGER1",673,68
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:26:31","DAT1",674,68
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:26:47","SHG1",675,69
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:26:47","SAFE2",676,69
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:26:49","AT2",677,69
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:26:54","DANGER2",678,69
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:26:54","DAT2",679,69
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:27:04","Possible Free Kick",680,69
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:27:08","SAFE1",682,69
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:27:09","F2",683,69
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:27:09","FK1",684,69
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:27:09","Ball Position",685,69
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:27:10","Player_DATA_CONFIRMED",686,69
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:27:34","SUB2",687,70
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:27:45","Restart",688,70
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:27:47","AT1",689,70
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:27:54","DANGER1",690,70
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:27:54","DAT1",691,70
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:28:09","Player_DATA_CONFIRMED",692,70
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:28:11","SAFE1",693,70
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:28:11","SAFE2",694,70
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:28:12","AT2",695,70
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:28:13","DANGER2",696,70
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:28:13","DAT2",697,70
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:28:22","PCR2",698,70
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:28:33","NCR2",699,71
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:28:34","SAFE1",700,71
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:28:35","GK1",701,71
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:28:58","Restart",702,71
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:28:59","AT1",703,71
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:29:05","POSSIBLE_TI",704,71
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:29:11","TI1",705,71
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:29:12","Restart",706,71
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:29:16","POSSIBLE_TI",707,71
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:29:17","TI2",708,71
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:29:21","Restart",709,71
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:29:24","SAFE2",710,71
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:29:28","AT2",711,71
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:29:29","DANGER2",712,71
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:29:29","DAT2",713,71
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:29:37","PCR2",714,72
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:29:45","CR2",715,72
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:29:46","Ball Position",716,72
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:29:52","Restart",717,72
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:30:04","SAFE1",718,72
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:30:06","GK1",719,72
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:30:15","Restart",720,72
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:30:16","AT1",721,72
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:30:23","Possible Free Kick",722,72
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:30:32","F2",724,72
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:30:32","FK1",725,72
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:30:32","DANGER1",726,72
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:30:32","DFK1",727,72
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:30:32","Ball Position",728,72
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:30:32","Restart",729,73
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:30:46","SAFE2",730,73
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:30:52","AT2",731,73
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:30:54","DANGER2",732,73
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:30:54","DAT2",733,73
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:30:59","PCR2",734,73
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:31:09","NCR2",735,73
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:31:10","SAFE1",736,73
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:31:12","GK1",737,73
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:31:27","Restart",738,73
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:31:29","AT1",739,73
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:31:37","SAFE2",740,74
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:31:37","AT2",741,74
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:31:37","DANGER2",742,74
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:31:37","DAT2",743,74
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:31:44","SAFE1",744,74
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:31:44","AT1",745,74
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:31:48","DANGER1",746,74
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:31:48","DAT1",747,74
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:32:05","SAFE2",748,74
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:32:06","AT2",749,74
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:32:06","POSSIBLE_CARDS",750,74
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:32:14","YC1",751,74
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:32:25","CONF_YC1",752,74
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:32:26","Scorer",753,74
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:32:33","POSSIBLE_TI",754,75
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:32:35","TI2",755,75
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:32:36","Restart",756,75
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:32:46","DANGER2",757,75
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:32:46","DAT2",758,75
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:33:08","SAFE1",759,75
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:33:09","AT1",760,75
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:33:11","POSSIBLE_TI",761,75
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:33:13","TI2",762,75
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:33:14","Restart",763,75
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:33:23","SAFE2",764,75
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:33:23","AT2",765,75
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:33:25","DANGER2",766,75
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:33:25","DAT2",767,75
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:33:32","PCR2",768,75
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:33:39","NCR2",769,76
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:33:40","SAFE1",770,76
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:33:40","Scorer",771,76
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:33:40","Player_DATA_CONFIRMED",772,76
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:33:41","GK1",773,76
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:33:58","Restart",774,76
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:34:05","POSSIBLE_TI",775,76
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:34:07","TI1",776,76
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:34:14","Restart",777,76
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:34:19","AT1",778,76
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:34:20","Possible Free Kick",779,76
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:34:26","F2",781,76
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:34:26","FK1",782,76
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:34:26","DANGER1",783,76
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:34:26","DFK1",784,76
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:34:26","Ball Position",785,76
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:34:28","Restart",786,76
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:34:37","SAFE2",787,77
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:34:42","AT2",788,77
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:34:43","DANGER2",789,77
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:34:43","DAT2",790,77
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:35:04","BLOCKED2",791,77
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:35:15","PCR2",792,77
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:35:24","CR2",793,77
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:35:26","Ball Position",794,77
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:35:27","Restart",795,77
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:35:33","Possible Free Kick",796,78
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:35:46","SAFE1",798,78
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:35:46","F2",799,78
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:35:46","FK1",800,78
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:35:46","Ball Position",801,78
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:36:45","SUB1",802,79
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:36:51","Restart",803,79
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:36:57","AT1",804,79
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:37:02","SAFE2",805,79
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:37:03","AT2",806,79
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:37:04","DANGER2",807,79
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:37:04","DAT2",808,79
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:37:14","SAFE1",809,79
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:37:16","SAFE2",810,79
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:37:18","AT1",811,79
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:37:21","Possible Free Kick",812,79
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:37:39","SAFE1",814,80
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:37:39","F2",815,80
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:37:39","FK1",816,80
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:37:39","Ball Position",817,80
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:37:47","Restart",818,80
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:37:48","AT1",819,80
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:37:56","DANGER1",820,80
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:37:56","DAT1",821,80
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:38:06","SAFE2",822,80
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:38:11","AT2",823,80
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:38:13","DANGER2",824,80
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:38:13","DAT2",825,80
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:38:23","POSSIBLE_TI",826,80
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:38:25","TI2",827,80
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:38:30","Restart",828,80
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:38:40","Player_DATA_CONFIRMED",829,81
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:38:48","SAFE1",830,81
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:38:56","AT1",831,81
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:39:01","POSSIBLE_TI",832,81
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:39:02","TI1",833,81
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:39:07","Restart",834,81
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:39:17","SAFE2",835,81
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:39:18","AT2",836,81
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:39:19","DANGER2",837,81
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:39:19","DAT2",838,81
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:39:42","POSSIBLE_TI",839,82
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:39:50","TI2",840,82
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:39:52","Restart",841,82
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:39:59","PCR2",842,82
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:40:04","SHB2",843,82
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:40:15","CR2",844,82
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:40:16","Ball Position",845,82
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:40:18","Restart",846,82
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:40:25","PCR2",847,82
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:40:29","SHB2",848,82
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:40:35","NCR2",849,83
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:40:35","SAFE1",850,83
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:40:37","GK1",851,83
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:40:48","Restart",852,83
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:40:52","AT1",853,83
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:40:57","SAFE2",854,83
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:40:57","AT2",855,83
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:41:02","DANGER2",856,83
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:41:02","DAT2",857,83
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:41:08","POSSIBLE_TI",858,83
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:41:11","TI1",859,83
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:41:21","Restart",860,83
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:41:50","SAFE1",861,84
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:41:51","AT1",862,84
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:41:55","Possible Free Kick",863,84
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:41:56","POSSIBLE_CARDS",865,84
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:41:58","PRC",866,84
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:41:58","Danger",867,84
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:42:03","RC2",868,84
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:42:14","CONF_RC2",869,84
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:42:25","Scorer",870,84
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:42:34","SAFE1",871,85
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:42:34","F2",872,85
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:42:34","FK1",873,85
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:42:34","Ball Position",874,85
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:42:39","Injury Break",875,85
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:43:28","Restart",876,85
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:43:30","AT1",877,85
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:43:32","DANGER1",878,85
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:43:32","DAT1",879,85
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:43:50","SAFE2",880,86
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:43:55","AT2",881,86
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:44:00","DANGER2",882,86
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:44:00","DAT2",883,86
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:44:11","Possible Free Kick",884,86
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:44:15","POSSIBLE_CARDS",886,86
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:44:25","YC1",887,86
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:44:26","CONF_YC1",888,86
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:44:30","Scorer",889,86
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:44:36","F1",890,87
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:44:36","FK2",891,87
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:44:36","DFK2",892,87
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:44:36","Ball Position",893,87
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:45:03","Restart",894,87
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:45:13","SHG2",895,87
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:45:38","Possible Free Kick",896,88
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:45:40","Player_DATA_CONFIRMED",898,88
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:45:41","SAFE1",899,88
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:45:41","F2",900,88
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:45:41","FK1",901,88
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:45:41","Ball Position",902,88
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:45:49","Restart",903,88
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:45:51","AT1",904,88
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:45:59","System Message",905,88
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:45:59","System Message",906,88
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:46:01","Possible Free Kick",907,88
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:46:14","F2",909,88
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:46:14","FK1",910,88
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:46:14","DANGER1",911,88
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:46:14","DFK1",912,88
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:46:14","Ball Position",913,88
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:46:15","Restart",914,88
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:46:22","POSSIBLE_TI",915,88
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:46:27","TI2",916,88
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:46:27","Restart",917,88
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:46:46","SAFE2",918,89
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:46:47","AT2",919,89
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:46:48","DANGER2",920,89
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:46:48","DAT2",921,89
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:46:57","Possible Free Kick",922,89
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:47:02","POSSIBLE_CARDS",924,89
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:47:06","YC1",925,89
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:47:08","CONF_YC1",926,89
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:47:12","Scorer",927,89
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:47:27","F1",929,89
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:47:27","FK2",930,89
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:47:27","DFK2",931,89
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:47:28","Ball Position",932,89
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:47:28","Restart",933,89
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:47:57","SAFE1",934,90
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:48:02","AT1",935,90
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:48:06","DANGER1",936,90
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:48:06","DAT1",937,90
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:48:15","POSSIBLE_TI",938,90
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:48:19","TI2",939,90
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:48:21","Restart",940,90
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:48:26","Extra Time",941,90
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:48:28","SAFE2",942,90
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:48:29","AT2",943,90
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:48:33","SAFE1",944,91
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:48:38","AT1",945,91
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:48:40","DANGER1",946,91
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:48:40","DAT1",947,91
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:48:40","Scorer",948,91
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:48:41","Player_DATA_CONFIRMED",949,91
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:48:55","Possible Free Kick",950,91
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:49:00","SAFE2",952,91
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:49:00","O1",953,91
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:49:00","FK2",954,91
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:49:00","Ball Position",955,91
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:49:02","Restart",956,91
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:49:05","AT2",957,91
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:49:06","DANGER2",958,91
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:49:06","DAT2",959,91
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:49:18","PCR2",960,91
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:49:27","NCR2",961,91
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:49:27","SAFE1",962,91
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:49:29","GK1",963,91
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:49:53","Restart",964,92
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:49:55","AT1",965,92
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:50:01","SAFE2",966,92
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:50:02","AT2",967,92
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:50:06","POSSIBLE_TI",968,92
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:50:10","TI2",969,92
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:50:11","Restart",970,92
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:50:19","DANGER2",971,92
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:50:19","DAT2",972,92
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:50:24","PCR2",973,92
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:50:26","Player_DATA_CONFIRMED",974,92
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:50:31","NCR2",975,92
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:50:32","SAFE1",976,92
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:50:46","GK1",977,93
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:50:50","Restart",978,93
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:50:53","AT1",979,93
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:51:00","DANGER1",980,93
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:51:00","DAT1",981,93
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:51:02","SAFE2",982,93
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:51:17","Possible Free Kick",983,93
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:51:18","POSSIBLE_CARDS",985,93
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:51:20","YC2",986,93
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:51:22","CONF_YC2",987,93
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:51:26","Scorer",988,93
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:51:37","SAFE1",989,94
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:51:37","F2",990,94
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:51:37","FK1",991,94
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:51:37","Ball Position",992,94
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:51:46","Restart",993,94
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:51:54","Stop RT2",994,94
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:51:54","Stop Game",995,94
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:51:59","System Message",996,93
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:52:01","CONF_PERIOD_SCORE",997,93
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:53:04","Scorer",998,93
+868490,"ES Troyes AC","AS Saint Etienne","10/01/2017 14:53:04","Player_DATA_CONFIRMED",999,93

@@ -1,0 +1,927 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+896800,"Valencia CF","FC Barcelona","11/26/2017 18:56:32","Lineup changed",0,0
+896800,"Valencia CF","FC Barcelona","11/26/2017 18:56:35","Transmission Online",1,0
+896800,"Valencia CF","FC Barcelona","11/26/2017 18:56:35","Scout in Stadion",2,0
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:01:19","Lineup changed",3,0
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:04:26","GCC",4,0
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:34:48","Jersey Changed",5,0
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:34:49","Jersey Changed",6,0
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:35:03","GCC",7,0
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:43:09","Players are coming out",8,0
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:43:26","Players lined up",9,0
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:43:42","Shake hands",10,0
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:45:09","Flip coin",11,0
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:45:37","Minute of silent",12,0
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:46:12","System Message",13,0
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:47:09","Game about to start",14,0
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:47:45","Start RT1 Team 2",15,1
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:47:46","SAFE2",16,1
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:48:08","AT2",17,1
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:48:16","DANGER2",18,1
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:48:16","DAT2",19,1
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:49:42","SAFE1",20,2
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:49:59","SAFE2",21,3
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:50:00","AT2",22,3
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:50:02","DANGER2",23,3
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:50:02","DAT2",24,3
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:50:35","SAFE1",25,3
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:50:36","AT2",26,3
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:50:36","DANGER2",27,3
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:50:36","DAT2",28,3
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:50:39","SAFE1",29,3
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:50:44","SAFE2",30,3
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:50:46","AT2",31,4
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:50:47","DANGER2",32,4
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:50:47","DAT2",33,4
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:51:16","PCR2",34,4
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:51:18","CR2",35,4
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:51:21","SHG2",36,4
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:51:22","Ball Position",37,4
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:51:36","Restart",38,4
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:51:48","PCR2",39,5
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:51:54","CR2",40,5
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:51:55","Ball Position",41,5
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:52:07","Restart",42,5
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:52:33","SAFE1",43,5
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:53:00","AT1",44,6
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:53:00","DANGER1",45,6
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:53:00","DAT1",46,6
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:53:05","Possible Free Kick",47,6
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:53:09","SAFE2",49,6
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:53:09","O1",50,6
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:53:09","FK2",51,6
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:53:09","Ball Position",52,6
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:53:19","Restart",53,6
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:53:28","POSSIBLE_TI",54,6
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:53:30","TI2",55,6
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:53:32","Restart",56,6
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:53:44","AT1",57,6
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:53:44","DANGER1",58,6
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:53:44","DAT1",59,6
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:53:52","SHG1",60,7
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:53:53","POSSIBLE_TI",61,7
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:53:55","TI1",62,7
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:54:04","Restart",63,7
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:54:13","PCR1",64,7
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:54:23","CR1",65,7
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:54:24","Ball Position",66,7
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:54:44","Restart",67,7
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:54:48","PCR1",68,8
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:54:50","CR1",69,8
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:54:51","Ball Position",70,8
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:55:07","Restart",71,8
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:55:14","SAFE2",72,8
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:55:14","GK2",73,8
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:55:35","Restart",74,8
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:55:36","AT2",75,8
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:55:36","DANGER2",76,8
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:55:36","DAT2",77,8
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:55:46","SAFE1",78,9
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:55:56","SAFE2",79,9
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:55:59","AT1",80,9
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:55:59","DANGER1",81,9
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:55:59","DAT1",82,9
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:56:01","POSSIBLE_TI",83,9
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:56:06","TI2",84,9
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:56:16","Restart",85,9
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:56:18","POSSIBLE_TI",86,9
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:56:23","TI2",87,9
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:56:38","Restart",88,9
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:56:50","SAFE2",89,10
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:56:59","AT2",90,10
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:57:04","DANGER2",91,10
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:57:04","DAT2",92,10
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:57:21","SHG2",93,10
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:57:22","SAFE1",94,10
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:57:59","AT1",95,11
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:58:02","DANGER1",96,11
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:58:02","DAT1",97,11
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:58:19","SAFE2",98,11
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:58:28","AT2",99,11
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:58:28","DANGER2",100,11
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:58:28","DAT2",101,11
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:58:30","Possible Free Kick",102,11
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:58:33","SAFE1",104,11
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:58:33","O2",105,11
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:58:33","FK1",106,11
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:58:33","Ball Position",107,11
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:58:42","Restart",108,11
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:58:49","AT1",109,12
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:58:49","DANGER1",110,12
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:58:49","DAT1",111,12
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:58:54","SAFE2",112,12
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:59:25","AT2",113,12
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:59:28","DANGER2",114,12
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:59:28","DAT2",115,12
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:59:31","POSSIBLE_TI",116,12
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:59:36","TI1",117,12
+896800,"Valencia CF","FC Barcelona","11/26/2017 19:59:52","Restart",118,13
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:00:06","Possible Free Kick",119,13
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:00:09","SAFE1",121,13
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:00:09","F2",122,13
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:00:09","FK1",123,13
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:00:09","Ball Position",124,13
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:00:31","Restart",125,13
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:00:59","AT1",126,14
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:01:01","DANGER1",127,14
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:01:01","DAT1",128,14
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:01:27","SAFE2",129,14
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:01:35","AT2",130,14
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:01:36","DANGER2",131,14
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:01:36","DAT2",132,14
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:01:50","SAFE2",133,15
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:02:03","AT2",134,15
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:02:05","DANGER2",135,15
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:02:05","DAT2",136,15
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:02:46","POSSIBLE_TI",137,16
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:02:48","TI2",138,16
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:02:58","Restart",139,16
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:03:12","SAFE2",140,16
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:03:16","AT2",141,16
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:03:17","DANGER2",142,16
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:03:17","DAT2",143,16
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:03:49","Possible Free Kick",144,17
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:03:57","SAFE1",146,17
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:03:57","F2",147,17
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:03:57","FK1",148,17
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:03:57","Ball Position",149,17
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:04:13","Restart",150,17
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:04:14","AT1",151,17
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:04:14","DANGER1",152,17
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:04:14","DAT1",153,17
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:04:27","Possible Free Kick",154,17
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:04:31","SAFE2",156,17
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:04:31","O1",157,17
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:04:31","FK2",158,17
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:04:32","Ball Position",159,17
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:04:32","Restart",160,17
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:04:55","AT2",161,18
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:05:00","SAFE2",162,18
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:05:07","AT2",163,18
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:05:09","DANGER2",164,18
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:05:09","DAT2",165,18
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:05:46","Possible Free Kick",166,19
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:05:48","SAFE1",168,19
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:05:48","O2",169,19
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:05:48","FK1",170,19
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:05:48","Ball Position",171,19
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:05:59","Restart",172,19
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:06:10","AT1",173,19
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:06:10","DANGER1",174,19
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:06:10","DAT1",175,19
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:06:17","Possible Free Kick",176,19
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:06:24","F2",178,19
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:06:24","FK1",179,19
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:06:24","DFK1",180,19
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:06:25","Ball Position",181,19
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:06:27","Restart",182,19
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:06:37","SAFE2",183,19
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:06:42","AT2",184,19
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:06:42","DANGER2",185,19
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:06:42","DAT2",186,19
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:06:46","POSSIBLE_TI",187,20
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:06:48","TI2",188,20
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:06:56","Restart",189,20
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:07:17","SAFE1",190,20
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:07:32","AT1",191,20
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:07:34","DANGER1",192,20
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:07:34","DAT1",193,20
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:07:38","SAFE2",194,20
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:07:58","AT2",195,21
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:07:58","DANGER2",196,21
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:07:58","DAT2",197,21
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:08:08","Possible Free Kick",198,21
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:08:09","SAFE1",200,21
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:08:09","F2",201,21
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:08:09","FK1",202,21
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:08:09","Ball Position",203,21
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:08:42","Restart",204,21
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:08:43","AT1",205,21
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:08:43","DANGER1",206,21
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:08:43","DAT1",207,21
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:08:47","SAFE1",208,22
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:08:52","CLS",209,22
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:08:53","POSSIBLE_TI",210,22
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:08:55","TI1",211,22
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:09:00","Restart",212,22
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:09:11","SAFE1",213,22
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:09:11","POSSIBLE_TI",214,22
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:09:12","TI1",215,22
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:09:16","Restart",216,22
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:09:19","SAFE2",217,22
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:09:20","AT2",218,22
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:09:21","DANGER2",219,22
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:09:21","DAT2",220,22
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:09:46","SAFE1",221,23
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:09:51","Possible Free Kick",222,23
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:10:01","F1",224,23
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:10:01","FK2",225,23
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:10:01","DANGER2",226,23
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:10:01","DFK2",227,23
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:10:01","Ball Position",228,23
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:10:33","Restart",229,23
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:10:49","SAFE2",230,24
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:11:00","AT2",231,24
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:11:11","DANGER2",232,24
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:11:11","DAT2",233,24
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:11:20","PCR2",234,24
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:11:21","CR2",235,24
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:11:23","Ball Position",236,24
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:11:42","Restart",237,24
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:11:51","SAFE1",238,25
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:11:53","AT1",239,25
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:11:55","DANGER1",240,25
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:11:55","DAT1",241,25
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:12:09","SAFE2",242,25
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:12:35","AT2",243,25
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:12:35","DANGER2",244,25
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:12:35","DAT2",245,25
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:12:39","SAFE2",246,25
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:12:58","AT2",247,26
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:13:13","POSSIBLE_TI",248,26
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:13:15","TI2",249,26
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:13:26","Restart",250,26
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:13:26","SAFE2",251,26
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:13:43","POSSIBLE_TI",252,26
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:13:47","TI2",253,27
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:13:50","Restart",254,27
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:14:04","AT2",255,27
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:14:12","DANGER2",256,27
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:14:12","DAT2",257,27
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:14:20","SAFE2",258,27
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:14:26","AT2",259,27
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:14:30","DANGER2",260,27
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:14:30","DAT2",261,27
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:15:22","SAFE2",262,28
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:15:26","AT2",263,28
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:15:26","DANGER2",264,28
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:15:26","DAT2",265,28
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:15:33","PCR2",266,28
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:15:37","CR2",267,28
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:15:38","Ball Position",268,28
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:16:01","Restart",269,29
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:16:08","PCR2",270,29
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:16:10","CR2",271,29
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:16:12","Ball Position",272,29
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:16:17","Restart",273,29
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:16:32","SAFE2",274,29
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:16:44","AT2",275,29
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:16:45","DANGER2",276,30
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:16:45","DAT2",277,30
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:17:10","SHG2",278,30
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:17:14","SAFE1",279,30
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:17:15","AT1",280,30
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:17:17","DANGER1",281,30
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:17:17","DAT1",282,30
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:17:27","SHB1",283,30
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:17:44","SAFE2",284,30
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:17:45","GK2",285,31
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:18:00","Restart",286,31
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:18:08","AT1",287,31
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:18:08","DANGER1",288,31
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:18:08","DAT1",289,31
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:18:12","SAFE2",290,31
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:18:26","AT2",291,31
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:18:34","SAFE2",292,31
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:18:38","AT2",293,31
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:18:43","DANGER2",294,31
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:18:43","DAT2",295,31
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:18:53","Possible Free Kick",296,32
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:18:54","POSSIBLE_CARDS",298,32
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:18:59","YC1",299,32
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:19:04","CONF_YC1",300,32
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:19:08","Scorer",301,32
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:19:13","F1",302,32
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:19:13","FK2",303,32
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:19:13","DFK2",304,32
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:19:13","Ball Position",305,32
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:20:08","Restart",306,33
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:20:11","SHG2",307,33
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:20:11","SAFE1",308,33
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:20:21","AT1",309,33
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:20:21","DANGER1",310,33
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:20:21","DAT1",311,33
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:20:25","SAFE2",312,33
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:20:30","AT2",313,33
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:20:32","DANGER2",314,33
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:20:32","DAT2",315,33
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:20:39","Player_DATA_CONFIRMED",316,33
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:21:13","SAFE2",317,34
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:21:18","Possible Free Kick",318,34
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:21:19","F1",320,34
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:21:19","FK2",321,34
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:21:19","Ball Position",322,34
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:21:20","Restart",323,34
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:21:27","AT2",324,34
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:21:28","DANGER2",325,34
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:21:28","DAT2",326,34
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:21:38","SAFE1",327,34
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:21:39","AT1",328,34
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:21:42","SAFE2",329,34
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:21:47","AT2",330,35
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:21:47","DANGER2",331,35
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:21:47","DAT2",332,35
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:21:57","SAFE1",333,35
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:21:58","GK1",334,35
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:22:20","Restart",335,35
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:22:21","AT1",336,35
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:22:21","DANGER1",337,35
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:22:21","DAT1",338,35
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:22:34","POSSIBLE_TI",339,35
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:22:36","TI2",340,35
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:22:37","Restart",341,35
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:22:39","SAFE2",342,35
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:23:23","AT2",343,36
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:23:32","DANGER2",344,36
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:23:32","DAT2",345,36
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:24:06","SAFE2",346,37
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:24:10","AT2",347,37
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:24:34","DANGER2",348,37
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:24:34","DAT2",349,37
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:24:39","Possible Free Kick",350,37
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:24:42","SAFE1",352,37
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:24:42","O2",353,37
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:24:42","FK1",354,37
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:24:42","Ball Position",355,37
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:25:02","Restart",356,38
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:25:02","AT1",357,38
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:25:02","DANGER1",358,38
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:25:02","DAT1",359,38
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:25:18","SAFE2",360,38
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:25:20","AT2",361,38
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:25:23","DANGER2",362,38
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:25:23","DAT2",363,38
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:25:27","PCR2",364,38
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:25:30","CR2",365,38
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:25:32","Ball Position",366,38
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:25:52","Restart",367,39
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:26:10","BLOCKED2",368,39
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:26:46","SHG2",369,40
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:26:47","SAFE1",370,40
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:27:07","AT1",371,40
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:27:07","DANGER1",372,40
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:27:07","DAT1",373,40
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:27:19","POSSIBLE_TI",374,40
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:27:21","TI1",375,40
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:27:28","Restart",376,40
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:27:31","CLS",377,40
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:27:38","Restart",378,40
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:27:58","SAFE1",379,41
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:27:59","SAFE2",380,41
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:28:01","AT2",381,41
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:28:01","DANGER2",382,41
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:28:01","DAT2",383,41
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:28:05","SAFE1",384,41
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:28:11","Possible Free Kick",385,41
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:28:16","SAFE2",387,41
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:28:16","O1",388,41
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:28:16","FK2",389,41
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:28:16","Ball Position",390,41
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:28:17","Restart",391,41
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:28:23","AT2",392,41
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:28:30","SAFE2",393,41
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:28:34","AT2",394,41
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:28:36","SAFE2",395,41
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:28:51","AT2",396,42
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:28:51","DANGER2",397,42
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:28:51","DAT2",398,42
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:29:07","SHG2",399,42
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:29:08","SHG2",400,42
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:29:12","SAFE1",401,42
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:29:14","AT1",402,42
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:29:16","DANGER1",403,42
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:29:16","DAT1",404,42
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:29:30","BLOCKED1",405,42
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:29:53","POSSIBLE_TI",406,43
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:29:58","TI2",407,43
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:30:15","Restart",408,43
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:30:25","SAFE2",409,43
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:30:35","AT2",410,43
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:30:57","Possible Free Kick",411,44
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:31:01","F1",413,44
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:31:01","FK2",414,44
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:31:02","DANGER2",415,44
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:31:02","DFK2",416,44
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:31:02","Ball Position",417,44
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:31:08","Restart",418,44
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:31:16","POSSIBLE_TI",419,44
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:31:18","TI2",420,44
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:31:19","Restart",421,44
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:31:22","SAFE2",422,44
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:31:24","SAFE1",423,44
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:31:25","AT1",424,44
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:31:34","SAFE2",425,44
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:31:35","AT2",426,44
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:31:35","DANGER2",427,44
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:31:35","DAT2",428,44
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:31:38","Possible Free Kick",429,44
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:31:39","POSSIBLE_CARDS",431,44
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:31:47","YC1",432,45
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:31:51","CONF_YC1",433,45
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:31:55","Scorer",434,45
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:32:05","F1",435,45
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:32:05","FK2",436,45
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:32:05","DFK2",437,45
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:32:05","Ball Position",438,45
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:32:16","Restart",439,45
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:32:20","SHB2",440,45
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:32:22","SAFE1",441,45
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:32:22","GK1",442,45
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:32:40","Player_DATA_CONFIRMED",443,45
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:32:44","Restart",444,45
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:32:46","AT1",445,46
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:32:46","DANGER1",446,46
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:32:46","DAT1",447,46
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:32:49","Stop RT1",448,46
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:32:56","CONF_PERIOD_SCORE",449,45
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:46:57","Players are coming out",450,45
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:46:58","Game about to start",451,45
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:47:43","Start RT2 Team 1",452,46
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:47:44","SAFE1",453,46
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:48:01","POSSIBLE_TI",454,46
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:48:03","TI1",455,46
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:48:08","Restart",456,46
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:48:17","POSSIBLE_TI",457,46
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:48:19","TI1",458,46
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:48:20","Restart",459,46
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:48:23","AT1",460,46
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:48:32","SAFE1",461,46
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:48:38","POSSIBLE_TI",462,46
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:48:39","TI1",463,46
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:48:41","Restart",464,46
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:48:42","AT1",465,46
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:48:42","DANGER1",466,46
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:48:42","DAT1",467,46
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:48:59","POSSIBLE_TI",468,47
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:49:09","TI2",469,47
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:49:16","POSSIBLE_CARDS",470,47
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:50:13","NO_Cards",471,48
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:50:16","Restart",472,48
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:50:30","PCR1",473,48
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:50:33","CR1",474,48
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:50:34","Ball Position",475,48
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:51:05","Restart",476,49
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:51:16","SAFE2",477,49
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:51:19","SAFE1",478,49
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:51:55","Possible Free Kick",479,50
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:51:56","F2",481,50
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:51:56","FK1",482,50
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:51:56","DANGER1",483,50
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:51:56","DFK1",484,50
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:51:56","Ball Position",485,50
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:51:58","Restart",486,50
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:52:41","SAFE2",487,50
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:52:44","SAFE1",488,51
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:52:54","AT1",489,51
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:52:55","DANGER1",490,51
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:52:55","DAT1",491,51
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:53:05","SHB1",492,51
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:53:06","SAFE2",493,51
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:53:07","GK2",494,51
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:53:22","Restart",495,51
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:53:32","AT2",496,51
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:53:57","DANGER2",497,52
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:53:57","DAT2",498,52
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:54:01","PCR2",499,52
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:54:04","CR2",500,52
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:54:05","Ball Position",501,52
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:54:29","Restart",502,52
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:54:33","SHB2",503,52
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:54:36","SAFE1",504,52
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:54:36","GK1",505,52
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:54:46","Restart",506,53
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:55:03","AT1",507,53
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:55:21","Possible Free Kick",508,53
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:55:22","SAFE2",510,53
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:55:22","F1",511,53
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:55:22","FK2",512,53
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:55:22","Ball Position",513,53
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:55:24","Restart",514,53
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:55:39","AT1",515,53
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:55:39","DANGER1",516,53
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:55:39","DAT1",517,53
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:55:57","Possible Free Kick",518,54
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:55:58","SAFE2",520,54
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:55:58","F1",521,54
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:55:58","FK2",522,54
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:55:58","Ball Position",523,54
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:56:08","Restart",524,54
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:56:24","AT2",525,54
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:56:25","DANGER2",526,54
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:56:25","DAT2",527,54
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:56:33","PCR2",528,54
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:56:35","CR2",529,54
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:56:37","SHG2",530,54
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:56:38","Ball Position",531,54
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:56:50","CLS",532,55
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:56:52","Ball Position",533,55
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:57:01","Restart",534,55
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:57:12","SAFE1",535,55
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:57:15","SAFE2",536,55
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:57:49","AT2",537,56
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:57:50","POSSIBLE_TI",538,56
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:57:52","TI2",539,56
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:57:56","Restart",540,56
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:58:03","DANGER2",541,56
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:58:03","DAT2",542,56
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:58:19","SAFE1",543,56
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:58:20","GK1",544,56
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:58:30","Restart",545,56
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:58:41","AT1",546,56
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:58:42","DANGER1",547,56
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:58:42","DAT1",548,56
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:59:03","SAFE2",549,57
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:59:05","AT2",550,57
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:59:06","DANGER2",551,57
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:59:06","DAT2",552,57
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:59:17","SAFE1",553,57
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:59:19","AT1",554,57
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:59:20","DANGER1",555,57
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:59:20","DAT1",556,57
+896800,"Valencia CF","FC Barcelona","11/26/2017 20:59:33","SAFE2",557,57
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:00:06","AT2",558,58
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:00:06","DANGER2",559,58
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:00:06","DAT2",560,58
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:00:24","Possible Free Kick",561,58
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:00:26","F1",563,58
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:00:26","FK2",564,58
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:00:26","DFK2",565,58
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:00:26","Ball Position",566,58
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:00:26","Restart",567,58
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:00:51","Possible Free Kick",568,59
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:00:52","SAFE1",570,59
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:00:52","F2",571,59
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:00:52","FK1",572,59
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:00:53","Ball Position",573,59
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:00:54","Restart",574,59
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:00:56","AT1",575,59
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:00:56","DANGER1",576,59
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:00:56","DAT1",577,59
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:00:58","POSSIBLE_TI",578,59
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:01:02","TI2",579,59
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:01:04","Restart",580,59
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:01:05","SAFE2",581,59
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:01:19","AT2",582,59
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:01:30","SAFE1",583,59
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:01:34","Possible Free Kick",584,59
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:01:50","F2",586,60
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:01:50","FK1",587,60
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:01:50","DANGER1",588,60
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:01:50","DFK1",589,60
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:01:50","Ball Position",590,60
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:01:51","Restart",591,60
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:02:04","GOAL1",592,60
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:02:15","CONF_GOAL1",593,60
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:02:39","Scorer",594,60
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:03:19","KO2",595,61
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:03:19","SAFE2",596,61
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:03:20","SAFE2",597,61
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:03:39","Player_DATA_CONFIRMED",598,61
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:03:39","Assist",599,61
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:03:51","AT2",600,62
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:03:52","DANGER2",601,62
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:03:52","DAT2",602,62
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:03:56","Possible Free Kick",603,62
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:03:59","SAFE1",605,62
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:03:59","O2",606,62
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:03:59","FK1",607,62
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:03:59","Ball Position",608,62
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:04:18","Restart",609,62
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:04:20","AT1",610,62
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:04:20","DANGER1",611,62
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:04:20","DAT1",612,62
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:04:29","Possible Free Kick",613,62
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:04:30","SAFE2",615,62
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:04:30","F1",616,62
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:04:30","FK2",617,62
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:04:30","Ball Position",618,62
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:04:31","Restart",619,62
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:04:38","AT2",620,62
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:04:39","DANGER2",621,62
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:04:39","DAT2",622,62
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:04:58","SAFE1",623,63
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:04:59","AT1",624,63
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:05:01","DANGER1",625,63
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:05:01","DAT1",626,63
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:05:17","SAFE2",627,63
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:05:28","AT2",628,63
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:05:29","DANGER2",629,63
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:05:29","DAT2",630,63
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:05:48","Possible Free Kick",631,64
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:05:50","SAFE1",633,64
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:05:50","F2",634,64
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:05:50","FK1",635,64
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:05:50","Ball Position",636,64
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:06:07","Restart",637,64
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:06:25","AT1",638,64
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:06:29","SAFE2",639,64
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:06:30","AT2",640,64
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:06:33","SAFE1",641,64
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:06:35","AT1",642,64
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:06:37","DANGER1",643,64
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:06:37","DAT1",644,64
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:06:59","SAFE2",645,65
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:07:01","AT2",646,65
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:07:02","DANGER2",647,65
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:07:02","DAT2",648,65
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:07:05","Possible Free Kick",649,65
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:07:18","SAFE1",651,65
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:07:18","O2",652,65
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:07:18","FK1",653,65
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:07:18","Ball Position",654,65
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:07:24","Restart",655,65
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:07:46","AT1",656,66
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:07:46","DANGER1",657,66
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:07:46","DAT1",658,66
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:07:55","SAFE2",659,66
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:08:04","AT2",660,66
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:08:16","DANGER2",661,66
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:08:16","DAT2",662,66
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:08:21","SAFE1",663,66
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:08:22","AT1",664,66
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:08:23","DANGER1",665,66
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:08:23","DAT1",666,66
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:08:32","SAFE2",667,66
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:08:39","AT2",668,66
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:08:39","DANGER2",669,66
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:08:39","DAT2",670,66
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:08:52","SAFE1",671,67
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:08:53","AT1",672,67
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:09:05","DANGER1",673,67
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:09:05","DAT1",674,67
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:09:17","SAFE1",675,67
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:09:22","AT1",676,67
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:09:49","SAFE2",677,68
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:09:51","AT2",678,68
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:09:54","DANGER2",679,68
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:09:54","DAT2",680,68
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:10:05","BLOCKED2",681,68
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:10:22","SUB2",682,68
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:10:31","POSSIBLE_TI",683,68
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:10:32","TI2",684,68
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:10:33","Restart",685,68
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:10:45","SAFE2",686,69
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:10:50","AT2",687,69
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:11:10","DANGER2",688,69
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:11:10","DAT2",689,69
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:11:39","Player_DATA_CONFIRMED",690,69
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:11:54","SAFE1",691,70
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:11:56","AT1",692,70
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:11:56","DANGER1",693,70
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:11:56","DAT1",694,70
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:12:04","SAFE2",695,70
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:12:11","SAFE1",696,70
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:12:23","AT1",697,70
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:12:30","DANGER1",698,70
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:12:30","DAT1",699,70
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:12:46","SAFE1",700,71
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:12:59","AT1",701,71
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:13:01","DANGER1",702,71
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:13:01","DAT1",703,71
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:13:10","SHB1",704,71
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:13:11","POSSIBLE_TI",705,71
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:13:18","TI2",706,71
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:13:28","Restart",707,71
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:13:41","POSSIBLE_CARDS",708,71
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:13:42","YC1",709,71
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:13:44","CONF_YC1",710,72
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:13:45","Scorer",711,72
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:13:48","SAFE2",712,72
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:13:49","AT2",713,72
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:13:49","DANGER2",714,72
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:13:49","DAT2",715,72
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:13:58","Possible Free Kick",716,72
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:14:01","SAFE1",718,72
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:14:01","F2",719,72
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:14:01","FK1",720,72
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:14:01","Ball Position",721,72
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:14:38","SUB2",722,72
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:14:50","Restart",723,73
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:14:54","AT1",724,73
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:14:54","DANGER1",725,73
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:14:54","DAT1",726,73
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:15:09","Player_DATA_CONFIRMED",727,73
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:15:19","POSSIBLE_TI",728,73
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:15:21","TI2",729,73
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:15:34","Restart",730,73
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:16:02","Time Correction",731,74
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:16:03","SAFE2",732,74
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:16:11","AT2",733,74
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:16:17","SAFE1",734,74
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:16:21","AT2",735,74
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:16:25","POSSIBLE_CARDS",736,74
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:16:33","YC1",737,74
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:16:35","CONF_YC1",738,74
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:16:38","Scorer",739,74
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:16:44","Scorer",740,75
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:16:44","Player_DATA_CONFIRMED",741,75
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:16:46","POSSIBLE_CARDS",742,75
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:16:46","PRC",743,75
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:16:46","Danger",744,75
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:17:02","Possible Free Kick",745,75
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:17:04","F1",747,75
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:17:04","FK2",748,75
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:17:04","DFK2",749,75
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:17:04","Ball Position",750,75
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:17:06","Restart",751,75
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:17:19","POSSIBLE_TI",752,75
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:17:22","TI2",753,75
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:18:05","Restart",754,76
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:18:05","SHG2",755,76
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:18:39","Player_DATA_CONFIRMED",756,76
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:18:46","POSSIBLE_TI",757,77
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:18:47","TI2",758,77
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:18:51","No RC",759,77
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:18:51","NO_Cards",760,77
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:18:58","Restart",761,77
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:19:29","Possible Free Kick",762,77
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:19:32","SAFE1",764,77
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:19:32","F2",765,77
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:19:32","FK1",766,77
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:19:32","Ball Position",767,77
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:19:37","System Message",768,77
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:20:11","Injury Break",769,78
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:20:35","CYC1",770,78
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:20:46","System Message",771,79
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:21:05","Restart",772,79
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:21:12","CLS",773,79
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:21:13","Restart",774,79
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:21:14","AT1",775,79
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:21:14","DANGER1",776,79
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:21:14","DAT1",777,79
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:21:36","SAFE2",778,79
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:21:36","AT2",779,79
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:21:38","DANGER2",780,79
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:21:38","DAT2",781,79
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:21:42","PCR2",782,79
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:21:50","NCR2",783,80
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:21:52","Possible Free Kick",784,80
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:22:02","SAFE1",786,80
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:22:02","F2",787,80
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:22:02","FK1",788,80
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:22:02","Ball Position",789,80
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:22:13","SUB2",790,80
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:22:15","Restart",791,80
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:22:16","AT1",792,80
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:22:16","DANGER1",793,80
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:22:16","DAT1",794,80
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:22:32","SAFE2",795,80
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:22:33","AT2",796,80
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:22:37","DANGER2",797,80
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:22:37","DAT2",798,80
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:22:39","Player_DATA_CONFIRMED",799,80
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:22:54","SAFE1",800,81
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:22:55","AT1",801,81
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:22:56","DANGER1",802,81
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:22:56","DAT1",803,81
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:23:08","SAFE2",804,81
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:23:26","POSSIBLE_TI",805,81
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:23:28","TI1",806,81
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:23:38","SUB1",807,81
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:24:06","Restart",808,82
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:24:15","Possible Free Kick",809,82
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:24:16","F1",811,82
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:24:16","FK2",812,82
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:24:16","Ball Position",813,82
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:24:16","Restart",814,82
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:24:18","AT2",815,82
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:24:28","DANGER2",816,82
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:24:28","DAT2",817,82
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:24:35","GOAL2",818,82
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:24:39","Player_DATA_CONFIRMED",819,82
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:24:56","Scorer",820,83
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:25:03","CONF_GOAL2",821,83
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:25:23","KO1",822,83
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:25:23","SAFE1",823,83
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:25:24","SAFE1",824,83
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:25:31","AT1",825,83
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:25:31","DANGER1",826,83
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:25:31","DAT1",827,83
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:25:39","POSSIBLE_TI",828,83
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:25:41","TI2",829,83
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:25:51","Restart",830,84
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:26:12","Player_DATA_CONFIRMED",831,84
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:26:12","Assist",832,84
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:26:22","SAFE2",833,84
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:26:28","AT2",834,84
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:26:28","DANGER2",835,84
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:26:28","DAT2",836,84
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:27:13","SAFE1",837,85
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:27:20","SAFE1",838,85
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:27:22","SAFE2",839,85
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:27:33","AT2",840,85
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:27:35","DANGER2",841,85
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:27:35","DAT2",842,85
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:27:55","Possible Free Kick",843,86
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:28:04","SAFE1",845,86
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:28:04","O2",846,86
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:28:04","FK1",847,86
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:28:04","Ball Position",848,86
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:28:20","SUB1",849,86
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:28:45","Restart",850,87
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:28:46","AT1",851,87
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:28:46","DANGER1",852,87
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:28:46","DAT1",853,87
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:28:59","SAFE2",854,87
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:29:12","AT2",855,87
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:29:16","DANGER2",856,87
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:29:16","DAT2",857,87
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:29:24","POSSIBLE_TI",858,87
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:29:26","TI2",859,87
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:29:33","Restart",860,87
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:29:40","SAFE2",861,87
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:29:49","AT2",862,88
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:29:51","DANGER2",863,88
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:29:51","DAT2",864,88
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:30:00","SAFE1",865,88
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:30:00","AT1",866,88
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:30:00","DANGER1",867,88
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:30:00","DAT1",868,88
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:30:09","Player_DATA_CONFIRMED",869,88
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:30:20","SAFE2",870,88
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:30:23","SAFE1",871,88
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:30:35","AT2",872,88
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:30:36","DANGER2",873,88
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:30:36","DAT2",874,88
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:30:54","POSSIBLE_CARDS",875,89
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:31:04","YC1",876,89
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:31:05","CONF_YC1",877,89
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:31:09","Scorer",878,89
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:31:11","Possible Free Kick",879,89
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:31:13","F1",881,89
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:31:13","FK2",882,89
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:31:13","DFK2",883,89
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:31:13","Ball Position",884,89
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:31:30","SUB1",885,89
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:31:53","Restart",886,90
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:32:03","PCR2",887,90
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:32:04","CR2",888,90
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:32:05","Ball Position",889,90
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:32:27","Restart",890,90
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:32:32","SHB2",891,90
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:32:33","SAFE1",892,90
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:32:34","GK1",893,90
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:32:53","Extra Time",894,91
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:33:01","Restart",895,91
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:33:15","Possible Free Kick",896,91
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:33:22","F2",898,91
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:33:22","FK1",899,91
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:33:22","DANGER1",900,91
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:33:22","DFK1",901,91
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:33:22","Ball Position",902,91
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:33:32","Restart",903,91
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:33:39","Player_DATA_CONFIRMED",904,91
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:33:39","Player_DATA_CONFIRMED",905,91
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:33:41","POSSIBLE_TI",906,91
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:33:42","TI1",907,91
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:33:43","Restart",908,91
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:33:44","CLS",909,92
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:33:54","Restart",910,92
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:34:00","SAFE2",911,92
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:34:01","AT2",912,92
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:34:02","DANGER2",913,92
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:34:02","DAT2",914,92
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:34:07","Possible Free Kick",915,92
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:34:10","SAFE1",917,92
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:34:10","O2",918,92
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:34:10","FK1",919,92
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:34:10","Ball Position",920,92
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:34:30","Restart",921,92
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:34:31","AT1",922,92
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:34:31","DANGER1",923,92
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:34:31","DAT1",924,92
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:34:52","SAFE2",925,93
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:34:53","AT2",926,93
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:34:53","DANGER2",927,93
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:34:53","DAT2",928,93
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:34:56","SAFE1",929,93
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:35:01","SAFE2",930,93
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:35:09","SAFE1",931,93
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:35:10","AT1",932,93
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:35:12","DANGER1",933,93
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:35:12","DAT1",934,93
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:35:20","SHB1",935,93
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:35:22","SAFE2",936,93
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:35:23","GK2",937,93
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:35:27","Restart",938,93
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:35:45","AT1",939,94
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:35:45","DANGER1",940,94
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:35:45","DAT1",941,94
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:35:50","SAFE2",942,94
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:35:51","GK2",943,94
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:35:56","Restart",944,94
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:36:12","AT2",945,94
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:36:14","DANGER2",946,94
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:36:14","DAT2",947,94
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:36:21","SHG2",948,94
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:36:24","SAFE1",949,94
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:36:27","AT1",950,94
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:36:28","DANGER1",951,94
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:36:28","DAT1",952,94
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:36:37","SHB1",953,94
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:36:38","SAFE2",954,94
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:36:39","GK2",955,94
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:36:46","CLS",956,95
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:36:48","Stop RT2",957,95
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:36:48","Stop Game",958,95
+896800,"Valencia CF","FC Barcelona","11/26/2017 21:36:54","CONF_PERIOD_SCORE",959,94

@@ -1,0 +1,783 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 12:27:57","Transmission Online",0,0
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 12:28:10","GCC",1,0
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 13:01:37","Lineup changed",2,0
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 13:38:56","Scout in Stadion",3,0
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 13:39:03","GCC",4,0
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 13:39:16","Jersey Changed",5,0
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 13:39:16","Jersey Changed",6,0
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 13:56:00","GCC",7,0
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 13:56:12","Players are coming out",8,0
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 13:56:56","Players lined up",9,0
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 13:57:14","Shake hands",10,0
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 13:58:44","Flip coin",11,0
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 13:59:29","Game about to start",12,0
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:00:05","Start RT1 Team 2",13,1
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:00:11","AT2",14,1
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:00:17","SAFE2",15,1
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:00:46","SAFE1",16,1
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:01:09","AT1",17,2
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:01:14","POSSIBLE_TI",18,2
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:01:15","TI1",19,2
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:01:20","Restart",20,2
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:01:20","SAFE1",21,2
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:01:29","AT1",22,2
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:01:38","SAFE1",23,2
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:02:15","AT1",24,3
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:02:18","DANGER1",25,3
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:02:18","DAT1",26,3
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:02:30","GOAL1",27,3
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:02:43","Scorer",28,3
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:03:05","CONF_GOAL1",29,4
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:03:21","KO2",30,4
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:03:21","SAFE2",31,4
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:03:22","SAFE2",32,4
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:03:26","AT2",33,4
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:03:29","SAFE1",34,4
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:03:37","Player_DATA_CONFIRMED",35,4
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:03:37","Assist",36,4
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:03:41","AT1",37,4
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:03:43","DANGER1",38,4
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:03:43","DAT1",39,4
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:04:00","SAFE1",40,4
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:04:37","AT1",41,5
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:04:43","SAFE2",42,5
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:05:04","POSSIBLE_TI",43,5
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:05:04","TI1",44,5
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:05:09","Restart",45,6
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:05:09","SAFE1",46,6
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:05:29","AT1",47,6
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:05:36","POSSIBLE_TI",48,6
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:05:37","TI2",49,6
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:05:45","Restart",50,6
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:05:48","SAFE2",51,6
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:05:58","POSSIBLE_TI",52,6
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:06:00","TI2",53,6
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:06:08","Restart",54,7
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:06:20","SAFE1",55,7
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:06:27","AT2",56,7
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:06:32","DANGER2",57,7
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:06:32","DAT2",58,7
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:06:38","Possible Free Kick",59,7
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:06:42","F1",61,7
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:06:42","FK2",62,7
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:06:42","DFK2",63,7
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:06:42","Ball Position",64,7
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:07:14","Restart",65,8
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:07:19","SHB2",66,8
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:07:20","SAFE1",67,8
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:07:21","GK1",68,8
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:07:45","Restart",69,8
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:07:47","CLS",70,8
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:07:50","Restart",71,8
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:07:54","AT1",72,8
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:07:55","POSSIBLE_TI",73,8
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:07:57","TI1",74,8
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:08:07","Restart",75,9
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:08:17","DANGER1",76,9
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:08:17","DAT1",77,9
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:08:41","SAFE2",78,9
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:08:47","AT1",79,9
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:08:50","DANGER1",80,9
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:08:50","DAT1",81,9
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:08:56","POSSIBLE_TI",82,9
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:08:59","TI1",83,9
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:09:02","Restart",84,9
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:09:11","SAFE2",85,10
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:09:12","GK2",86,10
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:09:37","Restart",87,10
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:09:40","AT2",88,10
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:10:02","SAFE1",89,10
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:10:04","AT1",90,10
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:10:08","DANGER1",91,11
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:10:08","DAT1",92,11
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:10:19","SHB1",93,11
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:10:19","SAFE2",94,11
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:10:20","GK2",95,11
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:10:47","Restart",96,11
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:10:50","AT2",97,11
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:11:01","DANGER2",98,11
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:11:01","DAT2",99,11
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:11:13","Possible Free Kick",100,12
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:11:14","SAFE1",102,12
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:11:14","F2",103,12
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:11:14","FK1",104,12
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:11:14","Ball Position",105,12
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:11:24","Restart",106,12
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:11:30","AT1",107,12
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:11:45","SAFE1",108,12
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:12:03","AT1",109,12
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:12:05","DANGER1",110,12
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:12:05","DAT1",111,12
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:12:07","POSSIBLE_TI",112,13
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:12:08","TI1",113,13
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:12:18","Restart",114,13
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:12:29","BLOCKED1",115,13
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:12:30","POSSIBLE_TI",116,13
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:12:31","TI1",117,13
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:12:40","Restart",118,13
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:13:03","SAFE1",119,13
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:13:10","AT1",120,14
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:13:14","DANGER1",121,14
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:13:14","DAT1",122,14
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:13:29","BLOCKED1",123,14
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:13:35","SAFE1",124,14
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:13:47","Possible Free Kick",125,14
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:13:50","F2",127,14
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:13:50","FK1",128,14
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:13:50","DANGER1",129,14
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:13:50","DFK1",130,14
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:13:50","Ball Position",131,14
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:14:06","Restart",132,15
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:14:06","SAFE1",133,15
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:14:15","AT1",134,15
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:14:32","SAFE2",135,15
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:14:50","AT2",136,15
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:14:54","SAFE1",137,15
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:14:55","GK1",138,15
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:15:03","GCC",139,15
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:15:06","Restart",140,16
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:15:49","AT1",141,16
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:15:52","DANGER1",142,16
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:15:52","DAT1",143,16
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:16:04","SAFE2",144,16
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:16:08","SAFE1",145,17
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:16:14","AT1",146,17
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:16:32","Possible Free Kick",147,17
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:16:33","SAFE2",149,17
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:16:33","F1",150,17
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:16:33","FK2",151,17
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:16:33","Ball Position",152,17
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:16:44","Restart",153,17
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:16:47","CLS",154,17
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:17:05","Restart",155,18
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:17:07","AT2",156,18
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:17:16","SAFE2",157,18
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:17:29","AT1",158,18
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:17:32","POSSIBLE_TI",159,18
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:17:32","TI1",160,18
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:17:35","Restart",161,18
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:17:37","SAFE1",162,18
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:18:04","AT1",163,18
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:18:17","SAFE1",164,19
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:18:22","AT1",165,19
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:18:32","SAFE1",166,19
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:18:36","AT1",167,19
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:18:39","DANGER1",168,19
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:18:39","DAT1",169,19
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:18:43","SAFE2",170,19
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:19:01","AT2",171,19
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:19:08","DANGER2",172,20
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:19:08","DAT2",173,20
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:19:08","POSSIBLE_TI",174,20
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:19:10","TI2",175,20
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:19:26","Restart",176,20
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:19:37","SAFE2",177,20
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:19:43","AT2",178,20
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:19:50","SAFE2",179,20
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:19:58","AT2",180,20
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:20:06","SAFE1",181,21
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:20:09","CLS",182,21
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:20:11","POSSIBLE_TI",183,21
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:20:13","TI2",184,21
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:20:16","Restart",185,21
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:20:16","SAFE2",186,21
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:20:26","AT2",187,21
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:20:29","SAFE1",188,21
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:20:55","AT1",189,21
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:21:08","SAFE1",190,22
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:21:19","AT1",191,22
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:21:21","SAFE2",192,22
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:21:35","AT1",193,22
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:21:44","DANGER1",194,22
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:21:44","DAT1",195,22
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:21:54","PCR1",196,22
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:22:03","CR1",197,22
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:22:04","Ball Position",198,22
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:22:19","Restart",199,23
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:22:24","BLOCKED1",200,23
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:22:29","SAFE1",201,23
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:23:27","AT1",202,24
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:23:32","POSSIBLE_TI",203,24
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:23:33","TI2",204,24
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:23:46","Restart",205,24
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:23:52","DANGER1",206,24
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:23:52","DAT1",207,24
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:24:19","SAFE1",208,25
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:24:21","POSSIBLE_TI",209,25
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:24:22","TI1",210,25
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:24:24","Restart",211,25
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:24:46","AT2",212,25
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:24:51","DANGER2",213,25
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:24:51","DAT2",214,25
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:25:00","PCR2",215,25
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:25:07","CR2",216,26
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:25:07","Ball Position",217,26
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:25:21","Restart",218,26
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:25:25","PCR2",219,26
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:25:30","CR2",220,26
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:25:31","Ball Position",221,26
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:25:54","Restart",222,26
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:26:17","SAFE1",223,27
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:26:18","AT1",224,27
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:26:25","POSSIBLE_TI",225,27
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:26:28","TI1",226,27
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:26:30","Restart",227,27
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:26:34","SAFE1",228,27
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:27:01","AT1",229,27
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:27:04","DANGER1",230,27
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:27:04","DAT1",231,27
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:27:09","Possible Free Kick",232,28
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:27:12","F2",234,28
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:27:12","FK1",235,28
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:27:12","DFK1",236,28
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:27:12","Ball Position",237,28
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:27:15","POSSIBLE_CARDS",238,28
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:27:32","NO_Cards",239,28
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:28:00","Restart",240,28
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:28:03","SAFE2",241,28
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:28:20","AT2",242,29
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:28:26","DANGER2",243,29
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:28:26","DAT2",244,29
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:28:27","PCR2",245,29
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:28:34","CR2",246,29
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:28:34","Ball Position",247,29
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:28:54","Restart",248,29
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:29:09","Possible Free Kick",249,30
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:29:12","SAFE1",251,30
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:29:12","O2",252,30
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:29:12","FK1",253,30
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:29:12","Ball Position",254,30
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:29:21","Restart",255,30
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:29:47","AT1",256,30
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:29:50","SAFE2",257,30
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:30:08","AT2",258,31
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:30:13","SAFE1",259,31
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:30:14","AT1",260,31
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:30:21","SAFE2",261,31
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:30:25","AT2",262,31
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:30:38","DANGER2",263,31
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:30:38","DAT2",264,31
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:30:44","PCR2",265,31
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:30:48","CR2",266,31
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:30:49","Ball Position",267,31
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:31:18","Restart",268,32
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:31:24","SAFE1",269,32
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:31:25","AT1",270,32
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:31:30","SAFE2",271,32
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:31:34","AT2",272,32
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:31:50","DANGER2",273,32
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:31:50","DAT2",274,32
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:31:54","SHG2",275,32
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:31:56","POSSIBLE_TI",276,32
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:31:58","TI2",277,32
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:32:10","Restart",278,33
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:32:22","POSSIBLE_TI",279,33
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:32:23","TI2",280,33
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:32:31","Restart",281,33
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:32:49","SAFE2",282,33
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:33:13","AT1",283,34
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:33:16","SAFE1",284,34
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:33:37","GCC",285,34
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:34:00","AT1",286,34
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:34:05","POSSIBLE_TI",287,34
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:34:06","TI1",288,35
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:34:11","Restart",289,35
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:34:14","SAFE1",290,35
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:34:20","AT1",291,35
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:34:28","DANGER1",292,35
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:34:28","DAT1",293,35
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:34:43","GOAL1",294,35
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:35:06","Scorer",295,36
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:35:24","CONF_GOAL1",296,36
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:35:42","KO2",297,36
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:35:42","SAFE2",298,36
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:35:44","SAFE2",299,36
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:35:56","AT2",300,36
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:35:59","SAFE1",301,36
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:36:02","Player_DATA_CONFIRMED",302,36
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:36:03","GK1",303,36
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:36:07","Assist",304,37
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:36:12","Restart",305,37
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:36:36","AT2",306,37
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:36:36","DANGER2",307,37
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:36:36","DAT2",308,37
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:37:01","SAFE2",309,37
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:37:18","SAFE1",310,38
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:37:33","AT1",311,38
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:37:36","DANGER1",312,38
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:37:36","DAT1",313,38
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:37:40","SAFE2",314,38
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:37:58","Possible Free Kick",315,38
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:38:01","O1",317,38
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:38:01","FK2",318,38
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:38:01","Ball Position",319,38
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:38:07","Restart",320,39
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:38:16","AT2",321,39
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:38:23","DANGER2",322,39
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:38:23","DAT2",323,39
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:38:51","SAFE1",324,39
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:39:09","AT1",325,40
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:39:13","POSSIBLE_TI",326,40
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:39:14","TI2",327,40
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:39:22","Restart",328,40
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:39:29","SAFE1",329,40
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:39:29","POSSIBLE_TI",330,40
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:39:32","TI1",331,40
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:39:40","Restart",332,40
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:40:01","AT1",333,40
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:40:05","DANGER1",334,40
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:40:05","DAT1",335,40
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:40:21","PCR1",336,41
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:40:25","CR1",337,41
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:40:26","Ball Position",338,41
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:40:42","Restart",339,41
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:40:48","SHB1",340,41
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:40:48","SAFE2",341,41
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:40:49","GK2",342,41
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:41:16","Restart",343,42
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:41:19","AT2",344,42
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:41:30","DANGER2",345,42
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:41:30","DAT2",346,42
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:41:34","POSSIBLE_TI",347,42
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:41:35","TI2",348,42
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:41:43","Restart",349,42
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:41:54","SAFE1",350,42
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:41:58","SAFE2",351,42
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:42:02","AT2",352,42
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:42:11","SAFE1",353,43
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:42:12","AT1",354,43
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:42:22","DANGER1",355,43
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:42:22","DAT1",356,43
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:42:32","PCR1",357,43
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:42:37","SHG1",358,43
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:42:40","CR1",359,43
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:42:41","Ball Position",360,43
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:43:01","Restart",361,43
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:43:20","SHB1",362,44
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:43:21","SAFE2",363,44
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:43:22","GK2",364,44
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:43:48","Restart",365,44
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:43:50","AT2",366,44
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:43:57","POSSIBLE_TI",367,44
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:43:58","TI2",368,44
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:44:05","Restart",369,45
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:44:09","SAFE2",370,45
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:44:14","AT2",371,45
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:44:18","SAFE1",372,45
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:44:32","AT1",373,45
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:44:34","SAFE2",374,45
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:44:53","AT1",375,45
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:44:56","DANGER1",376,45
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:44:56","DAT1",377,45
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:45:02","SAFE2",378,45
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:45:03","GK2",379,45
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:45:10","Extra Time",380,46
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:45:29","Restart",381,46
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:45:31","AT2",382,46
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:45:35","POSSIBLE_TI",383,46
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:45:36","TI1",384,46
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:45:49","Restart",385,46
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:45:51","SAFE1",386,46
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:46:03","AT1",387,46
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:46:08","Stop RT1",388,46
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 14:46:21","CONF_PERIOD_SCORE",389,45
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:00:13","Players are coming out",390,45
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:01:05","Game about to start",391,45
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:01:27","Start RT2 Team 1",392,46
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:01:29","SAFE1",393,46
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:01:35","System Message",394,46
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:01:38","AT1",395,46
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:01:41","DANGER1",396,46
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:01:41","DAT1",397,46
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:01:49","PCR1",398,46
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:01:54","CR1",399,46
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:01:56","Ball Position",400,46
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:01:57","SHG1",401,46
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:02:18","Restart",402,46
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:02:27","SAFE1",403,47
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:03:16","AT1",404,47
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:03:19","DANGER1",405,47
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:03:19","DAT1",406,47
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:03:26","BLOCKED1",407,47
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:03:29","POSSIBLE_TI",408,48
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:03:30","TI1",409,48
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:03:34","Restart",410,48
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:03:43","Possible Free Kick",411,48
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:03:49","F2",413,48
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:03:49","FK1",414,48
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:03:49","DFK1",415,48
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:03:49","Ball Position",416,48
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:04:27","Restart",417,49
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:04:30","GOAL1",418,49
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:05:10","CONF_GOAL1",419,49
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:05:18","Scorer",420,49
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:05:18","KO2",421,49
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:05:18","SAFE2",422,49
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:05:20","SAFE2",423,49
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:05:23","Player_DATA_CONFIRMED",424,49
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:05:29","AT2",425,50
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:05:33","SAFE2",426,50
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:05:40","AT2",427,50
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:05:44","POSSIBLE_TI",428,50
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:05:45","TI2",429,50
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:05:45","Restart",430,50
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:05:52","DANGER2",431,50
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:05:52","DAT2",432,50
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:05:56","SAFE1",433,50
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:06:07","Assist",434,50
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:06:20","SAFE2",435,50
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:06:34","AT2",436,51
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:06:50","POSSIBLE_TI",437,51
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:06:51","TI1",438,51
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:07:17","Restart",439,51
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:07:23","AT2",440,51
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:07:32","SAFE2",441,52
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:07:33","Start score update",442,52
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:07:33","Statistic confirmation",443,52
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:07:33","Score update finished",444,52
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:07:35","SAFE2",445,52
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:07:41","Restart",446,52
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:07:41","AT2",447,52
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:07:46","SAFE1",448,52
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:07:51","AT1",449,52
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:07:58","SAFE2",450,52
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:08:01","AT2",451,52
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:08:06","DANGER2",452,52
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:08:06","DAT2",453,52
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:08:09","SAFE1",454,52
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:08:17","System Message",455,52
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:08:42","Possible Free Kick",456,53
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:08:43","F2",458,53
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:08:43","FK1",459,53
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:08:43","Ball Position",460,53
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:08:50","Restart",461,53
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:09:06","POSSIBLE_TI",462,53
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:09:07","TI1",463,53
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:09:19","Restart",464,53
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:09:22","AT1",465,53
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:09:24","DANGER1",466,53
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:09:24","DAT1",467,53
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:09:54","POSSIBLE_TI",468,54
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:09:57","TI1",469,54
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:10:03","Restart",470,54
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:10:10","Possible Free Kick",471,54
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:10:11","SAFE2",473,54
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:10:11","F1",474,54
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:10:11","FK2",475,54
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:10:11","Ball Position",476,54
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:10:20","Restart",477,54
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:10:45","AT2",478,55
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:10:47","POSSIBLE_TI",479,55
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:10:47","TI2",480,55
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:10:51","Restart",481,55
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:11:02","DANGER2",482,55
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:11:02","DAT2",483,55
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:11:30","SAFE2",484,56
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:11:39","AT2",485,56
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:11:53","DANGER2",486,56
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:11:53","DAT2",487,56
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:12:07","SAFE1",488,56
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:12:07","GK1",489,56
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:12:38","Restart",490,57
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:12:41","AT1",491,57
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:12:46","SAFE2",492,57
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:12:49","SAFE1",493,57
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:13:24","AT1",494,57
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:13:26","DANGER1",495,57
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:13:26","DAT1",496,57
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:13:30","PCR1",497,58
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:13:33","CR1",498,58
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:13:33","Ball Position",499,58
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:13:37","Restart",500,58
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:13:42","SHG1",501,58
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:13:43","SAFE2",502,58
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:14:05","AT2",503,58
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:14:22","SAFE1",504,58
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:14:41","POSSIBLE_TI",505,59
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:14:43","TI1",506,59
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:14:44","Restart",507,59
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:15:04","AT1",508,59
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:15:11","SAFE2",509,59
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:15:20","AT2",510,59
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:15:21","POSSIBLE_TI",511,59
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:15:22","TI2",512,59
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:15:28","Restart",513,60
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:15:28","SAFE2",514,60
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:15:38","AT2",515,60
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:15:48","DANGER2",516,60
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:15:48","DAT2",517,60
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:15:57","Possible Free Kick",518,60
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:15:58","SAFE1",520,60
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:15:58","F2",521,60
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:15:58","FK1",522,60
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:15:58","Ball Position",523,60
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:16:21","Restart",524,60
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:16:22","AT1",525,60
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:16:35","Possible Free Kick",526,61
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:16:36","SAFE2",528,61
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:16:36","F1",529,61
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:16:36","FK2",530,61
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:16:36","Ball Position",531,61
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:17:08","Restart",532,61
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:17:25","AT2",533,61
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:17:29","DANGER2",534,62
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:17:29","DAT2",535,62
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:17:35","SAFE1",536,62
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:17:37","GK1",537,62
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:18:08","Restart",538,62
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:18:14","POSSIBLE_TI",539,62
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:18:16","TI2",540,62
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:18:30","Restart",541,63
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:18:35","SAFE2",542,63
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:18:38","AT2",543,63
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:18:46","SAFE1",544,63
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:18:53","AT1",545,63
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:18:54","DANGER1",546,63
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:18:54","DAT1",547,63
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:19:07","SAFE2",548,63
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:19:08","AT2",549,63
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:19:18","DANGER2",550,63
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:19:18","DAT2",551,63
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:19:36","SAFE1",552,64
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:19:42","SAFE2",553,64
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:19:44","AT2",554,64
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:19:52","DANGER2",555,64
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:19:52","DAT2",556,64
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:19:58","PCR1",557,64
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:19:58","DANGER1",558,64
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:20:02","NCR1",559,64
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:20:03","PCR2",560,64
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:20:03","DANGER2",561,64
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:20:07","BLOCKED2",562,64
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:20:08","CR2",563,64
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:20:10","Ball Position",564,64
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:20:13","Injury Break",565,64
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:21:04","System Message",566,65
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:21:06","Restart",567,65
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:21:17","POSSIBLE_TI",568,65
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:21:18","Time Correction",569,65
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:21:18","TI1",570,65
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:21:33","SUB1",571,66
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:22:11","Scout offline",572,66
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:22:42","Transmission Online",573,67
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:22:42","Start score update",574,67
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:22:43","Statistic confirmation",575,67
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:22:43","Score update finished",576,67
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:22:44","SAFE1",577,67
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:22:52","System Message",578,67
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:23:04","AT1",579,67
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:23:06","Player_DATA_CONFIRMED",580,67
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:23:10","DANGER1",581,67
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:23:10","DAT1",582,67
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:23:14","SAFE2",583,67
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:23:21","AT2",584,67
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:23:27","DANGER2",585,68
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:23:27","DAT2",586,68
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:23:46","SHB2",587,68
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:23:47","SAFE1",588,68
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:23:49","GK1",589,68
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:24:14","SUB2",590,68
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:24:30","SUB2",591,69
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:24:42","Restart",592,69
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:24:45","AT1",593,69
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:24:52","AT2",594,69
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:24:52","DANGER2",595,69
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:24:52","DAT2",596,69
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:25:35","SHB2",597,70
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:25:36","SAFE1",598,70
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:25:36","GK1",599,70
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:26:01","Start score update",600,70
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:26:01","Statistic confirmation",601,70
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:26:01","Score update finished",602,70
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:26:04","Restart",603,70
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:26:07","AT1",604,70
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:26:12","SAFE1",605,70
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:26:18","SAFE2",606,70
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:26:25","Restart",607,70
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:26:25","AT2",608,70
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:26:29","DANGER2",609,71
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:26:29","DAT2",610,71
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:26:30","System Message",611,71
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:26:42","SUB_UPDATE",612,71
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:26:43","Player_DATA_CONFIRMED",613,71
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:26:44","SAFE1",614,71
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:26:47","SUB_UPDATE",615,71
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:26:47","Player_DATA_CONFIRMED",616,71
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:26:48","AT1",617,71
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:26:51","Possible Free Kick",618,71
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:26:53","No Free Kick",620,71
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:26:54","DANGER1",621,71
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:26:54","DAT1",622,71
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:27:01","SHB1",623,71
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:27:02","SAFE2",624,71
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:27:03","GK2",625,71
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:27:29","SUB1",626,72
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:27:54","Restart",627,72
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:27:56","AT2",628,72
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:28:02","SAFE1",629,72
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:28:03","AT1",630,72
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:28:07","DANGER1",631,72
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:28:07","DAT1",632,72
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:28:30","SAFE2",633,73
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:28:36","Player_DATA_CONFIRMED",634,73
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:28:38","AT2",635,73
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:28:52","DANGER2",636,73
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:28:52","DAT2",637,73
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:29:02","SAFE1",638,73
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:29:19","AT1",639,73
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:29:27","DANGER1",640,73
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:29:27","DAT1",641,73
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:29:33","SHB1",642,74
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:29:33","SAFE2",643,74
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:29:34","GK2",644,74
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:29:49","SUB2",645,74
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:30:10","Restart",646,74
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:30:12","AT2",647,74
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:30:23","SAFE2",648,74
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:30:31","AT2",649,75
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:30:40","DANGER2",650,75
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:30:40","DAT2",651,75
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:31:07","Player_DATA_CONFIRMED",652,75
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:31:25","SAFE1",653,75
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:31:31","AT1",654,76
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:31:38","SAFE2",655,76
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:32:00","AT2",656,76
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:32:04","DANGER2",657,76
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:32:04","DAT2",658,76
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:32:06","POSSIBLE_TI",659,76
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:32:07","TI1",660,76
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:32:25","SUB1",661,76
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:32:54","Restart",662,77
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:33:04","Possible Free Kick",663,77
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:33:06","Player_DATA_CONFIRMED",665,77
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:33:21","F1",666,77
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:33:21","FK2",667,77
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:33:21","DFK2",668,77
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:33:21","Ball Position",669,77
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:33:55","Restart",670,78
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:33:59","SHB2",671,78
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:34:00","SAFE1",672,78
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:34:01","GK1",673,78
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:34:30","Restart",674,79
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:34:32","AT1",675,79
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:34:37","POSSIBLE_TI",676,79
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:34:38","TI1",677,79
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:34:51","Restart",678,79
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:34:56","SAFE2",679,79
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:35:02","AT2",680,79
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:35:11","SAFE1",681,79
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:35:12","AT1",682,79
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:35:19","POSSIBLE_TI",683,79
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:35:21","TI1",684,79
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:35:26","Restart",685,79
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:35:47","SAFE1",686,80
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:35:53","AT1",687,80
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:35:54","SAFE1",688,80
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:36:18","AT1",689,80
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:36:21","Possible Free Kick",690,80
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:36:24","SAFE2",692,80
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:36:24","O1",693,80
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:36:24","FK2",694,80
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:36:24","Ball Position",695,80
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:36:27","Restart",696,80
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:36:51","AT1",697,81
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:36:56","DANGER1",698,81
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:36:56","DAT1",699,81
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:37:00","PCR1",700,81
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:37:04","SHG1",701,81
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:37:09","CR1",702,81
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:37:09","Ball Position",703,81
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:37:36","Restart",704,82
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:37:47","SAFE2",705,82
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:37:47","GK2",706,82
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:38:18","Restart",707,82
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:38:20","AT2",708,82
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:38:33","SAFE1",709,83
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:38:49","AT2",710,83
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:39:04","SAFE1",711,83
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:39:04","GK1",712,83
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:39:38","Restart",713,84
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:39:41","AT1",714,84
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:39:51","CLS",715,84
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:39:52","Possible Free Kick",716,84
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:39:55","F2",718,84
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:39:55","FK1",719,84
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:39:55","Ball Position",720,84
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:40:26","Restart",721,84
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:40:34","AT1",722,85
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:40:42","Possible Free Kick",723,85
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:40:43","SAFE2",725,85
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:40:43","F1",726,85
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:40:43","FK2",727,85
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:40:43","Ball Position",728,85
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:40:47","Restart",729,85
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:40:51","AT2",730,85
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:40:55","SAFE1",731,85
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:41:30","AT1",732,86
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:41:35","DANGER1",733,86
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:41:35","DAT1",734,86
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:41:40","GOAL1",735,86
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:41:48","Scorer",736,86
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:42:29","CONF_GOAL1",737,87
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:42:43","KO2",738,87
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:42:43","SAFE2",739,87
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:42:46","SAFE2",740,87
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:42:55","AT2",741,87
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:42:58","POSSIBLE_TI",742,87
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:42:59","TI2",743,87
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:43:03","Restart",744,87
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:43:06","Player_DATA_CONFIRMED",745,87
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:43:06","Assist",746,87
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:43:10","SAFE2",747,87
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:43:12","AT2",748,87
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:43:15","DANGER2",749,87
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:43:15","DAT2",750,87
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:43:23","SAFE1",751,87
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:43:24","GK1",752,87
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:43:58","Restart",753,88
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:44:11","AT2",754,88
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:44:17","SAFE1",755,88
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:44:28","AT1",756,89
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:44:36","Possible Free Kick",757,89
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:44:43","F2",759,89
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:44:43","FK1",760,89
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:44:43","DANGER1",761,89
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:44:43","DFK1",762,89
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:44:43","Ball Position",763,89
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:45:46","Restart",764,90
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:45:49","SAFE2",765,90
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:46:02","POSSIBLE_TI",766,90
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:46:03","TI2",767,90
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:46:14","Restart",768,90
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:46:16","AT2",769,90
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:46:25","SAFE2",770,90
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:46:27","AT2",771,91
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:46:36","DANGER2",772,91
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:46:36","DAT2",773,91
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:46:43","SAFE1",774,91
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:46:45","SAFE2",775,91
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:46:48","AT2",776,91
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:46:51","DANGER2",777,91
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:46:51","DAT2",778,91
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:46:58","Possible Free Kick",779,91
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:46:59","SAFE1",781,91
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:46:59","F2",782,91
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:46:59","FK1",783,91
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:46:59","Ball Position",784,91
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:47:01","Extra Time",785,91
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:47:17","Restart",786,91
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:47:43","SAFE2",787,92
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:47:48","POSSIBLE_TI",788,92
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:47:48","TI2",789,92
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:48:02","Restart",790,92
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:48:20","SAFE1",791,92
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:48:24","AT1",792,92
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:48:34","SAFE2",793,93
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:48:36","AT2",794,93
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:48:41","SAFE1",795,93
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:49:11","AT1",796,93
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:49:17","SAFE1",797,93
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:49:29","Stop RT2",798,93
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:49:29","Stop Game",799,93
+868468,"Manchester United FC","Crystal Palace FC","09/30/2017 15:49:47","CONF_PERIOD_SCORE",800,93

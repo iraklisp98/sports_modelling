@@ -1,0 +1,927 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 10:55:37","Transmission Online",0,0
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 10:55:49","Lineup changed",1,0
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 11:19:32","Scout in Stadion",2,0
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 11:19:49","GCC",3,0
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 11:42:57","GCC",4,0
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 11:44:05","Jersey Changed",5,0
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 11:44:05","Jersey Changed",6,0
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 11:59:03","System Message",7,0
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 11:59:53","GCC",8,0
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:00:19","National anthem singing",9,0
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:00:23","Players are coming out",10,0
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:00:42","Players lined up",11,0
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:00:52","Shake hands",12,0
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:01:38","Photo taking",13,0
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:02:26","Flip coin",14,0
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:03:03","Game about to start",15,0
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:03:22","Start RT1 Team 1",16,1
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:03:24","SAFE1",17,1
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:03:49","AT2",18,1
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:03:53","SAFE2",19,1
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:03:57","Possible Free Kick",20,1
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:04:14","F1",22,1
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:04:14","FK2",23,1
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:04:14","Ball Position",24,1
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:04:16","POSSIBLE_CARDS",25,1
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:04:19","YC1",26,1
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:04:35","CONF_YC1",27,2
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:04:41","Scorer",28,2
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:04:46","Injury Break",29,2
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:05:42","Restart",30,3
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:05:43","SAFE2",31,3
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:05:59","AT2",32,3
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:06:03","POSSIBLE_TI",33,3
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:06:03","TI2",34,3
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:06:11","Restart",35,3
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:06:11","DANGER2",36,3
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:06:11","DAT2",37,3
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:06:20","SAFE1",38,3
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:06:26","Scorer",39,4
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:06:26","Player_DATA_CONFIRMED",40,4
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:06:32","AT1",41,4
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:06:34","SAFE2",42,4
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:06:46","AT2",43,4
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:06:48","DANGER2",44,4
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:06:48","DAT2",45,4
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:06:53","SAFE1",46,4
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:07:09","AT1",47,4
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:07:13","SAFE2",48,4
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:07:17","POSSIBLE_TI",49,4
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:07:17","TI2",50,4
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:07:30","SUB2",51,5
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:07:37","Restart",52,5
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:07:44","AT2",53,5
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:07:50","DANGER2",54,5
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:07:50","DAT2",55,5
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:07:52","Possible Free Kick",56,5
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:08:00","F1",58,5
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:08:00","FK2",59,5
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:08:00","DFK2",60,5
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:08:00","Ball Position",61,5
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:08:39","Restart",62,6
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:08:52","SAFE1",63,6
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:08:53","AT1",64,6
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:08:55","DANGER1",65,6
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:08:55","DAT1",66,6
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:09:00","PCR1",67,6
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:09:04","CR1",68,6
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:09:06","SHB1",69,6
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:09:14","Ball Position",70,6
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:09:22","Restart",71,6
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:09:26","Player_DATA_CONFIRMED",72,7
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:09:30","SAFE2",73,7
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:09:47","SAFE1",74,7
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:10:19","AT1",75,7
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:10:25","DANGER1",76,8
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:10:25","DAT1",77,8
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:10:38","SHG1",78,8
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:10:45","SAFE2",79,8
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:10:54","AT1",80,8
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:10:59","SAFE2",81,8
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:11:07","AT2",82,8
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:11:12","SAFE1",83,8
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:11:17","AT1",84,8
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:11:27","POSSIBLE_TI",85,9
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:11:27","TI1",86,9
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:11:31","Restart",87,9
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:11:42","SAFE1",88,9
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:11:52","AT1",89,9
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:11:57","SAFE1",90,9
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:12:04","AT1",91,9
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:12:31","SAFE1",92,10
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:12:33","AT1",93,10
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:12:39","SAFE2",94,10
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:12:45","AT2",95,10
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:12:51","SAFE2",96,10
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:13:01","AT2",97,10
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:13:03","SAFE2",98,10
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:13:32","AT2",99,11
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:13:37","DANGER2",100,11
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:13:37","DAT2",101,11
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:13:44","SAFE2",102,11
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:14:02","AT2",103,11
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:14:29","SAFE1",104,12
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:14:32","AT1",105,12
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:14:34","SAFE2",106,12
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:14:35","SAFE1",107,12
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:14:39","AT1",108,12
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:14:44","DANGER1",109,12
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:14:44","DAT1",110,12
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:14:49","SAFE2",111,12
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:15:24","SAFE2",112,13
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:15:31","AT1",113,13
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:15:47","SAFE2",114,13
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:16:02","AT2",115,13
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:16:03","DANGER2",116,13
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:16:03","DAT2",117,13
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:16:09","SAFE1",118,13
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:16:15","AT2",119,13
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:16:15","DANGER2",120,13
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:16:15","DAT2",121,13
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:16:28","SAFE2",122,14
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:16:57","SAFE1",123,14
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:17:18","AT1",124,14
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:17:30","DANGER1",125,15
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:17:30","DAT1",126,15
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:17:49","Possible Free Kick",127,15
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:17:55","F2",129,15
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:17:55","FK1",130,15
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:17:55","DFK1",131,15
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:17:55","Ball Position",132,15
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:18:35","Restart",133,16
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:18:47","BLOCKED1",134,16
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:18:49","SAFE2",135,16
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:18:55","AT2",136,16
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:18:55","DANGER2",137,16
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:18:55","DAT2",138,16
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:19:03","BLOCKED2",139,16
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:19:26","SAFE1",140,17
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:19:26","POSSIBLE_TI",141,17
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:19:27","TI1",142,17
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:19:40","Restart",143,17
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:19:42","SAFE1",144,17
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:20:00","AT1",145,17
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:20:02","DANGER1",146,17
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:20:02","DAT1",147,17
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:20:06","PCR1",148,17
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:20:09","CR1",149,17
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:20:11","Ball Position",150,17
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:20:35","Restart",151,18
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:21:23","SAFE1",152,19
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:21:28","AT1",153,19
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:21:44","POSSIBLE_TI",154,19
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:21:44","TI1",155,19
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:21:55","Restart",156,19
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:21:59","POSSIBLE_TI",157,19
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:21:59","TI1",158,19
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:22:00","DANGER1",159,19
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:22:00","DAT1",160,19
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:22:07","Restart",161,19
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:22:10","SAFE1",162,19
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:22:16","AT1",163,19
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:22:25","SAFE1",164,20
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:22:30","AT1",165,20
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:22:44","SAFE2",166,20
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:22:49","AT2",167,20
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:22:50","DANGER2",168,20
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:22:50","DAT2",169,20
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:22:53","BREAKAWAY2",170,20
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:22:57","GOAL2",171,20
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:23:56","CONF_GOAL2",172,21
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:24:01","Scorer",173,21
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:24:02","KO1",174,21
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:24:02","SAFE1",175,21
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:24:02","SAFE1",176,21
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:24:31","AT1",177,22
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:24:33","DANGER1",178,22
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:24:33","DAT1",179,22
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:24:45","POSSIBLE_TI",180,22
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:24:45","TI1",181,22
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:24:49","Restart",182,22
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:24:55","Scorer",183,22
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:24:55","Player_DATA_CONFIRMED",184,22
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:24:56","SAFE1",185,22
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:25:05","AT1",186,22
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:25:07","DANGER1",187,22
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:25:07","DAT1",188,22
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:25:11","GOAL1",189,22
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:25:22","Scorer",190,22
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:25:57","CONF_GOAL1",191,23
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:26:01","KO2",192,23
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:26:01","SAFE2",193,23
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:26:02","SAFE2",194,23
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:26:18","AT1",195,23
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:26:25","DANGER1",196,24
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:26:25","DAT1",197,24
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:26:29","SAFE2",198,24
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:26:37","SAFE1",199,24
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:26:47","AT1",200,24
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:26:50","DANGER1",201,24
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:26:50","DAT1",202,24
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:27:22","SAFE1",203,24
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:27:26","AT1",204,25
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:27:36","DANGER1",205,25
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:27:36","DAT1",206,25
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:27:40","SAFE2",207,25
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:27:41","Possible Free Kick",208,25
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:27:43","F1",210,25
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:27:43","FK2",211,25
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:27:43","Ball Position",212,25
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:27:49","Restart",213,25
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:27:50","SAFE2",214,25
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:27:57","Player_DATA_CONFIRMED",215,25
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:27:58","Assist",216,25
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:28:05","SAFE1",217,25
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:28:09","AT1",218,25
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:28:15","DANGER1",219,25
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:28:15","DAT1",220,25
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:28:19","GOAL1",221,25
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:28:26","CGOAL1",222,26
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:28:28","SAFE2",223,26
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:28:29","Possible Free Kick",224,26
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:28:35","O1",226,26
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:28:35","FK2",227,26
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:28:35","Ball Position",228,26
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:28:47","Restart",229,26
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:28:56","SAFE1",230,26
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:29:01","AT1",231,26
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:29:04","DANGER1",232,26
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:29:04","DAT1",233,26
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:29:12","SAFE2",234,26
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:29:22","AT1",235,27
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:29:25","SAFE2",236,27
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:29:31","AT2",237,27
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:29:49","SAFE2",238,27
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:30:03","SAFE1",239,27
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:30:04","POSSIBLE_TI",240,27
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:30:04","TI1",241,27
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:30:06","Restart",242,27
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:30:07","SAFE1",243,27
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:30:17","AT1",244,27
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:30:23","DANGER1",245,28
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:30:23","DAT1",246,28
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:30:48","SAFE2",247,28
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:30:51","Possible Free Kick",248,28
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:30:56","F1",250,28
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:30:56","FK2",251,28
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:30:56","Ball Position",252,28
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:31:14","Restart",253,28
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:31:14","SAFE2",254,28
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:31:23","AT1",255,29
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:31:24","POSSIBLE_TI",256,29
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:31:25","TI1",257,29
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:31:32","Restart",258,29
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:31:34","SAFE1",259,29
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:31:48","AT1",260,29
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:32:00","POSSIBLE_TI",261,29
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:32:01","TI1",262,29
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:32:02","DANGER1",263,29
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:32:02","DAT1",264,29
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:32:08","Restart",265,29
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:32:14","PCR1",266,29
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:32:16","CR1",267,29
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:32:19","Ball Position",268,29
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:32:29","Restart",269,30
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:32:54","SHB1",270,30
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:32:58","SAFE2",271,30
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:32:59","GK2",272,30
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:33:06","Restart",273,30
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:33:06","SAFE2",274,30
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:33:27","SAFE1",275,31
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:33:34","AT1",276,31
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:33:37","DANGER1",277,31
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:33:37","DAT1",278,31
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:33:46","SAFE2",279,31
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:33:48","AT1",280,31
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:33:52","DANGER1",281,31
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:33:52","DAT1",282,31
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:33:59","PPEN",283,31
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:33:59","PPEN1",284,31
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:34:08","No PEN",285,31
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:34:09","PCR1",286,31
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:34:10","NCR1",287,31
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:34:13","SHG1",288,31
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:34:16","SHB1",289,31
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:34:18","SAFE2",290,31
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:34:19","GK2",291,31
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:34:35","Restart",292,32
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:34:57","SAFE1",293,32
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:35:15","AT1",294,32
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:35:33","SAFE2",295,33
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:35:35","Possible Free Kick",296,33
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:35:37","F1",298,33
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:35:37","FK2",299,33
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:35:37","Ball Position",300,33
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:35:51","Restart",301,33
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:35:56","AT2",302,33
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:36:02","DANGER2",303,33
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:36:02","DAT2",304,33
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:36:24","SAFE1",305,34
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:36:25","POSSIBLE_TI",306,34
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:36:25","TI1",307,34
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:36:32","Restart",308,34
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:36:34","AT1",309,34
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:36:45","SAFE1",310,34
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:36:55","AT1",311,34
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:36:57","DANGER1",312,34
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:36:57","DAT1",313,34
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:37:01","SAFE2",314,34
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:37:07","AT1",315,34
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:37:09","DANGER1",316,34
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:37:09","DAT1",317,34
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:37:18","BLOCKED1",318,34
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:38:45","POSSIBLE_TI",319,36
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:38:46","TI1",320,36
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:38:48","Restart",321,36
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:39:16","SHG1",322,36
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:39:27","SAFE2",323,37
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:39:28","Possible Free Kick",324,37
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:39:29","F1",326,37
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:39:29","FK2",327,37
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:39:29","Ball Position",328,37
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:39:52","Restart",329,37
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:39:52","AT2",330,37
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:39:57","SAFE1",331,37
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:40:11","SAFE2",332,37
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:40:11","AT2",333,37
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:40:22","SAFE1",334,37
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:40:29","AT1",335,38
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:40:33","DANGER1",336,38
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:40:33","DAT1",337,38
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:41:26","SAFE1",338,39
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:41:33","AT1",339,39
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:41:36","DANGER1",340,39
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:41:36","DAT1",341,39
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:41:41","SAFE2",342,39
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:41:41","Possible Free Kick",343,39
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:41:44","O1",345,39
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:41:44","FK2",346,39
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:41:44","Ball Position",347,39
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:42:00","Restart",348,39
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:42:00","SAFE2",349,39
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:42:22","SAFE1",350,39
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:42:45","AT2",351,40
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:42:47","SAFE2",352,40
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:43:04","AT2",353,40
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:43:10","DANGER2",354,40
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:43:10","DAT2",355,40
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:43:16","SAFE1",356,40
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:43:17","Possible Free Kick",357,40
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:43:20","O2",359,40
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:43:20","FK1",360,40
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:43:20","Ball Position",361,40
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:43:22","Restart",362,40
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:43:23","SAFE1",363,41
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:43:38","AT1",364,41
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:43:43","DANGER1",365,41
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:43:43","DAT1",366,41
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:43:46","SAFE2",367,41
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:43:46","GK2",368,41
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:44:07","Restart",369,41
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:44:14","AT1",370,41
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:44:16","SAFE2",371,41
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:44:19","Possible Free Kick",372,41
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:44:22","F1",374,41
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:44:22","FK2",375,41
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:44:22","Ball Position",376,41
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:44:27","Restart",377,42
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:44:28","SAFE2",378,42
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:44:59","AT2",379,42
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:45:06","DANGER2",380,42
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:45:06","DAT2",381,42
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:45:17","POSSIBLE_TI",382,42
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:45:18","TI1",383,42
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:45:34","Restart",384,43
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:45:38","POSSIBLE_TI",385,43
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:45:38","TI1",386,43
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:45:43","Restart",387,43
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:45:54","POSSIBLE_TI",388,43
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:45:55","TI2",389,43
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:46:16","Restart",390,43
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:46:35","SHB2",391,44
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:46:41","SAFE1",392,44
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:46:42","GK1",393,44
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:46:51","Restart",394,44
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:46:57","AT1",395,44
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:46:58","DANGER1",396,44
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:46:58","DAT1",397,44
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:47:08","SAFE2",398,44
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:47:08","AT2",399,44
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:47:11","SAFE1",400,44
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:47:12","POSSIBLE_TI",401,44
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:47:12","TI1",402,44
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:47:14","Restart",403,44
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:47:15","SAFE1",404,44
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:47:36","AT1",405,45
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:47:49","DANGER1",406,45
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:47:49","DAT1",407,45
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:47:49","Scout offline",408,45
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:48:00","Transmission Online",409,45
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:48:00","Start score update",410,45
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:48:00","Statistic confirmation",411,45
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:48:00","Score update finished",412,45
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:48:10","SHB2",413,45
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:48:14","SAFE1",414,45
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:48:15","GK1",415,45
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:48:23","Restart",416,46
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:48:24","SAFE1",417,46
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:48:35","POSSIBLE_TI",418,46
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:48:36","TI1",419,46
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:48:42","Extra Time",420,46
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:48:43","Restart",421,46
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:48:45","AT1",422,46
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:48:48","DANGER1",423,46
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:48:48","DAT1",424,46
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:49:06","SAFE2",425,46
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:49:10","AT1",426,46
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:49:10","DANGER1",427,46
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:49:10","DAT1",428,46
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:49:16","SAFE2",429,46
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:49:23","Stop RT1",430,46
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 12:49:29","CONF_PERIOD_SCORE",431,45
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:04:17","Players are coming out",432,45
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:04:50","Game about to start",433,45
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:05:06","Start RT2 Team 2",434,46
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:05:07","SAFE2",435,46
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:05:13","AT2",436,46
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:05:19","SAFE1",437,46
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:05:26","AT1",438,46
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:05:44","SAFE1",439,46
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:05:50","SAFE2",440,46
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:06:07","SAFE1",441,47
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:06:20","Possible Free Kick",442,47
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:06:22","F2",444,47
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:06:22","FK1",445,47
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:06:22","Ball Position",446,47
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:06:24","Restart",447,47
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:06:26","AT1",448,47
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:06:30","DANGER1",449,47
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:06:30","DAT1",450,47
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:06:59","SAFE2",451,47
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:07:00","AT2",452,47
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:07:08","POSSIBLE_TI",453,48
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:07:08","TI1",454,48
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:07:12","Restart",455,48
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:07:14","SAFE1",456,48
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:07:38","AT1",457,48
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:07:45","DANGER1",458,48
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:07:45","DAT1",459,48
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:07:52","SHB1",460,48
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:07:57","SAFE2",461,48
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:07:58","GK2",462,48
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:08:12","Restart",463,49
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:08:13","SAFE2",464,49
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:08:18","CLS",465,49
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:08:20","CLS",466,49
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:08:30","Restart",467,49
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:08:30","SAFE2",468,49
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:08:38","AT1",469,49
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:08:47","SAFE2",470,49
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:08:50","AT2",471,49
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:08:55","SAFE1",472,49
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:08:56","AT1",473,49
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:09:05","DANGER1",474,49
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:09:05","DAT1",475,49
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:09:56","SAFE2",476,50
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:09:57","Possible Free Kick",477,50
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:10:01","O1",479,50
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:10:01","FK2",480,50
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:10:01","Ball Position",481,50
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:10:10","Restart",482,51
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:10:10","SAFE2",483,51
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:10:24","AT2",484,51
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:10:31","SAFE1",485,51
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:10:31","Possible Free Kick",486,51
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:10:33","POSSIBLE_CARDS",488,51
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:10:45","F2",489,51
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:10:45","FK1",490,51
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:10:45","Ball Position",491,51
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:10:47","NO_Cards",492,51
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:10:47","Restart",493,51
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:10:49","AT1",494,51
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:10:52","SAFE2",495,51
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:11:04","SAFE1",496,51
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:11:40","SAFE2",497,52
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:11:45","AT2",498,52
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:11:56","SAFE2",499,52
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:12:02","AT2",500,52
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:12:11","SAFE1",501,53
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:12:22","Possible Free Kick",502,53
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:12:25","F2",504,53
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:12:25","FK1",505,53
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:12:25","Ball Position",506,53
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:12:39","SUB1",507,53
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:13:01","Restart",508,53
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:13:02","SAFE1",509,53
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:13:07","AT1",510,54
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:13:08","DANGER1",511,54
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:13:08","DAT1",512,54
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:13:56","Player_DATA_CONFIRMED",513,54
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:13:57","SAFE2",514,54
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:14:25","AT2",515,55
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:14:41","SAFE2",516,55
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:14:53","AT2",517,55
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:15:00","DANGER2",518,55
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:15:00","DAT2",519,55
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:15:03","POSSIBLE_TI",520,55
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:15:04","TI2",521,55
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:15:09","Restart",522,56
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:15:26","SAFE2",523,56
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:15:42","AT1",524,56
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:15:45","DANGER1",525,56
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:15:45","DAT1",526,56
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:15:59","SAFE2",527,56
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:16:00","Possible Free Kick",528,56
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:16:02","F1",530,56
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:16:02","FK2",531,56
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:16:02","Ball Position",532,56
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:16:12","Restart",533,57
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:16:13","SAFE2",534,57
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:16:32","SAFE1",535,57
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:16:32","POSSIBLE_TI",536,57
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:16:33","TI1",537,57
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:16:37","Restart",538,57
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:16:38","SAFE1",539,57
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:16:43","SAFE2",540,57
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:16:45","AT2",541,57
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:16:50","SAFE1",542,57
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:16:51","Possible Free Kick",543,57
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:16:55","F2",545,57
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:16:55","FK1",546,57
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:16:55","Ball Position",547,57
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:16:56","Restart",548,57
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:16:57","SAFE1",549,57
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:17:05","AT1",550,57
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:17:11","SAFE2",551,58
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:17:15","AT2",552,58
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:17:16","POSSIBLE_TI",553,58
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:17:16","TI2",554,58
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:17:28","Restart",555,58
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:17:33","SAFE1",556,58
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:17:49","AT2",557,58
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:17:58","SAFE1",558,58
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:18:24","AT2",559,59
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:18:28","SAFE1",560,59
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:18:31","Possible Free Kick",561,59
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:18:42","F2",563,59
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:18:42","FK1",564,59
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:18:42","Ball Position",565,59
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:18:47","AT1",566,59
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:18:47","DANGER1",567,59
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:18:47","DAT1",568,59
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:18:47","Restart",569,59
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:18:53","SAFE1",570,59
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:18:56","AT1",571,59
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:19:09","DANGER1",572,60
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:19:09","DAT1",573,60
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:19:13","SAFE2",574,60
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:19:22","SAFE1",575,60
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:19:27","AT1",576,60
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:19:35","SAFE1",577,60
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:19:48","AT1",578,60
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:20:20","DANGER1",579,61
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:20:20","DAT1",580,61
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:20:33","SAFE2",581,61
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:20:34","Possible Free Kick",582,61
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:20:36","POSSIBLE_CARDS",584,61
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:20:44","F1",585,61
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:20:44","FK2",586,61
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:20:44","Ball Position",587,61
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:20:52","NO_Cards",588,61
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:20:52","Restart",589,61
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:20:53","SAFE2",590,61
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:21:06","AT2",591,61
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:21:10","SAFE1",592,62
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:21:11","Possible Free Kick",593,62
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:21:12","F2",595,62
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:21:12","FK1",596,62
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:21:12","Ball Position",597,62
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:21:20","Restart",598,62
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:21:20","SAFE1",599,62
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:21:25","AT1",600,62
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:21:27","DANGER1",601,62
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:21:27","DAT1",602,62
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:21:54","GOAL1",603,62
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:22:13","Scorer",604,63
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:22:32","CONF_GOAL1",605,63
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:22:42","SUB2",606,63
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:22:57","KO2",607,63
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:22:57","SAFE2",608,63
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:22:58","SAFE2",609,63
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:23:06","AT1",610,64
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:23:08","DANGER1",611,64
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:23:08","DAT1",612,64
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:23:25","Player_DATA_CONFIRMED",613,64
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:23:25","Assist",614,64
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:23:51","SHG1",615,64
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:24:05","SHG1",616,64
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:24:05","SAFE2",617,64
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:24:30","AT2",618,65
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:24:37","DANGER2",619,65
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:24:37","DAT2",620,65
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:24:50","SAFE1",621,65
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:24:58","SAFE2",622,65
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:25:08","AT2",623,66
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:25:09","SUB_UPDATE",624,66
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:25:09","Player_DATA_CONFIRMED",625,66
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:25:22","SAFE1",626,66
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:25:24","AT1",627,66
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:25:26","DANGER1",628,66
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:25:26","DAT1",629,66
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:25:30","PCR1",630,66
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:25:35","CR1",631,66
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:25:41","SHB1",632,66
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:25:49","Ball Position",633,66
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:26:09","Restart",634,67
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:26:31","SAFE2",635,67
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:26:42","AT2",636,67
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:26:53","DANGER2",637,67
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:26:53","DAT2",638,67
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:26:56","SHG2",639,67
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:26:59","SAFE1",640,67
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:27:14","AT2",641,68
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:27:16","SAFE2",642,68
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:27:24","SAFE1",643,68
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:27:25","AT1",644,68
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:27:27","DANGER1",645,68
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:27:27","DAT1",646,68
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:27:33","SAFE2",647,68
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:27:37","AT2",648,68
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:27:41","DANGER2",649,68
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:27:41","DAT2",650,68
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:27:55","SAFE1",651,68
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:28:32","AT1",652,69
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:28:34","SAFE1",653,69
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:28:40","AT1",654,69
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:28:44","DANGER1",655,69
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:28:44","DAT1",656,69
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:28:56","PCR1",657,69
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:29:07","NCR1",658,70
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:29:09","SAFE2",659,70
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:29:09","GK2",660,70
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:29:11","Restart",661,70
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:29:12","SAFE2",662,70
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:29:21","AT2",663,70
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:29:23","DANGER2",664,70
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:29:23","DAT2",665,70
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:29:30","GOAL2",666,70
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:29:57","Scorer",667,70
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:30:31","CONF_GOAL2",668,71
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:30:45","KO1",669,71
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:30:45","SAFE1",670,71
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:30:45","SAFE1",671,71
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:31:27","Player_DATA_CONFIRMED",672,72
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:31:27","Assist",673,72
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:31:29","SAFE2",674,72
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:31:31","GK2",675,72
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:31:46","SUB1",676,72
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:31:52","Restart",677,72
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:32:00","AT2",678,72
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:32:02","SAFE2",679,72
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:32:11","AT2",680,73
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:32:14","SAFE1",681,73
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:32:22","AT1",682,73
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:32:25","DANGER1",683,73
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:32:25","DAT1",684,73
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:32:44","PCR1",685,73
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:32:50","NCR1",686,73
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:32:52","SHB1",687,73
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:32:54","SAFE2",688,73
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:32:55","GK2",689,73
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:32:56","Player_DATA_CONFIRMED",690,73
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:32:57","POSSIBLE_CARDS",691,73
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:33:03","NO_Cards",692,73
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:33:03","Restart",693,73
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:33:05","SAFE2",694,73
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:33:15","Possible Free Kick",695,74
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:33:16","SAFE1",697,74
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:33:16","F2",698,74
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:33:16","FK1",699,74
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:33:16","Ball Position",700,74
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:33:17","Restart",701,74
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:33:18","SAFE1",702,74
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:33:20","AT1",703,74
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:33:28","Possible Free Kick",704,74
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:33:29","POSSIBLE_CARDS",706,74
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:33:30","YC2",707,74
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:33:45","CONF_YC2",708,74
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:33:47","Scorer",709,74
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:33:53","F2",710,74
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:33:53","FK1",711,74
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:33:53","DANGER1",712,74
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:33:53","DFK1",713,74
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:33:53","Ball Position",714,74
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:34:32","Restart",715,75
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:34:43","SHW1",716,75
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:34:48","SAFE2",717,75
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:34:49","GK2",718,75
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:34:53","Restart",719,75
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:34:54","SAFE2",720,75
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:35:06","AT2",721,76
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:35:14","DANGER2",722,76
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:35:14","DAT2",723,76
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:35:18","SHB2",724,76
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:35:21","SAFE1",725,76
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:35:22","GK1",726,76
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:35:29","Restart",727,76
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:35:33","SAFE2",728,76
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:35:37","Possible Free Kick",729,76
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:35:44","F1",731,76
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:35:44","FK2",732,76
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:35:44","Ball Position",733,76
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:35:49","Restart",734,76
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:35:50","SAFE2",735,76
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:35:57","Scorer",736,76
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:35:57","Player_DATA_CONFIRMED",737,76
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:36:10","SAFE1",738,77
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:36:48","AT1",739,77
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:37:04","DANGER1",740,77
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:37:04","DAT1",741,77
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:37:28","POSSIBLE_TI",742,78
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:37:30","TI1",743,78
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:37:33","POSSIBLE_CARDS",744,78
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:37:33","PRC",745,78
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:37:54","Injury Break",746,78
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:38:37","SUB1",747,79
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:38:56","Player_DATA_CONFIRMED",748,79
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:38:59","No RC",749,79
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:39:01","NO_Cards",750,79
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:39:01","Restart",751,79
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:39:03","POSSIBLE_TI",752,79
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:39:06","TI2",753,80
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:39:17","Restart",754,80
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:39:21","POSSIBLE_TI",755,80
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:39:22","TI2",756,80
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:39:35","Restart",757,80
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:39:37","SAFE2",758,80
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:39:37","AT2",759,80
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:39:44","POSSIBLE_TI",760,80
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:39:44","TI1",761,80
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:39:46","Restart",762,80
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:39:47","SAFE1",763,80
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:39:52","AT2",764,80
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:40:02","DANGER2",765,80
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:40:02","DAT2",766,80
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:40:14","SAFE1",767,81
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:40:15","Possible Free Kick",768,81
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:40:16","POSSIBLE_CARDS",770,81
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:40:22","YC2",771,81
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:40:31","CONF_YC2",772,81
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:40:37","Scorer",773,81
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:40:41","F2",774,81
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:40:41","FK1",775,81
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:40:41","Ball Position",776,81
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:40:50","Restart",777,81
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:40:50","SAFE1",778,81
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:41:03","AT1",779,81
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:41:12","DANGER1",780,82
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:41:12","DAT1",781,82
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:41:57","Player_DATA_CONFIRMED",782,82
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:42:39","POSSIBLE_CARDS",783,83
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:42:45","YC1",784,83
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:42:52","CONF_YC1",785,83
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:42:59","Scorer",786,83
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:43:04","Possible Free Kick",787,83
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:43:07","SAFE2",789,84
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:43:07","F1",790,84
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:43:07","FK2",791,84
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:43:07","Ball Position",792,84
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:43:54","SUB2",793,84
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:43:56","POSSIBLE_CARDS",794,84
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:44:08","NO_Cards",795,85
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:44:09","Restart",796,85
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:44:12","AT1",797,85
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:44:19","DANGER1",798,85
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:44:19","DAT1",799,85
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:44:27","Player_DATA_CONFIRMED",800,85
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:44:34","SAFE1",801,85
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:44:34","POSSIBLE_TI",802,85
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:44:35","TI1",803,85
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:44:36","Restart",804,85
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:44:37","SAFE1",805,85
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:44:46","AT1",806,85
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:44:46","DANGER1",807,85
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:44:46","DAT1",808,85
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:44:57","Player_DATA_CONFIRMED",809,85
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:44:59","SHB1",810,85
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:45:09","SAFE2",811,86
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:45:10","GK2",812,86
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:45:11","POSSIBLE_CARDS",813,86
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:45:13","PRC",814,86
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:45:13","Danger",815,86
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:45:17","YC2",816,86
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:45:25","CONF_YC2",817,86
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:45:32","Scorer",818,86
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:45:36","No RC",819,86
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:45:38","Restart",820,86
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:45:44","SAFE1",821,86
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:45:54","AT2",822,86
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:45:56","DANGER2",823,86
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:45:56","DAT2",824,86
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:46:01","SHG2",825,86
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:46:09","SAFE1",826,87
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:46:11","AT1",827,87
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:46:15","Possible Free Kick",828,87
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:46:17","POSSIBLE_CARDS",830,87
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:46:18","PRC",831,87
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:46:18","Danger",832,87
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:46:21","YC2",833,87
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:46:41","CONF_YC2",834,87
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:46:44","Scorer",835,87
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:46:47","No RC",836,87
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:46:49","F2",837,87
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:46:49","FK1",838,87
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:46:49","DFK1",839,87
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:46:49","Ball Position",840,87
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:47:11","Restart",841,88
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:47:15","SAFE2",842,88
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:47:25","AT2",843,88
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:47:25","POSSIBLE_TI",844,88
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:47:27","TI2",845,88
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:47:41","POSSIBLE_CARDS",846,88
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:47:42","PRC",847,88
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:47:42","Danger",848,88
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:47:46","YC2",849,88
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:47:49","CONF_YC2",850,88
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:47:52","Scorer",851,88
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:47:54","No RC",852,88
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:47:57","Restart",853,88
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:48:02","SAFE1",854,88
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:48:03","GK1",855,88
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:48:12","Restart",856,89
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:48:15","AT1",857,89
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:48:23","SAFE1",858,89
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:48:24","POSSIBLE_TI",859,89
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:48:26","TI1",860,89
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:48:27","Restart",861,89
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:48:27","SAFE1",862,89
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:48:46","AT1",863,89
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:48:52","DANGER1",864,89
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:48:52","DAT1",865,89
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:49:03","PCR1",866,89
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:49:17","NCR1",867,90
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:49:19","SAFE2",868,90
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:49:20","GK2",869,90
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:49:21","Restart",870,90
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:49:21","SAFE2",871,90
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:49:30","AT2",872,90
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:49:31","Scorer",873,90
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:49:31","Player_DATA_CONFIRMED",874,90
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:49:36","SAFE2",875,90
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:49:44","AT2",876,90
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:49:48","DANGER2",877,90
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:49:48","DAT2",878,90
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:49:51","Scorer",879,90
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:49:51","Player_DATA_CONFIRMED",880,90
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:49:54","PCR2",881,90
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:49:55","CR2",882,90
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:49:57","Ball Position",883,90
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:49:59","Scorer",884,90
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:49:59","Player_DATA_CONFIRMED",885,90
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:50:25","Restart",886,91
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:50:31","SAFE1",887,91
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:50:36","POSSIBLE_TI",888,91
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:50:37","TI2",889,91
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:50:38","Extra Time",890,91
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:50:43","Extra Time",891,91
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:50:46","POSSIBLE_CARDS",892,91
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:50:57","NO_Cards",893,91
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:50:57","Restart",894,91
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:51:06","AT2",895,92
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:51:08","POSSIBLE_TI",896,92
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:51:10","TI2",897,92
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:51:20","POSSIBLE_CARDS",898,92
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:51:21","PRC",899,92
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:51:21","Danger",900,92
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:51:25","No RC",901,92
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:51:28","NO_Cards",902,92
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:51:29","Restart",903,92
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:51:32","SAFE1",904,92
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:51:33","AT1",905,92
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:51:42","POSSIBLE_TI",906,92
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:51:42","TI1",907,92
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:51:49","Restart",908,92
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:51:52","SAFE1",909,92
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:51:55","AT1",910,92
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:51:58","SAFE1",911,92
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:52:11","SAFE2",912,93
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:52:14","AT2",913,93
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:52:19","SAFE1",914,93
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:52:19","AT1",915,93
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:52:23","DANGER1",916,93
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:52:23","DAT1",917,93
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:52:50","SHB1",918,93
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:52:53","SAFE2",919,93
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:52:54","GK2",920,93
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:53:15","Restart",921,94
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:53:26","AT1",922,94
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:53:37","SAFE2",923,94
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:53:37","AT2",924,94
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:53:46","DANGER2",925,94
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:53:46","DAT2",926,94
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:53:52","POSSIBLE_TI",927,94
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:53:53","TI1",928,94
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:53:58","Restart",929,94
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:54:00","SAFE1",930,94
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:54:04","AT1",931,94
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:54:07","DANGER1",932,95
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:54:07","DAT1",933,95
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:54:26","POSSIBLE_CARDS",934,95
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:54:26","PRC",935,95
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:54:28","Possible Free Kick",936,95
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:54:31","YC2",938,95
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:54:52","CONF_YC2",939,95
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:54:53","Scorer",940,95
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:54:56","No RC",941,95
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:54:58","F2",942,95
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:54:58","FK1",943,95
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:54:58","DFK1",944,95
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:54:58","Ball Position",945,95
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:55:20","Scorer",946,96
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:55:20","Player_DATA_CONFIRMED",947,96
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:55:37","Restart",948,96
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:55:42","SHB1",949,96
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:55:48","Stop RT2",950,96
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:55:48","Stop Game",951,96
+900370,"FC Barcelona","RC Celta de Vigo","12/02/2017 13:55:57","CONF_PERIOD_SCORE",952,95

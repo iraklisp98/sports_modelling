@@ -1,0 +1,903 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+878470,"Angers SCO","Toulouse FC","10/21/2017 17:01:49","Scout in Stadion",0,0
+878470,"Angers SCO","Toulouse FC","10/21/2017 17:06:24","Lineup changed",1,0
+878470,"Angers SCO","Toulouse FC","10/21/2017 17:49:30","Transmission Online",2,0
+878470,"Angers SCO","Toulouse FC","10/21/2017 17:50:24","GCC",3,0
+878470,"Angers SCO","Toulouse FC","10/21/2017 17:57:17","Players are coming out",4,0
+878470,"Angers SCO","Toulouse FC","10/21/2017 17:57:29","Players lined up",5,0
+878470,"Angers SCO","Toulouse FC","10/21/2017 17:57:43","Shake hands",6,0
+878470,"Angers SCO","Toulouse FC","10/21/2017 17:58:20","Jersey Changed",7,0
+878470,"Angers SCO","Toulouse FC","10/21/2017 17:58:20","Jersey Changed",8,0
+878470,"Angers SCO","Toulouse FC","10/21/2017 17:58:22","Flip coin",9,0
+878470,"Angers SCO","Toulouse FC","10/21/2017 17:59:43","Game about to start",10,0
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:00:03","Start RT1 Team 1",11,1
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:00:14","AT1",12,1
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:00:39","POSSIBLE_TI",13,1
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:00:39","TI1",14,1
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:00:43","Restart",15,1
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:00:51","Possible Free Kick",16,1
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:00:56","F2",18,1
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:00:56","FK1",19,1
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:00:56","DANGER1",20,1
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:00:56","DFK1",21,1
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:00:56","Ball Position",22,1
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:01:15","Restart",23,2
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:01:27","POSSIBLE_TI",24,2
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:01:30","TI1",25,2
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:01:45","Restart",26,2
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:01:50","SAFE2",27,2
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:01:50","AT2",28,2
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:01:59","DANGER2",29,2
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:01:59","DAT2",30,2
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:02:02","PCR2",31,2
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:02:08","SHG2",32,3
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:02:16","CR2",33,3
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:02:17","Ball Position",34,3
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:02:35","Restart",35,3
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:02:47","POSSIBLE_TI",36,3
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:02:50","TI2",37,3
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:02:54","Restart",38,3
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:03:19","SAFE1",39,4
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:03:20","AT1",40,4
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:03:32","Possible Free Kick",41,4
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:03:33","SAFE1",43,4
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:03:33","F2",44,4
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:03:33","FK1",45,4
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:03:33","Ball Position",46,4
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:03:34","POSSIBLE_CARDS",47,4
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:04:03","NO_Cards",48,5
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:04:10","Restart",49,5
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:04:16","AT1",50,5
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:04:18","DANGER1",51,5
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:04:18","DAT1",52,5
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:04:26","SAFE2",53,5
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:04:27","AT2",54,5
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:04:35","SAFE2",55,5
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:05:06","SAFE1",56,6
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:05:07","AT1",57,6
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:05:16","Possible Free Kick",58,6
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:05:18","POSSIBLE_CARDS",60,6
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:05:22","F2",61,6
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:05:22","FK1",62,6
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:05:22","DANGER1",63,6
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:05:22","DFK1",64,6
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:05:22","Ball Position",65,6
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:05:33","NO_Cards",66,6
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:05:50","Restart",67,6
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:06:03","Possible Free Kick",68,7
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:06:05","POSSIBLE_CARDS",70,7
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:06:08","F2",71,7
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:06:08","FK1",72,7
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:06:08","DFK1",73,7
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:06:08","Ball Position",74,7
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:06:44","NO_Cards",75,7
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:07:11","Restart",76,8
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:07:26","SAFE2",77,8
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:07:28","AT2",78,8
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:07:34","DANGER2",79,8
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:07:34","DAT2",80,8
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:08:37","SAFE1",81,9
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:08:38","AT1",82,9
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:08:40","DANGER1",83,9
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:08:40","DAT1",84,9
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:08:46","Possible Free Kick",85,9
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:08:47","SAFE2",87,9
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:08:47","F1",88,9
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:08:47","FK2",89,9
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:08:47","Ball Position",90,9
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:09:10","Restart",91,10
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:09:12","AT2",92,10
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:09:15","POSSIBLE_TI",93,10
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:09:16","TI2",94,10
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:09:26","Restart",95,10
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:09:50","SAFE1",96,10
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:09:51","AT1",97,10
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:09:54","DANGER1",98,10
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:09:54","DAT1",99,10
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:10:02","BLOCKED1",100,10
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:10:06","SAFE2",101,11
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:10:07","Possible Free Kick",102,11
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:10:09","F1",104,11
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:10:09","FK2",105,11
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:10:09","Ball Position",106,11
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:10:10","POSSIBLE_CARDS",107,11
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:10:28","Restart",108,11
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:10:28","NO_Cards",109,11
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:10:50","AT2",110,11
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:10:59","POSSIBLE_TI",111,11
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:11:00","TI2",112,11
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:11:02","Restart",113,11
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:11:10","DANGER2",114,12
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:11:10","DAT2",115,12
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:11:36","POSSIBLE_TI",116,12
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:11:38","TI2",117,12
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:11:50","Restart",118,12
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:12:07","SAFE1",119,13
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:12:08","AT1",120,13
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:12:11","DANGER1",121,13
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:12:11","DAT1",122,13
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:12:32","BLOCKED1",123,13
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:12:48","SAFE2",124,13
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:12:49","AT2",125,13
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:12:51","DANGER2",126,13
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:12:51","DAT2",127,13
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:12:54","PCR2",128,13
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:13:15","NCR2",129,14
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:13:15","Possible Free Kick",130,14
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:13:18","SAFE1",132,14
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:13:18","F2",133,14
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:13:18","FK1",134,14
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:13:18","Ball Position",135,14
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:13:28","Restart",136,14
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:13:32","AT1",137,14
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:13:35","Possible Free Kick",138,14
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:13:39","F2",140,14
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:13:39","FK1",141,14
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:13:39","DANGER1",142,14
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:13:39","DFK1",143,14
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:13:39","Ball Position",144,14
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:13:53","Restart",145,14
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:14:04","SHG1",146,15
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:14:05","SAFE2",147,15
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:14:22","AT2",148,15
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:14:28","SAFE1",149,15
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:14:29","POSSIBLE_TI",150,15
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:14:30","TI1",151,15
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:14:47","CLS",152,15
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:14:50","TI2",153,15
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:14:57","Restart",154,15
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:14:59","AT2",155,15
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:15:04","SAFE1",156,16
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:15:12","AT1",157,16
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:15:20","Possible Free Kick",158,16
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:15:27","F2",160,16
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:15:27","FK1",161,16
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:15:27","DANGER1",162,16
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:15:27","DFK1",163,16
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:15:27","Ball Position",164,16
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:16:21","Restart",165,17
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:16:45","SAFE2",166,17
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:16:47","AT2",167,17
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:16:49","Possible Free Kick",168,17
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:16:52","SAFE1",170,17
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:16:52","F2",171,17
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:16:52","FK1",172,17
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:16:52","Ball Position",173,17
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:17:38","Restart",174,18
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:17:41","AT1",175,18
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:17:52","SAFE2",176,18
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:17:52","AT2",177,18
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:18:33","DANGER2",178,19
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:18:33","DAT2",179,19
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:18:44","SAFE1",180,19
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:18:45","AT1",181,19
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:18:51","POSSIBLE_TI",182,19
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:18:57","TI1",183,19
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:18:58","Restart",184,19
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:19:20","Possible Free Kick",185,20
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:19:22","POSSIBLE_CARDS",187,20
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:19:28","F2",188,20
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:19:28","FK1",189,20
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:19:28","DANGER1",190,20
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:19:28","DFK1",191,20
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:19:28","Ball Position",192,20
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:19:31","YC2",193,20
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:19:32","CONF_YC2",194,20
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:19:35","Scorer",195,20
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:20:03","Player_DATA_CONFIRMED",196,20
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:20:05","Restart",197,21
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:20:14","SAFE2",198,21
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:20:23","AT2",199,21
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:20:26","DANGER2",200,21
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:20:26","DAT2",201,21
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:20:28","SAFE1",202,21
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:20:42","AT1",203,21
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:20:46","POSSIBLE_TI",204,21
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:20:50","TI1",205,21
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:21:20","Restart",206,22
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:21:25","DANGER1",207,22
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:21:25","DAT1",208,22
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:21:56","POSSIBLE_TI",209,22
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:21:58","TI1",210,22
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:22:10","Restart",211,23
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:22:21","SAFE2",212,23
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:22:24","AT2",213,23
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:22:35","SAFE1",214,23
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:22:36","AT1",215,23
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:22:44","DANGER1",216,23
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:22:44","DAT1",217,23
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:22:52","POSSIBLE_TI",218,23
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:22:53","TI1",219,23
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:23:05","Restart",220,24
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:24:26","SAFE2",221,25
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:24:29","AT2",222,25
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:24:57","POSSIBLE_TI",223,25
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:25:00","TI1",224,25
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:25:09","Restart",225,26
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:25:23","SAFE1",226,26
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:25:24","POSSIBLE_TI",227,26
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:25:25","TI1",228,26
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:25:36","Restart",229,26
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:25:43","AT1",230,26
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:25:59","DANGER1",231,26
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:25:59","DAT1",232,26
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:26:02","POSSIBLE_TI",233,26
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:26:03","TI1",234,27
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:26:11","Restart",235,27
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:26:18","SAFE2",236,27
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:26:19","AT2",237,27
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:26:27","SAFE1",238,27
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:26:31","AT1",239,27
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:26:35","SAFE2",240,27
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:26:56","AT2",241,27
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:27:08","SAFE1",242,28
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:27:16","AT1",243,28
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:27:18","SAFE2",244,28
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:27:32","AT2",245,28
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:27:35","DANGER2",246,28
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:27:35","DAT2",247,28
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:28:16","PCR2",248,29
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:28:19","CR2",249,29
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:28:20","Ball Position",250,29
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:28:47","Restart",251,29
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:28:55","SAFE1",252,29
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:28:56","AT1",253,29
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:29:00","POSSIBLE_TI",254,29
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:29:00","TI1",255,29
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:29:11","Restart",256,30
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:29:17","DANGER1",257,30
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:29:17","DAT1",258,30
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:30:33","SAFE2",259,31
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:30:43","AT2",260,31
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:31:10","POSSIBLE_TI",261,32
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:31:18","TI1",262,32
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:31:21","Restart",263,32
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:31:31","SAFE1",264,32
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:31:41","AT1",265,32
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:31:51","DANGER1",266,32
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:31:51","DAT1",267,32
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:32:03","SHB1",268,33
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:32:04","SAFE2",269,33
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:32:04","GK2",270,33
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:32:24","Restart",271,33
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:32:43","AT2",272,33
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:32:52","DANGER2",273,33
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:32:52","DAT2",274,33
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:32:57","POSSIBLE_TI",275,33
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:33:01","TI1",276,33
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:33:05","Restart",277,34
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:33:23","SAFE2",278,34
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:33:55","AT2",279,34
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:33:59","SAFE1",280,34
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:34:15","AT1",281,35
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:34:18","POSSIBLE_TI",282,35
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:34:22","TI2",283,35
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:34:26","Restart",284,35
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:34:29","SAFE2",285,35
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:34:39","AT2",286,35
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:35:03","SAFE1",287,36
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:35:03","AT1",288,36
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:35:16","SAFE2",289,36
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:35:26","AT2",290,36
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:35:33","DANGER2",291,36
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:35:33","DAT2",292,36
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:36:40","Possible Free Kick",293,37
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:36:51","F1",295,37
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:36:51","FK2",296,37
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:36:51","DFK2",297,37
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:36:51","Ball Position",298,37
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:37:40","Restart",299,38
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:37:49","GOAL2",300,38
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:38:14","CONF_GOAL2",301,39
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:38:38","Scorer",302,39
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:38:38","KO1",303,39
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:38:38","SAFE1",304,39
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:38:46","AT1",305,39
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:38:47","SAFE2",306,39
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:38:48","AT2",307,39
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:38:50","SAFE1",308,39
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:39:00","AT1",309,39
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:39:01","Scorer",310,39
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:39:01","Player_DATA_CONFIRMED",311,39
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:39:02","Assist",312,39
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:39:03","Possible Free Kick",313,39
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:39:12","SAFE2",315,40
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:39:12","O1",316,40
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:39:12","FK2",317,40
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:39:12","Ball Position",318,40
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:39:35","Restart",319,40
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:39:41","AT2",320,40
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:39:42","POSSIBLE_TI",321,40
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:39:43","TI2",322,40
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:39:50","Restart",323,40
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:39:51","DANGER2",324,40
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:39:51","DAT2",325,40
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:40:04","Possible Free Kick",326,41
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:40:29","F1",328,41
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:40:29","FK2",329,41
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:40:29","DFK2",330,41
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:40:29","Ball Position",331,41
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:41:00","Restart",332,41
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:41:03","SHG2",333,42
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:41:05","SAFE1",334,42
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:41:16","AT1",335,42
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:41:21","DANGER1",336,42
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:41:21","DAT1",337,42
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:41:23","SAFE2",338,42
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:41:24","AT2",339,42
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:41:28","POSSIBLE_TI",340,42
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:41:28","TI1",341,42
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:41:37","Restart",342,42
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:41:39","SAFE1",343,42
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:41:59","AT1",344,42
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:42:07","POSSIBLE_TI",345,43
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:42:14","TI2",346,43
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:42:23","Restart",347,43
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:42:27","POSSIBLE_TI",348,43
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:42:28","TI1",349,43
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:42:30","Restart",350,43
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:42:46","DANGER1",351,43
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:42:46","DAT1",352,43
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:42:54","PCR1",353,43
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:43:02","SHB1",354,43
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:43:04","NCR1",355,44
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:43:05","SAFE2",356,44
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:43:06","GK2",357,44
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:43:23","Restart",358,44
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:43:26","AT2",359,44
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:43:30","POSSIBLE_TI",360,44
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:43:31","TI1",361,44
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:43:32","Restart",362,44
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:43:37","SAFE1",363,44
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:43:37","AT1",364,44
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:43:59","DANGER1",365,44
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:43:59","DAT1",366,44
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:44:02","PCR1",367,44
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:44:14","SHB1",368,45
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:44:15","NCR1",369,45
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:44:16","SAFE2",370,45
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:44:17","GK2",371,45
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:44:31","Restart",372,45
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:44:32","AT2",373,45
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:44:50","DANGER2",374,45
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:44:50","DAT2",375,45
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:45:11","Stop RT1",376,45
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:45:15","CONF_PERIOD_SCORE",377,45
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:58:00","Players are coming out",378,45
+878470,"Angers SCO","Toulouse FC","10/21/2017 18:58:47","GCC",379,45
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:00:32","Game about to start",380,45
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:00:46","Start RT2 Team 2",381,46
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:00:51","AT2",382,46
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:00:53","SAFE1",383,46
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:01:05","AT1",384,46
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:01:06","POSSIBLE_TI",385,46
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:01:10","TI2",386,46
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:01:19","Restart",387,46
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:01:21","SAFE2",388,46
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:01:22","AT2",389,46
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:01:33","SAFE1",390,46
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:01:34","AT1",391,46
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:01:39","SAFE2",392,46
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:01:40","AT2",393,46
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:01:42","SAFE1",394,46
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:01:43","AT1",395,46
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:01:53","POSSIBLE_TI",396,47
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:01:56","TI1",397,47
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:01:57","Restart",398,47
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:02:02","DANGER1",399,47
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:02:02","DAT1",400,47
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:02:09","POSSIBLE_TI",401,47
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:02:13","TI2",402,47
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:02:19","Restart",403,47
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:02:27","Possible Free Kick",404,47
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:02:29","SAFE2",406,47
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:02:29","F1",407,47
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:02:29","FK2",408,47
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:02:29","Ball Position",409,47
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:02:51","Restart",410,48
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:02:52","AT2",411,48
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:02:57","POSSIBLE_TI",412,48
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:03:01","TI2",413,48
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:03:06","Restart",414,48
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:03:20","DANGER2",415,48
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:03:20","DAT2",416,48
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:03:26","POSSIBLE_TI",417,48
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:03:31","TI2",418,48
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:08:19","Restart",419,53
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:08:49","System Message",420,54
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:08:49","Game suspended",421,54
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:09:55","POSSIBLE_TI",422,55
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:09:56","TI2",423,55
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:10:18","Restart",424,55
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:10:22","System Message",425,55
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:10:41","SAFE1",426,55
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:10:42","AT1",427,55
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:10:51","POSSIBLE_TI",428,56
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:10:55","TI1",429,56
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:10:58","Restart",430,56
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:11:12","SAFE2",431,56
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:11:13","AT2",432,56
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:11:15","DANGER2",433,56
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:11:15","DAT2",434,56
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:11:23","SAFE1",435,56
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:11:24","AT1",436,56
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:11:30","DANGER1",437,56
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:11:30","DAT1",438,56
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:11:36","SHG1",439,56
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:11:37","SAFE2",440,56
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:12:06","AT2",441,57
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:12:09","POSSIBLE_TI",442,57
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:12:10","TI1",443,57
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:12:15","Restart",444,57
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:12:19","SAFE1",445,57
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:12:21","AT1",446,57
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:12:23","POSSIBLE_TI",447,57
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:12:24","TI1",448,57
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:12:27","Restart",449,57
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:12:42","DANGER1",450,57
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:12:42","DAT1",451,57
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:12:53","SAFE2",452,58
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:12:53","AT2",453,58
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:13:01","SAFE1",454,58
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:13:15","AT1",455,58
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:13:21","DANGER1",456,58
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:13:21","DAT1",457,58
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:13:22","POSSIBLE_TI",458,58
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:13:24","TI1",459,58
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:13:44","SUB1",460,58
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:13:54","Restart",461,59
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:14:05","SAFE2",462,59
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:14:05","POSSIBLE_TI",463,59
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:14:06","TI2",464,59
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:14:14","Restart",465,59
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:14:17","AT1",466,59
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:14:22","DANGER1",467,59
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:14:22","DAT1",468,59
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:14:28","PCR1",469,59
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:14:32","Player_DATA_CONFIRMED",470,59
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:14:39","NCR1",471,59
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:14:40","POSSIBLE_TI",472,59
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:14:41","TI1",473,59
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:14:54","POSSIBLE_CARDS",474,60
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:14:59","YC2",475,60
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:15:01","CONF_YC2",476,60
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:15:02","Scorer",477,60
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:15:15","Restart",478,60
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:15:17","Possible Free Kick",479,60
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:15:22","POSSIBLE_CARDS",481,60
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:15:27","F2",482,60
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:15:27","FK1",483,60
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:15:27","DFK1",484,60
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:15:27","Ball Position",485,60
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:15:33","Scorer",486,60
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:15:33","Player_DATA_CONFIRMED",487,60
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:15:43","NO_Cards",488,60
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:16:06","Restart",489,61
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:16:09","PCR1",490,61
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:16:13","SHB1",491,61
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:16:15","NCR1",492,61
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:16:16","SAFE2",493,61
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:16:17","GK2",494,61
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:16:50","Restart",495,62
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:16:54","AT2",496,62
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:16:55","SAFE1",497,62
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:16:56","AT1",498,62
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:17:00","DANGER1",499,62
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:17:00","DAT1",500,62
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:17:07","SAFE2",501,62
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:17:08","AT2",502,62
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:17:09","SAFE1",503,62
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:17:17","AT1",504,62
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:17:20","DANGER1",505,62
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:17:20","DAT1",506,62
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:17:23","PCR1",507,62
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:17:28","SHB1",508,62
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:17:29","NCR1",509,62
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:17:29","SAFE2",510,62
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:17:30","GK2",511,62
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:17:49","Restart",512,63
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:17:51","AT2",513,63
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:17:53","POSSIBLE_TI",514,63
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:17:57","TI2",515,63
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:18:04","Restart",516,63
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:18:10","POSSIBLE_TI",517,63
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:18:11","TI1",518,63
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:18:12","Restart",519,63
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:18:25","SAFE1",520,63
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:18:26","AT1",521,63
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:18:30","DANGER1",522,63
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:18:30","DAT1",523,63
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:19:04","SHW1",524,64
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:19:05","PCR1",525,64
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:19:15","NCR1",526,64
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:19:15","SAFE2",527,64
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:19:16","GK2",528,64
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:19:29","SUB2",529,64
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:19:56","Restart",530,65
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:19:58","AT2",531,65
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:20:02","Player_DATA_CONFIRMED",532,65
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:20:09","Possible Free Kick",533,65
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:20:12","SAFE1",535,65
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:20:12","F2",536,65
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:20:12","FK1",537,65
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:20:12","Ball Position",538,65
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:20:13","POSSIBLE_CARDS",539,65
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:20:50","NO_Cards",540,66
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:20:52","Restart",541,66
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:21:05","AT1",542,66
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:21:08","DANGER1",543,66
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:21:08","DAT1",544,66
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:21:12","PCR1",545,66
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:21:17","CR1",546,66
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:21:18","Ball Position",547,66
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:21:30","Restart",548,66
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:21:35","PCR1",549,66
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:21:39","SHB1",550,66
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:21:40","NCR1",551,66
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:21:41","SAFE2",552,66
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:21:42","GK2",553,66
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:22:03","Restart",554,67
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:22:05","AT2",555,67
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:22:16","Possible Free Kick",556,67
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:22:17","SAFE1",558,67
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:22:17","F2",559,67
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:22:17","FK1",560,67
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:22:17","Ball Position",561,67
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:22:22","Restart",562,67
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:22:35","AT1",563,67
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:22:39","POSSIBLE_TI",564,67
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:22:42","TI1",565,67
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:22:46","Restart",566,68
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:22:48","DANGER1",567,68
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:22:48","DAT1",568,68
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:23:08","Possible Free Kick",569,68
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:23:10","POSSIBLE_CARDS",571,68
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:23:13","F2",572,68
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:23:13","FK1",573,68
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:23:13","DFK1",574,68
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:23:13","Ball Position",575,68
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:23:32","YC2",576,68
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:23:44","CONF_YC2",577,68
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:23:53","Scorer",578,69
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:24:36","Restart",579,69
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:24:42","SHG1",580,69
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:24:43","Possible Free Kick",581,69
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:24:44","POSSIBLE_CARDS",583,69
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:24:48","SAFE2",584,70
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:24:48","F1",585,70
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:24:48","FK2",586,70
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:24:48","Ball Position",587,70
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:24:49","PRC",588,70
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:24:49","Danger",589,70
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:25:39","YC1",590,70
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:25:43","CONF_YC1",591,70
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:25:44","Scorer",592,70
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:25:49","No RC",593,71
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:25:53","Scorer",594,71
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:25:54","Player_DATA_CONFIRMED",595,71
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:25:58","Restart",596,71
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:26:01","AT2",597,71
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:26:05","SAFE1",598,71
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:26:07","AT1",599,71
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:26:12","SAFE2",600,71
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:26:13","AT2",601,71
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:26:17","SAFE1",602,71
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:26:28","AT1",603,71
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:26:34","Possible Free Kick",604,71
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:26:37","SAFE2",606,71
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:26:37","F1",607,71
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:26:37","FK2",608,71
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:26:37","Ball Position",609,71
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:27:26","CLS",610,72
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:27:26","No Free Kick",611,72
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:27:26","SAFE2",612,72
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:27:26","AT2",613,72
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:27:39","DANGER2",614,72
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:27:39","DAT2",615,72
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:27:52","POSSIBLE_TI",616,73
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:28:00","TI2",617,73
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:28:00","Restart",618,73
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:28:12","SAFE1",619,73
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:28:16","AT1",620,73
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:28:27","Possible Free Kick",621,73
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:28:29","SAFE2",623,73
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:28:29","O1",624,73
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:28:29","FK2",625,73
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:28:29","Ball Position",626,73
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:28:43","Restart",627,73
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:28:44","AT2",628,73
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:28:51","SAFE1",629,74
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:28:51","AT1",630,74
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:29:13","SAFE2",631,74
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:29:13","AT2",632,74
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:29:15","Possible Free Kick",633,74
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:29:16","POSSIBLE_CARDS",635,74
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:29:20","YC1",636,74
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:29:21","Scorer",637,74
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:29:21","Player_DATA_CONFIRMED",638,74
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:29:23","CONF_YC1",639,74
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:29:28","Scorer",640,74
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:29:32","F1",641,74
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:29:32","FK2",642,74
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:29:32","DANGER2",643,74
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:29:32","DFK2",644,74
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:29:32","Ball Position",645,74
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:29:36","Injury Break",646,74
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:29:37","Player_DATA_CONFIRMED",647,74
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:30:27","Restart",648,75
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:30:37","Possible Free Kick",649,75
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:30:38","SAFE1",651,75
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:30:38","O2",652,75
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:30:38","FK1",653,75
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:30:38","Ball Position",654,75
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:30:45","Restart",655,75
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:30:52","AT1",656,76
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:30:55","POSSIBLE_TI",657,76
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:30:57","TI1",658,76
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:30:58","Restart",659,76
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:31:24","SAFE2",660,76
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:31:25","AT2",661,76
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:31:27","POSSIBLE_TI",662,76
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:31:28","TI1",663,76
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:31:41","Restart",664,76
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:31:42","SAFE1",665,76
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:31:43","AT1",666,76
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:31:51","DANGER1",667,77
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:31:51","DAT1",668,77
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:32:01","Possible Free Kick",669,77
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:32:04","SAFE2",671,77
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:32:04","F1",672,77
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:32:04","FK2",673,77
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:32:04","Ball Position",674,77
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:33:04","Injury Break",675,78
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:33:27","Restart",676,78
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:33:30","AT2",677,78
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:33:33","SAFE1",678,78
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:33:40","AT1",679,78
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:33:44","POSSIBLE_TI",680,78
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:33:45","TI2",681,78
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:33:53","Restart",682,79
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:34:05","DANGER1",683,79
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:34:05","DAT1",684,79
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:34:44","SAFE2",685,79
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:34:46","Possible Free Kick",686,80
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:34:52","F1",688,80
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:34:52","FK2",689,80
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:34:52","Ball Position",690,80
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:35:03","Restart",691,80
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:35:06","AT2",692,80
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:35:12","DANGER2",693,80
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:35:12","DAT2",694,80
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:35:30","POSSIBLE_TI",695,80
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:35:30","TI1",696,80
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:35:32","Restart",697,80
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:35:32","SAFE1",698,80
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:35:38","SAFE2",699,80
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:35:38","AT2",700,80
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:35:40","DANGER2",701,80
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:35:40","DAT2",702,80
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:35:45","POSSIBLE_TI",703,80
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:35:46","TI2",704,81
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:36:27","SUB2",705,81
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:36:32","Player_DATA_CONFIRMED",706,81
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:36:52","SUB1",707,82
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:37:05","Player_DATA_CONFIRMED",708,82
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:37:22","SUB1",709,82
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:37:28","Restart",710,82
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:37:29","SAFE1",711,82
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:37:30","GK1",712,82
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:37:35","Restart",713,82
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:37:38","AT1",714,82
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:37:41","DANGER1",715,82
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:37:41","DAT1",716,82
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:37:44","POSSIBLE_TI",717,82
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:37:45","TI2",718,82
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:37:46","SAFE2",719,83
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:37:47","Restart",720,83
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:37:50","AT2",721,83
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:37:53","SUB_UPDATE",722,83
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:37:53","Player_DATA_CONFIRMED",723,83
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:37:57","SAFE1",724,83
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:37:57","AT1",725,83
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:38:04","Possible Free Kick",726,83
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:38:05","SAFE2",728,83
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:38:05","F1",729,83
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:38:05","FK2",730,83
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:38:05","Ball Position",731,83
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:38:13","SUB_UPDATE",732,83
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:38:15","Restart",733,83
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:38:16","AT2",734,83
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:38:21","POSSIBLE_TI",735,83
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:38:22","TI1",736,83
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:38:32","Restart",737,83
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:38:37","DANGER2",738,83
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:38:37","DAT2",739,83
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:38:43","Possible Free Kick",740,83
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:38:44","SAFE1",742,83
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:38:44","F2",743,83
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:38:44","FK1",744,83
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:38:44","Ball Position",745,83
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:38:51","Restart",746,84
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:39:05","CLS",747,84
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:39:09","Restart",748,84
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:39:13","AT1",749,84
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:39:18","DANGER1",750,84
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:39:18","DAT1",751,84
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:39:20","PCR1",752,84
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:39:22","SHG1",753,84
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:39:34","CR1",754,84
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:39:35","Ball Position",755,84
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:39:48","Restart",756,85
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:39:51","SAFE2",757,85
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:40:11","AT2",758,85
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:40:21","DANGER2",759,85
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:40:21","DAT2",760,85
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:40:21","POSSIBLE_TI",761,85
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:40:24","TI2",762,85
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:40:37","Restart",763,85
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:40:48","POSSIBLE_TI",764,86
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:40:50","TI2",765,86
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:41:02","Restart",766,86
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:41:17","SAFE1",767,86
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:41:23","AT1",768,86
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:41:28","POSSIBLE_TI",769,86
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:41:29","TI1",770,86
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:41:33","Restart",771,86
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:41:45","DANGER1",772,86
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:41:45","DAT1",773,86
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:41:48","Possible Free Kick",774,87
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:41:54","F2",776,87
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:41:54","FK1",777,87
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:41:54","DFK1",778,87
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:41:54","Ball Position",779,87
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:41:55","POSSIBLE_CARDS",780,87
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:42:26","NO_Cards",781,87
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:42:32","Restart",782,87
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:42:37","PCR1",783,87
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:42:42","CR1",784,87
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:42:50","Ball Position",785,88
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:42:54","Restart",786,88
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:43:00","SAFE2",787,88
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:43:05","AT2",788,88
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:43:15","DANGER2",789,88
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:43:15","DAT2",790,88
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:43:31","SAFE1",791,88
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:43:32","AT1",792,88
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:43:34","DANGER1",793,88
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:43:34","DAT1",794,88
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:43:36","SAFE2",795,88
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:43:55","AT2",796,89
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:43:59","POSSIBLE_TI",797,89
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:43:59","TI2",798,89
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:44:17","Restart",799,89
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:44:24","POSSIBLE_TI",800,89
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:44:25","TI2",801,89
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:44:25","Restart",802,89
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:44:31","POSSIBLE_TI",803,89
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:44:32","TI2",804,89
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:44:36","Restart",805,89
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:44:42","POSSIBLE_TI",806,89
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:44:43","TI1",807,89
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:44:48","Restart",808,90
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:44:54","POSSIBLE_TI",809,90
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:44:54","TI1",810,90
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:44:55","Restart",811,90
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:45:05","POSSIBLE_TI",812,90
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:45:09","TI2",813,90
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:45:14","Restart",814,90
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:45:16","SAFE2",815,90
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:45:16","AT2",816,90
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:45:30","SAFE1",817,90
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:45:32","AT1",818,90
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:45:34","DANGER1",819,90
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:45:34","DAT1",820,90
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:45:38","POSSIBLE_TI",821,90
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:45:38","TI2",822,90
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:45:44","Extra Time",823,90
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:45:48","Restart",824,91
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:45:57","SAFE2",825,91
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:45:57","AT2",826,91
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:46:00","Possible Free Kick",827,91
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:46:01","SAFE1",829,91
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:46:01","F2",830,91
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:46:01","FK1",831,91
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:46:01","Ball Position",832,91
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:46:07","Restart",833,91
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:46:09","AT1",834,91
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:46:14","DANGER1",835,91
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:46:14","DAT1",836,91
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:46:22","SAFE2",837,91
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:46:23","GK2",838,91
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:46:39","POSSIBLE_CARDS",839,91
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:46:42","YC2",840,91
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:46:55","CONF_YC2",841,92
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:47:06","Scorer",842,92
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:47:09","Restart",843,92
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:47:10","AT2",844,92
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:47:20","DANGER2",845,92
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:47:20","DAT2",846,92
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:47:23","SAFE1",847,92
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:47:38","AT1",848,92
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:47:40","DANGER1",849,92
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:47:40","DAT1",850,92
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:47:44","POSSIBLE_TI",851,92
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:47:45","TI1",852,92
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:47:48","Restart",853,93
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:48:06","POSSIBLE_TI",854,93
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:48:07","TI1",855,93
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:48:12","Restart",856,93
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:48:32","Player_DATA_CONFIRMED",857,93
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:49:15","SAFE2",858,94
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:49:26","POSSIBLE_TI",859,94
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:49:27","TI2",860,94
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:49:54","SUB2",861,95
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:50:26","Restart",862,95
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:50:28","AT2",863,95
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:50:33","Player_DATA_CONFIRMED",864,95
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:50:34","POSSIBLE_TI",865,95
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:50:34","TI2",866,95
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:50:41","Restart",867,95
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:50:47","DANGER2",868,96
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:50:47","DAT2",869,96
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:50:53","PCR2",870,96
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:50:56","NCR2",871,96
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:50:56","SAFE1",872,96
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:50:57","GK1",873,96
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:51:03","Restart",874,96
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:51:14","AT1",875,96
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:51:28","POSSIBLE_TI",876,96
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:51:28","TI1",877,96
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:51:31","Restart",878,96
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:51:35","DANGER1",879,96
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:51:35","DAT1",880,96
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:51:35","PCR1",881,96
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:51:39","CR1",882,96
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:51:40","Ball Position",883,96
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:52:12","POSSIBLE_CARDS",884,97
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:52:16","NO_Cards",885,97
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:52:17","Restart",886,97
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:52:37","SAFE2",887,97
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:52:39","AT2",888,97
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:52:43","DANGER2",889,97
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:52:43","DAT2",890,97
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:52:54","SAFE1",891,98
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:52:57","AT1",892,98
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:52:58","SAFE2",893,98
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:52:58","AT2",894,98
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:53:02","DANGER2",895,98
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:53:02","DAT2",896,98
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:53:07","SAFE1",897,98
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:53:10","AT1",898,98
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:53:14","DANGER1",899,98
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:53:14","DAT1",900,98
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:53:17","POSSIBLE_TI",901,98
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:53:18","TI1",902,98
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:53:27","Restart",903,98
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:53:34","SHG1",904,98
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:53:35","SAFE2",905,98
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:53:45","AT2",906,98
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:53:53","SAFE1",907,99
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:53:58","AT1",908,99
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:54:04","SAFE2",909,99
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:54:05","AT2",910,99
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:54:08","DANGER2",911,99
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:54:08","DAT2",912,99
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:54:14","SAFE1",913,99
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:54:15","AT1",914,99
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:54:24","DANGER1",915,99
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:54:24","DAT1",916,99
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:54:40","SAFE2",917,99
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:54:40","AT2",918,99
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:55:02","SAFE1",919,100
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:55:09","AT1",920,100
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:55:33","DANGER1",921,100
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:55:33","DAT1",922,100
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:55:47","PCR1",923,101
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:55:55","SHB1",924,101
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:55:56","NCR1",925,101
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:55:59","SAFE2",926,101
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:56:01","GK2",927,101
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:56:19","Restart",928,101
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:56:23","Stop RT2",929,101
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:56:23","Stop Game",930,101
+878470,"Angers SCO","Toulouse FC","10/21/2017 19:56:30","CONF_PERIOD_SCORE",931,100

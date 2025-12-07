@@ -1,0 +1,996 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 15:31:04","Lineup changed",0,0
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 15:31:16","Transmission Online",1,0
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 15:31:16","Scout in Stadion",2,0
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 15:44:42","GCC",3,0
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:17:55","GCC",4,0
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:25:10","GCC",5,0
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:26:31","Players are coming out",6,0
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:26:45","Players lined up",7,0
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:26:57","Shake hands",8,0
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:27:35","Jersey Changed",9,0
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:27:35","Jersey Changed",10,0
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:27:37","Photo taking",11,0
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:27:54","Flip coin",12,0
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:29:03","Minute of silent",13,0
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:29:40","Game about to start",14,0
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:30:18","Start RT1 Team 2",15,1
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:30:35","AT2",16,1
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:30:40","POSSIBLE_TI",17,1
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:30:41","TI1",18,1
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:30:45","Restart",19,1
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:30:56","DANGER2",20,1
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:30:56","DAT2",21,1
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:31:02","BLOCKED2",22,1
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:31:21","SAFE2",23,2
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:31:43","AT2",24,2
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:31:44","DANGER2",25,2
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:31:44","DAT2",26,2
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:31:58","SAFE1",27,2
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:32:17","AT1",28,2
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:32:20","POSSIBLE_TI",29,3
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:32:20","TI2",30,3
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:32:24","Restart",31,3
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:33:10","DANGER1",32,3
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:33:10","DAT1",33,3
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:33:21","SAFE2",34,4
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:33:23","AT2",35,4
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:33:27","SAFE1",36,4
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:33:28","AT1",37,4
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:33:36","SAFE2",38,4
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:33:38","AT2",39,4
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:33:38","DANGER2",40,4
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:33:38","DAT2",41,4
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:34:02","SAFE1",42,4
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:34:03","AT1",43,4
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:34:03","DANGER1",44,4
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:34:03","DAT1",45,4
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:34:12","SHB1",46,4
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:34:14","SAFE2",47,4
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:34:15","GK2",48,4
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:34:34","Restart",49,5
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:34:48","AT2",50,5
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:34:50","DANGER2",51,5
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:34:50","DAT2",52,5
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:34:54","Possible Free Kick",53,5
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:34:57","SAFE1",55,5
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:34:57","O2",56,5
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:34:57","FK1",57,5
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:34:57","Ball Position",58,5
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:35:18","Restart",59,5
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:35:25","AT1",60,6
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:35:25","DANGER1",61,6
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:35:25","DAT1",62,6
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:35:32","SAFE2",63,6
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:35:33","AT2",64,6
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:35:33","DANGER2",65,6
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:35:33","DAT2",66,6
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:35:40","SAFE1",67,6
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:35:40","AT1",68,6
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:35:58","SAFE2",69,6
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:36:01","AT2",70,6
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:36:06","DANGER2",71,6
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:36:06","DAT2",72,6
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:36:09","POSSIBLE_TI",73,6
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:36:12","TI1",74,6
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:36:16","Restart",75,6
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:36:27","Possible Free Kick",76,7
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:36:29","SAFE1",78,7
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:36:29","F2",79,7
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:36:29","FK1",80,7
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:36:29","Ball Position",81,7
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:36:37","Restart",82,7
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:36:43","AT1",83,7
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:36:45","DANGER1",84,7
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:36:45","DAT1",85,7
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:36:50","PCR1",86,7
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:37:00","CR1",87,7
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:37:01","Ball Position",88,7
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:37:10","Restart",89,7
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:37:16","SHG1",90,7
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:37:18","SAFE2",91,8
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:37:27","POSSIBLE_TI",92,8
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:37:28","TI1",93,8
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:37:30","Restart",94,8
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:37:40","AT1",95,8
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:37:46","DANGER1",96,8
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:37:46","DAT1",97,8
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:37:55","SHB1",98,8
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:37:57","SAFE2",99,8
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:37:58","GK2",100,8
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:38:06","Restart",101,8
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:38:12","AT1",102,8
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:38:12","DANGER1",103,8
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:38:12","DAT1",104,8
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:38:34","Possible Free Kick",105,9
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:38:38","F2",107,9
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:38:38","FK1",108,9
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:38:38","DFK1",109,9
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:38:38","Ball Position",110,9
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:39:03","Restart",111,9
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:39:09","PCR1",112,9
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:39:12","NCR1",113,9
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:39:14","SHB1",114,9
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:39:14","SAFE2",115,9
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:39:15","GK2",116,9
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:39:15","Restart",117,9
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:39:18","AT2",118,9
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:39:18","DANGER2",119,9
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:39:18","DAT2",120,9
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:39:25","POSSIBLE_TI",121,10
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:39:28","TI2",122,10
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:39:36","Restart",123,10
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:39:52","Possible Free Kick",124,10
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:39:53","F1",126,10
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:39:53","FK2",127,10
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:39:53","DFK2",128,10
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:39:53","Ball Position",129,10
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:40:01","Restart",130,10
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:40:07","SAFE2",131,10
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:40:32","AT2",132,11
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:40:33","DANGER2",133,11
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:40:33","DAT2",134,11
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:40:42","POSSIBLE_TI",135,11
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:40:43","TI1",136,11
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:40:46","Restart",137,11
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:41:00","SAFE2",138,11
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:41:17","AT1",139,11
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:41:17","DANGER1",140,11
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:41:17","DAT1",141,11
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:41:32","SAFE2",142,12
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:41:51","AT2",143,12
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:41:54","DANGER2",144,12
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:41:54","DAT2",145,12
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:42:09","SAFE2",146,12
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:42:16","AT2",147,12
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:42:16","DANGER2",148,12
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:42:16","DAT2",149,12
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:42:25","SAFE1",150,13
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:42:26","AT1",151,13
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:42:43","SAFE2",152,13
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:42:44","AT2",153,13
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:42:48","DANGER2",154,13
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:42:48","DAT2",155,13
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:42:56","SHG2",156,13
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:43:06","Possible Free Kick",157,13
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:43:08","SAFE1",159,13
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:43:08","F2",160,13
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:43:08","FK1",161,13
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:43:08","Ball Position",162,13
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:43:20","Restart",163,14
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:43:23","AT1",164,14
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:43:23","DANGER1",165,14
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:43:23","DAT1",166,14
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:43:31","Possible Free Kick",167,14
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:43:38","SAFE2",169,14
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:43:38","F1",170,14
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:43:38","FK2",171,14
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:43:38","Ball Position",172,14
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:43:49","Restart",173,14
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:44:07","AT2",174,14
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:44:14","DANGER2",175,14
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:44:14","DAT2",176,14
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:44:16","POSSIBLE_TI",177,14
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:44:19","TI1",178,15
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:44:25","Restart",179,15
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:44:43","Possible Free Kick",180,15
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:44:48","SAFE1",182,15
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:44:48","O2",183,15
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:44:48","FK1",184,15
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:44:48","Ball Position",185,15
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:44:57","Restart",186,15
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:45:11","AT1",187,15
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:45:11","DANGER1",188,15
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:45:11","DAT1",189,15
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:45:16","SAFE2",190,15
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:45:26","AT1",191,16
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:45:26","DANGER1",192,16
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:45:26","DAT1",193,16
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:45:35","BLOCKED1",194,16
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:45:59","SHB1",195,16
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:46:02","SAFE2",196,16
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:46:02","GK2",197,16
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:46:19","Restart",198,17
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:46:28","AT2",199,17
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:46:28","DANGER2",200,17
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:46:28","DAT2",201,17
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:46:32","SAFE1",202,17
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:46:51","Possible Free Kick",203,17
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:46:52","F2",205,17
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:46:52","FK1",206,17
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:46:52","DANGER1",207,17
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:46:52","DFK1",208,17
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:46:52","Ball Position",209,17
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:47:07","Restart",210,17
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:47:21","SAFE2",211,18
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:47:23","AT2",212,18
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:47:23","DANGER2",213,18
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:47:23","DAT2",214,18
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:47:31","SAFE1",215,18
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:47:32","GK1",216,18
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:47:48","Restart",217,18
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:48:22","SAFE2",218,19
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:48:40","AT2",219,19
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:48:42","SAFE1",220,19
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:48:43","AT1",221,19
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:48:49","DANGER1",222,19
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:48:49","DAT1",223,19
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:48:57","SAFE2",224,19
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:48:58","GK2",225,19
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:49:14","Restart",226,19
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:49:22","AT2",227,20
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:49:22","DANGER2",228,20
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:49:22","DAT2",229,20
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:49:28","Possible Free Kick",230,20
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:49:40","SAFE1",233,20
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:49:40","O2",234,20
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:49:40","FK1",235,20
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:49:40","Ball Position",236,20
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:49:47","Restart",237,20
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:49:51","AT1",238,20
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:49:54","DANGER1",239,20
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:49:54","DAT1",240,20
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:50:00","Possible Free Kick",241,20
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:50:01","F2",243,20
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:50:01","FK1",244,20
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:50:01","DFK1",245,20
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:50:01","Ball Position",246,20
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:50:38","Restart",247,21
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:50:55","SAFE2",248,21
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:50:56","AT2",249,21
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:50:56","DANGER2",250,21
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:50:56","DAT2",251,21
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:51:04","SAFE1",252,21
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:51:06","POSSIBLE_TI",253,21
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:51:07","TI1",254,21
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:51:10","Restart",255,21
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:51:27","AT1",256,22
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:51:27","DANGER1",257,22
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:51:27","DAT1",258,22
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:51:33","SAFE2",259,22
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:51:33","AT2",260,22
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:51:34","DANGER2",261,22
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:51:34","DAT2",262,22
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:51:55","SAFE1",263,22
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:52:00","AT1",264,22
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:52:01","POSSIBLE_TI",265,22
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:52:04","TI1",266,22
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:52:06","Restart",267,22
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:52:15","DANGER1",268,22
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:52:15","DAT1",269,22
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:52:24","Possible Free Kick",270,23
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:52:29","SAFE2",272,23
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:52:29","O1",273,23
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:52:29","FK2",274,23
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:52:29","Ball Position",275,23
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:52:39","Restart",276,23
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:52:51","AT1",277,23
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:52:51","DANGER1",278,23
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:52:51","DAT1",279,23
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:53:00","SAFE2",280,23
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:53:01","AT2",281,23
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:53:16","Possible Free Kick",282,23
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:53:18","F1",284,23
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:53:18","FK2",285,23
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:53:18","DANGER2",286,23
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:53:18","DFK2",287,23
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:53:18","Ball Position",288,23
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:53:26","Restart",289,24
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:53:35","SAFE2",290,24
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:53:53","POSSIBLE_TI",291,24
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:53:55","TI2",292,24
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:53:56","Restart",293,24
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:54:10","AT2",294,24
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:54:13","SAFE1",295,24
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:54:14","AT1",296,24
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:54:24","DANGER1",297,25
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:54:24","DAT1",298,25
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:54:45","SAFE2",299,25
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:54:49","AT2",300,25
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:54:49","DANGER2",301,25
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:54:49","DAT2",302,25
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:54:56","SAFE1",303,25
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:54:57","AT1",304,25
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:55:06","Possible Free Kick",305,25
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:55:07","SAFE2",307,25
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:55:07","F1",308,25
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:55:07","FK2",309,25
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:55:07","Ball Position",310,25
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:55:24","Restart",311,26
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:55:49","Possible Free Kick",312,26
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:55:51","F1",314,26
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:55:51","FK2",315,26
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:55:51","DANGER2",316,26
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:55:51","DFK2",317,26
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:55:51","Ball Position",318,26
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:56:07","Restart",319,26
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:56:16","Possible Free Kick",320,26
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:56:19","SAFE1",322,27
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:56:19","O2",323,27
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:56:19","FK1",324,27
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:56:19","Ball Position",325,27
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:56:39","Restart",326,27
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:56:47","AT1",327,27
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:56:47","DANGER1",328,27
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:56:47","DAT1",329,27
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:56:55","Possible Free Kick",330,27
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:56:57","F2",332,27
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:56:57","FK1",333,27
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:56:57","DFK1",334,27
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:56:57","Ball Position",335,27
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:57:33","Restart",336,28
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:57:37","PCR1",337,28
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:57:54","CR1",338,28
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:57:55","SHG1",339,28
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:57:56","Ball Position",340,28
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:58:04","Restart",341,28
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:58:17","SHB1",342,28
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:58:18","SAFE2",343,28
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:58:18","GK2",344,29
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:58:37","Restart",345,29
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:58:59","AT1",346,29
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:58:59","DANGER1",347,29
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:58:59","DAT1",348,29
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:59:18","SAFE2",349,29
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:59:19","AT2",350,30
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:59:21","DANGER2",351,30
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:59:21","DAT2",352,30
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:59:25","SAFE1",353,30
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:59:49","AT1",354,30
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:59:56","SAFE2",355,30
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:59:57","AT2",356,30
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:59:58","DANGER2",357,30
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 16:59:58","DAT2",358,30
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:00:05","SAFE1",359,30
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:00:06","AT1",360,30
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:00:06","DANGER1",361,30
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:00:06","DAT1",362,30
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:00:23","PCR1",363,31
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:00:31","NCR1",364,31
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:00:31","POSSIBLE_TI",365,31
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:00:32","TI1",366,31
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:00:34","Restart",367,31
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:01:06","Possible Free Kick",368,31
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:01:09","SAFE2",370,31
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:01:09","FK2",371,31
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:01:09","Ball Position",372,31
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:01:28","Restart",373,32
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:01:45","SAFE1",374,32
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:02:04","AT2",375,32
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:02:07","DANGER2",376,32
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:02:07","DAT2",377,32
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:02:28","POSSIBLE_TI",378,33
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:02:29","TI2",379,33
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:02:32","Restart",380,33
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:02:49","SAFE1",381,33
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:02:50","GK1",382,33
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:03:11","Restart",383,33
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:03:16","POSSIBLE_TI",384,33
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:03:18","TI1",385,33
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:03:21","Restart",386,34
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:03:25","AT1",387,34
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:03:28","DANGER1",388,34
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:03:28","DAT1",389,34
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:03:47","Possible Free Kick",390,34
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:03:49","F2",392,34
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:03:49","FK1",393,34
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:03:49","DFK1",394,34
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:03:49","Ball Position",395,34
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:04:21","Restart",396,35
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:04:28","SHB1",397,35
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:04:30","SAFE2",398,35
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:04:30","GK2",399,35
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:04:53","Restart",400,35
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:05:01","AT2",401,35
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:05:08","DANGER2",402,35
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:05:08","DAT2",403,35
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:05:14","POSSIBLE_TI",404,35
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:05:16","TI2",405,35
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:05:18","Restart",406,35
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:05:30","POSSIBLE_TI",407,36
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:05:31","TI2",408,36
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:05:38","Restart",409,36
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:06:01","SAFE1",410,36
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:06:02","POSSIBLE_TI",411,36
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:06:03","TI1",412,36
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:06:04","Restart",413,36
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:06:22","Possible Free Kick",414,37
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:06:23","F1",416,37
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:06:23","FK2",417,37
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:06:23","DANGER2",418,37
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:06:23","DFK2",419,37
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:06:23","Ball Position",420,37
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:06:34","Restart",421,37
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:07:05","POSSIBLE_TI",422,37
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:07:07","TI2",423,37
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:07:07","Restart",424,37
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:07:41","SAFE2",425,38
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:08:28","AT1",426,39
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:08:28","DANGER1",427,39
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:08:28","DAT1",428,39
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:08:51","Possible Free Kick",429,39
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:08:53","SAFE2",431,39
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:08:53","F1",432,39
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:08:53","FK2",433,39
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:08:53","Ball Position",434,39
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:09:02","Restart",435,39
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:09:15","AT1",436,39
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:09:17","DANGER1",437,39
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:09:17","DAT1",438,39
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:09:23","PCR1",439,40
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:09:42","CR1",440,40
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:09:43","SHG1",441,40
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:09:44","Ball Position",442,40
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:09:53","Restart",443,40
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:10:05","POSSIBLE_TI",444,40
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:10:09","TI1",445,40
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:10:14","Restart",446,40
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:10:31","POSSIBLE_TI",447,41
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:10:33","TI1",448,41
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:10:33","Restart",449,41
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:10:55","Possible Free Kick",450,41
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:10:56","SAFE2",452,41
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:10:56","F1",453,41
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:10:56","FK2",454,41
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:10:56","Ball Position",455,41
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:11:18","Restart",456,41
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:11:35","AT1",457,42
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:11:49","DANGER1",458,42
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:11:49","DAT1",459,42
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:11:57","PCR1",460,42
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:12:13","CR1",461,42
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:12:15","Ball Position",462,42
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:12:26","Restart",463,43
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:12:33","SAFE2",464,43
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:12:39","AT2",465,43
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:12:41","DANGER2",466,43
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:12:41","DAT2",467,43
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:12:54","POSSIBLE_TI",468,43
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:12:57","TI2",469,43
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:13:09","Restart",470,43
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:13:24","SAFE1",471,44
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:13:24","AT1",472,44
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:13:28","Possible Free Kick",473,44
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:13:30","SAFE2",475,44
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:13:30","F1",476,44
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:13:30","FK2",477,44
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:13:30","Ball Position",478,44
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:13:42","Restart",479,44
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:13:58","AT1",480,44
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:14:08","SAFE2",481,44
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:14:09","AT2",482,44
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:14:09","DANGER2",483,44
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:14:09","DAT2",484,44
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:14:13","Possible Free Kick",485,44
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:14:16","SAFE1",487,44
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:14:16","O2",488,44
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:14:16","FK1",489,44
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:14:16","Ball Position",490,44
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:14:42","Restart",491,45
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:14:45","AT1",492,45
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:14:45","DANGER1",493,45
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:14:45","DAT1",494,45
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:14:55","POSSIBLE_TI",495,45
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:15:06","NO_TI",496,45
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:15:06","Possible Free Kick",497,45
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:15:07","F2",499,45
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:15:07","FK1",500,45
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:15:07","DFK1",501,45
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:15:07","Ball Position",502,45
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:15:27","Restart",503,46
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:15:32","Possible Free Kick",504,46
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:15:34","SAFE2",506,46
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:15:34","F1",507,46
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:15:34","FK2",508,46
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:15:34","Ball Position",509,46
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:15:37","CLS",510,46
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:15:39","No Free Kick",511,46
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:15:42","Stop RT1",512,46
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:15:56","CONF_PERIOD_SCORE",513,45
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:29:19","Players are coming out",514,45
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:30:05","Game about to start",515,45
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:30:15","SUB2",516,45
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:30:37","Start RT2 Team 1",517,46
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:30:41","Player_DATA_CONFIRMED",518,46
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:30:46","AT2",519,46
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:30:46","DANGER2",520,46
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:30:46","DAT2",521,46
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:30:57","SAFE1",522,46
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:30:59","AT1",523,46
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:30:59","DANGER1",524,46
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:30:59","DAT1",525,46
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:31:20","SAFE2",526,46
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:31:24","AT2",527,46
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:31:35","DANGER2",528,46
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:31:35","DAT2",529,46
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:31:41","SAFE1",530,47
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:31:46","AT1",531,47
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:31:48","DANGER1",532,47
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:31:48","DAT1",533,47
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:32:10","POSSIBLE_TI",534,47
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:32:12","TI2",535,47
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:32:14","Restart",536,47
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:32:28","SAFE2",537,47
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:32:58","SAFE1",538,48
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:33:05","AT1",539,48
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:33:07","DANGER1",540,48
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:33:07","DAT1",541,48
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:33:22","Possible Free Kick",542,48
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:33:23","F2",544,48
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:33:23","FK1",545,48
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:33:23","DFK1",546,48
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:33:23","Ball Position",547,48
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:34:09","Restart",548,49
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:34:21","SHG1",549,49
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:34:29","Possible Free Kick",550,49
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:34:30","SAFE2",552,49
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:34:30","F1",553,49
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:34:30","FK2",554,49
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:34:30","Ball Position",555,49
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:34:50","Restart",556,50
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:35:00","AT1",557,50
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:35:06","SAFE2",558,50
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:35:07","AT2",559,50
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:35:08","DANGER2",560,50
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:35:08","DAT2",561,50
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:35:18","SAFE1",562,50
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:35:33","AT1",563,50
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:35:33","DANGER1",564,50
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:35:33","DAT1",565,50
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:35:40","Possible Free Kick",566,51
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:35:41","SAFE2",568,51
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:35:41","F1",569,51
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:35:41","FK2",570,51
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:35:41","Ball Position",571,51
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:35:59","Restart",572,51
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:36:19","AT2",573,51
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:36:25","SAFE1",574,51
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:36:26","AT1",575,51
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:36:28","DANGER1",576,51
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:36:28","DAT1",577,51
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:36:41","POSSIBLE_TI",578,52
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:36:43","TI2",579,52
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:36:47","Restart",580,52
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:37:08","Possible Free Kick",581,52
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:37:09","SAFE2",583,52
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:37:09","F1",584,52
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:37:09","FK2",585,52
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:37:10","Ball Position",586,52
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:37:24","Restart",587,52
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:37:28","AT1",588,52
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:37:28","DANGER1",589,52
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:37:28","DAT1",590,52
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:37:35","POSSIBLE_TI",591,52
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:37:36","TI1",592,52
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:37:39","Restart",593,53
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:38:05","SAFE2",594,53
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:38:05","GK2",595,53
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:38:19","Restart",596,53
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:38:32","AT2",597,53
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:38:42","SAFE1",598,54
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:38:43","AT1",599,54
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:38:44","DANGER1",600,54
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:38:44","DAT1",601,54
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:38:51","PCR1",602,54
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:38:55","NCR1",603,54
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:38:56","SHB1",604,54
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:38:57","SAFE2",605,54
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:38:57","GK2",606,54
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:39:18","Restart",607,54
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:39:30","AT1",608,54
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:39:32","POSSIBLE_TI",609,54
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:39:33","TI1",610,54
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:39:35","Restart",611,54
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:39:41","DANGER1",612,55
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:39:41","DAT1",613,55
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:39:56","Possible Free Kick",614,55
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:39:57","SAFE2",616,55
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:39:57","F1",617,55
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:39:57","FK2",618,55
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:39:57","Ball Position",619,55
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:40:21","Restart",620,55
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:40:29","AT1",621,55
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:40:32","DANGER1",622,55
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:40:32","DAT1",623,55
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:40:39","PCR1",624,56
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:40:50","CR1",625,56
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:40:51","Ball Position",626,56
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:41:05","Restart",627,56
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:41:21","SAFE2",628,56
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:41:22","GK2",629,56
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:41:35","Restart",630,56
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:41:59","AT2",631,57
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:42:05","Possible Free Kick",632,57
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:42:07","F1",634,57
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:42:07","FK2",635,57
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:42:07","DANGER2",636,57
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:42:07","DFK2",637,57
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:42:07","Ball Position",638,57
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:42:49","Restart",639,58
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:43:02","SHB2",640,58
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:43:04","SAFE1",641,58
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:43:04","GK1",642,58
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:43:17","Restart",643,58
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:43:39","AT2",644,59
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:43:41","POSSIBLE_TI",645,59
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:43:42","TI1",646,59
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:43:43","Restart",647,59
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:43:53","SAFE1",648,59
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:43:54","AT1",649,59
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:43:57","DANGER1",650,59
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:43:57","DAT1",651,59
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:44:06","Possible Free Kick",652,59
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:44:09","F2",654,59
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:44:09","FK1",655,59
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:44:09","DFK1",656,59
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:44:09","Ball Position",657,59
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:44:16","POSSIBLE_CARDS",658,59
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:44:16","YC2",659,59
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:44:19","CONF_YC2",660,59
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:44:22","Scorer",661,59
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:44:45","Player_DATA_CONFIRMED",662,60
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:45:01","Restart",663,60
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:45:05","PCR1",664,60
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:45:22","CR1",665,60
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:45:23","SHB1",666,60
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:45:23","Ball Position",667,60
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:45:28","Restart",668,60
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:45:36","PCR1",669,60
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:45:41","NCR1",670,61
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:45:42","SAFE2",671,61
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:45:42","GK2",672,61
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:45:59","Restart",673,61
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:46:09","POSSIBLE_TI",674,61
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:46:10","TI2",675,61
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:46:15","Restart",676,61
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:46:27","Possible Free Kick",677,61
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:46:29","F1",679,61
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:46:29","FK2",680,61
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:46:29","Ball Position",681,61
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:46:31","Restart",682,61
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:46:39","AT2",683,62
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:46:39","DANGER2",684,62
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:46:39","DAT2",685,62
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:46:41","POSSIBLE_TI",686,62
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:46:44","TI1",687,62
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:46:48","Restart",688,62
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:46:49","SAFE1",689,62
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:46:50","AT1",690,62
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:46:50","DANGER1",691,62
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:46:50","DAT1",692,62
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:46:53","SAFE2",693,62
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:47:08","AT1",694,62
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:47:08","DANGER1",695,62
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:47:08","DAT1",696,62
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:47:14","POSSIBLE_TI",697,62
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:47:15","TI1",698,62
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:47:19","Restart",699,62
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:48:03","GOAL1",700,63
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:48:11","Scorer",701,63
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:48:17","Player_DATA_CONFIRMED",702,63
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:48:49","CONF_GOAL1",703,64
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:49:10","Assist",704,64
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:49:13","KO2",705,64
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:49:13","SAFE2",706,64
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:49:20","AT1",707,64
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:49:20","DANGER1",708,64
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:49:20","DAT1",709,64
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:49:43","SHG1",710,65
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:49:45","SAFE2",711,65
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:50:13","AT2",712,65
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:50:13","DANGER2",713,65
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:50:13","DAT2",714,65
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:50:21","SAFE1",715,65
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:50:37","Possible Free Kick",716,66
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:50:40","SAFE2",718,66
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:50:40","O1",719,66
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:50:40","FK2",720,66
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:50:40","Ball Position",721,66
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:50:46","Restart",722,66
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:51:03","AT2",723,66
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:51:06","DANGER2",724,66
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:51:06","DAT2",725,66
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:51:13","POSSIBLE_TI",726,66
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:51:17","TI1",727,66
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:51:21","Restart",728,66
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:51:45","Possible Free Kick",729,67
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:51:46","SAFE1",731,67
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:51:46","F2",732,67
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:51:46","FK1",733,67
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:51:46","Ball Position",734,67
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:52:01","Restart",735,67
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:52:17","AT2",736,67
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:52:27","DANGER2",737,67
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:52:27","DAT2",738,67
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:52:31","Possible Free Kick",739,67
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:52:33","SAFE1",741,67
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:52:33","F2",742,67
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:52:33","FK1",743,67
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:52:34","Ball Position",744,67
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:52:46","Restart",745,68
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:53:07","AT1",746,68
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:53:07","DANGER1",747,68
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:53:07","DAT1",748,68
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:53:15","SAFE2",749,68
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:53:16","AT2",750,68
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:53:16","DANGER2",751,68
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:53:16","DAT2",752,68
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:53:22","PCR2",753,68
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:53:41","NCR2",754,69
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:53:42","SAFE1",755,69
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:53:42","GK1",756,69
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:53:53","Restart",757,69
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:54:09","Possible Free Kick",758,69
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:54:09","SAFE2",760,69
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:54:10","F1",761,69
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:54:10","FK2",762,69
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:54:10","Ball Position",763,69
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:54:13","Restart",764,69
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:54:57","AT2",765,70
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:54:57","DANGER2",766,70
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:54:57","DAT2",767,70
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:55:00","POSSIBLE_TI",768,70
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:55:02","TI1",769,70
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:55:17","Restart",770,70
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:55:27","SAFE1",771,70
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:55:28","AT1",772,70
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:55:28","DANGER1",773,70
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:55:28","DAT1",774,70
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:55:32","Possible Free Kick",775,70
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:55:36","SAFE2",777,70
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:55:36","O1",778,70
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:55:36","FK2",779,70
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:55:36","Ball Position",780,70
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:55:46","SUB2",781,71
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:55:56","SUB2",782,71
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:56:01","Restart",783,71
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:56:06","AT2",784,71
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:56:06","DANGER2",785,71
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:56:06","DAT2",786,71
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:56:26","Possible Free Kick",787,71
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:56:28","SAFE1",789,71
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:56:28","F2",790,71
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:56:28","FK1",791,71
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:56:28","Ball Position",792,71
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:56:45","Restart",793,72
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:56:57","AT1",794,72
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:56:57","DANGER1",795,72
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:56:57","DAT1",796,72
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:57:03","POSSIBLE_TI",797,72
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:57:05","TI1",798,72
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:57:14","Player_DATA_CONFIRMED",799,72
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:57:15","Player_DATA_CONFIRMED",800,72
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:57:19","Restart",801,72
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:57:56","POSSIBLE_TI",802,73
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:57:59","TI2",803,73
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:58:00","Restart",804,73
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:58:25","SAFE2",805,73
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:58:34","AT2",806,73
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:58:34","DANGER2",807,73
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:58:34","DAT2",808,73
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:58:42","SAFE1",809,74
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:58:44","AT1",810,74
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:58:46","POSSIBLE_TI",811,74
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:58:47","TI1",812,74
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:59:02","Restart",813,74
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:59:06","DANGER1",814,74
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:59:06","DAT1",815,74
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:59:25","PCR1",816,74
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:59:45","CR1",817,75
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:59:45","Ball Position",818,75
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 17:59:54","Restart",819,75
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:00:01","PCR1",820,75
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:00:14","CR1",821,75
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:00:15","Ball Position",822,75
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:00:17","Restart",823,75
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:00:25","SHB1",824,75
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:00:27","SAFE2",825,75
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:00:27","GK2",826,75
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:00:36","Restart",827,75
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:00:51","AT1",828,76
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:00:55","POSSIBLE_TI",829,76
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:00:57","TI1",830,76
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:01:08","Restart",831,76
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:01:24","Possible Free Kick",832,76
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:01:26","SAFE2",834,76
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:01:26","F1",835,76
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:01:26","FK2",836,76
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:01:26","Ball Position",837,76
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:01:41","Restart",838,77
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:01:44","AT2",839,77
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:01:44","DANGER2",840,77
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:01:44","DAT2",841,77
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:01:48","POSSIBLE_TI",842,77
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:01:50","TI2",843,77
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:01:53","Restart",844,77
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:02:21","POSSIBLE_TI",845,77
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:02:22","TI1",846,77
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:02:44","Restart",847,78
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:02:51","POSSIBLE_TI",848,78
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:02:57","TI1",849,78
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:02:59","Restart",850,78
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:03:04","SAFE1",851,78
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:03:05","AT1",852,78
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:03:06","DANGER1",853,78
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:03:06","DAT1",854,78
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:03:13","SAFE2",855,78
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:03:15","AT2",856,78
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:03:15","DANGER2",857,78
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:03:15","DAT2",858,78
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:03:21","SHG2",859,78
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:03:23","SAFE1",860,78
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:03:38","AT1",861,79
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:03:38","DANGER1",862,79
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:03:38","DAT1",863,79
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:03:47","SAFE2",864,79
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:03:48","GK2",865,79
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:03:57","Restart",866,79
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:04:09","AT1",867,79
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:04:09","DANGER1",868,79
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:04:09","DAT1",869,79
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:04:14","SAFE2",870,79
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:04:34","AT2",871,79
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:04:50","DANGER2",872,80
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:04:50","DAT2",873,80
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:04:59","SAFE1",874,80
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:04:59","GK1",875,80
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:05:07","POSSIBLE_CARDS",876,80
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:05:11","YC2",877,80
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:05:14","CONF_YC2",878,80
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:05:19","Scorer",879,80
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:05:32","SUB1",880,80
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:05:40","Restart",881,81
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:05:41","Player_DATA_CONFIRMED",882,81
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:06:05","AT1",883,81
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:06:08","DANGER1",884,81
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:06:08","DAT1",885,81
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:06:26","POSSIBLE_TI",886,81
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:06:27","TI2",887,81
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:06:36","Restart",888,81
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:06:40","Player_DATA_CONFIRMED",889,82
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:07:00","SAFE2",890,82
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:07:06","AT2",891,82
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:07:06","DANGER2",892,82
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:07:06","DAT2",893,82
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:07:12","SAFE1",894,82
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:07:27","AT1",895,82
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:07:27","DANGER1",896,82
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:07:27","DAT1",897,82
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:07:37","POSSIBLE_CARDS",898,83
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:07:37","PRC",899,83
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:07:41","Possible Free Kick",900,83
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:07:44","YC1",902,83
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:07:44","CONF_YC1",903,83
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:07:49","Scorer",904,83
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:07:55","SAFE2",905,83
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:07:55","F1",906,83
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:07:55","FK2",907,83
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:07:55","Ball Position",908,83
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:08:04","No RC",909,83
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:08:06","Restart",910,83
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:08:08","AT2",911,83
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:08:08","DANGER2",912,83
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:08:08","DAT2",913,83
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:08:32","PCR2",914,83
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:08:44","CR2",915,84
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:08:45","Ball Position",916,84
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:08:51","Restart",917,84
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:09:10","Player_DATA_CONFIRMED",918,84
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:09:15","PCR2",919,84
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:09:23","CR2",920,84
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:09:24","Ball Position",921,84
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:09:29","Restart",922,84
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:09:45","Possible Free Kick",923,85
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:09:47","SAFE1",925,85
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:09:47","O2",926,85
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:09:47","FK1",927,85
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:09:47","Ball Position",928,85
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:10:14","Restart",929,85
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:10:28","SAFE2",930,85
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:10:37","AT2",931,86
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:10:40","DANGER2",932,86
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:10:40","DAT2",933,86
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:11:01","SAFE1",934,86
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:11:05","POSSIBLE_TI",935,86
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:11:08","TI2",936,86
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:11:08","Restart",937,86
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:11:15","AT2",938,86
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:11:15","DANGER2",939,86
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:11:15","DAT2",940,86
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:11:18","Possible Free Kick",941,86
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:11:19","SAFE1",943,86
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:11:19","F2",944,86
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:11:19","FK1",945,86
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:11:19","Ball Position",946,86
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:11:43","Restart",947,87
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:11:52","AT1",948,87
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:12:02","Possible Free Kick",949,87
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:12:04","F2",951,87
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:12:04","FK1",952,87
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:12:04","DANGER1",953,87
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:12:04","DFK1",954,87
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:12:04","Ball Position",955,87
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:12:10","POSSIBLE_CARDS",956,87
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:12:12","YC2",957,87
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:12:16","CONF_YC2",958,87
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:12:32","Scorer",959,87
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:12:40","Player_DATA_CONFIRMED",960,88
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:12:50","Restart",961,88
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:13:00","SHG1",962,88
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:13:05","Possible Free Kick",963,88
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:13:07","POSSIBLE_CARDS",965,88
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:13:08","YC1",966,88
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:13:09","CONF_YC1",967,88
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:13:13","Scorer",968,88
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:13:16","SAFE2",969,88
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:13:16","F1",970,88
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:13:16","FK2",971,88
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:13:16","Ball Position",972,88
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:13:50","SUB1",973,89
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:13:55","Restart",974,89
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:13:56","AT2",975,89
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:13:56","DANGER2",976,89
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:13:56","DAT2",977,89
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:14:15","SAFE1",978,89
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:14:16","AT1",979,89
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:14:19","POSSIBLE_TI",980,89
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:14:21","TI2",981,89
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:14:22","Restart",982,89
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:14:25","SAFE2",983,89
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:14:29","AT2",984,89
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:14:29","DANGER2",985,89
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:14:29","DAT2",986,89
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:14:38","SAFE1",987,90
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:14:48","AT1",988,90
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:14:51","Possible Free Kick",989,90
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:14:53","SAFE2",991,90
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:14:53","F1",992,90
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:14:53","FK2",993,90
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:14:53","Ball Position",994,90
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:15:02","AT2",995,90
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:15:02","DANGER2",996,90
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:15:02","DAT2",997,90
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:15:09","Restart",998,90
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:15:22","Possible Free Kick",999,90
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:15:23","SAFE1",1001,90
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:15:24","F2",1002,90
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:15:24","FK1",1003,90
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:15:24","Ball Position",1004,90
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:15:40","Player_DATA_CONFIRMED",1005,91
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:15:40","Player_DATA_CONFIRMED",1006,91
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:15:41","Extra Time",1007,91
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:15:54","Restart",1008,91
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:16:02","AT1",1009,91
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:16:02","DANGER1",1010,91
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:16:02","DAT1",1011,91
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:16:17","POSSIBLE_TI",1012,91
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:16:20","TI2",1013,91
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:16:23","Restart",1014,91
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:16:24","SAFE2",1015,91
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:16:30","AT2",1016,91
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:16:36","DANGER2",1017,91
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:16:36","DAT2",1018,91
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:16:55","PCR2",1019,92
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:17:09","CR2",1020,92
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:17:10","Ball Position",1021,92
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:17:18","Restart",1022,92
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:17:24","CLS",1023,92
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:17:36","Restart",1024,92
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:17:42","PCR2",1025,93
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:17:49","NCR2",1026,93
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:17:50","SHB2",1027,93
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:17:52","SAFE1",1028,93
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:17:52","GK1",1029,93
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:18:22","POSSIBLE_CARDS",1030,93
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:18:23","YC1",1031,93
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:18:24","CONF_YC1",1032,93
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:18:30","Scorer",1033,93
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:18:37","Restart",1034,94
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:18:52","AT1",1035,94
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:18:53","DANGER1",1036,94
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:18:53","DAT1",1037,94
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:18:59","SAFE2",1038,94
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:19:08","Player_DATA_CONFIRMED",1039,94
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:19:10","Stop RT2",1040,94
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:19:10","Stop Game",1041,94
+961170,"CD Leganes","RC Celta de Vigo","04/14/2018 18:19:16","CONF_PERIOD_SCORE",1042,93

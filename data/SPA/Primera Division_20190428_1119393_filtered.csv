@@ -1,0 +1,954 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1119393,"Valencia CF","SD Eibar","04/28/2019 09:03:27","Scout in Stadion",0,0
+1119393,"Valencia CF","SD Eibar","04/28/2019 09:20:25","Lineup changed",1,0
+1119393,"Valencia CF","SD Eibar","04/28/2019 09:21:27","Transmission Online",2,0
+1119393,"Valencia CF","SD Eibar","04/28/2019 09:37:51","GCC",3,0
+1119393,"Valencia CF","SD Eibar","04/28/2019 09:47:51","Jersey Changed",4,0
+1119393,"Valencia CF","SD Eibar","04/28/2019 09:47:52","Jersey Changed",5,0
+1119393,"Valencia CF","SD Eibar","04/28/2019 09:57:29","Players are coming out",6,0
+1119393,"Valencia CF","SD Eibar","04/28/2019 09:57:57","Players lined up",7,0
+1119393,"Valencia CF","SD Eibar","04/28/2019 09:58:15","Shake hands",8,0
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:00:11","Flip coin",9,0
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:00:36","Game about to start",10,0
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:01:14","System Message",11,0
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:01:21","Start RT1 Team 2",12,1
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:01:22","SAFE2",13,1
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:01:38","AT2",14,1
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:01:46","SAFE2",15,1
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:01:57","AT2",16,1
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:01:57","DANGER2",17,1
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:01:57","DAT2",18,1
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:02:01","SAFE2",19,1
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:02:16","AT2",20,1
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:02:18","POSSIBLE_TI",21,1
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:02:25","TI2",22,2
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:02:27","Restart",23,2
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:02:28","SAFE2",24,2
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:02:39","Possible Free Kick",25,2
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:02:47","F1",27,2
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:02:47","FK2",28,2
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:02:47","DANGER2",29,2
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:02:47","DFK2",30,2
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:02:47","Ball Position",31,2
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:02:47","Restart",32,2
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:02:49","SAFE2",33,2
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:03:07","AT2",34,2
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:03:07","DANGER2",35,2
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:03:07","DAT2",36,2
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:03:15","SAFE2",37,2
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:03:30","AT1",38,3
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:03:31","DANGER1",39,3
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:03:31","DAT1",40,3
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:03:37","POSSIBLE_CARDS",41,3
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:03:50","Possible Free Kick",42,3
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:03:53","SAFE2",44,3
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:03:53","O1",45,3
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:03:53","FK2",46,3
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:03:53","Ball Position",47,3
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:04:32","NO_Cards",48,4
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:04:47","Restart",49,4
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:04:49","AT2",50,4
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:04:49","DANGER2",51,4
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:04:49","DAT2",52,4
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:05:05","SAFE1",53,4
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:05:06","GK1",54,4
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:05:22","Restart",55,5
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:05:28","AT1",56,5
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:05:28","DANGER1",57,5
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:05:28","DAT1",58,5
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:05:53","POSSIBLE_TI",59,5
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:05:54","TI2",60,5
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:05:57","Restart",61,5
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:05:58","SAFE2",62,5
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:06:08","AT2",63,5
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:06:08","DANGER2",64,5
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:06:08","DAT2",65,5
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:06:12","POSSIBLE_TI",66,5
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:06:12","TI2",67,5
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:06:17","Restart",68,5
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:06:21","SAFE2",69,6
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:06:32","AT2",70,6
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:06:33","DANGER2",71,6
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:06:33","DAT2",72,6
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:06:46","PCR2",73,6
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:06:48","CR2",74,6
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:06:50","Ball Position",75,6
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:07:15","Restart",76,6
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:07:19","SHB2",77,6
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:07:20","SAFE1",78,6
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:07:21","GK1",79,6
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:07:37","Restart",80,7
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:08:24","AT1",81,8
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:08:24","DANGER1",82,8
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:08:24","DAT1",83,8
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:08:28","Possible Free Kick",84,8
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:08:30","SAFE2",86,8
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:08:30","O1",87,8
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:08:30","FK2",88,8
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:08:30","Ball Position",89,8
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:08:42","Restart",90,8
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:08:53","POSSIBLE_TI",91,8
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:08:54","TI2",92,8
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:09:04","Restart",93,8
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:09:19","AT2",94,8
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:09:27","DANGER2",95,9
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:09:27","DAT2",96,9
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:09:39","Possible Free Kick",97,9
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:09:43","No Free Kick",99,9
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:10:10","Possible Free Kick",100,9
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:10:15","SAFE1",102,9
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:10:15","F2",103,9
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:10:15","FK1",104,9
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:10:15","Ball Position",105,9
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:10:50","Restart",106,10
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:10:57","POSSIBLE_TI",107,10
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:10:58","TI2",108,10
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:11:02","Restart",109,10
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:11:06","SAFE2",110,10
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:11:15","AT1",111,10
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:11:16","SAFE2",112,10
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:11:19","AT2",113,10
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:11:20","DANGER2",114,10
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:11:20","DAT2",115,10
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:11:28","SAFE1",116,11
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:11:46","POSSIBLE_TI",117,11
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:11:47","TI1",118,11
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:11:48","Restart",119,11
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:11:53","AT1",120,11
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:11:54","DANGER1",121,11
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:11:54","DAT1",122,11
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:12:04","Possible Free Kick",123,11
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:12:05","SAFE2",125,11
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:12:05","F1",126,11
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:12:05","FK2",127,11
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:12:05","Ball Position",128,11
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:12:24","Restart",129,12
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:12:30","AT2",130,12
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:12:30","DANGER2",131,12
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:12:30","DAT2",132,12
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:12:44","SAFE1",133,12
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:12:45","AT1",134,12
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:12:48","DANGER1",135,12
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:12:48","DAT1",136,12
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:12:52","SAFE2",137,12
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:13:06","AT2",138,12
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:13:06","DANGER2",139,12
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:13:06","DAT2",140,12
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:13:18","SAFE1",141,12
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:13:25","AT1",142,13
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:13:25","DANGER1",143,13
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:13:25","DAT1",144,13
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:13:34","Possible Free Kick",145,13
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:13:39","POSSIBLE_CARDS",147,13
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:14:12","NO_Cards",148,13
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:14:13","F2",149,13
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:14:13","FK1",150,13
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:14:13","DFK1",151,13
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:14:13","Ball Position",152,13
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:14:41","Restart",153,14
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:14:45","SHG1",154,14
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:14:56","PCR1",155,14
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:14:56","CR1",156,14
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:15:00","Ball Position",157,14
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:15:18","Restart",158,14
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:15:21","SAFE2",159,15
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:15:32","AT2",160,15
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:15:33","DANGER2",161,15
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:15:33","DAT2",162,15
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:15:43","Possible Free Kick",163,15
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:15:48","SAFE1",165,15
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:15:48","O2",166,15
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:15:48","FK1",167,15
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:15:48","Ball Position",168,15
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:16:13","Restart",169,15
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:16:26","AT2",170,16
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:16:36","SAFE1",171,16
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:16:58","AT1",172,16
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:16:58","DANGER1",173,16
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:16:58","DAT1",174,16
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:17:00","POSSIBLE_TI",175,16
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:17:02","TI2",176,16
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:17:10","Restart",177,16
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:17:17","SAFE2",178,16
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:17:26","SAFE1",179,17
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:17:30","AT1",180,17
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:17:32","DANGER1",181,17
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:17:32","DAT1",182,17
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:17:38","Possible Free Kick",183,17
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:17:49","POSSIBLE_CARDS",185,17
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:18:13","NO_Cards",186,17
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:18:14","SAFE2",187,17
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:18:14","O1",188,17
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:18:14","FK2",189,17
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:18:14","Ball Position",190,17
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:18:24","Restart",191,18
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:18:26","AT2",192,18
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:18:26","DANGER2",193,18
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:18:26","DAT2",194,18
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:18:41","Possible Free Kick",195,18
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:18:42","SAFE1",197,18
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:18:42","F2",198,18
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:18:42","FK1",199,18
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:18:42","Ball Position",200,18
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:18:49","Restart",201,18
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:18:50","AT1",202,18
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:18:50","DANGER1",203,18
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:18:50","DAT1",204,18
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:18:58","POSSIBLE_TI",205,18
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:18:59","TI1",206,18
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:19:10","Restart",207,18
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:19:22","SHB1",208,19
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:19:26","SAFE2",209,19
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:19:26","GK2",210,19
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:19:52","Restart",211,19
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:20:06","AT2",212,19
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:20:07","DANGER2",213,19
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:20:07","DAT2",214,19
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:20:17","SAFE1",215,19
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:20:18","GK1",216,19
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:20:44","Restart",217,20
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:20:54","POSSIBLE_TI",218,20
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:20:56","TI2",219,20
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:21:04","Restart",220,20
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:21:16","AT2",221,20
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:21:22","DANGER2",222,21
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:21:22","DAT2",223,21
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:21:39","SAFE1",224,21
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:21:39","AT1",225,21
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:21:41","DANGER1",226,21
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:21:41","DAT1",227,21
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:22:04","SAFE2",228,21
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:22:06","AT2",229,21
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:22:08","DANGER2",230,21
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:22:08","DAT2",231,21
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:22:16","POSSIBLE_TI",232,21
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:22:18","TI2",233,21
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:22:41","Restart",234,22
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:22:53","SHB2",235,22
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:22:53","SAFE1",236,22
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:22:54","GK1",237,22
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:23:21","Restart",238,23
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:23:31","POSSIBLE_TI",239,23
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:23:33","TI1",240,23
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:23:41","Restart",241,23
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:23:49","AT2",242,23
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:24:03","DANGER2",243,23
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:24:03","DAT2",244,23
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:24:16","SAFE1",245,23
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:24:16","AT1",246,23
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:24:17","DANGER1",247,23
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:24:17","DAT1",248,23
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:24:25","BLOCKED1",249,24
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:24:34","SAFE2",250,24
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:24:42","AT2",251,24
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:24:46","POSSIBLE_TI",252,24
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:24:47","TI2",253,24
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:24:54","Restart",254,24
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:25:01","SAFE2",255,24
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:25:21","AT2",256,25
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:25:21","DANGER2",257,25
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:25:21","DAT2",258,25
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:26:01","SAFE1",259,25
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:26:05","AT1",260,25
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:26:05","DANGER1",261,25
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:26:05","DAT1",262,25
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:26:25","SHG1",263,26
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:26:27","SAFE2",264,26
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:26:45","AT2",265,26
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:26:45","DANGER2",266,26
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:26:45","DAT2",267,26
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:26:47","Possible Free Kick",268,26
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:26:48","SAFE1",270,26
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:26:48","F2",271,26
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:26:48","FK1",272,26
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:26:48","Ball Position",273,26
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:26:52","POSSIBLE_CARDS",274,26
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:27:07","NO_Cards",275,26
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:27:11","Restart",276,26
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:27:20","POSSIBLE_TI",277,26
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:27:23","TI2",278,27
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:27:26","Restart",279,27
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:27:27","AT2",280,27
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:27:27","DANGER2",281,27
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:27:27","DAT2",282,27
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:27:49","SHG2",283,27
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:27:52","SAFE2",284,27
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:27:58","AT2",285,27
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:28:02","DANGER2",286,27
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:28:02","DAT2",287,27
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:28:19","SHB2",288,27
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:28:20","SAFE1",289,27
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:28:21","GK1",290,27
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:28:49","Restart",291,28
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:28:50","AT2",292,28
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:28:50","DANGER2",293,28
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:28:50","DAT2",294,28
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:29:06","POSSIBLE_TI",295,28
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:29:07","TI1",296,28
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:29:15","Restart",297,28
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:29:24","SAFE1",298,29
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:29:25","AT1",299,29
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:29:29","SAFE1",300,29
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:29:33","AT1",301,29
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:29:37","DANGER1",302,29
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:29:37","DAT1",303,29
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:29:42","PCR1",304,29
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:29:44","CR1",305,29
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:29:46","Ball Position",306,29
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:30:03","Restart",307,29
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:30:16","Possible Free Kick",308,29
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:30:18","SAFE2",310,29
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:30:18","F1",311,29
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:30:18","FK2",312,29
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:30:18","Ball Position",313,29
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:30:37","Restart",314,30
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:30:48","AT2",315,30
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:30:53","DANGER2",316,30
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:30:53","DAT2",317,30
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:31:07","SAFE1",318,30
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:31:09","GK1",319,30
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:31:27","Restart",320,31
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:31:37","AT2",321,31
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:31:38","Possible Free Kick",322,31
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:31:39","SAFE1",324,31
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:31:39","F2",325,31
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:31:39","FK1",326,31
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:31:39","Ball Position",327,31
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:31:56","Restart",328,31
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:32:07","AT1",329,31
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:32:07","DANGER1",330,31
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:32:07","DAT1",331,31
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:32:13","Possible Free Kick",332,31
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:32:18","SAFE2",334,31
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:32:18","O1",335,31
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:32:18","FK2",336,31
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:32:18","Ball Position",337,31
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:32:24","Restart",338,32
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:32:33","AT2",339,32
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:32:33","DANGER2",340,32
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:32:33","DAT2",341,32
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:32:41","SAFE1",342,32
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:32:48","AT2",343,32
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:32:48","DANGER2",344,32
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:32:48","DAT2",345,32
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:32:55","SAFE1",346,32
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:33:03","SAFE2",347,32
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:33:25","AT2",348,33
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:33:25","DANGER2",349,33
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:33:25","DAT2",350,33
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:33:38","SAFE2",351,33
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:33:42","AT2",352,33
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:33:48","DANGER2",353,33
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:33:48","DAT2",354,33
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:33:56","SAFE1",355,33
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:33:57","AT1",356,33
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:33:57","DANGER1",357,33
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:33:57","DAT1",358,33
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:34:26","SAFE2",359,34
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:34:29","SAFE1",360,34
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:34:44","AT1",361,34
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:34:47","DANGER1",362,34
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:34:47","DAT1",363,34
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:35:01","PCR1",364,34
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:35:08","CR1",365,34
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:35:09","Ball Position",366,34
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:35:23","Restart",367,35
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:35:37","Possible Free Kick",368,35
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:35:41","SAFE2",370,35
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:35:41","F1",371,35
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:35:41","FK2",372,35
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:35:41","Ball Position",373,35
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:36:00","Restart",374,35
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:36:01","AT2",375,35
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:36:01","DANGER2",376,35
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:36:01","DAT2",377,35
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:36:12","Possible Free Kick",378,35
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:36:15","POSSIBLE_CARDS",380,35
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:36:36","NO_Cards",381,36
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:36:37","SAFE1",382,36
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:36:37","F2",383,36
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:36:37","FK1",384,36
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:36:37","Ball Position",385,36
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:36:51","Restart",386,36
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:37:07","AT1",387,36
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:37:09","DANGER1",388,36
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:37:09","DAT1",389,36
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:37:28","Possible Free Kick",390,37
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:37:33","SAFE1",392,37
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:37:33","F2",393,37
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:37:33","FK1",394,37
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:37:33","Ball Position",395,37
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:37:37","Restart",396,37
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:37:49","POSSIBLE_TI",397,37
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:37:50","TI1",398,37
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:37:57","Restart",399,37
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:38:08","AT1",400,37
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:38:08","DANGER1",401,37
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:38:08","DAT1",402,37
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:38:44","PCR1",403,38
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:38:54","CR1",404,38
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:38:55","Ball Position",405,38
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:38:59","Restart",406,38
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:39:29","SAFE2",407,39
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:39:32","AT2",408,39
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:39:44","SAFE2",409,39
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:39:55","POSSIBLE_TI",410,39
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:39:57","TI2",411,39
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:40:02","Restart",412,39
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:40:12","AT2",413,39
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:40:12","DANGER2",414,39
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:40:12","DAT2",415,39
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:40:19","SAFE1",416,39
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:40:28","AT1",417,40
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:40:30","DANGER1",418,40
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:40:30","DAT1",419,40
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:41:02","POSSIBLE_TI",420,40
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:41:13","TI2",421,40
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:41:30","POSSIBLE_CARDS",422,41
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:42:00","NO_Cards",423,41
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:42:02","Restart",424,41
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:42:10","SAFE1",425,41
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:42:35","AT2",426,42
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:42:38","DANGER2",427,42
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:42:38","DAT2",428,42
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:42:56","Possible Free Kick",429,42
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:42:57","SAFE1",431,42
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:42:57","F2",432,42
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:42:57","FK1",433,42
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:42:58","Ball Position",434,42
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:43:00","Restart",435,42
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:43:06","AT1",436,42
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:43:06","DANGER1",437,42
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:43:06","DAT1",438,42
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:43:12","Possible Free Kick",439,42
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:43:19","SAFE2",441,42
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:43:19","F1",442,42
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:43:19","FK2",443,42
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:43:19","Ball Position",444,42
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:43:41","Restart",445,43
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:43:44","AT2",446,43
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:43:44","DANGER2",447,43
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:43:44","DAT2",448,43
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:43:49","POSSIBLE_TI",449,43
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:43:52","TI2",450,43
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:43:57","Restart",451,43
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:44:11","PCR2",452,43
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:44:15","CR2",453,43
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:44:17","Ball Position",454,43
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:44:39","Restart",455,44
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:44:45","SHG2",456,44
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:44:47","SAFE1",457,44
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:45:10","AT2",458,44
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:45:11","DANGER2",459,44
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:45:11","DAT2",460,44
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:45:32","SAFE1",461,45
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:45:52","AT1",462,45
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:45:52","DANGER1",463,45
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:45:52","DAT1",464,45
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:46:09","POSSIBLE_TI",465,45
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:46:09","TI2",466,45
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:46:23","Restart",467,46
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:46:28","SAFE1",468,46
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:46:39","AT2",469,46
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:46:46","Possible Free Kick",470,46
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:46:48","SAFE1",472,46
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:46:48","F2",473,46
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:46:48","FK1",474,46
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:46:48","Ball Position",475,46
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:46:56","Extra Time",476,46
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:47:01","Restart",477,46
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:47:08","AT2",478,46
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:47:08","DANGER2",479,46
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:47:08","DAT2",480,46
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:47:27","Stop RT1",481,46
+1119393,"Valencia CF","SD Eibar","04/28/2019 10:47:30","CONF_PERIOD_SCORE",482,45
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:01:35","Players are coming out",483,45
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:01:52","Game about to start",484,45
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:02:48","Start RT2 Team 1",485,46
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:02:50","SAFE1",486,46
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:02:54","AT1",487,46
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:02:54","DANGER1",488,46
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:02:54","DAT1",489,46
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:02:58","SAFE2",490,46
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:03:04","AT2",491,46
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:03:04","DANGER2",492,46
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:03:04","DAT2",493,46
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:03:12","SUB2",494,46
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:03:24","SAFE1",495,46
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:03:39","AT1",496,46
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:03:41","DANGER1",497,46
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:03:41","DAT1",498,46
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:03:55","Player_DATA_CONFIRMED",499,47
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:03:56","SHB1",500,47
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:03:56","SAFE2",501,47
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:03:57","GK2",502,47
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:04:15","Restart",503,47
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:04:16","AT2",504,47
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:04:16","DANGER2",505,47
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:04:16","DAT2",506,47
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:04:31","POSSIBLE_TI",507,47
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:04:33","TI1",508,47
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:04:34","Restart",509,47
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:04:53","SAFE2",510,48
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:05:14","AT2",511,48
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:05:14","DANGER2",512,48
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:05:14","DAT2",513,48
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:05:30","SAFE2",514,48
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:05:43","AT2",515,48
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:05:48","DANGER2",516,49
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:05:48","DAT2",517,49
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:05:56","SAFE1",518,49
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:05:59","AT1",519,49
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:06:01","DANGER1",520,49
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:06:01","DAT1",521,49
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:06:07","SAFE2",522,49
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:06:15","AT2",523,49
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:06:30","DANGER2",524,49
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:06:30","DAT2",525,49
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:06:42","POSSIBLE_TI",526,49
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:06:48","TI1",527,49
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:06:53","Restart",528,50
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:07:08","SAFE2",529,50
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:07:33","AT2",530,50
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:07:33","DANGER2",531,50
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:07:33","DAT2",532,50
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:07:47","Possible Free Kick",533,50
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:07:48","POSSIBLE_CARDS",535,51
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:07:57","NO_Cards",536,51
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:07:58","SAFE1",537,51
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:07:58","F2",538,51
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:07:58","FK1",539,51
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:07:58","Ball Position",540,51
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:08:11","Restart",541,51
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:08:22","AT1",542,51
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:08:22","DANGER1",543,51
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:08:22","DAT1",544,51
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:08:33","SAFE2",545,51
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:08:51","AT2",546,52
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:08:51","DANGER2",547,52
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:08:51","DAT2",548,52
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:09:06","SAFE1",549,52
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:09:06","AT1",550,52
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:09:09","DANGER1",551,52
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:09:09","DAT1",552,52
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:09:20","PCR1",553,52
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:09:21","CR1",554,52
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:09:25","Ball Position",555,52
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:09:42","Restart",556,52
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:09:54","BLOCKED1",557,53
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:10:02","SAFE1",558,53
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:10:15","AT1",559,53
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:10:21","SAFE2",560,53
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:10:23","AT2",561,53
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:10:25","DANGER2",562,53
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:10:25","DAT2",563,53
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:10:39","POSSIBLE_TI",564,53
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:10:41","TI2",565,53
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:10:53","Restart",566,54
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:11:15","Possible Free Kick",567,54
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:11:17","SAFE1",569,54
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:11:17","F2",570,54
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:11:17","FK1",571,54
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:11:17","Ball Position",572,54
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:11:41","Restart",573,54
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:11:47","AT2",574,54
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:11:49","DANGER2",575,55
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:11:49","DAT2",576,55
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:12:13","POSSIBLE_TI",577,55
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:12:13","TI2",578,55
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:12:16","Restart",579,55
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:12:27","SAFE2",580,55
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:12:32","AT2",581,55
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:12:32","DANGER2",582,55
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:12:32","DAT2",583,55
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:12:45","POSSIBLE_TI",584,55
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:12:50","TI1",585,56
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:13:00","SUB1",586,56
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:13:11","Restart",587,56
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:13:21","SAFE1",588,56
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:13:24","SAFE2",589,56
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:13:27","AT2",590,56
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:13:29","DANGER2",591,56
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:13:29","DAT2",592,56
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:13:33","Possible Free Kick",593,56
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:13:42","F1",595,56
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:13:42","FK2",596,56
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:13:42","DFK2",597,56
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:13:42","Ball Position",598,56
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:14:20","Restart",599,57
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:14:34","POSSIBLE_TI",600,57
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:14:37","TI1",601,57
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:14:42","Restart",602,57
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:14:51","Player_DATA_CONFIRMED",603,58
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:14:52","SAFE2",604,58
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:14:58","AT2",605,58
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:14:58","DANGER2",606,58
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:14:58","DAT2",607,58
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:15:03","POSSIBLE_TI",608,58
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:15:04","TI2",609,58
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:15:15","Restart",610,58
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:15:30","Possible Free Kick",611,58
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:15:32","POSSIBLE_CARDS",613,58
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:15:41","YC1",614,58
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:15:43","CONF_YC1",615,58
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:15:46","Scorer",616,58
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:15:48","F1",617,59
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:15:48","FK2",618,59
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:15:48","DFK2",619,59
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:15:48","Ball Position",620,59
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:15:51","Player_DATA_CONFIRMED",621,59
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:16:31","Restart",622,59
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:16:39","BLOCKED2",623,59
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:16:41","SAFE2",624,59
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:16:59","AT1",625,60
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:17:02","DANGER1",626,60
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:17:02","DAT1",627,60
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:17:10","POSSIBLE_TI",628,60
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:17:11","TI1",629,60
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:17:26","Restart",630,60
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:17:30","Possible Free Kick",631,60
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:17:32","POSSIBLE_CARDS",633,60
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:17:44","YC1",634,60
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:17:48","CONF_YC1",635,61
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:17:51","Scorer",636,61
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:17:53","SAFE2",637,61
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:17:53","F1",638,61
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:17:53","FK2",639,61
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:17:54","Ball Position",640,61
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:18:01","Restart",641,61
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:18:02","Player_DATA_CONFIRMED",642,61
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:18:03","AT2",643,61
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:18:03","DANGER2",644,61
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:18:03","DAT2",645,61
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:18:25","SAFE1",646,61
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:18:26","GK1",647,61
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:18:43","Restart",648,61
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:18:43","AT2",649,61
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:18:44","DANGER2",650,61
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:18:44","DAT2",651,61
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:19:11","SAFE1",652,62
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:19:12","AT1",653,62
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:19:13","DANGER1",654,62
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:19:13","DAT1",655,62
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:19:21","SAFE2",656,62
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:19:22","AT2",657,62
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:19:28","SAFE1",658,62
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:19:28","AT1",659,62
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:19:29","DANGER1",660,62
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:19:29","DAT1",661,62
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:19:41","SHG1",662,62
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:19:45","SAFE2",663,62
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:19:57","AT2",664,63
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:19:57","DANGER2",665,63
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:19:57","DAT2",666,63
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:20:05","SAFE1",667,63
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:20:05","AT1",668,63
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:20:05","DANGER1",669,63
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:20:05","DAT1",670,63
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:20:13","SHB1",671,63
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:20:16","SAFE2",672,63
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:20:17","GK2",673,63
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:20:54","Restart",674,64
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:21:03","AT2",675,64
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:21:04","DANGER2",676,64
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:21:04","DAT2",677,64
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:21:19","SAFE1",678,64
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:21:19","AT1",679,64
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:21:19","DANGER1",680,64
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:21:19","DAT1",681,64
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:21:28","SAFE1",682,64
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:21:44","AT1",683,64
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:21:45","DANGER1",684,64
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:21:45","DAT1",685,64
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:21:54","Possible Free Kick",686,65
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:21:56","SAFE2",688,65
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:21:56","O1",689,65
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:21:56","FK2",690,65
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:21:56","Ball Position",691,65
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:22:28","Restart",692,65
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:22:32","AT2",693,65
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:22:32","DANGER2",694,65
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:22:32","DAT2",695,65
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:23:01","SAFE1",696,66
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:23:12","AT1",697,66
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:23:14","DANGER1",698,66
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:23:14","DAT1",699,66
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:23:21","SAFE2",700,66
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:23:45","AT2",701,66
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:23:57","SAFE1",702,67
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:23:57","AT1",703,67
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:24:04","POSSIBLE_TI",704,67
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:24:04","TI1",705,67
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:24:08","Restart",706,67
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:24:09","DANGER1",707,67
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:24:09","DAT1",708,67
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:24:31","SAFE2",709,67
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:24:51","AT2",710,68
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:24:51","DANGER2",711,68
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:24:51","DAT2",712,68
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:24:56","SHB2",713,68
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:24:56","SAFE1",714,68
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:24:57","GK1",715,68
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:25:08","Restart",716,68
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:25:18","AT1",717,68
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:25:19","DANGER1",718,68
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:25:19","DAT1",719,68
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:25:28","POSSIBLE_TI",720,68
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:25:28","TI1",721,68
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:25:29","Restart",722,68
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:25:38","SAFE2",723,68
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:25:41","AT2",724,68
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:25:42","DANGER2",725,68
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:25:42","DAT2",726,68
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:25:48","SAFE1",727,68
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:25:57","AT1",728,69
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:25:57","DANGER1",729,69
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:25:57","DAT1",730,69
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:26:08","SAFE2",731,69
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:26:14","SAFE1",732,69
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:26:20","AT1",733,69
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:26:23","SAFE1",734,69
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:26:31","AT1",735,69
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:26:44","POSSIBLE_TI",736,69
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:26:47","TI2",737,69
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:26:54","Restart",738,70
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:27:00","SAFE2",739,70
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:27:01","AT2",740,70
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:27:01","DANGER2",741,70
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:27:01","DAT2",742,70
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:27:04","SHB2",743,70
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:27:06","SAFE1",744,70
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:27:06","GK1",745,70
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:27:15","Restart",746,70
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:27:29","POSSIBLE_CARDS",747,70
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:27:45","YC2",748,70
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:27:47","CONF_YC2",749,70
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:28:01","Scorer",750,71
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:28:03","Possible Free Kick",751,71
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:28:03","Scorer",753,71
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:28:04","Player_DATA_CONFIRMED",754,71
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:28:04","F2",755,71
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:28:04","FK1",756,71
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:28:04","DANGER1",757,71
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:28:04","DFK1",758,71
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:28:04","Ball Position",759,71
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:28:19","SUB2",760,71
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:28:40","Restart",761,71
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:28:50","Player_DATA_CONFIRMED",762,72
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:29:05","SAFE2",763,72
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:29:05","GK2",764,72
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:29:31","Restart",765,72
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:29:33","AT2",766,72
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:29:33","DANGER2",767,72
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:29:33","DAT2",768,72
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:29:44","SAFE1",769,72
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:29:50","AT1",770,73
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:29:52","DANGER1",771,73
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:29:52","DAT1",772,73
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:29:57","PCR1",773,73
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:29:58","CR1",774,73
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:30:00","Ball Position",775,73
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:30:14","Restart",776,73
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:30:39","SHB1",777,73
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:30:41","SAFE2",778,73
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:30:42","GK2",779,73
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:31:03","Restart",780,74
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:31:10","AT2",781,74
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:31:22","DANGER2",782,74
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:31:22","DAT2",783,74
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:31:34","SAFE1",784,74
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:31:35","AT1",785,74
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:31:39","SAFE2",786,74
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:31:43","AT2",787,74
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:31:45","DANGER2",788,74
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:31:45","DAT2",789,74
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:31:57","SHG2",790,75
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:31:58","SAFE1",791,75
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:32:04","AT1",792,75
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:32:05","DANGER1",793,75
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:32:05","DAT1",794,75
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:32:15","POSSIBLE_TI",795,75
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:32:16","TI1",796,75
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:32:24","Restart",797,75
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:32:34","PCR1",798,75
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:32:36","CR1",799,75
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:32:37","Ball Position",800,75
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:32:55","Restart",801,76
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:32:59","SAFE2",802,76
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:33:20","AT2",803,76
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:33:22","DANGER2",804,76
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:33:22","DAT2",805,76
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:33:52","POSSIBLE_TI",806,77
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:33:58","TI2",807,77
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:34:08","SUB1",808,77
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:34:11","Restart",809,77
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:34:39","POSSIBLE_TI",810,77
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:34:43","TI1",811,77
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:34:51","Player_DATA_CONFIRMED",812,78
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:34:53","Restart",813,78
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:35:00","SAFE1",814,78
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:35:16","SAFE2",815,78
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:35:25","AT2",816,78
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:35:32","SAFE1",817,78
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:35:33","AT1",818,78
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:35:33","DANGER1",819,78
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:35:33","DAT1",820,78
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:35:47","SAFE2",821,78
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:35:48","AT2",822,78
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:36:00","DANGER2",823,79
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:36:00","DAT2",824,79
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:36:06","PCR2",825,79
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:36:09","CR2",826,79
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:36:10","SHB2",827,79
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:36:12","Ball Position",828,79
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:36:49","Restart",829,80
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:36:58","SHB2",830,80
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:37:01","SAFE1",831,80
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:37:02","GK1",832,80
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:37:09","SUB2",833,80
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:37:22","Player_DATA_CONFIRMED",834,80
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:37:47","Restart",835,80
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:37:50","AT1",836,81
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:37:50","DANGER1",837,81
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:37:50","DAT1",838,81
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:38:08","POSSIBLE_TI",839,81
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:38:09","TI1",840,81
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:38:14","Restart",841,81
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:38:32","SAFE1",842,81
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:38:37","AT2",843,81
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:38:37","DANGER2",844,81
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:38:37","DAT2",845,81
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:38:48","SAFE1",846,82
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:38:49","AT1",847,82
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:38:49","DANGER1",848,82
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:38:49","DAT1",849,82
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:38:52","POSSIBLE_TI",850,82
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:38:52","TI1",851,82
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:38:53","Restart",852,82
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:39:10","SAFE2",853,82
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:39:11","AT2",854,82
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:39:11","DANGER2",855,82
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:39:11","DAT2",856,82
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:39:18","PCR2",857,82
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:39:21","CR2",858,82
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:39:38","Ball Position",859,82
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:40:10","Restart",860,83
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:40:16","Possible Free Kick",861,83
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:40:21","SAFE1",863,83
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:40:21","F2",864,83
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:40:21","FK1",865,83
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:40:21","Ball Position",866,83
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:40:29","SUB1",867,83
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:40:39","Restart",868,83
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:40:43","AT1",869,83
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:40:43","DANGER1",870,83
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:40:43","DAT1",871,83
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:40:45","Player_DATA_CONFIRMED",872,83
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:40:50","SAFE2",873,84
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:41:10","Possible Free Kick",874,84
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:41:11","F1",876,84
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:41:11","FK2",877,84
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:41:11","Ball Position",878,84
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:41:22","Restart",879,84
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:41:25","AT2",880,84
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:41:25","DANGER2",881,84
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:41:25","DAT2",882,84
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:41:40","POSSIBLE_TI",883,84
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:41:40","TI1",884,84
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:41:56","CLS",885,85
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:41:58","TI2",886,85
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:41:58","Restart",887,85
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:42:21","POSSIBLE_TI",888,85
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:42:24","TI2",889,85
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:42:26","Restart",890,85
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:42:33","POSSIBLE_TI",891,85
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:42:38","TI2",892,85
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:42:43","Restart",893,85
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:42:49","PCR2",894,86
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:42:51","CR2",895,86
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:43:00","Ball Position",896,86
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:43:17","Restart",897,86
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:43:27","Possible Free Kick",898,86
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:43:28","POSSIBLE_CARDS",900,86
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:43:51","NO_Cards",901,87
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:43:55","F1",902,87
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:43:55","FK2",903,87
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:43:55","DFK2",904,87
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:43:55","Ball Position",905,87
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:44:07","Restart",906,87
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:44:14","SAFE1",907,87
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:44:17","AT1",908,87
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:44:17","DANGER1",909,87
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:44:17","DAT1",910,87
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:44:30","SAFE2",911,87
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:44:31","AT2",912,87
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:44:32","DANGER2",913,87
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:44:32","DAT2",914,87
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:44:41","POSSIBLE_CARDS",915,87
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:44:46","YC2",916,87
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:44:52","CONF_YC2",917,88
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:44:59","Scorer",918,88
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:45:10","Possible Free Kick",919,88
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:45:13","SAFE1",921,88
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:45:13","F2",922,88
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:45:13","FK1",923,88
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:45:13","Ball Position",924,88
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:45:20","Scorer",925,88
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:45:20","Player_DATA_CONFIRMED",926,88
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:45:24","Restart",927,88
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:45:39","AT1",928,88
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:45:39","DANGER1",929,88
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:45:39","DAT1",930,88
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:46:05","SAFE2",931,89
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:46:05","AT2",932,89
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:46:06","DANGER2",933,89
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:46:06","DAT2",934,89
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:46:16","POSSIBLE_TI",935,89
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:46:17","TI1",936,89
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:46:20","Restart",937,89
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:46:42","POSSIBLE_TI",938,89
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:46:46","TI2",939,89
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:47:04","Restart",940,90
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:47:10","SAFE1",941,90
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:47:11","AT1",942,90
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:47:11","DANGER1",943,90
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:47:11","DAT1",944,90
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:47:41","POSSIBLE_CARDS",945,90
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:47:53","YC2",946,91
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:47:59","CONF_YC2",947,91
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:48:05","Scorer",948,91
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:48:07","Possible Free Kick",949,91
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:48:15","SAFE2",952,91
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:48:15","O1",953,91
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:48:15","FK2",954,91
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:48:15","Ball Position",955,91
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:48:16","Player_DATA_CONFIRMED",956,91
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:48:29","Extra Time",957,91
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:48:34","Extra Time",958,91
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:48:39","Restart",959,91
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:48:42","AT2",960,91
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:48:42","DANGER2",961,91
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:48:42","DAT2",962,91
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:49:18","PCR2",963,92
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:49:31","CR2",964,92
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:49:36","Ball Position",965,92
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:49:58","Restart",966,93
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:50:14","BLOCKED2",967,93
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:50:22","GOAL2",968,93
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:52:19","CONF_GOAL2",969,95
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:52:19","Scorer",970,95
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:52:20","KO1",971,95
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:52:20","SAFE1",972,95
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:52:20","Scorer",973,95
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:52:20","Player_DATA_CONFIRMED",974,95
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:52:26","AT2",975,95
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:52:28","POSSIBLE_TI",976,95
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:52:30","TI1",977,95
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:52:33","Restart",978,95
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:52:37","AT1",979,95
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:52:37","DANGER1",980,95
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:52:37","DAT1",981,95
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:53:18","SAFE2",982,96
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:53:26","Stop RT2",983,96
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:53:26","Stop Game",984,96
+1119393,"Valencia CF","SD Eibar","04/28/2019 11:53:30","CONF_PERIOD_SCORE",985,95

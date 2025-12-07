@@ -1,0 +1,834 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1020171,"Liverpool FC","Southampton FC","09/22/2018 12:39:45","Transmission Online",0,0
+1020171,"Liverpool FC","Southampton FC","09/22/2018 12:39:58","GCC",1,0
+1020171,"Liverpool FC","Southampton FC","09/22/2018 13:01:31","Lineup changed",2,0
+1020171,"Liverpool FC","Southampton FC","09/22/2018 13:02:25","Scout in Stadion",3,0
+1020171,"Liverpool FC","Southampton FC","09/22/2018 13:27:22","Jersey Changed",4,0
+1020171,"Liverpool FC","Southampton FC","09/22/2018 13:27:22","Jersey Changed",5,0
+1020171,"Liverpool FC","Southampton FC","09/22/2018 13:54:21","System Message",6,0
+1020171,"Liverpool FC","Southampton FC","09/22/2018 13:56:21","Players are coming out",7,0
+1020171,"Liverpool FC","Southampton FC","09/22/2018 13:56:28","Players lined up",8,0
+1020171,"Liverpool FC","Southampton FC","09/22/2018 13:57:02","Shake hands",9,0
+1020171,"Liverpool FC","Southampton FC","09/22/2018 13:59:38","Game about to start",10,0
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:00:18","Start RT1 Team 1",11,1
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:00:23","AT1",12,1
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:00:23","DANGER1",13,1
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:00:23","DAT1",14,1
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:00:31","SAFE1",15,1
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:00:33","POSSIBLE_TI",16,1
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:00:34","TI1",17,1
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:00:58","Adjust Game Clock",18,2
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:01:12","Restart",19,2
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:01:31","AT1",20,2
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:01:38","DANGER1",21,2
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:01:38","DAT1",22,2
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:02:04","SAFE2",23,3
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:02:07","AT1",24,3
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:02:11","SAFE2",25,3
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:02:13","POSSIBLE_TI",26,3
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:02:14","TI2",27,3
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:02:22","System Message",28,3
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:02:36","Restart",29,3
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:02:42","Possible Free Kick",30,3
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:02:46","F2",32,3
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:02:46","FK1",33,3
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:02:46","Ball Position",34,3
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:02:46","Restart",35,3
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:03:02","AT1",36,4
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:03:05","DANGER1",37,4
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:03:05","DAT1",38,4
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:03:13","SHB1",39,4
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:03:14","SAFE2",40,4
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:03:15","GK2",41,4
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:03:37","Restart",42,4
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:03:45","AT2",43,4
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:03:55","SAFE1",44,4
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:03:56","POSSIBLE_TI",45,4
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:03:57","TI1",46,5
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:04:08","Start score update",47,5
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:04:08","Statistic confirmation",48,5
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:04:08","Score update finished",49,5
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:04:09","Restart",50,5
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:04:16","SAFE1",51,5
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:04:18","AT1",52,5
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:04:18","DANGER1",53,5
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:04:18","DAT1",54,5
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:04:18","AT2",55,5
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:04:18","DANGER2",56,5
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:04:18","DAT2",57,5
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:04:23","POSSIBLE_TI",58,5
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:04:26","SAFE1",59,5
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:04:35","TI1",60,5
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:04:35","Restart",61,5
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:04:35","SAFE1",62,5
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:04:35","SAFE1",63,5
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:04:38","AT1",64,5
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:04:44","System Message",65,5
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:05:07","DANGER1",66,6
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:05:07","DAT1",67,6
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:05:12","SAFE2",68,6
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:05:18","AT1",69,6
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:05:18","DANGER1",70,6
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:05:18","DAT1",71,6
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:05:30","SAFE1",72,6
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:05:31","AT1",73,6
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:05:53","SAFE1",74,6
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:06:05","AT1",75,7
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:06:13","SAFE1",76,7
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:06:16","AT1",77,7
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:06:26","DANGER1",78,7
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:06:26","DAT1",79,7
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:06:47","SAFE2",80,7
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:06:54","AT2",81,7
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:07:35","DANGER2",82,8
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:07:35","DAT2",83,8
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:07:35","Scout offline",84,8
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:07:52","Transmission Online",85,8
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:07:52","Start score update",86,8
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:07:53","CR2",87,8
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:07:54","Start score update",88,8
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:07:58","CR2",89,9
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:08:01","Score update finished",90,9
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:08:07","SAFE1",91,9
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:08:10","AT2",92,9
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:08:11","POSSIBLE_TI",93,9
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:08:11","TI2",94,9
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:08:31","Restart",95,9
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:08:37","SAFE1",96,9
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:08:40","AT1",97,9
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:08:41","DANGER1",98,9
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:08:41","DAT1",99,9
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:08:42","Start score update",100,9
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:08:50","PCR1",101,9
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:08:50","CR1",102,9
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:08:50","Ball Position",103,9
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:08:58","System Message",104,10
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:09:14","Restart",105,10
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:09:28","GOAL1",106,10
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:09:37","CONF_GOAL1",107,10
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:09:40","Scout offline",108,10
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:10:45","System Message",109,11
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:10:48","Transmission Online",110,11
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:10:48","CCR2",111,11
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:10:52","Score update finished",112,11
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:11:14","Scorer",113,12
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:11:15","KO2",114,12
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:11:15","SAFE2",115,12
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:11:18","AT2",116,12
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:11:18","DANGER2",117,12
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:11:18","DAT2",118,12
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:11:21","SAFE1",119,12
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:11:25","System Message",120,12
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:11:31","System Message",121,12
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:11:33","SAFE2",122,12
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:11:34","AT1",123,12
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:11:36","SAFE2",124,12
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:11:38","Possible Free Kick",125,12
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:11:40","F1",127,12
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:11:40","FK2",128,12
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:11:40","Ball Position",129,12
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:11:46","Restart",130,12
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:11:50","Scorer",131,12
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:11:50","Player_DATA_CONFIRMED",132,12
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:11:50","AT2",133,12
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:12:07","DANGER2",134,13
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:12:07","DAT2",135,13
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:12:11","PCR2",136,13
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:12:13","CR2",137,13
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:12:14","Ball Position",138,13
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:12:37","Restart",139,13
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:12:42","SHB2",140,13
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:12:43","SAFE1",141,13
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:12:44","GK1",142,13
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:12:52","Restart",143,13
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:13:02","AT1",144,14
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:13:03","DANGER1",145,14
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:13:03","DAT1",146,14
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:13:06","SAFE2",147,14
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:13:31","AT1",148,14
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:13:35","SAFE2",149,14
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:13:36","Possible Free Kick",150,14
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:13:42","O1",152,14
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:13:42","FK2",153,14
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:13:42","Ball Position",154,14
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:13:51","Restart",155,14
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:14:00","AT2",156,15
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:14:19","SAFE1",157,15
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:14:46","GK1",158,15
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:15:12","Restart",159,16
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:15:17","Danger",160,16
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:15:18","Scout offline",161,16
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:15:23","Transmission Online",162,16
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:15:23","SAFE1",163,16
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:15:27","AT1",164,16
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:15:39","SAFE1",165,16
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:15:42","AT1",166,16
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:15:55","DANGER1",167,16
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:15:55","DAT1",168,16
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:16:00","SAFE2",169,17
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:16:05","Danger",170,17
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:16:16","SAFE2",171,17
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:16:28","AT2",172,17
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:16:31","System Message",173,17
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:16:34","DANGER2",174,17
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:16:34","DAT2",175,17
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:16:49","Start score update",176,17
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:16:49","Statistic confirmation",177,17
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:16:49","Score update finished",178,17
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:16:50","AT2",179,17
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:17:03","DANGER2",180,18
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:17:03","DAT2",181,18
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:17:11","SHB2",182,18
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:17:12","SAFE1",183,18
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:17:13","GK1",184,18
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:17:19","System Message",185,18
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:17:32","Danger",186,18
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:17:32","Scout offline",187,18
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:17:49","Transmission Online",188,18
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:17:49","SAFE2",189,18
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:17:50","SAFE1",190,18
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:17:52","System Message",191,18
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:18:03","AT1",192,19
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:18:07","System Message",193,19
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:18:34","SAFE2",194,19
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:18:42","SAFE1",195,19
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:19:11","AT1",196,20
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:19:27","DANGER1",197,20
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:19:27","DAT1",198,20
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:19:38","SAFE2",199,20
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:19:42","SAFE1",200,20
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:19:49","AT1",201,20
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:19:52","DANGER1",202,20
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:19:52","DAT1",203,20
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:19:59","POSSIBLE_TI",204,21
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:20:00","TI1",205,21
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:20:00","Restart",206,21
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:20:19","PCR1",207,21
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:20:31","CR1",208,21
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:20:33","Ball Position",209,21
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:20:45","Restart",210,21
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:20:48","GOAL1",211,21
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:21:06","Scorer",212,22
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:21:14","CONF_GOAL1",213,22
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:21:37","KO2",214,22
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:21:37","SAFE2",215,22
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:21:46","POSSIBLE_TI",216,22
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:21:48","TI1",217,22
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:21:50","Player_DATA_CONFIRMED",218,22
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:21:50","Assist",219,22
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:22:00","Injury Break",220,23
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:22:40","Danger",221,23
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:22:41","Scout offline",222,23
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:23:47","Transmission Online",223,24
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:23:47","Injury Break",224,24
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:23:53","SAFE1",225,24
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:24:18","AT1",226,25
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:24:23","DANGER1",227,25
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:24:23","DAT1",228,25
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:24:40","POSSIBLE_TI",229,25
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:24:41","TI1",230,25
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:24:56","Restart",231,25
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:24:56","SAFE2",232,25
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:24:58","SAFE1",233,26
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:25:00","SAFE1",234,26
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:25:01","AT1",235,26
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:25:23","DANGER1",236,26
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:25:23","DAT1",237,26
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:25:37","SAFE1",238,26
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:25:40","AT1",239,26
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:25:42","SAFE2",240,26
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:25:54","Possible Free Kick",241,26
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:25:56","F1",243,26
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:25:56","FK2",244,26
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:25:56","Ball Position",245,26
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:26:03","Restart",246,27
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:26:24","SAFE1",247,27
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:26:25","POSSIBLE_TI",248,27
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:26:26","TI1",249,27
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:26:29","SAFE2",250,27
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:26:32","Restart",251,27
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:26:42","AT2",252,27
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:26:55","DANGER2",253,27
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:26:55","DAT2",254,27
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:27:06","BLOCKED2",255,28
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:27:20","POSSIBLE_TI",256,28
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:27:23","TI2",257,28
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:27:25","Restart",258,28
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:27:32","PCR2",259,28
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:27:33","CR2",260,28
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:27:37","Ball Position",261,28
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:28:00","Restart",262,29
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:28:15","SHB2",263,29
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:28:16","SAFE1",264,29
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:28:18","GK1",265,29
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:28:19","Restart",266,29
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:28:34","AT1",267,29
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:28:42","Possible Free Kick",268,29
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:28:45","F2",270,29
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:28:45","FK1",271,29
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:28:45","DANGER1",272,29
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:28:45","DFK1",273,29
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:28:45","Ball Position",274,29
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:28:48","Restart",275,29
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:28:52","Time Correction",276,29
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:29:05","SAFE1",277,30
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:29:10","AT1",278,30
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:29:26","Possible Free Kick",279,30
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:29:28","SAFE2",281,30
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:29:29","F1",282,30
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:29:29","FK2",283,30
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:29:29","Ball Position",284,30
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:29:35","Restart",285,30
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:29:44","AT2",286,30
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:29:48","SAFE1",287,30
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:29:51","AT1",288,30
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:29:54","POSSIBLE_TI",289,30
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:29:54","TI1",290,30
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:29:59","Restart",291,31
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:30:14","DANGER1",292,31
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:30:14","DAT1",293,31
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:30:28","SAFE1",294,31
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:30:29","AT1",295,31
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:30:43","DANGER1",296,31
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:30:43","DAT1",297,31
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:30:56","SHB1",298,31
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:30:57","SAFE2",299,31
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:30:58","GK2",300,32
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:31:19","Restart",301,32
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:31:30","AT2",302,32
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:31:36","DANGER2",303,32
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:31:36","DAT2",304,32
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:32:04","SAFE1",305,33
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:32:05","POSSIBLE_TI",306,33
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:32:05","TI1",307,33
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:32:17","Restart",308,33
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:32:43","SAFE2",309,33
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:33:04","AT2",310,34
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:33:11","DANGER2",311,34
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:33:11","DAT2",312,34
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:33:26","BLOCKED2",313,34
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:33:32","SAFE1",314,34
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:33:33","Possible Free Kick",315,34
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:33:35","POSSIBLE_CARDS",317,34
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:33:38","YC2",318,34
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:33:53","CONF_YC2",319,34
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:33:53","Scorer",320,34
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:33:58","F2",321,35
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:33:58","FK1",322,35
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:33:58","Ball Position",323,35
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:34:09","Restart",324,35
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:34:10","SAFE1",325,35
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:34:19","SAFE2",326,35
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:34:23","AT2",327,35
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:34:38","SAFE1",328,35
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:34:40","AT1",329,35
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:34:42","DANGER1",330,35
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:34:42","DAT1",331,35
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:34:53","SAFE2",332,35
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:34:58","AT1",333,36
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:35:21","DANGER1",334,36
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:35:21","DAT1",335,36
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:35:30","BLOCKED1",336,36
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:35:40","PCR1",337,36
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:35:41","CR1",338,36
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:35:42","Ball Position",339,36
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:35:52","Scorer",340,36
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:35:53","Player_DATA_CONFIRMED",341,36
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:36:18","Restart",342,37
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:36:27","SAFE2",343,37
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:36:29","SAFE1",344,37
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:36:45","AT2",345,37
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:36:49","DANGER2",346,37
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:36:49","DAT2",347,37
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:36:53","POSSIBLE_TI",348,37
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:36:54","TI2",349,37
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:37:01","Restart",350,38
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:37:07","SAFE1",351,38
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:37:11","POSSIBLE_TI",352,38
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:37:12","TI1",353,38
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:37:57","Restart",354,38
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:37:58","AT1",355,39
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:38:18","DANGER1",356,39
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:38:18","DAT1",357,39
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:38:23","SAFE2",358,39
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:38:49","SAFE1",359,39
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:38:57","AT1",360,39
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:39:03","Possible Free Kick",361,40
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:39:05","SAFE2",363,40
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:39:06","F1",364,40
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:39:06","FK2",365,40
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:39:06","Ball Position",366,40
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:39:11","Restart",367,40
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:39:22","AT2",368,40
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:39:24","SAFE1",369,40
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:39:42","AT1",370,40
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:39:49","SAFE2",371,40
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:39:50","POSSIBLE_TI",372,40
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:39:51","TI2",373,40
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:40:00","Restart",374,41
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:40:06","Possible Free Kick",375,41
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:40:07","F1",377,41
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:40:07","FK2",378,41
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:40:08","Ball Position",379,41
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:40:29","Restart",380,41
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:40:42","AT1",381,41
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:40:43","Possible Free Kick",382,41
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:40:49","SAFE1",384,41
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:40:49","F2",385,41
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:40:49","FK1",386,41
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:40:50","Ball Position",387,41
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:40:58","Restart",388,42
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:41:12","AT1",389,42
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:41:23","SAFE2",390,42
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:41:23","POSSIBLE_TI",391,42
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:41:24","TI2",392,42
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:41:35","Restart",393,42
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:41:44","SAFE1",394,42
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:41:50","POSSIBLE_TI",395,42
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:41:50","TI1",396,42
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:41:58","Restart",397,43
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:42:02","AT1",398,43
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:42:06","SAFE2",399,43
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:42:06","AT2",400,43
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:42:23","DANGER2",401,43
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:42:23","DAT2",402,43
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:42:28","BLOCKED2",403,43
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:42:29","SAFE1",404,43
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:42:32","AT1",405,43
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:42:33","DANGER1",406,43
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:42:33","DAT1",407,43
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:42:45","SHB1",408,43
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:42:46","SAFE2",409,43
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:42:47","GK2",410,43
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:43:10","Restart",411,44
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:43:21","SAFE1",412,44
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:43:36","AT1",413,44
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:44:16","SAFE1",414,45
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:44:18","AT1",415,45
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:44:24","DANGER1",416,45
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:44:24","DAT1",417,45
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:44:33","BLOCKED1",418,45
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:44:42","POSSIBLE_TI",419,45
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:44:42","TI1",420,45
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:44:55","Restart",421,45
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:45:06","Extra Time",422,46
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:45:29","SHG1",423,46
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:45:30","SAFE2",424,46
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:45:48","Possible Free Kick",425,46
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:45:51","O2",427,46
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:45:51","FK1",428,46
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:45:52","Ball Position",429,46
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:45:53","Restart",430,46
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:46:00","AT1",431,47
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:46:29","DANGER1",432,47
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:46:29","DAT1",433,47
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:46:37","Possible Free Kick",434,47
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:46:40","F2",436,47
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:46:40","FK1",437,47
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:46:40","DFK1",438,47
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:46:40","Ball Position",439,47
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:47:30","Restart",440,48
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:47:36","GOAL1",441,48
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:48:09","Scorer",442,49
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:48:10","CONF_GOAL1",443,49
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:48:28","KO2",444,49
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:48:28","SAFE2",445,49
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:48:33","Stop RT1",446,49
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:48:50","Player_DATA_CONFIRMED",447,45
+1020171,"Liverpool FC","Southampton FC","09/22/2018 14:48:54","CONF_PERIOD_SCORE",448,45
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:01:54","Players are coming out",449,45
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:02:47","GCC",450,45
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:03:15","SUB1",451,45
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:03:18","Game about to start",452,45
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:03:23","System Message",453,45
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:03:35","Start RT2 Team 2",454,46
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:03:36","SAFE2",455,46
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:03:40","AT2",456,46
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:03:46","SAFE1",457,46
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:03:50","Player_DATA_CONFIRMED",458,46
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:04:00","SAFE2",459,46
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:04:22","AT2",460,46
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:04:26","SAFE2",461,46
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:04:39","AT2",462,47
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:04:44","DANGER2",463,47
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:04:44","DAT2",464,47
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:04:51","SAFE1",465,47
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:04:56","AT1",466,47
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:05:03","DANGER1",467,47
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:05:03","DAT1",468,47
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:05:15","SAFE2",469,47
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:05:16","AT1",470,47
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:05:35","DANGER1",471,47
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:05:35","DAT1",472,47
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:05:38","SAFE2",473,48
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:06:04","Possible Free Kick",474,48
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:06:05","SAFE1",476,48
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:06:05","F2",477,48
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:06:05","FK1",478,48
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:06:05","Ball Position",479,48
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:06:07","Restart",480,48
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:06:26","AT2",481,48
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:06:31","DANGER2",482,48
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:06:31","DAT2",483,48
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:06:41","SAFE2",484,49
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:06:41","AT2",485,49
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:06:53","SAFE1",486,49
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:06:56","AT1",487,49
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:06:58","DANGER1",488,49
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:06:58","DAT1",489,49
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:06:59","SAFE2",490,49
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:07:08","AT2",491,49
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:07:11","SAFE1",492,49
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:07:16","SAFE2",493,49
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:07:30","AT2",494,49
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:08:02","DANGER2",495,50
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:08:02","DAT2",496,50
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:08:12","SAFE1",497,50
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:08:16","AT1",498,50
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:08:17","DANGER1",499,50
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:08:17","DAT1",500,50
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:08:23","SAFE2",501,50
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:08:31","AT1",502,50
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:08:34","DANGER1",503,50
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:08:34","DAT1",504,50
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:08:40","SAFE2",505,51
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:08:48","SAFE1",506,51
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:08:51","AT1",507,51
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:09:25","DANGER1",508,51
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:09:25","DAT1",509,51
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:09:43","SAFE1",510,52
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:09:44","AT1",511,52
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:10:01","DANGER1",512,52
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:10:01","DAT1",513,52
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:10:05","SAFE2",514,52
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:10:27","AT2",515,52
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:10:31","DANGER2",516,52
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:10:31","DAT2",517,52
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:10:43","SAFE2",518,53
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:10:47","AT2",519,53
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:11:08","SAFE1",520,53
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:11:09","GK1",521,53
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:11:25","Injury Break",522,53
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:12:23","SUB1",523,54
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:12:54","SUB2",524,55
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:13:01","SUB2",525,55
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:13:08","Restart",526,55
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:13:21","Possible Free Kick",527,55
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:13:22","SAFE2",529,55
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:13:22","O1",530,55
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:13:22","FK2",531,55
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:13:22","Ball Position",532,55
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:13:31","Restart",533,55
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:13:37","AT2",534,56
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:13:43","SAFE1",535,56
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:13:46","AT1",536,56
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:13:47","Possible Free Kick",537,56
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:13:48","POSSIBLE_CARDS",539,56
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:13:49","Player_DATA_CONFIRMED",540,56
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:13:53","YC2",541,56
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:14:01","CONF_YC2",542,56
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:14:04","Scorer",543,56
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:14:06","F2",544,56
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:14:06","FK1",545,56
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:14:06","DANGER1",546,56
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:14:06","DFK1",547,56
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:14:06","Ball Position",548,56
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:14:07","Restart",549,56
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:14:08","SAFE1",550,56
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:14:16","AT1",551,56
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:14:19","DANGER1",552,56
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:14:19","DAT1",553,56
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:14:25","PCR1",554,56
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:14:27","CR1",555,56
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:14:28","Ball Position",556,56
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:14:49","Player_DATA_CONFIRMED",557,57
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:14:52","Restart",558,57
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:14:56","SHG1",559,57
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:14:56","SAFE2",560,57
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:15:16","AT2",561,57
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:15:20","SAFE1",562,57
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:15:27","AT2",563,57
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:15:31","POSSIBLE_TI",564,57
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:15:31","TI2",565,57
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:15:37","Restart",566,58
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:15:39","SAFE2",567,58
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:15:44","AT2",568,58
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:15:46","Player_DATA_CONFIRMED",569,58
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:15:47","Player_DATA_CONFIRMED",570,58
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:16:03","SAFE1",571,58
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:16:04","GK1",572,58
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:16:13","Restart",573,58
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:16:22","AT1",574,58
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:16:33","DANGER1",575,58
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:16:33","DAT1",576,58
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:16:38","SAFE2",577,59
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:16:50","AT2",578,59
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:17:04","DANGER2",579,59
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:17:04","DAT2",580,59
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:17:10","SAFE1",581,59
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:17:10","GK1",582,59
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:17:33","Restart",583,59
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:17:49","AT2",584,60
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:17:52","SAFE2",585,60
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:18:14","AT2",586,60
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:18:30","DANGER2",587,60
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:18:30","DAT2",588,60
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:18:38","SAFE2",589,61
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:18:42","AT2",590,61
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:19:06","DANGER2",591,61
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:19:06","DAT2",592,61
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:19:10","SAFE1",593,61
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:19:20","AT1",594,61
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:19:22","DANGER1",595,61
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:19:22","DAT1",596,61
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:19:59","SAFE2",597,62
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:20:05","AT2",598,62
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:20:47","SAFE2",599,63
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:20:56","AT2",600,63
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:21:01","DANGER2",601,63
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:21:01","DAT2",602,63
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:21:06","SAFE1",603,63
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:21:07","Possible Free Kick",604,63
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:21:08","F2",606,63
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:21:08","FK1",607,63
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:21:08","Ball Position",608,63
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:21:09","Restart",609,63
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:21:12","AT2",610,63
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:21:13","DANGER2",611,63
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:21:13","DAT2",612,63
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:21:29","SAFE2",613,63
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:21:30","AT2",614,63
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:21:38","SAFE1",615,64
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:21:41","AT2",616,64
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:21:49","POSSIBLE_TI",617,64
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:21:49","TI2",618,64
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:21:54","Restart",619,64
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:22:48","SAFE1",620,65
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:22:53","AT1",621,65
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:22:56","DANGER1",622,65
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:22:56","DAT1",623,65
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:23:02","SAFE2",624,65
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:23:12","AT2",625,65
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:23:19","SAFE1",626,65
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:23:21","AT1",627,65
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:23:25","DANGER1",628,65
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:23:25","DAT1",629,65
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:23:31","SAFE2",630,65
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:23:51","AT2",631,66
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:23:57","POSSIBLE_TI",632,66
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:23:58","TI2",633,66
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:24:13","Restart",634,66
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:24:19","SAFE2",635,66
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:24:27","AT2",636,66
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:24:32","SAFE1",637,66
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:25:07","POSSIBLE_TI",638,67
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:25:08","TI1",639,67
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:25:22","Restart",640,67
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:25:29","AT1",641,67
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:26:00","DANGER1",642,68
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:26:00","DAT1",643,68
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:26:12","SAFE1",644,68
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:26:13","AT1",645,68
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:26:29","DANGER1",646,68
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:26:29","DAT1",647,68
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:26:34","SAFE2",648,68
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:26:38","AT2",649,69
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:26:43","SAFE1",650,69
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:26:50","SAFE2",651,69
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:27:06","AT2",652,69
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:27:12","SAFE2",653,69
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:27:27","SAFE1",654,69
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:27:28","AT1",655,69
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:27:29","DANGER1",656,69
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:27:29","DAT1",657,69
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:27:36","SAFE2",658,70
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:27:58","AT2",659,70
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:28:07","Possible Free Kick",660,70
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:28:11","SAFE1",662,70
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:28:11","F2",663,70
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:28:11","FK1",664,70
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:28:11","Ball Position",665,70
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:28:19","SUB1",666,70
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:28:40","Restart",667,71
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:29:18","AT1",668,71
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:29:20","Player_DATA_CONFIRMED",669,71
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:29:25","SAFE1",670,71
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:29:39","AT1",671,72
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:30:24","DANGER1",672,72
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:30:24","DAT1",673,72
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:30:41","SAFE2",674,73
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:30:43","AT1",675,73
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:31:17","DANGER1",676,73
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:31:17","DAT1",677,73
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:31:23","SAFE2",678,73
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:31:34","AT2",679,73
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:31:50","Possible Free Kick",680,74
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:31:51","F1",682,74
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:31:51","FK2",683,74
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:31:51","DANGER2",684,74
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:31:51","DFK2",685,74
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:31:51","Ball Position",686,74
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:32:05","Restart",687,74
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:32:05","SAFE2",688,74
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:32:12","AT2",689,74
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:32:27","SAFE1",690,74
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:32:36","POSSIBLE_TI",691,75
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:32:36","TI1",692,75
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:32:47","Restart",693,75
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:33:08","AT1",694,75
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:33:32","DANGER1",695,75
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:33:32","DAT1",696,75
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:33:34","SAFE2",697,75
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:33:35","GK2",698,76
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:33:57","Restart",699,76
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:34:03","POSSIBLE_TI",700,76
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:34:04","TI2",701,76
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:34:11","Restart",702,76
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:34:20","Possible Free Kick",703,76
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:34:21","F1",705,76
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:34:21","FK2",706,76
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:34:21","Ball Position",707,76
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:34:22","Restart",708,76
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:34:40","AT1",709,77
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:34:47","SAFE2",710,77
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:35:02","AT1",711,77
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:35:07","SAFE2",712,77
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:35:19","AT1",713,77
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:35:21","SAFE2",714,77
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:35:55","AT2",715,78
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:35:59","SAFE1",716,78
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:36:00","POSSIBLE_TI",717,78
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:36:02","TI1",718,78
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:36:11","SUB2",719,78
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:36:49","Restart",720,79
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:36:59","AT1",721,79
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:37:00","DANGER1",722,79
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:37:00","DAT1",723,79
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:37:05","SAFE2",724,79
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:37:14","AT2",725,79
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:37:17","SAFE1",726,79
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:37:19","Player_DATA_CONFIRMED",727,79
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:37:42","AT1",728,80
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:37:50","SAFE1",729,80
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:38:06","AT1",730,80
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:38:19","DANGER1",731,80
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:38:19","DAT1",732,80
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:38:25","SAFE2",733,80
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:38:26","SAFE1",734,80
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:38:55","AT1",735,81
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:38:56","DANGER1",736,81
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:38:56","DAT1",737,81
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:38:57","SAFE2",738,81
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:39:20","SAFE1",739,81
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:39:34","AT1",740,81
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:39:37","DANGER1",741,82
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:39:37","DAT1",742,82
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:39:42","SAFE2",743,82
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:40:14","AT2",744,82
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:40:17","SAFE2",745,82
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:40:28","AT2",746,82
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:40:36","SAFE1",747,83
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:40:40","POSSIBLE_TI",748,83
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:40:41","TI1",749,83
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:40:47","Restart",750,83
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:41:04","AT1",751,83
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:41:04","POSSIBLE_TI",752,83
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:41:05","TI1",753,83
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:41:11","Restart",754,83
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:41:17","DANGER1",755,83
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:41:17","DAT1",756,83
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:41:21","SAFE1",757,83
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:41:23","AT1",758,83
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:41:30","DANGER1",759,83
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:41:30","DAT1",760,83
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:41:35","SAFE2",761,84
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:41:36","AT1",762,84
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:41:36","POSSIBLE_TI",763,84
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:41:37","TI1",764,84
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:41:40","Restart",765,84
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:41:43","DANGER1",766,84
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:41:43","DAT1",767,84
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:41:53","SAFE1",768,84
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:41:54","AT1",769,84
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:42:05","SAFE1",770,84
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:42:22","AT1",771,84
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:42:24","DANGER1",772,84
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:42:24","DAT1",773,84
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:42:28","PCR1",774,84
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:42:30","CR1",775,84
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:42:34","Ball Position",776,84
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:42:55","Restart",777,85
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:43:05","SHB1",778,85
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:43:06","SAFE2",779,85
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:43:06","GK2",780,85
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:43:29","Restart",781,85
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:43:36","SAFE1",782,86
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:43:46","AT1",783,86
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:43:56","DANGER1",784,86
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:43:56","DAT1",785,86
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:43:58","Possible Free Kick",786,86
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:44:07","F2",788,86
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:44:07","FK1",789,86
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:44:07","DFK1",790,86
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:44:07","Ball Position",791,86
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:44:45","Restart",792,87
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:44:50","SAFE2",793,87
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:44:54","AT1",794,87
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:44:54","POSSIBLE_TI",795,87
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:44:55","TI1",796,87
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:44:59","Restart",797,87
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:45:59","DANGER1",798,88
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:45:59","DAT1",799,88
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:46:05","SAFE2",800,88
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:46:09","AT2",801,88
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:46:10","SAFE1",802,88
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:46:28","AT1",803,88
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:46:33","DANGER1",804,88
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:46:33","DAT1",805,88
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:46:44","GOAL1",806,89
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:46:53","CGOAL1",807,89
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:46:54","SAFE2",808,89
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:46:55","Possible Free Kick",809,89
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:46:57","O1",811,89
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:46:57","FK2",812,89
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:46:57","Ball Position",813,89
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:47:08","System Message",814,89
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:47:18","Restart",815,89
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:47:31","SAFE1",816,89
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:47:40","AT1",817,90
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:47:46","SAFE1",818,90
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:47:58","AT1",819,90
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:48:21","DANGER1",820,90
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:48:21","DAT1",821,90
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:48:29","SAFE2",822,90
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:48:42","Extra Time",823,91
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:48:43","AT2",824,91
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:48:45","DANGER2",825,91
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:48:45","DAT2",826,91
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:48:49","PCR2",827,91
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:48:51","SHG2",828,91
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:48:52","CR2",829,91
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:48:53","Ball Position",830,91
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:49:18","Restart",831,91
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:49:25","SAFE1",832,91
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:49:26","SAFE2",833,91
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:49:34","AT1",834,91
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:49:35","DANGER1",835,92
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:49:35","DAT1",836,92
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:49:38","BREAKAWAY1",837,92
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:49:41","SAFE2",838,92
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:49:42","Possible Free Kick",839,92
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:49:43","O1",841,92
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:49:43","FK2",842,92
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:49:43","Ball Position",843,92
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:49:53","Restart",844,92
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:50:06","AT2",845,92
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:50:13","SAFE1",846,92
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:50:19","AT1",847,92
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:50:23","DANGER1",848,92
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:50:23","DAT1",849,92
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:50:24","SAFE2",850,92
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:50:25","SAFE1",851,92
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:50:42","Stop RT2",852,92
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:50:42","Stop Game",853,92
+1020171,"Liverpool FC","Southampton FC","09/22/2018 15:50:50","CONF_PERIOD_SCORE",854,92

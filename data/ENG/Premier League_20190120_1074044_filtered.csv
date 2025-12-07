@@ -1,0 +1,917 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 15:00:48","Lineup changed",0,0
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 15:01:15","Transmission Online",1,0
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 15:01:15","Scout in Stadion",2,0
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 15:05:25","Lineup changed",3,0
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 15:18:03","GCC",4,0
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 15:56:14","Players are coming out",5,0
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 15:56:22","Players lined up",6,0
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 15:57:20","Shake hands",7,0
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 15:58:20","Jersey Changed",8,0
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 15:58:21","Jersey Changed",9,0
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 15:59:08","Flip coin",10,0
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 15:59:42","Game about to start",11,0
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 15:59:49","GCC",12,0
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:00:06","Start RT1 Team 1",13,1
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:00:20","AT1",14,1
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:00:27","POSSIBLE_TI",15,1
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:00:28","TI2",16,1
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:00:39","Restart",17,1
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:00:44","POSSIBLE_TI",18,1
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:00:46","TI2",19,1
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:00:48","Restart",20,1
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:00:53","SAFE1",21,1
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:00:54","GK1",22,1
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:01:13","Restart",23,2
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:01:22","Possible Free Kick",24,2
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:01:24","F2",26,2
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:01:24","FK1",27,2
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:01:24","DANGER1",28,2
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:01:24","DFK1",29,2
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:01:24","Ball Position",30,2
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:01:45","Restart",31,2
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:01:55","SAFE2",32,2
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:01:58","SAFE1",33,2
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:02:04","AT2",34,2
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:02:09","DANGER2",35,3
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:02:09","DAT2",36,3
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:02:38","SAFE1",37,3
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:02:44","AT1",38,3
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:02:47","DANGER1",39,3
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:02:47","DAT1",40,3
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:02:51","SAFE2",41,3
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:03:34","AT2",42,4
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:03:37","SAFE1",43,4
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:03:45","AT1",44,4
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:03:55","SAFE2",45,4
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:03:57","AT2",46,4
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:04:04","DANGER2",47,4
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:04:04","DAT2",48,4
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:04:08","Possible Free Kick",49,5
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:04:21","F1",51,5
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:04:21","FK2",52,5
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:04:21","DFK2",53,5
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:04:21","Ball Position",54,5
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:04:48","Restart",55,5
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:04:54","BLOCKED2",56,5
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:04:58","SAFE2",57,5
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:05:20","AT2",58,6
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:05:33","DANGER2",59,6
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:05:33","DAT2",60,6
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:05:37","SHB2",61,6
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:05:37","SAFE1",62,6
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:05:41","GK1",63,6
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:06:00","Restart",64,6
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:06:05","Possible Free Kick",65,6
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:06:06","F2",67,7
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:06:06","FK1",68,7
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:06:06","DANGER1",69,7
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:06:06","DFK1",70,7
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:06:06","Ball Position",71,7
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:06:35","Restart",72,7
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:06:46","SAFE2",73,7
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:06:48","AT2",74,7
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:06:53","DANGER2",75,7
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:06:53","DAT2",76,7
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:06:59","PCR2",77,7
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:07:02","CR2",78,7
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:07:04","SHG2",79,7
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:07:16","Ball Position",80,8
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:07:36","Restart",81,8
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:07:44","SAFE2",82,8
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:07:56","POSSIBLE_TI",83,8
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:07:57","TI1",84,8
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:08:01","Restart",85,8
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:08:01","SAFE1",86,8
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:08:11","Possible Free Kick",87,9
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:08:14","SAFE2",89,9
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:08:14","O1",90,9
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:08:14","FK2",91,9
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:08:14","Ball Position",92,9
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:08:35","Restart",93,9
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:08:36","SAFE2",94,9
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:08:56","SAFE1",95,9
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:09:10","AT1",96,10
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:09:13","POSSIBLE_TI",97,10
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:09:13","TI2",98,10
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:09:16","Restart",99,10
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:09:17","SAFE2",100,10
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:09:27","AT2",101,10
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:09:28","DANGER2",102,10
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:09:28","DAT2",103,10
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:09:43","SAFE2",104,10
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:10:01","Possible Free Kick",105,10
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:10:03","SAFE1",107,10
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:10:03","O2",108,10
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:10:03","FK1",109,10
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:10:04","Ball Position",110,10
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:10:08","Restart",111,11
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:10:09","SAFE1",112,11
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:10:15","POSSIBLE_TI",113,11
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:10:17","TI1",114,11
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:10:32","Restart",115,11
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:10:33","AT1",116,11
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:10:34","SAFE2",117,11
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:10:43","SAFE1",118,11
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:10:49","POSSIBLE_TI",119,11
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:10:49","TI1",120,11
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:11:06","Restart",121,12
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:11:08","AT1",122,12
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:11:08","DANGER1",123,12
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:11:08","DAT1",124,12
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:11:15","PCR1",125,12
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:11:19","CR1",126,12
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:11:21","SHG1",127,12
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:11:21","Ball Position",128,12
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:11:38","Restart",129,12
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:11:45","SHB1",130,12
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:11:45","SAFE2",131,12
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:11:46","GK2",132,12
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:12:10","Restart",133,13
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:12:18","SAFE2",134,13
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:12:23","AT1",135,13
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:12:24","DANGER1",136,13
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:12:24","DAT1",137,13
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:12:34","SHB1",138,13
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:12:34","SAFE2",139,13
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:12:35","GK2",140,13
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:12:48","Restart",141,13
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:12:52","CLS",142,13
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:13:12","Restart",143,14
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:13:19","AT1",144,14
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:13:23","DANGER1",145,14
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:13:23","DAT1",146,14
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:13:32","PCR1",147,14
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:13:33","CR1",148,14
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:13:34","Ball Position",149,14
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:13:55","Restart",150,14
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:14:07","POSSIBLE_TI",151,15
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:14:08","TI2",152,15
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:14:12","Restart",153,15
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:14:18","SAFE2",154,15
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:14:28","AT2",155,15
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:14:33","DANGER2",156,15
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:14:33","DAT2",157,15
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:14:33","POSSIBLE_TI",158,15
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:14:34","TI2",159,15
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:14:41","Restart",160,15
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:14:53","SAFE2",161,15
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:15:06","AT2",162,16
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:15:08","Possible Free Kick",163,16
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:15:14","POSSIBLE_CARDS",165,16
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:15:36","NO_Cards",166,16
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:15:37","F1",167,16
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:15:37","FK2",168,16
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:15:37","DANGER2",169,16
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:15:37","DFK2",170,16
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:15:37","Ball Position",171,16
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:15:56","Restart",172,16
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:16:01","SHG2",173,16
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:16:02","SAFE1",174,16
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:16:16","AT1",175,17
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:16:17","DANGER1",176,17
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:16:17","DAT1",177,17
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:16:22","PCR1",178,17
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:16:22","CR1",179,17
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:16:23","Ball Position",180,17
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:16:50","Restart",181,17
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:16:53","GOAL1",182,17
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:17:27","CONF_GOAL1",183,18
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:17:32","Scorer",184,18
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:17:32","KO2",185,18
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:17:32","SAFE2",186,18
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:17:47","AT2",187,18
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:17:50","DANGER2",188,18
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:17:50","DAT2",189,18
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:17:51","POSSIBLE_TI",190,18
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:17:51","TI2",191,18
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:17:57","Restart",192,18
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:18:04","POSSIBLE_TI",193,18
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:18:05","TI2",194,18
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:18:14","Restart",195,19
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:18:18","SAFE2",196,19
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:18:26","AT2",197,19
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:18:44","Scorer",198,19
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:18:44","Player_DATA_CONFIRMED",199,19
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:18:49","DANGER2",200,19
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:18:49","DAT2",201,19
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:19:02","POSSIBLE_TI",202,19
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:19:05","TI2",203,19
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:19:18","Restart",204,20
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:19:32","SAFE1",205,20
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:19:35","GK1",206,20
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:19:57","Restart",207,20
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:20:01","AT1",208,20
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:20:02","DANGER1",209,20
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:20:02","DAT1",210,20
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:20:38","SAFE1",211,21
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:20:47","AT1",212,21
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:20:58","SAFE2",213,21
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:20:59","AT2",214,21
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:21:00","DANGER2",215,21
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:21:00","DAT2",216,21
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:21:18","POSSIBLE_TI",217,22
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:21:19","TI1",218,22
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:21:31","Restart",219,22
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:21:32","SAFE1",220,22
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:21:43","SAFE2",221,22
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:22:26","AT2",222,23
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:22:31","SAFE2",223,23
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:22:37","AT2",224,23
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:22:38","DANGER2",225,23
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:22:38","DAT2",226,23
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:22:42","SHG2",227,23
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:22:56","SAFE2",228,23
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:23:14","AT2",229,24
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:23:27","DANGER2",230,24
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:23:27","DAT2",231,24
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:23:42","SAFE2",232,24
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:23:55","AT2",233,24
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:24:00","DANGER2",234,24
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:24:00","DAT2",235,24
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:24:04","Possible Free Kick",236,24
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:24:05","SAFE1",238,24
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:24:05","F2",239,24
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:24:05","FK1",240,24
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:24:05","Ball Position",241,24
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:24:32","Restart",242,25
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:24:38","AT1",243,25
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:24:51","DANGER1",244,25
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:24:51","DAT1",245,25
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:24:52","POSSIBLE_TI",246,25
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:24:56","TI2",247,25
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:25:06","Restart",248,25
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:25:12","POSSIBLE_TI",249,26
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:25:14","TI1",250,26
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:25:25","Restart",251,26
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:25:32","SAFE2",252,26
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:25:36","POSSIBLE_TI",253,26
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:25:36","TI1",254,26
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:25:52","Restart",255,26
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:25:58","SAFE1",256,26
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:26:01","AT1",257,26
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:26:02","DANGER1",258,26
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:26:02","DAT1",259,26
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:26:05","Possible Free Kick",260,26
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:26:07","SAFE2",262,27
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:26:08","O1",263,27
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:26:08","FK2",264,27
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:26:08","Ball Position",265,27
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:26:16","Restart",266,27
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:26:17","SAFE2",267,27
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:26:38","AT2",268,27
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:26:39","Possible Free Kick",269,27
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:26:41","F1",271,27
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:26:41","FK2",272,27
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:26:41","DANGER2",273,27
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:26:41","DFK2",274,27
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:26:41","Ball Position",275,27
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:27:14","Restart",276,28
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:27:19","SAFE1",277,28
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:27:33","AT1",278,28
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:27:39","Possible Free Kick",279,28
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:27:41","SAFE2",281,28
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:27:41","O1",282,28
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:27:41","FK2",283,28
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:27:41","Ball Position",284,28
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:27:53","Restart",285,28
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:27:54","SAFE2",286,28
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:28:31","AT2",287,29
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:28:38","SAFE2",288,29
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:28:44","AT2",289,29
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:28:52","DANGER2",290,29
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:28:52","DAT2",291,29
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:29:35","SAFE2",292,30
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:29:41","AT2",293,30
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:29:56","DANGER2",294,30
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:29:56","DAT2",295,30
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:30:27","PCR2",296,31
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:30:28","CR2",297,31
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:30:29","Ball Position",298,31
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:30:49","Restart",299,31
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:31:05","POSSIBLE_TI",300,31
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:31:06","TI2",301,32
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:31:17","Restart",302,32
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:31:18","PCR2",303,32
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:31:19","CR2",304,32
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:31:21","Ball Position",305,32
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:31:37","Restart",306,32
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:31:56","POSSIBLE_TI",307,32
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:32:05","TI1",308,32
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:32:16","Restart",309,33
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:32:27","SAFE1",310,33
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:32:31","Possible Free Kick",311,33
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:32:35","F2",313,33
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:32:35","FK1",314,33
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:32:35","DANGER1",315,33
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:32:35","DFK1",316,33
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:32:35","Ball Position",317,33
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:32:57","Restart",318,33
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:33:05","POSSIBLE_TI",319,33
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:33:06","TI1",320,34
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:33:18","Restart",321,34
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:33:28","PCR1",322,34
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:33:29","CR1",323,34
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:33:30","Ball Position",324,34
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:34:00","Restart",325,34
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:34:09","SAFE2",326,35
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:34:11","POSSIBLE_TI",327,35
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:34:15","TI1",328,35
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:34:34","Restart",329,35
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:34:38","POSSIBLE_TI",330,35
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:34:38","TI1",331,35
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:34:45","Restart",332,35
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:34:48","AT1",333,35
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:34:51","SAFE1",334,35
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:34:56","AT1",335,35
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:35:04","SAFE2",336,35
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:35:26","SAFE1",337,36
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:35:29","POSSIBLE_TI",338,36
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:35:30","TI2",339,36
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:35:31","Restart",340,36
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:35:32","AT2",341,36
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:35:42","DANGER2",342,36
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:35:42","DAT2",343,36
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:36:01","PCR2",344,36
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:36:04","CR2",345,36
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:36:05","Ball Position",346,36
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:36:26","Restart",347,37
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:36:34","POSSIBLE_TI",348,37
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:36:35","TI2",349,37
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:36:38","Restart",350,37
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:37:04","SHB2",351,37
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:37:04","SAFE1",352,37
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:37:05","GK1",353,37
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:37:43","Restart",354,38
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:37:51","SAFE1",355,38
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:37:59","POSSIBLE_TI",356,38
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:38:00","TI2",357,38
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:38:14","Restart",358,39
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:38:18","POSSIBLE_TI",359,39
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:38:18","TI2",360,39
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:38:31","Restart",361,39
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:38:35","AT2",362,39
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:38:37","DANGER2",363,39
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:38:37","DAT2",364,39
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:38:44","SAFE1",365,39
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:38:54","POSSIBLE_TI",366,39
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:38:55","TI1",367,39
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:39:10","Restart",368,40
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:39:11","AT1",369,40
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:39:15","DANGER1",370,40
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:39:15","DAT1",371,40
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:39:22","SHB1",372,40
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:39:23","SAFE2",373,40
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:39:23","GK2",374,40
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:39:40","Restart",375,40
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:39:47","SAFE2",376,40
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:40:07","AT2",377,41
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:40:10","DANGER2",378,41
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:40:10","DAT2",379,41
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:40:29","SAFE1",380,41
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:40:34","AT1",381,41
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:40:35","DANGER1",382,41
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:40:35","DAT1",383,41
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:40:44","GOAL1",384,41
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:40:51","CGOAL1",385,41
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:40:53","Possible Free Kick",386,41
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:40:56","SAFE2",388,41
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:40:56","O1",389,41
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:40:56","FK2",390,41
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:40:56","Ball Position",391,41
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:40:59","Restart",392,41
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:40:59","AT2",393,41
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:41:00","DANGER2",394,41
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:41:00","DAT2",395,41
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:41:45","SAFE2",396,42
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:41:49","AT2",397,42
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:41:51","DANGER2",398,42
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:41:51","DAT2",399,42
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:42:06","SAFE2",400,43
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:42:18","AT2",401,43
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:42:19","DANGER2",402,43
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:42:19","DAT2",403,43
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:42:26","SAFE1",404,43
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:42:29","AT1",405,43
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:42:29","DANGER1",406,43
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:42:29","DAT1",407,43
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:42:37","PCR1",408,43
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:42:39","CR1",409,43
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:42:43","Ball Position",410,43
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:43:12","Restart",411,44
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:43:28","PCR1",412,44
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:43:29","CR1",413,44
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:43:30","Ball Position",414,44
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:43:49","Restart",415,44
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:44:05","PCR1",416,44
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:44:05","CR1",417,44
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:44:06","Ball Position",418,45
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:44:43","Restart",419,45
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:44:53","SHG1",420,45
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:44:53","SAFE2",421,45
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:45:08","AT2",422,46
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:45:10","DANGER2",423,46
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:45:10","DAT2",424,46
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:45:13","SAFE2",425,46
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:45:17","Extra Time",426,46
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:45:26","AT2",427,46
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:45:30","DANGER2",428,46
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:45:30","DAT2",429,46
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:45:38","PCR2",430,46
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:45:38","CR2",431,46
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:45:39","Ball Position",432,46
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:45:41","System Message",433,46
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:45:58","Restart",434,46
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:45:58","System Message",435,46
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:46:04","SHB2",436,46
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:46:05","SAFE1",437,46
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:46:05","GK1",438,46
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:46:09","CLS",439,47
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:46:11","Stop RT1",440,47
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 16:46:17","CONF_PERIOD_SCORE",441,45
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:00:25","Players are coming out",442,45
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:01:05","Game about to start",443,45
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:01:11","Start RT2 Team 2",444,46
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:01:23","POSSIBLE_TI",445,46
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:01:26","TI1",446,46
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:01:31","Restart",447,46
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:01:44","Possible Free Kick",448,46
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:01:47","SAFE1",450,46
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:01:47","F2",451,46
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:01:47","FK1",452,46
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:01:47","Ball Position",453,46
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:02:07","Restart",454,46
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:02:10","AT1",455,46
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:02:11","DANGER1",456,46
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:02:11","DAT1",457,46
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:02:14","BLOCKED1",458,47
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:02:21","SAFE2",459,47
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:02:24","AT2",460,47
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:02:30","DANGER2",461,47
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:02:30","DAT2",462,47
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:02:34","POSSIBLE_TI",463,47
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:02:35","TI1",464,47
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:02:51","Restart",465,47
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:03:09","SAFE2",466,47
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:03:25","AT2",467,48
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:03:33","DANGER2",468,48
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:03:33","DAT2",469,48
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:03:45","SAFE2",470,48
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:03:57","SAFE1",471,48
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:04:14","POSSIBLE_TI",472,49
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:04:15","TI2",473,49
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:04:16","Restart",474,49
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:04:16","AT2",475,49
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:04:23","DANGER2",476,49
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:04:23","DAT2",477,49
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:04:32","SAFE1",478,49
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:04:55","AT1",479,49
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:04:59","SAFE2",480,49
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:05:10","AT2",481,49
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:05:15","SAFE1",482,50
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:05:16","GK1",483,50
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:05:40","Restart",484,50
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:05:49","AT2",485,50
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:05:58","DANGER2",486,50
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:05:58","DAT2",487,50
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:06:41","SAFE1",488,51
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:06:48","SAFE2",489,51
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:07:02","AT2",490,51
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:07:03","DANGER2",491,51
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:07:03","DAT2",492,51
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:07:10","GOAL2",493,51
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:07:21","CONF_GOAL2",494,52
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:07:26","Scorer",495,52
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:07:43","KO1",496,52
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:07:43","SAFE1",497,52
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:07:58","AT2",498,52
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:08:07","POSSIBLE_TI",499,52
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:08:07","TI1",500,52
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:08:16","SAFE1",501,53
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:08:24","Restart",502,53
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:08:38","AT1",503,53
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:08:41","DANGER1",504,53
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:08:41","DAT1",505,53
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:08:48","PPEN",506,53
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:08:48","PPEN1",507,53
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:08:53","No PEN",508,53
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:08:57","SAFE2",509,53
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:09:23","AT2",510,54
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:09:28","DANGER2",511,54
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:09:28","DAT2",512,54
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:10:11","SHG2",513,54
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:10:11","SAFE1",514,55
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:10:16","AT2",515,55
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:10:16","Player_DATA_CONFIRMED",516,55
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:10:16","Assist",517,55
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:10:18","DANGER2",518,55
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:10:18","DAT2",519,55
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:10:27","BLOCKED2",520,55
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:10:34","POSSIBLE_TI",521,55
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:10:39","TI2",522,55
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:10:52","SUB1",523,55
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:11:08","Restart",524,55
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:11:14","Player_DATA_CONFIRMED",525,56
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:11:19","PCR2",526,56
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:11:20","CR2",527,56
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:11:21","Ball Position",528,56
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:11:36","Restart",529,56
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:11:47","SHB2",530,56
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:11:47","SAFE1",531,56
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:11:48","GK1",532,56
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:12:16","Restart",533,57
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:12:22","POSSIBLE_TI",534,57
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:12:23","TI2",535,57
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:12:29","Restart",536,57
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:12:31","SAFE2",537,57
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:12:41","SAFE1",538,57
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:12:55","AT2",539,57
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:13:30","DANGER2",540,58
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:13:30","DAT2",541,58
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:13:33","SAFE1",542,58
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:13:49","AT2",543,58
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:13:59","AT1",544,58
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:13:59","DANGER1",545,58
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:13:59","DAT1",546,58
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:14:06","SAFE2",547,58
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:14:16","POSSIBLE_TI",548,59
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:14:17","TI1",549,59
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:14:39","Restart",550,59
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:14:39","POSSIBLE_TI",551,59
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:14:40","TI2",552,59
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:14:47","Restart",553,59
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:14:47","SAFE2",554,59
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:15:05","AT1",555,59
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:15:07","DANGER1",556,59
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:15:07","DAT1",557,59
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:15:19","SAFE2",558,60
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:15:21","AT2",559,60
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:15:23","DANGER2",560,60
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:15:23","DAT2",561,60
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:15:31","PCR2",562,60
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:15:32","CR2",563,60
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:15:34","SHB2",564,60
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:15:42","Ball Position",565,60
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:15:53","Restart",566,60
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:16:15","SAFE1",567,61
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:16:15","GK1",568,61
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:16:36","Restart",569,61
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:16:41","AT1",570,61
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:16:42","DANGER1",571,61
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:16:42","DAT1",572,61
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:16:45","Possible Free Kick",573,61
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:16:46","SAFE2",575,61
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:16:46","F1",576,61
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:16:46","FK2",577,61
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:16:46","Ball Position",578,61
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:16:47","CLS",579,61
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:16:49","O1",580,61
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:16:49","FK2",581,61
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:16:49","Ball Position",582,61
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:16:54","Restart",583,61
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:16:55","SAFE2",584,61
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:17:03","Possible Free Kick",585,61
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:17:04","F1",587,61
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:17:04","FK2",588,61
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:17:04","Ball Position",589,61
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:17:06","AT2",590,61
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:17:06","DANGER2",591,61
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:17:06","DAT2",592,61
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:17:06","Restart",593,61
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:17:15","PCR2",594,62
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:17:16","CR2",595,62
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:17:17","Ball Position",596,62
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:17:30","Restart",597,62
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:17:48","POSSIBLE_TI",598,62
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:17:49","TI2",599,62
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:17:57","Restart",600,62
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:18:26","SAFE2",601,63
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:18:53","SAFE1",602,63
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:18:59","AT1",603,63
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:18:59","DANGER1",604,63
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:18:59","DAT1",605,63
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:19:08","SAFE2",606,63
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:19:16","Possible Free Kick",607,64
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:19:17","F1",609,64
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:19:17","FK2",610,64
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:19:17","Ball Position",611,64
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:19:27","Restart",612,64
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:19:28","SAFE2",613,64
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:19:35","AT2",614,64
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:19:37","DANGER2",615,64
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:19:37","DAT2",616,64
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:19:45","Possible Free Kick",617,64
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:19:49","SAFE1",619,64
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:19:49","F2",620,64
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:19:49","FK1",621,64
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:19:49","Ball Position",622,64
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:20:02","Restart",623,64
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:20:16","POSSIBLE_TI",624,65
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:20:17","TI1",625,65
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:20:18","Restart",626,65
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:20:18","AT1",627,65
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:20:20","DANGER1",628,65
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:20:20","DAT1",629,65
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:20:33","SAFE1",630,65
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:20:36","AT1",631,65
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:20:38","DANGER1",632,65
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:20:38","DAT1",633,65
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:20:43","POSSIBLE_TI",634,65
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:20:44","TI2",635,65
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:20:56","Restart",636,65
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:21:03","POSSIBLE_TI",637,65
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:21:04","TI2",638,65
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:21:05","SAFE2",639,65
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:21:14","Restart",640,66
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:21:14","SAFE2",641,66
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:21:33","AT1",642,66
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:21:37","DANGER1",643,66
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:21:37","DAT1",644,66
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:21:41","Possible Free Kick",645,66
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:21:44","SAFE2",647,66
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:21:44","O1",648,66
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:21:44","FK2",649,66
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:21:44","Ball Position",650,66
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:21:53","Restart",651,66
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:21:54","SAFE2",652,66
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:22:28","AT2",653,67
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:22:36","DANGER2",654,67
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:22:36","DAT2",655,67
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:22:49","SAFE1",656,67
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:22:52","AT1",657,67
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:23:03","SAFE2",658,67
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:23:21","AT1",659,68
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:23:23","DANGER1",660,68
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:23:23","DAT1",661,68
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:23:26","SAFE2",662,68
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:23:49","AT2",663,68
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:24:07","DANGER2",664,68
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:24:07","DAT2",665,68
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:24:26","POSSIBLE_TI",666,69
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:24:27","TI2",667,69
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:24:47","Restart",668,69
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:24:50","SAFE2",669,69
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:24:55","AT2",670,69
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:24:56","DANGER2",671,69
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:24:56","DAT2",672,69
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:25:09","SAFE2",673,69
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:25:19","AT2",674,70
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:25:20","DANGER2",675,70
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:25:20","DAT2",676,70
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:25:23","POSSIBLE_TI",677,70
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:25:24","TI2",678,70
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:25:27","Restart",679,70
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:25:57","POSSIBLE_TI",680,70
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:25:58","TI2",681,70
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:26:08","Restart",682,70
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:26:24","PCR2",683,71
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:26:24","CR2",684,71
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:26:26","Ball Position",685,71
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:26:42","Restart",686,71
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:26:53","SHB2",687,71
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:26:54","SAFE1",688,71
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:26:54","GK1",689,71
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:27:19","Restart",690,72
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:27:42","POSSIBLE_TI",691,72
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:27:43","TI2",692,72
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:27:53","SUB1",693,72
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:28:16","Restart",694,73
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:28:23","SAFE2",695,73
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:28:31","AT2",696,73
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:28:37","SAFE1",697,73
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:28:38","AT1",698,73
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:28:40","DANGER1",699,73
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:28:40","DAT1",700,73
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:28:51","Possible Free Kick",701,73
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:28:53","POSSIBLE_CARDS",703,73
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:28:54","PRC",704,73
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:29:14","Player_DATA_CONFIRMED",705,74
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:29:20","YC1",706,74
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:29:23","CONF_YC1",707,74
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:29:30","Scorer",708,74
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:29:31","YC2",709,74
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:29:33","CONF_YC2",710,74
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:29:40","Scorer",711,74
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:29:47","No RC",712,74
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:29:49","SAFE2",713,74
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:29:49","F1",714,74
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:29:49","FK2",715,74
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:29:49","Ball Position",716,74
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:29:50","Restart",717,74
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:29:51","SAFE2",718,74
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:30:12","AT1",719,75
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:30:14","DANGER1",720,75
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:30:14","DAT1",721,75
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:30:24","Scorer",722,75
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:30:24","Player_DATA_CONFIRMED",723,75
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:30:25","Possible Free Kick",724,75
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:30:27","Scorer",726,75
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:30:27","Player_DATA_CONFIRMED",727,75
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:30:28","POSSIBLE_CARDS",728,75
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:30:33","YC1",729,75
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:30:34","CONF_YC1",730,75
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:30:38","Scorer",731,75
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:30:39","SAFE2",732,75
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:30:39","F1",733,75
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:30:39","FK2",734,75
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:30:40","Ball Position",735,75
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:30:52","Player_DATA_CONFIRMED",736,75
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:30:59","Restart",737,75
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:31:00","SAFE2",738,75
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:31:19","SAFE1",739,76
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:31:21","AT1",740,76
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:31:23","DANGER1",741,76
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:31:23","DAT1",742,76
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:31:33","SAFE2",743,76
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:31:52","AT2",744,76
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:31:53","DANGER2",745,76
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:31:53","DAT2",746,76
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:31:55","SAFE1",747,76
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:32:04","AT1",748,76
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:32:08","DANGER1",749,76
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:32:08","DAT1",750,76
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:32:09","POSSIBLE_TI",751,76
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:32:09","TI1",752,76
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:32:30","Restart",753,77
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:32:43","SHG1",754,77
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:32:45","SAFE2",755,77
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:32:51","AT2",756,77
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:32:53","SAFE1",757,77
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:32:57","AT1",758,77
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:32:58","DANGER1",759,77
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:32:58","DAT1",760,77
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:33:05","Possible Free Kick",761,77
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:33:06","SAFE2",763,77
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:33:06","F1",764,77
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:33:06","FK2",765,77
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:33:06","Ball Position",766,77
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:33:11","Restart",767,77
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:33:11","SAFE2",768,77
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:33:27","AT2",769,78
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:33:36","DANGER2",770,78
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:33:36","DAT2",771,78
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:33:37","POSSIBLE_TI",772,78
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:33:39","TI2",773,78
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:33:42","Restart",774,78
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:33:53","POSSIBLE_TI",775,78
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:33:55","TI1",776,78
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:33:55","SAFE1",777,78
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:34:16","SUB2",778,79
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:34:24","Restart",779,79
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:34:31","AT2",780,79
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:34:32","DANGER2",781,79
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:34:32","DAT2",782,79
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:34:36","PPEN",783,79
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:34:36","PPEN2",784,79
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:34:44","No PEN",785,79
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:34:46","Possible Free Kick",786,79
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:34:47","POSSIBLE_CARDS",788,79
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:34:48","YC2",789,79
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:34:49","CONF_YC2",790,79
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:34:57","Scorer",791,79
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:34:58","SAFE1",792,79
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:34:58","F2",793,79
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:34:58","FK1",794,79
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:34:59","Ball Position",795,79
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:35:07","Restart",796,79
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:35:11","SAFE2",797,79
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:35:29","AT2",798,80
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:35:37","DANGER2",799,80
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:35:37","DAT2",800,80
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:35:47","POSSIBLE_TI",801,80
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:35:49","TI2",802,80
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:36:04","SUB1",803,80
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:36:14","Player_DATA_CONFIRMED",804,81
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:36:14","Player_DATA_CONFIRMED",805,81
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:36:33","Restart",806,81
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:36:39","Player_DATA_CONFIRMED",807,81
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:36:53","Possible Free Kick",808,81
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:37:00","F1",810,81
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:37:00","FK2",811,81
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:37:00","DFK2",812,81
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:37:00","Ball Position",813,81
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:37:26","Restart",814,82
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:37:32","SHB2",815,82
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:37:33","SAFE1",816,82
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:37:34","GK1",817,82
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:37:55","Restart",818,82
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:38:03","SAFE2",819,82
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:38:06","AT2",820,82
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:38:09","DANGER2",821,82
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:38:09","DAT2",822,82
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:38:14","PCR2",823,83
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:38:16","CR2",824,83
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:38:17","Ball Position",825,83
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:38:32","Restart",826,83
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:38:41","POSSIBLE_TI",827,83
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:38:43","TI1",828,83
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:39:12","Injury Break",829,84
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:39:22","Restart",830,84
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:39:28","POSSIBLE_TI",831,84
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:39:30","TI2",832,84
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:39:30","SAFE2",833,84
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:39:37","Restart",834,84
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:39:37","SAFE2",835,84
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:39:42","AT2",836,84
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:39:50","SAFE1",837,84
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:39:58","AT1",838,84
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:40:07","SAFE2",839,84
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:40:12","AT2",840,85
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:40:21","SAFE2",841,85
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:40:30","SAFE1",842,85
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:40:31","AT1",843,85
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:40:32","DANGER1",844,85
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:40:32","DAT1",845,85
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:40:43","SAFE2",846,85
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:41:11","SAFE1",847,85
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:41:22","SAFE2",848,86
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:41:52","AT2",849,86
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:41:59","Possible Free Kick",850,86
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:42:02","SAFE2",852,86
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:42:02","O1",853,86
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:42:02","FK2",854,86
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:42:02","Ball Position",855,86
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:42:16","SUB2",856,87
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:42:30","Restart",857,87
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:42:31","AT2",858,87
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:42:40","POSSIBLE_TI",859,87
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:42:40","TI2",860,87
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:42:54","Restart",861,87
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:42:56","DANGER2",862,87
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:42:56","DAT2",863,87
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:43:43","SAFE1",864,88
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:43:47","AT1",865,88
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:43:55","DANGER1",866,88
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:43:55","DAT1",867,88
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:43:59","SAFE2",868,88
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:44:02","AT2",869,88
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:44:04","DANGER2",870,88
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:44:04","DAT2",871,88
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:44:13","SAFE1",872,89
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:44:14","Player_DATA_CONFIRMED",873,89
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:44:14","GK1",874,89
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:44:42","Restart",875,89
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:44:55","POSSIBLE_TI",876,89
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:44:57","TI2",877,89
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:45:05","Restart",878,89
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:45:05","SAFE2",879,89
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:45:20","AT2",880,90
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:45:25","DANGER2",881,90
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:45:25","DAT2",882,90
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:45:47","PPEN",883,90
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:45:47","PPEN2",884,90
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:45:52","No PEN",885,90
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:45:53","SAFE1",886,90
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:45:54","GK1",887,90
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:46:12","Restart",888,91
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:46:22","SAFE1",889,91
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:46:25","Extra Time",890,91
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:46:27","Possible Free Kick",891,91
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:46:37","F2",893,91
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:46:37","FK1",894,91
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:46:37","Ball Position",895,91
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:47:03","AT1",896,91
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:47:03","DANGER1",897,91
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:47:03","DAT1",898,91
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:47:11","Restart",899,91
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:47:16","SAFE2",900,92
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:47:21","AT1",901,92
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:47:21","DANGER1",902,92
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:47:21","DAT1",903,92
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:47:32","Possible Free Kick",904,92
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:47:33","SAFE2",906,92
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:47:33","F1",907,92
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:47:33","FK2",908,92
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:47:33","Ball Position",909,92
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:47:40","Restart",910,92
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:47:42","SAFE2",911,92
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:47:50","AT2",912,92
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:47:50","DANGER2",913,92
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:47:50","DAT2",914,92
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:47:58","POSSIBLE_TI",915,92
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:47:59","TI2",916,92
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:48:12","Restart",917,93
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:48:25","SHG2",918,93
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:48:26","SAFE1",919,93
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:48:29","AT1",920,93
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:48:46","SAFE2",921,93
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:48:49","AT2",922,93
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:48:51","DANGER2",923,93
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:48:51","DAT2",924,93
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:48:59","GOAL2",925,93
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:49:30","POSSIBLE_CARDS",926,94
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:49:38","YC2",927,94
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:49:39","CONF_YC2",928,94
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:49:46","Scorer",929,94
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:49:56","CONF_GOAL2",930,94
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:50:00","Scorer",931,94
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:50:00","KO1",932,94
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:50:00","SAFE1",933,94
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:50:07","SAFE2",934,94
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:50:19","Stop RT2",935,94
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:50:19","Stop Game",936,94
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:50:25","CONF_PERIOD_SCORE",937,94
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:50:43","Player_DATA_CONFIRMED",938,94
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:51:00","Scorer",939,94
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:51:00","Player_DATA_CONFIRMED",940,94
+1074044,"Fulham FC","Tottenham Hotspur FC","01/20/2019 17:51:14","Assist",941,94

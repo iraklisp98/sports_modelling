@@ -1,0 +1,959 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 17:07:10","Scout in Stadion",0,0
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 17:07:13","Transmission Online",1,0
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 17:07:26","GCC",2,0
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 17:10:35","Lineup changed",3,0
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 17:15:46","Lineup changed",4,0
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 17:43:41","GCC",5,0
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 17:55:07","Players are coming out",6,0
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 17:55:24","Players lined up",7,0
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 17:55:40","Jersey Changed",8,0
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 17:55:41","Jersey Changed",9,0
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 17:56:26","Shake hands",10,0
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 17:56:27","Flip coin",11,0
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 17:58:13","Minute of silent",12,0
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 17:59:20","Game about to start",13,0
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:00:01","Start RT1 Team 1",14,1
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:00:03","SAFE1",15,1
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:00:06","AT1",16,1
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:00:13","SAFE2",17,1
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:00:16","AT2",18,1
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:00:24","SAFE2",19,1
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:00:56","AT2",20,1
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:00:58","DANGER2",21,1
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:00:58","DAT2",22,1
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:01:00","GOAL2",23,1
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:01:51","CONF_GOAL2",24,2
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:01:53","Scorer",25,2
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:01:53","KO1",26,2
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:01:53","SAFE1",27,2
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:02:02","SAFE2",28,3
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:02:06","SAFE1",29,3
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:02:07","AT1",30,3
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:02:08","SAFE2",31,3
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:02:11","POSSIBLE_TI",32,3
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:02:11","TI2",33,3
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:02:13","Scorer",34,3
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:02:14","Player_DATA_CONFIRMED",35,3
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:02:14","Assist",36,3
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:02:17","Restart",37,3
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:02:22","SAFE1",38,3
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:02:24","AT1",39,3
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:02:27","DANGER1",40,3
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:02:27","DAT1",41,3
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:02:36","PCR1",42,3
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:03:10","CR1",43,4
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:03:13","Ball Position",44,4
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:03:20","Restart",45,4
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:03:40","SAFE2",46,4
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:04:01","SAFE1",47,4
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:04:02","POSSIBLE_TI",48,5
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:04:03","TI1",49,5
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:04:07","Restart",50,5
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:04:08","AT1",51,5
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:04:14","POSSIBLE_TI",52,5
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:04:15","TI2",53,5
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:04:28","Restart",54,5
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:04:31","POSSIBLE_TI",55,5
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:04:32","TI1",56,5
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:04:36","Restart",57,5
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:04:40","SAFE2",58,5
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:04:43","AT2",59,5
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:04:45","SAFE1",60,5
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:04:58","Possible Free Kick",61,5
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:05:01","F2",63,5
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:05:01","FK1",64,5
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:05:01","Ball Position",65,5
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:05:03","Restart",66,6
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:05:06","SAFE2",67,6
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:05:12","SAFE1",68,6
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:05:13","AT1",69,6
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:05:24","DANGER1",70,6
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:05:24","DAT1",71,6
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:05:31","SAFE2",72,6
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:05:37","AT2",73,6
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:05:50","SAFE2",74,6
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:06:18","AT2",75,7
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:06:22","DANGER2",76,7
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:06:22","DAT2",77,7
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:06:49","SAFE1",78,7
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:06:54","AT1",79,7
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:06:57","DANGER1",80,7
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:06:57","DAT1",81,7
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:07:02","SAFE2",82,8
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:07:53","AT1",83,8
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:07:56","SAFE1",84,8
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:08:08","AT1",85,9
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:08:14","DANGER1",86,9
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:08:14","DAT1",87,9
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:08:20","SAFE2",88,9
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:08:48","AT2",89,9
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:08:51","DANGER2",90,9
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:08:51","DAT2",91,9
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:09:01","SHB2",92,9
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:09:05","SAFE1",93,10
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:09:08","GK1",94,10
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:09:14","Restart",95,10
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:09:20","AT2",96,10
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:09:27","SAFE2",97,10
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:09:46","POSSIBLE_TI",98,10
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:09:46","TI2",99,10
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:09:52","Restart",100,10
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:09:54","SAFE1",101,10
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:10:08","AT1",102,11
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:10:18","SAFE2",103,11
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:10:20","AT2",104,11
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:10:26","SAFE2",105,11
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:10:52","AT2",106,11
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:10:54","DANGER2",107,11
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:10:54","DAT2",108,11
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:11:04","Possible Free Kick",109,12
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:11:12","F1",111,12
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:11:12","FK2",112,12
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:11:12","DFK2",113,12
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:11:13","Ball Position",114,12
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:12:10","Restart",115,13
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:12:18","PCR2",116,13
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:12:28","SHW2",117,13
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:12:38","CR2",118,13
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:12:40","Ball Position",119,13
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:12:50","Restart",120,13
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:13:08","SAFE1",121,14
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:13:10","GK1",122,14
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:13:22","Restart",123,14
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:13:26","AT1",124,14
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:13:42","SAFE1",125,14
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:13:59","AT2",126,14
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:14:00","POSSIBLE_TI",127,14
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:14:02","TI2",128,15
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:14:16","Restart",129,15
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:14:27","DANGER2",130,15
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:14:27","DAT2",131,15
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:14:35","SHB2",132,15
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:14:40","SAFE1",133,15
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:14:41","GK1",134,15
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:14:44","Restart",135,15
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:14:50","AT1",136,15
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:14:56","POSSIBLE_TI",137,15
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:14:56","TI1",138,15
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:15:08","Restart",139,16
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:15:13","SAFE1",140,16
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:15:24","SAFE2",141,16
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:15:42","SAFE1",142,16
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:15:43","POSSIBLE_TI",143,16
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:15:44","TI1",144,16
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:15:50","Restart",145,16
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:15:51","AT1",146,16
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:15:58","SAFE1",147,16
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:16:02","AT1",148,17
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:16:12","SAFE2",149,17
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:16:13","POSSIBLE_TI",150,17
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:16:14","TI2",151,17
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:16:15","Restart",152,17
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:16:17","AT1",153,17
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:16:23","DANGER1",154,17
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:16:23","DAT1",155,17
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:16:32","SHB1",156,17
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:16:33","SAFE2",157,17
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:16:34","GK2",158,17
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:16:50","Restart",159,17
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:17:31","AT2",160,18
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:17:40","Possible Free Kick",161,18
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:17:50","F1",163,18
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:17:50","FK2",164,18
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:17:50","Ball Position",165,18
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:17:50","DANGER2",166,18
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:17:50","DFK2",167,18
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:18:11","Restart",168,19
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:18:16","GOAL2",169,19
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:19:13","Assist",170,20
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:19:22","CONF_GOAL2",171,20
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:19:23","Scorer",172,20
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:19:23","KO1",173,20
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:19:23","SAFE1",174,20
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:19:29","AT2",175,20
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:19:31","DANGER2",176,20
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:19:31","DAT2",177,20
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:19:38","SAFE1",178,20
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:19:43","Scorer",179,20
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:19:43","Player_DATA_CONFIRMED",180,20
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:19:44","AT2",181,20
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:19:46","POSSIBLE_TI",182,20
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:19:46","TI2",183,20
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:19:48","Restart",184,20
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:19:51","DANGER2",185,20
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:19:51","DAT2",186,20
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:20:11","SAFE2",187,21
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:20:23","AT2",188,21
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:20:26","DANGER2",189,21
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:20:26","DAT2",190,21
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:20:44","SAFE2",191,21
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:20:51","AT2",192,21
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:21:01","DANGER2",193,21
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:21:01","DAT2",194,21
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:21:07","SAFE1",195,22
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:21:24","Injury Break",196,22
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:22:42","Referee Ball",197,23
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:22:43","Restart",198,23
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:22:53","AT1",199,23
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:22:58","SAFE1",200,23
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:23:04","AT1",201,24
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:23:09","DANGER1",202,24
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:23:09","DAT1",203,24
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:23:22","SHB1",204,24
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:23:22","SAFE2",205,24
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:23:23","GK2",206,24
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:23:35","Restart",207,24
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:23:41","POSSIBLE_TI",208,24
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:23:43","TI2",209,24
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:23:44","Restart",210,24
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:23:51","AT2",211,24
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:23:58","DANGER2",212,24
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:23:58","DAT2",213,24
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:24:04","SAFE1",214,25
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:24:20","SAFE2",215,25
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:24:20","POSSIBLE_TI",216,25
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:24:21","TI2",217,25
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:24:22","Restart",218,25
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:24:23","AT2",219,25
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:24:24","DANGER2",220,25
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:24:24","DAT2",221,25
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:25:00","PCR2",222,25
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:25:12","SHB2",223,26
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:25:20","CR2",224,26
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:25:22","Ball Position",225,26
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:25:45","Restart",226,26
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:25:54","SHB2",227,26
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:25:56","SAFE1",228,26
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:25:56","GK1",229,26
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:26:00","Restart",230,26
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:26:01","SAFE2",231,26
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:26:18","AT2",232,27
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:26:20","SAFE1",233,27
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:26:32","AT1",234,27
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:26:38","DANGER1",235,27
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:26:38","DAT1",236,27
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:26:42","SAFE2",237,27
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:27:09","AT2",238,28
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:27:12","SAFE2",239,28
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:27:17","AT2",240,28
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:27:18","SAFE2",241,28
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:27:21","AT2",242,28
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:27:37","DANGER2",243,28
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:27:37","DAT2",244,28
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:27:44","SAFE1",245,28
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:27:48","POSSIBLE_TI",246,28
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:27:49","TI1",247,28
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:27:55","Restart",248,28
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:27:58","SAFE2",249,28
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:28:13","AT1",250,29
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:28:21","SAFE2",251,29
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:28:23","AT2",252,29
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:28:38","SAFE1",253,29
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:28:39","POSSIBLE_TI",254,29
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:28:39","TI1",255,29
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:28:42","Restart",256,29
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:28:57","AT1",257,29
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:28:59","SAFE2",258,29
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:29:00","AT2",259,29
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:29:03","DANGER2",260,30
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:29:03","DAT2",261,30
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:29:17","SAFE2",262,30
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:29:21","AT2",263,30
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:29:37","SAFE2",264,30
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:29:40","AT2",265,30
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:29:43","SAFE2",266,30
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:29:50","AT2",267,30
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:29:55","SAFE2",268,30
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:29:56","AT2",269,30
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:30:01","DANGER2",270,30
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:30:01","DAT2",271,30
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:30:21","SAFE2",272,31
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:30:24","AT2",273,31
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:30:28","SAFE2",274,31
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:30:31","AT2",275,31
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:30:41","SAFE2",276,31
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:31:02","AT2",277,32
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:31:08","Possible Free Kick",278,32
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:31:11","F1",280,32
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:31:11","FK2",281,32
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:31:11","Ball Position",282,32
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:31:11","DANGER2",283,32
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:31:11","DFK2",284,32
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:31:12","Restart",285,32
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:31:20","SAFE1",286,32
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:31:25","SAFE2",287,32
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:31:43","SAFE1",288,32
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:31:45","AT1",289,32
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:31:56","SAFE2",290,32
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:32:14","AT1",291,33
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:32:23","DANGER1",292,33
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:32:23","DAT1",293,33
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:32:27","SAFE2",294,33
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:32:45","AT2",295,33
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:32:53","POSSIBLE_TI",296,33
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:32:55","TI2",297,33
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:33:05","Restart",298,34
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:33:20","SAFE2",299,34
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:33:26","AT2",300,34
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:33:30","SAFE1",301,34
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:33:33","SAFE2",302,34
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:33:53","AT2",303,34
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:34:01","SAFE2",304,34
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:34:09","AT2",305,35
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:34:19","SAFE1",306,35
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:34:22","Possible Free Kick",307,35
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:34:43","F2",309,35
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:34:43","FK1",310,35
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:34:43","Ball Position",311,35
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:34:43","DANGER1",312,35
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:34:43","DFK1",313,35
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:34:51","Restart",314,35
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:35:01","PCR1",315,35
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:35:11","POSSIBLE_CARDS",316,36
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:35:13","YC2",317,36
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:35:14","CONF_YC2",318,36
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:35:19","Scorer",319,36
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:35:22","CR1",320,36
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:35:25","Ball Position",321,36
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:35:44","Restart",322,36
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:36:02","SAFE2",323,37
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:36:10","AT1",324,37
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:36:13","DANGER1",325,37
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:36:13","DAT1",326,37
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:36:21","SAFE2",327,37
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:36:25","AT2",328,37
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:36:33","SAFE1",329,37
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:36:37","AT1",330,37
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:36:42","SAFE2",331,37
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:36:51","AT1",332,37
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:37:05","DANGER1",333,38
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:37:05","DAT1",334,38
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:37:17","SHB1",335,38
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:37:18","SAFE2",336,38
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:37:20","GK2",337,38
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:37:39","Restart",338,38
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:37:43","SAFE1",339,38
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:37:48","AT1",340,38
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:37:52","DANGER1",341,38
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:37:52","DAT1",342,38
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:38:09","SHB1",343,39
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:38:11","SAFE2",344,39
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:38:14","GK2",345,39
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:38:24","Restart",346,39
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:38:32","SAFE1",347,39
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:38:33","POSSIBLE_TI",348,39
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:38:34","TI1",349,39
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:38:37","Restart",350,39
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:38:43","Scorer",351,39
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:38:44","Player_DATA_CONFIRMED",352,39
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:38:44","AT2",353,39
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:38:50","Possible Free Kick",354,39
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:38:54","F1",356,39
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:38:54","FK2",357,39
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:38:54","Ball Position",358,39
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:38:54","DANGER2",359,39
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:38:54","DFK2",360,39
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:39:04","Restart",361,40
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:39:13","SAFE2",362,40
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:39:22","SAFE1",363,40
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:39:32","AT1",364,40
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:39:35","SAFE2",365,40
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:39:39","AT2",366,40
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:39:42","DANGER2",367,40
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:39:42","DAT2",368,40
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:39:47","PCR2",369,40
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:39:58","CR2",370,40
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:40:01","Ball Position",371,40
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:40:26","Restart",372,41
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:40:36","SAFE2",373,41
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:40:48","SAFE1",374,41
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:40:56","AT2",375,41
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:40:58","POSSIBLE_TI",376,41
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:40:59","TI2",377,41
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:41:16","Restart",378,42
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:41:17","DANGER2",379,42
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:41:17","DAT2",380,42
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:41:22","SAFE1",381,42
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:41:24","Possible Free Kick",382,42
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:41:26","F2",384,42
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:41:26","FK1",385,42
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:41:26","Ball Position",386,42
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:41:37","Restart",387,42
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:41:39","AT1",388,42
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:41:43","SAFE1",389,42
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:41:45","AT1",390,42
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:41:48","SAFE2",391,42
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:42:23","AT2",392,43
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:42:28","DANGER2",393,43
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:42:28","DAT2",394,43
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:42:38","SHB2",395,43
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:42:40","SAFE1",396,43
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:42:41","GK1",397,43
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:42:52","Restart",398,43
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:42:56","AT1",399,43
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:42:57","SAFE1",400,43
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:43:03","AT2",401,44
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:43:06","Possible Free Kick",402,44
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:43:10","F1",404,44
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:43:10","FK2",405,44
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:43:10","Ball Position",406,44
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:43:10","DANGER2",407,44
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:43:10","DFK2",408,44
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:43:18","Restart",409,44
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:43:19","SAFE2",410,44
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:43:24","AT2",411,44
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:43:42","SAFE2",412,44
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:43:48","AT2",413,44
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:43:49","DANGER2",414,44
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:43:49","DAT2",415,44
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:43:51","SAFE1",416,44
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:44:03","SAFE2",417,45
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:44:20","AT2",418,45
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:44:25","SAFE1",419,45
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:44:26","POSSIBLE_TI",420,45
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:44:27","TI1",421,45
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:44:28","Restart",422,45
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:44:31","SAFE2",423,45
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:44:37","SAFE1",424,45
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:44:46","AT2",425,45
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:44:51","DANGER2",426,45
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:44:51","DAT2",427,45
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:45:06","SAFE2",428,46
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:45:09","AT2",429,46
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:45:14","SAFE2",430,46
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:45:45","Extra Time",431,46
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:45:47","AT2",432,46
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:45:49","SAFE2",433,46
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:45:54","AT2",434,46
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:46:06","Stop RT1",435,46
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:46:32","CONF_PERIOD_SCORE",436,45
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:58:59","Transmission Online",437,45
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 18:58:59","Players are coming out",438,45
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:00:15","SUB1",439,45
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:00:16","Game about to start",440,45
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:00:38","Start RT2 Team 2",441,46
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:00:39","SAFE2",442,46
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:00:57","Restart",443,46
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:00:57","AT2",444,46
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:01:01","DANGER2",445,46
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:01:01","DAT2",446,46
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:01:06","PCR2",447,46
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:01:12","SHG2",448,46
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:01:21","CR2",449,46
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:01:24","Ball Position",450,46
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:01:42","Restart",451,47
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:01:52","SAFE1",452,47
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:01:56","POSSIBLE_TI",453,47
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:01:57","TI1",454,47
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:02:00","Restart",455,47
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:02:03","AT1",456,47
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:02:08","Possible Free Kick",457,47
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:02:14","F2",459,47
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:02:14","FK1",460,47
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:02:14","Ball Position",461,47
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:02:14","DANGER1",462,47
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:02:14","DFK1",463,47
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:02:35","Restart",464,47
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:02:42","SAFE2",465,48
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:02:43","Player_DATA_CONFIRMED",466,48
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:02:44","GK2",467,48
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:03:00","Restart",468,48
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:03:07","AT1",469,48
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:03:09","Possible Free Kick",470,48
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:03:11","F2",472,48
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:03:11","FK1",473,48
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:03:12","Ball Position",474,48
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:03:12","DANGER1",475,48
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:03:12","DFK1",476,48
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:03:13","Restart",477,48
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:03:16","SAFE2",478,48
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:03:19","Possible Free Kick",479,48
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:03:23","F1",481,48
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:03:23","FK2",482,48
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:03:24","Ball Position",483,48
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:03:31","Restart",484,48
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:03:44","AT1",485,49
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:03:53","DANGER1",486,49
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:03:53","DAT1",487,49
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:03:53","POSSIBLE_TI",488,49
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:03:54","TI1",489,49
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:03:55","Restart",490,49
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:04:11","SHB1",491,49
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:04:11","SAFE2",492,49
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:04:14","GK2",493,49
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:04:23","Restart",494,49
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:04:31","POSSIBLE_TI",495,49
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:04:32","TI2",496,49
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:04:41","Restart",497,50
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:04:46","POSSIBLE_TI",498,50
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:04:47","TI2",499,50
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:04:51","Restart",500,50
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:05:00","POSSIBLE_CARDS",501,50
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:05:19","Injury Break",502,50
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:05:42","YC1",503,51
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:05:43","CONF_YC1",504,51
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:05:48","Scorer",505,51
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:05:52","Possible Free Kick",506,51
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:06:01","Restart",508,51
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:06:02","F1",509,51
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:06:02","FK2",510,51
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:06:02","Ball Position",511,51
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:06:02","DANGER2",512,51
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:06:02","DFK2",513,51
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:06:13","Player_DATA_CONFIRMED",514,51
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:06:33","Restart",515,51
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:07:07","SAFE1",516,52
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:07:10","Possible Free Kick",517,52
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:07:14","F2",519,52
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:07:14","FK1",520,52
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:07:14","Ball Position",521,52
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:07:18","Restart",522,52
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:07:21","AT1",523,52
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:07:26","Possible Free Kick",524,52
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:07:34","F2",526,52
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:07:34","FK1",527,52
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:07:34","Ball Position",528,52
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:07:34","DANGER1",529,52
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:07:34","DFK1",530,52
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:07:55","Restart",531,53
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:08:04","SAFE2",532,53
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:08:07","AT2",533,53
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:08:10","DANGER2",534,53
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:08:10","DAT2",535,53
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:08:19","GOAL2",536,53
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:09:09","CONF_GOAL2",537,54
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:09:10","Scorer",538,54
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:09:10","KO1",539,54
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:09:10","SAFE1",540,54
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:09:13","Scorer",541,54
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:09:14","Player_DATA_CONFIRMED",542,54
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:09:18","AT1",543,54
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:09:27","SAFE2",544,54
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:09:41","SAFE1",545,55
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:09:43","Assist",546,55
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:09:44","AT1",547,55
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:09:55","DANGER1",548,55
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:09:55","DAT1",549,55
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:10:19","SAFE2",550,55
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:10:20","GK2",551,55
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:10:36","Restart",552,55
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:10:45","POSSIBLE_CARDS",553,56
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:10:54","YC1",554,56
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:10:57","CONF_YC1",555,56
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:11:02","Scorer",556,56
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:11:06","Possible Free Kick",557,56
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:11:10","F1",559,56
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:11:10","FK2",560,56
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:11:10","Ball Position",561,56
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:11:10","DANGER2",562,56
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:11:10","DFK2",563,56
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:11:18","Restart",564,56
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:11:19","SAFE2",565,56
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:11:28","AT2",566,56
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:11:31","SAFE2",567,56
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:11:46","AT2",568,57
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:11:57","SAFE1",569,57
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:12:00","AT1",570,57
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:12:10","DANGER1",571,57
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:12:10","DAT1",572,57
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:12:24","SAFE2",573,57
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:12:25","Possible Free Kick",574,57
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:12:28","F1",576,57
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:12:28","FK2",577,57
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:12:28","Ball Position",578,57
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:12:44","Player_DATA_CONFIRMED",579,58
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:12:58","Restart",580,58
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:13:08","AT2",581,58
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:13:09","DANGER2",582,58
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:13:09","DAT2",583,58
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:13:19","SAFE1",584,58
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:13:21","Possible Free Kick",585,58
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:13:26","O2",587,58
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:13:26","FK1",588,58
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:13:26","Ball Position",589,58
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:13:34","Restart",590,58
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:13:38","AT1",591,58
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:13:44","DANGER1",592,59
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:13:44","DAT1",593,59
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:14:08","POSSIBLE_TI",594,59
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:14:09","TI1",595,59
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:14:11","Restart",596,59
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:14:11","SAFE1",597,59
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:14:19","AT1",598,59
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:14:26","DANGER1",599,59
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:14:26","DAT1",600,59
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:14:42","SAFE2",601,60
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:14:44","GK2",602,60
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:15:03","Restart",603,60
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:15:08","AT2",604,60
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:15:14","POSSIBLE_TI",605,60
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:15:14","TI2",606,60
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:15:30","Restart",607,60
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:15:31","DANGER2",608,60
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:15:31","DAT2",609,60
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:15:38","SAFE1",610,60
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:15:48","Possible Free Kick",611,61
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:15:50","F2",613,61
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:15:50","FK1",614,61
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:15:50","Ball Position",615,61
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:15:51","Restart",616,61
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:15:53","SAFE2",617,61
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:16:02","AT1",618,61
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:16:04","DANGER1",619,61
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:16:04","DAT1",620,61
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:16:07","GOAL1",621,61
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:16:24","Scorer",622,61
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:16:43","Player_DATA_CONFIRMED",623,62
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:16:54","CONF_GOAL1",624,62
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:16:55","KO2",625,62
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:16:55","SAFE2",626,62
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:17:11","AT2",627,62
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:17:13","Assist",628,62
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:17:21","DANGER2",629,62
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:17:21","DAT2",630,62
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:17:29","PCR2",631,62
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:17:36","NCR2",632,62
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:17:37","SAFE1",633,62
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:17:42","Possible Free Kick",634,63
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:17:43","F2",636,63
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:17:43","FK1",637,63
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:17:43","Ball Position",638,63
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:17:44","Restart",639,63
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:17:49","AT1",640,63
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:17:55","SAFE2",641,63
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:18:06","POSSIBLE_TI",642,63
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:18:07","TI2",643,63
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:18:24","Restart",644,63
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:18:27","AT1",645,63
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:18:29","DANGER1",646,63
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:18:29","DAT1",647,63
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:18:34","SAFE2",648,63
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:18:40","Possible Free Kick",649,64
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:18:42","F1",651,64
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:18:42","FK2",652,64
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:18:42","Ball Position",653,64
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:18:55","Restart",654,64
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:19:06","SAFE1",655,64
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:19:18","AT1",656,64
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:19:26","DANGER1",657,64
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:19:26","DAT1",658,64
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:19:29","SAFE2",659,64
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:19:31","GK2",660,64
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:19:45","Restart",661,65
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:20:12","SAFE1",662,65
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:20:14","Possible Free Kick",663,65
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:20:20","F2",665,65
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:20:20","FK1",666,65
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:20:20","Ball Position",667,65
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:20:20","DANGER1",668,65
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:20:20","DFK1",669,65
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:20:26","Restart",670,65
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:20:37","SAFE2",671,65
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:20:41","Possible Free Kick",672,66
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:20:45","F1",674,66
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:20:45","FK2",675,66
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:20:45","Ball Position",676,66
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:20:50","POSSIBLE_CARDS",677,66
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:20:52","YC1",678,66
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:20:55","CONF_YC1",679,66
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:20:56","Scorer",680,66
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:21:13","Scorer",681,66
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:21:13","Player_DATA_CONFIRMED",682,66
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:21:18","Restart",683,66
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:21:22","AT2",684,66
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:21:23","SAFE1",685,66
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:21:24","POSSIBLE_TI",686,66
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:21:25","TI1",687,66
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:21:29","Restart",688,66
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:21:35","SAFE2",689,66
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:21:42","SAFE1",690,67
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:21:51","AT1",691,67
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:21:56","SAFE1",692,67
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:22:02","AT1",693,67
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:22:06","SAFE2",694,67
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:22:07","POSSIBLE_TI",695,67
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:22:08","TI2",696,67
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:22:28","Restart",697,67
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:22:32","AT1",698,67
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:22:38","DANGER1",699,68
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:22:38","DAT1",700,68
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:22:55","POSSIBLE_TI",701,68
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:22:56","TI2",702,68
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:23:01","Restart",703,68
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:23:02","SAFE2",704,68
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:23:07","AT2",705,68
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:23:13","SAFE1",706,68
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:23:14","AT1",707,68
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:23:18","DANGER1",708,68
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:23:18","DAT1",709,68
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:23:25","PCR1",710,68
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:23:29","CR1",711,68
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:23:31","Ball Position",712,68
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:23:37","Restart",713,68
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:23:44","SAFE2",714,69
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:23:49","Possible Free Kick",715,69
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:23:50","F2",717,69
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:23:50","FK1",718,69
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:23:50","Ball Position",719,69
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:23:50","DANGER1",720,69
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:23:50","DFK1",721,69
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:24:03","Restart",722,69
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:24:09","SAFE1",723,69
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:24:10","AT1",724,69
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:24:12","DANGER1",725,69
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:24:12","DAT1",726,69
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:24:21","SHG1",727,69
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:24:23","SAFE2",728,69
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:24:38","SAFE1",729,70
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:24:49","AT1",730,70
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:24:53","DANGER1",731,70
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:24:53","DAT1",732,70
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:24:56","PCR1",733,70
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:25:00","CR1",734,70
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:25:02","Ball Position",735,70
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:25:21","Restart",736,70
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:25:33","SAFE2",737,70
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:25:43","AT1",738,71
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:25:47","Possible Free Kick",739,71
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:25:50","F2",741,71
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:25:50","FK1",742,71
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:25:50","Ball Position",743,71
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:25:50","DANGER1",744,71
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:25:50","DFK1",745,71
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:26:00","SUB2",746,71
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:26:06","Restart",747,71
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:26:11","POSSIBLE_TI",748,71
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:26:12","TI1",749,71
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:26:15","Restart",750,71
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:26:31","PCR1",751,71
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:26:35","CR1",752,71
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:26:37","Ball Position",753,71
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:26:39","Restart",754,72
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:26:47","SAFE2",755,72
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:26:50","Player_DATA_CONFIRMED",756,72
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:26:50","SAFE1",757,72
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:27:07","AT2",758,72
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:27:16","SAFE2",759,72
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:27:30","AT2",760,72
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:27:33","DANGER2",761,72
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:27:33","DAT2",762,72
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:27:40","SAFE1",763,73
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:27:43","AT1",764,73
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:27:48","DANGER1",765,73
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:27:48","DAT1",766,73
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:28:17","SAFE2",767,73
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:28:17","POSSIBLE_TI",768,73
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:28:18","TI2",769,73
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:28:36","Restart",770,73
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:28:44","AT1",771,74
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:28:48","DANGER1",772,74
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:28:48","DAT1",773,74
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:28:56","SHW1",774,74
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:29:04","SAFE2",775,74
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:29:04","GK2",776,74
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:29:09","Restart",777,74
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:29:15","AT2",778,74
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:29:23","SAFE2",779,74
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:29:32","AT2",780,74
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:29:50","SAFE2",781,75
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:30:10","POSSIBLE_TI",782,75
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:30:10","TI2",783,75
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:30:16","Restart",784,75
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:30:23","Possible Free Kick",785,75
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:30:27","F1",787,75
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:30:27","FK2",788,75
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:30:27","Ball Position",789,75
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:30:44","SUB2",790,76
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:30:58","Restart",791,76
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:31:02","SAFE1",792,76
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:31:06","AT1",793,76
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:31:11","SAFE2",794,76
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:31:13","AT2",795,76
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:31:14","Player_DATA_CONFIRMED",796,76
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:31:16","SAFE1",797,76
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:31:17","AT1",798,76
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:31:32","SAFE2",799,76
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:31:33","POSSIBLE_TI",800,76
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:31:33","TI2",801,76
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:31:48","Restart",802,77
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:31:51","AT2",803,77
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:31:59","SAFE2",804,77
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:32:02","AT2",805,77
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:32:05","DANGER2",806,77
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:32:05","DAT2",807,77
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:32:15","SAFE1",808,77
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:32:19","Possible Free Kick",809,77
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:32:20","F2",811,77
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:32:20","FK1",812,77
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:32:20","Ball Position",813,77
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:32:29","Restart",814,77
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:32:36","AT1",815,77
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:32:37","Possible Free Kick",816,77
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:32:40","F2",818,78
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:32:40","FK1",819,78
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:32:40","Ball Position",820,78
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:32:40","DANGER1",821,78
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:32:40","DFK1",822,78
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:32:57","Restart",823,78
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:33:06","SAFE2",824,78
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:33:11","AT2",825,78
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:33:16","SAFE1",826,78
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:33:28","AT1",827,78
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:33:44","SAFE2",828,79
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:33:44","POSSIBLE_TI",829,79
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:33:45","TI2",830,79
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:34:02","SUB1",831,79
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:34:13","Player_DATA_CONFIRMED",832,79
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:34:19","Restart",833,79
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:34:30","AT2",834,79
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:34:37","Possible Free Kick",835,79
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:34:45","F1",837,80
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:34:45","FK2",838,80
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:34:45","Ball Position",839,80
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:34:45","DANGER2",840,80
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:34:45","DFK2",841,80
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:34:47","Restart",842,80
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:35:12","SAFE1",843,80
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:35:13","AT1",844,80
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:35:16","DANGER1",845,80
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:35:16","DAT1",846,80
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:35:28","SAFE2",847,80
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:35:31","AT2",848,80
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:35:40","SAFE2",849,81
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:35:46","AT2",850,81
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:35:52","SAFE2",851,81
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:36:01","SAFE1",852,81
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:36:02","AT1",853,81
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:36:04","DANGER1",854,81
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:36:04","DAT1",855,81
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:36:10","SHG1",856,81
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:36:12","SAFE2",857,81
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:36:23","AT1",858,81
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:36:35","POSSIBLE_TI",859,81
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:36:35","TI2",860,81
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:36:39","Restart",861,82
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:36:39","SAFE2",862,82
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:36:51","AT2",863,82
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:37:00","DANGER2",864,82
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:37:00","DAT2",865,82
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:37:13","SAFE1",866,82
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:37:17","AT1",867,82
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:37:25","POSSIBLE_CARDS",868,82
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:37:37","YC2",869,82
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:37:37","CONF_YC2",870,82
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:37:38","Scorer",871,83
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:37:41","Possible Free Kick",872,83
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:37:44","F2",874,83
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:37:44","FK1",875,83
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:37:44","Ball Position",876,83
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:37:44","DANGER1",877,83
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:37:44","DFK1",878,83
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:38:20","Restart",879,83
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:38:31","SAFE2",880,83
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:38:32","GK2",881,83
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:38:44","Scorer",882,84
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:38:44","Player_DATA_CONFIRMED",883,84
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:38:56","Restart",884,84
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:39:04","SAFE1",885,84
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:39:04","POSSIBLE_TI",886,84
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:39:05","TI1",887,84
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:39:06","Restart",888,84
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:39:12","SAFE2",889,84
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:39:22","POSSIBLE_TI",890,84
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:39:23","TI1",891,84
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:39:24","Restart",892,84
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:39:28","AT1",893,84
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:39:32","Possible Free Kick",894,84
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:39:36","F2",896,84
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:39:36","FK1",897,84
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:39:36","Ball Position",898,84
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:39:36","DANGER1",899,84
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:39:36","DFK1",900,84
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:39:48","Restart",901,85
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:40:08","SAFE2",902,85
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:40:17","POSSIBLE_CARDS",903,85
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:40:20","YC1",904,85
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:40:21","CONF_YC1",905,85
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:40:21","Scorer",906,85
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:40:25","Possible Free Kick",907,85
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:40:30","F1",909,85
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:40:30","FK2",910,85
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:40:30","Ball Position",911,85
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:40:57","Restart",912,86
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:41:01","AT2",913,86
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:41:08","DANGER2",914,86
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:41:08","DAT2",915,86
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:41:14","SAFE1",916,86
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:41:22","SAFE2",917,86
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:41:22","POSSIBLE_TI",918,86
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:41:23","TI2",919,86
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:41:28","Restart",920,86
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:41:36","SAFE1",921,86
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:41:46","AT1",922,87
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:41:49","DANGER1",923,87
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:41:49","DAT1",924,87
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:41:58","SHG1",925,87
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:42:00","SAFE2",926,87
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:42:03","AT2",927,87
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:42:06","SAFE1",928,87
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:42:12","AT1",929,87
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:42:15","POSSIBLE_TI",930,87
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:42:16","TI1",931,87
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:42:18","Restart",932,87
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:42:20","DANGER1",933,87
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:42:20","DAT1",934,87
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:42:25","SAFE2",935,87
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:42:26","GK2",936,87
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:42:44","Scorer",937,88
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:42:44","Player_DATA_CONFIRMED",938,88
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:42:45","SUB1",939,88
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:43:03","Restart",940,88
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:43:14","Player_DATA_CONFIRMED",941,88
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:43:15","Possible Free Kick",942,88
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:43:21","F1",944,88
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:43:21","FK2",945,88
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:43:21","Ball Position",946,88
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:43:56","Restart",947,89
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:44:02","SAFE1",948,89
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:44:08","POSSIBLE_TI",949,89
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:44:08","TI1",950,89
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:44:18","Restart",951,89
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:44:20","AT1",952,89
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:44:30","DANGER1",953,89
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:44:30","DAT1",954,89
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:44:36","Possible Free Kick",955,89
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:44:39","F2",957,90
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:44:39","FK1",958,90
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:44:39","DFK1",959,90
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:44:39","Ball Position",960,90
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:45:28","Restart",961,90
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:45:34","SAFE2",962,90
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:45:35","GK2",963,90
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:45:51","SUB2",964,91
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:46:14","Extra Time",965,91
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:46:16","Restart",966,91
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:46:23","AT1",967,91
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:46:42","SAFE2",968,92
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:46:43","Player_DATA_CONFIRMED",969,92
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:46:43","AT1",970,92
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:47:03","POSSIBLE_TI",971,92
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:47:05","TI1",972,92
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:47:06","Restart",973,92
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:47:10","DANGER1",974,92
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:47:10","DAT1",975,92
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:47:15","POSSIBLE_TI",976,92
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:47:16","TI1",977,92
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:47:19","Restart",978,92
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:47:37","SHB1",979,92
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:47:42","SAFE2",980,93
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:47:44","GK2",981,93
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:48:04","Restart",982,93
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:48:12","SAFE1",983,93
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:48:15","AT1",984,93
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:48:19","SAFE2",985,93
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:48:22","AT2",986,93
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:48:33","SAFE2",987,93
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:48:44","Stop RT2",988,93
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:48:44","Stop Game",989,93
+1184474,"Toulouse FC","FC Girondins de Bordeaux","10/05/2019 19:48:50","CONF_PERIOD_SCORE",990,93

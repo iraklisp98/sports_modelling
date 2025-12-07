@@ -1,0 +1,800 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 15:00:43","Lineup changed",0,0
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 15:01:17","Transmission Online",1,0
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 15:01:17","Scout in Stadion",2,0
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 15:08:35","GCC",3,0
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 15:46:27","Jersey Changed",4,0
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 15:46:28","Jersey Changed",5,0
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 15:56:15","Players are coming out",6,0
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 15:56:39","Players lined up",7,0
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 15:57:01","Shake hands",8,0
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 15:57:39","Photo taking",9,0
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 15:59:37","Game about to start",10,0
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:00:06","Start RT1 Team 1",11,1
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:00:09","System Message",12,1
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:00:18","SAFE1",13,1
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:00:27","AT1",14,1
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:00:30","SAFE2",15,1
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:00:30","POSSIBLE_TI",16,1
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:00:31","TI2",17,1
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:00:40","Restart",18,1
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:01:16","AT1",19,2
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:01:17","SAFE2",20,2
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:01:26","AT2",21,2
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:01:26","DANGER2",22,2
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:01:26","DAT2",23,2
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:01:35","BLOCKED2",24,2
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:01:52","BLOCKED2",25,2
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:02:06","SAFE2",26,3
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:02:14","AT2",27,3
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:02:15","DANGER2",28,3
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:02:15","DAT2",29,3
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:02:25","SAFE1",30,3
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:02:35","AT1",31,3
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:02:45","SAFE1",32,3
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:03:04","AT1",33,3
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:03:09","Possible Free Kick",34,4
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:03:12","F2",36,4
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:03:12","FK1",37,4
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:03:12","DANGER1",38,4
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:03:12","DFK1",39,4
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:03:12","Ball Position",40,4
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:03:26","Restart",41,4
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:03:28","BREAKAWAY1",42,4
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:03:31","GOAL1",43,4
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:04:28","CONF_GOAL1",44,5
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:04:29","Scorer",45,5
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:04:29","KO2",46,5
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:04:29","SAFE2",47,5
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:04:44","POSSIBLE_TI",48,5
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:04:44","TI2",49,5
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:04:57","Restart",50,5
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:04:58","AT2",51,5
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:04:58","Player_DATA_CONFIRMED",52,5
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:05:01","SAFE1",53,5
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:05:12","AT2",54,6
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:05:15","Possible Free Kick",55,6
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:05:16","F1",57,6
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:05:16","FK2",58,6
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:05:17","DANGER2",59,6
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:05:17","DFK2",60,6
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:05:17","Ball Position",61,6
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:05:27","Restart",62,6
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:05:48","AT1",63,6
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:05:48","DANGER1",64,6
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:05:48","DAT1",65,6
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:05:50","SAFE2",66,6
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:05:55","SAFE1",67,6
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:06:10","AT1",68,7
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:06:11","DANGER1",69,7
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:06:11","DAT1",70,7
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:06:20","SAFE2",71,7
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:06:27","AT2",72,7
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:06:30","Possible Free Kick",73,7
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:06:32","SAFE1",75,7
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:06:32","O2",76,7
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:06:32","FK1",77,7
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:06:32","Ball Position",78,7
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:06:52","Restart",79,7
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:07:00","AT1",80,7
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:07:02","DANGER1",81,7
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:07:02","DAT1",82,7
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:07:16","SAFE1",83,8
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:07:17","AT1",84,8
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:07:22","DANGER1",85,8
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:07:22","DAT1",86,8
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:07:45","SHB1",87,8
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:07:46","SAFE2",88,8
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:07:47","GK2",89,8
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:07:56","Restart",90,8
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:08:20","AT1",91,9
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:08:28","DANGER1",92,9
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:08:28","DAT1",93,9
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:08:51","SAFE1",94,9
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:09:02","Start score update",95,9
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:09:02","Statistic confirmation",96,9
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:09:02","Score update finished",97,9
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:09:10","SAFE1",98,10
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:09:15","Possible Free Kick",99,10
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:09:19","F2",101,10
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:09:19","FK1",102,10
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:09:19","Ball Position",103,10
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:09:20","Restart",104,10
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:09:21","AT1",105,10
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:09:22","DANGER1",106,10
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:09:22","DAT1",107,10
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:09:27","SAFE2",108,10
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:10:10","AT1",109,11
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:10:12","SAFE1",110,11
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:10:45","AT1",111,11
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:10:45","DANGER1",112,11
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:10:45","DAT1",113,11
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:10:59","SAFE2",114,11
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:11:03","AT1",115,11
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:11:04","SAFE1",116,11
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:11:15","SAFE2",117,12
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:11:18","POSSIBLE_TI",118,12
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:11:19","TI2",119,12
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:11:20","Restart",120,12
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:11:38","AT2",121,12
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:11:39","SAFE2",122,12
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:11:44","AT2",123,12
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:11:45","DANGER2",124,12
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:11:45","DAT2",125,12
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:11:53","SHG2",126,12
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:11:54","SAFE1",127,12
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:12:10","AT1",128,13
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:12:19","SAFE1",129,13
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:12:25","AT1",130,13
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:12:28","DANGER1",131,13
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:12:28","DAT1",132,13
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:12:38","GOAL1",133,13
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:12:48","CONF_GOAL1",134,13
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:12:50","Scorer",135,13
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:13:18","Scout offline",136,14
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:13:35","Transmission Online",137,14
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:13:35","Start score update",138,14
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:13:43","Scorer",139,14
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:13:43","KO2",140,14
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:13:46","Score update finished",141,14
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:13:52","Scout offline",142,14
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:13:56","Transmission Online",143,14
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:13:56","Start score update",144,14
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:13:56","Statistic confirmation",145,14
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:13:56","Score update finished",146,14
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:13:58","Scorer",147,14
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:13:58","Player_DATA_CONFIRMED",148,14
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:13:59","Assist",149,14
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:14:06","AT1",150,15
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:14:13","Possible Free Kick",151,15
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:14:22","SAFE2",153,15
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:14:22","F1",154,15
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:14:22","FK2",155,15
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:14:23","Ball Position",156,15
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:14:26","Restart",157,15
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:14:33","AT2",158,15
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:14:34","SAFE1",159,15
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:15:14","AT1",160,16
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:15:19","POSSIBLE_TI",161,16
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:15:20","TI1",162,16
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:15:28","Restart",163,16
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:15:29","SAFE1",164,16
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:15:38","AT1",165,16
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:15:39","DANGER1",166,16
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:15:39","DAT1",167,16
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:15:43","SAFE2",168,16
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:16:01","SAFE2",169,16
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:16:02","AT2",170,16
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:16:10","DANGER2",171,17
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:16:10","DAT2",172,17
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:16:10","SAFE1",173,17
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:16:11","GK1",174,17
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:16:29","Restart",175,17
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:16:40","AT1",176,17
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:16:47","SAFE1",177,17
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:16:52","AT1",178,17
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:16:56","SAFE1",179,17
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:17:05","AT1",180,17
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:17:08","DANGER1",181,18
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:17:08","DAT1",182,18
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:17:12","Possible Free Kick",183,18
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:17:19","POSSIBLE_CARDS",185,18
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:17:29","NO_Cards",186,18
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:17:31","F2",187,18
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:17:31","FK1",188,18
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:17:31","DFK1",189,18
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:17:31","Ball Position",190,18
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:18:06","Restart",191,19
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:18:12","GOAL1",192,19
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:19:06","CONF_GOAL1",193,20
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:19:07","Scorer",194,20
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:19:07","KO2",195,20
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:19:07","SAFE2",196,20
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:19:28","Player_DATA_CONFIRMED",197,20
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:19:59","AT2",198,20
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:20:02","DANGER2",199,20
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:20:02","DAT2",200,20
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:20:39","SHB2",201,21
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:20:41","SAFE1",202,21
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:20:42","GK1",203,21
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:20:48","Restart",204,21
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:21:41","AT1",205,22
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:21:45","SAFE1",206,22
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:22:02","AT1",207,22
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:22:05","SAFE2",208,22
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:22:07","POSSIBLE_TI",209,23
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:22:07","TI2",210,23
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:22:16","Restart",211,23
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:22:24","AT1",212,23
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:22:25","POSSIBLE_TI",213,23
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:22:27","TI1",214,23
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:22:34","Restart",215,23
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:22:38","DANGER1",216,23
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:22:38","DAT1",217,23
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:22:50","SAFE2",218,23
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:22:51","AT2",219,23
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:22:59","SAFE1",220,23
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:23:29","AT1",221,24
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:23:35","POSSIBLE_TI",222,24
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:23:37","TI1",223,24
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:23:45","DANGER1",224,24
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:23:45","DAT1",225,24
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:23:49","Restart",226,24
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:24:11","GOAL1",227,25
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:25:16","CONF_GOAL1",228,26
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:25:17","Scorer",229,26
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:25:17","KO2",230,26
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:25:17","SAFE2",231,26
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:25:24","AT1",232,26
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:25:27","Possible Free Kick",233,26
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:25:29","Player_DATA_CONFIRMED",235,26
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:25:29","F2",236,26
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:25:29","FK1",237,26
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:25:29","DANGER1",238,26
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:25:29","DFK1",239,26
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:25:29","Ball Position",240,26
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:25:34","Restart",241,26
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:25:37","SAFE1",242,26
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:25:52","AT2",243,26
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:25:55","DANGER2",244,26
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:25:55","DAT2",245,26
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:26:17","SAFE2",246,27
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:26:23","AT2",247,27
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:26:32","DANGER2",248,27
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:26:32","DAT2",249,27
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:26:36","Possible Free Kick",250,27
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:26:39","SAFE1",252,27
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:26:40","F2",253,27
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:26:40","FK1",254,27
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:26:40","Ball Position",255,27
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:26:52","Restart",256,27
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:26:59","AT1",257,27
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:27:02","AT2",258,27
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:27:06","DANGER2",259,27
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:27:06","DAT2",260,27
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:27:14","BREAKAWAY2",261,28
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:27:19","SHG2",262,28
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:27:56","SAFE2",263,28
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:27:58","AT2",264,28
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:28:02","DANGER2",265,28
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:28:02","DAT2",266,28
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:28:09","SHG2",267,29
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:28:10","SAFE1",268,29
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:28:36","AT1",269,29
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:28:39","SAFE2",270,29
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:28:56","Possible Free Kick",271,29
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:28:57","F1",273,29
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:28:57","FK2",274,29
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:28:57","Ball Position",275,29
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:29:08","Restart",276,30
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:29:22","AT2",277,30
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:29:25","DANGER2",278,30
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:29:25","DAT2",279,30
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:29:33","PCR2",280,30
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:29:45","CR2",281,30
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:29:48","Ball Position",282,30
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:29:52","SHG2",283,30
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:29:55","Restart",284,30
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:30:14","BLOCKED2",285,31
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:30:25","SAFE2",286,31
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:30:27","AT2",287,31
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:30:28","DANGER2",288,31
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:30:28","DAT2",289,31
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:31:03","Possible Free Kick",290,31
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:31:05","F1",292,31
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:31:05","FK2",293,31
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:31:05","DFK2",294,31
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:31:05","Ball Position",295,31
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:31:06","Restart",296,32
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:31:07","SAFE2",297,32
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:31:08","AT2",298,32
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:31:20","SAFE1",299,32
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:31:38","AT2",300,32
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:31:38","DANGER2",301,32
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:31:38","DAT2",302,32
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:31:51","SAFE1",303,32
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:31:58","AT1",304,32
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:32:07","SAFE1",305,33
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:32:31","POSSIBLE_TI",306,33
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:32:33","TI1",307,33
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:32:36","Restart",308,33
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:32:48","AT1",309,33
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:32:49","SAFE2",310,33
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:32:52","POSSIBLE_TI",311,33
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:32:52","TI2",312,33
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:32:57","Restart",313,33
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:33:11","AT2",314,34
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:33:21","DANGER2",315,34
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:33:21","DAT2",316,34
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:33:46","SAFE2",317,34
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:33:52","AT2",318,34
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:33:52","DANGER2",319,34
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:33:52","DAT2",320,34
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:33:55","SAFE1",321,34
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:34:33","AT1",322,35
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:34:50","DANGER1",323,35
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:34:50","DAT1",324,35
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:34:59","SAFE2",325,35
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:34:59","GK2",326,35
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:35:12","Restart",327,36
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:35:47","AT2",328,36
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:35:54","SAFE1",329,36
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:37:06","AT2",330,38
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:37:08","POSSIBLE_TI",331,38
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:37:08","TI2",332,38
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:37:15","Restart",333,38
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:37:16","SAFE2",334,38
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:37:17","AT2",335,38
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:37:19","SAFE2",336,38
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:37:30","AT2",337,38
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:37:46","SAFE2",338,38
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:37:53","AT2",339,38
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:37:53","DANGER2",340,38
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:37:53","DAT2",341,38
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:37:58","PCR2",342,38
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:38:08","CR2",343,39
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:38:10","Ball Position",344,39
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:38:12","SHG2",345,39
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:38:28","Restart",346,39
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:38:41","SAFE2",347,39
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:38:49","SAFE1",348,39
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:39:05","AT2",349,39
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:39:07","DANGER2",350,40
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:39:07","DAT2",351,40
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:39:29","POSSIBLE_TI",352,40
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:39:30","TI2",353,40
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:39:34","Restart",354,40
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:39:39","SAFE2",355,40
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:39:50","AT2",356,40
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:39:54","DANGER2",357,40
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:39:54","DAT2",358,40
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:40:17","PCR2",359,41
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:40:20","NCR2",360,41
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:40:48","SAFE1",361,41
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:40:50","AT1",362,41
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:40:50","DANGER1",363,41
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:40:50","DAT1",364,41
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:40:55","SAFE2",365,41
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:41:06","AT2",366,42
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:41:12","SAFE2",367,42
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:41:13","AT2",368,42
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:41:15","DANGER2",369,42
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:41:15","DAT2",370,42
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:41:38","Possible Free Kick",371,42
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:41:45","F1",373,42
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:41:45","FK2",374,42
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:41:45","DFK2",375,42
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:41:45","Ball Position",376,42
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:42:13","Restart",377,43
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:42:23","POSSIBLE_TI",378,43
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:42:23","TI2",379,43
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:42:30","Restart",380,43
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:42:34","POSSIBLE_TI",381,43
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:42:36","TI2",382,43
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:42:41","Restart",383,43
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:42:46","Possible Free Kick",384,43
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:42:53","SAFE1",386,43
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:42:53","FK1",387,43
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:42:53","Ball Position",388,43
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:43:20","Restart",389,44
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:43:22","AT1",390,44
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:43:28","SAFE1",391,44
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:43:43","POSSIBLE_TI",392,44
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:43:43","TI1",393,44
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:43:54","Restart",394,44
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:44:04","AT2",395,44
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:44:07","DANGER2",396,45
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:44:07","DAT2",397,45
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:44:27","Possible Free Kick",398,45
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:44:30","SAFE1",400,45
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:44:30","F2",401,45
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:44:30","FK1",402,45
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:44:30","Ball Position",403,45
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:45:04","Restart",404,45
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:45:07","AT1",405,46
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:45:07","DANGER1",406,46
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:45:07","DAT1",407,46
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:45:18","Possible Free Kick",408,46
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:45:20","F2",410,46
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:45:20","FK1",411,46
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:45:20","DFK1",412,46
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:45:20","Ball Position",413,46
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:45:25","Extra Time",414,46
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:45:37","Restart",415,46
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:45:46","Possible Free Kick",416,46
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:45:50","SAFE2",418,46
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:45:50","O1",419,46
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:45:50","FK2",420,46
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:45:50","Ball Position",421,46
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:46:05","Restart",422,46
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:46:07","AT2",423,47
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:46:12","SAFE1",424,47
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:46:54","Possible Free Kick",425,47
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:46:57","F2",427,47
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:46:57","FK1",428,47
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:46:58","Ball Position",429,47
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:47:05","Restart",430,47
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:47:12","AT1",431,48
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:47:12","DANGER1",432,48
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:47:12","DAT1",433,48
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:47:40","Stop RT1",434,48
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 16:48:03","CONF_PERIOD_SCORE",435,45
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:00:31","Players are coming out",436,45
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:02:34","Game about to start",437,45
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:03:06","Start RT2 Team 2",438,46
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:03:11","AT2",439,46
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:03:11","DANGER2",440,46
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:03:11","DAT2",441,46
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:03:41","SAFE2",442,46
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:04:13","AT2",443,47
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:04:17","DANGER2",444,47
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:04:17","DAT2",445,47
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:04:25","SAFE1",446,47
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:04:42","AT1",447,47
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:04:48","Possible Free Kick",448,47
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:04:50","SAFE2",450,47
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:04:50","F1",451,47
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:04:50","FK2",452,47
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:04:51","Ball Position",453,47
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:05:02","Restart",454,47
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:05:19","AT2",455,48
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:05:25","DANGER2",456,48
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:05:25","DAT2",457,48
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:05:40","SAFE2",458,48
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:05:44","Start score update",459,48
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:05:44","Statistic confirmation",460,48
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:05:44","Score update finished",461,48
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:05:53","AT2",462,48
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:06:04","SAFE1",463,48
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:06:09","SAFE1",464,49
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:06:15","AT1",465,49
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:06:17","DANGER1",466,49
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:06:17","DAT1",467,49
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:06:34","SAFE1",468,49
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:06:43","AT1",469,49
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:07:01","Possible Free Kick",470,49
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:07:03","SAFE2",472,49
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:07:03","F1",473,49
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:07:03","FK2",474,49
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:07:03","Ball Position",475,49
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:07:04","Danger",476,49
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:07:04","Scout offline",477,49
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:07:07","Transmission Online",478,50
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:07:07","Start score update",479,50
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:07:07","Statistic confirmation",480,50
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:07:08","Score update finished",481,50
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:07:12","Restart",482,50
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:07:27","AT1",483,50
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:07:27","DANGER1",484,50
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:07:27","DAT1",485,50
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:07:32","PCR1",486,50
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:07:47","CR1",487,50
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:07:49","Ball Position",488,50
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:07:55","Restart",489,50
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:08:16","SHW1",490,51
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:08:32","SAFE2",491,51
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:08:34","GK2",492,51
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:08:40","Restart",493,51
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:08:59","AT2",494,51
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:09:09","DANGER2",495,52
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:09:09","DAT2",496,52
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:09:19","BLOCKED2",497,52
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:09:28","SAFE2",498,52
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:09:29","AT2",499,52
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:09:41","DANGER2",500,52
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:09:41","DAT2",501,52
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:09:53","SHB2",502,52
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:09:54","SAFE1",503,52
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:09:55","GK1",504,52
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:10:08","SUB2",505,53
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:10:20","Restart",506,53
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:10:28","CLS",507,53
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:10:30","Restart",508,53
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:10:33","AT1",509,53
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:10:37","DANGER1",510,53
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:10:37","DAT1",511,53
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:10:49","SAFE2",512,53
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:11:35","AT1",513,54
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:11:35","DANGER1",514,54
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:11:35","DAT1",515,54
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:11:43","PCR1",516,54
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:11:47","NCR1",517,54
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:11:47","POSSIBLE_TI",518,54
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:11:49","TI1",519,54
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:11:54","Restart",520,54
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:12:11","SAFE1",521,55
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:12:12","AT1",522,55
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:12:17","DANGER1",523,55
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:12:17","DAT1",524,55
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:12:40","PPEN",525,55
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:12:40","PPEN1",526,55
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:12:50","POSSIBLE_CARDS",527,55
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:12:57","NO_Cards",528,55
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:12:58","Player_DATA_CONFIRMED",529,55
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:13:16","PEN1",530,56
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:13:29","Scorer",531,56
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:13:40","GOAL1",532,56
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:14:31","CONF_GOAL1",533,57
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:14:33","Scorer",534,57
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:14:33","KO2",535,57
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:14:33","SAFE2",536,57
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:14:47","POSSIBLE_TI",537,57
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:14:48","TI2",538,57
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:14:57","Restart",539,57
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:15:02","AT1",540,57
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:15:02","DANGER1",541,57
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:15:02","DAT1",542,57
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:15:02","AT1",543,57
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:15:02","DANGER1",544,57
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:15:02","DAT1",545,57
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:15:06","Possible Free Kick",546,57
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:15:08","POSSIBLE_CARDS",548,58
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:15:31","NO_Cards",549,58
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:15:33","F2",550,58
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:15:33","FK1",551,58
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:15:33","DFK1",552,58
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:15:33","Ball Position",553,58
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:16:00","Player_DATA_CONFIRMED",554,58
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:16:05","Restart",555,58
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:16:09","SHG1",556,59
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:16:15","POSSIBLE_TI",557,59
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:16:15","TI1",558,59
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:16:29","Restart",559,59
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:16:38","SAFE2",560,59
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:16:47","Possible Free Kick",561,59
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:16:49","F1",563,59
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:16:49","FK2",564,59
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:16:49","Ball Position",565,59
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:16:50","Restart",566,59
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:17:06","AT2",567,59
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:17:09","SAFE1",568,60
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:17:10","AT1",569,60
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:17:11","DANGER1",570,60
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:17:11","DAT1",571,60
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:17:20","SHB1",572,60
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:17:22","POSSIBLE_CARDS",573,60
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:17:30","YC2",574,60
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:17:57","CONF_YC2",575,60
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:17:59","Scorer",576,60
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:18:10","SAFE2",577,61
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:18:12","AT1",578,61
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:18:16","SAFE2",579,61
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:18:17","POSSIBLE_TI",580,61
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:18:18","TI2",581,61
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:18:24","Restart",582,61
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:18:31","AT2",583,61
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:18:35","SAFE1",584,61
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:18:36","POSSIBLE_TI",585,61
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:18:37","TI1",586,61
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:18:49","Restart",587,61
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:18:49","AT1",588,61
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:18:50","DANGER1",589,61
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:18:50","DAT1",590,61
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:18:59","Player_DATA_CONFIRMED",591,61
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:19:10","POSSIBLE_TI",592,62
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:19:11","TI1",593,62
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:19:17","Restart",594,62
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:19:28","SAFE1",595,62
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:19:37","Scorer",596,62
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:19:38","AT1",597,62
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:19:39","DANGER1",598,62
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:19:39","DAT1",599,62
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:19:45","SAFE1",600,62
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:20:01","AT1",601,62
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:20:03","SAFE1",602,62
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:20:05","AT1",603,62
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:20:07","DANGER1",604,63
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:20:07","DAT1",605,63
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:20:12","BLOCKED1",606,63
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:20:24","SAFE1",607,63
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:20:32","AT1",608,63
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:20:38","SAFE2",609,63
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:20:39","AT2",610,63
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:20:39","DANGER2",611,63
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:20:39","DAT2",612,63
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:21:21","SAFE1",613,64
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:21:26","SAFE2",614,64
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:21:42","AT2",615,64
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:21:44","DANGER2",616,64
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:21:44","DAT2",617,64
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:21:56","SHB2",618,64
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:21:57","SAFE1",619,64
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:21:58","GK1",620,64
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:22:11","SUB1",621,65
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:23:06","SUB2",622,66
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:23:08","Restart",623,66
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:23:15","AT1",624,66
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:23:21","DANGER1",625,66
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:23:21","DAT1",626,66
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:23:29","Player_DATA_CONFIRMED",627,66
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:23:29","Player_DATA_CONFIRMED",628,66
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:23:38","SAFE1",629,66
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:23:44","AT1",630,66
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:23:54","DANGER1",631,66
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:23:54","DAT1",632,66
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:24:28","SHG1",633,67
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:24:31","SAFE2",634,67
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:24:40","AT1",635,67
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:24:40","POSSIBLE_TI",636,67
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:24:41","TI1",637,67
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:24:46","Restart",638,67
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:24:51","SAFE1",639,67
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:25:19","Possible Free Kick",640,68
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:25:22","F2",642,68
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:25:22","FK1",643,68
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:25:22","DANGER1",644,68
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:25:22","DFK1",645,68
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:25:22","Ball Position",646,68
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:25:42","SUB1",647,68
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:25:58","Restart",648,68
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:26:00","SAFE1",649,68
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:26:22","SAFE2",650,69
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:26:29","AT2",651,69
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:26:31","SAFE1",652,69
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:26:35","AT1",653,69
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:26:40","Possible Free Kick",654,69
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:26:42","POSSIBLE_CARDS",656,69
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:26:50","YC2",657,69
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:26:59","Player_DATA_CONFIRMED",658,69
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:27:04","CONF_YC2",659,69
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:27:05","Scorer",660,69
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:27:07","F2",661,70
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:27:07","FK1",662,70
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:27:07","DANGER1",663,70
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:27:07","DFK1",664,70
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:27:07","Ball Position",665,70
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:27:08","Restart",666,70
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:27:09","SAFE1",667,70
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:27:12","AT1",668,70
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:27:20","DANGER1",669,70
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:27:20","DAT1",670,70
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:27:28","SAFE1",671,70
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:27:55","AT1",672,70
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:27:58","Player_DATA_CONFIRMED",673,70
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:27:59","DANGER1",674,70
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:27:59","DAT1",675,70
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:28:52","SAFE2",676,71
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:28:54","SAFE1",677,71
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:28:55","POSSIBLE_TI",678,71
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:28:56","TI1",679,71
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:29:04","Restart",680,71
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:29:26","AT1",681,72
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:29:27","DANGER1",682,72
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:29:27","DAT1",683,72
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:29:44","SHB1",684,72
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:29:44","SAFE2",685,72
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:29:46","GK2",686,72
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:30:00","SUB2",687,72
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:30:53","Restart",688,73
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:30:56","AT1",689,73
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:31:10","SAFE1",690,74
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:31:19","AT1",691,74
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:31:20","SAFE1",692,74
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:31:29","Player_DATA_CONFIRMED",693,74
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:31:43","AT2",694,74
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:31:43","DANGER2",695,74
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:31:43","DAT2",696,74
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:31:51","SAFE1",697,74
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:31:55","AT1",698,74
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:31:56","DANGER1",699,74
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:31:56","DAT1",700,74
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:31:59","BREAKAWAY1",701,74
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:32:02","PCR1",702,74
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:32:06","CR1",703,74
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:32:07","Ball Position",704,75
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:32:09","SHG1",705,75
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:32:50","SUB1",706,75
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:33:11","Restart",707,76
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:33:21","PCR1",708,76
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:33:28","NCR1",709,76
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:33:29","Player_DATA_CONFIRMED",710,76
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:33:33","SHB1",711,76
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:33:34","SAFE2",712,76
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:33:35","GK2",713,76
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:33:38","Restart",714,76
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:33:44","SAFE1",715,76
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:33:49","AT1",716,76
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:33:56","SAFE2",717,76
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:34:26","AT2",718,77
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:34:29","DANGER2",719,77
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:34:29","DAT2",720,77
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:34:35","Possible Free Kick",721,77
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:34:38","POSSIBLE_CARDS",723,77
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:34:50","YC1",724,77
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:35:01","CONF_YC1",725,77
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:35:03","Scorer",726,77
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:35:05","F1",727,77
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:35:05","FK2",728,77
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:35:05","DFK2",729,77
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:35:05","Ball Position",730,77
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:35:40","Restart",731,78
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:35:44","SHG2",732,78
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:35:46","SAFE1",733,78
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:35:58","Player_DATA_CONFIRMED",734,78
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:36:23","AT1",735,79
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:36:34","DANGER1",736,79
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:36:34","DAT1",737,79
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:36:52","SAFE1",738,79
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:36:59","AT1",739,79
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:37:03","SAFE1",740,79
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:37:09","AT1",741,80
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:37:09","DANGER1",742,80
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:37:09","DAT1",743,80
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:37:28","GOAL1",744,80
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:37:45","Scorer",745,80
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:38:03","CONF_GOAL1",746,80
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:38:22","KO2",747,81
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:38:22","SAFE2",748,81
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:38:46","AT1",749,81
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:38:52","SAFE1",750,81
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:39:14","AT1",751,82
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:39:18","SAFE2",752,82
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:39:27","AT1",753,82
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:39:27","DANGER1",754,82
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:39:27","DAT1",755,82
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:39:29","Player_DATA_CONFIRMED",756,82
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:39:29","Assist",757,82
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:39:30","POSSIBLE_TI",758,82
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:39:31","TI1",759,82
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:39:38","Restart",760,82
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:39:44","SAFE1",761,82
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:39:58","AT1",762,82
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:39:59","DANGER1",763,82
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:39:59","DAT1",764,82
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:40:16","SAFE1",765,83
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:40:18","AT1",766,83
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:40:24","DANGER1",767,83
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:40:24","DAT1",768,83
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:40:32","SAFE2",769,83
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:41:09","AT2",770,84
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:41:11","DANGER2",771,84
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:41:11","DAT2",772,84
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:42:25","SAFE1",773,85
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:43:01","AT1",774,85
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:43:04","DANGER1",775,85
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:43:04","DAT1",776,85
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:43:48","Possible Free Kick",777,86
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:43:49","SAFE2",779,86
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:43:50","F1",780,86
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:43:50","FK2",781,86
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:43:50","Ball Position",782,86
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:43:53","Restart",783,86
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:44:16","SAFE1",784,87
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:44:48","AT2",785,87
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:44:48","DANGER2",786,87
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:44:48","DAT2",787,87
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:45:04","SAFE1",788,87
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:45:08","AT2",789,88
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:45:08","DANGER2",790,88
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:45:08","DAT2",791,88
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:45:13","SAFE1",792,88
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:45:14","POSSIBLE_TI",793,88
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:45:15","TI1",794,88
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:45:21","Restart",795,88
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:45:30","AT1",796,88
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:45:31","DANGER1",797,88
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:45:31","DAT1",798,88
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:45:41","SAFE2",799,88
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:45:50","SAFE1",800,88
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:46:37","AT1",801,89
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:46:39","DANGER1",802,89
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:46:39","DAT1",803,89
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:46:44","BREAKAWAY1",804,89
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:46:47","SAFE2",805,89
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:47:12","AT2",806,90
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:47:21","SAFE1",807,90
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:47:33","SAFE2",808,90
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:47:35","POSSIBLE_TI",809,90
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:47:36","TI2",810,90
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:47:38","Injury Break",811,90
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:48:20","Extra Time",812,91
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:48:35","Restart",813,91
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:48:38","SAFE1",814,91
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:50:08","AT1",815,93
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:50:09","DANGER1",816,93
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:50:09","DAT1",817,93
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:50:41","SAFE1",818,93
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:50:58","AT2",819,93
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:51:16","Stop RT2",820,93
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:51:16","Stop Game",821,93
+1081872,"Manchester City FC","Chelsea FC","02/10/2019 17:51:32","CONF_PERIOD_SCORE",822,93

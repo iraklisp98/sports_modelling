@@ -1,0 +1,811 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 18:02:05","Scout in Stadion",0,0
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 18:02:12","Transmission Online",1,0
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 18:02:21","GCC",2,0
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 18:05:35","Lineup changed",3,0
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 18:59:33","Players are coming out",4,0
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:00:01","Game about to start",5,0
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:00:19","Start RT1 Team 1",6,1
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:00:28","SAFE1",7,1
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:00:51","Jersey Changed",8,1
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:00:59","Jersey Changed",9,1
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:01:10","System Message",10,1
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:01:18","SAFE2",11,1
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:01:23","Possible Free Kick",12,2
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:01:25","F1",14,2
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:01:25","FK2",15,2
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:01:25","Ball Position",16,2
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:01:36","AT2",17,2
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:01:36","DANGER2",18,2
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:01:36","DAT2",19,2
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:02:00","SAFE2",20,2
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:02:12","AT2",21,2
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:02:12","DANGER2",22,2
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:02:12","DAT2",23,2
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:02:19","PCR2",24,3
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:02:33","CR2",25,3
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:02:34","Ball Position",26,3
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:02:38","Restart",27,3
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:02:48","POSSIBLE_TI",28,3
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:02:49","TI2",29,3
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:02:53","Restart",30,3
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:03:09","POSSIBLE_TI",31,3
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:03:10","TI1",32,3
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:03:18","Restart",33,3
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:03:21","SAFE1",34,4
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:03:24","BREAKAWAY2",35,4
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:03:27","AT2",36,4
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:03:27","DANGER2",37,4
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:03:27","DAT2",38,4
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:03:34","SHB2",39,4
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:03:46","SAFE1",40,4
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:03:46","GK1",41,4
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:04:11","Restart",42,4
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:04:17","SAFE2",43,4
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:04:37","Start score update",44,5
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:04:37","Statistic confirmation",45,5
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:04:37","Score update finished",46,5
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:04:43","SAFE2",47,5
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:04:46","AT1",48,5
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:04:51","Possible Free Kick",49,5
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:04:51","F2",51,5
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:04:51","FK1",52,5
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:04:51","DANGER1",53,5
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:04:51","DFK1",54,5
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:04:51","Ball Position",55,5
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:04:56","System Message",56,5
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:05:12","Restart",57,5
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:06:03","SAFE2",58,6
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:06:15","AT2",59,6
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:06:18","DANGER2",60,6
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:06:18","DAT2",61,6
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:06:24","PCR2",62,7
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:06:24","CR2",63,7
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:06:31","Ball Position",64,7
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:06:37","Restart",65,7
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:06:49","POSSIBLE_TI",66,7
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:06:51","TI2",67,7
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:06:51","Restart",68,7
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:06:59","SAFE1",69,7
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:07:02","GK1",70,7
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:07:26","Restart",71,8
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:07:27","Possible Free Kick",72,8
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:07:27","SAFE2",74,8
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:07:28","F1",75,8
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:07:28","FK2",76,8
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:07:28","Ball Position",77,8
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:07:28","Restart",78,8
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:07:43","AT2",79,8
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:07:48","SAFE1",80,8
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:07:52","Possible Free Kick",81,8
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:07:57","F2",83,8
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:07:57","FK1",84,8
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:07:57","Ball Position",85,8
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:08:05","Restart",86,8
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:08:10","AT1",87,8
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:08:15","Possible Free Kick",88,8
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:08:27","POSSIBLE_CARDS",90,9
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:08:27","YC2",91,9
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:08:27","CONF_YC2",92,9
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:08:27","Scorer",93,9
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:08:27","SAFE1",94,9
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:08:27","F2",95,9
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:08:27","FK1",96,9
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:08:27","Ball Position",97,9
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:08:47","Player_DATA_CONFIRMED",98,9
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:08:48","Restart",99,9
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:08:48","AT1",100,9
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:08:48","DANGER1",101,9
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:08:48","DAT1",102,9
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:08:48","Scout offline",103,9
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:09:05","Transmission Online",104,9
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:09:05","Start score update",105,9
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:09:05","Statistic confirmation",106,9
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:09:05","Score update finished",107,9
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:09:08","SAFE2",108,9
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:09:09","Possible Free Kick",109,9
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:09:09","F1",111,9
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:09:09","FK2",112,9
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:09:09","Ball Position",113,9
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:09:10","Restart",114,9
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:09:26","AT2",115,10
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:09:28","DANGER2",116,10
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:09:28","DAT2",117,10
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:09:39","SAFE1",118,10
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:09:39","Possible Free Kick",119,10
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:10:00","F2",121,10
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:10:00","FK1",122,10
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:10:00","Ball Position",123,10
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:10:06","Restart",124,10
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:10:10","AT1",125,10
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:10:15","DANGER1",126,10
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:10:15","DAT1",127,10
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:10:43","SHW1",128,11
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:10:43","Scout offline",129,11
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:10:56","Transmission Online",130,11
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:10:56","Start score update",131,11
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:10:56","Statistic confirmation",132,11
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:10:56","Score update finished",133,11
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:11:04","SHW1",134,11
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:11:04","SAFE2",135,11
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:11:04","Possible Free Kick",136,11
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:11:04","F1",138,11
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:11:04","FK2",139,11
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:11:04","Ball Position",140,11
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:11:04","Restart",141,11
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:11:05","AT2",142,11
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:11:05","DANGER2",143,11
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:11:05","DAT2",144,11
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:11:14","SAFE1",145,11
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:11:18","AT1",146,11
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:11:31","SAFE2",147,12
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:11:31","POSSIBLE_TI",148,12
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:11:31","TI2",149,12
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:11:31","Restart",150,12
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:11:48","AT2",151,12
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:12:33","DANGER2",152,13
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:12:33","DAT2",153,13
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:12:43","SHG2",154,13
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:12:45","SAFE1",155,13
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:13:01","AT2",156,13
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:13:17","DANGER2",157,13
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:13:17","DAT2",158,13
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:13:24","SAFE1",159,14
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:13:27","GK1",160,14
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:13:49","Restart",161,14
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:13:58","SAFE2",162,14
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:14:15","AT2",163,14
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:14:19","POSSIBLE_TI",164,15
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:14:19","TI2",165,15
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:14:19","Restart",166,15
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:14:19","DANGER2",167,15
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:14:19","DAT2",168,15
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:14:53","POSSIBLE_TI",169,15
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:14:55","TI2",170,15
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:15:04","Restart",171,15
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:15:50","SAFE1",172,16
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:15:52","AT1",173,16
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:15:53","DANGER1",174,16
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:15:53","DAT1",175,16
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:16:02","POSSIBLE_TI",176,16
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:16:06","TI1",177,16
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:16:15","Restart",178,16
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:16:19","SHB1",179,17
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:16:21","SAFE2",180,17
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:16:22","GK2",181,17
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:16:40","Restart",182,17
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:16:59","AT2",183,17
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:16:59","SAFE1",184,17
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:17:03","AT1",185,17
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:17:06","DANGER1",186,17
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:17:06","DAT1",187,17
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:17:10","SHB1",188,17
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:17:20","SAFE2",189,18
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:17:20","GK2",190,18
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:17:30","Restart",191,18
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:17:37","AT2",192,18
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:17:37","DANGER2",193,18
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:17:37","DAT2",194,18
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:17:43","SAFE1",195,18
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:17:46","AT1",196,18
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:17:52","DANGER1",197,18
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:17:52","DAT1",198,18
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:18:00","SAFE2",199,18
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:18:03","AT2",200,18
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:18:08","Possible Free Kick",201,18
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:18:09","F1",203,18
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:18:09","FK2",204,18
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:18:09","DANGER2",205,18
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:18:09","DFK2",206,18
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:18:09","Ball Position",207,18
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:18:13","Restart",208,18
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:18:33","SAFE1",209,19
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:18:34","AT1",210,19
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:18:36","DANGER1",211,19
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:18:36","DAT1",212,19
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:18:47","Possible Free Kick",213,19
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:18:51","F2",215,19
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:18:51","FK1",216,19
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:18:51","DFK1",217,19
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:18:51","Ball Position",218,19
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:19:36","Restart",219,20
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:19:44","SHB1",220,20
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:19:46","SAFE2",221,20
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:19:46","GK2",222,20
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:20:00","Restart",223,20
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:20:03","AT2",224,20
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:20:53","POSSIBLE_TI",225,21
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:20:57","TI2",226,21
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:21:02","Restart",227,21
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:21:12","DANGER2",228,21
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:21:12","DAT2",229,21
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:21:29","SHB2",230,22
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:21:29","SAFE1",231,22
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:21:34","GK1",232,22
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:22:03","Restart",233,22
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:22:07","Possible Free Kick",234,22
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:22:11","F2",236,22
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:22:11","FK1",237,22
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:22:11","DANGER1",238,22
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:22:11","DFK1",239,22
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:22:11","Ball Position",240,22
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:22:27","Restart",241,23
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:23:03","SAFE2",242,23
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:23:04","Possible Free Kick",243,23
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:23:04","F1",245,23
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:23:04","FK2",246,23
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:23:04","Ball Position",247,23
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:23:13","Restart",248,23
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:23:31","AT2",249,24
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:23:45","DANGER2",250,24
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:23:45","DAT2",251,24
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:24:45","SAFE1",252,25
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:24:47","Possible Free Kick",253,25
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:24:54","F2",255,25
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:24:54","FK1",256,25
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:24:54","Ball Position",257,25
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:25:07","Restart",258,25
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:25:12","AT2",259,25
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:25:18","DANGER2",260,25
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:25:18","DAT2",261,25
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:25:49","POSSIBLE_TI",262,26
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:25:53","TI1",263,26
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:26:08","Restart",264,26
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:26:10","SAFE2",265,26
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:26:30","AT2",266,27
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:26:57","DANGER2",267,27
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:26:57","DAT2",268,27
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:27:11","BLOCKED2",269,27
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:27:20","SAFE1",270,28
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:27:22","AT1",271,28
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:27:26","DANGER1",272,28
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:27:26","DAT1",273,28
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:27:35","SHG1",274,28
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:27:36","SAFE2",275,28
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:27:48","AT2",276,28
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:27:52","DANGER2",277,28
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:27:52","DAT2",278,28
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:28:43","SAFE1",279,29
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:28:46","GK1",280,29
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:28:52","Restart",281,29
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:29:14","AT1",282,29
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:29:16","DANGER1",283,29
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:29:16","DAT1",284,29
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:29:35","SAFE2",285,30
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:29:39","SAFE1",286,30
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:29:41","POSSIBLE_TI",287,30
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:29:44","TI1",288,30
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:29:53","Restart",289,30
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:29:56","AT1",290,30
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:30:05","SAFE2",291,30
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:30:05","POSSIBLE_TI",292,30
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:30:05","TI2",293,30
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:30:13","Restart",294,30
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:30:39","AT2",295,31
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:31:10","DANGER2",296,31
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:31:10","DAT2",297,31
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:31:33","SHG2",298,32
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:31:38","SAFE1",299,32
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:31:39","AT1",300,32
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:31:47","DANGER1",301,32
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:31:47","DAT1",302,32
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:31:58","SAFE2",303,32
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:32:02","AT2",304,32
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:32:18","DANGER2",305,32
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:32:18","DAT2",306,32
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:32:34","SAFE1",307,33
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:32:36","AT1",308,33
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:32:42","DANGER1",309,33
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:32:42","DAT1",310,33
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:32:43","SAFE2",311,33
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:32:44","AT2",312,33
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:32:51","DANGER2",313,33
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:32:51","DAT2",314,33
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:32:59","POSSIBLE_TI",315,33
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:33:00","TI1",316,33
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:33:12","Restart",317,33
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:33:16","SAFE1",318,33
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:33:18","AT1",319,33
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:33:21","DANGER1",320,34
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:33:21","DAT1",321,34
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:33:44","SAFE2",322,34
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:33:45","AT2",323,34
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:33:47","Possible Free Kick",324,34
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:33:48","POSSIBLE_CARDS",326,34
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:33:50","YC1",327,34
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:33:51","CONF_YC1",328,34
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:34:00","Scorer",329,34
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:34:07","F1",330,34
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:34:07","FK2",331,34
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:34:07","DANGER2",332,34
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:34:07","DFK2",333,34
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:34:07","Ball Position",334,34
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:34:14","Restart",335,34
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:34:47","Player_DATA_CONFIRMED",336,35
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:35:41","SAFE1",337,36
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:35:43","AT1",338,36
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:35:55","SAFE2",339,36
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:35:57","AT2",340,36
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:35:57","DANGER2",341,36
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:35:57","DAT2",342,36
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:35:59","Possible Free Kick",343,36
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:36:14","F1",345,36
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:36:14","FK2",346,36
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:36:14","DFK2",347,36
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:36:14","Ball Position",348,36
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:36:15","Restart",349,36
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:36:42","POSSIBLE_TI",350,37
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:36:45","TI1",351,37
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:37:02","Restart",352,37
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:37:10","Possible Free Kick",353,37
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:37:14","FK2",355,37
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:37:14","DFK2",356,37
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:37:14","Ball Position",357,37
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:37:46","Restart",358,38
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:37:51","POSSIBLE_TI",359,38
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:37:53","TI2",360,38
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:37:57","Restart",361,38
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:38:04","SAFE1",362,38
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:38:05","GK1",363,38
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:38:33","Restart",364,39
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:38:38","AT1",365,39
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:38:40","SAFE2",366,39
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:38:43","Possible Free Kick",367,39
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:38:44","F1",369,39
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:38:44","FK2",370,39
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:38:44","Ball Position",371,39
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:38:46","Restart",372,39
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:39:07","AT2",373,39
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:39:21","DANGER2",374,40
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:39:21","DAT2",375,40
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:39:39","SAFE2",376,40
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:39:47","AT2",377,40
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:39:51","DANGER2",378,40
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:39:51","DAT2",379,40
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:40:33","SAFE1",380,41
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:40:37","Possible Free Kick",381,41
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:40:40","F2",383,41
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:40:40","FK1",384,41
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:40:40","Ball Position",385,41
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:40:48","Restart",386,41
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:41:28","AT1",387,42
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:41:31","SAFE2",388,42
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:41:32","POSSIBLE_TI",389,42
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:41:35","TI2",390,42
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:41:37","Restart",391,42
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:41:58","AT2",392,42
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:42:02","POSSIBLE_TI",393,42
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:42:03","TI2",394,42
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:42:09","Restart",395,42
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:42:18","SAFE1",396,42
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:42:18","AT1",397,42
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:42:22","DANGER1",398,43
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:42:22","DAT1",399,43
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:42:37","SHG1",400,43
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:42:37","SAFE2",401,43
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:42:47","AT2",402,43
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:43:02","DANGER2",403,43
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:43:02","DAT2",404,43
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:43:57","SAFE2",405,44
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:44:11","AT2",406,44
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:44:11","SAFE1",407,44
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:44:14","AT1",408,44
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:44:17","DANGER1",409,44
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:44:17","DAT1",410,44
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:44:22","SHG1",411,45
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:44:23","SAFE2",412,45
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:44:34","AT2",413,45
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:44:38","DANGER2",414,45
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:44:38","DAT2",415,45
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:44:49","SAFE1",416,45
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:44:54","Possible Free Kick",417,45
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:44:56","POSSIBLE_CARDS",419,45
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:45:00","YC1",420,45
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:45:02","CONF_YC1",421,45
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:45:10","Scorer",422,45
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:45:24","SAFE2",423,46
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:45:24","F1",424,46
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:45:24","FK2",425,46
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:45:24","Ball Position",426,46
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:45:37","Restart",427,46
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:45:52","Stop RT1",428,46
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:46:02","CONF_PERIOD_SCORE",429,45
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:46:18","Player_DATA_CONFIRMED",430,45
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:59:54","GCC",431,45
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 19:59:56","Players are coming out",432,45
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:01:11","Game about to start",433,45
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:01:42","Start RT2 Team 2",434,46
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:01:44","SAFE2",435,46
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:02:05","AT2",436,46
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:02:23","DANGER2",437,46
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:02:23","DAT2",438,46
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:02:27","SAFE1",439,46
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:02:28","AT1",440,46
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:02:38","POSSIBLE_TI",441,46
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:02:40","TI1",442,46
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:02:46","Restart",443,47
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:02:50","SAFE2",444,47
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:03:36","AT2",445,47
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:03:40","DANGER2",446,47
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:03:40","DAT2",447,47
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:04:17","SAFE1",448,48
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:04:18","POSSIBLE_TI",449,48
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:04:18","TI1",450,48
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:04:35","Restart",451,48
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:04:40","SAFE2",452,48
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:04:41","POSSIBLE_TI",453,48
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:04:42","TI2",454,48
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:04:44","Restart",455,49
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:04:55","AT2",456,49
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:05:07","SAFE1",457,49
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:05:08","POSSIBLE_TI",458,49
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:05:09","TI1",459,49
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:05:29","Restart",460,49
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:05:33","SAFE2",461,49
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:05:58","AT2",462,50
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:06:00","SAFE1",463,50
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:06:01","AT1",464,50
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:06:04","DANGER1",465,50
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:06:04","DAT1",466,50
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:06:12","POSSIBLE_TI",467,50
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:06:14","TI1",468,50
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:06:16","Restart",469,50
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:06:23","POSSIBLE_TI",470,50
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:06:24","TI1",471,50
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:06:32","Restart",472,50
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:06:34","POSSIBLE_TI",473,50
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:06:35","TI1",474,50
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:06:40","Restart",475,50
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:06:46","SAFE2",476,51
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:06:52","Possible Free Kick",477,51
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:06:53","F1",479,51
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:06:53","FK2",480,51
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:06:53","Ball Position",481,51
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:07:03","Restart",482,51
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:07:04","AT2",483,51
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:07:24","SAFE1",484,51
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:07:25","Possible Free Kick",485,51
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:07:26","F2",487,51
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:07:26","FK1",488,51
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:07:26","Ball Position",489,51
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:07:50","Restart",490,52
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:07:52","AT1",491,52
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:08:07","SAFE2",492,52
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:08:17","AT2",493,52
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:08:21","DANGER2",494,52
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:08:21","DAT2",495,52
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:08:27","POSSIBLE_TI",496,52
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:08:31","TI2",497,52
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:08:32","Restart",498,52
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:08:52","SAFE1",499,53
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:08:57","AT1",500,53
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:08:58","DANGER1",501,53
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:08:58","DAT1",502,53
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:09:20","SAFE2",503,53
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:09:25","AT1",504,53
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:09:27","DANGER1",505,53
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:09:27","DAT1",506,53
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:09:35","SAFE2",507,53
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:09:58","AT2",508,54
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:10:11","DANGER2",509,54
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:10:11","DAT2",510,54
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:10:20","SAFE1",511,54
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:10:21","Possible Free Kick",512,54
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:10:23","POSSIBLE_CARDS",514,54
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:10:31","NO_Cards",515,54
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:10:33","F2",516,54
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:10:33","FK1",517,54
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:10:33","Ball Position",518,54
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:10:57","Restart",519,55
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:11:11","AT1",520,55
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:11:12","POSSIBLE_TI",521,55
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:11:13","TI1",522,55
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:11:25","Restart",523,55
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:11:34","DANGER1",524,55
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:11:34","DAT1",525,55
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:11:49","SAFE1",526,56
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:11:49","POSSIBLE_TI",527,56
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:11:50","TI1",528,56
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:12:05","Restart",529,56
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:12:07","AT1",530,56
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:12:08","POSSIBLE_TI",531,56
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:12:08","TI1",532,56
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:12:22","Restart",533,56
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:12:23","DANGER1",534,56
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:12:23","DAT1",535,56
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:12:30","POSSIBLE_TI",536,56
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:12:31","TI1",537,56
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:12:50","Restart",538,57
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:13:05","Scout offline",539,57
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:13:10","Transmission Online",540,57
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:13:10","Start score update",541,57
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:13:10","Statistic confirmation",542,57
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:13:10","Score update finished",543,57
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:13:11","SAFE2",544,57
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:13:12","Possible Free Kick",545,57
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:13:13","F1",547,57
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:13:13","FK2",548,57
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:13:13","Ball Position",549,57
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:13:14","Restart",550,57
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:13:26","AT2",551,57
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:13:32","SAFE1",552,57
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:13:33","AT1",553,57
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:13:37","DANGER1",554,57
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:13:37","DAT1",555,57
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:13:45","SHB1",556,58
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:13:46","SAFE2",557,58
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:13:46","GK2",558,58
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:14:11","Restart",559,58
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:14:23","AT2",560,58
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:14:29","SAFE1",561,58
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:14:30","AT1",562,58
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:14:31","DANGER1",563,58
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:14:31","DAT1",564,58
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:14:36","SHG1",565,58
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:14:37","SAFE2",566,58
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:14:57","AT2",567,59
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:15:08","DANGER2",568,59
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:15:08","DAT2",569,59
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:15:39","PCR2",570,59
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:15:42","CR2",571,59
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:15:44","Ball Position",572,60
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:15:55","Restart",573,60
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:15:59","POSSIBLE_TI",574,60
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:15:59","TI2",575,60
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:16:12","Restart",576,60
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:16:16","POSSIBLE_TI",577,60
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:16:17","TI1",578,60
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:16:36","Restart",579,60
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:16:48","SAFE1",580,61
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:16:49","Possible Free Kick",581,61
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:16:50","F2",583,61
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:16:50","FK1",584,61
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:16:50","Ball Position",585,61
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:17:14","Restart",586,61
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:17:15","AT1",587,61
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:17:16","DANGER1",588,61
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:17:16","DAT1",589,61
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:17:27","POSSIBLE_TI",590,61
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:17:28","TI1",591,61
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:18:00","Restart",592,62
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:18:06","SAFE2",593,62
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:18:17","AT2",594,62
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:18:30","SAFE1",595,62
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:18:30","AT1",596,62
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:19:04","SAFE2",597,63
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:19:05","AT2",598,63
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:19:06","DANGER2",599,63
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:19:06","DAT2",600,63
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:19:18","SAFE1",601,63
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:19:20","AT1",602,63
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:19:24","DANGER1",603,63
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:19:24","DAT1",604,63
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:19:31","PCR1",605,63
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:19:34","CR1",606,63
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:19:35","Ball Position",607,63
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:19:58","Restart",608,64
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:20:05","SAFE2",609,64
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:20:31","AT2",610,64
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:21:18","SAFE1",611,65
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:21:19","GK1",612,65
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:21:48","Restart",613,66
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:21:59","AT1",614,66
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:22:11","SAFE1",615,66
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:22:12","AT1",616,66
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:22:32","DANGER1",617,66
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:22:32","DAT1",618,66
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:22:36","POSSIBLE_TI",619,66
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:22:37","TI1",620,66
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:22:50","Restart",621,67
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:23:00","SAFE2",622,67
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:23:21","AT2",623,67
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:24:04","DANGER2",624,68
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:24:04","DAT2",625,68
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:24:10","SAFE1",626,68
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:24:11","GK1",627,68
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:24:39","Restart",628,68
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:24:42","Possible Free Kick",629,68
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:24:43","F2",631,69
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:24:43","FK1",632,69
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:24:43","DANGER1",633,69
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:24:43","DFK1",634,69
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:24:43","Ball Position",635,69
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:25:27","Restart",636,69
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:25:39","SAFE2",637,69
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:25:40","GK2",638,69
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:25:48","Restart",639,70
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:26:10","AT2",640,70
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:26:19","SAFE1",641,70
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:26:20","AT1",642,70
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:26:21","POSSIBLE_TI",643,70
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:26:22","TI1",644,70
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:26:42","Restart",645,70
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:26:43","DANGER1",646,71
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:26:43","DAT1",647,71
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:26:48","SAFE2",648,71
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:26:56","AT2",649,71
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:27:40","DANGER2",650,71
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:27:40","DAT2",651,71
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:27:52","SHB2",652,72
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:27:53","SAFE1",653,72
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:27:54","GK1",654,72
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:28:34","Restart",655,72
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:28:36","SAFE2",656,72
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:28:37","AT2",657,72
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:28:48","Injury Break",658,73
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:29:10","Referee Ball",659,73
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:29:12","Restart",660,73
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:29:13","SAFE2",661,73
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:29:29","AT1",662,73
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:29:31","DANGER1",663,73
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:29:31","DAT1",664,73
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:29:35","SAFE2",665,73
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:29:38","AT2",666,73
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:29:41","DANGER2",667,73
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:29:41","DAT2",668,73
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:30:07","SAFE1",669,74
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:30:30","AT1",670,74
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:30:32","DANGER1",671,74
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:30:32","DAT1",672,74
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:30:45","SAFE2",673,75
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:30:48","AT2",674,75
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:31:00","DANGER2",675,75
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:31:00","DAT2",676,75
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:31:06","SAFE1",677,75
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:31:07","Possible Free Kick",678,75
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:31:11","F2",680,75
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:31:11","FK1",681,75
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:31:11","Ball Position",682,75
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:31:37","Danger",683,75
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:31:38","Scout offline",684,75
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:32:00","Transmission Online",685,76
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:32:00","Start score update",686,76
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:32:00","Statistic confirmation",687,76
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:32:00","Score update finished",688,76
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:32:04","SAFE2",689,76
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:32:09","POSSIBLE_TI",690,76
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:32:10","Restart",691,76
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:32:10","TI2",692,76
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:32:16","CLS",693,76
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:32:18","TI1",694,76
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:32:23","Restart",695,76
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:32:24","AT1",696,76
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:32:29","POSSIBLE_TI",697,76
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:32:31","TI1",698,76
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:32:37","Restart",699,76
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:32:38","DANGER1",700,76
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:32:38","DAT1",701,76
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:32:42","SAFE2",702,76
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:32:55","AT2",703,77
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:32:59","DANGER2",704,77
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:32:59","DAT2",705,77
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:33:58","POSSIBLE_TI",706,78
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:33:59","TI2",707,78
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:34:17","Restart",708,78
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:34:34","SAFE1",709,78
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:34:39","AT1",710,78
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:34:44","SAFE2",711,79
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:34:45","Possible Free Kick",712,79
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:34:47","O1",714,79
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:34:47","FK2",715,79
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:34:47","Ball Position",716,79
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:34:50","Restart",717,79
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:34:52","AT2",718,79
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:34:57","DANGER2",719,79
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:34:57","DAT2",720,79
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:35:23","SAFE1",721,79
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:35:23","AT1",722,79
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:35:25","DANGER1",723,79
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:35:25","DAT1",724,79
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:35:37","SHB1",725,79
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:35:39","SAFE2",726,79
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:35:40","GK2",727,79
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:35:51","Restart",728,80
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:36:02","AT2",729,80
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:36:21","DANGER2",730,80
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:36:21","DAT2",731,80
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:36:28","SAFE1",732,80
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:36:31","AT1",733,80
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:36:40","Possible Free Kick",734,80
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:36:41","F2",736,80
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:36:41","FK1",737,80
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:36:41","DANGER1",738,80
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:36:41","DFK1",739,80
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:36:41","Ball Position",740,80
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:36:50","Restart",741,81
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:36:57","PCR1",742,81
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:37:00","CR1",743,81
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:37:01","Ball Position",744,81
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:37:25","Restart",745,81
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:37:39","SHG1",746,81
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:37:41","SAFE2",747,81
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:37:57","AT2",748,82
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:38:26","DANGER2",749,82
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:38:26","DAT2",750,82
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:39:06","SAFE1",751,83
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:39:07","Possible Free Kick",752,83
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:39:08","F2",754,83
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:39:08","FK1",755,83
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:39:08","Ball Position",756,83
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:39:27","SUB2",757,83
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:39:39","SUB2",758,83
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:40:11","Restart",759,84
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:40:13","AT1",760,84
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:40:18","Possible Free Kick",761,84
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:40:21","F2",763,84
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:40:21","FK1",764,84
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:40:21","DANGER1",765,84
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:40:21","DFK1",766,84
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:40:21","Ball Position",767,84
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:40:57","Restart",768,85
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:41:01","SAFE2",769,85
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:41:12","AT2",770,85
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:41:21","DANGER2",771,85
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:41:21","DAT2",772,85
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:41:33","SAFE1",773,85
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:41:34","Possible Free Kick",774,85
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:41:36","F2",776,85
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:41:36","FK1",777,85
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:41:36","Ball Position",778,85
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:41:55","Restart",779,86
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:41:55","AT1",780,86
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:42:06","SAFE2",781,86
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:42:14","AT2",782,86
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:42:19","DANGER2",783,86
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:42:19","DAT2",784,86
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:43:11","Possible Free Kick",785,87
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:43:12","F1",787,87
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:43:12","FK2",788,87
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:43:12","DFK2",789,87
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:43:12","Ball Position",790,87
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:43:20","Restart",791,87
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:43:28","POSSIBLE_TI",792,87
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:43:29","TI2",793,87
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:43:39","Restart",794,87
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:43:49","POSSIBLE_TI",795,88
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:43:50","TI2",796,88
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:43:56","Restart",797,88
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:44:14","SAFE1",798,88
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:44:18","AT1",799,88
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:44:20","DANGER1",800,88
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:44:20","DAT1",801,88
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:44:36","SHG1",802,88
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:44:37","SAFE2",803,88
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:44:47","AT2",804,89
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:45:02","DANGER2",805,89
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:45:02","DAT2",806,89
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:45:16","SAFE1",807,89
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:45:16","Possible Free Kick",808,89
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:45:18","F2",810,89
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:45:18","FK1",811,89
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:45:18","Ball Position",812,89
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:46:02","AT1",813,90
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:46:02","DANGER1",814,90
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:46:02","DAT1",815,90
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:46:07","Restart",816,90
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:46:17","SAFE2",817,90
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:46:22","AT2",818,90
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:46:26","Possible Free Kick",819,90
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:46:27","POSSIBLE_CARDS",821,90
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:46:29","YC1",822,90
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:46:33","CONF_YC1",823,90
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:46:41","Scorer",824,90
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:46:43","F1",825,91
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:46:43","FK2",826,91
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:46:43","DANGER2",827,91
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:46:43","DFK2",828,91
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:46:43","Ball Position",829,91
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:46:49","Restart",830,91
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:46:56","Extra Time",831,91
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:47:02","POSSIBLE_TI",832,91
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:47:03","TI2",833,91
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:47:07","Restart",834,91
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:47:17","Scorer",835,91
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:47:18","Player_DATA_CONFIRMED",836,91
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:47:21","SAFE1",837,91
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:47:30","SAFE2",838,91
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:47:42","Stop RT2",839,91
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:47:42","Stop Game",840,91
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:47:47","CONF_PERIOD_SCORE",841,90
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:47:49","Player_DATA_CONFIRMED",842,90
+979322,"SM Caen","Paris Saint-Germain FC","05/19/2018 20:47:49","Player_DATA_CONFIRMED",843,90

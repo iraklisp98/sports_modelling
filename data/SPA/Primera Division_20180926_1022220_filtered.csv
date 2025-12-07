@@ -1,0 +1,911 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 19:00:42","Lineup changed",0,0
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 19:01:23","Transmission Online",1,0
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 19:01:23","Scout in Stadion",2,0
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 19:25:53","GCC",3,0
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 19:32:41","Jersey Changed",4,0
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 19:32:42","Jersey Changed",5,0
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 19:43:19","GCC",6,0
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 19:56:21","Players are coming out",7,0
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 19:56:54","Players lined up",8,0
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 19:57:00","Shake hands",9,0
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 19:57:53","Flip coin",10,0
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 19:58:53","Game about to start",11,0
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 19:59:57","Start RT1 Team 1",12,1
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 19:59:58","SAFE1",13,1
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:00:04","AT1",14,1
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:00:06","DANGER1",15,1
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:00:06","DAT1",16,1
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:00:13","PCR1",17,1
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:00:20","CR1",18,1
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:00:22","SHG1",19,1
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:00:24","Ball Position",20,1
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:00:41","Restart",21,1
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:00:52","SAFE2",22,1
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:00:55","SAFE1",23,1
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:01:01","AT1",24,2
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:01:03","DANGER1",25,2
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:01:03","DAT1",26,2
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:01:13","SAFE1",27,2
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:01:33","AT1",28,2
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:01:38","DANGER1",29,2
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:01:38","DAT1",30,2
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:01:40","SAFE2",31,2
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:01:44","SAFE1",32,2
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:02:14","AT2",33,3
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:02:14","POSSIBLE_TI",34,3
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:02:15","TI2",35,3
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:02:22","Restart",36,3
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:02:26","DANGER2",37,3
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:02:26","DAT2",38,3
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:02:48","Possible Free Kick",39,3
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:02:51","SAFE1",41,3
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:02:51","FK1",42,3
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:02:51","Ball Position",43,3
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:02:51","Restart",44,3
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:02:58","AT1",45,4
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:03:00","DANGER1",46,4
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:03:00","DAT1",47,4
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:03:09","SAFE2",48,4
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:03:11","AT2",49,4
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:03:12","DANGER2",50,4
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:03:12","DAT2",51,4
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:03:23","SAFE1",52,4
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:04:00","AT1",53,5
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:04:05","DANGER1",54,5
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:04:05","DAT1",55,5
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:04:09","PCR1",56,5
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:04:10","NCR1",57,5
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:04:11","Possible Free Kick",58,5
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:04:16","F2",60,5
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:04:16","FK1",61,5
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:04:16","DFK1",62,5
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:04:16","Ball Position",63,5
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:04:51","Restart",64,5
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:05:19","SAFE2",65,6
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:05:20","GK2",66,6
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:05:24","Restart",67,6
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:05:25","AT1",68,6
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:05:25","DANGER1",69,6
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:05:25","DAT1",70,6
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:05:32","SAFE2",71,6
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:05:33","AT2",72,6
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:05:35","Possible Free Kick",73,6
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:05:37","SAFE1",75,6
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:05:37","O2",76,6
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:05:37","FK1",77,6
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:05:37","Ball Position",78,6
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:05:41","Restart",79,6
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:05:57","AT1",80,6
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:06:00","DANGER1",81,7
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:06:00","DAT1",82,7
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:06:06","PCR1",83,7
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:06:09","CR1",84,7
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:06:10","Ball Position",85,7
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:06:30","Restart",86,7
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:06:40","POSSIBLE_TI",87,7
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:06:41","TI1",88,7
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:06:43","Restart",89,7
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:06:56","Possible Free Kick",90,7
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:06:59","F2",92,8
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:06:59","FK1",93,8
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:06:59","DFK1",94,8
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:06:59","Ball Position",95,8
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:07:31","Restart",96,8
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:07:43","SHG1",97,8
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:07:49","SAFE2",98,8
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:08:08","AT2",99,9
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:08:13","SAFE1",100,9
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:08:42","POSSIBLE_TI",101,9
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:08:44","TI1",102,9
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:08:53","Restart",103,9
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:08:57","AT1",104,9
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:09:02","DANGER1",105,10
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:09:02","DAT1",106,10
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:09:15","SHB1",107,10
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:09:16","SAFE2",108,10
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:09:16","GK2",109,10
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:09:18","Restart",110,10
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:09:20","AT1",111,10
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:09:20","DANGER1",112,10
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:09:20","DAT1",113,10
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:09:26","SAFE2",114,10
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:09:36","Possible Free Kick",115,10
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:09:38","F1",117,10
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:09:38","FK2",118,10
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:09:38","DANGER2",119,10
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:09:38","DFK2",120,10
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:09:38","Ball Position",121,10
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:09:47","Restart",122,10
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:09:49","SAFE2",123,10
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:10:10","AT2",124,11
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:10:16","DANGER2",125,11
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:10:16","DAT2",126,11
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:10:21","SAFE1",127,11
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:10:22","GK1",128,11
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:10:39","Restart",129,11
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:10:44","AT1",130,11
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:10:47","DANGER1",131,11
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:10:47","DAT1",132,11
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:10:54","SAFE2",133,11
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:11:58","AT2",134,13
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:12:03","POSSIBLE_TI",135,13
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:12:04","TI2",136,13
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:12:12","Restart",137,13
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:12:36","DANGER2",138,13
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:12:36","DAT2",139,13
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:12:44","SAFE1",140,13
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:12:55","AT1",141,13
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:12:56","DANGER1",142,13
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:12:56","DAT1",143,13
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:13:02","SAFE2",144,14
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:13:06","AT2",145,14
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:13:13","DANGER2",146,14
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:13:13","DAT2",147,14
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:13:55","SAFE1",148,14
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:14:14","AT1",149,15
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:14:16","DANGER1",150,15
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:14:16","DAT1",151,15
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:14:26","PCR1",152,15
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:15:01","CR1",153,16
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:15:02","Ball Position",154,16
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:15:12","Restart",155,16
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:15:27","PCR1",156,16
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:15:33","NCR1",157,16
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:15:35","SHB1",158,16
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:15:36","SAFE2",159,16
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:15:36","GK2",160,16
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:15:54","Restart",161,16
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:15:59","AT2",162,17
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:16:01","SAFE1",163,17
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:16:03","AT1",164,17
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:16:08","DANGER1",165,17
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:16:08","DAT1",166,17
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:16:13","GOAL1",167,17
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:16:29","Scorer",168,17
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:17:16","CONF_GOAL1",169,18
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:17:16","KO2",170,18
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:17:16","SAFE2",171,18
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:17:19","Player_DATA_CONFIRMED",172,18
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:17:19","Assist",173,18
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:18:01","AT2",174,19
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:18:03","DANGER2",175,19
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:18:03","DAT2",176,19
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:18:22","PCR2",177,19
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:18:26","CR2",178,19
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:18:27","Ball Position",179,19
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:18:43","Restart",180,19
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:19:22","SAFE2",181,20
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:19:37","AT2",182,20
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:19:42","SAFE2",183,20
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:20:02","AT2",184,21
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:20:07","DANGER2",185,21
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:20:07","DAT2",186,21
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:20:10","PCR2",187,21
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:20:21","CR2",188,21
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:20:22","Ball Position",189,21
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:20:30","Restart",190,21
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:20:36","SAFE1",191,21
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:20:38","AT1",192,21
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:20:40","DANGER1",193,21
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:20:40","DAT1",194,21
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:20:40","BREAKAWAY1",195,21
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:20:47","GOAL1",196,21
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:20:56","Scorer",197,21
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:21:52","CONF_GOAL1",198,22
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:21:52","KO2",199,22
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:21:52","SAFE2",200,22
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:22:20","Possible Free Kick",201,23
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:22:22","F1",203,23
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:22:22","FK2",204,23
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:22:22","DANGER2",205,23
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:22:22","DFK2",206,23
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:22:22","Ball Position",207,23
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:22:28","Restart",208,23
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:22:40","SHW2",209,23
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:22:50","POSSIBLE_TI",210,23
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:22:51","TI2",211,23
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:22:55","Restart",212,23
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:23:02","POSSIBLE_TI",213,24
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:23:03","TI2",214,24
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:23:06","Restart",215,24
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:23:20","Player_DATA_CONFIRMED",216,24
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:23:29","SHG2",217,24
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:23:35","SAFE1",218,24
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:23:40","AT1",219,24
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:23:43","DANGER1",220,24
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:23:43","DAT1",221,24
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:23:44","POSSIBLE_TI",222,24
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:23:44","TI2",223,24
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:23:54","Restart",224,24
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:23:56","SAFE2",225,24
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:24:11","SAFE1",226,25
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:24:12","Possible Free Kick",227,25
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:24:14","F2",229,25
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:24:14","FK1",230,25
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:24:14","Ball Position",231,25
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:24:17","Restart",232,25
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:24:18","AT1",233,25
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:24:21","DANGER1",234,25
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:24:21","DAT1",235,25
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:24:26","SAFE2",236,25
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:24:41","AT2",237,25
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:24:52","SAFE2",238,25
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:24:58","AT2",239,26
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:25:09","POSSIBLE_TI",240,26
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:25:10","TI2",241,26
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:25:15","Restart",242,26
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:25:15","SAFE2",243,26
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:25:32","AT2",244,26
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:25:37","DANGER2",245,26
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:25:37","DAT2",246,26
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:25:46","SHB2",247,26
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:25:47","SAFE1",248,26
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:25:48","GK1",249,26
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:26:12","Restart",250,27
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:26:15","AT1",251,27
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:26:26","Possible Free Kick",252,27
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:26:27","POSSIBLE_CARDS",254,27
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:26:32","YC2",255,27
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:26:36","CONF_YC2",256,27
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:26:40","Scorer",257,27
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:26:45","Player_DATA_CONFIRMED",258,27
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:26:58","F2",259,28
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:26:58","FK1",260,28
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:26:59","DANGER1",261,28
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:26:59","DFK1",262,28
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:26:59","Ball Position",263,28
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:27:06","Restart",264,28
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:27:33","SAFE2",265,28
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:27:41","AT2",266,28
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:27:43","DANGER2",267,28
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:27:43","DAT2",268,28
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:28:12","SAFE2",269,29
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:28:16","AT2",270,29
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:28:22","DANGER2",271,29
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:28:22","DAT2",272,29
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:28:26","SAFE1",273,29
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:28:31","AT1",274,29
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:28:33","Possible Free Kick",275,29
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:28:35","No Free Kick",277,29
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:28:36","DANGER1",278,29
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:28:36","DAT1",279,29
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:28:55","SAFE1",280,29
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:29:02","AT1",281,30
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:29:04","DANGER1",282,30
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:29:04","DAT1",283,30
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:29:19","SAFE2",284,30
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:29:34","AT2",285,30
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:29:45","DANGER2",286,30
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:29:45","DAT2",287,30
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:30:12","SHB2",288,31
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:30:13","SAFE1",289,31
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:30:14","GK1",290,31
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:30:39","System Message",291,31
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:30:39","Game suspended",292,31
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:32:23","Restart",293,33
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:32:25","AT1",294,33
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:32:33","SAFE1",295,33
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:32:43","AT1",296,33
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:32:44","DANGER1",297,33
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:32:44","DAT1",298,33
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:32:52","SHW1",299,33
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:33:16","SHG1",300,34
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:33:21","Possible Free Kick",301,34
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:33:22","POSSIBLE_CARDS",303,34
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:33:26","YC1",304,34
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:33:27","CONF_YC1",305,34
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:33:31","Scorer",306,34
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:33:40","SAFE2",307,34
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:33:40","F1",308,34
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:33:40","FK2",309,34
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:33:40","Ball Position",310,34
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:33:42","System Message",311,34
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:33:47","Restart",312,34
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:33:49","AT2",313,34
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:33:53","POSSIBLE_TI",314,34
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:33:54","TI2",315,34
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:34:00","Restart",316,35
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:34:05","SAFE2",317,35
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:34:35","AT2",318,35
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:34:43","DANGER2",319,35
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:34:43","DAT2",320,35
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:35:03","POSSIBLE_TI",321,36
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:35:04","TI1",322,36
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:35:12","Restart",323,36
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:35:19","POSSIBLE_TI",324,36
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:35:20","TI1",325,36
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:35:20","Player_DATA_CONFIRMED",326,36
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:35:32","Restart",327,36
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:35:44","Possible Free Kick",328,36
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:35:51","F1",330,36
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:35:51","FK2",331,36
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:35:51","DFK2",332,36
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:35:51","Ball Position",333,36
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:35:52","Restart",334,36
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:36:06","SAFE2",335,37
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:36:14","AT2",336,37
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:36:32","DANGER2",337,37
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:36:32","DAT2",338,37
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:36:48","SAFE1",339,37
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:36:49","AT1",340,37
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:36:53","SAFE2",341,37
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:37:08","SAFE1",342,38
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:37:09","POSSIBLE_TI",343,38
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:37:09","TI1",344,38
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:37:27","Restart",345,38
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:37:32","AT1",346,38
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:37:34","DANGER1",347,38
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:37:34","DAT1",348,38
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:37:51","PCR1",349,38
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:38:10","CR1",350,39
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:38:11","Ball Position",351,39
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:38:16","Restart",352,39
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:38:25","GOAL1",353,39
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:38:34","Scorer",354,39
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:39:31","CONF_GOAL1",355,40
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:39:31","KO2",356,40
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:39:31","SAFE2",357,40
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:39:51","AT2",358,40
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:39:55","DANGER2",359,40
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:39:55","DAT2",360,40
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:39:55","POSSIBLE_TI",361,40
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:39:56","TI2",362,40
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:40:05","Restart",363,41
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:40:31","SHB2",364,41
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:40:32","SAFE1",365,41
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:40:33","GK1",366,41
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:40:50","Player_DATA_CONFIRMED",367,41
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:40:50","Assist",368,41
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:40:56","Restart",369,41
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:40:58","AT1",370,42
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:41:00","DANGER1",371,42
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:41:00","DAT1",372,42
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:41:04","Possible Free Kick",373,42
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:41:09","F2",375,42
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:41:09","FK1",376,42
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:41:09","DFK1",377,42
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:41:09","Ball Position",378,42
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:41:44","Restart",379,42
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:41:50","SHB1",380,42
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:41:52","SAFE2",381,42
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:41:53","GK2",382,42
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:41:57","Restart",383,42
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:41:58","AT1",384,43
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:41:58","DANGER1",385,43
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:41:58","DAT1",386,43
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:42:12","SAFE1",387,43
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:42:28","AT1",388,43
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:42:29","DANGER1",389,43
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:42:29","DAT1",390,43
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:42:38","SAFE2",391,43
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:42:45","Possible Free Kick",392,43
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:42:47","F1",394,43
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:42:47","FK2",395,43
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:42:47","Ball Position",396,43
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:42:48","Restart",397,43
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:42:57","AT2",398,43
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:43:04","DANGER2",399,44
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:43:04","DAT2",400,44
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:43:46","Possible Free Kick",401,44
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:43:52","POSSIBLE_CARDS",403,44
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:44:28","F1",404,45
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:44:28","FK2",405,45
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:44:28","DFK2",406,45
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:44:28","Ball Position",407,45
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:44:29","NO_Cards",408,45
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:44:59","Restart",409,46
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:45:05","PCR2",410,46
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:45:17","CR2",411,46
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:45:18","SHB2",412,46
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:45:22","Ball Position",413,46
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:45:26","Restart",414,46
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:45:31","Extra Time",415,46
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:45:35","POSSIBLE_TI",416,46
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:45:36","TI2",417,46
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:45:46","Extra Time",418,46
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:45:57","Restart",419,46
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:45:58","SAFE2",420,47
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:46:04","AT2",421,47
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:46:08","DANGER2",422,47
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:46:08","DAT2",423,47
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:46:52","PCR2",424,47
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:47:08","CR2",425,48
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:47:09","Ball Position",426,48
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:47:10","Restart",427,48
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:47:25","SHB2",428,48
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:47:28","Stop RT1",429,48
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:47:34","CONF_PERIOD_SCORE",430,45
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 20:59:08","Players are coming out",431,45
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:02:14","Game about to start",432,45
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:02:38","Start RT2 Team 2",433,46
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:02:39","SAFE2",434,46
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:03:02","AT2",435,46
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:03:04","DANGER2",436,46
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:03:04","DAT2",437,46
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:03:15","SAFE1",438,46
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:03:18","AT1",439,46
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:03:32","SAFE2",440,46
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:03:38","SAFE1",441,46
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:03:41","AT2",442,47
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:03:41","DANGER2",443,47
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:03:41","DAT2",444,47
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:03:46","SAFE1",445,47
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:04:01","AT1",446,47
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:04:06","Possible Free Kick",447,47
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:04:08","F2",449,47
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:04:08","FK1",450,47
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:04:08","DANGER1",451,47
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:04:08","DFK1",452,47
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:04:08","Ball Position",453,47
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:04:25","Restart",454,47
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:04:52","POSSIBLE_TI",455,48
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:04:53","TI2",456,48
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:05:04","Restart",457,48
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:05:12","SAFE1",458,48
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:05:23","AT1",459,48
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:05:26","SAFE2",460,48
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:05:36","SAFE1",461,48
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:05:38","AT1",462,48
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:05:39","DANGER1",463,49
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:05:39","DAT1",464,49
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:05:55","SAFE2",465,49
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:05:59","AT2",466,49
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:06:00","DANGER2",467,49
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:06:00","DAT2",468,49
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:06:05","SAFE1",469,49
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:06:41","AT1",470,50
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:06:43","DANGER1",471,50
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:06:43","DAT1",472,50
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:06:49","PCR1",473,50
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:06:53","CR1",474,50
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:06:55","SHB1",475,50
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:06:58","Ball Position",476,50
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:07:27","Restart",477,50
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:07:55","SAFE2",478,51
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:08:06","POSSIBLE_TI",479,51
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:08:09","TI2",480,51
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:08:16","Restart",481,51
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:08:24","AT2",482,51
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:08:27","DANGER2",483,51
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:08:27","DAT2",484,51
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:08:41","SHB2",485,52
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:08:44","SAFE1",486,52
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:08:44","GK1",487,52
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:09:07","Restart",488,52
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:09:08","AT1",489,52
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:09:10","DANGER1",490,52
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:09:10","DAT1",491,52
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:09:14","Possible Free Kick",492,52
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:09:18","SAFE2",494,52
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:09:18","F1",495,52
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:09:18","FK2",496,52
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:09:18","Ball Position",497,52
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:09:24","Restart",498,52
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:09:46","AT2",499,53
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:10:04","SAFE1",500,53
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:10:11","SAFE2",501,53
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:10:21","AT2",502,53
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:10:23","DANGER2",503,53
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:10:23","DAT2",504,53
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:10:36","GOAL2",505,53
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:12:28","CGOAL2",506,55
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:12:34","Possible Free Kick",507,55
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:12:37","SAFE1",509,55
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:12:37","O2",510,55
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:12:37","FK1",511,55
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:12:37","Ball Position",512,55
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:12:41","Restart",513,56
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:12:46","AT1",514,56
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:12:51","SAFE2",515,56
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:12:53","AT2",516,56
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:12:56","DANGER2",517,56
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:12:56","DAT2",518,56
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:12:58","POSSIBLE_TI",519,56
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:12:59","TI2",520,56
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:13:06","Restart",521,56
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:13:17","POSSIBLE_TI",522,56
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:13:18","TI2",523,56
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:13:25","Restart",524,56
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:13:32","PCR2",525,56
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:13:36","CR2",526,56
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:13:37","SHG2",527,56
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:13:38","Ball Position",528,56
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:13:52","Restart",529,57
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:14:00","SHB2",530,57
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:14:01","SAFE1",531,57
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:14:02","GK1",532,57
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:14:26","Restart",533,57
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:14:28","AT1",534,57
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:14:34","DANGER1",535,57
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:14:34","DAT1",536,57
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:14:45","SHG1",537,58
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:15:09","SHG1",538,58
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:15:23","SAFE2",539,58
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:15:44","AT2",540,59
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:15:49","DANGER2",541,59
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:15:49","DAT2",542,59
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:15:58","POSSIBLE_TI",543,59
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:15:59","TI2",544,59
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:16:13","SUB2",545,59
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:16:27","SUB2",546,59
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:16:36","Restart",547,59
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:16:44","POSSIBLE_TI",548,60
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:16:46","TI1",549,60
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:16:54","Restart",550,60
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:16:59","SAFE1",551,60
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:17:00","AT1",552,60
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:17:00","DANGER1",553,60
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:17:00","DAT1",554,60
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:17:11","Possible Free Kick",555,60
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:17:14","F2",557,60
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:17:14","FK1",558,60
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:17:14","DFK1",559,60
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:17:14","Ball Position",560,60
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:17:47","Restart",561,61
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:17:53","SAFE2",562,61
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:17:54","AT2",563,61
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:17:54","DANGER2",564,61
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:17:54","DAT2",565,61
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:17:57","BREAKAWAY2",566,61
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:18:01","SHG2",567,61
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:18:05","BLOCKED2",568,61
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:18:33","Player_DATA_CONFIRMED",569,61
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:18:33","Player_DATA_CONFIRMED",570,61
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:18:35","Possible Free Kick",571,61
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:18:37","SAFE1",573,61
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:18:37","F2",574,61
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:18:37","FK1",575,61
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:18:37","Ball Position",576,61
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:19:10","AT1",577,62
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:19:10","DANGER1",578,62
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:19:10","DAT1",579,62
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:19:10","Restart",580,62
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:19:20","POSSIBLE_TI",581,62
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:19:21","TI1",582,62
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:19:33","Restart",583,62
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:19:41","SAFE1",584,63
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:19:48","AT1",585,63
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:19:50","DANGER1",586,63
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:19:50","DAT1",587,63
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:20:10","SAFE1",588,63
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:20:24","SAFE2",589,63
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:20:25","POSSIBLE_TI",590,63
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:20:26","TI2",591,63
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:20:31","Restart",592,63
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:20:43","AT2",593,64
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:20:44","DANGER2",594,64
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:20:44","DAT2",595,64
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:20:47","PCR2",596,64
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:20:52","NCR2",597,64
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:20:53","SHB2",598,64
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:20:54","SAFE1",599,64
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:20:54","GK1",600,64
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:21:21","Restart",601,64
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:21:23","AT1",602,64
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:21:26","SAFE2",603,64
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:21:27","AT2",604,64
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:21:31","Possible Free Kick",605,64
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:21:36","POSSIBLE_CARDS",607,64
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:21:40","YC2",608,65
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:21:41","CONF_YC2",609,65
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:21:44","Scorer",610,65
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:21:46","YC2",611,65
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:21:47","CONF_YC2",612,65
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:21:51","Scorer",613,65
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:21:54","SAFE1",614,65
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:21:54","F2",615,65
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:21:54","FK1",616,65
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:21:54","Ball Position",617,65
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:22:07","AT1",618,65
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:22:07","DANGER1",619,65
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:22:07","DAT1",620,65
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:22:08","Restart",621,65
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:22:25","SAFE2",622,65
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:22:49","AT2",623,66
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:22:56","DANGER2",624,66
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:22:56","DAT2",625,66
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:23:21","POSSIBLE_TI",626,66
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:23:22","TI1",627,66
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:23:30","Player_DATA_CONFIRMED",628,66
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:23:31","Player_DATA_CONFIRMED",629,66
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:23:44","Restart",630,67
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:23:57","Possible Free Kick",631,67
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:24:04","SAFE1",633,67
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:24:04","O2",634,67
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:24:04","FK1",635,67
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:24:04","Ball Position",636,67
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:24:18","Restart",637,67
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:24:19","AT1",638,67
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:24:21","DANGER1",639,67
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:24:21","DAT1",640,67
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:24:27","SAFE2",641,67
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:24:39","AT2",642,68
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:24:41","DANGER2",643,68
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:24:41","DAT2",644,68
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:24:51","SAFE1",645,68
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:25:07","AT1",646,68
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:25:13","SAFE2",647,68
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:25:15","AT2",648,68
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:25:16","DANGER2",649,68
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:25:16","DAT2",650,68
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:25:30","SAFE1",651,68
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:25:33","AT1",652,68
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:25:40","DANGER1",653,69
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:25:40","DAT1",654,69
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:25:52","SAFE1",655,69
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:26:07","SAFE2",656,69
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:26:09","Possible Free Kick",657,69
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:26:14","F1",659,69
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:26:14","FK2",660,69
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:26:14","Ball Position",661,69
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:26:32","SUB1",662,69
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:26:37","Restart",663,69
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:26:42","AT2",664,70
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:26:42","DANGER2",665,70
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:26:42","DAT2",666,70
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:26:46","Possible Free Kick",667,70
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:26:51","SAFE1",669,70
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:26:51","O2",670,70
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:26:51","FK1",671,70
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:26:52","Ball Position",672,70
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:27:16","Restart",673,70
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:27:17","AT1",674,70
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:27:21","DANGER1",675,70
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:27:21","DAT1",676,70
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:27:24","Possible Free Kick",677,70
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:27:26","SAFE2",679,70
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:27:26","F1",680,70
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:27:26","FK2",681,70
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:27:26","Ball Position",682,70
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:27:39","SUB2",683,71
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:27:42","Restart",684,71
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:27:49","AT2",685,71
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:27:49","DANGER2",686,71
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:27:49","DAT2",687,71
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:28:02","Player_DATA_CONFIRMED",688,71
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:28:02","Player_DATA_CONFIRMED",689,71
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:28:03","SHB2",690,71
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:28:03","SAFE1",691,71
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:28:04","GK1",692,71
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:28:31","Restart",693,71
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:28:33","AT1",694,71
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:28:35","DANGER1",695,71
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:28:35","DAT1",696,71
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:28:41","Possible Free Kick",697,72
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:28:50","SAFE2",699,72
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:28:50","F1",700,72
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:28:50","FK2",701,72
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:28:50","Ball Position",702,72
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:28:56","Restart",703,72
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:29:15","AT2",704,72
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:29:17","DANGER2",705,72
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:29:17","DAT2",706,72
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:29:41","Injury Break",707,73
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:29:45","Referee Ball",708,73
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:30:08","Restart",709,73
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:30:41","Possible Free Kick",710,74
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:30:43","POSSIBLE_CARDS",712,74
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:30:48","YC1",713,74
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:30:49","CONF_YC1",714,74
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:30:52","Scorer",715,74
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:30:58","Player_DATA_CONFIRMED",716,74
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:30:59","F1",717,74
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:30:59","FK2",718,74
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:30:59","DFK2",719,74
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:30:59","Ball Position",720,74
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:31:16","Restart",721,74
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:31:26","SHB2",722,74
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:31:27","SAFE1",723,74
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:31:27","GK1",724,74
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:32:00","System Message",725,75
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:32:00","Game suspended",726,75
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:33:48","Restart",727,77
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:33:52","System Message",728,77
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:33:57","SAFE2",729,77
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:34:13","AT2",730,77
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:34:14","DANGER2",731,77
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:34:14","DAT2",732,77
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:34:31","Possible Free Kick",733,77
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:34:39","SAFE1",735,78
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:34:39","O2",736,78
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:34:39","FK1",737,78
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:34:39","Ball Position",738,78
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:34:40","Restart",739,78
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:34:45","AT1",740,78
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:34:57","SAFE1",741,78
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:35:10","System Message",742,78
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:35:19","SAFE2",743,78
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:35:38","AT2",744,78
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:35:41","Possible Free Kick",745,79
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:35:42","POSSIBLE_CARDS",747,79
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:35:44","YC1",748,79
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:35:45","CONF_YC1",749,79
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:35:49","Scorer",750,79
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:35:53","F1",751,79
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:35:53","FK2",752,79
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:35:53","DANGER2",753,79
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:35:53","DFK2",754,79
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:35:53","Ball Position",755,79
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:36:10","Restart",756,79
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:36:20","Possible Free Kick",757,79
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:36:22","Player_DATA_CONFIRMED",759,79
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:36:23","F1",760,79
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:36:23","FK2",761,79
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:36:23","DFK2",762,79
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:36:23","Ball Position",763,79
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:36:24","Restart",764,79
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:36:37","SHG2",765,79
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:36:40","SAFE1",766,80
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:36:41","AT1",767,80
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:36:42","DANGER1",768,80
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:36:42","DAT1",769,80
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:36:43","BREAKAWAY1",770,80
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:36:54","SHB1",771,80
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:36:57","SAFE2",772,80
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:36:57","GK2",773,80
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:37:28","Restart",774,80
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:37:33","AT2",775,80
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:37:44","DANGER2",776,81
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:37:44","DAT2",777,81
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:38:10","SHB2",778,81
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:38:10","SAFE1",779,81
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:38:11","GK1",780,81
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:38:31","Restart",781,81
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:38:34","AT1",782,81
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:38:41","SAFE2",783,82
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:38:47","AT2",784,82
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:38:53","DANGER2",785,82
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:38:53","DAT2",786,82
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:39:02","SAFE1",787,82
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:39:04","AT1",788,82
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:39:05","DANGER1",789,82
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:39:05","DAT1",790,82
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:39:06","BREAKAWAY1",791,82
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:39:15","Possible Free Kick",792,82
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:39:18","SAFE2",794,82
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:39:18","O1",795,82
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:39:18","FK2",796,82
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:39:19","Ball Position",797,82
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:39:30","Restart",798,82
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:39:36","AT2",799,82
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:39:41","DANGER2",800,83
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:39:41","DAT2",801,83
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:40:01","SAFE2",802,83
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:40:12","AT2",803,83
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:40:16","DANGER2",804,83
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:40:16","DAT2",805,83
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:40:25","POSSIBLE_TI",806,83
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:40:26","TI2",807,83
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:40:56","Injury Break",808,84
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:41:17","Restart",809,84
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:41:43","SAFE1",810,85
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:41:55","Possible Free Kick",811,85
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:41:56","F2",813,85
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:41:56","FK1",814,85
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:41:56","Ball Position",815,85
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:42:15","SUB1",816,85
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:42:26","Restart",817,85
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:42:36","AT1",818,85
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:42:36","Player_DATA_CONFIRMED",819,85
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:42:38","DANGER1",820,85
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:42:38","DAT1",821,85
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:42:40","POSSIBLE_TI",822,86
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:42:42","TI1",823,86
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:42:53","Restart",824,86
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:42:55","SUB_UPDATE",825,86
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:43:03","SAFE1",826,86
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:43:39","POSSIBLE_CARDS",827,87
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:43:39","PRC",828,87
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:43:39","Danger",829,87
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:43:47","YC2",830,87
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:43:49","CONF_YC2",831,87
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:43:55","Scorer",832,87
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:43:59","No RC",833,87
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:44:00","Possible Free Kick",834,87
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:44:02","F2",836,87
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:44:02","FK1",837,87
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:44:02","DFK1",838,87
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:44:02","Ball Position",839,87
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:44:02","Restart",840,87
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:44:07","AT1",841,87
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:44:14","Possible Free Kick",842,87
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:44:16","SAFE2",844,87
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:44:16","O1",845,87
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:44:16","FK2",846,87
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:44:17","Ball Position",847,87
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:44:21","Restart",848,87
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:44:26","AT2",849,87
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:44:30","Possible Free Kick",850,87
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:44:33","F1",852,87
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:44:33","FK2",853,87
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:44:33","DANGER2",854,87
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:44:33","DFK2",855,87
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:44:33","Ball Position",856,87
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:44:35","Restart",857,87
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:45:02","SAFE1",858,88
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:45:03","GK1",859,88
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:45:22","Restart",860,88
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:45:24","AT1",861,88
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:45:32","SAFE2",862,88
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:45:35","Possible Free Kick",863,88
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:45:37","F1",865,88
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:45:37","FK2",866,88
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:45:37","Ball Position",867,88
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:45:41","Restart",868,89
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:45:49","AT2",869,89
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:45:49","Player_DATA_CONFIRMED",870,89
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:45:56","POSSIBLE_TI",871,89
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:45:58","TI2",872,89
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:46:02","Restart",873,89
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:46:05","DANGER2",874,89
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:46:05","DAT2",875,89
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:46:27","POSSIBLE_TI",876,89
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:46:28","TI2",877,89
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:46:40","Restart",878,90
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:47:00","PCR2",879,90
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:47:09","CR2",880,90
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:47:10","Ball Position",881,90
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:47:44","SUB1",882,91
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:47:53","Restart",883,91
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:47:58","SAFE1",884,91
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:48:01","AT1",885,91
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:48:02","DANGER1",886,91
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:48:02","DAT1",887,91
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:48:06","Player_DATA_CONFIRMED",888,91
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:48:08","Extra Time",889,91
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:48:11","Possible Free Kick",890,91
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:48:14","SAFE2",892,91
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:48:14","O1",893,91
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:48:14","FK2",894,91
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:48:15","Ball Position",895,91
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:48:18","Restart",896,91
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:48:20","AT2",897,91
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:48:26","DANGER2",898,91
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:48:26","DAT2",899,91
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:48:43","SAFE1",900,92
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:48:45","AT1",901,92
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:48:53","DANGER1",902,92
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:48:53","DAT1",903,92
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:49:28","SAFE1",904,92
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:49:49","AT1",905,93
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:49:52","DANGER1",906,93
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:49:52","DAT1",907,93
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:49:56","PCR1",908,93
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:50:01","NCR1",909,93
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:50:02","SAFE2",910,93
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:50:02","GK2",911,93
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:50:03","Restart",912,93
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:50:09","AT2",913,93
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:50:10","DANGER2",914,93
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:50:10","DAT2",915,93
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:50:25","SAFE1",916,93
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:50:27","AT1",917,93
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:50:29","DANGER1",918,93
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:50:29","DAT1",919,93
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:50:36","SAFE2",920,93
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:50:47","AT2",921,94
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:50:53","DANGER2",922,94
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:50:53","DAT2",923,94
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:50:58","Possible Free Kick",924,94
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:51:03","F1",926,94
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:51:03","FK2",927,94
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:51:03","DFK2",928,94
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:51:03","Ball Position",929,94
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:51:51","Restart",930,95
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:51:55","BLOCKED2",931,95
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:51:56","BLOCKED2",932,95
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:52:05","SAFE1",933,95
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:52:07","AT1",934,95
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:52:08","DANGER1",935,95
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:52:08","DAT1",936,95
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:52:15","SAFE2",937,95
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:52:21","AT2",938,95
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:52:21","DANGER2",939,95
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:52:21","DAT2",940,95
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:52:26","PCR2",941,95
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:52:34","NCR2",942,95
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:52:37","SAFE1",943,95
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:52:41","Stop RT2",944,95
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:52:41","Stop Game",945,95
+1022220,"Sevilla FC","Real Madrid CF","09/26/2018 21:52:46","CONF_PERIOD_SCORE",946,95

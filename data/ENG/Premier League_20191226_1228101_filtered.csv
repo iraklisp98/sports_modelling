@@ -1,0 +1,944 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1228101,"Sheffield United FC","Watford FC","12/26/2019 14:00:42","Lineup changed",0,0
+1228101,"Sheffield United FC","Watford FC","12/26/2019 14:01:16","Transmission Online",1,0
+1228101,"Sheffield United FC","Watford FC","12/26/2019 14:01:16","Scout in Stadion",2,0
+1228101,"Sheffield United FC","Watford FC","12/26/2019 14:16:48","GCC",3,0
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:00:02","System Message",4,0
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:06:38","Players are coming out",5,0
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:07:14","Players lined up",6,0
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:07:18","Shake hands",7,0
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:08:19","Jersey Changed",8,0
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:08:19","Jersey Changed",9,0
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:08:22","Flip coin",10,0
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:10:13","Game about to start",11,0
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:10:17","Start RT1 Team 2",12,1
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:10:18","SAFE2",13,1
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:10:20","AT2",14,1
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:10:32","DANGER2",15,1
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:10:32","DAT2",16,1
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:10:35","POSSIBLE_TI",17,1
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:10:36","TI1",18,1
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:10:46","Restart",19,1
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:10:49","SAFE1",20,1
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:10:50","AT1",21,1
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:10:52","POSSIBLE_TI",22,1
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:10:53","TI2",23,1
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:11:03","System Message",24,1
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:11:03","Restart",25,1
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:11:04","SAFE2",26,1
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:11:06","AT2",27,1
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:11:11","SAFE1",28,1
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:11:19","POSSIBLE_TI",29,2
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:11:20","TI2",30,2
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:11:35","Restart",31,2
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:11:46","AT2",32,2
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:11:50","Possible Free Kick",33,2
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:11:52","SAFE1",35,2
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:11:52","F2",36,2
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:11:52","FK1",37,2
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:11:52","Ball Position",38,2
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:12:11","Restart",39,2
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:12:13","AT1",40,2
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:12:16","DANGER1",41,2
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:12:16","DAT1",42,2
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:12:19","Possible Free Kick",43,3
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:12:23","SAFE2",45,3
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:12:23","O1",46,3
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:12:23","FK2",47,3
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:12:24","Ball Position",48,3
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:12:39","Restart",49,3
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:12:40","AT2",50,3
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:12:44","SAFE1",51,3
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:12:46","AT1",52,3
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:12:47","DANGER1",53,3
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:12:47","DAT1",54,3
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:13:02","PCR1",55,3
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:13:16","NCR1",56,3
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:13:17","POSSIBLE_TI",57,3
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:13:17","TI1",58,3
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:13:19","Restart",59,4
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:13:37","POSSIBLE_TI",60,4
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:13:38","TI2",61,4
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:13:54","Restart",62,4
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:14:04","POSSIBLE_TI",63,4
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:14:04","TI2",64,4
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:14:22","Restart",65,5
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:14:36","SAFE2",66,5
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:14:43","AT2",67,5
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:14:49","SAFE2",68,5
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:14:57","AT2",69,5
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:14:58","SAFE2",70,5
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:15:04","AT2",71,5
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:15:05","DANGER2",72,5
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:15:05","DAT2",73,5
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:15:12","SAFE1",74,5
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:15:15","SAFE2",75,5
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:15:20","AT2",76,6
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:15:25","SAFE2",77,6
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:15:39","AT2",78,6
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:15:42","DANGER2",79,6
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:15:42","DAT2",80,6
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:15:46","SAFE1",81,6
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:15:56","AT1",82,6
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:15:57","DANGER1",83,6
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:15:57","DAT1",84,6
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:16:06","SAFE2",85,6
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:16:11","AT1",86,6
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:16:14","DANGER1",87,6
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:16:14","DAT1",88,6
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:16:21","POSSIBLE_TI",89,7
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:16:21","TI1",90,7
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:16:36","Restart",91,7
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:16:48","POSSIBLE_TI",92,7
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:16:49","TI1",93,7
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:16:57","Restart",94,7
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:17:04","SAFE2",95,7
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:17:10","AT2",96,7
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:17:15","DANGER2",97,7
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:17:15","DAT2",98,7
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:17:19","SAFE1",99,8
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:17:46","AT1",100,8
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:17:58","SAFE2",101,8
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:18:00","AT2",102,8
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:18:06","SAFE2",103,8
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:18:27","AT2",104,9
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:18:30","SAFE1",105,9
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:18:59","AT1",106,9
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:19:01","DANGER1",107,9
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:19:01","DAT1",108,9
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:19:03","SAFE2",109,9
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:19:09","AT2",110,9
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:19:10","SAFE1",111,9
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:19:16","AT1",112,9
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:19:19","POSSIBLE_TI",113,10
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:19:20","TI1",114,10
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:19:39","Restart",115,10
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:19:49","SAFE1",116,10
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:19:52","AT1",117,10
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:19:54","DANGER1",118,10
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:19:54","DAT1",119,10
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:20:08","SHG1",120,10
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:20:12","PCR1",121,10
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:20:30","CR1",122,11
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:20:32","Ball Position",123,11
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:20:34","Restart",124,11
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:20:41","POSSIBLE_TI",125,11
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:20:42","TI1",126,11
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:20:59","Restart",127,11
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:21:08","SHG1",128,11
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:21:09","SAFE2",129,11
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:21:34","AT2",130,12
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:21:37","POSSIBLE_TI",131,12
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:21:38","TI2",132,12
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:21:47","Restart",133,12
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:21:50","SAFE1",134,12
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:21:53","AT1",135,12
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:22:11","SAFE2",136,12
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:22:13","AT2",137,12
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:22:15","DANGER2",138,12
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:22:15","DAT2",139,12
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:22:22","SAFE1",140,13
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:23:01","AT1",141,13
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:23:12","SAFE2",142,13
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:23:14","AT2",143,13
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:23:29","DANGER2",144,14
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:23:29","DAT2",145,14
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:23:39","SAFE1",146,14
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:24:11","AT1",147,14
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:24:22","SAFE1",148,15
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:24:36","SAFE2",149,15
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:24:38","AT1",150,15
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:24:41","DANGER1",151,15
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:24:41","DAT1",152,15
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:24:57","SHB1",153,15
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:25:11","Possible Free Kick",154,15
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:25:15","SAFE2",156,15
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:25:15","O1",157,15
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:25:15","FK2",158,15
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:25:15","Ball Position",159,15
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:25:33","Restart",160,16
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:25:34","AT2",161,16
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:25:35","SAFE1",162,16
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:25:44","AT1",163,16
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:25:49","SAFE2",164,16
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:26:01","AT2",165,16
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:26:01","SAFE1",166,16
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:26:12","SAFE2",167,16
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:26:13","AT2",168,16
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:26:27","SAFE1",169,17
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:26:33","SAFE2",170,17
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:26:47","SAFE1",171,17
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:26:58","AT1",172,17
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:27:01","SAFE1",173,17
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:27:35","AT1",174,18
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:27:38","DANGER1",175,18
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:27:38","DAT1",176,18
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:27:46","SAFE2",177,18
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:27:54","AT2",178,18
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:27:56","SAFE1",179,18
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:27:57","AT1",180,18
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:28:17","DANGER1",181,18
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:28:17","DAT1",182,18
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:28:31","Possible Free Kick",183,19
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:28:34","SAFE2",185,19
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:28:34","O1",186,19
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:28:34","FK2",187,19
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:28:34","Ball Position",188,19
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:29:57","Restart",189,20
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:29:59","AT2",190,20
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:30:03","SAFE1",191,20
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:30:08","AT1",192,20
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:30:17","SAFE2",193,21
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:30:20","AT2",194,21
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:30:22","DANGER2",195,21
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:30:22","DAT2",196,21
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:30:27","SAFE1",197,21
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:30:52","SAFE2",198,21
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:30:54","AT2",199,21
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:30:56","SAFE2",200,21
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:30:59","AT2",201,21
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:31:03","DANGER2",202,21
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:31:03","DAT2",203,21
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:31:08","Possible Free Kick",204,21
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:31:12","SAFE1",206,21
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:31:12","F2",207,21
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:31:12","FK1",208,21
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:31:12","Ball Position",209,21
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:31:31","Restart",210,22
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:31:46","AT1",211,22
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:31:52","SAFE2",212,22
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:31:53","GK2",213,22
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:32:19","Restart",214,23
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:32:21","AT2",215,23
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:32:27","SAFE1",216,23
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:32:32","AT2",217,23
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:32:37","SAFE1",218,23
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:32:43","AT2",219,23
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:32:44","POSSIBLE_TI",220,23
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:32:45","TI2",221,23
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:33:04","Restart",222,23
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:33:05","SAFE2",223,23
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:33:07","AT2",224,23
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:33:15","DANGER2",225,23
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:33:15","DAT2",226,23
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:33:27","SAFE2",227,24
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:33:34","AT2",228,24
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:33:41","SAFE1",229,24
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:33:42","AT1",230,24
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:33:45","SAFE2",231,24
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:34:08","AT2",232,24
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:34:12","POSSIBLE_TI",233,24
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:34:14","TI2",234,24
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:34:22","Restart",235,25
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:34:23","SAFE2",236,25
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:34:26","AT2",237,25
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:34:29","SAFE2",238,25
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:34:49","AT2",239,25
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:35:04","POSSIBLE_TI",240,25
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:35:04","TI1",241,25
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:35:11","Restart",242,25
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:35:13","SAFE1",243,25
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:35:14","AT1",244,25
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:35:16","DANGER1",245,25
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:35:16","DAT1",246,25
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:35:26","AT2",247,26
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:35:26","DANGER2",248,26
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:35:26","DAT2",249,26
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:35:31","SAFE1",250,26
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:35:43","AT1",251,26
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:35:55","SAFE2",252,26
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:35:59","AT2",253,26
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:36:01","SAFE1",254,26
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:36:16","AT1",255,26
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:36:17","SAFE2",256,26
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:36:24","AT2",257,27
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:36:25","DANGER2",258,27
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:36:25","DAT2",259,27
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:36:29","GOAL2",260,27
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:37:13","Scorer",261,27
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:37:17","Player_DATA_CONFIRMED",262,27
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:37:39","CONF_GOAL2",263,28
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:37:39","KO1",264,28
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:37:39","SAFE1",265,28
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:37:42","AT1",266,28
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:37:46","SAFE2",267,28
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:38:02","AT2",268,28
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:38:11","SAFE1",269,28
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:38:15","AT1",270,28
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:38:33","Assist",271,29
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:38:34","Injury Break",272,29
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:39:04","Danger",273,29
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:39:04","Scout offline",274,29
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:40:11","Transmission Online",275,30
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:40:11","Start score update",276,30
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:40:11","Statistic confirmation",277,30
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:40:11","Score update finished",278,30
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:40:13","Restart",279,30
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:40:18","DANGER1",280,31
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:40:18","DAT1",281,31
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:40:23","SAFE2",282,31
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:40:24","GK2",283,31
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:41:04","Restart",284,31
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:41:06","AT2",285,31
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:41:07","POSSIBLE_TI",286,31
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:41:08","TI1",287,31
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:41:11","Restart",288,31
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:41:12","SAFE1",289,31
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:41:26","AT1",290,32
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:41:27","DANGER1",291,32
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:41:27","DAT1",292,32
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:41:30","SAFE1",293,32
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:41:33","POSSIBLE_TI",294,32
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:41:34","TI1",295,32
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:41:46","Restart",296,32
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:42:03","AT1",297,32
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:42:11","DANGER1",298,32
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:42:11","DAT1",299,32
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:42:21","SAFE1",300,33
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:42:34","AT1",301,33
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:42:39","POSSIBLE_TI",302,33
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:42:40","TI2",303,33
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:43:01","Restart",304,33
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:43:01","SAFE2",305,33
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:43:03","AT2",306,33
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:43:08","SAFE2",307,33
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:43:17","AT2",308,33
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:43:18","SAFE1",309,34
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:43:20","AT1",310,34
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:43:28","DANGER1",311,34
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:43:28","DAT1",312,34
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:43:41","SAFE2",313,34
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:44:03","AT2",314,34
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:44:06","SAFE1",315,34
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:44:14","AT1",316,34
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:44:22","POSSIBLE_TI",317,35
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:44:22","TI1",318,35
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:44:27","CLS",319,35
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:44:28","TI2",320,35
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:44:43","Restart",321,35
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:44:54","DANGER1",322,35
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:44:54","DAT1",323,35
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:44:56","PPEN",324,35
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:44:56","PPEN1",325,35
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:44:57","POSSIBLE_CARDS",326,35
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:44:57","PRC",327,35
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:45:31","Scout offline",328,36
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:45:42","Transmission Online",329,36
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:45:42","Start score update",330,36
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:45:42","Statistic confirmation",331,36
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:45:42","Score update finished",332,36
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:45:44","PPEN",333,36
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:45:44","PPEN1",334,36
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:46:01","PEN1",335,36
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:46:08","GOAL1",336,36
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:46:08","Scorer",337,36
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:46:14","No RC",338,36
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:46:15","NO_Cards",339,36
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:46:57","CONF_GOAL1",340,37
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:46:57","KO2",341,37
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:46:57","SAFE2",342,37
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:46:59","AT2",343,37
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:47:06","SAFE1",344,37
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:47:09","AT1",345,37
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:47:15","DANGER1",346,37
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:47:15","DAT1",347,37
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:47:37","SAFE2",348,38
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:47:41","Time Correction",349,38
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:47:44","AT2",350,38
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:47:47","SAFE1",351,38
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:47:57","POSSIBLE_TI",352,38
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:47:59","NO_TI",353,38
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:48:00","Possible Free Kick",354,38
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:48:02","F2",356,38
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:48:02","FK1",357,38
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:48:02","Ball Position",358,38
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:48:13","Restart",359,38
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:48:30","AT1",360,39
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:48:32","Scorer",361,39
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:48:32","Player_DATA_CONFIRMED",362,39
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:48:35","AT2",363,39
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:48:35","DANGER2",364,39
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:48:35","DAT2",365,39
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:48:39","SAFE1",366,39
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:48:49","AT1",367,39
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:48:55","SAFE2",368,39
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:48:57","AT2",369,39
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:49:08","SAFE1",370,39
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:49:11","POSSIBLE_TI",371,39
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:49:11","TI1",372,39
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:49:22","Restart",373,40
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:49:32","AT1",374,40
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:49:36","POSSIBLE_TI",375,40
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:49:37","TI1",376,40
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:49:55","Injury Break",377,40
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:52:17","Restart",378,43
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:52:19","SAFE1",379,43
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:52:22","AT1",380,43
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:52:24","DANGER1",381,43
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:52:24","DAT1",382,43
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:52:34","Possible Free Kick",383,43
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:52:36","F2",385,43
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:52:36","FK1",386,43
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:52:36","DFK1",387,43
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:52:36","Ball Position",388,43
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:53:13","Restart",389,43
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:53:19","Possible Free Kick",390,44
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:53:21","SAFE2",392,44
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:53:21","F1",393,44
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:53:21","FK2",394,44
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:53:21","Ball Position",395,44
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:53:50","Restart",396,44
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:53:53","AT2",397,44
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:53:56","DANGER2",398,44
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:53:56","DAT2",399,44
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:54:13","SAFE2",400,44
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:54:21","AT2",401,45
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:54:35","POSSIBLE_TI",402,45
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:54:35","TI1",403,45
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:54:39","Restart",404,45
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:54:40","SAFE1",405,45
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:55:12","AT1",406,45
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:55:15","DANGER1",407,45
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:55:15","DAT1",408,45
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:55:26","PCR1",409,46
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:55:29","CR1",410,46
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:55:31","Ball Position",411,46
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:55:36","Extra Time",412,46
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:55:51","Restart",413,46
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:56:00","SHG1",414,46
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:56:01","SAFE2",415,46
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:56:03","AT2",416,46
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:56:04","DANGER2",417,46
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:56:04","DAT2",418,46
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:56:09","SAFE2",419,46
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:56:13","AT2",420,46
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:56:20","SAFE1",421,47
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:56:28","AT1",422,47
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:56:39","DANGER1",423,47
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:56:39","DAT1",424,47
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:56:43","POSSIBLE_TI",425,47
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:56:44","TI1",426,47
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:56:52","Restart",427,47
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:57:22","SAFE2",428,48
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:57:23","GK2",429,48
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:57:40","Restart",430,48
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:57:41","AT2",431,48
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:57:42","DANGER2",432,48
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:57:42","DAT2",433,48
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:57:47","SAFE1",434,48
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:57:52","AT1",435,48
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:57:57","POSSIBLE_TI",436,48
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:57:58","TI1",437,48
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:58:05","CLS",438,48
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:58:06","TI2",439,48
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:58:18","Restart",440,49
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:58:21","SAFE1",441,49
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:58:32","AT1",442,49
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:58:38","DANGER1",443,49
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:58:38","DAT1",444,49
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:58:47","SAFE2",445,49
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:58:48","GK2",446,49
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:59:14","Restart",447,49
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:59:17","AT2",448,49
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:59:28","SAFE1",449,50
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:59:30","AT1",450,50
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:59:33","SAFE2",451,50
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:59:48","AT2",452,50
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:59:56","DANGER2",453,50
+1228101,"Sheffield United FC","Watford FC","12/26/2019 15:59:56","DAT2",454,50
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:00:07","Possible Free Kick",455,50
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:00:10","F1",457,50
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:00:10","FK2",458,50
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:00:10","DFK2",459,50
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:00:10","Ball Position",460,50
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:00:47","Restart",461,51
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:00:53","SHB2",462,51
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:00:54","SAFE1",463,51
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:00:58","Stop RT1",464,51
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:01:03","CONF_PERIOD_SCORE",465,45
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:10:50","Transmission Online",466,45
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:10:50","Time Correction",467,45
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:16:04","Players are coming out",468,45
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:17:00","SUB2",469,45
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:17:02","SUB_UPDATE",470,45
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:17:02","Player_DATA_CONFIRMED",471,45
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:17:06","Game about to start",472,45
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:17:11","Start RT2 Team 1",473,46
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:17:12","SAFE1",474,46
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:17:15","AT1",475,46
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:17:19","DANGER1",476,46
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:17:19","DAT1",477,46
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:17:22","Possible Free Kick",478,46
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:17:23","F2",480,46
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:17:23","FK1",481,46
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:17:23","DFK1",482,46
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:17:23","Ball Position",483,46
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:17:23","POSSIBLE_CARDS",484,46
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:17:53","NO_Cards",485,46
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:18:01","POSSIBLE_CARDS",486,46
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:18:03","YC2",487,46
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:18:04","CONF_YC2",488,46
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:18:04","Scorer",489,46
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:18:06","Restart",490,46
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:18:26","SAFE2",491,47
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:18:38","Scorer",492,47
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:18:38","Player_DATA_CONFIRMED",493,47
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:18:42","AT1",494,47
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:18:48","DANGER1",495,47
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:18:48","DAT1",496,47
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:18:50","SAFE2",497,47
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:18:57","SAFE1",498,47
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:19:14","AT1",499,48
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:19:19","SAFE1",500,48
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:19:24","AT1",501,48
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:19:28","DANGER1",502,48
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:19:28","DAT1",503,48
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:19:34","POSSIBLE_TI",504,48
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:19:35","TI1",505,48
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:19:44","Restart",506,48
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:20:24","SAFE2",507,49
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:20:25","GK2",508,49
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:20:26","Restart",509,49
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:20:27","AT2",510,49
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:20:29","SAFE1",511,49
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:20:39","AT2",512,49
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:20:52","DANGER2",513,49
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:20:52","DAT2",514,49
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:21:25","SAFE2",515,50
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:21:34","AT2",516,50
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:21:40","DANGER2",517,50
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:21:40","DAT2",518,50
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:21:57","SAFE1",519,50
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:22:01","AT1",520,50
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:22:04","POSSIBLE_TI",521,50
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:22:05","TI2",522,50
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:22:17","Restart",523,51
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:22:17","SAFE2",524,51
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:22:27","AT1",525,51
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:22:30","DANGER1",526,51
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:22:30","DAT1",527,51
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:22:38","SHB1",528,51
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:22:38","SAFE2",529,51
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:22:39","GK2",530,51
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:23:15","Restart",531,52
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:23:16","POSSIBLE_CARDS",532,52
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:23:16","PRC",533,52
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:23:16","Danger",534,52
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:23:20","No RC",535,52
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:23:21","AT2",536,52
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:23:21","NO_Cards",537,52
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:23:25","SAFE2",538,52
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:23:26","POSSIBLE_TI",539,52
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:23:27","TI2",540,52
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:23:49","Restart",541,52
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:23:50","AT2",542,52
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:24:03","SAFE2",543,52
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:24:12","AT2",544,53
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:24:14","POSSIBLE_TI",545,53
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:24:15","TI1",546,53
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:24:34","Restart",547,53
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:24:37","SAFE1",548,53
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:24:39","AT1",549,53
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:24:42","DANGER1",550,53
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:24:42","DAT1",551,53
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:24:51","SAFE1",552,53
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:25:01","AT1",553,53
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:25:04","DANGER1",554,53
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:25:04","DAT1",555,53
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:25:10","SAFE2",556,53
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:25:28","AT2",557,54
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:25:30","SAFE1",558,54
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:25:59","AT1",559,54
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:26:23","DANGER1",560,55
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:26:23","DAT1",561,55
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:26:42","SAFE2",562,55
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:26:50","POSSIBLE_TI",563,55
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:26:51","TI2",564,55
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:27:02","Restart",565,55
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:27:06","AT1",566,55
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:27:08","DANGER1",567,55
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:27:08","DAT1",568,55
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:27:13","SHB1",569,56
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:27:14","SAFE2",570,56
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:27:15","GK2",571,56
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:27:39","Restart",572,56
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:27:40","AT2",573,56
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:27:45","DANGER2",574,56
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:27:45","DAT2",575,56
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:27:53","POSSIBLE_TI",576,56
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:27:54","TI2",577,56
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:28:11","Restart",578,56
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:28:14","SAFE1",579,57
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:28:26","AT1",580,57
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:28:41","POSSIBLE_TI",581,57
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:28:43","TI2",582,57
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:28:43","Restart",583,57
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:28:44","SAFE2",584,57
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:28:52","AT2",585,57
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:28:53","SAFE1",586,57
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:29:04","AT1",587,57
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:29:11","DANGER1",588,57
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:29:11","DAT1",589,57
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:29:20","SHW1",590,58
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:29:23","Possible Free Kick",591,58
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:29:29","SAFE2",593,58
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:29:29","O1",594,58
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:29:29","FK2",595,58
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:29:29","Ball Position",596,58
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:29:46","Restart",597,58
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:29:47","AT2",598,58
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:29:52","POSSIBLE_TI",599,58
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:29:53","TI1",600,58
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:30:11","Restart",601,58
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:30:13","AT1",602,59
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:30:13","DANGER1",603,59
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:30:13","DAT1",604,59
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:30:16","SAFE2",605,59
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:30:47","POSSIBLE_TI",606,59
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:30:48","TI1",607,59
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:30:59","Restart",608,59
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:31:00","AT1",609,59
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:31:01","DANGER1",610,59
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:31:01","DAT1",611,59
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:31:04","SAFE2",612,59
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:31:54","AT2",613,60
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:31:55","SAFE1",614,60
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:31:59","SAFE2",615,60
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:32:01","AT2",616,60
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:32:02","SAFE1",617,60
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:32:10","AT1",618,60
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:32:13","DANGER1",619,61
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:32:13","DAT1",620,61
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:32:16","SAFE2",621,61
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:32:26","AT2",622,61
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:32:27","DANGER2",623,61
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:32:27","DAT2",624,61
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:32:31","SAFE1",625,61
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:32:43","AT1",626,61
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:32:49","SAFE2",627,61
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:33:09","AT2",628,61
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:33:22","SAFE2",629,62
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:33:30","AT2",630,62
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:33:31","DANGER2",631,62
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:33:31","DAT2",632,62
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:33:38","PCR2",633,62
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:33:47","CR2",634,62
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:33:51","BLOCKED2",635,62
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:33:52","Ball Position",636,62
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:34:21","Restart",637,63
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:34:58","POSSIBLE_TI",638,63
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:34:59","TI2",639,63
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:35:04","SUB1",640,63
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:35:05","Restart",641,63
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:35:19","SUB_UPDATE",642,64
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:35:19","Player_DATA_CONFIRMED",643,64
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:35:20","POSSIBLE_TI",644,64
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:35:21","TI2",645,64
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:35:22","Restart",646,64
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:35:28","SAFE1",647,64
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:35:29","AT1",648,64
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:35:31","DANGER1",649,64
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:35:31","DAT1",650,64
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:35:36","GOAL1",651,64
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:35:45","CGOAL1",652,64
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:35:48","PCR1",653,64
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:36:02","CR1",654,64
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:36:06","SHG1",655,64
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:36:07","System Message",656,64
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:36:09","Ball Position",657,64
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:36:10","Restart",658,64
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:36:27","POSSIBLE_TI",659,65
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:36:28","TI2",660,65
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:36:32","Time Correction",661,65
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:37:07","Injury Break",662,65
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:38:55","Restart",663,67
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:39:03","SAFE1",664,67
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:39:12","AT1",665,68
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:39:29","Possible Free Kick",666,68
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:39:35","F2",668,68
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:39:35","FK1",669,68
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:39:35","Ball Position",670,68
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:39:35","DANGER1",671,68
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:39:35","DFK1",672,68
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:39:47","Restart",673,68
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:39:51","SAFE2",674,68
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:40:07","AT2",675,68
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:40:11","Possible Free Kick",676,68
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:40:13","F1",678,69
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:40:13","FK2",679,69
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:40:13","Ball Position",680,69
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:40:13","DANGER2",681,69
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:40:13","DFK2",682,69
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:40:50","Restart",683,69
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:40:57","SAFE1",684,69
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:40:58","GK1",685,69
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:41:21","Restart",686,70
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:41:22","AT1",687,70
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:41:22","SAFE2",688,70
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:41:25","AT2",689,70
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:41:28","SAFE1",690,70
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:41:30","AT1",691,70
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:41:31","DANGER1",692,70
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:41:31","DAT1",693,70
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:41:36","POSSIBLE_TI",694,70
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:41:37","TI1",695,70
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:41:39","Restart",696,70
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:41:39","SAFE1",697,70
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:41:46","AT1",698,70
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:42:13","DANGER1",699,71
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:42:13","DAT1",700,71
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:42:23","SHB1",701,71
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:42:24","SAFE2",702,71
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:42:25","GK2",703,71
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:42:52","Restart",704,71
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:42:52","AT2",705,71
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:42:56","POSSIBLE_TI",706,71
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:42:57","TI2",707,71
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:43:10","Restart",708,71
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:43:31","POSSIBLE_TI",709,72
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:43:31","TI1",710,72
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:43:32","Restart",711,72
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:43:32","SAFE1",712,72
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:43:39","AT2",713,72
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:43:50","SAFE2",714,72
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:43:57","AT2",715,72
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:44:06","DANGER2",716,72
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:44:06","DAT2",717,72
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:44:11","SAFE1",718,72
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:44:13","AT1",719,73
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:44:15","DANGER1",720,73
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:44:15","DAT1",721,73
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:44:41","PCR1",722,73
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:45:07","CR1",723,73
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:45:12","SHG1",724,74
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:45:14","Ball Position",725,74
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:45:17","Restart",726,74
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:45:29","PCR1",727,74
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:45:29","CR1",728,74
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:45:31","POSSIBLE_CARDS",729,74
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:45:33","YC2",730,74
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:45:33","CONF_YC2",731,74
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:45:33","Scorer",732,74
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:45:35","Scorer",733,74
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:45:35","Player_DATA_CONFIRMED",734,74
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:45:38","Ball Position",735,74
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:45:38","Restart",736,74
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:45:58","Possible Free Kick",737,74
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:45:58","SAFE2",739,74
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:45:58","F1",740,74
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:45:58","FK2",741,74
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:45:58","Ball Position",742,74
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:46:21","Danger",743,75
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:46:21","Scout offline",744,75
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:46:42","Transmission Online",745,75
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:46:42","Start score update",746,75
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:46:42","Statistic confirmation",747,75
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:46:42","Score update finished",748,75
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:46:52","AT2",749,75
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:46:54","DANGER2",750,75
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:46:54","DAT2",751,75
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:47:06","SAFE1",752,75
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:47:06","AT1",753,75
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:47:07","DANGER1",754,75
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:47:07","DAT1",755,75
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:47:22","POSSIBLE_TI",756,76
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:47:29","TI2",757,76
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:47:31","Restart",758,76
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:47:32","SAFE2",759,76
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:48:04","SAFE1",760,76
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:48:23","AT1",761,77
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:48:26","DANGER1",762,77
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:48:26","DAT1",763,77
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:48:39","POSSIBLE_TI",764,77
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:49:09","NO_TI",765,77
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:49:12","Possible Free Kick",766,78
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:49:14","SAFE2",768,78
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:49:14","F1",769,78
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:49:14","FK2",770,78
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:49:14","Ball Position",771,78
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:49:15","Restart",772,78
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:49:18","AT2",773,78
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:49:22","SAFE2",774,78
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:49:38","AT2",775,78
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:49:43","DANGER2",776,78
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:49:43","DAT2",777,78
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:49:51","SHG2",778,78
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:49:54","SAFE1",779,78
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:50:06","Start score update",780,78
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:50:06","Statistic confirmation",781,78
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:50:06","Score update finished",782,78
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:50:08","AT1",783,78
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:50:14","DANGER1",784,79
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:50:14","DAT1",785,79
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:50:28","PCR1",786,79
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:50:44","CR1",787,79
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:50:46","Ball Position",788,79
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:50:52","Restart",789,79
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:51:05","Possible Free Kick",790,79
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:51:08","SAFE2",792,79
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:51:08","F1",793,79
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:51:08","FK2",794,79
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:51:08","Ball Position",795,79
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:51:26","SUB2",796,80
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:51:36","Player_DATA_CONFIRMED",797,80
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:52:06","Restart",798,80
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:52:13","AT2",799,81
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:52:16","POSSIBLE_TI",800,81
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:52:17","TI2",801,81
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:52:21","Restart",802,81
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:52:22","DANGER2",803,81
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:52:22","DAT2",804,81
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:52:25","SAFE1",805,81
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:52:32","AT1",806,81
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:52:39","DANGER1",807,81
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:52:39","DAT1",808,81
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:52:53","SAFE2",809,81
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:53:04","AT2",810,81
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:53:08","DANGER2",811,81
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:53:08","DAT2",812,81
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:53:19","POSSIBLE_CARDS",813,82
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:53:34","Possible Free Kick",814,82
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:53:37","F1",816,82
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:53:37","FK2",817,82
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:53:37","DFK2",818,82
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:53:37","Ball Position",819,82
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:53:54","NO_Cards",820,82
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:54:06","Restart",821,82
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:54:12","SHB2",822,83
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:54:14","SAFE1",823,83
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:54:15","GK1",824,83
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:54:32","Restart",825,83
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:54:34","AT1",826,83
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:54:36","DANGER1",827,83
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:54:36","DAT1",828,83
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:54:49","Possible Free Kick",829,83
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:54:51","SAFE2",831,83
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:54:51","F1",832,83
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:54:51","FK2",833,83
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:54:51","Ball Position",834,83
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:55:39","Restart",835,84
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:55:40","AT2",836,84
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:55:41","SAFE1",837,84
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:55:55","AT1",838,84
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:55:57","DANGER1",839,84
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:55:57","DAT1",840,84
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:55:59","POSSIBLE_TI",841,84
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:56:00","TI1",842,84
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:56:01","Restart",843,84
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:56:09","Possible Free Kick",844,84
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:56:11","F2",846,84
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:56:11","FK1",847,84
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:56:11","DFK1",848,84
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:56:11","Ball Position",849,84
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:56:45","Restart",850,85
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:56:55","BLOCKED1",851,85
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:57:01","POSSIBLE_TI",852,85
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:57:02","TI1",853,85
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:57:09","Restart",854,85
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:57:16","PCR1",855,86
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:57:17","CR1",856,86
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:57:19","Ball Position",857,86
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:57:35","Restart",858,86
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:57:50","PCR1",859,86
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:57:51","CR1",860,86
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:57:54","BLOCKED1",861,86
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:57:55","Ball Position",862,86
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:57:56","Restart",863,86
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:58:11","Possible Free Kick",864,86
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:58:14","SAFE2",866,87
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:58:14","F1",867,87
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:58:14","FK2",868,87
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:58:14","Ball Position",869,87
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:58:30","Restart",870,87
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:58:32","AT2",871,87
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:58:40","Possible Free Kick",872,87
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:58:43","SAFE1",874,87
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:58:43","O2",875,87
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:58:43","FK1",876,87
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:58:43","Ball Position",877,87
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:59:04","Restart",878,87
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:59:05","AT1",879,87
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:59:08","DANGER1",880,87
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:59:08","DAT1",881,87
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:59:28","PCR1",882,88
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:59:30","CR1",883,88
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:59:36","Ball Position",884,88
+1228101,"Sheffield United FC","Watford FC","12/26/2019 16:59:39","SUB2",885,88
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:00:06","POSSIBLE_CARDS",886,88
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:00:12","YC2",887,89
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:00:13","CONF_YC2",888,89
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:00:15","Scorer",889,89
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:00:27","Restart",890,89
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:00:34","POSSIBLE_TI",891,89
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:00:35","TI1",892,89
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:00:38","SUB_UPDATE",893,89
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:00:38","Player_DATA_CONFIRMED",894,89
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:00:43","Restart",895,89
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:00:51","SAFE1",896,89
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:00:55","AT1",897,89
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:01:01","SAFE1",898,89
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:01:09","AT1",899,89
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:01:10","Scorer",900,89
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:01:10","Player_DATA_CONFIRMED",901,89
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:01:11","SAFE1",902,89
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:01:17","AT1",903,90
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:01:21","DANGER1",904,90
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:01:21","DAT1",905,90
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:01:25","SAFE2",906,90
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:01:26","GK2",907,90
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:01:46","Time Correction",908,90
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:01:49","Restart",909,90
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:01:59","AT2",910,90
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:02:01","SAFE1",911,90
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:02:04","AT1",912,90
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:02:05","SAFE2",913,90
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:02:06","AT2",914,90
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:02:16","DANGER2",915,91
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:02:16","DAT2",916,91
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:02:22","SAFE1",917,91
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:02:22","GK1",918,91
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:02:35","Restart",919,91
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:02:36","AT1",920,91
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:02:38","SAFE2",921,91
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:02:57","Extra Time",922,91
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:03:03","AT2",923,91
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:03:04","SAFE1",924,91
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:03:06","AT1",925,91
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:03:11","POSSIBLE_TI",926,91
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:03:12","TI1",927,92
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:03:15","Restart",928,92
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:03:20","SAFE1",929,92
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:03:24","AT1",930,92
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:03:26","DANGER1",931,92
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:03:26","DAT1",932,92
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:03:38","SAFE2",933,92
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:03:59","AT2",934,92
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:04:02","DANGER2",935,92
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:04:02","DAT2",936,92
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:04:12","Possible Free Kick",937,93
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:04:14","F1",939,93
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:04:14","FK2",940,93
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:04:14","DFK2",941,93
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:04:14","Ball Position",942,93
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:04:44","Restart",943,93
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:04:49","SAFE1",944,93
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:04:50","GK1",945,93
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:05:00","Restart",946,93
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:05:03","AT1",947,93
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:05:06","SAFE1",948,93
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:05:10","AT1",949,93
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:05:11","DANGER1",950,93
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:05:11","DAT1",951,93
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:05:16","SAFE2",952,94
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:05:32","AT2",953,94
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:05:36","POSSIBLE_TI",954,94
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:05:37","TI2",955,94
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:05:38","Restart",956,94
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:05:39","DANGER2",957,94
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:05:39","DAT2",958,94
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:05:56","SAFE1",959,94
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:06:01","AT1",960,94
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:06:05","SAFE2",961,94
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:06:13","Stop RT2",962,94
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:06:13","Stop Game",963,94
+1228101,"Sheffield United FC","Watford FC","12/26/2019 17:06:21","CONF_PERIOD_SCORE",964,94

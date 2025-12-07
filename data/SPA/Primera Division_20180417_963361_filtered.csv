@@ -1,0 +1,931 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+963361,"Villarreal CF","CD Leganes","04/17/2018 18:17:22","Transmission Online",0,0
+963361,"Villarreal CF","CD Leganes","04/17/2018 18:21:27","Lineup changed",1,0
+963361,"Villarreal CF","CD Leganes","04/17/2018 18:26:24","Lineup changed",2,0
+963361,"Villarreal CF","CD Leganes","04/17/2018 18:49:32","Scout in Stadion",3,0
+963361,"Villarreal CF","CD Leganes","04/17/2018 18:49:47","GCC",4,0
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:25:31","Jersey Changed",5,0
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:25:31","Jersey Changed",6,0
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:26:32","Players are coming out",7,0
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:26:45","Players lined up",8,0
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:26:57","Shake hands",9,0
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:27:25","Photo taking",10,0
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:28:13","Flip coin",11,0
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:29:12","Game about to start",12,0
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:29:47","Start RT1 Team 1",13,1
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:29:49","SAFE1",14,1
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:29:55","AT1",15,1
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:29:57","DANGER1",16,1
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:29:57","DAT1",17,1
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:30:02","Possible Free Kick",18,1
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:30:04","F2",20,1
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:30:04","FK1",21,1
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:30:04","DFK1",22,1
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:30:04","Ball Position",23,1
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:30:47","Restart",24,2
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:30:51","PCR1",25,2
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:30:59","CR1",26,2
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:31:00","SHB1",27,2
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:31:08","Ball Position",28,2
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:31:13","Restart",29,2
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:31:16","SAFE2",30,2
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:31:34","AT2",31,2
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:31:53","POSSIBLE_TI",32,3
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:31:58","TI2",33,3
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:32:02","Restart",34,3
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:32:08","SAFE2",35,3
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:32:26","AT2",36,3
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:32:30","SAFE1",37,3
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:33:01","SAFE2",38,4
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:33:10","AT2",39,4
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:33:16","SAFE2",40,4
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:33:24","AT2",41,4
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:33:27","SAFE1",42,4
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:33:32","AT1",43,4
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:33:34","SAFE2",44,4
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:33:53","SAFE1",45,5
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:33:54","POSSIBLE_TI",46,5
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:33:56","TI1",47,5
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:34:19","Restart",48,5
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:34:22","SAFE1",49,5
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:34:41","POSSIBLE_TI",50,5
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:34:44","TI1",51,5
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:34:46","Restart",52,5
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:34:55","AT1",53,6
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:35:06","SAFE1",54,6
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:35:19","AT1",55,6
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:35:21","DANGER1",56,6
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:35:21","DAT1",57,6
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:35:37","SAFE1",58,6
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:35:46","AT1",59,6
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:35:55","DANGER1",60,7
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:35:55","DAT1",61,7
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:36:26","SAFE2",62,7
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:36:29","Possible Free Kick",63,7
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:36:33","F1",65,7
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:36:33","FK2",66,7
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:36:33","Ball Position",67,7
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:36:56","Restart",68,8
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:36:57","AT2",69,8
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:36:59","DANGER2",70,8
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:36:59","DAT2",71,8
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:37:10","SAFE1",72,8
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:37:15","AT1",73,8
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:37:16","DANGER1",74,8
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:37:16","DAT1",75,8
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:37:21","PCR1",76,8
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:37:32","CR1",77,8
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:37:36","BLOCKED1",78,8
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:37:38","Ball Position",79,8
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:37:44","Restart",80,8
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:38:14","SAFE2",81,9
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:38:19","AT2",82,9
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:38:24","SAFE1",83,9
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:38:53","SAFE2",84,10
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:39:06","POSSIBLE_TI",85,10
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:39:10","TI2",86,10
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:39:19","Restart",87,10
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:39:23","SAFE1",88,10
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:39:44","SAFE1",89,10
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:39:49","AT2",90,11
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:39:54","SAFE2",91,11
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:40:03","AT2",92,11
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:40:09","SAFE1",93,11
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:40:13","AT1",94,11
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:40:14","DANGER1",95,11
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:40:14","DAT1",96,11
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:40:25","SHB1",97,11
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:40:30","SAFE2",98,11
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:40:31","GK2",99,11
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:40:57","Restart",100,12
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:41:01","AT2",101,12
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:41:03","SAFE1",102,12
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:41:06","Possible Free Kick",103,12
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:41:09","F2",105,12
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:41:09","FK1",106,12
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:41:09","Ball Position",107,12
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:41:11","Restart",108,12
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:41:11","SAFE1",109,12
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:41:17","POSSIBLE_TI",110,12
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:41:19","TI1",111,12
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:41:26","Restart",112,12
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:41:32","SAFE1",113,12
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:41:41","SAFE1",114,12
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:41:50","AT1",115,13
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:41:56","DANGER1",116,13
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:41:56","DAT1",117,13
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:42:05","POSSIBLE_TI",118,13
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:42:07","TI1",119,13
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:42:11","Restart",120,13
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:42:15","POSSIBLE_TI",121,13
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:42:18","TI1",122,13
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:42:19","Restart",123,13
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:42:34","SAFE2",124,13
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:42:52","AT2",125,14
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:42:56","Possible Free Kick",126,14
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:43:01","F1",128,14
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:43:01","FK2",129,14
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:43:01","DANGER2",130,14
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:43:01","DFK2",131,14
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:43:01","Ball Position",132,14
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:43:34","Restart",133,14
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:43:40","SAFE1",134,14
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:43:40","Possible Free Kick",135,14
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:43:48","O2",137,15
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:43:48","FK1",138,15
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:43:48","Ball Position",139,15
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:43:51","Restart",140,15
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:43:59","AT1",141,15
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:44:01","DANGER1",142,15
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:44:01","DAT1",143,15
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:44:03","SAFE2",144,15
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:44:12","AT2",145,15
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:44:12","DANGER2",146,15
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:44:12","DAT2",147,15
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:44:18","POSSIBLE_TI",148,15
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:44:24","TI2",149,15
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:44:27","Restart",150,15
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:44:36","SAFE2",151,15
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:44:41","AT2",152,15
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:44:51","SAFE1",153,16
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:44:52","Possible Free Kick",154,16
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:44:53","F2",156,16
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:44:53","FK1",157,16
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:44:53","Ball Position",158,16
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:44:59","Restart",159,16
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:45:01","SAFE1",160,16
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:45:17","SAFE2",161,16
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:45:18","POSSIBLE_TI",162,16
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:45:19","TI2",163,16
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:45:27","Restart",164,16
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:45:31","SAFE1",165,16
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:45:39","AT1",166,16
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:45:41","DANGER1",167,16
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:45:41","DAT1",168,16
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:45:49","SAFE2",169,17
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:45:50","POSSIBLE_TI",170,17
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:45:54","TI2",171,17
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:45:59","Restart",172,17
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:46:03","AT2",173,17
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:46:09","SAFE1",174,17
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:46:09","AT1",175,17
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:46:16","SAFE2",176,17
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:46:35","AT2",177,17
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:46:43","SAFE2",178,17
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:47:00","AT2",179,18
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:47:10","DANGER2",180,18
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:47:10","DAT2",181,18
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:47:26","SAFE1",182,18
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:47:40","AT1",183,18
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:47:44","DANGER1",184,18
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:47:44","DAT1",185,18
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:47:54","SHB1",186,19
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:47:57","SAFE2",187,19
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:47:59","GK2",188,19
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:48:18","Restart",189,19
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:48:23","SAFE1",190,19
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:48:29","AT1",191,19
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:48:33","POSSIBLE_TI",192,19
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:48:34","TI1",193,19
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:48:38","Restart",194,19
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:48:50","DANGER1",195,20
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:48:50","DAT1",196,20
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:48:53","SAFE2",197,20
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:48:56","AT1",198,20
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:49:02","DANGER1",199,20
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:49:02","DAT1",200,20
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:49:06","SAFE2",201,20
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:49:22","AT1",202,20
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:49:24","DANGER1",203,20
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:49:24","DAT1",204,20
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:49:37","SAFE2",205,20
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:49:47","AT2",206,21
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:49:54","DANGER2",207,21
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:49:54","DAT2",208,21
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:49:55","POSSIBLE_TI",209,21
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:50:01","TI1",210,21
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:50:02","Restart",211,21
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:50:06","SAFE2",212,21
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:50:07","POSSIBLE_TI",213,21
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:50:14","TI2",214,21
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:50:23","Restart",215,21
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:50:28","SAFE1",216,21
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:50:46","Possible Free Kick",217,21
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:50:48","F2",219,22
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:50:48","FK1",220,22
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:50:48","DANGER1",221,22
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:50:48","DFK1",222,22
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:50:48","Ball Position",223,22
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:50:49","POSSIBLE_CARDS",224,22
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:51:03","NO_Cards",225,22
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:51:07","Restart",226,22
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:51:09","SAFE1",227,22
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:51:14","AT1",228,22
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:51:17","DANGER1",229,22
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:51:17","DAT1",230,22
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:51:25","SAFE2",231,22
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:51:28","AT1",232,22
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:51:41","DANGER1",233,22
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:51:41","DAT1",234,22
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:51:51","SHG1",235,23
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:51:52","SAFE2",236,23
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:52:29","SAFE1",237,23
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:52:30","POSSIBLE_TI",238,23
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:52:32","TI1",239,23
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:52:37","Restart",240,23
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:52:45","SAFE1",241,23
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:53:01","AT1",242,24
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:53:11","Possible Free Kick",243,24
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:53:12","F2",245,24
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:53:12","FK1",246,24
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:53:12","DANGER1",247,24
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:53:12","DFK1",248,24
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:53:12","Ball Position",249,24
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:53:19","Restart",250,24
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:53:38","SAFE2",251,24
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:53:39","Possible Free Kick",252,24
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:53:41","F1",254,24
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:53:41","FK2",255,24
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:53:41","Ball Position",256,24
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:54:14","Restart",257,25
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:54:15","AT2",258,25
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:54:22","SAFE1",259,25
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:54:28","AT1",260,25
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:54:34","SAFE1",261,25
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:54:50","AT1",262,26
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:55:00","DANGER1",263,26
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:55:00","DAT1",264,26
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:55:41","PCR1",265,26
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:55:52","CR1",266,27
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:56:00","Ball Position",267,27
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:56:04","Restart",268,27
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:56:09","PCR1",269,27
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:56:22","CR1",270,27
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:56:24","Ball Position",271,27
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:56:27","Restart",272,27
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:56:37","SAFE2",273,27
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:56:46","AT2",274,27
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:56:48","DANGER2",275,28
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:56:48","DAT2",276,28
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:56:58","SHB2",277,28
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:57:03","SAFE1",278,28
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:57:04","GK1",279,28
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:57:33","Restart",280,28
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:57:35","SAFE1",281,28
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:57:41","AT1",282,28
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:57:47","SAFE2",283,29
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:57:48","AT2",284,29
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:57:52","AT1",285,29
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:57:52","DANGER1",286,29
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:57:52","DAT1",287,29
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:58:00","SAFE2",288,29
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:58:01","Possible Free Kick",289,29
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:58:08","O1",291,29
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:58:08","FK2",292,29
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:58:08","Ball Position",293,29
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:58:30","Restart",294,29
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:58:31","AT2",295,29
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:58:37","SAFE1",296,29
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:58:50","SAFE2",297,30
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:59:03","AT2",298,30
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:59:07","SAFE1",299,30
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:59:19","AT1",300,30
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:59:22","DANGER1",301,30
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:59:22","DAT1",302,30
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:59:24","SAFE2",303,30
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:59:31","AT2",304,30
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:59:33","SAFE1",305,30
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:59:34","AT1",306,30
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:59:37","Possible Free Kick",307,30
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:59:39","F2",309,30
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:59:39","FK1",310,30
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:59:39","DANGER1",311,30
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:59:39","DFK1",312,30
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:59:39","Ball Position",313,30
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:59:50","Restart",314,31
+963361,"Villarreal CF","CD Leganes","04/17/2018 19:59:57","SAFE1",315,31
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:00:05","AT1",316,31
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:00:12","DANGER1",317,31
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:00:12","DAT1",318,31
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:00:32","SAFE1",319,31
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:00:33","POSSIBLE_TI",320,31
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:00:35","TI1",321,31
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:00:36","Restart",322,31
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:00:37","SAFE1",323,31
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:00:45","AT1",324,31
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:00:47","DANGER1",325,32
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:00:47","DAT1",326,32
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:01:10","SAFE2",327,32
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:01:18","Possible Free Kick",328,32
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:01:21","F1",330,32
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:01:21","FK2",331,32
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:01:21","Ball Position",332,32
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:01:33","Restart",333,32
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:01:34","SAFE2",334,32
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:01:37","AT1",335,32
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:01:41","Possible Free Kick",336,32
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:01:43","F2",338,32
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:01:43","FK1",339,32
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:01:43","DANGER1",340,32
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:01:43","DFK1",341,32
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:01:43","Ball Position",342,32
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:01:45","POSSIBLE_CARDS",343,32
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:01:54","YC2",344,33
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:01:56","CONF_YC2",345,33
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:02:02","Scorer",346,33
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:02:07","Player_DATA_CONFIRMED",347,33
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:02:12","Restart",348,33
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:02:20","SAFE2",349,33
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:02:30","AT1",350,33
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:02:31","DANGER1",351,33
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:02:31","DAT1",352,33
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:02:47","BLOCKED1",353,33
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:03:03","SAFE2",354,34
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:03:23","AT2",355,34
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:03:28","SAFE1",356,34
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:03:29","Possible Free Kick",357,34
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:03:32","O2",359,34
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:03:32","FK1",360,34
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:03:32","Ball Position",361,34
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:03:35","Restart",362,34
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:03:37","AT1",363,34
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:03:48","SAFE2",364,35
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:03:49","POSSIBLE_TI",365,35
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:03:50","TI2",366,35
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:04:05","Restart",367,35
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:04:07","AT2",368,35
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:04:10","SAFE1",369,35
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:04:11","AT1",370,35
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:04:16","DANGER1",371,35
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:04:16","DAT1",372,35
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:04:48","PCR1",373,36
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:04:55","CR1",374,36
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:05:00","Ball Position",375,36
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:05:13","Restart",376,36
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:05:27","SAFE2",377,36
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:05:28","GK2",378,36
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:05:48","Restart",379,37
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:05:49","AT2",380,37
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:05:54","SAFE1",381,37
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:05:59","AT1",382,37
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:06:05","DANGER1",383,37
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:06:05","DAT1",384,37
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:06:38","SAFE1",385,37
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:06:44","AT2",386,37
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:06:46","Possible Free Kick",387,37
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:06:49","F1",389,38
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:06:49","FK2",390,38
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:06:49","DANGER2",391,38
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:06:49","DFK2",392,38
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:06:49","Ball Position",393,38
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:07:28","Restart",394,38
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:07:39","SHB2",395,38
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:07:44","SAFE1",396,38
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:07:46","GK1",397,38
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:07:53","Restart",398,39
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:07:54","SAFE1",399,39
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:08:19","AT2",400,39
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:08:20","Possible Free Kick",401,39
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:08:21","F1",403,39
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:08:21","FK2",404,39
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:08:21","DANGER2",405,39
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:08:21","DFK2",406,39
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:08:21","Ball Position",407,39
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:08:22","POSSIBLE_CARDS",408,39
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:08:29","YC1",409,39
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:08:31","CONF_YC1",410,39
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:08:37","Scorer",411,39
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:08:44","Player_DATA_CONFIRMED",412,39
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:09:05","Restart",413,40
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:09:12","SHB2",414,40
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:09:15","SAFE1",415,40
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:09:16","GK1",416,40
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:09:19","Restart",417,40
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:09:23","SAFE1",418,40
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:09:31","Possible Free Kick",419,40
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:09:33","F2",421,40
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:09:33","FK1",422,40
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:09:33","Ball Position",423,40
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:09:35","Restart",424,40
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:09:36","SAFE1",425,40
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:09:51","AT1",426,41
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:09:56","DANGER1",427,41
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:09:56","DAT1",428,41
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:10:18","SAFE2",429,41
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:10:24","GK2",430,41
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:10:35","Restart",431,41
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:10:38","SAFE1",432,41
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:10:51","AT1",433,42
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:10:56","DANGER1",434,42
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:10:56","DAT1",435,42
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:11:00","PCR1",436,42
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:11:06","CR1",437,42
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:11:13","Ball Position",438,42
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:11:22","Restart",439,42
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:11:25","GOAL1",440,42
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:11:42","Scorer",441,42
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:12:23","CONF_GOAL1",442,43
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:12:25","KO2",443,43
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:12:25","SAFE2",444,43
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:12:28","SAFE2",445,43
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:12:36","AT2",446,43
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:12:40","DANGER2",447,43
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:12:40","DAT2",448,43
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:12:51","SAFE1",449,44
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:12:51","AT1",450,44
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:12:58","Possible Free Kick",451,44
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:13:01","F2",453,44
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:13:01","FK1",454,44
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:13:01","DANGER1",455,44
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:13:01","DFK1",456,44
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:13:01","Ball Position",457,44
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:13:03","Player_DATA_CONFIRMED",458,44
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:13:03","Assist",459,44
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:13:23","Restart",460,44
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:13:28","SAFE1",461,44
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:13:34","AT1",462,44
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:13:40","SAFE2",463,44
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:13:43","AT1",464,44
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:13:50","SAFE1",465,45
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:13:56","AT1",466,45
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:14:08","SAFE1",467,45
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:14:34","AT1",468,45
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:14:41","SAFE2",469,45
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:14:44","SAFE1",470,45
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:14:52","Stop RT1",471,45
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:15:01","CONF_PERIOD_SCORE",472,45
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:27:08","Players are coming out",473,45
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:27:28","Game about to start",474,45
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:29:19","Start RT2 Team 2",475,46
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:29:22","SAFE2",476,46
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:29:43","AT2",477,46
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:29:45","SAFE1",478,46
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:29:56","AT1",479,46
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:30:00","SAFE2",480,46
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:30:20","AT2",481,47
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:30:30","POSSIBLE_TI",482,47
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:30:34","TI2",483,47
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:30:35","Restart",484,47
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:30:38","SAFE2",485,47
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:30:44","AT2",486,47
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:30:54","Possible Free Kick",487,47
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:30:56","F1",489,47
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:30:56","FK2",490,47
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:30:57","DANGER2",491,47
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:30:57","DFK2",492,47
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:30:57","Ball Position",493,47
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:31:31","Restart",494,48
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:31:36","SAFE2",495,48
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:31:43","AT2",496,48
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:31:54","DANGER2",497,48
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:31:54","DAT2",498,48
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:32:01","PCR2",499,48
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:32:09","CR2",500,48
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:32:14","Ball Position",501,48
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:32:22","Restart",502,49
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:32:24","SAFE1",503,49
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:32:36","AT2",504,49
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:32:40","SAFE1",505,49
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:32:56","AT1",506,49
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:33:03","SAFE2",507,49
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:33:12","AT2",508,49
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:33:17","DANGER2",509,49
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:33:17","DAT2",510,49
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:33:19","PCR2",511,49
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:33:24","CR2",512,50
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:33:29","Ball Position",513,50
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:33:41","Restart",514,50
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:33:44","SAFE1",515,50
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:34:14","AT1",516,50
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:34:17","DANGER1",517,50
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:34:17","DAT1",518,50
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:34:24","SHG1",519,51
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:34:26","SAFE2",520,51
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:34:44","AT2",521,51
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:34:54","SAFE1",522,51
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:35:00","POSSIBLE_TI",523,51
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:35:06","TI1",524,51
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:35:07","Restart",525,51
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:35:21","AT1",526,52
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:35:23","DANGER1",527,52
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:35:23","DAT1",528,52
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:35:35","SHB1",529,52
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:35:36","SAFE2",530,52
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:35:44","GK2",531,52
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:36:01","Restart",532,52
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:36:13","AT2",533,52
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:36:20","DANGER2",534,53
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:36:20","DAT2",535,53
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:36:23","Possible Free Kick",536,53
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:36:32","F1",538,53
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:36:32","FK2",539,53
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:36:32","DFK2",540,53
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:36:32","Ball Position",541,53
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:37:08","Restart",542,53
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:37:15","SAFE2",543,53
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:37:35","SAFE1",544,54
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:37:39","AT1",545,54
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:37:40","DANGER1",546,54
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:37:40","DAT1",547,54
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:37:47","SHB1",548,54
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:37:51","SAFE2",549,54
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:37:53","GK2",550,54
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:38:21","SUB2",551,55
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:38:28","Restart",552,55
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:38:29","AT2",553,55
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:38:34","SAFE2",554,55
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:38:45","AT2",555,55
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:38:49","SAFE1",556,55
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:38:50","POSSIBLE_TI",557,55
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:38:51","TI1",558,55
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:38:54","Restart",559,55
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:39:04","Player_DATA_CONFIRMED",560,55
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:39:06","AT1",561,55
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:39:08","DANGER1",562,55
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:39:08","DAT1",563,55
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:39:12","GOAL1",564,55
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:39:27","Scorer",565,56
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:40:04","CONF_GOAL1",566,56
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:40:05","KO2",567,56
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:40:05","SAFE2",568,56
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:40:06","SAFE2",569,56
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:40:16","POSSIBLE_TI",570,56
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:40:18","TI2",571,56
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:40:18","Player_DATA_CONFIRMED",572,56
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:40:23","Restart",573,57
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:40:25","AT1",574,57
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:40:25","POSSIBLE_TI",575,57
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:40:27","TI1",576,57
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:40:34","Assist",577,57
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:40:41","Restart",578,57
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:40:46","SAFE2",579,57
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:40:49","AT2",580,57
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:40:54","SAFE1",581,57
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:41:04","SAFE2",582,57
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:41:06","POSSIBLE_TI",583,57
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:41:08","TI2",584,57
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:41:09","Restart",585,57
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:41:17","AT2",586,57
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:41:19","DANGER2",587,57
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:41:19","DAT2",588,57
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:41:38","Possible Free Kick",589,58
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:41:41","F1",591,58
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:41:41","FK2",592,58
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:41:41","DFK2",593,58
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:41:41","Ball Position",594,58
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:42:14","Restart",595,58
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:42:19","SHB2",596,58
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:42:20","SAFE1",597,59
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:42:21","GK1",598,59
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:42:35","Restart",599,59
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:42:45","POSSIBLE_TI",600,59
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:42:47","TI1",601,59
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:42:47","Restart",602,59
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:42:48","AT1",603,59
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:42:55","DANGER1",604,59
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:42:55","DAT1",605,59
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:42:57","PCR1",606,59
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:43:11","CR1",607,59
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:43:18","Ball Position",608,59
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:43:27","Restart",609,60
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:43:31","PCR1",610,60
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:43:37","CR1",611,60
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:43:39","SHG1",612,60
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:43:44","Ball Position",613,60
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:43:51","Restart",614,60
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:43:59","BLOCKED1",615,60
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:44:00","SAFE2",616,60
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:44:05","SAFE1",617,60
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:44:29","AT2",618,61
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:44:34","SAFE1",619,61
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:45:11","AT1",620,61
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:45:14","DANGER1",621,61
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:45:14","DAT1",622,61
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:45:32","SAFE1",623,62
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:45:36","AT1",624,62
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:45:39","SAFE2",625,62
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:45:39","POSSIBLE_TI",626,62
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:45:42","TI2",627,62
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:46:04","SUB2",628,62
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:46:07","Restart",629,62
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:46:12","SAFE2",630,62
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:46:16","AT2",631,62
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:46:20","SAFE1",632,63
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:46:37","AT1",633,63
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:46:42","DANGER1",634,63
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:46:42","DAT1",635,63
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:47:03","SAFE2",636,63
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:47:03","Possible Free Kick",637,63
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:47:10","F1",639,63
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:47:10","FK2",640,63
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:47:10","Ball Position",641,63
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:47:28","Restart",642,64
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:47:29","AT2",643,64
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:47:34","SAFE1",644,64
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:47:34","Player_DATA_CONFIRMED",645,64
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:47:35","AT1",646,64
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:47:36","DANGER1",647,64
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:47:36","DAT1",648,64
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:47:41","PCR1",649,64
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:47:55","CR1",650,64
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:47:57","BLOCKED1",651,64
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:48:04","Ball Position",652,64
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:48:21","Restart",653,65
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:48:35","SHG1",654,65
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:48:37","SAFE2",655,65
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:48:40","AT2",656,65
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:48:42","SAFE1",657,65
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:48:43","AT1",658,65
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:48:44","DANGER1",659,65
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:48:44","DAT1",660,65
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:49:05","SAFE2",661,65
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:49:06","POSSIBLE_TI",662,65
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:49:06","TI2",663,65
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:49:31","Injury Break",664,66
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:50:22","Restart",665,67
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:50:26","SAFE2",666,67
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:50:34","AT2",667,67
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:50:34","DANGER2",668,67
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:50:34","DAT2",669,67
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:50:40","POSSIBLE_TI",670,67
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:50:45","TI2",671,67
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:51:30","SUB1",672,68
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:51:39","SUB2",673,68
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:51:42","Restart",674,68
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:51:44","SAFE2",675,68
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:51:50","AT1",676,68
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:51:53","DANGER1",677,68
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:51:53","DAT1",678,68
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:51:59","PCR1",679,68
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:52:05","CR1",680,68
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:52:11","Ball Position",681,68
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:52:17","Restart",682,68
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:52:33","Player_DATA_CONFIRMED",683,69
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:52:54","SAFE2",684,69
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:52:57","AT2",685,69
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:52:58","SAFE1",686,69
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:53:04","SUB_UPDATE",687,69
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:53:04","Player_DATA_CONFIRMED",688,69
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:53:05","Possible Free Kick",689,69
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:53:10","F2",691,69
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:53:10","FK1",692,69
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:53:10","Ball Position",693,69
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:53:17","Restart",694,69
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:53:20","SAFE1",695,70
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:53:28","SAFE2",696,70
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:53:29","POSSIBLE_TI",697,70
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:53:29","TI2",698,70
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:53:39","Restart",699,70
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:53:43","SAFE2",700,70
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:53:44","Possible Free Kick",701,70
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:53:46","F1",703,70
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:53:46","FK2",704,70
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:53:46","Ball Position",705,70
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:53:51","Restart",706,70
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:53:53","SAFE2",707,70
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:54:08","AT1",708,70
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:54:11","DANGER1",709,70
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:54:11","DAT1",710,70
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:54:13","SAFE2",711,70
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:54:30","AT2",712,71
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:54:33","DANGER2",713,71
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:54:33","DAT2",714,71
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:54:43","POSSIBLE_TI",715,71
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:54:47","TI2",716,71
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:54:57","Restart",717,71
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:55:14","SAFE1",718,71
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:55:21","AT1",719,72
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:55:24","DANGER1",720,72
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:55:24","DAT1",721,72
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:55:51","BLOCKED1",722,72
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:55:53","POSSIBLE_TI",723,72
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:55:57","TI1",724,72
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:56:15","Restart",725,72
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:56:34","Possible Free Kick",726,73
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:56:36","F2",728,73
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:56:36","FK1",729,73
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:56:36","DFK1",730,73
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:56:36","Ball Position",731,73
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:56:39","Restart",732,73
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:56:40","SAFE1",733,73
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:56:50","AT1",734,73
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:56:57","SAFE1",735,73
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:57:05","AT1",736,73
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:57:06","DANGER1",737,73
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:57:06","DAT1",738,73
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:57:09","SAFE2",739,73
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:57:10","Possible Free Kick",740,73
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:57:12","O1",742,73
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:57:12","FK2",743,73
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:57:12","Ball Position",744,73
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:57:26","Restart",745,74
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:57:27","AT2",746,74
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:57:34","SAFE2",747,74
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:57:42","SAFE1",748,74
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:57:43","POSSIBLE_TI",749,74
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:57:49","TI1",750,74
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:57:56","Restart",751,74
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:57:58","AT1",752,74
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:58:00","DANGER1",753,74
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:58:00","DAT1",754,74
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:58:02","SAFE2",755,74
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:58:03","Possible Free Kick",756,74
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:58:07","O1",758,74
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:58:07","FK2",759,74
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:58:07","Ball Position",760,74
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:58:17","Restart",761,74
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:58:19","AT2",762,74
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:58:23","DANGER2",763,75
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:58:23","DAT2",764,75
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:58:36","PCR2",765,75
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:58:45","CR2",766,75
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:58:47","Ball Position",767,75
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:58:51","Restart",768,75
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:59:01","SAFE1",769,75
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:59:01","Possible Free Kick",770,75
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:59:03","F2",772,75
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:59:03","FK1",773,75
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:59:03","Ball Position",774,75
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:59:36","Restart",775,76
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:59:42","SAFE2",776,76
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:59:45","AT1",777,76
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:59:49","SAFE1",778,76
+963361,"Villarreal CF","CD Leganes","04/17/2018 20:59:59","AT2",779,76
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:00:04","SAFE1",780,76
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:00:08","SAFE2",781,76
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:00:41","SAFE2",782,77
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:00:42","Possible Free Kick",783,77
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:00:46","FK2",785,77
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:00:46","Ball Position",786,77
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:00:48","Restart",787,77
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:00:49","SAFE2",788,77
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:01:05","AT2",789,77
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:01:09","DANGER2",790,77
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:01:09","DAT2",791,77
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:01:14","SAFE1",792,77
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:01:29","SAFE2",793,78
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:01:47","AT1",794,78
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:01:50","DANGER1",795,78
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:01:50","DAT1",796,78
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:01:54","SAFE2",797,78
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:01:55","Possible Free Kick",798,78
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:01:57","O1",800,78
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:01:57","FK2",801,78
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:01:57","Ball Position",802,78
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:02:01","Restart",803,78
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:02:02","SAFE2",804,78
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:02:28","AT2",805,79
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:02:43","DANGER2",806,79
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:02:43","DAT2",807,79
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:03:01","POSSIBLE_TI",808,79
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:03:04","TI2",809,79
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:03:41","SUB1",810,80
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:03:43","Restart",811,80
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:03:46","SAFE1",812,80
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:03:55","AT1",813,80
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:03:56","DANGER1",814,80
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:03:56","DAT1",815,80
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:04:02","SAFE2",816,80
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:04:04","Player_DATA_CONFIRMED",817,80
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:04:10","AT1",818,80
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:04:12","SAFE1",819,80
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:04:39","AT1",820,81
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:04:42","DANGER1",821,81
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:04:42","DAT1",822,81
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:04:48","BLOCKED1",823,81
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:04:51","SAFE2",824,81
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:04:58","AT2",825,81
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:05:11","SAFE2",826,81
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:05:29","SAFE2",827,82
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:05:37","AT2",828,82
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:05:41","DANGER2",829,82
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:05:41","DAT2",830,82
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:06:11","GOAL2",831,82
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:06:38","Scorer",832,83
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:06:40","CONF_GOAL2",833,83
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:06:41","KO1",834,83
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:06:41","SAFE1",835,83
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:06:43","SAFE1",836,83
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:06:51","Possible Free Kick",837,83
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:06:52","F2",839,83
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:06:52","FK1",840,83
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:06:53","Ball Position",841,83
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:07:13","Restart",842,83
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:07:16","AT1",843,83
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:07:20","SAFE2",844,84
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:07:21","Possible Free Kick",845,84
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:07:26","O1",847,84
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:07:26","FK2",848,84
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:07:26","Ball Position",849,84
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:07:28","Restart",850,84
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:07:33","SAFE2",851,84
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:07:38","SAFE1",852,84
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:07:40","AT1",853,84
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:07:42","DANGER1",854,84
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:07:42","DAT1",855,84
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:07:49","SAFE2",856,84
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:07:56","AT2",857,84
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:08:03","DANGER2",858,84
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:08:03","DAT2",859,84
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:08:10","POSSIBLE_TI",860,84
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:08:11","TI2",861,84
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:08:18","Restart",862,84
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:08:19","SAFE2",863,84
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:08:34","Player_DATA_CONFIRMED",864,85
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:08:34","Assist",865,85
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:08:45","SAFE1",866,85
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:08:49","AT2",867,85
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:08:50","POSSIBLE_TI",868,85
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:08:51","TI2",869,85
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:08:52","Restart",870,85
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:08:53","DANGER2",871,85
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:08:53","DAT2",872,85
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:08:58","SAFE2",873,85
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:09:07","AT2",874,85
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:09:08","DANGER2",875,85
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:09:08","DAT2",876,85
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:09:19","SAFE1",877,85
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:09:27","AT1",878,86
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:09:30","DANGER1",879,86
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:09:30","DAT1",880,86
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:09:40","SAFE2",881,86
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:09:54","AT2",882,86
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:10:03","DANGER2",883,86
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:10:03","DAT2",884,86
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:10:10","BLOCKED2",885,86
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:10:12","SAFE1",886,86
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:10:30","AT1",887,87
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:10:36","SAFE1",888,87
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:10:42","AT1",889,87
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:10:46","DANGER1",890,87
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:10:46","DAT1",891,87
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:11:25","SAFE2",892,88
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:11:25","Possible Free Kick",893,88
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:11:30","F1",895,88
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:11:30","FK2",896,88
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:11:30","Ball Position",897,88
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:12:07","SUB1",898,88
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:12:18","Player_DATA_CONFIRMED",899,88
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:12:18","Restart",900,88
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:12:20","AT2",901,89
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:12:26","POSSIBLE_TI",902,89
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:12:27","TI2",903,89
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:12:37","Restart",904,89
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:12:45","SAFE2",905,89
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:12:45","POSSIBLE_TI",906,89
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:12:47","TI2",907,89
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:12:51","Restart",908,89
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:12:53","SAFE2",909,89
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:12:57","AT2",910,89
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:12:59","DANGER2",911,89
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:12:59","DAT2",912,89
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:13:09","SAFE1",913,89
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:13:10","POSSIBLE_TI",914,89
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:13:11","TI1",915,89
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:13:31","Restart",916,90
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:13:35","Possible Free Kick",917,90
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:13:50","F2",919,90
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:13:50","FK1",920,90
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:13:50","Ball Position",921,90
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:14:05","Restart",922,90
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:14:12","SAFE2",923,90
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:14:12","POSSIBLE_TI",924,90
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:14:13","TI2",925,90
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:14:23","Restart",926,91
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:14:27","AT1",927,91
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:14:28","DANGER1",928,91
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:14:28","DAT1",929,91
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:14:33","SHB1",930,91
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:14:35","SAFE2",931,91
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:14:36","GK2",932,91
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:14:41","Extra Time",933,91
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:14:46","Restart",934,91
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:14:48","AT2",935,91
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:14:48","Possible Free Kick",936,91
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:14:51","F1",938,91
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:14:51","FK2",939,91
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:14:51","DANGER2",940,91
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:14:51","DFK2",941,91
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:14:51","Ball Position",942,91
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:15:25","Restart",943,92
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:15:32","POSSIBLE_TI",944,92
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:15:36","TI2",945,92
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:15:41","Restart",946,92
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:15:54","SAFE1",947,92
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:15:56","SAFE2",948,92
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:16:00","AT2",949,92
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:16:05","POSSIBLE_TI",950,92
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:16:07","TI2",951,92
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:16:12","Restart",952,92
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:16:15","DANGER2",953,92
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:16:15","DAT2",954,92
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:16:28","PCR2",955,93
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:16:33","CR2",956,93
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:16:37","Ball Position",957,93
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:16:53","Restart",958,93
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:16:58","SAFE1",959,93
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:17:16","AT1",960,93
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:17:20","SAFE2",961,94
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:17:24","Stop RT2",962,94
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:17:24","Stop Game",963,94
+963361,"Villarreal CF","CD Leganes","04/17/2018 21:17:31","CONF_PERIOD_SCORE",964,93

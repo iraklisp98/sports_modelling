@@ -1,0 +1,909 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+979302,"Malaga CF","Getafe CF","05/19/2018 15:25:40","Lineup changed",0,0
+979302,"Malaga CF","Getafe CF","05/19/2018 15:26:10","Transmission Online",1,0
+979302,"Malaga CF","Getafe CF","05/19/2018 15:30:44","Lineup changed",2,0
+979302,"Malaga CF","Getafe CF","05/19/2018 15:43:30","Scout in Stadion",3,0
+979302,"Malaga CF","Getafe CF","05/19/2018 15:46:09","GCC",4,0
+979302,"Malaga CF","Getafe CF","05/19/2018 16:26:17","Jersey Changed",5,0
+979302,"Malaga CF","Getafe CF","05/19/2018 16:26:17","Jersey Changed",6,0
+979302,"Malaga CF","Getafe CF","05/19/2018 16:26:18","Players are coming out",7,0
+979302,"Malaga CF","Getafe CF","05/19/2018 16:26:43","Players lined up",8,0
+979302,"Malaga CF","Getafe CF","05/19/2018 16:26:47","Shake hands",9,0
+979302,"Malaga CF","Getafe CF","05/19/2018 16:28:17","Flip coin",10,0
+979302,"Malaga CF","Getafe CF","05/19/2018 16:28:25","Photo taking",11,0
+979302,"Malaga CF","Getafe CF","05/19/2018 16:28:28","Game about to start",12,0
+979302,"Malaga CF","Getafe CF","05/19/2018 16:29:47","Start RT1 Team 1",13,1
+979302,"Malaga CF","Getafe CF","05/19/2018 16:29:51","AT1",14,1
+979302,"Malaga CF","Getafe CF","05/19/2018 16:29:57","SAFE2",15,1
+979302,"Malaga CF","Getafe CF","05/19/2018 16:30:05","AT2",16,1
+979302,"Malaga CF","Getafe CF","05/19/2018 16:30:10","SAFE1",17,1
+979302,"Malaga CF","Getafe CF","05/19/2018 16:30:11","AT1",18,1
+979302,"Malaga CF","Getafe CF","05/19/2018 16:30:13","Possible Free Kick",19,1
+979302,"Malaga CF","Getafe CF","05/19/2018 16:30:16","F2",21,1
+979302,"Malaga CF","Getafe CF","05/19/2018 16:30:16","FK1",22,1
+979302,"Malaga CF","Getafe CF","05/19/2018 16:30:16","DANGER1",23,1
+979302,"Malaga CF","Getafe CF","05/19/2018 16:30:16","DFK1",24,1
+979302,"Malaga CF","Getafe CF","05/19/2018 16:30:16","Ball Position",25,1
+979302,"Malaga CF","Getafe CF","05/19/2018 16:30:22","Restart",26,1
+979302,"Malaga CF","Getafe CF","05/19/2018 16:30:28","SAFE1",27,1
+979302,"Malaga CF","Getafe CF","05/19/2018 16:30:35","AT1",28,1
+979302,"Malaga CF","Getafe CF","05/19/2018 16:30:40","AT2",29,1
+979302,"Malaga CF","Getafe CF","05/19/2018 16:30:40","DANGER2",30,1
+979302,"Malaga CF","Getafe CF","05/19/2018 16:30:40","DAT2",31,1
+979302,"Malaga CF","Getafe CF","05/19/2018 16:31:00","PCR2",32,2
+979302,"Malaga CF","Getafe CF","05/19/2018 16:31:05","NCR2",33,2
+979302,"Malaga CF","Getafe CF","05/19/2018 16:31:07","POSSIBLE_TI",34,2
+979302,"Malaga CF","Getafe CF","05/19/2018 16:31:14","NO_TI",35,2
+979302,"Malaga CF","Getafe CF","05/19/2018 16:31:18","PCR2",36,2
+979302,"Malaga CF","Getafe CF","05/19/2018 16:31:19","CR2",37,2
+979302,"Malaga CF","Getafe CF","05/19/2018 16:31:22","Ball Position",38,2
+979302,"Malaga CF","Getafe CF","05/19/2018 16:31:28","Restart",39,2
+979302,"Malaga CF","Getafe CF","05/19/2018 16:31:41","SHB2",40,2
+979302,"Malaga CF","Getafe CF","05/19/2018 16:31:43","SAFE1",41,2
+979302,"Malaga CF","Getafe CF","05/19/2018 16:31:43","GK1",42,2
+979302,"Malaga CF","Getafe CF","05/19/2018 16:32:08","Restart",43,3
+979302,"Malaga CF","Getafe CF","05/19/2018 16:32:13","SAFE2",44,3
+979302,"Malaga CF","Getafe CF","05/19/2018 16:32:14","AT2",45,3
+979302,"Malaga CF","Getafe CF","05/19/2018 16:32:15","DANGER2",46,3
+979302,"Malaga CF","Getafe CF","05/19/2018 16:32:15","DAT2",47,3
+979302,"Malaga CF","Getafe CF","05/19/2018 16:32:19","PCR2",48,3
+979302,"Malaga CF","Getafe CF","05/19/2018 16:32:22","CR2",49,3
+979302,"Malaga CF","Getafe CF","05/19/2018 16:32:26","SHG2",50,3
+979302,"Malaga CF","Getafe CF","05/19/2018 16:32:28","Ball Position",51,3
+979302,"Malaga CF","Getafe CF","05/19/2018 16:32:55","Restart",52,4
+979302,"Malaga CF","Getafe CF","05/19/2018 16:32:58","SAFE1",53,4
+979302,"Malaga CF","Getafe CF","05/19/2018 16:33:01","AT2",54,4
+979302,"Malaga CF","Getafe CF","05/19/2018 16:33:01","DANGER2",55,4
+979302,"Malaga CF","Getafe CF","05/19/2018 16:33:01","DAT2",56,4
+979302,"Malaga CF","Getafe CF","05/19/2018 16:33:05","SAFE1",57,4
+979302,"Malaga CF","Getafe CF","05/19/2018 16:33:05","GK1",58,4
+979302,"Malaga CF","Getafe CF","05/19/2018 16:33:29","Restart",59,4
+979302,"Malaga CF","Getafe CF","05/19/2018 16:33:31","AT1",60,4
+979302,"Malaga CF","Getafe CF","05/19/2018 16:33:37","DANGER1",61,4
+979302,"Malaga CF","Getafe CF","05/19/2018 16:33:37","DAT1",62,4
+979302,"Malaga CF","Getafe CF","05/19/2018 16:33:43","PCR1",63,4
+979302,"Malaga CF","Getafe CF","05/19/2018 16:33:45","CR1",64,4
+979302,"Malaga CF","Getafe CF","05/19/2018 16:33:48","Ball Position",65,5
+979302,"Malaga CF","Getafe CF","05/19/2018 16:34:06","Restart",66,5
+979302,"Malaga CF","Getafe CF","05/19/2018 16:34:20","SAFE1",67,5
+979302,"Malaga CF","Getafe CF","05/19/2018 16:34:24","AT1",68,5
+979302,"Malaga CF","Getafe CF","05/19/2018 16:34:26","DANGER1",69,5
+979302,"Malaga CF","Getafe CF","05/19/2018 16:34:26","DAT1",70,5
+979302,"Malaga CF","Getafe CF","05/19/2018 16:34:34","SAFE2",71,5
+979302,"Malaga CF","Getafe CF","05/19/2018 16:35:06","AT2",72,6
+979302,"Malaga CF","Getafe CF","05/19/2018 16:35:06","DANGER2",73,6
+979302,"Malaga CF","Getafe CF","05/19/2018 16:35:06","DAT2",74,6
+979302,"Malaga CF","Getafe CF","05/19/2018 16:35:10","SAFE1",75,6
+979302,"Malaga CF","Getafe CF","05/19/2018 16:35:16","AT1",76,6
+979302,"Malaga CF","Getafe CF","05/19/2018 16:35:20","POSSIBLE_TI",77,6
+979302,"Malaga CF","Getafe CF","05/19/2018 16:35:21","TI1",78,6
+979302,"Malaga CF","Getafe CF","05/19/2018 16:35:23","CLS",79,6
+979302,"Malaga CF","Getafe CF","05/19/2018 16:35:26","NO_TI",80,6
+979302,"Malaga CF","Getafe CF","05/19/2018 16:35:27","Possible Free Kick",81,6
+979302,"Malaga CF","Getafe CF","05/19/2018 16:35:32","SAFE2",83,6
+979302,"Malaga CF","Getafe CF","05/19/2018 16:35:32","O1",84,6
+979302,"Malaga CF","Getafe CF","05/19/2018 16:35:32","FK2",85,6
+979302,"Malaga CF","Getafe CF","05/19/2018 16:35:32","Ball Position",86,6
+979302,"Malaga CF","Getafe CF","05/19/2018 16:35:55","Restart",87,7
+979302,"Malaga CF","Getafe CF","05/19/2018 16:36:01","SAFE1",88,7
+979302,"Malaga CF","Getafe CF","05/19/2018 16:36:12","Possible Free Kick",89,7
+979302,"Malaga CF","Getafe CF","05/19/2018 16:36:14","F2",91,7
+979302,"Malaga CF","Getafe CF","05/19/2018 16:36:14","FK1",92,7
+979302,"Malaga CF","Getafe CF","05/19/2018 16:36:14","Ball Position",93,7
+979302,"Malaga CF","Getafe CF","05/19/2018 16:36:30","Restart",94,7
+979302,"Malaga CF","Getafe CF","05/19/2018 16:36:37","SAFE2",95,7
+979302,"Malaga CF","Getafe CF","05/19/2018 16:36:50","AT2",96,8
+979302,"Malaga CF","Getafe CF","05/19/2018 16:36:50","DANGER2",97,8
+979302,"Malaga CF","Getafe CF","05/19/2018 16:36:50","DAT2",98,8
+979302,"Malaga CF","Getafe CF","05/19/2018 16:36:55","SAFE1",99,8
+979302,"Malaga CF","Getafe CF","05/19/2018 16:36:56","GK1",100,8
+979302,"Malaga CF","Getafe CF","05/19/2018 16:37:22","Restart",101,8
+979302,"Malaga CF","Getafe CF","05/19/2018 16:37:28","POSSIBLE_TI",102,8
+979302,"Malaga CF","Getafe CF","05/19/2018 16:37:31","TI2",103,8
+979302,"Malaga CF","Getafe CF","05/19/2018 16:37:46","Restart",104,8
+979302,"Malaga CF","Getafe CF","05/19/2018 16:38:01","AT2",105,9
+979302,"Malaga CF","Getafe CF","05/19/2018 16:38:03","SAFE1",106,9
+979302,"Malaga CF","Getafe CF","05/19/2018 16:38:21","AT1",107,9
+979302,"Malaga CF","Getafe CF","05/19/2018 16:38:21","DANGER1",108,9
+979302,"Malaga CF","Getafe CF","05/19/2018 16:38:21","DAT1",109,9
+979302,"Malaga CF","Getafe CF","05/19/2018 16:38:24","POSSIBLE_TI",110,9
+979302,"Malaga CF","Getafe CF","05/19/2018 16:38:25","TI2",111,9
+979302,"Malaga CF","Getafe CF","05/19/2018 16:38:39","Restart",112,9
+979302,"Malaga CF","Getafe CF","05/19/2018 16:38:44","POSSIBLE_TI",113,9
+979302,"Malaga CF","Getafe CF","05/19/2018 16:38:46","TI1",114,9
+979302,"Malaga CF","Getafe CF","05/19/2018 16:38:54","Restart",115,10
+979302,"Malaga CF","Getafe CF","05/19/2018 16:38:58","SAFE2",116,10
+979302,"Malaga CF","Getafe CF","05/19/2018 16:39:08","AT2",117,10
+979302,"Malaga CF","Getafe CF","05/19/2018 16:39:16","DANGER2",118,10
+979302,"Malaga CF","Getafe CF","05/19/2018 16:39:16","DAT2",119,10
+979302,"Malaga CF","Getafe CF","05/19/2018 16:39:17","PCR2",120,10
+979302,"Malaga CF","Getafe CF","05/19/2018 16:39:20","CR2",121,10
+979302,"Malaga CF","Getafe CF","05/19/2018 16:39:22","Ball Position",122,10
+979302,"Malaga CF","Getafe CF","05/19/2018 16:39:38","Restart",123,10
+979302,"Malaga CF","Getafe CF","05/19/2018 16:39:45","PCR2",124,10
+979302,"Malaga CF","Getafe CF","05/19/2018 16:39:52","CR2",125,11
+979302,"Malaga CF","Getafe CF","05/19/2018 16:39:54","Ball Position",126,11
+979302,"Malaga CF","Getafe CF","05/19/2018 16:40:05","Restart",127,11
+979302,"Malaga CF","Getafe CF","05/19/2018 16:40:10","SHB2",128,11
+979302,"Malaga CF","Getafe CF","05/19/2018 16:40:12","SAFE1",129,11
+979302,"Malaga CF","Getafe CF","05/19/2018 16:40:13","GK1",130,11
+979302,"Malaga CF","Getafe CF","05/19/2018 16:40:33","Restart",131,11
+979302,"Malaga CF","Getafe CF","05/19/2018 16:40:40","AT1",132,11
+979302,"Malaga CF","Getafe CF","05/19/2018 16:40:43","POSSIBLE_TI",133,11
+979302,"Malaga CF","Getafe CF","05/19/2018 16:40:45","TI1",134,11
+979302,"Malaga CF","Getafe CF","05/19/2018 16:40:48","CLS",135,12
+979302,"Malaga CF","Getafe CF","05/19/2018 16:40:50","TI2",136,12
+979302,"Malaga CF","Getafe CF","05/19/2018 16:41:02","Restart",137,12
+979302,"Malaga CF","Getafe CF","05/19/2018 16:41:11","POSSIBLE_TI",138,12
+979302,"Malaga CF","Getafe CF","05/19/2018 16:41:12","TI1",139,12
+979302,"Malaga CF","Getafe CF","05/19/2018 16:41:22","Restart",140,12
+979302,"Malaga CF","Getafe CF","05/19/2018 16:41:28","SAFE2",141,12
+979302,"Malaga CF","Getafe CF","05/19/2018 16:41:29","AT2",142,12
+979302,"Malaga CF","Getafe CF","05/19/2018 16:41:32","DANGER2",143,12
+979302,"Malaga CF","Getafe CF","05/19/2018 16:41:32","DAT2",144,12
+979302,"Malaga CF","Getafe CF","05/19/2018 16:41:39","SAFE1",145,12
+979302,"Malaga CF","Getafe CF","05/19/2018 16:41:57","AT1",146,13
+979302,"Malaga CF","Getafe CF","05/19/2018 16:42:04","Possible Free Kick",147,13
+979302,"Malaga CF","Getafe CF","05/19/2018 16:42:05","SAFE2",149,13
+979302,"Malaga CF","Getafe CF","05/19/2018 16:42:05","F1",150,13
+979302,"Malaga CF","Getafe CF","05/19/2018 16:42:05","FK2",151,13
+979302,"Malaga CF","Getafe CF","05/19/2018 16:42:05","Ball Position",152,13
+979302,"Malaga CF","Getafe CF","05/19/2018 16:42:09","Restart",153,13
+979302,"Malaga CF","Getafe CF","05/19/2018 16:42:19","SAFE1",154,13
+979302,"Malaga CF","Getafe CF","05/19/2018 16:42:26","AT1",155,13
+979302,"Malaga CF","Getafe CF","05/19/2018 16:42:32","SAFE1",156,13
+979302,"Malaga CF","Getafe CF","05/19/2018 16:42:46","SAFE2",157,13
+979302,"Malaga CF","Getafe CF","05/19/2018 16:42:48","AT2",158,14
+979302,"Malaga CF","Getafe CF","05/19/2018 16:42:55","DANGER2",159,14
+979302,"Malaga CF","Getafe CF","05/19/2018 16:42:55","DAT2",160,14
+979302,"Malaga CF","Getafe CF","05/19/2018 16:43:02","PCR2",161,14
+979302,"Malaga CF","Getafe CF","05/19/2018 16:43:04","CR2",162,14
+979302,"Malaga CF","Getafe CF","05/19/2018 16:43:07","Ball Position",163,14
+979302,"Malaga CF","Getafe CF","05/19/2018 16:43:37","Restart",164,14
+979302,"Malaga CF","Getafe CF","05/19/2018 16:43:43","BLOCKED2",165,14
+979302,"Malaga CF","Getafe CF","05/19/2018 16:43:59","SAFE2",166,15
+979302,"Malaga CF","Getafe CF","05/19/2018 16:44:01","AT2",167,15
+979302,"Malaga CF","Getafe CF","05/19/2018 16:44:03","DANGER2",168,15
+979302,"Malaga CF","Getafe CF","05/19/2018 16:44:03","DAT2",169,15
+979302,"Malaga CF","Getafe CF","05/19/2018 16:44:05","SAFE1",170,15
+979302,"Malaga CF","Getafe CF","05/19/2018 16:44:27","SAFE2",171,15
+979302,"Malaga CF","Getafe CF","05/19/2018 16:44:31","AT2",172,15
+979302,"Malaga CF","Getafe CF","05/19/2018 16:44:35","POSSIBLE_TI",173,15
+979302,"Malaga CF","Getafe CF","05/19/2018 16:44:37","TI2",174,15
+979302,"Malaga CF","Getafe CF","05/19/2018 16:44:50","Restart",175,16
+979302,"Malaga CF","Getafe CF","05/19/2018 16:44:53","POSSIBLE_TI",176,16
+979302,"Malaga CF","Getafe CF","05/19/2018 16:44:54","TI2",177,16
+979302,"Malaga CF","Getafe CF","05/19/2018 16:45:10","Restart",178,16
+979302,"Malaga CF","Getafe CF","05/19/2018 16:45:12","DANGER2",179,16
+979302,"Malaga CF","Getafe CF","05/19/2018 16:45:12","DAT2",180,16
+979302,"Malaga CF","Getafe CF","05/19/2018 16:45:14","SAFE1",181,16
+979302,"Malaga CF","Getafe CF","05/19/2018 16:45:15","GK1",182,16
+979302,"Malaga CF","Getafe CF","05/19/2018 16:45:38","Restart",183,16
+979302,"Malaga CF","Getafe CF","05/19/2018 16:45:51","SAFE1",184,17
+979302,"Malaga CF","Getafe CF","05/19/2018 16:45:53","Possible Free Kick",185,17
+979302,"Malaga CF","Getafe CF","05/19/2018 16:46:01","F1",188,17
+979302,"Malaga CF","Getafe CF","05/19/2018 16:46:01","FK2",189,17
+979302,"Malaga CF","Getafe CF","05/19/2018 16:46:01","DANGER2",190,17
+979302,"Malaga CF","Getafe CF","05/19/2018 16:46:01","DFK2",191,17
+979302,"Malaga CF","Getafe CF","05/19/2018 16:46:01","Ball Position",192,17
+979302,"Malaga CF","Getafe CF","05/19/2018 16:46:09","Restart",193,17
+979302,"Malaga CF","Getafe CF","05/19/2018 16:46:17","SAFE1",194,17
+979302,"Malaga CF","Getafe CF","05/19/2018 16:46:19","SAFE2",195,17
+979302,"Malaga CF","Getafe CF","05/19/2018 16:46:21","Possible Free Kick",196,17
+979302,"Malaga CF","Getafe CF","05/19/2018 16:46:22","SAFE1",198,17
+979302,"Malaga CF","Getafe CF","05/19/2018 16:46:22","F2",199,17
+979302,"Malaga CF","Getafe CF","05/19/2018 16:46:22","FK1",200,17
+979302,"Malaga CF","Getafe CF","05/19/2018 16:46:22","Ball Position",201,17
+979302,"Malaga CF","Getafe CF","05/19/2018 16:46:41","Restart",202,17
+979302,"Malaga CF","Getafe CF","05/19/2018 16:46:48","SAFE2",203,18
+979302,"Malaga CF","Getafe CF","05/19/2018 16:46:50","SAFE1",204,18
+979302,"Malaga CF","Getafe CF","05/19/2018 16:46:59","AT1",205,18
+979302,"Malaga CF","Getafe CF","05/19/2018 16:46:59","DANGER1",206,18
+979302,"Malaga CF","Getafe CF","05/19/2018 16:46:59","DAT1",207,18
+979302,"Malaga CF","Getafe CF","05/19/2018 16:47:05","SAFE2",208,18
+979302,"Malaga CF","Getafe CF","05/19/2018 16:47:15","POSSIBLE_TI",209,18
+979302,"Malaga CF","Getafe CF","05/19/2018 16:47:15","TI2",210,18
+979302,"Malaga CF","Getafe CF","05/19/2018 16:47:31","Restart",211,18
+979302,"Malaga CF","Getafe CF","05/19/2018 16:47:38","SAFE2",212,18
+979302,"Malaga CF","Getafe CF","05/19/2018 16:47:40","POSSIBLE_TI",213,18
+979302,"Malaga CF","Getafe CF","05/19/2018 16:47:41","TI2",214,18
+979302,"Malaga CF","Getafe CF","05/19/2018 16:47:51","Restart",215,19
+979302,"Malaga CF","Getafe CF","05/19/2018 16:47:57","AT1",216,19
+979302,"Malaga CF","Getafe CF","05/19/2018 16:47:57","DANGER1",217,19
+979302,"Malaga CF","Getafe CF","05/19/2018 16:47:57","DAT1",218,19
+979302,"Malaga CF","Getafe CF","05/19/2018 16:48:02","SAFE2",219,19
+979302,"Malaga CF","Getafe CF","05/19/2018 16:48:22","Possible Free Kick",220,19
+979302,"Malaga CF","Getafe CF","05/19/2018 16:48:32","F1",222,19
+979302,"Malaga CF","Getafe CF","05/19/2018 16:48:32","FK2",223,19
+979302,"Malaga CF","Getafe CF","05/19/2018 16:48:32","DANGER2",224,19
+979302,"Malaga CF","Getafe CF","05/19/2018 16:48:32","DFK2",225,19
+979302,"Malaga CF","Getafe CF","05/19/2018 16:48:32","Ball Position",226,19
+979302,"Malaga CF","Getafe CF","05/19/2018 16:49:04","Restart",227,20
+979302,"Malaga CF","Getafe CF","05/19/2018 16:49:23","SAFE1",228,20
+979302,"Malaga CF","Getafe CF","05/19/2018 16:49:37","AT2",229,20
+979302,"Malaga CF","Getafe CF","05/19/2018 16:49:42","SAFE1",230,20
+979302,"Malaga CF","Getafe CF","05/19/2018 16:49:44","AT1",231,20
+979302,"Malaga CF","Getafe CF","05/19/2018 16:49:48","SAFE2",232,21
+979302,"Malaga CF","Getafe CF","05/19/2018 16:49:49","AT2",233,21
+979302,"Malaga CF","Getafe CF","05/19/2018 16:49:49","DANGER2",234,21
+979302,"Malaga CF","Getafe CF","05/19/2018 16:49:49","DAT2",235,21
+979302,"Malaga CF","Getafe CF","05/19/2018 16:49:56","SAFE1",236,21
+979302,"Malaga CF","Getafe CF","05/19/2018 16:50:15","AT1",237,21
+979302,"Malaga CF","Getafe CF","05/19/2018 16:50:27","DANGER1",238,21
+979302,"Malaga CF","Getafe CF","05/19/2018 16:50:27","DAT1",239,21
+979302,"Malaga CF","Getafe CF","05/19/2018 16:50:35","SHG1",240,21
+979302,"Malaga CF","Getafe CF","05/19/2018 16:50:38","SAFE2",241,21
+979302,"Malaga CF","Getafe CF","05/19/2018 16:50:40","AT2",242,21
+979302,"Malaga CF","Getafe CF","05/19/2018 16:50:49","SAFE1",243,22
+979302,"Malaga CF","Getafe CF","05/19/2018 16:51:00","AT1",244,22
+979302,"Malaga CF","Getafe CF","05/19/2018 16:51:15","POSSIBLE_TI",245,22
+979302,"Malaga CF","Getafe CF","05/19/2018 16:51:17","TI1",246,22
+979302,"Malaga CF","Getafe CF","05/19/2018 16:51:32","Restart",247,22
+979302,"Malaga CF","Getafe CF","05/19/2018 16:51:40","DANGER1",248,22
+979302,"Malaga CF","Getafe CF","05/19/2018 16:51:40","DAT1",249,22
+979302,"Malaga CF","Getafe CF","05/19/2018 16:51:46","Possible Free Kick",250,22
+979302,"Malaga CF","Getafe CF","05/19/2018 16:51:52","F2",252,23
+979302,"Malaga CF","Getafe CF","05/19/2018 16:51:52","FK1",253,23
+979302,"Malaga CF","Getafe CF","05/19/2018 16:51:52","DFK1",254,23
+979302,"Malaga CF","Getafe CF","05/19/2018 16:51:52","Ball Position",255,23
+979302,"Malaga CF","Getafe CF","05/19/2018 16:52:33","Restart",256,23
+979302,"Malaga CF","Getafe CF","05/19/2018 16:52:40","SHB1",257,23
+979302,"Malaga CF","Getafe CF","05/19/2018 16:52:41","SAFE2",258,23
+979302,"Malaga CF","Getafe CF","05/19/2018 16:52:43","GK2",259,23
+979302,"Malaga CF","Getafe CF","05/19/2018 16:53:09","Restart",260,24
+979302,"Malaga CF","Getafe CF","05/19/2018 16:53:16","AT2",261,24
+979302,"Malaga CF","Getafe CF","05/19/2018 16:53:19","Possible Free Kick",262,24
+979302,"Malaga CF","Getafe CF","05/19/2018 16:53:21","F1",264,24
+979302,"Malaga CF","Getafe CF","05/19/2018 16:53:21","FK2",265,24
+979302,"Malaga CF","Getafe CF","05/19/2018 16:53:21","DANGER2",266,24
+979302,"Malaga CF","Getafe CF","05/19/2018 16:53:21","DFK2",267,24
+979302,"Malaga CF","Getafe CF","05/19/2018 16:53:21","Ball Position",268,24
+979302,"Malaga CF","Getafe CF","05/19/2018 16:53:26","Restart",269,24
+979302,"Malaga CF","Getafe CF","05/19/2018 16:53:39","SAFE1",270,24
+979302,"Malaga CF","Getafe CF","05/19/2018 16:53:50","AT1",271,25
+979302,"Malaga CF","Getafe CF","05/19/2018 16:53:51","SAFE2",272,25
+979302,"Malaga CF","Getafe CF","05/19/2018 16:54:12","AT2",273,25
+979302,"Malaga CF","Getafe CF","05/19/2018 16:54:16","SAFE1",274,25
+979302,"Malaga CF","Getafe CF","05/19/2018 16:54:34","AT1",275,25
+979302,"Malaga CF","Getafe CF","05/19/2018 16:54:36","POSSIBLE_TI",276,25
+979302,"Malaga CF","Getafe CF","05/19/2018 16:54:38","TI2",277,25
+979302,"Malaga CF","Getafe CF","05/19/2018 16:54:41","Restart",278,25
+979302,"Malaga CF","Getafe CF","05/19/2018 16:54:59","DANGER1",279,26
+979302,"Malaga CF","Getafe CF","05/19/2018 16:54:59","DAT1",280,26
+979302,"Malaga CF","Getafe CF","05/19/2018 16:55:03","SAFE2",281,26
+979302,"Malaga CF","Getafe CF","05/19/2018 16:55:09","SAFE1",282,26
+979302,"Malaga CF","Getafe CF","05/19/2018 16:55:18","AT1",283,26
+979302,"Malaga CF","Getafe CF","05/19/2018 16:55:25","DANGER1",284,26
+979302,"Malaga CF","Getafe CF","05/19/2018 16:55:25","DAT1",285,26
+979302,"Malaga CF","Getafe CF","05/19/2018 16:55:35","PCR1",286,26
+979302,"Malaga CF","Getafe CF","05/19/2018 16:55:37","CR1",287,26
+979302,"Malaga CF","Getafe CF","05/19/2018 16:55:45","SHB1",288,26
+979302,"Malaga CF","Getafe CF","05/19/2018 16:55:49","Ball Position",289,27
+979302,"Malaga CF","Getafe CF","05/19/2018 16:56:00","Restart",290,27
+979302,"Malaga CF","Getafe CF","05/19/2018 16:56:12","SAFE2",291,27
+979302,"Malaga CF","Getafe CF","05/19/2018 16:56:20","SAFE1",292,27
+979302,"Malaga CF","Getafe CF","05/19/2018 16:56:22","AT1",293,27
+979302,"Malaga CF","Getafe CF","05/19/2018 16:56:26","SAFE2",294,27
+979302,"Malaga CF","Getafe CF","05/19/2018 16:56:43","AT2",295,27
+979302,"Malaga CF","Getafe CF","05/19/2018 16:57:04","Possible Free Kick",296,28
+979302,"Malaga CF","Getafe CF","05/19/2018 16:57:07","F1",298,28
+979302,"Malaga CF","Getafe CF","05/19/2018 16:57:07","FK2",299,28
+979302,"Malaga CF","Getafe CF","05/19/2018 16:57:07","DANGER2",300,28
+979302,"Malaga CF","Getafe CF","05/19/2018 16:57:07","DFK2",301,28
+979302,"Malaga CF","Getafe CF","05/19/2018 16:57:07","Ball Position",302,28
+979302,"Malaga CF","Getafe CF","05/19/2018 16:57:29","Restart",303,28
+979302,"Malaga CF","Getafe CF","05/19/2018 16:57:55","SAFE1",304,29
+979302,"Malaga CF","Getafe CF","05/19/2018 16:57:57","GK1",305,29
+979302,"Malaga CF","Getafe CF","05/19/2018 16:58:21","Restart",306,29
+979302,"Malaga CF","Getafe CF","05/19/2018 16:58:28","AT1",307,29
+979302,"Malaga CF","Getafe CF","05/19/2018 16:58:31","SAFE2",308,29
+979302,"Malaga CF","Getafe CF","05/19/2018 16:58:42","AT2",309,29
+979302,"Malaga CF","Getafe CF","05/19/2018 16:58:42","DANGER2",310,29
+979302,"Malaga CF","Getafe CF","05/19/2018 16:58:42","DAT2",311,29
+979302,"Malaga CF","Getafe CF","05/19/2018 16:58:47","SAFE1",312,30
+979302,"Malaga CF","Getafe CF","05/19/2018 16:58:49","GK1",313,30
+979302,"Malaga CF","Getafe CF","05/19/2018 16:59:14","Restart",314,30
+979302,"Malaga CF","Getafe CF","05/19/2018 16:59:22","AT1",315,30
+979302,"Malaga CF","Getafe CF","05/19/2018 16:59:23","Possible Free Kick",316,30
+979302,"Malaga CF","Getafe CF","05/19/2018 16:59:26","F2",318,30
+979302,"Malaga CF","Getafe CF","05/19/2018 16:59:26","FK1",319,30
+979302,"Malaga CF","Getafe CF","05/19/2018 16:59:26","DANGER1",320,30
+979302,"Malaga CF","Getafe CF","05/19/2018 16:59:26","DFK1",321,30
+979302,"Malaga CF","Getafe CF","05/19/2018 16:59:26","Ball Position",322,30
+979302,"Malaga CF","Getafe CF","05/19/2018 16:59:56","Restart",323,31
+979302,"Malaga CF","Getafe CF","05/19/2018 17:00:04","SAFE2",324,31
+979302,"Malaga CF","Getafe CF","05/19/2018 17:00:11","AT2",325,31
+979302,"Malaga CF","Getafe CF","05/19/2018 17:00:29","POSSIBLE_TI",326,31
+979302,"Malaga CF","Getafe CF","05/19/2018 17:00:33","TI1",327,31
+979302,"Malaga CF","Getafe CF","05/19/2018 17:00:49","Restart",328,32
+979302,"Malaga CF","Getafe CF","05/19/2018 17:00:53","SAFE2",329,32
+979302,"Malaga CF","Getafe CF","05/19/2018 17:01:13","AT2",330,32
+979302,"Malaga CF","Getafe CF","05/19/2018 17:01:19","Possible Free Kick",331,32
+979302,"Malaga CF","Getafe CF","05/19/2018 17:01:27","F1",333,32
+979302,"Malaga CF","Getafe CF","05/19/2018 17:01:27","FK2",334,32
+979302,"Malaga CF","Getafe CF","05/19/2018 17:01:27","DANGER2",335,32
+979302,"Malaga CF","Getafe CF","05/19/2018 17:01:27","DFK2",336,32
+979302,"Malaga CF","Getafe CF","05/19/2018 17:01:27","Ball Position",337,32
+979302,"Malaga CF","Getafe CF","05/19/2018 17:02:01","Restart",338,33
+979302,"Malaga CF","Getafe CF","05/19/2018 17:02:04","SAFE1",339,33
+979302,"Malaga CF","Getafe CF","05/19/2018 17:02:07","SAFE2",340,33
+979302,"Malaga CF","Getafe CF","05/19/2018 17:02:28","AT2",341,33
+979302,"Malaga CF","Getafe CF","05/19/2018 17:02:31","DANGER2",342,33
+979302,"Malaga CF","Getafe CF","05/19/2018 17:02:31","DAT2",343,33
+979302,"Malaga CF","Getafe CF","05/19/2018 17:02:43","SAFE1",344,33
+979302,"Malaga CF","Getafe CF","05/19/2018 17:02:45","GK1",345,33
+979302,"Malaga CF","Getafe CF","05/19/2018 17:03:07","Restart",346,34
+979302,"Malaga CF","Getafe CF","05/19/2018 17:03:19","Possible Free Kick",347,34
+979302,"Malaga CF","Getafe CF","05/19/2018 17:03:22","SAFE2",349,34
+979302,"Malaga CF","Getafe CF","05/19/2018 17:03:22","F1",350,34
+979302,"Malaga CF","Getafe CF","05/19/2018 17:03:22","FK2",351,34
+979302,"Malaga CF","Getafe CF","05/19/2018 17:03:22","Ball Position",352,34
+979302,"Malaga CF","Getafe CF","05/19/2018 17:03:35","Restart",353,34
+979302,"Malaga CF","Getafe CF","05/19/2018 17:03:48","AT2",354,35
+979302,"Malaga CF","Getafe CF","05/19/2018 17:03:55","DANGER2",355,35
+979302,"Malaga CF","Getafe CF","05/19/2018 17:03:55","DAT2",356,35
+979302,"Malaga CF","Getafe CF","05/19/2018 17:04:02","SAFE1",357,35
+979302,"Malaga CF","Getafe CF","05/19/2018 17:04:07","AT2",358,35
+979302,"Malaga CF","Getafe CF","05/19/2018 17:04:29","SAFE1",359,35
+979302,"Malaga CF","Getafe CF","05/19/2018 17:04:32","Possible Free Kick",360,35
+979302,"Malaga CF","Getafe CF","05/19/2018 17:04:34","POSSIBLE_CARDS",362,35
+979302,"Malaga CF","Getafe CF","05/19/2018 17:04:38","YC1",363,35
+979302,"Malaga CF","Getafe CF","05/19/2018 17:04:46","CONF_YC1",364,35
+979302,"Malaga CF","Getafe CF","05/19/2018 17:04:48","Scorer",365,36
+979302,"Malaga CF","Getafe CF","05/19/2018 17:04:55","F2",366,36
+979302,"Malaga CF","Getafe CF","05/19/2018 17:04:55","FK1",367,36
+979302,"Malaga CF","Getafe CF","05/19/2018 17:04:55","Ball Position",368,36
+979302,"Malaga CF","Getafe CF","05/19/2018 17:05:06","Restart",369,36
+979302,"Malaga CF","Getafe CF","05/19/2018 17:05:15","SAFE2",370,36
+979302,"Malaga CF","Getafe CF","05/19/2018 17:05:21","AT2",371,36
+979302,"Malaga CF","Getafe CF","05/19/2018 17:05:28","SAFE2",372,36
+979302,"Malaga CF","Getafe CF","05/19/2018 17:05:45","AT2",373,36
+979302,"Malaga CF","Getafe CF","05/19/2018 17:05:45","DANGER2",374,36
+979302,"Malaga CF","Getafe CF","05/19/2018 17:05:45","DAT2",375,36
+979302,"Malaga CF","Getafe CF","05/19/2018 17:05:54","SAFE1",376,37
+979302,"Malaga CF","Getafe CF","05/19/2018 17:05:55","POSSIBLE_TI",377,37
+979302,"Malaga CF","Getafe CF","05/19/2018 17:05:56","TI2",378,37
+979302,"Malaga CF","Getafe CF","05/19/2018 17:05:59","Restart",379,37
+979302,"Malaga CF","Getafe CF","05/19/2018 17:06:12","SAFE2",380,37
+979302,"Malaga CF","Getafe CF","05/19/2018 17:06:16","Scorer",381,37
+979302,"Malaga CF","Getafe CF","05/19/2018 17:06:16","Player_DATA_CONFIRMED",382,37
+979302,"Malaga CF","Getafe CF","05/19/2018 17:06:24","AT2",383,37
+979302,"Malaga CF","Getafe CF","05/19/2018 17:06:27","DANGER2",384,37
+979302,"Malaga CF","Getafe CF","05/19/2018 17:06:27","DAT2",385,37
+979302,"Malaga CF","Getafe CF","05/19/2018 17:06:33","SAFE1",386,37
+979302,"Malaga CF","Getafe CF","05/19/2018 17:06:34","AT1",387,37
+979302,"Malaga CF","Getafe CF","05/19/2018 17:06:38","DANGER1",388,37
+979302,"Malaga CF","Getafe CF","05/19/2018 17:06:38","DAT1",389,37
+979302,"Malaga CF","Getafe CF","05/19/2018 17:06:49","SAFE2",390,38
+979302,"Malaga CF","Getafe CF","05/19/2018 17:06:51","Possible Free Kick",391,38
+979302,"Malaga CF","Getafe CF","05/19/2018 17:06:54","F1",393,38
+979302,"Malaga CF","Getafe CF","05/19/2018 17:06:54","FK2",394,38
+979302,"Malaga CF","Getafe CF","05/19/2018 17:06:54","Ball Position",395,38
+979302,"Malaga CF","Getafe CF","05/19/2018 17:07:16","Restart",396,38
+979302,"Malaga CF","Getafe CF","05/19/2018 17:07:30","AT2",397,38
+979302,"Malaga CF","Getafe CF","05/19/2018 17:07:38","SAFE2",398,38
+979302,"Malaga CF","Getafe CF","05/19/2018 17:07:45","SAFE1",399,38
+979302,"Malaga CF","Getafe CF","05/19/2018 17:08:05","AT1",400,39
+979302,"Malaga CF","Getafe CF","05/19/2018 17:08:10","DANGER1",401,39
+979302,"Malaga CF","Getafe CF","05/19/2018 17:08:10","DAT1",402,39
+979302,"Malaga CF","Getafe CF","05/19/2018 17:08:13","SAFE2",403,39
+979302,"Malaga CF","Getafe CF","05/19/2018 17:08:25","AT2",404,39
+979302,"Malaga CF","Getafe CF","05/19/2018 17:08:36","SAFE1",405,39
+979302,"Malaga CF","Getafe CF","05/19/2018 17:08:44","SAFE2",406,39
+979302,"Malaga CF","Getafe CF","05/19/2018 17:08:53","AT2",407,40
+979302,"Malaga CF","Getafe CF","05/19/2018 17:09:07","DANGER2",408,40
+979302,"Malaga CF","Getafe CF","05/19/2018 17:09:07","DAT2",409,40
+979302,"Malaga CF","Getafe CF","05/19/2018 17:09:09","POSSIBLE_TI",410,40
+979302,"Malaga CF","Getafe CF","05/19/2018 17:09:11","TI1",411,40
+979302,"Malaga CF","Getafe CF","05/19/2018 17:09:23","Restart",412,40
+979302,"Malaga CF","Getafe CF","05/19/2018 17:09:33","SAFE2",413,40
+979302,"Malaga CF","Getafe CF","05/19/2018 17:10:13","SAFE1",414,41
+979302,"Malaga CF","Getafe CF","05/19/2018 17:10:14","AT2",415,41
+979302,"Malaga CF","Getafe CF","05/19/2018 17:10:14","DANGER2",416,41
+979302,"Malaga CF","Getafe CF","05/19/2018 17:10:14","DAT2",417,41
+979302,"Malaga CF","Getafe CF","05/19/2018 17:10:22","Possible Free Kick",418,41
+979302,"Malaga CF","Getafe CF","05/19/2018 17:10:32","F1",420,41
+979302,"Malaga CF","Getafe CF","05/19/2018 17:10:32","FK2",421,41
+979302,"Malaga CF","Getafe CF","05/19/2018 17:10:32","DFK2",422,41
+979302,"Malaga CF","Getafe CF","05/19/2018 17:10:32","Ball Position",423,41
+979302,"Malaga CF","Getafe CF","05/19/2018 17:11:30","Restart",424,42
+979302,"Malaga CF","Getafe CF","05/19/2018 17:11:38","SHG2",425,42
+979302,"Malaga CF","Getafe CF","05/19/2018 17:11:40","PCR2",426,42
+979302,"Malaga CF","Getafe CF","05/19/2018 17:11:42","CR2",427,42
+979302,"Malaga CF","Getafe CF","05/19/2018 17:11:47","Ball Position",428,42
+979302,"Malaga CF","Getafe CF","05/19/2018 17:12:05","Restart",429,43
+979302,"Malaga CF","Getafe CF","05/19/2018 17:12:12","SAFE1",430,43
+979302,"Malaga CF","Getafe CF","05/19/2018 17:12:20","POSSIBLE_TI",431,43
+979302,"Malaga CF","Getafe CF","05/19/2018 17:12:22","TI1",432,43
+979302,"Malaga CF","Getafe CF","05/19/2018 17:12:30","Restart",433,43
+979302,"Malaga CF","Getafe CF","05/19/2018 17:12:41","AT1",434,43
+979302,"Malaga CF","Getafe CF","05/19/2018 17:12:42","DANGER1",435,43
+979302,"Malaga CF","Getafe CF","05/19/2018 17:12:42","DAT1",436,43
+979302,"Malaga CF","Getafe CF","05/19/2018 17:12:44","SAFE2",437,43
+979302,"Malaga CF","Getafe CF","05/19/2018 17:12:57","AT2",438,44
+979302,"Malaga CF","Getafe CF","05/19/2018 17:13:16","DANGER2",439,44
+979302,"Malaga CF","Getafe CF","05/19/2018 17:13:16","DAT2",440,44
+979302,"Malaga CF","Getafe CF","05/19/2018 17:13:28","Possible Free Kick",441,44
+979302,"Malaga CF","Getafe CF","05/19/2018 17:13:31","SAFE1",443,44
+979302,"Malaga CF","Getafe CF","05/19/2018 17:13:31","F2",444,44
+979302,"Malaga CF","Getafe CF","05/19/2018 17:13:31","FK1",445,44
+979302,"Malaga CF","Getafe CF","05/19/2018 17:13:31","Ball Position",446,44
+979302,"Malaga CF","Getafe CF","05/19/2018 17:13:45","Restart",447,44
+979302,"Malaga CF","Getafe CF","05/19/2018 17:13:50","AT1",448,45
+979302,"Malaga CF","Getafe CF","05/19/2018 17:13:50","DANGER1",449,45
+979302,"Malaga CF","Getafe CF","05/19/2018 17:13:50","DAT1",450,45
+979302,"Malaga CF","Getafe CF","05/19/2018 17:13:52","SAFE2",451,45
+979302,"Malaga CF","Getafe CF","05/19/2018 17:13:53","GK2",452,45
+979302,"Malaga CF","Getafe CF","05/19/2018 17:14:22","Restart",453,45
+979302,"Malaga CF","Getafe CF","05/19/2018 17:14:30","AT1",454,45
+979302,"Malaga CF","Getafe CF","05/19/2018 17:14:32","Possible Free Kick",455,45
+979302,"Malaga CF","Getafe CF","05/19/2018 17:14:34","F2",457,45
+979302,"Malaga CF","Getafe CF","05/19/2018 17:14:34","FK1",458,45
+979302,"Malaga CF","Getafe CF","05/19/2018 17:14:34","DANGER1",459,45
+979302,"Malaga CF","Getafe CF","05/19/2018 17:14:34","DFK1",460,45
+979302,"Malaga CF","Getafe CF","05/19/2018 17:14:34","Ball Position",461,45
+979302,"Malaga CF","Getafe CF","05/19/2018 17:14:38","CLS",462,45
+979302,"Malaga CF","Getafe CF","05/19/2018 17:14:46","SAFE1",465,45
+979302,"Malaga CF","Getafe CF","05/19/2018 17:14:46","F2",466,45
+979302,"Malaga CF","Getafe CF","05/19/2018 17:14:46","FK1",467,45
+979302,"Malaga CF","Getafe CF","05/19/2018 17:14:46","Ball Position",468,45
+979302,"Malaga CF","Getafe CF","05/19/2018 17:14:50","Restart",469,46
+979302,"Malaga CF","Getafe CF","05/19/2018 17:14:51","AT2",470,46
+979302,"Malaga CF","Getafe CF","05/19/2018 17:14:59","Stop RT1",471,46
+979302,"Malaga CF","Getafe CF","05/19/2018 17:15:46","CONF_PERIOD_SCORE",472,45
+979302,"Malaga CF","Getafe CF","05/19/2018 17:29:34","Players are coming out",473,45
+979302,"Malaga CF","Getafe CF","05/19/2018 17:30:15","Game about to start",474,45
+979302,"Malaga CF","Getafe CF","05/19/2018 17:30:32","Start RT2 Team 2",475,46
+979302,"Malaga CF","Getafe CF","05/19/2018 17:30:35","SAFE1",476,46
+979302,"Malaga CF","Getafe CF","05/19/2018 17:30:41","AT1",477,46
+979302,"Malaga CF","Getafe CF","05/19/2018 17:30:54","SAFE1",478,46
+979302,"Malaga CF","Getafe CF","05/19/2018 17:31:06","AT1",479,46
+979302,"Malaga CF","Getafe CF","05/19/2018 17:31:09","DANGER1",480,46
+979302,"Malaga CF","Getafe CF","05/19/2018 17:31:09","DAT1",481,46
+979302,"Malaga CF","Getafe CF","05/19/2018 17:31:15","POSSIBLE_TI",482,46
+979302,"Malaga CF","Getafe CF","05/19/2018 17:31:15","TI1",483,46
+979302,"Malaga CF","Getafe CF","05/19/2018 17:31:40","Restart",484,47
+979302,"Malaga CF","Getafe CF","05/19/2018 17:31:45","SAFE2",485,47
+979302,"Malaga CF","Getafe CF","05/19/2018 17:31:48","Possible Free Kick",486,47
+979302,"Malaga CF","Getafe CF","05/19/2018 17:31:51","F1",488,47
+979302,"Malaga CF","Getafe CF","05/19/2018 17:31:51","FK2",489,47
+979302,"Malaga CF","Getafe CF","05/19/2018 17:31:51","Ball Position",490,47
+979302,"Malaga CF","Getafe CF","05/19/2018 17:32:12","Restart",491,47
+979302,"Malaga CF","Getafe CF","05/19/2018 17:32:20","POSSIBLE_TI",492,47
+979302,"Malaga CF","Getafe CF","05/19/2018 17:32:24","TI1",493,47
+979302,"Malaga CF","Getafe CF","05/19/2018 17:32:28","Restart",494,47
+979302,"Malaga CF","Getafe CF","05/19/2018 17:32:39","AT2",495,48
+979302,"Malaga CF","Getafe CF","05/19/2018 17:32:48","SAFE1",496,48
+979302,"Malaga CF","Getafe CF","05/19/2018 17:32:55","AT1",497,48
+979302,"Malaga CF","Getafe CF","05/19/2018 17:32:58","Possible Free Kick",498,48
+979302,"Malaga CF","Getafe CF","05/19/2018 17:33:01","SAFE2",500,48
+979302,"Malaga CF","Getafe CF","05/19/2018 17:33:01","F1",501,48
+979302,"Malaga CF","Getafe CF","05/19/2018 17:33:01","FK2",502,48
+979302,"Malaga CF","Getafe CF","05/19/2018 17:33:01","Ball Position",503,48
+979302,"Malaga CF","Getafe CF","05/19/2018 17:33:25","Restart",504,48
+979302,"Malaga CF","Getafe CF","05/19/2018 17:33:32","SAFE2",505,49
+979302,"Malaga CF","Getafe CF","05/19/2018 17:33:33","AT2",506,49
+979302,"Malaga CF","Getafe CF","05/19/2018 17:33:40","SAFE1",507,49
+979302,"Malaga CF","Getafe CF","05/19/2018 17:33:49","Possible Free Kick",508,49
+979302,"Malaga CF","Getafe CF","05/19/2018 17:33:52","F1",510,49
+979302,"Malaga CF","Getafe CF","05/19/2018 17:33:52","FK2",511,49
+979302,"Malaga CF","Getafe CF","05/19/2018 17:33:52","DANGER2",512,49
+979302,"Malaga CF","Getafe CF","05/19/2018 17:33:52","DFK2",513,49
+979302,"Malaga CF","Getafe CF","05/19/2018 17:33:52","Ball Position",514,49
+979302,"Malaga CF","Getafe CF","05/19/2018 17:33:56","Restart",515,49
+979302,"Malaga CF","Getafe CF","05/19/2018 17:33:59","POSSIBLE_TI",516,49
+979302,"Malaga CF","Getafe CF","05/19/2018 17:34:01","TI2",517,49
+979302,"Malaga CF","Getafe CF","05/19/2018 17:34:12","Restart",518,49
+979302,"Malaga CF","Getafe CF","05/19/2018 17:34:15","POSSIBLE_TI",519,49
+979302,"Malaga CF","Getafe CF","05/19/2018 17:34:16","TI2",520,49
+979302,"Malaga CF","Getafe CF","05/19/2018 17:34:24","Restart",521,49
+979302,"Malaga CF","Getafe CF","05/19/2018 17:34:31","SAFE1",522,49
+979302,"Malaga CF","Getafe CF","05/19/2018 17:34:36","AT1",523,50
+979302,"Malaga CF","Getafe CF","05/19/2018 17:34:42","POSSIBLE_TI",524,50
+979302,"Malaga CF","Getafe CF","05/19/2018 17:34:43","TI1",525,50
+979302,"Malaga CF","Getafe CF","05/19/2018 17:34:45","Restart",526,50
+979302,"Malaga CF","Getafe CF","05/19/2018 17:34:56","SAFE2",527,50
+979302,"Malaga CF","Getafe CF","05/19/2018 17:35:12","AT1",528,50
+979302,"Malaga CF","Getafe CF","05/19/2018 17:35:22","SAFE2",529,50
+979302,"Malaga CF","Getafe CF","05/19/2018 17:35:23","AT2",530,50
+979302,"Malaga CF","Getafe CF","05/19/2018 17:35:27","DANGER2",531,50
+979302,"Malaga CF","Getafe CF","05/19/2018 17:35:27","DAT2",532,50
+979302,"Malaga CF","Getafe CF","05/19/2018 17:35:31","Possible Free Kick",533,50
+979302,"Malaga CF","Getafe CF","05/19/2018 17:35:34","SAFE1",535,51
+979302,"Malaga CF","Getafe CF","05/19/2018 17:35:34","O2",536,51
+979302,"Malaga CF","Getafe CF","05/19/2018 17:35:34","FK1",537,51
+979302,"Malaga CF","Getafe CF","05/19/2018 17:35:34","Ball Position",538,51
+979302,"Malaga CF","Getafe CF","05/19/2018 17:35:56","Restart",539,51
+979302,"Malaga CF","Getafe CF","05/19/2018 17:35:59","AT1",540,51
+979302,"Malaga CF","Getafe CF","05/19/2018 17:36:06","POSSIBLE_TI",541,51
+979302,"Malaga CF","Getafe CF","05/19/2018 17:36:08","TI2",542,51
+979302,"Malaga CF","Getafe CF","05/19/2018 17:36:16","Restart",543,51
+979302,"Malaga CF","Getafe CF","05/19/2018 17:36:21","DANGER1",544,51
+979302,"Malaga CF","Getafe CF","05/19/2018 17:36:21","DAT1",545,51
+979302,"Malaga CF","Getafe CF","05/19/2018 17:36:25","SAFE2",546,51
+979302,"Malaga CF","Getafe CF","05/19/2018 17:36:29","POSSIBLE_TI",547,51
+979302,"Malaga CF","Getafe CF","05/19/2018 17:36:31","TI2",548,51
+979302,"Malaga CF","Getafe CF","05/19/2018 17:36:43","Restart",549,52
+979302,"Malaga CF","Getafe CF","05/19/2018 17:36:50","POSSIBLE_TI",550,52
+979302,"Malaga CF","Getafe CF","05/19/2018 17:36:52","TI2",551,52
+979302,"Malaga CF","Getafe CF","05/19/2018 17:37:06","Restart",552,52
+979302,"Malaga CF","Getafe CF","05/19/2018 17:37:21","Possible Free Kick",553,52
+979302,"Malaga CF","Getafe CF","05/19/2018 17:37:23","F1",555,52
+979302,"Malaga CF","Getafe CF","05/19/2018 17:37:23","FK2",556,52
+979302,"Malaga CF","Getafe CF","05/19/2018 17:37:23","Ball Position",557,52
+979302,"Malaga CF","Getafe CF","05/19/2018 17:37:33","Restart",558,53
+979302,"Malaga CF","Getafe CF","05/19/2018 17:37:39","POSSIBLE_TI",559,53
+979302,"Malaga CF","Getafe CF","05/19/2018 17:37:40","TI2",560,53
+979302,"Malaga CF","Getafe CF","05/19/2018 17:37:53","Restart",561,53
+979302,"Malaga CF","Getafe CF","05/19/2018 17:37:54","POSSIBLE_TI",562,53
+979302,"Malaga CF","Getafe CF","05/19/2018 17:37:54","TI2",563,53
+979302,"Malaga CF","Getafe CF","05/19/2018 17:38:02","Restart",564,53
+979302,"Malaga CF","Getafe CF","05/19/2018 17:38:07","SAFE1",565,53
+979302,"Malaga CF","Getafe CF","05/19/2018 17:38:08","GK1",566,53
+979302,"Malaga CF","Getafe CF","05/19/2018 17:38:31","Restart",567,53
+979302,"Malaga CF","Getafe CF","05/19/2018 17:38:42","SAFE2",568,54
+979302,"Malaga CF","Getafe CF","05/19/2018 17:38:46","Possible Free Kick",569,54
+979302,"Malaga CF","Getafe CF","05/19/2018 17:38:47","POSSIBLE_CARDS",571,54
+979302,"Malaga CF","Getafe CF","05/19/2018 17:38:50","YC1",572,54
+979302,"Malaga CF","Getafe CF","05/19/2018 17:38:52","CONF_YC1",573,54
+979302,"Malaga CF","Getafe CF","05/19/2018 17:38:54","Scorer",574,54
+979302,"Malaga CF","Getafe CF","05/19/2018 17:38:58","F1",575,54
+979302,"Malaga CF","Getafe CF","05/19/2018 17:38:58","FK2",576,54
+979302,"Malaga CF","Getafe CF","05/19/2018 17:38:58","Ball Position",577,54
+979302,"Malaga CF","Getafe CF","05/19/2018 17:39:14","Restart",578,54
+979302,"Malaga CF","Getafe CF","05/19/2018 17:39:25","SAFE2",579,54
+979302,"Malaga CF","Getafe CF","05/19/2018 17:39:34","AT2",580,55
+979302,"Malaga CF","Getafe CF","05/19/2018 17:39:38","DANGER2",581,55
+979302,"Malaga CF","Getafe CF","05/19/2018 17:39:38","DAT2",582,55
+979302,"Malaga CF","Getafe CF","05/19/2018 17:39:54","PCR2",583,55
+979302,"Malaga CF","Getafe CF","05/19/2018 17:39:56","CR2",584,55
+979302,"Malaga CF","Getafe CF","05/19/2018 17:39:58","Ball Position",585,55
+979302,"Malaga CF","Getafe CF","05/19/2018 17:40:19","Scorer",586,55
+979302,"Malaga CF","Getafe CF","05/19/2018 17:40:19","Player_DATA_CONFIRMED",587,55
+979302,"Malaga CF","Getafe CF","05/19/2018 17:40:28","Restart",588,55
+979302,"Malaga CF","Getafe CF","05/19/2018 17:40:45","SAFE2",589,56
+979302,"Malaga CF","Getafe CF","05/19/2018 17:40:52","AT2",590,56
+979302,"Malaga CF","Getafe CF","05/19/2018 17:40:55","SAFE1",591,56
+979302,"Malaga CF","Getafe CF","05/19/2018 17:41:07","SAFE2",592,56
+979302,"Malaga CF","Getafe CF","05/19/2018 17:41:11","AT2",593,56
+979302,"Malaga CF","Getafe CF","05/19/2018 17:41:11","DANGER2",594,56
+979302,"Malaga CF","Getafe CF","05/19/2018 17:41:11","DAT2",595,56
+979302,"Malaga CF","Getafe CF","05/19/2018 17:41:13","SAFE1",596,56
+979302,"Malaga CF","Getafe CF","05/19/2018 17:41:27","AT1",597,56
+979302,"Malaga CF","Getafe CF","05/19/2018 17:41:34","Possible Free Kick",598,57
+979302,"Malaga CF","Getafe CF","05/19/2018 17:41:43","F2",600,57
+979302,"Malaga CF","Getafe CF","05/19/2018 17:41:43","FK1",601,57
+979302,"Malaga CF","Getafe CF","05/19/2018 17:41:43","DANGER1",602,57
+979302,"Malaga CF","Getafe CF","05/19/2018 17:41:43","DFK1",603,57
+979302,"Malaga CF","Getafe CF","05/19/2018 17:41:43","Ball Position",604,57
+979302,"Malaga CF","Getafe CF","05/19/2018 17:42:25","Restart",605,57
+979302,"Malaga CF","Getafe CF","05/19/2018 17:42:29","SAFE2",606,57
+979302,"Malaga CF","Getafe CF","05/19/2018 17:42:57","AT2",607,58
+979302,"Malaga CF","Getafe CF","05/19/2018 17:43:05","DANGER2",608,58
+979302,"Malaga CF","Getafe CF","05/19/2018 17:43:05","DAT2",609,58
+979302,"Malaga CF","Getafe CF","05/19/2018 17:43:14","Possible Free Kick",610,58
+979302,"Malaga CF","Getafe CF","05/19/2018 17:43:17","SAFE1",612,58
+979302,"Malaga CF","Getafe CF","05/19/2018 17:43:17","O2",613,58
+979302,"Malaga CF","Getafe CF","05/19/2018 17:43:17","FK1",614,58
+979302,"Malaga CF","Getafe CF","05/19/2018 17:43:17","Ball Position",615,58
+979302,"Malaga CF","Getafe CF","05/19/2018 17:43:35","Restart",616,59
+979302,"Malaga CF","Getafe CF","05/19/2018 17:43:42","POSSIBLE_TI",617,59
+979302,"Malaga CF","Getafe CF","05/19/2018 17:43:43","TI1",618,59
+979302,"Malaga CF","Getafe CF","05/19/2018 17:43:55","Restart",619,59
+979302,"Malaga CF","Getafe CF","05/19/2018 17:43:58","SAFE2",620,59
+979302,"Malaga CF","Getafe CF","05/19/2018 17:44:03","SAFE1",621,59
+979302,"Malaga CF","Getafe CF","05/19/2018 17:44:15","AT2",622,59
+979302,"Malaga CF","Getafe CF","05/19/2018 17:44:25","SAFE1",623,59
+979302,"Malaga CF","Getafe CF","05/19/2018 17:44:40","SAFE2",624,60
+979302,"Malaga CF","Getafe CF","05/19/2018 17:44:42","AT2",625,60
+979302,"Malaga CF","Getafe CF","05/19/2018 17:44:43","DANGER2",626,60
+979302,"Malaga CF","Getafe CF","05/19/2018 17:44:43","DAT2",627,60
+979302,"Malaga CF","Getafe CF","05/19/2018 17:44:48","SAFE1",628,60
+979302,"Malaga CF","Getafe CF","05/19/2018 17:45:04","AT1",629,60
+979302,"Malaga CF","Getafe CF","05/19/2018 17:45:09","POSSIBLE_TI",630,60
+979302,"Malaga CF","Getafe CF","05/19/2018 17:45:10","TI1",631,60
+979302,"Malaga CF","Getafe CF","05/19/2018 17:45:21","Restart",632,60
+979302,"Malaga CF","Getafe CF","05/19/2018 17:45:31","SAFE2",633,60
+979302,"Malaga CF","Getafe CF","05/19/2018 17:45:47","SAFE1",634,61
+979302,"Malaga CF","Getafe CF","05/19/2018 17:45:52","AT1",635,61
+979302,"Malaga CF","Getafe CF","05/19/2018 17:46:03","DANGER1",636,61
+979302,"Malaga CF","Getafe CF","05/19/2018 17:46:03","DAT1",637,61
+979302,"Malaga CF","Getafe CF","05/19/2018 17:46:17","Referee Ball",638,61
+979302,"Malaga CF","Getafe CF","05/19/2018 17:46:23","Injury Break",639,61
+979302,"Malaga CF","Getafe CF","05/19/2018 17:47:46","Restart",640,63
+979302,"Malaga CF","Getafe CF","05/19/2018 17:47:57","SAFE1",641,63
+979302,"Malaga CF","Getafe CF","05/19/2018 17:48:01","AT1",642,63
+979302,"Malaga CF","Getafe CF","05/19/2018 17:48:02","DANGER1",643,63
+979302,"Malaga CF","Getafe CF","05/19/2018 17:48:02","DAT1",644,63
+979302,"Malaga CF","Getafe CF","05/19/2018 17:48:23","Scout offline",645,63
+979302,"Malaga CF","Getafe CF","05/19/2018 17:48:29","Transmission Online",646,63
+979302,"Malaga CF","Getafe CF","05/19/2018 17:48:29","Start score update",647,63
+979302,"Malaga CF","Getafe CF","05/19/2018 17:48:29","Statistic confirmation",648,63
+979302,"Malaga CF","Getafe CF","05/19/2018 17:48:29","Score update finished",649,63
+979302,"Malaga CF","Getafe CF","05/19/2018 17:48:36","SAFE2",650,64
+979302,"Malaga CF","Getafe CF","05/19/2018 17:48:39","AT2",651,64
+979302,"Malaga CF","Getafe CF","05/19/2018 17:48:40","DANGER2",652,64
+979302,"Malaga CF","Getafe CF","05/19/2018 17:48:40","DAT2",653,64
+979302,"Malaga CF","Getafe CF","05/19/2018 17:48:53","SAFE1",654,64
+979302,"Malaga CF","Getafe CF","05/19/2018 17:48:55","POSSIBLE_TI",655,64
+979302,"Malaga CF","Getafe CF","05/19/2018 17:48:56","TI2",656,64
+979302,"Malaga CF","Getafe CF","05/19/2018 17:49:14","Restart",657,64
+979302,"Malaga CF","Getafe CF","05/19/2018 17:49:21","SAFE2",658,64
+979302,"Malaga CF","Getafe CF","05/19/2018 17:49:31","SAFE1",659,64
+979302,"Malaga CF","Getafe CF","05/19/2018 17:49:33","AT2",660,65
+979302,"Malaga CF","Getafe CF","05/19/2018 17:49:42","POSSIBLE_TI",661,65
+979302,"Malaga CF","Getafe CF","05/19/2018 17:49:45","TI1",662,65
+979302,"Malaga CF","Getafe CF","05/19/2018 17:49:55","Restart",663,65
+979302,"Malaga CF","Getafe CF","05/19/2018 17:50:07","AT1",664,65
+979302,"Malaga CF","Getafe CF","05/19/2018 17:50:07","DANGER1",665,65
+979302,"Malaga CF","Getafe CF","05/19/2018 17:50:07","DAT1",666,65
+979302,"Malaga CF","Getafe CF","05/19/2018 17:50:10","SAFE2",667,65
+979302,"Malaga CF","Getafe CF","05/19/2018 17:50:29","SAFE1",668,65
+979302,"Malaga CF","Getafe CF","05/19/2018 17:50:31","AT2",669,65
+979302,"Malaga CF","Getafe CF","05/19/2018 17:50:31","DANGER2",670,65
+979302,"Malaga CF","Getafe CF","05/19/2018 17:50:31","DAT2",671,65
+979302,"Malaga CF","Getafe CF","05/19/2018 17:50:36","SAFE1",672,66
+979302,"Malaga CF","Getafe CF","05/19/2018 17:50:52","AT1",673,66
+979302,"Malaga CF","Getafe CF","05/19/2018 17:51:16","SAFE2",674,66
+979302,"Malaga CF","Getafe CF","05/19/2018 17:51:17","AT2",675,66
+979302,"Malaga CF","Getafe CF","05/19/2018 17:51:20","DANGER2",676,66
+979302,"Malaga CF","Getafe CF","05/19/2018 17:51:20","DAT2",677,66
+979302,"Malaga CF","Getafe CF","05/19/2018 17:51:44","SAFE1",678,67
+979302,"Malaga CF","Getafe CF","05/19/2018 17:51:51","AT1",679,67
+979302,"Malaga CF","Getafe CF","05/19/2018 17:51:57","DANGER1",680,67
+979302,"Malaga CF","Getafe CF","05/19/2018 17:51:57","DAT1",681,67
+979302,"Malaga CF","Getafe CF","05/19/2018 17:52:02","SHB1",682,67
+979302,"Malaga CF","Getafe CF","05/19/2018 17:52:06","SAFE2",683,67
+979302,"Malaga CF","Getafe CF","05/19/2018 17:52:07","GK2",684,67
+979302,"Malaga CF","Getafe CF","05/19/2018 17:53:16","SUB1",685,68
+979302,"Malaga CF","Getafe CF","05/19/2018 17:53:29","SUB2",686,68
+979302,"Malaga CF","Getafe CF","05/19/2018 17:53:46","SUB2",687,69
+979302,"Malaga CF","Getafe CF","05/19/2018 17:53:47","Restart",688,69
+979302,"Malaga CF","Getafe CF","05/19/2018 17:53:59","SAFE2",689,69
+979302,"Malaga CF","Getafe CF","05/19/2018 17:54:04","AT2",690,69
+979302,"Malaga CF","Getafe CF","05/19/2018 17:54:07","POSSIBLE_TI",691,69
+979302,"Malaga CF","Getafe CF","05/19/2018 17:54:09","TI2",692,69
+979302,"Malaga CF","Getafe CF","05/19/2018 17:54:15","Player_DATA_CONFIRMED",693,69
+979302,"Malaga CF","Getafe CF","05/19/2018 17:54:17","Restart",694,69
+979302,"Malaga CF","Getafe CF","05/19/2018 17:54:20","DANGER2",695,69
+979302,"Malaga CF","Getafe CF","05/19/2018 17:54:20","DAT2",696,69
+979302,"Malaga CF","Getafe CF","05/19/2018 17:54:23","SAFE1",697,69
+979302,"Malaga CF","Getafe CF","05/19/2018 17:54:40","AT2",698,70
+979302,"Malaga CF","Getafe CF","05/19/2018 17:54:50","SAFE1",699,70
+979302,"Malaga CF","Getafe CF","05/19/2018 17:54:53","Possible Free Kick",700,70
+979302,"Malaga CF","Getafe CF","05/19/2018 17:54:56","F2",702,70
+979302,"Malaga CF","Getafe CF","05/19/2018 17:54:56","FK1",703,70
+979302,"Malaga CF","Getafe CF","05/19/2018 17:54:56","DANGER1",704,70
+979302,"Malaga CF","Getafe CF","05/19/2018 17:54:56","DFK1",705,70
+979302,"Malaga CF","Getafe CF","05/19/2018 17:54:56","Ball Position",706,70
+979302,"Malaga CF","Getafe CF","05/19/2018 17:55:04","Restart",707,70
+979302,"Malaga CF","Getafe CF","05/19/2018 17:55:16","Possible Free Kick",708,70
+979302,"Malaga CF","Getafe CF","05/19/2018 17:55:19","SAFE2",710,70
+979302,"Malaga CF","Getafe CF","05/19/2018 17:55:20","F1",711,70
+979302,"Malaga CF","Getafe CF","05/19/2018 17:55:20","FK2",712,70
+979302,"Malaga CF","Getafe CF","05/19/2018 17:55:20","Ball Position",713,70
+979302,"Malaga CF","Getafe CF","05/19/2018 17:55:35","Injury Break",714,71
+979302,"Malaga CF","Getafe CF","05/19/2018 17:56:29","Restart",715,71
+979302,"Malaga CF","Getafe CF","05/19/2018 17:56:59","AT2",716,72
+979302,"Malaga CF","Getafe CF","05/19/2018 17:57:04","DANGER2",717,72
+979302,"Malaga CF","Getafe CF","05/19/2018 17:57:04","DAT2",718,72
+979302,"Malaga CF","Getafe CF","05/19/2018 17:57:12","POSSIBLE_TI",719,72
+979302,"Malaga CF","Getafe CF","05/19/2018 17:57:15","TI2",720,72
+979302,"Malaga CF","Getafe CF","05/19/2018 17:57:19","Restart",721,72
+979302,"Malaga CF","Getafe CF","05/19/2018 17:57:36","PPEN",722,73
+979302,"Malaga CF","Getafe CF","05/19/2018 17:57:36","PPEN2",723,73
+979302,"Malaga CF","Getafe CF","05/19/2018 17:57:49","POSSIBLE_CARDS",724,73
+979302,"Malaga CF","Getafe CF","05/19/2018 17:57:51","YC1",725,73
+979302,"Malaga CF","Getafe CF","05/19/2018 17:57:53","CONF_YC1",726,73
+979302,"Malaga CF","Getafe CF","05/19/2018 17:57:53","Scorer",727,73
+979302,"Malaga CF","Getafe CF","05/19/2018 17:58:01","PEN2",728,73
+979302,"Malaga CF","Getafe CF","05/19/2018 17:58:24","GOAL2",729,73
+979302,"Malaga CF","Getafe CF","05/19/2018 17:58:25","Scorer",730,73
+979302,"Malaga CF","Getafe CF","05/19/2018 17:58:34","CONF_GOAL2",731,74
+979302,"Malaga CF","Getafe CF","05/19/2018 17:59:19","KO1",732,74
+979302,"Malaga CF","Getafe CF","05/19/2018 17:59:19","SAFE1",733,74
+979302,"Malaga CF","Getafe CF","05/19/2018 17:59:26","AT1",734,74
+979302,"Malaga CF","Getafe CF","05/19/2018 17:59:31","Possible Free Kick",735,74
+979302,"Malaga CF","Getafe CF","05/19/2018 17:59:47","Scorer",737,75
+979302,"Malaga CF","Getafe CF","05/19/2018 17:59:47","Player_DATA_CONFIRMED",738,75
+979302,"Malaga CF","Getafe CF","05/19/2018 18:00:00","F2",739,75
+979302,"Malaga CF","Getafe CF","05/19/2018 18:00:00","FK1",740,75
+979302,"Malaga CF","Getafe CF","05/19/2018 18:00:00","DANGER1",741,75
+979302,"Malaga CF","Getafe CF","05/19/2018 18:00:00","DFK1",742,75
+979302,"Malaga CF","Getafe CF","05/19/2018 18:00:00","Ball Position",743,75
+979302,"Malaga CF","Getafe CF","05/19/2018 18:00:18","Restart",744,75
+979302,"Malaga CF","Getafe CF","05/19/2018 18:00:22","SAFE2",745,75
+979302,"Malaga CF","Getafe CF","05/19/2018 18:00:23","GK2",746,75
+979302,"Malaga CF","Getafe CF","05/19/2018 18:00:49","SUB1",747,76
+979302,"Malaga CF","Getafe CF","05/19/2018 18:01:04","Restart",748,76
+979302,"Malaga CF","Getafe CF","05/19/2018 18:01:09","SAFE1",749,76
+979302,"Malaga CF","Getafe CF","05/19/2018 18:01:11","AT1",750,76
+979302,"Malaga CF","Getafe CF","05/19/2018 18:01:14","DANGER1",751,76
+979302,"Malaga CF","Getafe CF","05/19/2018 18:01:14","DAT1",752,76
+979302,"Malaga CF","Getafe CF","05/19/2018 18:01:24","SAFE2",753,76
+979302,"Malaga CF","Getafe CF","05/19/2018 18:01:30","Possible Free Kick",754,76
+979302,"Malaga CF","Getafe CF","05/19/2018 18:01:33","F1",756,77
+979302,"Malaga CF","Getafe CF","05/19/2018 18:01:33","FK2",757,77
+979302,"Malaga CF","Getafe CF","05/19/2018 18:01:33","Ball Position",758,77
+979302,"Malaga CF","Getafe CF","05/19/2018 18:01:46","Restart",759,77
+979302,"Malaga CF","Getafe CF","05/19/2018 18:01:55","AT2",760,77
+979302,"Malaga CF","Getafe CF","05/19/2018 18:01:57","SAFE2",761,77
+979302,"Malaga CF","Getafe CF","05/19/2018 18:02:04","AT2",762,77
+979302,"Malaga CF","Getafe CF","05/19/2018 18:02:06","DANGER2",763,77
+979302,"Malaga CF","Getafe CF","05/19/2018 18:02:06","DAT2",764,77
+979302,"Malaga CF","Getafe CF","05/19/2018 18:02:11","SAFE1",765,77
+979302,"Malaga CF","Getafe CF","05/19/2018 18:02:17","SAFE2",766,77
+979302,"Malaga CF","Getafe CF","05/19/2018 18:02:17","Player_DATA_CONFIRMED",767,77
+979302,"Malaga CF","Getafe CF","05/19/2018 18:02:26","AT2",768,77
+979302,"Malaga CF","Getafe CF","05/19/2018 18:02:28","DANGER2",769,77
+979302,"Malaga CF","Getafe CF","05/19/2018 18:02:28","DAT2",770,77
+979302,"Malaga CF","Getafe CF","05/19/2018 18:02:36","POSSIBLE_TI",771,78
+979302,"Malaga CF","Getafe CF","05/19/2018 18:02:37","TI2",772,78
+979302,"Malaga CF","Getafe CF","05/19/2018 18:02:41","Restart",773,78
+979302,"Malaga CF","Getafe CF","05/19/2018 18:03:03","SAFE2",774,78
+979302,"Malaga CF","Getafe CF","05/19/2018 18:03:17","Scorer",775,78
+979302,"Malaga CF","Getafe CF","05/19/2018 18:03:17","Player_DATA_CONFIRMED",776,78
+979302,"Malaga CF","Getafe CF","05/19/2018 18:03:21","POSSIBLE_TI",777,78
+979302,"Malaga CF","Getafe CF","05/19/2018 18:03:22","TI1",778,78
+979302,"Malaga CF","Getafe CF","05/19/2018 18:03:28","Restart",779,78
+979302,"Malaga CF","Getafe CF","05/19/2018 18:03:37","SAFE1",780,79
+979302,"Malaga CF","Getafe CF","05/19/2018 18:03:39","SAFE2",781,79
+979302,"Malaga CF","Getafe CF","05/19/2018 18:03:40","AT2",782,79
+979302,"Malaga CF","Getafe CF","05/19/2018 18:03:43","DANGER2",783,79
+979302,"Malaga CF","Getafe CF","05/19/2018 18:03:43","DAT2",784,79
+979302,"Malaga CF","Getafe CF","05/19/2018 18:03:48","Possible Free Kick",785,79
+979302,"Malaga CF","Getafe CF","05/19/2018 18:03:49","POSSIBLE_CARDS",787,79
+979302,"Malaga CF","Getafe CF","05/19/2018 18:03:52","YC2",788,79
+979302,"Malaga CF","Getafe CF","05/19/2018 18:03:53","CONF_YC2",789,79
+979302,"Malaga CF","Getafe CF","05/19/2018 18:03:55","Scorer",790,79
+979302,"Malaga CF","Getafe CF","05/19/2018 18:04:00","SAFE1",791,79
+979302,"Malaga CF","Getafe CF","05/19/2018 18:04:00","F2",792,79
+979302,"Malaga CF","Getafe CF","05/19/2018 18:04:00","FK1",793,79
+979302,"Malaga CF","Getafe CF","05/19/2018 18:04:00","Ball Position",794,79
+979302,"Malaga CF","Getafe CF","05/19/2018 18:04:19","Restart",795,79
+979302,"Malaga CF","Getafe CF","05/19/2018 18:04:23","AT1",796,79
+979302,"Malaga CF","Getafe CF","05/19/2018 18:04:23","DANGER1",797,79
+979302,"Malaga CF","Getafe CF","05/19/2018 18:04:23","DAT1",798,79
+979302,"Malaga CF","Getafe CF","05/19/2018 18:04:29","SAFE2",799,79
+979302,"Malaga CF","Getafe CF","05/19/2018 18:04:39","AT2",800,80
+979302,"Malaga CF","Getafe CF","05/19/2018 18:04:45","DANGER2",801,80
+979302,"Malaga CF","Getafe CF","05/19/2018 18:04:45","DAT2",802,80
+979302,"Malaga CF","Getafe CF","05/19/2018 18:04:46","Scorer",803,80
+979302,"Malaga CF","Getafe CF","05/19/2018 18:04:46","Player_DATA_CONFIRMED",804,80
+979302,"Malaga CF","Getafe CF","05/19/2018 18:04:51","SHB2",805,80
+979302,"Malaga CF","Getafe CF","05/19/2018 18:04:55","SAFE1",806,80
+979302,"Malaga CF","Getafe CF","05/19/2018 18:04:55","GK1",807,80
+979302,"Malaga CF","Getafe CF","05/19/2018 18:05:02","Restart",808,80
+979302,"Malaga CF","Getafe CF","05/19/2018 18:05:13","SAFE1",809,80
+979302,"Malaga CF","Getafe CF","05/19/2018 18:05:21","SAFE2",810,80
+979302,"Malaga CF","Getafe CF","05/19/2018 18:05:33","SAFE1",811,81
+979302,"Malaga CF","Getafe CF","05/19/2018 18:05:43","AT1",812,81
+979302,"Malaga CF","Getafe CF","05/19/2018 18:05:48","SAFE2",813,81
+979302,"Malaga CF","Getafe CF","05/19/2018 18:05:58","SAFE1",814,81
+979302,"Malaga CF","Getafe CF","05/19/2018 18:05:59","SAFE2",815,81
+979302,"Malaga CF","Getafe CF","05/19/2018 18:06:09","AT2",816,81
+979302,"Malaga CF","Getafe CF","05/19/2018 18:06:13","POSSIBLE_TI",817,81
+979302,"Malaga CF","Getafe CF","05/19/2018 18:06:13","TI2",818,81
+979302,"Malaga CF","Getafe CF","05/19/2018 18:06:28","SUB2",819,81
+979302,"Malaga CF","Getafe CF","05/19/2018 18:07:01","Restart",820,82
+979302,"Malaga CF","Getafe CF","05/19/2018 18:07:06","POSSIBLE_TI",821,82
+979302,"Malaga CF","Getafe CF","05/19/2018 18:07:08","TI1",822,82
+979302,"Malaga CF","Getafe CF","05/19/2018 18:07:16","Player_DATA_CONFIRMED",823,82
+979302,"Malaga CF","Getafe CF","05/19/2018 18:07:22","AT1",824,82
+979302,"Malaga CF","Getafe CF","05/19/2018 18:07:22","DANGER1",825,82
+979302,"Malaga CF","Getafe CF","05/19/2018 18:07:22","DAT1",826,82
+979302,"Malaga CF","Getafe CF","05/19/2018 18:07:25","SAFE2",827,82
+979302,"Malaga CF","Getafe CF","05/19/2018 18:07:42","Possible Free Kick",828,83
+979302,"Malaga CF","Getafe CF","05/19/2018 18:07:49","POSSIBLE_CARDS",830,83
+979302,"Malaga CF","Getafe CF","05/19/2018 18:07:52","YC1",831,83
+979302,"Malaga CF","Getafe CF","05/19/2018 18:07:54","CONF_YC1",832,83
+979302,"Malaga CF","Getafe CF","05/19/2018 18:07:56","Scorer",833,83
+979302,"Malaga CF","Getafe CF","05/19/2018 18:08:00","Restart",834,83
+979302,"Malaga CF","Getafe CF","05/19/2018 18:08:00","F1",835,83
+979302,"Malaga CF","Getafe CF","05/19/2018 18:08:00","FK2",836,83
+979302,"Malaga CF","Getafe CF","05/19/2018 18:08:00","DANGER2",837,83
+979302,"Malaga CF","Getafe CF","05/19/2018 18:08:00","DFK2",838,83
+979302,"Malaga CF","Getafe CF","05/19/2018 18:08:00","Ball Position",839,83
+979302,"Malaga CF","Getafe CF","05/19/2018 18:08:46","SUB1",840,84
+979302,"Malaga CF","Getafe CF","05/19/2018 18:08:47","Scorer",841,84
+979302,"Malaga CF","Getafe CF","05/19/2018 18:08:47","Player_DATA_CONFIRMED",842,84
+979302,"Malaga CF","Getafe CF","05/19/2018 18:08:47","Restart",843,84
+979302,"Malaga CF","Getafe CF","05/19/2018 18:08:59","Possible Free Kick",844,84
+979302,"Malaga CF","Getafe CF","05/19/2018 18:09:03","No Free Kick",846,84
+979302,"Malaga CF","Getafe CF","05/19/2018 18:09:04","Possible Free Kick",847,84
+979302,"Malaga CF","Getafe CF","05/19/2018 18:09:07","SAFE1",849,84
+979302,"Malaga CF","Getafe CF","05/19/2018 18:09:08","O2",850,84
+979302,"Malaga CF","Getafe CF","05/19/2018 18:09:08","FK1",851,84
+979302,"Malaga CF","Getafe CF","05/19/2018 18:09:08","Ball Position",852,84
+979302,"Malaga CF","Getafe CF","05/19/2018 18:09:09","Restart",853,84
+979302,"Malaga CF","Getafe CF","05/19/2018 18:09:11","AT1",854,84
+979302,"Malaga CF","Getafe CF","05/19/2018 18:09:13","DANGER1",855,84
+979302,"Malaga CF","Getafe CF","05/19/2018 18:09:13","DAT1",856,84
+979302,"Malaga CF","Getafe CF","05/19/2018 18:09:27","SHB1",857,84
+979302,"Malaga CF","Getafe CF","05/19/2018 18:09:33","SAFE2",858,85
+979302,"Malaga CF","Getafe CF","05/19/2018 18:09:34","GK2",859,85
+979302,"Malaga CF","Getafe CF","05/19/2018 18:09:46","Player_DATA_CONFIRMED",860,85
+979302,"Malaga CF","Getafe CF","05/19/2018 18:10:02","Restart",861,85
+979302,"Malaga CF","Getafe CF","05/19/2018 18:10:11","SAFE1",862,85
+979302,"Malaga CF","Getafe CF","05/19/2018 18:10:13","AT1",863,85
+979302,"Malaga CF","Getafe CF","05/19/2018 18:10:16","POSSIBLE_TI",864,85
+979302,"Malaga CF","Getafe CF","05/19/2018 18:10:18","TI1",865,85
+979302,"Malaga CF","Getafe CF","05/19/2018 18:10:23","Restart",866,85
+979302,"Malaga CF","Getafe CF","05/19/2018 18:10:39","DANGER1",867,86
+979302,"Malaga CF","Getafe CF","05/19/2018 18:10:39","DAT1",868,86
+979302,"Malaga CF","Getafe CF","05/19/2018 18:10:58","SAFE1",869,86
+979302,"Malaga CF","Getafe CF","05/19/2018 18:11:05","AT1",870,86
+979302,"Malaga CF","Getafe CF","05/19/2018 18:11:14","DANGER1",871,86
+979302,"Malaga CF","Getafe CF","05/19/2018 18:11:14","DAT1",872,86
+979302,"Malaga CF","Getafe CF","05/19/2018 18:11:19","SAFE2",873,86
+979302,"Malaga CF","Getafe CF","05/19/2018 18:11:33","AT2",874,87
+979302,"Malaga CF","Getafe CF","05/19/2018 18:11:34","SAFE1",875,87
+979302,"Malaga CF","Getafe CF","05/19/2018 18:11:42","AT1",876,87
+979302,"Malaga CF","Getafe CF","05/19/2018 18:11:42","DANGER1",877,87
+979302,"Malaga CF","Getafe CF","05/19/2018 18:11:42","DAT1",878,87
+979302,"Malaga CF","Getafe CF","05/19/2018 18:11:46","SAFE2",879,87
+979302,"Malaga CF","Getafe CF","05/19/2018 18:12:00","Possible Free Kick",880,87
+979302,"Malaga CF","Getafe CF","05/19/2018 18:12:03","F1",882,87
+979302,"Malaga CF","Getafe CF","05/19/2018 18:12:03","FK2",883,87
+979302,"Malaga CF","Getafe CF","05/19/2018 18:12:03","DANGER2",884,87
+979302,"Malaga CF","Getafe CF","05/19/2018 18:12:03","DFK2",885,87
+979302,"Malaga CF","Getafe CF","05/19/2018 18:12:03","Ball Position",886,87
+979302,"Malaga CF","Getafe CF","05/19/2018 18:12:09","Restart",887,87
+979302,"Malaga CF","Getafe CF","05/19/2018 18:12:22","SAFE1",888,87
+979302,"Malaga CF","Getafe CF","05/19/2018 18:12:28","AT1",889,87
+979302,"Malaga CF","Getafe CF","05/19/2018 18:12:36","DANGER1",890,88
+979302,"Malaga CF","Getafe CF","05/19/2018 18:12:36","DAT1",891,88
+979302,"Malaga CF","Getafe CF","05/19/2018 18:12:41","SAFE2",892,88
+979302,"Malaga CF","Getafe CF","05/19/2018 18:13:04","SAFE1",893,88
+979302,"Malaga CF","Getafe CF","05/19/2018 18:13:10","AT1",894,88
+979302,"Malaga CF","Getafe CF","05/19/2018 18:13:14","SAFE2",895,88
+979302,"Malaga CF","Getafe CF","05/19/2018 18:13:15","AT2",896,88
+979302,"Malaga CF","Getafe CF","05/19/2018 18:13:23","POSSIBLE_TI",897,88
+979302,"Malaga CF","Getafe CF","05/19/2018 18:13:26","TI2",898,88
+979302,"Malaga CF","Getafe CF","05/19/2018 18:13:35","Restart",899,89
+979302,"Malaga CF","Getafe CF","05/19/2018 18:13:55","POSSIBLE_TI",900,89
+979302,"Malaga CF","Getafe CF","05/19/2018 18:13:56","TI1",901,89
+979302,"Malaga CF","Getafe CF","05/19/2018 18:13:59","SAFE1",902,89
+979302,"Malaga CF","Getafe CF","05/19/2018 18:14:02","POSSIBLE_TI",903,89
+979302,"Malaga CF","Getafe CF","05/19/2018 18:14:03","NO_TI",904,89
+979302,"Malaga CF","Getafe CF","05/19/2018 18:14:05","Restart",905,89
+979302,"Malaga CF","Getafe CF","05/19/2018 18:14:06","POSSIBLE_TI",906,89
+979302,"Malaga CF","Getafe CF","05/19/2018 18:14:08","TI1",907,89
+979302,"Malaga CF","Getafe CF","05/19/2018 18:14:10","Restart",908,89
+979302,"Malaga CF","Getafe CF","05/19/2018 18:14:15","AT1",909,89
+979302,"Malaga CF","Getafe CF","05/19/2018 18:14:20","POSSIBLE_TI",910,89
+979302,"Malaga CF","Getafe CF","05/19/2018 18:14:22","TI2",911,89
+979302,"Malaga CF","Getafe CF","05/19/2018 18:14:44","Restart",912,90
+979302,"Malaga CF","Getafe CF","05/19/2018 18:14:51","AT2",913,90
+979302,"Malaga CF","Getafe CF","05/19/2018 18:14:51","DANGER2",914,90
+979302,"Malaga CF","Getafe CF","05/19/2018 18:14:51","DAT2",915,90
+979302,"Malaga CF","Getafe CF","05/19/2018 18:15:00","PCR2",916,90
+979302,"Malaga CF","Getafe CF","05/19/2018 18:15:03","CR2",917,90
+979302,"Malaga CF","Getafe CF","05/19/2018 18:15:10","Ball Position",918,90
+979302,"Malaga CF","Getafe CF","05/19/2018 18:15:32","Restart",919,91
+979302,"Malaga CF","Getafe CF","05/19/2018 18:15:41","PCR2",920,91
+979302,"Malaga CF","Getafe CF","05/19/2018 18:15:42","CR2",921,91
+979302,"Malaga CF","Getafe CF","05/19/2018 18:15:46","SHG2",922,91
+979302,"Malaga CF","Getafe CF","05/19/2018 18:15:59","Ball Position",923,91
+979302,"Malaga CF","Getafe CF","05/19/2018 18:16:02","Restart",924,91
+979302,"Malaga CF","Getafe CF","05/19/2018 18:16:04","Extra Time",925,91
+979302,"Malaga CF","Getafe CF","05/19/2018 18:16:07","Possible Free Kick",926,91
+979302,"Malaga CF","Getafe CF","05/19/2018 18:16:09","SAFE1",928,91
+979302,"Malaga CF","Getafe CF","05/19/2018 18:16:09","F2",929,91
+979302,"Malaga CF","Getafe CF","05/19/2018 18:16:09","FK1",930,91
+979302,"Malaga CF","Getafe CF","05/19/2018 18:16:09","Ball Position",931,91
+979302,"Malaga CF","Getafe CF","05/19/2018 18:16:18","Extra Time",932,91
+979302,"Malaga CF","Getafe CF","05/19/2018 18:16:19","Extra Time",933,91
+979302,"Malaga CF","Getafe CF","05/19/2018 18:16:23","CLS",934,91
+979302,"Malaga CF","Getafe CF","05/19/2018 18:16:25","CLS",935,91
+979302,"Malaga CF","Getafe CF","05/19/2018 18:16:27","Restart",936,91
+979302,"Malaga CF","Getafe CF","05/19/2018 18:16:33","SAFE2",937,92
+979302,"Malaga CF","Getafe CF","05/19/2018 18:16:45","AT2",938,92
+979302,"Malaga CF","Getafe CF","05/19/2018 18:16:52","DANGER2",939,92
+979302,"Malaga CF","Getafe CF","05/19/2018 18:16:52","DAT2",940,92
+979302,"Malaga CF","Getafe CF","05/19/2018 18:17:04","Player_DATA_CONFIRMED",941,92
+979302,"Malaga CF","Getafe CF","05/19/2018 18:17:05","Player_DATA_CONFIRMED",942,92
+979302,"Malaga CF","Getafe CF","05/19/2018 18:17:23","SHB2",943,92
+979302,"Malaga CF","Getafe CF","05/19/2018 18:17:30","Stop RT2",944,92
+979302,"Malaga CF","Getafe CF","05/19/2018 18:17:30","Stop Game",945,92
+979302,"Malaga CF","Getafe CF","05/19/2018 18:17:40","CONF_PERIOD_SCORE",946,91

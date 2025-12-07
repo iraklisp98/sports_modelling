@@ -1,0 +1,854 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+918258,"Watford FC","Southampton FC","01/13/2018 14:00:44","Lineup changed",0,0
+918258,"Watford FC","Southampton FC","01/13/2018 14:01:23","Transmission Online",1,0
+918258,"Watford FC","Southampton FC","01/13/2018 14:01:23","Scout in Stadion",2,0
+918258,"Watford FC","Southampton FC","01/13/2018 14:26:29","GCC",3,0
+918258,"Watford FC","Southampton FC","01/13/2018 14:56:07","Players are coming out",4,0
+918258,"Watford FC","Southampton FC","01/13/2018 14:56:40","Jersey Changed",5,0
+918258,"Watford FC","Southampton FC","01/13/2018 14:56:41","Jersey Changed",6,0
+918258,"Watford FC","Southampton FC","01/13/2018 14:56:56","Players lined up",7,0
+918258,"Watford FC","Southampton FC","01/13/2018 14:58:13","GCC",8,0
+918258,"Watford FC","Southampton FC","01/13/2018 14:58:17","Photo taking",9,0
+918258,"Watford FC","Southampton FC","01/13/2018 14:59:24","Game about to start",10,0
+918258,"Watford FC","Southampton FC","01/13/2018 15:00:31","Start RT1 Team 2",11,1
+918258,"Watford FC","Southampton FC","01/13/2018 15:00:35","AT2",12,1
+918258,"Watford FC","Southampton FC","01/13/2018 15:00:40","DANGER2",13,1
+918258,"Watford FC","Southampton FC","01/13/2018 15:00:40","DAT2",14,1
+918258,"Watford FC","Southampton FC","01/13/2018 15:00:57","SAFE1",15,1
+918258,"Watford FC","Southampton FC","01/13/2018 15:01:12","POSSIBLE_TI",16,1
+918258,"Watford FC","Southampton FC","01/13/2018 15:01:13","TI2",17,1
+918258,"Watford FC","Southampton FC","01/13/2018 15:01:27","Restart",18,1
+918258,"Watford FC","Southampton FC","01/13/2018 15:01:34","POSSIBLE_TI",19,2
+918258,"Watford FC","Southampton FC","01/13/2018 15:01:35","TI1",20,2
+918258,"Watford FC","Southampton FC","01/13/2018 15:01:46","Restart",21,2
+918258,"Watford FC","Southampton FC","01/13/2018 15:01:57","POSSIBLE_TI",22,2
+918258,"Watford FC","Southampton FC","01/13/2018 15:01:58","TI1",23,2
+918258,"Watford FC","Southampton FC","01/13/2018 15:02:10","Restart",24,2
+918258,"Watford FC","Southampton FC","01/13/2018 15:02:17","AT2",25,2
+918258,"Watford FC","Southampton FC","01/13/2018 15:02:22","SAFE2",26,2
+918258,"Watford FC","Southampton FC","01/13/2018 15:02:31","AT2",27,3
+918258,"Watford FC","Southampton FC","01/13/2018 15:02:31","DANGER2",28,3
+918258,"Watford FC","Southampton FC","01/13/2018 15:02:31","DAT2",29,3
+918258,"Watford FC","Southampton FC","01/13/2018 15:02:34","POSSIBLE_TI",30,3
+918258,"Watford FC","Southampton FC","01/13/2018 15:02:35","TI2",31,3
+918258,"Watford FC","Southampton FC","01/13/2018 15:02:49","Restart",32,3
+918258,"Watford FC","Southampton FC","01/13/2018 15:03:05","SHG2",33,3
+918258,"Watford FC","Southampton FC","01/13/2018 15:03:08","Possible Free Kick",34,3
+918258,"Watford FC","Southampton FC","01/13/2018 15:03:14","SAFE1",36,3
+918258,"Watford FC","Southampton FC","01/13/2018 15:03:14","O2",37,3
+918258,"Watford FC","Southampton FC","01/13/2018 15:03:14","FK1",38,3
+918258,"Watford FC","Southampton FC","01/13/2018 15:03:14","Ball Position",39,3
+918258,"Watford FC","Southampton FC","01/13/2018 15:03:25","Restart",40,3
+918258,"Watford FC","Southampton FC","01/13/2018 15:03:40","SAFE2",41,4
+918258,"Watford FC","Southampton FC","01/13/2018 15:03:57","POSSIBLE_TI",42,4
+918258,"Watford FC","Southampton FC","01/13/2018 15:03:58","TI1",43,4
+918258,"Watford FC","Southampton FC","01/13/2018 15:04:06","Restart",44,4
+918258,"Watford FC","Southampton FC","01/13/2018 15:04:09","AT1",45,4
+918258,"Watford FC","Southampton FC","01/13/2018 15:04:09","DANGER1",46,4
+918258,"Watford FC","Southampton FC","01/13/2018 15:04:09","DAT1",47,4
+918258,"Watford FC","Southampton FC","01/13/2018 15:04:19","SAFE2",48,4
+918258,"Watford FC","Southampton FC","01/13/2018 15:04:40","AT2",49,5
+918258,"Watford FC","Southampton FC","01/13/2018 15:04:50","SAFE2",50,5
+918258,"Watford FC","Southampton FC","01/13/2018 15:05:00","AT2",51,5
+918258,"Watford FC","Southampton FC","01/13/2018 15:05:00","DANGER2",52,5
+918258,"Watford FC","Southampton FC","01/13/2018 15:05:00","DAT2",53,5
+918258,"Watford FC","Southampton FC","01/13/2018 15:05:07","SAFE1",54,5
+918258,"Watford FC","Southampton FC","01/13/2018 15:05:07","GK1",55,5
+918258,"Watford FC","Southampton FC","01/13/2018 15:05:37","Restart",56,6
+918258,"Watford FC","Southampton FC","01/13/2018 15:05:48","AT1",57,6
+918258,"Watford FC","Southampton FC","01/13/2018 15:05:48","DANGER1",58,6
+918258,"Watford FC","Southampton FC","01/13/2018 15:05:48","DAT1",59,6
+918258,"Watford FC","Southampton FC","01/13/2018 15:05:50","POSSIBLE_TI",60,6
+918258,"Watford FC","Southampton FC","01/13/2018 15:05:51","TI1",61,6
+918258,"Watford FC","Southampton FC","01/13/2018 15:05:55","Restart",62,6
+918258,"Watford FC","Southampton FC","01/13/2018 15:06:17","SAFE1",63,6
+918258,"Watford FC","Southampton FC","01/13/2018 15:06:40","Possible Free Kick",64,7
+918258,"Watford FC","Southampton FC","01/13/2018 15:06:41","F2",66,7
+918258,"Watford FC","Southampton FC","01/13/2018 15:06:41","FK1",67,7
+918258,"Watford FC","Southampton FC","01/13/2018 15:06:41","DANGER1",68,7
+918258,"Watford FC","Southampton FC","01/13/2018 15:06:41","DFK1",69,7
+918258,"Watford FC","Southampton FC","01/13/2018 15:06:41","Ball Position",70,7
+918258,"Watford FC","Southampton FC","01/13/2018 15:06:52","Restart",71,7
+918258,"Watford FC","Southampton FC","01/13/2018 15:07:08","SAFE2",72,7
+918258,"Watford FC","Southampton FC","01/13/2018 15:07:35","AT2",73,8
+918258,"Watford FC","Southampton FC","01/13/2018 15:07:35","DANGER2",74,8
+918258,"Watford FC","Southampton FC","01/13/2018 15:07:35","DAT2",75,8
+918258,"Watford FC","Southampton FC","01/13/2018 15:07:44","SAFE2",76,8
+918258,"Watford FC","Southampton FC","01/13/2018 15:07:51","POSSIBLE_TI",77,8
+918258,"Watford FC","Southampton FC","01/13/2018 15:07:52","TI1",78,8
+918258,"Watford FC","Southampton FC","01/13/2018 15:08:08","Restart",79,8
+918258,"Watford FC","Southampton FC","01/13/2018 15:08:12","POSSIBLE_TI",80,8
+918258,"Watford FC","Southampton FC","01/13/2018 15:08:13","TI2",81,8
+918258,"Watford FC","Southampton FC","01/13/2018 15:08:18","Restart",82,8
+918258,"Watford FC","Southampton FC","01/13/2018 15:08:36","Possible Free Kick",83,9
+918258,"Watford FC","Southampton FC","01/13/2018 15:08:37","SAFE1",85,9
+918258,"Watford FC","Southampton FC","01/13/2018 15:08:37","F2",86,9
+918258,"Watford FC","Southampton FC","01/13/2018 15:08:37","FK1",87,9
+918258,"Watford FC","Southampton FC","01/13/2018 15:08:37","Ball Position",88,9
+918258,"Watford FC","Southampton FC","01/13/2018 15:08:42","Restart",89,9
+918258,"Watford FC","Southampton FC","01/13/2018 15:08:42","AT1",90,9
+918258,"Watford FC","Southampton FC","01/13/2018 15:08:42","DANGER1",91,9
+918258,"Watford FC","Southampton FC","01/13/2018 15:08:42","DAT1",92,9
+918258,"Watford FC","Southampton FC","01/13/2018 15:09:14","SAFE1",93,9
+918258,"Watford FC","Southampton FC","01/13/2018 15:09:21","AT1",94,9
+918258,"Watford FC","Southampton FC","01/13/2018 15:09:21","DANGER1",95,9
+918258,"Watford FC","Southampton FC","01/13/2018 15:09:21","DAT1",96,9
+918258,"Watford FC","Southampton FC","01/13/2018 15:10:05","SAFE2",97,10
+918258,"Watford FC","Southampton FC","01/13/2018 15:10:12","Possible Free Kick",98,10
+918258,"Watford FC","Southampton FC","01/13/2018 15:10:13","SAFE1",100,10
+918258,"Watford FC","Southampton FC","01/13/2018 15:10:13","F2",101,10
+918258,"Watford FC","Southampton FC","01/13/2018 15:10:13","FK1",102,10
+918258,"Watford FC","Southampton FC","01/13/2018 15:10:13","Ball Position",103,10
+918258,"Watford FC","Southampton FC","01/13/2018 15:10:23","Restart",104,10
+918258,"Watford FC","Southampton FC","01/13/2018 15:10:41","AT1",105,11
+918258,"Watford FC","Southampton FC","01/13/2018 15:10:41","DANGER1",106,11
+918258,"Watford FC","Southampton FC","01/13/2018 15:10:41","DAT1",107,11
+918258,"Watford FC","Southampton FC","01/13/2018 15:10:46","POSSIBLE_TI",108,11
+918258,"Watford FC","Southampton FC","01/13/2018 15:10:47","TI1",109,11
+918258,"Watford FC","Southampton FC","01/13/2018 15:11:06","Restart",110,11
+918258,"Watford FC","Southampton FC","01/13/2018 15:11:56","SAFE2",111,12
+918258,"Watford FC","Southampton FC","01/13/2018 15:12:19","AT2",112,12
+918258,"Watford FC","Southampton FC","01/13/2018 15:12:28","Possible Free Kick",113,12
+918258,"Watford FC","Southampton FC","01/13/2018 15:12:29","SAFE1",115,12
+918258,"Watford FC","Southampton FC","01/13/2018 15:12:29","F2",116,12
+918258,"Watford FC","Southampton FC","01/13/2018 15:12:29","FK1",117,12
+918258,"Watford FC","Southampton FC","01/13/2018 15:12:29","Ball Position",118,12
+918258,"Watford FC","Southampton FC","01/13/2018 15:12:54","Restart",119,13
+918258,"Watford FC","Southampton FC","01/13/2018 15:13:00","POSSIBLE_TI",120,13
+918258,"Watford FC","Southampton FC","01/13/2018 15:13:01","TI2",121,13
+918258,"Watford FC","Southampton FC","01/13/2018 15:13:08","Restart",122,13
+918258,"Watford FC","Southampton FC","01/13/2018 15:13:11","SAFE2",123,13
+918258,"Watford FC","Southampton FC","01/13/2018 15:13:15","AT2",124,13
+918258,"Watford FC","Southampton FC","01/13/2018 15:13:22","DANGER2",125,13
+918258,"Watford FC","Southampton FC","01/13/2018 15:13:22","DAT2",126,13
+918258,"Watford FC","Southampton FC","01/13/2018 15:13:27","POSSIBLE_TI",127,13
+918258,"Watford FC","Southampton FC","01/13/2018 15:13:28","TI1",128,13
+918258,"Watford FC","Southampton FC","01/13/2018 15:13:43","Restart",129,14
+918258,"Watford FC","Southampton FC","01/13/2018 15:13:48","POSSIBLE_TI",130,14
+918258,"Watford FC","Southampton FC","01/13/2018 15:13:49","TI2",131,14
+918258,"Watford FC","Southampton FC","01/13/2018 15:13:56","Restart",132,14
+918258,"Watford FC","Southampton FC","01/13/2018 15:13:59","SAFE2",133,14
+918258,"Watford FC","Southampton FC","01/13/2018 15:14:12","AT2",134,14
+918258,"Watford FC","Southampton FC","01/13/2018 15:14:12","DANGER2",135,14
+918258,"Watford FC","Southampton FC","01/13/2018 15:14:12","DAT2",136,14
+918258,"Watford FC","Southampton FC","01/13/2018 15:14:15","BLOCKED2",137,14
+918258,"Watford FC","Southampton FC","01/13/2018 15:14:27","SHB2",138,14
+918258,"Watford FC","Southampton FC","01/13/2018 15:14:28","SAFE1",139,14
+918258,"Watford FC","Southampton FC","01/13/2018 15:14:29","GK1",140,14
+918258,"Watford FC","Southampton FC","01/13/2018 15:15:05","Restart",141,15
+918258,"Watford FC","Southampton FC","01/13/2018 15:15:11","AT1",142,15
+918258,"Watford FC","Southampton FC","01/13/2018 15:15:11","DANGER1",143,15
+918258,"Watford FC","Southampton FC","01/13/2018 15:15:11","DAT1",144,15
+918258,"Watford FC","Southampton FC","01/13/2018 15:15:18","PCR1",145,15
+918258,"Watford FC","Southampton FC","01/13/2018 15:15:19","CR1",146,15
+918258,"Watford FC","Southampton FC","01/13/2018 15:15:20","Ball Position",147,15
+918258,"Watford FC","Southampton FC","01/13/2018 15:15:40","Restart",148,16
+918258,"Watford FC","Southampton FC","01/13/2018 15:15:51","SAFE1",149,16
+918258,"Watford FC","Southampton FC","01/13/2018 15:16:09","POSSIBLE_TI",150,16
+918258,"Watford FC","Southampton FC","01/13/2018 15:16:10","TI2",151,16
+918258,"Watford FC","Southampton FC","01/13/2018 15:16:14","Restart",152,16
+918258,"Watford FC","Southampton FC","01/13/2018 15:16:18","POSSIBLE_TI",153,16
+918258,"Watford FC","Southampton FC","01/13/2018 15:16:19","TI2",154,16
+918258,"Watford FC","Southampton FC","01/13/2018 15:16:28","Restart",155,16
+918258,"Watford FC","Southampton FC","01/13/2018 15:16:33","SAFE2",156,17
+918258,"Watford FC","Southampton FC","01/13/2018 15:17:18","AT1",157,17
+918258,"Watford FC","Southampton FC","01/13/2018 15:17:18","DANGER1",158,17
+918258,"Watford FC","Southampton FC","01/13/2018 15:17:18","DAT1",159,17
+918258,"Watford FC","Southampton FC","01/13/2018 15:17:26","SAFE2",160,17
+918258,"Watford FC","Southampton FC","01/13/2018 15:17:31","AT2",161,18
+918258,"Watford FC","Southampton FC","01/13/2018 15:17:31","DANGER2",162,18
+918258,"Watford FC","Southampton FC","01/13/2018 15:17:31","DAT2",163,18
+918258,"Watford FC","Southampton FC","01/13/2018 15:17:37","SAFE1",164,18
+918258,"Watford FC","Southampton FC","01/13/2018 15:17:46","AT1",165,18
+918258,"Watford FC","Southampton FC","01/13/2018 15:17:46","DANGER1",166,18
+918258,"Watford FC","Southampton FC","01/13/2018 15:17:46","DAT1",167,18
+918258,"Watford FC","Southampton FC","01/13/2018 15:18:01","SAFE2",168,18
+918258,"Watford FC","Southampton FC","01/13/2018 15:18:28","AT1",169,18
+918258,"Watford FC","Southampton FC","01/13/2018 15:18:30","DANGER1",170,18
+918258,"Watford FC","Southampton FC","01/13/2018 15:18:30","DAT1",171,18
+918258,"Watford FC","Southampton FC","01/13/2018 15:18:39","BLOCKED1",172,19
+918258,"Watford FC","Southampton FC","01/13/2018 15:18:57","BLOCKED1",173,19
+918258,"Watford FC","Southampton FC","01/13/2018 15:19:15","PCR1",174,19
+918258,"Watford FC","Southampton FC","01/13/2018 15:19:18","SHG1",175,19
+918258,"Watford FC","Southampton FC","01/13/2018 15:19:19","CR1",176,19
+918258,"Watford FC","Southampton FC","01/13/2018 15:19:25","Ball Position",177,19
+918258,"Watford FC","Southampton FC","01/13/2018 15:19:42","Restart",178,20
+918258,"Watford FC","Southampton FC","01/13/2018 15:19:45","Possible Free Kick",179,20
+918258,"Watford FC","Southampton FC","01/13/2018 15:19:47","SAFE2",181,20
+918258,"Watford FC","Southampton FC","01/13/2018 15:19:47","F1",182,20
+918258,"Watford FC","Southampton FC","01/13/2018 15:19:47","FK2",183,20
+918258,"Watford FC","Southampton FC","01/13/2018 15:19:47","Ball Position",184,20
+918258,"Watford FC","Southampton FC","01/13/2018 15:20:14","Restart",185,20
+918258,"Watford FC","Southampton FC","01/13/2018 15:20:23","AT2",186,20
+918258,"Watford FC","Southampton FC","01/13/2018 15:20:23","DANGER2",187,20
+918258,"Watford FC","Southampton FC","01/13/2018 15:20:23","DAT2",188,20
+918258,"Watford FC","Southampton FC","01/13/2018 15:20:30","GOAL2",189,20
+918258,"Watford FC","Southampton FC","01/13/2018 15:20:40","Scorer",190,21
+918258,"Watford FC","Southampton FC","01/13/2018 15:20:58","CONF_GOAL2",191,21
+918258,"Watford FC","Southampton FC","01/13/2018 15:21:19","KO1",192,21
+918258,"Watford FC","Southampton FC","01/13/2018 15:21:19","SAFE1",193,21
+918258,"Watford FC","Southampton FC","01/13/2018 15:21:28","POSSIBLE_TI",194,21
+918258,"Watford FC","Southampton FC","01/13/2018 15:21:29","TI2",195,21
+918258,"Watford FC","Southampton FC","01/13/2018 15:21:40","Player_DATA_CONFIRMED",196,22
+918258,"Watford FC","Southampton FC","01/13/2018 15:21:46","Restart",197,22
+918258,"Watford FC","Southampton FC","01/13/2018 15:21:50","POSSIBLE_TI",198,22
+918258,"Watford FC","Southampton FC","01/13/2018 15:21:51","NO_TI",199,22
+918258,"Watford FC","Southampton FC","01/13/2018 15:21:52","Possible Free Kick",200,22
+918258,"Watford FC","Southampton FC","01/13/2018 15:21:53","F2",202,22
+918258,"Watford FC","Southampton FC","01/13/2018 15:21:53","FK1",203,22
+918258,"Watford FC","Southampton FC","01/13/2018 15:21:53","Ball Position",204,22
+918258,"Watford FC","Southampton FC","01/13/2018 15:21:58","Restart",205,22
+918258,"Watford FC","Southampton FC","01/13/2018 15:22:09","AT1",206,22
+918258,"Watford FC","Southampton FC","01/13/2018 15:22:09","DANGER1",207,22
+918258,"Watford FC","Southampton FC","01/13/2018 15:22:09","DAT1",208,22
+918258,"Watford FC","Southampton FC","01/13/2018 15:22:12","POSSIBLE_TI",209,22
+918258,"Watford FC","Southampton FC","01/13/2018 15:22:14","TI2",210,22
+918258,"Watford FC","Southampton FC","01/13/2018 15:22:31","Restart",211,23
+918258,"Watford FC","Southampton FC","01/13/2018 15:22:38","POSSIBLE_TI",212,23
+918258,"Watford FC","Southampton FC","01/13/2018 15:22:39","TI2",213,23
+918258,"Watford FC","Southampton FC","01/13/2018 15:22:42","CLS",214,23
+918258,"Watford FC","Southampton FC","01/13/2018 15:22:43","TI1",215,23
+918258,"Watford FC","Southampton FC","01/13/2018 15:22:59","Restart",216,23
+918258,"Watford FC","Southampton FC","01/13/2018 15:23:06","SAFE2",217,23
+918258,"Watford FC","Southampton FC","01/13/2018 15:23:13","AT2",218,23
+918258,"Watford FC","Southampton FC","01/13/2018 15:23:13","DANGER2",219,23
+918258,"Watford FC","Southampton FC","01/13/2018 15:23:13","DAT2",220,23
+918258,"Watford FC","Southampton FC","01/13/2018 15:23:24","SHG2",221,23
+918258,"Watford FC","Southampton FC","01/13/2018 15:23:28","POSSIBLE_TI",222,23
+918258,"Watford FC","Southampton FC","01/13/2018 15:23:29","TI2",223,23
+918258,"Watford FC","Southampton FC","01/13/2018 15:23:43","Restart",224,24
+918258,"Watford FC","Southampton FC","01/13/2018 15:23:50","SAFE1",225,24
+918258,"Watford FC","Southampton FC","01/13/2018 15:24:17","AT2",226,24
+918258,"Watford FC","Southampton FC","01/13/2018 15:24:17","DANGER2",227,24
+918258,"Watford FC","Southampton FC","01/13/2018 15:24:17","DAT2",228,24
+918258,"Watford FC","Southampton FC","01/13/2018 15:24:21","SAFE1",229,24
+918258,"Watford FC","Southampton FC","01/13/2018 15:24:28","POSSIBLE_TI",230,24
+918258,"Watford FC","Southampton FC","01/13/2018 15:24:30","TI1",231,24
+918258,"Watford FC","Southampton FC","01/13/2018 15:24:47","Restart",232,25
+918258,"Watford FC","Southampton FC","01/13/2018 15:25:16","AT2",233,25
+918258,"Watford FC","Southampton FC","01/13/2018 15:25:17","DANGER2",234,25
+918258,"Watford FC","Southampton FC","01/13/2018 15:25:17","DAT2",235,25
+918258,"Watford FC","Southampton FC","01/13/2018 15:25:34","AT1",236,26
+918258,"Watford FC","Southampton FC","01/13/2018 15:25:34","DANGER1",237,26
+918258,"Watford FC","Southampton FC","01/13/2018 15:25:34","DAT1",238,26
+918258,"Watford FC","Southampton FC","01/13/2018 15:25:48","SAFE2",239,26
+918258,"Watford FC","Southampton FC","01/13/2018 15:25:57","AT2",240,26
+918258,"Watford FC","Southampton FC","01/13/2018 15:26:03","DANGER2",241,26
+918258,"Watford FC","Southampton FC","01/13/2018 15:26:03","DAT2",242,26
+918258,"Watford FC","Southampton FC","01/13/2018 15:26:23","PCR2",243,26
+918258,"Watford FC","Southampton FC","01/13/2018 15:26:25","SHG2",244,26
+918258,"Watford FC","Southampton FC","01/13/2018 15:26:27","CR2",245,26
+918258,"Watford FC","Southampton FC","01/13/2018 15:26:28","Ball Position",246,26
+918258,"Watford FC","Southampton FC","01/13/2018 15:27:01","Restart",247,27
+918258,"Watford FC","Southampton FC","01/13/2018 15:27:18","POSSIBLE_TI",248,27
+918258,"Watford FC","Southampton FC","01/13/2018 15:27:18","TI1",249,27
+918258,"Watford FC","Southampton FC","01/13/2018 15:27:34","Restart",250,28
+918258,"Watford FC","Southampton FC","01/13/2018 15:27:40","POSSIBLE_TI",251,28
+918258,"Watford FC","Southampton FC","01/13/2018 15:27:44","TI1",252,28
+918258,"Watford FC","Southampton FC","01/13/2018 15:27:50","Restart",253,28
+918258,"Watford FC","Southampton FC","01/13/2018 15:27:58","AT1",254,28
+918258,"Watford FC","Southampton FC","01/13/2018 15:27:58","DANGER1",255,28
+918258,"Watford FC","Southampton FC","01/13/2018 15:27:58","DAT1",256,28
+918258,"Watford FC","Southampton FC","01/13/2018 15:28:03","SAFE2",257,28
+918258,"Watford FC","Southampton FC","01/13/2018 15:28:04","GK2",258,28
+918258,"Watford FC","Southampton FC","01/13/2018 15:28:30","Restart",259,28
+918258,"Watford FC","Southampton FC","01/13/2018 15:28:51","SAFE1",260,29
+918258,"Watford FC","Southampton FC","01/13/2018 15:29:04","AT2",261,29
+918258,"Watford FC","Southampton FC","01/13/2018 15:29:07","DANGER2",262,29
+918258,"Watford FC","Southampton FC","01/13/2018 15:29:07","DAT2",263,29
+918258,"Watford FC","Southampton FC","01/13/2018 15:29:08","SHB2",264,29
+918258,"Watford FC","Southampton FC","01/13/2018 15:29:10","SAFE1",265,29
+918258,"Watford FC","Southampton FC","01/13/2018 15:29:11","GK1",266,29
+918258,"Watford FC","Southampton FC","01/13/2018 15:29:18","Restart",267,29
+918258,"Watford FC","Southampton FC","01/13/2018 15:29:36","POSSIBLE_TI",268,30
+918258,"Watford FC","Southampton FC","01/13/2018 15:29:36","TI1",269,30
+918258,"Watford FC","Southampton FC","01/13/2018 15:29:40","Restart",270,30
+918258,"Watford FC","Southampton FC","01/13/2018 15:29:44","AT2",271,30
+918258,"Watford FC","Southampton FC","01/13/2018 15:29:44","DANGER2",272,30
+918258,"Watford FC","Southampton FC","01/13/2018 15:29:44","DAT2",273,30
+918258,"Watford FC","Southampton FC","01/13/2018 15:29:48","SAFE2",274,30
+918258,"Watford FC","Southampton FC","01/13/2018 15:30:15","AT2",275,30
+918258,"Watford FC","Southampton FC","01/13/2018 15:30:15","DANGER2",276,30
+918258,"Watford FC","Southampton FC","01/13/2018 15:30:15","DAT2",277,30
+918258,"Watford FC","Southampton FC","01/13/2018 15:30:20","SAFE1",278,30
+918258,"Watford FC","Southampton FC","01/13/2018 15:30:39","AT2",279,31
+918258,"Watford FC","Southampton FC","01/13/2018 15:30:39","DANGER2",280,31
+918258,"Watford FC","Southampton FC","01/13/2018 15:30:39","DAT2",281,31
+918258,"Watford FC","Southampton FC","01/13/2018 15:31:07","AT1",282,31
+918258,"Watford FC","Southampton FC","01/13/2018 15:31:07","DANGER1",283,31
+918258,"Watford FC","Southampton FC","01/13/2018 15:31:07","DAT1",284,31
+918258,"Watford FC","Southampton FC","01/13/2018 15:31:10","Possible Free Kick",285,31
+918258,"Watford FC","Southampton FC","01/13/2018 15:31:18","POSSIBLE_CARDS",287,31
+918258,"Watford FC","Southampton FC","01/13/2018 15:31:20","YC2",288,31
+918258,"Watford FC","Southampton FC","01/13/2018 15:31:22","CONF_YC2",289,31
+918258,"Watford FC","Southampton FC","01/13/2018 15:31:26","Scorer",290,31
+918258,"Watford FC","Southampton FC","01/13/2018 15:31:34","F2",291,32
+918258,"Watford FC","Southampton FC","01/13/2018 15:31:34","FK1",292,32
+918258,"Watford FC","Southampton FC","01/13/2018 15:31:34","DFK1",293,32
+918258,"Watford FC","Southampton FC","01/13/2018 15:31:34","Ball Position",294,32
+918258,"Watford FC","Southampton FC","01/13/2018 15:31:36","Player_DATA_CONFIRMED",295,32
+918258,"Watford FC","Southampton FC","01/13/2018 15:31:50","Restart",296,32
+918258,"Watford FC","Southampton FC","01/13/2018 15:31:53","SAFE2",297,32
+918258,"Watford FC","Southampton FC","01/13/2018 15:32:31","AT2",298,33
+918258,"Watford FC","Southampton FC","01/13/2018 15:32:38","SAFE1",299,33
+918258,"Watford FC","Southampton FC","01/13/2018 15:32:50","AT2",300,33
+918258,"Watford FC","Southampton FC","01/13/2018 15:32:50","DANGER2",301,33
+918258,"Watford FC","Southampton FC","01/13/2018 15:32:50","DAT2",302,33
+918258,"Watford FC","Southampton FC","01/13/2018 15:33:06","PCR2",303,33
+918258,"Watford FC","Southampton FC","01/13/2018 15:33:08","SHG2",304,33
+918258,"Watford FC","Southampton FC","01/13/2018 15:33:13","CR2",305,33
+918258,"Watford FC","Southampton FC","01/13/2018 15:33:20","Ball Position",306,33
+918258,"Watford FC","Southampton FC","01/13/2018 15:33:51","Restart",307,34
+918258,"Watford FC","Southampton FC","01/13/2018 15:33:54","PCR2",308,34
+918258,"Watford FC","Southampton FC","01/13/2018 15:33:56","SHG2",309,34
+918258,"Watford FC","Southampton FC","01/13/2018 15:33:57","CR2",310,34
+918258,"Watford FC","Southampton FC","01/13/2018 15:34:00","Ball Position",311,34
+918258,"Watford FC","Southampton FC","01/13/2018 15:34:20","Restart",312,34
+918258,"Watford FC","Southampton FC","01/13/2018 15:34:37","SAFE2",313,35
+918258,"Watford FC","Southampton FC","01/13/2018 15:34:57","POSSIBLE_TI",314,35
+918258,"Watford FC","Southampton FC","01/13/2018 15:34:58","TI1",315,35
+918258,"Watford FC","Southampton FC","01/13/2018 15:35:21","SUB1",316,35
+918258,"Watford FC","Southampton FC","01/13/2018 15:35:32","Restart",317,36
+918258,"Watford FC","Southampton FC","01/13/2018 15:35:33","Player_DATA_CONFIRMED",318,36
+918258,"Watford FC","Southampton FC","01/13/2018 15:35:35","POSSIBLE_TI",319,36
+918258,"Watford FC","Southampton FC","01/13/2018 15:35:36","TI2",320,36
+918258,"Watford FC","Southampton FC","01/13/2018 15:35:59","Restart",321,36
+918258,"Watford FC","Southampton FC","01/13/2018 15:36:03","POSSIBLE_TI",322,36
+918258,"Watford FC","Southampton FC","01/13/2018 15:36:04","TI2",323,36
+918258,"Watford FC","Southampton FC","01/13/2018 15:36:13","Restart",324,36
+918258,"Watford FC","Southampton FC","01/13/2018 15:36:16","POSSIBLE_TI",325,36
+918258,"Watford FC","Southampton FC","01/13/2018 15:36:17","TI1",326,36
+918258,"Watford FC","Southampton FC","01/13/2018 15:36:26","Restart",327,36
+918258,"Watford FC","Southampton FC","01/13/2018 15:36:44","Possible Free Kick",328,37
+918258,"Watford FC","Southampton FC","01/13/2018 15:36:45","F2",330,37
+918258,"Watford FC","Southampton FC","01/13/2018 15:36:45","FK1",331,37
+918258,"Watford FC","Southampton FC","01/13/2018 15:36:45","DANGER1",332,37
+918258,"Watford FC","Southampton FC","01/13/2018 15:36:45","DFK1",333,37
+918258,"Watford FC","Southampton FC","01/13/2018 15:36:45","Ball Position",334,37
+918258,"Watford FC","Southampton FC","01/13/2018 15:37:19","Restart",335,37
+918258,"Watford FC","Southampton FC","01/13/2018 15:37:23","SHB1",336,37
+918258,"Watford FC","Southampton FC","01/13/2018 15:37:24","SAFE2",337,37
+918258,"Watford FC","Southampton FC","01/13/2018 15:37:24","GK2",338,37
+918258,"Watford FC","Southampton FC","01/13/2018 15:37:54","Restart",339,38
+918258,"Watford FC","Southampton FC","01/13/2018 15:38:03","AT1",340,38
+918258,"Watford FC","Southampton FC","01/13/2018 15:38:12","DANGER1",341,38
+918258,"Watford FC","Southampton FC","01/13/2018 15:38:12","DAT1",342,38
+918258,"Watford FC","Southampton FC","01/13/2018 15:38:23","SAFE2",343,38
+918258,"Watford FC","Southampton FC","01/13/2018 15:38:34","AT2",344,39
+918258,"Watford FC","Southampton FC","01/13/2018 15:38:40","SAFE2",345,39
+918258,"Watford FC","Southampton FC","01/13/2018 15:38:49","Possible Free Kick",346,39
+918258,"Watford FC","Southampton FC","01/13/2018 15:38:53","SAFE1",348,39
+918258,"Watford FC","Southampton FC","01/13/2018 15:38:53","O2",349,39
+918258,"Watford FC","Southampton FC","01/13/2018 15:38:53","FK1",350,39
+918258,"Watford FC","Southampton FC","01/13/2018 15:38:53","Ball Position",351,39
+918258,"Watford FC","Southampton FC","01/13/2018 15:39:09","Restart",352,39
+918258,"Watford FC","Southampton FC","01/13/2018 15:39:31","POSSIBLE_TI",353,40
+918258,"Watford FC","Southampton FC","01/13/2018 15:39:32","TI1",354,40
+918258,"Watford FC","Southampton FC","01/13/2018 15:39:39","Restart",355,40
+918258,"Watford FC","Southampton FC","01/13/2018 15:40:02","AT1",356,40
+918258,"Watford FC","Southampton FC","01/13/2018 15:40:02","DANGER1",357,40
+918258,"Watford FC","Southampton FC","01/13/2018 15:40:02","DAT1",358,40
+918258,"Watford FC","Southampton FC","01/13/2018 15:40:23","Possible Free Kick",359,40
+918258,"Watford FC","Southampton FC","01/13/2018 15:40:25","SAFE2",361,40
+918258,"Watford FC","Southampton FC","01/13/2018 15:40:25","F1",362,40
+918258,"Watford FC","Southampton FC","01/13/2018 15:40:25","FK2",363,40
+918258,"Watford FC","Southampton FC","01/13/2018 15:40:25","Ball Position",364,40
+918258,"Watford FC","Southampton FC","01/13/2018 15:40:34","Restart",365,41
+918258,"Watford FC","Southampton FC","01/13/2018 15:40:49","AT1",366,41
+918258,"Watford FC","Southampton FC","01/13/2018 15:40:49","DANGER1",367,41
+918258,"Watford FC","Southampton FC","01/13/2018 15:40:49","DAT1",368,41
+918258,"Watford FC","Southampton FC","01/13/2018 15:40:54","SAFE2",369,41
+918258,"Watford FC","Southampton FC","01/13/2018 15:41:00","AT2",370,41
+918258,"Watford FC","Southampton FC","01/13/2018 15:41:00","DANGER2",371,41
+918258,"Watford FC","Southampton FC","01/13/2018 15:41:00","DAT2",372,41
+918258,"Watford FC","Southampton FC","01/13/2018 15:41:03","POSSIBLE_TI",373,41
+918258,"Watford FC","Southampton FC","01/13/2018 15:41:03","TI2",374,41
+918258,"Watford FC","Southampton FC","01/13/2018 15:41:32","Restart",375,42
+918258,"Watford FC","Southampton FC","01/13/2018 15:41:53","SAFE1",376,42
+918258,"Watford FC","Southampton FC","01/13/2018 15:42:40","AT1",377,43
+918258,"Watford FC","Southampton FC","01/13/2018 15:42:40","DANGER1",378,43
+918258,"Watford FC","Southampton FC","01/13/2018 15:42:40","DAT1",379,43
+918258,"Watford FC","Southampton FC","01/13/2018 15:42:42","BLOCKED1",380,43
+918258,"Watford FC","Southampton FC","01/13/2018 15:42:55","SAFE2",381,43
+918258,"Watford FC","Southampton FC","01/13/2018 15:43:17","SAFE1",382,43
+918258,"Watford FC","Southampton FC","01/13/2018 15:43:37","AT1",383,44
+918258,"Watford FC","Southampton FC","01/13/2018 15:43:42","SAFE1",384,44
+918258,"Watford FC","Southampton FC","01/13/2018 15:43:48","AT1",385,44
+918258,"Watford FC","Southampton FC","01/13/2018 15:43:48","DANGER1",386,44
+918258,"Watford FC","Southampton FC","01/13/2018 15:43:48","DAT1",387,44
+918258,"Watford FC","Southampton FC","01/13/2018 15:44:12","AT2",388,44
+918258,"Watford FC","Southampton FC","01/13/2018 15:44:12","DANGER2",389,44
+918258,"Watford FC","Southampton FC","01/13/2018 15:44:12","DAT2",390,44
+918258,"Watford FC","Southampton FC","01/13/2018 15:44:21","GOAL2",391,44
+918258,"Watford FC","Southampton FC","01/13/2018 15:44:31","Scorer",392,45
+918258,"Watford FC","Southampton FC","01/13/2018 15:45:01","CONF_GOAL2",393,45
+918258,"Watford FC","Southampton FC","01/13/2018 15:45:23","KO1",394,45
+918258,"Watford FC","Southampton FC","01/13/2018 15:45:23","SAFE1",395,45
+918258,"Watford FC","Southampton FC","01/13/2018 15:45:28","Player_DATA_CONFIRMED",396,45
+918258,"Watford FC","Southampton FC","01/13/2018 15:45:32","POSSIBLE_TI",397,46
+918258,"Watford FC","Southampton FC","01/13/2018 15:45:32","TI2",398,46
+918258,"Watford FC","Southampton FC","01/13/2018 15:45:43","Restart",399,46
+918258,"Watford FC","Southampton FC","01/13/2018 15:45:46","AT2",400,46
+918258,"Watford FC","Southampton FC","01/13/2018 15:45:46","DANGER2",401,46
+918258,"Watford FC","Southampton FC","01/13/2018 15:45:46","DAT2",402,46
+918258,"Watford FC","Southampton FC","01/13/2018 15:46:02","Assist",403,46
+918258,"Watford FC","Southampton FC","01/13/2018 15:46:07","POSSIBLE_TI",404,46
+918258,"Watford FC","Southampton FC","01/13/2018 15:46:08","TI2",405,46
+918258,"Watford FC","Southampton FC","01/13/2018 15:46:11","Restart",406,46
+918258,"Watford FC","Southampton FC","01/13/2018 15:46:11","Extra Time",407,46
+918258,"Watford FC","Southampton FC","01/13/2018 15:46:12","SAFE2",408,46
+918258,"Watford FC","Southampton FC","01/13/2018 15:46:29","SAFE1",409,46
+918258,"Watford FC","Southampton FC","01/13/2018 15:46:40","Stop RT1",410,46
+918258,"Watford FC","Southampton FC","01/13/2018 15:46:48","CONF_PERIOD_SCORE",411,45
+918258,"Watford FC","Southampton FC","01/13/2018 16:00:04","Players are coming out",412,45
+918258,"Watford FC","Southampton FC","01/13/2018 16:01:10","SUB1",413,45
+918258,"Watford FC","Southampton FC","01/13/2018 16:01:11","Game about to start",414,45
+918258,"Watford FC","Southampton FC","01/13/2018 16:01:42","Start RT2 Team 1",415,46
+918258,"Watford FC","Southampton FC","01/13/2018 16:01:50","AT1",416,46
+918258,"Watford FC","Southampton FC","01/13/2018 16:01:50","DANGER1",417,46
+918258,"Watford FC","Southampton FC","01/13/2018 16:01:50","DAT1",418,46
+918258,"Watford FC","Southampton FC","01/13/2018 16:02:16","SAFE1",419,46
+918258,"Watford FC","Southampton FC","01/13/2018 16:02:25","AT1",420,46
+918258,"Watford FC","Southampton FC","01/13/2018 16:02:25","DANGER1",421,46
+918258,"Watford FC","Southampton FC","01/13/2018 16:02:25","DAT1",422,46
+918258,"Watford FC","Southampton FC","01/13/2018 16:02:31","POSSIBLE_TI",423,46
+918258,"Watford FC","Southampton FC","01/13/2018 16:02:32","TI1",424,46
+918258,"Watford FC","Southampton FC","01/13/2018 16:02:45","Restart",425,47
+918258,"Watford FC","Southampton FC","01/13/2018 16:03:03","SHB1",426,47
+918258,"Watford FC","Southampton FC","01/13/2018 16:03:04","SAFE2",427,47
+918258,"Watford FC","Southampton FC","01/13/2018 16:03:08","GK2",428,47
+918258,"Watford FC","Southampton FC","01/13/2018 16:03:28","Restart",429,47
+918258,"Watford FC","Southampton FC","01/13/2018 16:03:32","Player_DATA_CONFIRMED",430,47
+918258,"Watford FC","Southampton FC","01/13/2018 16:03:35","SAFE1",431,47
+918258,"Watford FC","Southampton FC","01/13/2018 16:03:48","AT2",432,48
+918258,"Watford FC","Southampton FC","01/13/2018 16:03:48","DANGER2",433,48
+918258,"Watford FC","Southampton FC","01/13/2018 16:03:48","DAT2",434,48
+918258,"Watford FC","Southampton FC","01/13/2018 16:03:54","SAFE1",435,48
+918258,"Watford FC","Southampton FC","01/13/2018 16:03:54","GK1",436,48
+918258,"Watford FC","Southampton FC","01/13/2018 16:04:15","Restart",437,48
+918258,"Watford FC","Southampton FC","01/13/2018 16:04:24","POSSIBLE_TI",438,48
+918258,"Watford FC","Southampton FC","01/13/2018 16:04:26","TI1",439,48
+918258,"Watford FC","Southampton FC","01/13/2018 16:04:36","Restart",440,48
+918258,"Watford FC","Southampton FC","01/13/2018 16:04:39","POSSIBLE_TI",441,48
+918258,"Watford FC","Southampton FC","01/13/2018 16:04:41","TI1",442,48
+918258,"Watford FC","Southampton FC","01/13/2018 16:04:49","Restart",443,49
+918258,"Watford FC","Southampton FC","01/13/2018 16:04:56","AT2",444,49
+918258,"Watford FC","Southampton FC","01/13/2018 16:04:56","DANGER2",445,49
+918258,"Watford FC","Southampton FC","01/13/2018 16:04:56","DAT2",446,49
+918258,"Watford FC","Southampton FC","01/13/2018 16:05:04","POSSIBLE_TI",447,49
+918258,"Watford FC","Southampton FC","01/13/2018 16:05:05","TI2",448,49
+918258,"Watford FC","Southampton FC","01/13/2018 16:05:20","Restart",449,49
+918258,"Watford FC","Southampton FC","01/13/2018 16:05:28","POSSIBLE_TI",450,49
+918258,"Watford FC","Southampton FC","01/13/2018 16:05:29","TI2",451,49
+918258,"Watford FC","Southampton FC","01/13/2018 16:05:37","Restart",452,49
+918258,"Watford FC","Southampton FC","01/13/2018 16:05:47","SAFE1",453,50
+918258,"Watford FC","Southampton FC","01/13/2018 16:05:59","AT2",454,50
+918258,"Watford FC","Southampton FC","01/13/2018 16:05:59","DANGER2",455,50
+918258,"Watford FC","Southampton FC","01/13/2018 16:05:59","DAT2",456,50
+918258,"Watford FC","Southampton FC","01/13/2018 16:06:02","SAFE1",457,50
+918258,"Watford FC","Southampton FC","01/13/2018 16:06:20","AT1",458,50
+918258,"Watford FC","Southampton FC","01/13/2018 16:06:20","DANGER1",459,50
+918258,"Watford FC","Southampton FC","01/13/2018 16:06:20","DAT1",460,50
+918258,"Watford FC","Southampton FC","01/13/2018 16:06:29","PCR1",461,50
+918258,"Watford FC","Southampton FC","01/13/2018 16:06:30","CR1",462,50
+918258,"Watford FC","Southampton FC","01/13/2018 16:06:31","Ball Position",463,50
+918258,"Watford FC","Southampton FC","01/13/2018 16:06:48","Restart",464,51
+918258,"Watford FC","Southampton FC","01/13/2018 16:06:56","SAFE1",465,51
+918258,"Watford FC","Southampton FC","01/13/2018 16:07:04","AT1",466,51
+918258,"Watford FC","Southampton FC","01/13/2018 16:07:04","DANGER1",467,51
+918258,"Watford FC","Southampton FC","01/13/2018 16:07:04","DAT1",468,51
+918258,"Watford FC","Southampton FC","01/13/2018 16:07:19","Possible Free Kick",469,51
+918258,"Watford FC","Southampton FC","01/13/2018 16:07:20","SAFE2",471,51
+918258,"Watford FC","Southampton FC","01/13/2018 16:07:20","F1",472,51
+918258,"Watford FC","Southampton FC","01/13/2018 16:07:20","FK2",473,51
+918258,"Watford FC","Southampton FC","01/13/2018 16:07:20","Ball Position",474,51
+918258,"Watford FC","Southampton FC","01/13/2018 16:07:43","Restart",475,52
+918258,"Watford FC","Southampton FC","01/13/2018 16:07:50","AT2",476,52
+918258,"Watford FC","Southampton FC","01/13/2018 16:07:50","DANGER2",477,52
+918258,"Watford FC","Southampton FC","01/13/2018 16:07:50","DAT2",478,52
+918258,"Watford FC","Southampton FC","01/13/2018 16:07:55","POSSIBLE_TI",479,52
+918258,"Watford FC","Southampton FC","01/13/2018 16:07:55","TI1",480,52
+918258,"Watford FC","Southampton FC","01/13/2018 16:08:05","Restart",481,52
+918258,"Watford FC","Southampton FC","01/13/2018 16:08:19","AT1",482,52
+918258,"Watford FC","Southampton FC","01/13/2018 16:08:19","DANGER1",483,52
+918258,"Watford FC","Southampton FC","01/13/2018 16:08:19","DAT1",484,52
+918258,"Watford FC","Southampton FC","01/13/2018 16:08:40","SAFE2",485,52
+918258,"Watford FC","Southampton FC","01/13/2018 16:08:47","AT2",486,53
+918258,"Watford FC","Southampton FC","01/13/2018 16:08:52","DANGER2",487,53
+918258,"Watford FC","Southampton FC","01/13/2018 16:08:52","DAT2",488,53
+918258,"Watford FC","Southampton FC","01/13/2018 16:09:09","Possible Free Kick",489,53
+918258,"Watford FC","Southampton FC","01/13/2018 16:09:13","SAFE1",491,53
+918258,"Watford FC","Southampton FC","01/13/2018 16:09:13","O2",492,53
+918258,"Watford FC","Southampton FC","01/13/2018 16:09:13","FK1",493,53
+918258,"Watford FC","Southampton FC","01/13/2018 16:09:13","Ball Position",494,53
+918258,"Watford FC","Southampton FC","01/13/2018 16:09:31","Restart",495,53
+918258,"Watford FC","Southampton FC","01/13/2018 16:09:37","AT1",496,53
+918258,"Watford FC","Southampton FC","01/13/2018 16:09:37","DANGER1",497,53
+918258,"Watford FC","Southampton FC","01/13/2018 16:09:37","DAT1",498,53
+918258,"Watford FC","Southampton FC","01/13/2018 16:09:42","POSSIBLE_TI",499,53
+918258,"Watford FC","Southampton FC","01/13/2018 16:09:43","TI1",500,54
+918258,"Watford FC","Southampton FC","01/13/2018 16:09:59","Restart",501,54
+918258,"Watford FC","Southampton FC","01/13/2018 16:10:11","POSSIBLE_TI",502,54
+918258,"Watford FC","Southampton FC","01/13/2018 16:10:12","TI1",503,54
+918258,"Watford FC","Southampton FC","01/13/2018 16:10:24","Restart",504,54
+918258,"Watford FC","Southampton FC","01/13/2018 16:10:30","SAFE1",505,54
+918258,"Watford FC","Southampton FC","01/13/2018 16:10:58","AT1",506,55
+918258,"Watford FC","Southampton FC","01/13/2018 16:11:03","DANGER1",507,55
+918258,"Watford FC","Southampton FC","01/13/2018 16:11:03","DAT1",508,55
+918258,"Watford FC","Southampton FC","01/13/2018 16:11:25","SHB1",509,55
+918258,"Watford FC","Southampton FC","01/13/2018 16:11:26","SAFE2",510,55
+918258,"Watford FC","Southampton FC","01/13/2018 16:11:26","GK2",511,55
+918258,"Watford FC","Southampton FC","01/13/2018 16:11:56","Restart",512,56
+918258,"Watford FC","Southampton FC","01/13/2018 16:12:09","AT1",513,56
+918258,"Watford FC","Southampton FC","01/13/2018 16:12:23","Possible Free Kick",514,56
+918258,"Watford FC","Southampton FC","01/13/2018 16:12:25","F2",516,56
+918258,"Watford FC","Southampton FC","01/13/2018 16:12:25","FK1",517,56
+918258,"Watford FC","Southampton FC","01/13/2018 16:12:25","DANGER1",518,56
+918258,"Watford FC","Southampton FC","01/13/2018 16:12:25","DFK1",519,56
+918258,"Watford FC","Southampton FC","01/13/2018 16:12:25","Ball Position",520,56
+918258,"Watford FC","Southampton FC","01/13/2018 16:12:29","Restart",521,56
+918258,"Watford FC","Southampton FC","01/13/2018 16:13:22","BLOCKED1",522,57
+918258,"Watford FC","Southampton FC","01/13/2018 16:13:24","POSSIBLE_TI",523,57
+918258,"Watford FC","Southampton FC","01/13/2018 16:13:25","TI1",524,57
+918258,"Watford FC","Southampton FC","01/13/2018 16:13:26","Restart",525,57
+918258,"Watford FC","Southampton FC","01/13/2018 16:13:49","SHW1",526,58
+918258,"Watford FC","Southampton FC","01/13/2018 16:13:50","GOAL1",527,58
+918258,"Watford FC","Southampton FC","01/13/2018 16:13:58","Scorer",528,58
+918258,"Watford FC","Southampton FC","01/13/2018 16:14:17","CONF_GOAL1",529,58
+918258,"Watford FC","Southampton FC","01/13/2018 16:14:24","Scorer",530,58
+918258,"Watford FC","Southampton FC","01/13/2018 16:14:24","KO2",531,58
+918258,"Watford FC","Southampton FC","01/13/2018 16:14:24","SAFE2",532,58
+918258,"Watford FC","Southampton FC","01/13/2018 16:14:30","Player_DATA_CONFIRMED",533,58
+918258,"Watford FC","Southampton FC","01/13/2018 16:14:32","SAFE1",534,58
+918258,"Watford FC","Southampton FC","01/13/2018 16:14:40","AT1",535,58
+918258,"Watford FC","Southampton FC","01/13/2018 16:14:47","DANGER1",536,59
+918258,"Watford FC","Southampton FC","01/13/2018 16:14:47","DAT1",537,59
+918258,"Watford FC","Southampton FC","01/13/2018 16:14:59","Possible Free Kick",538,59
+918258,"Watford FC","Southampton FC","01/13/2018 16:15:01","F2",540,59
+918258,"Watford FC","Southampton FC","01/13/2018 16:15:01","FK1",541,59
+918258,"Watford FC","Southampton FC","01/13/2018 16:15:01","DFK1",542,59
+918258,"Watford FC","Southampton FC","01/13/2018 16:15:01","Ball Position",543,59
+918258,"Watford FC","Southampton FC","01/13/2018 16:15:09","POSSIBLE_CARDS",544,59
+918258,"Watford FC","Southampton FC","01/13/2018 16:15:15","NO_Cards",545,59
+918258,"Watford FC","Southampton FC","01/13/2018 16:16:02","Restart",546,60
+918258,"Watford FC","Southampton FC","01/13/2018 16:16:07","SAFE2",547,60
+918258,"Watford FC","Southampton FC","01/13/2018 16:16:08","GK2",548,60
+918258,"Watford FC","Southampton FC","01/13/2018 16:16:33","Restart",549,60
+918258,"Watford FC","Southampton FC","01/13/2018 16:16:40","SAFE1",550,60
+918258,"Watford FC","Southampton FC","01/13/2018 16:16:50","POSSIBLE_TI",551,61
+918258,"Watford FC","Southampton FC","01/13/2018 16:16:52","TI2",552,61
+918258,"Watford FC","Southampton FC","01/13/2018 16:17:07","Restart",553,61
+918258,"Watford FC","Southampton FC","01/13/2018 16:17:15","AT1",554,61
+918258,"Watford FC","Southampton FC","01/13/2018 16:17:17","DANGER1",555,61
+918258,"Watford FC","Southampton FC","01/13/2018 16:17:17","DAT1",556,61
+918258,"Watford FC","Southampton FC","01/13/2018 16:17:23","PCR1",557,61
+918258,"Watford FC","Southampton FC","01/13/2018 16:17:25","CR1",558,61
+918258,"Watford FC","Southampton FC","01/13/2018 16:17:30","Ball Position",559,61
+918258,"Watford FC","Southampton FC","01/13/2018 16:17:51","Restart",560,62
+918258,"Watford FC","Southampton FC","01/13/2018 16:18:03","SHB1",561,62
+918258,"Watford FC","Southampton FC","01/13/2018 16:18:03","SAFE2",562,62
+918258,"Watford FC","Southampton FC","01/13/2018 16:18:04","GK2",563,62
+918258,"Watford FC","Southampton FC","01/13/2018 16:18:21","SUB2",564,62
+918258,"Watford FC","Southampton FC","01/13/2018 16:18:55","Restart",565,63
+918258,"Watford FC","Southampton FC","01/13/2018 16:19:17","AT1",566,63
+918258,"Watford FC","Southampton FC","01/13/2018 16:19:19","DANGER1",567,63
+918258,"Watford FC","Southampton FC","01/13/2018 16:19:19","DAT1",568,63
+918258,"Watford FC","Southampton FC","01/13/2018 16:19:22","PCR1",569,63
+918258,"Watford FC","Southampton FC","01/13/2018 16:19:23","CR1",570,63
+918258,"Watford FC","Southampton FC","01/13/2018 16:19:25","Ball Position",571,63
+918258,"Watford FC","Southampton FC","01/13/2018 16:19:32","Player_DATA_CONFIRMED",572,63
+918258,"Watford FC","Southampton FC","01/13/2018 16:19:47","Restart",573,64
+918258,"Watford FC","Southampton FC","01/13/2018 16:19:52","SHB1",574,64
+918258,"Watford FC","Southampton FC","01/13/2018 16:19:56","SAFE2",575,64
+918258,"Watford FC","Southampton FC","01/13/2018 16:19:57","GK2",576,64
+918258,"Watford FC","Southampton FC","01/13/2018 16:20:08","Injury Break",577,64
+918258,"Watford FC","Southampton FC","01/13/2018 16:21:39","Restart",578,65
+918258,"Watford FC","Southampton FC","01/13/2018 16:21:46","POSSIBLE_TI",579,66
+918258,"Watford FC","Southampton FC","01/13/2018 16:21:48","TI1",580,66
+918258,"Watford FC","Southampton FC","01/13/2018 16:21:52","Restart",581,66
+918258,"Watford FC","Southampton FC","01/13/2018 16:21:53","SAFE1",582,66
+918258,"Watford FC","Southampton FC","01/13/2018 16:22:18","POSSIBLE_TI",583,66
+918258,"Watford FC","Southampton FC","01/13/2018 16:22:19","TI1",584,66
+918258,"Watford FC","Southampton FC","01/13/2018 16:22:24","Restart",585,66
+918258,"Watford FC","Southampton FC","01/13/2018 16:22:43","AT1",586,67
+918258,"Watford FC","Southampton FC","01/13/2018 16:22:43","DANGER1",587,67
+918258,"Watford FC","Southampton FC","01/13/2018 16:22:43","DAT1",588,67
+918258,"Watford FC","Southampton FC","01/13/2018 16:22:52","Possible Free Kick",589,67
+918258,"Watford FC","Southampton FC","01/13/2018 16:22:53","SAFE2",591,67
+918258,"Watford FC","Southampton FC","01/13/2018 16:22:53","F1",592,67
+918258,"Watford FC","Southampton FC","01/13/2018 16:22:53","FK2",593,67
+918258,"Watford FC","Southampton FC","01/13/2018 16:22:54","Ball Position",594,67
+918258,"Watford FC","Southampton FC","01/13/2018 16:23:24","Restart",595,67
+918258,"Watford FC","Southampton FC","01/13/2018 16:23:31","POSSIBLE_TI",596,67
+918258,"Watford FC","Southampton FC","01/13/2018 16:23:32","TI1",597,67
+918258,"Watford FC","Southampton FC","01/13/2018 16:23:43","Restart",598,68
+918258,"Watford FC","Southampton FC","01/13/2018 16:23:50","POSSIBLE_TI",599,68
+918258,"Watford FC","Southampton FC","01/13/2018 16:23:51","TI1",600,68
+918258,"Watford FC","Southampton FC","01/13/2018 16:23:53","Restart",601,68
+918258,"Watford FC","Southampton FC","01/13/2018 16:24:00","SAFE2",602,68
+918258,"Watford FC","Southampton FC","01/13/2018 16:24:23","AT2",603,68
+918258,"Watford FC","Southampton FC","01/13/2018 16:24:23","DANGER2",604,68
+918258,"Watford FC","Southampton FC","01/13/2018 16:24:23","DAT2",605,68
+918258,"Watford FC","Southampton FC","01/13/2018 16:24:28","Possible Free Kick",606,68
+918258,"Watford FC","Southampton FC","01/13/2018 16:24:29","SAFE1",608,68
+918258,"Watford FC","Southampton FC","01/13/2018 16:24:29","F2",609,68
+918258,"Watford FC","Southampton FC","01/13/2018 16:24:29","FK1",610,68
+918258,"Watford FC","Southampton FC","01/13/2018 16:24:30","Ball Position",611,68
+918258,"Watford FC","Southampton FC","01/13/2018 16:24:46","Restart",612,69
+918258,"Watford FC","Southampton FC","01/13/2018 16:24:57","AT2",613,69
+918258,"Watford FC","Southampton FC","01/13/2018 16:24:57","DANGER2",614,69
+918258,"Watford FC","Southampton FC","01/13/2018 16:24:57","DAT2",615,69
+918258,"Watford FC","Southampton FC","01/13/2018 16:25:16","SHB2",616,69
+918258,"Watford FC","Southampton FC","01/13/2018 16:25:16","SAFE1",617,69
+918258,"Watford FC","Southampton FC","01/13/2018 16:25:17","GK1",618,69
+918258,"Watford FC","Southampton FC","01/13/2018 16:25:38","Restart",619,69
+918258,"Watford FC","Southampton FC","01/13/2018 16:26:07","POSSIBLE_TI",620,70
+918258,"Watford FC","Southampton FC","01/13/2018 16:26:08","TI1",621,70
+918258,"Watford FC","Southampton FC","01/13/2018 16:26:19","Restart",622,70
+918258,"Watford FC","Southampton FC","01/13/2018 16:26:32","AT1",623,70
+918258,"Watford FC","Southampton FC","01/13/2018 16:26:32","DANGER1",624,70
+918258,"Watford FC","Southampton FC","01/13/2018 16:26:32","DAT1",625,70
+918258,"Watford FC","Southampton FC","01/13/2018 16:26:38","SHB1",626,70
+918258,"Watford FC","Southampton FC","01/13/2018 16:26:38","SAFE2",627,70
+918258,"Watford FC","Southampton FC","01/13/2018 16:26:39","GK2",628,70
+918258,"Watford FC","Southampton FC","01/13/2018 16:27:01","Restart",629,71
+918258,"Watford FC","Southampton FC","01/13/2018 16:27:07","POSSIBLE_TI",630,71
+918258,"Watford FC","Southampton FC","01/13/2018 16:27:07","TI1",631,71
+918258,"Watford FC","Southampton FC","01/13/2018 16:27:17","Restart",632,71
+918258,"Watford FC","Southampton FC","01/13/2018 16:27:27","SAFE2",633,71
+918258,"Watford FC","Southampton FC","01/13/2018 16:27:38","AT2",634,71
+918258,"Watford FC","Southampton FC","01/13/2018 16:27:38","DANGER2",635,71
+918258,"Watford FC","Southampton FC","01/13/2018 16:27:38","DAT2",636,71
+918258,"Watford FC","Southampton FC","01/13/2018 16:27:41","SAFE1",637,71
+918258,"Watford FC","Southampton FC","01/13/2018 16:27:56","AT1",638,72
+918258,"Watford FC","Southampton FC","01/13/2018 16:28:01","DANGER1",639,72
+918258,"Watford FC","Southampton FC","01/13/2018 16:28:01","DAT1",640,72
+918258,"Watford FC","Southampton FC","01/13/2018 16:28:20","POSSIBLE_TI",641,72
+918258,"Watford FC","Southampton FC","01/13/2018 16:28:21","TI2",642,72
+918258,"Watford FC","Southampton FC","01/13/2018 16:28:43","Restart",643,73
+918258,"Watford FC","Southampton FC","01/13/2018 16:28:53","Possible Free Kick",644,73
+918258,"Watford FC","Southampton FC","01/13/2018 16:28:54","F2",646,73
+918258,"Watford FC","Southampton FC","01/13/2018 16:28:54","FK1",647,73
+918258,"Watford FC","Southampton FC","01/13/2018 16:28:54","DFK1",648,73
+918258,"Watford FC","Southampton FC","01/13/2018 16:28:55","Ball Position",649,73
+918258,"Watford FC","Southampton FC","01/13/2018 16:29:18","SUB1",650,73
+918258,"Watford FC","Southampton FC","01/13/2018 16:29:24","Player_DATA_CONFIRMED",651,73
+918258,"Watford FC","Southampton FC","01/13/2018 16:29:32","Restart",652,73
+918258,"Watford FC","Southampton FC","01/13/2018 16:29:41","SHB1",653,73
+918258,"Watford FC","Southampton FC","01/13/2018 16:29:42","SAFE2",654,74
+918258,"Watford FC","Southampton FC","01/13/2018 16:29:42","GK2",655,74
+918258,"Watford FC","Southampton FC","01/13/2018 16:30:04","Restart",656,74
+918258,"Watford FC","Southampton FC","01/13/2018 16:30:28","POSSIBLE_TI",657,74
+918258,"Watford FC","Southampton FC","01/13/2018 16:30:30","TI1",658,74
+918258,"Watford FC","Southampton FC","01/13/2018 16:30:34","Restart",659,74
+918258,"Watford FC","Southampton FC","01/13/2018 16:30:40","POSSIBLE_TI",660,74
+918258,"Watford FC","Southampton FC","01/13/2018 16:30:40","TI1",661,74
+918258,"Watford FC","Southampton FC","01/13/2018 16:30:42","Restart",662,75
+918258,"Watford FC","Southampton FC","01/13/2018 16:31:00","AT1",663,75
+918258,"Watford FC","Southampton FC","01/13/2018 16:31:00","DANGER1",664,75
+918258,"Watford FC","Southampton FC","01/13/2018 16:31:00","DAT1",665,75
+918258,"Watford FC","Southampton FC","01/13/2018 16:31:12","POSSIBLE_TI",666,75
+918258,"Watford FC","Southampton FC","01/13/2018 16:31:13","TI1",667,75
+918258,"Watford FC","Southampton FC","01/13/2018 16:31:27","Restart",668,75
+918258,"Watford FC","Southampton FC","01/13/2018 16:31:32","SAFE1",669,75
+918258,"Watford FC","Southampton FC","01/13/2018 16:32:09","Possible Free Kick",670,76
+918258,"Watford FC","Southampton FC","01/13/2018 16:32:10","SAFE2",672,76
+918258,"Watford FC","Southampton FC","01/13/2018 16:32:10","F1",673,76
+918258,"Watford FC","Southampton FC","01/13/2018 16:32:10","FK2",674,76
+918258,"Watford FC","Southampton FC","01/13/2018 16:32:10","Ball Position",675,76
+918258,"Watford FC","Southampton FC","01/13/2018 16:32:38","Restart",676,76
+918258,"Watford FC","Southampton FC","01/13/2018 16:32:43","POSSIBLE_TI",677,77
+918258,"Watford FC","Southampton FC","01/13/2018 16:32:43","TI1",678,77
+918258,"Watford FC","Southampton FC","01/13/2018 16:32:46","Restart",679,77
+918258,"Watford FC","Southampton FC","01/13/2018 16:32:51","Possible Free Kick",680,77
+918258,"Watford FC","Southampton FC","01/13/2018 16:33:08","F1",682,77
+918258,"Watford FC","Southampton FC","01/13/2018 16:33:08","FK2",683,77
+918258,"Watford FC","Southampton FC","01/13/2018 16:33:08","Ball Position",684,77
+918258,"Watford FC","Southampton FC","01/13/2018 16:33:30","Restart",685,77
+918258,"Watford FC","Southampton FC","01/13/2018 16:33:38","SAFE1",686,77
+918258,"Watford FC","Southampton FC","01/13/2018 16:33:39","GK1",687,77
+918258,"Watford FC","Southampton FC","01/13/2018 16:33:55","Restart",688,78
+918258,"Watford FC","Southampton FC","01/13/2018 16:34:05","Possible Free Kick",689,78
+918258,"Watford FC","Southampton FC","01/13/2018 16:34:07","F2",691,78
+918258,"Watford FC","Southampton FC","01/13/2018 16:34:07","FK1",692,78
+918258,"Watford FC","Southampton FC","01/13/2018 16:34:07","Ball Position",693,78
+918258,"Watford FC","Southampton FC","01/13/2018 16:34:15","Restart",694,78
+918258,"Watford FC","Southampton FC","01/13/2018 16:34:21","AT1",695,78
+918258,"Watford FC","Southampton FC","01/13/2018 16:34:21","DANGER1",696,78
+918258,"Watford FC","Southampton FC","01/13/2018 16:34:21","DAT1",697,78
+918258,"Watford FC","Southampton FC","01/13/2018 16:34:31","SHB1",698,78
+918258,"Watford FC","Southampton FC","01/13/2018 16:34:31","SAFE2",699,78
+918258,"Watford FC","Southampton FC","01/13/2018 16:34:46","AT2",700,79
+918258,"Watford FC","Southampton FC","01/13/2018 16:34:50","POSSIBLE_TI",701,79
+918258,"Watford FC","Southampton FC","01/13/2018 16:34:51","TI1",702,79
+918258,"Watford FC","Southampton FC","01/13/2018 16:34:58","Restart",703,79
+918258,"Watford FC","Southampton FC","01/13/2018 16:35:07","DANGER2",704,79
+918258,"Watford FC","Southampton FC","01/13/2018 16:35:07","DAT2",705,79
+918258,"Watford FC","Southampton FC","01/13/2018 16:35:21","AT1",706,79
+918258,"Watford FC","Southampton FC","01/13/2018 16:35:21","DANGER1",707,79
+918258,"Watford FC","Southampton FC","01/13/2018 16:35:21","DAT1",708,79
+918258,"Watford FC","Southampton FC","01/13/2018 16:35:24","Possible Free Kick",709,79
+918258,"Watford FC","Southampton FC","01/13/2018 16:35:28","POSSIBLE_CARDS",711,79
+918258,"Watford FC","Southampton FC","01/13/2018 16:35:37","YC2",712,79
+918258,"Watford FC","Southampton FC","01/13/2018 16:35:39","CONF_YC2",713,79
+918258,"Watford FC","Southampton FC","01/13/2018 16:35:48","Scorer",714,80
+918258,"Watford FC","Southampton FC","01/13/2018 16:35:59","SAFE1",715,80
+918258,"Watford FC","Southampton FC","01/13/2018 16:35:59","F2",716,80
+918258,"Watford FC","Southampton FC","01/13/2018 16:35:59","FK1",717,80
+918258,"Watford FC","Southampton FC","01/13/2018 16:35:59","Ball Position",718,80
+918258,"Watford FC","Southampton FC","01/13/2018 16:36:17","Player_DATA_CONFIRMED",719,80
+918258,"Watford FC","Southampton FC","01/13/2018 16:36:39","Restart",720,80
+918258,"Watford FC","Southampton FC","01/13/2018 16:36:48","AT1",721,81
+918258,"Watford FC","Southampton FC","01/13/2018 16:36:48","DANGER1",722,81
+918258,"Watford FC","Southampton FC","01/13/2018 16:36:48","DAT1",723,81
+918258,"Watford FC","Southampton FC","01/13/2018 16:36:53","SAFE2",724,81
+918258,"Watford FC","Southampton FC","01/13/2018 16:36:54","GK2",725,81
+918258,"Watford FC","Southampton FC","01/13/2018 16:37:14","POSSIBLE_CARDS",726,81
+918258,"Watford FC","Southampton FC","01/13/2018 16:37:15","YC2",727,81
+918258,"Watford FC","Southampton FC","01/13/2018 16:37:17","CONF_YC2",728,81
+918258,"Watford FC","Southampton FC","01/13/2018 16:37:22","Scorer",729,81
+918258,"Watford FC","Southampton FC","01/13/2018 16:37:25","Restart",730,81
+918258,"Watford FC","Southampton FC","01/13/2018 16:37:32","POSSIBLE_TI",731,81
+918258,"Watford FC","Southampton FC","01/13/2018 16:37:33","TI2",732,81
+918258,"Watford FC","Southampton FC","01/13/2018 16:37:49","Player_DATA_CONFIRMED",733,82
+918258,"Watford FC","Southampton FC","01/13/2018 16:37:50","Restart",734,82
+918258,"Watford FC","Southampton FC","01/13/2018 16:37:54","AT2",735,82
+918258,"Watford FC","Southampton FC","01/13/2018 16:37:54","DANGER2",736,82
+918258,"Watford FC","Southampton FC","01/13/2018 16:37:54","DAT2",737,82
+918258,"Watford FC","Southampton FC","01/13/2018 16:37:57","Possible Free Kick",738,82
+918258,"Watford FC","Southampton FC","01/13/2018 16:38:07","F1",740,82
+918258,"Watford FC","Southampton FC","01/13/2018 16:38:07","FK2",741,82
+918258,"Watford FC","Southampton FC","01/13/2018 16:38:07","DFK2",742,82
+918258,"Watford FC","Southampton FC","01/13/2018 16:38:07","Ball Position",743,82
+918258,"Watford FC","Southampton FC","01/13/2018 16:39:02","Restart",744,83
+918258,"Watford FC","Southampton FC","01/13/2018 16:39:04","SAFE1",745,83
+918258,"Watford FC","Southampton FC","01/13/2018 16:39:17","AT1",746,83
+918258,"Watford FC","Southampton FC","01/13/2018 16:39:27","SAFE2",747,83
+918258,"Watford FC","Southampton FC","01/13/2018 16:39:33","AT2",748,83
+918258,"Watford FC","Southampton FC","01/13/2018 16:39:47","POSSIBLE_TI",749,84
+918258,"Watford FC","Southampton FC","01/13/2018 16:39:48","TI1",750,84
+918258,"Watford FC","Southampton FC","01/13/2018 16:39:49","Restart",751,84
+918258,"Watford FC","Southampton FC","01/13/2018 16:39:53","SAFE1",752,84
+918258,"Watford FC","Southampton FC","01/13/2018 16:39:59","AT1",753,84
+918258,"Watford FC","Southampton FC","01/13/2018 16:39:59","DANGER1",754,84
+918258,"Watford FC","Southampton FC","01/13/2018 16:39:59","DAT1",755,84
+918258,"Watford FC","Southampton FC","01/13/2018 16:40:27","Possible Free Kick",756,84
+918258,"Watford FC","Southampton FC","01/13/2018 16:40:30","SAFE2",758,84
+918258,"Watford FC","Southampton FC","01/13/2018 16:40:30","F1",759,84
+918258,"Watford FC","Southampton FC","01/13/2018 16:40:30","FK2",760,84
+918258,"Watford FC","Southampton FC","01/13/2018 16:40:30","Ball Position",761,84
+918258,"Watford FC","Southampton FC","01/13/2018 16:41:09","Restart",762,85
+918258,"Watford FC","Southampton FC","01/13/2018 16:41:15","Possible Free Kick",763,85
+918258,"Watford FC","Southampton FC","01/13/2018 16:41:19","F1",765,85
+918258,"Watford FC","Southampton FC","01/13/2018 16:41:19","FK2",766,85
+918258,"Watford FC","Southampton FC","01/13/2018 16:41:19","DANGER2",767,85
+918258,"Watford FC","Southampton FC","01/13/2018 16:41:19","DFK2",768,85
+918258,"Watford FC","Southampton FC","01/13/2018 16:41:19","Ball Position",769,85
+918258,"Watford FC","Southampton FC","01/13/2018 16:41:54","Restart",770,86
+918258,"Watford FC","Southampton FC","01/13/2018 16:42:18","POSSIBLE_TI",771,86
+918258,"Watford FC","Southampton FC","01/13/2018 16:42:19","TI1",772,86
+918258,"Watford FC","Southampton FC","01/13/2018 16:42:19","Restart",773,86
+918258,"Watford FC","Southampton FC","01/13/2018 16:42:28","AT1",774,86
+918258,"Watford FC","Southampton FC","01/13/2018 16:42:28","DANGER1",775,86
+918258,"Watford FC","Southampton FC","01/13/2018 16:42:28","DAT1",776,86
+918258,"Watford FC","Southampton FC","01/13/2018 16:42:36","SAFE2",777,86
+918258,"Watford FC","Southampton FC","01/13/2018 16:42:59","Possible Free Kick",778,87
+918258,"Watford FC","Southampton FC","01/13/2018 16:43:03","F1",780,87
+918258,"Watford FC","Southampton FC","01/13/2018 16:43:03","FK2",781,87
+918258,"Watford FC","Southampton FC","01/13/2018 16:43:03","DANGER2",782,87
+918258,"Watford FC","Southampton FC","01/13/2018 16:43:03","DFK2",783,87
+918258,"Watford FC","Southampton FC","01/13/2018 16:43:03","Ball Position",784,87
+918258,"Watford FC","Southampton FC","01/13/2018 16:43:20","Restart",785,87
+918258,"Watford FC","Southampton FC","01/13/2018 16:43:33","POSSIBLE_TI",786,87
+918258,"Watford FC","Southampton FC","01/13/2018 16:43:33","TI1",787,87
+918258,"Watford FC","Southampton FC","01/13/2018 16:43:40","POSSIBLE_CARDS",788,87
+918258,"Watford FC","Southampton FC","01/13/2018 16:43:41","YC2",789,87
+918258,"Watford FC","Southampton FC","01/13/2018 16:43:42","CONF_YC2",790,88
+918258,"Watford FC","Southampton FC","01/13/2018 16:43:44","Scorer",791,88
+918258,"Watford FC","Southampton FC","01/13/2018 16:43:58","Restart",792,88
+918258,"Watford FC","Southampton FC","01/13/2018 16:44:00","Scorer",793,88
+918258,"Watford FC","Southampton FC","01/13/2018 16:44:01","Player_DATA_CONFIRMED",794,88
+918258,"Watford FC","Southampton FC","01/13/2018 16:44:17","SAFE1",795,88
+918258,"Watford FC","Southampton FC","01/13/2018 16:44:24","AT1",796,88
+918258,"Watford FC","Southampton FC","01/13/2018 16:44:24","DANGER1",797,88
+918258,"Watford FC","Southampton FC","01/13/2018 16:44:24","DAT1",798,88
+918258,"Watford FC","Southampton FC","01/13/2018 16:44:48","SAFE2",799,89
+918258,"Watford FC","Southampton FC","01/13/2018 16:44:49","GK2",800,89
+918258,"Watford FC","Southampton FC","01/13/2018 16:45:10","Restart",801,89
+918258,"Watford FC","Southampton FC","01/13/2018 16:45:22","AT2",802,89
+918258,"Watford FC","Southampton FC","01/13/2018 16:45:24","DANGER2",803,89
+918258,"Watford FC","Southampton FC","01/13/2018 16:45:24","DAT2",804,89
+918258,"Watford FC","Southampton FC","01/13/2018 16:45:33","POSSIBLE_TI",805,89
+918258,"Watford FC","Southampton FC","01/13/2018 16:45:34","TI1",806,89
+918258,"Watford FC","Southampton FC","01/13/2018 16:45:37","Restart",807,89
+918258,"Watford FC","Southampton FC","01/13/2018 16:45:49","SAFE1",808,90
+918258,"Watford FC","Southampton FC","01/13/2018 16:45:57","AT1",809,90
+918258,"Watford FC","Southampton FC","01/13/2018 16:45:57","DANGER1",810,90
+918258,"Watford FC","Southampton FC","01/13/2018 16:45:57","DAT1",811,90
+918258,"Watford FC","Southampton FC","01/13/2018 16:46:14","GOAL1",812,90
+918258,"Watford FC","Southampton FC","01/13/2018 16:46:22","Scorer",813,90
+918258,"Watford FC","Southampton FC","01/13/2018 16:46:46","CONF_GOAL1",814,91
+918258,"Watford FC","Southampton FC","01/13/2018 16:46:53","Extra Time",815,91
+918258,"Watford FC","Southampton FC","01/13/2018 16:47:01","Scorer",816,91
+918258,"Watford FC","Southampton FC","01/13/2018 16:47:01","KO2",817,91
+918258,"Watford FC","Southampton FC","01/13/2018 16:47:01","SAFE2",818,91
+918258,"Watford FC","Southampton FC","01/13/2018 16:47:11","Player_DATA_CONFIRMED",819,91
+918258,"Watford FC","Southampton FC","01/13/2018 16:47:26","AT1",820,91
+918258,"Watford FC","Southampton FC","01/13/2018 16:47:35","DANGER1",821,91
+918258,"Watford FC","Southampton FC","01/13/2018 16:47:35","DAT1",822,91
+918258,"Watford FC","Southampton FC","01/13/2018 16:47:48","AT2",823,92
+918258,"Watford FC","Southampton FC","01/13/2018 16:47:48","DANGER2",824,92
+918258,"Watford FC","Southampton FC","01/13/2018 16:47:48","DAT2",825,92
+918258,"Watford FC","Southampton FC","01/13/2018 16:48:02","Assist",826,92
+918258,"Watford FC","Southampton FC","01/13/2018 16:48:04","PCR2",827,92
+918258,"Watford FC","Southampton FC","01/13/2018 16:48:11","CR2",828,92
+918258,"Watford FC","Southampton FC","01/13/2018 16:48:15","Ball Position",829,92
+918258,"Watford FC","Southampton FC","01/13/2018 16:48:25","System Message",830,92
+918258,"Watford FC","Southampton FC","01/13/2018 16:48:27","SUB2",831,92
+918258,"Watford FC","Southampton FC","01/13/2018 16:49:05","Restart",832,93
+918258,"Watford FC","Southampton FC","01/13/2018 16:49:08","SAFE1",833,93
+918258,"Watford FC","Southampton FC","01/13/2018 16:49:13","AT1",834,93
+918258,"Watford FC","Southampton FC","01/13/2018 16:49:15","DANGER1",835,93
+918258,"Watford FC","Southampton FC","01/13/2018 16:49:15","DAT1",836,93
+918258,"Watford FC","Southampton FC","01/13/2018 16:49:21","Possible Free Kick",837,93
+918258,"Watford FC","Southampton FC","01/13/2018 16:49:23","No Free Kick",839,93
+918258,"Watford FC","Southampton FC","01/13/2018 16:49:24","POSSIBLE_TI",840,93
+918258,"Watford FC","Southampton FC","01/13/2018 16:49:26","TI2",841,93
+918258,"Watford FC","Southampton FC","01/13/2018 16:49:31","Player_DATA_CONFIRMED",842,93
+918258,"Watford FC","Southampton FC","01/13/2018 16:49:38","SUB2",843,93
+918258,"Watford FC","Southampton FC","01/13/2018 16:49:52","Restart",844,94
+918258,"Watford FC","Southampton FC","01/13/2018 16:50:05","AT2",845,94
+918258,"Watford FC","Southampton FC","01/13/2018 16:50:05","DANGER2",846,94
+918258,"Watford FC","Southampton FC","01/13/2018 16:50:05","DAT2",847,94
+918258,"Watford FC","Southampton FC","01/13/2018 16:50:10","POSSIBLE_TI",848,94
+918258,"Watford FC","Southampton FC","01/13/2018 16:50:11","TI2",849,94
+918258,"Watford FC","Southampton FC","01/13/2018 16:50:13","Restart",850,94
+918258,"Watford FC","Southampton FC","01/13/2018 16:50:21","POSSIBLE_TI",851,94
+918258,"Watford FC","Southampton FC","01/13/2018 16:50:22","TI1",852,94
+918258,"Watford FC","Southampton FC","01/13/2018 16:50:36","Restart",853,94
+918258,"Watford FC","Southampton FC","01/13/2018 16:50:41","Player_DATA_CONFIRMED",854,94
+918258,"Watford FC","Southampton FC","01/13/2018 16:50:48","Possible Free Kick",855,95
+918258,"Watford FC","Southampton FC","01/13/2018 16:50:50","F1",857,95
+918258,"Watford FC","Southampton FC","01/13/2018 16:50:50","FK2",858,95
+918258,"Watford FC","Southampton FC","01/13/2018 16:50:50","DFK2",859,95
+918258,"Watford FC","Southampton FC","01/13/2018 16:50:50","Ball Position",860,95
+918258,"Watford FC","Southampton FC","01/13/2018 16:51:19","Restart",861,95
+918258,"Watford FC","Southampton FC","01/13/2018 16:51:40","AT1",862,95
+918258,"Watford FC","Southampton FC","01/13/2018 16:51:40","DANGER1",863,95
+918258,"Watford FC","Southampton FC","01/13/2018 16:51:40","DAT1",864,95
+918258,"Watford FC","Southampton FC","01/13/2018 16:51:49","Stop RT2",865,95
+918258,"Watford FC","Southampton FC","01/13/2018 16:51:49","Stop Game",866,95
+918258,"Watford FC","Southampton FC","01/13/2018 16:53:36","CONF_PERIOD_SCORE",867,95
+918258,"Watford FC","Southampton FC","01/13/2018 16:54:44","System Message",868,95
+918258,"Watford FC","Southampton FC","01/13/2018 16:59:37","CLR",869,103
+918258,"Watford FC","Southampton FC","01/13/2018 16:59:38","POSSIBLE_CARDS",870,103
+918258,"Watford FC","Southampton FC","01/13/2018 16:59:39","YC2",871,103
+918258,"Watford FC","Southampton FC","01/13/2018 16:59:39","CONF_YC2",872,103
+918258,"Watford FC","Southampton FC","01/13/2018 16:59:40","Scorer",873,103
+918258,"Watford FC","Southampton FC","01/13/2018 16:59:43","Stop RT2",874,103
+918258,"Watford FC","Southampton FC","01/13/2018 16:59:43","Stop Game",875,103
+918258,"Watford FC","Southampton FC","01/13/2018 16:59:51","CONF_PERIOD_SCORE",876,103
+918258,"Watford FC","Southampton FC","01/13/2018 17:00:01","System Message",877,103
+918258,"Watford FC","Southampton FC","01/13/2018 17:01:20","Scorer",878,103
+918258,"Watford FC","Southampton FC","01/13/2018 17:01:20","Player_DATA_CONFIRMED",879,103
+918258,"Watford FC","Southampton FC","01/13/2018 17:02:30","SUB_UPDATE",880,103

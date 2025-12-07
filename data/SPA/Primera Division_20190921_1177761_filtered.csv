@@ -1,0 +1,997 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1177761,"Granada CF","FC Barcelona","09/21/2019 17:45:38","Lineup changed",0,0
+1177761,"Granada CF","FC Barcelona","09/21/2019 17:46:25","Transmission Online",1,0
+1177761,"Granada CF","FC Barcelona","09/21/2019 18:23:52","Scout in Stadion",2,0
+1177761,"Granada CF","FC Barcelona","09/21/2019 18:24:08","GCC",3,0
+1177761,"Granada CF","FC Barcelona","09/21/2019 18:46:37","GCC",4,0
+1177761,"Granada CF","FC Barcelona","09/21/2019 18:55:51","Players are coming out",5,0
+1177761,"Granada CF","FC Barcelona","09/21/2019 18:56:04","Players lined up",6,0
+1177761,"Granada CF","FC Barcelona","09/21/2019 18:56:47","Jersey Changed",7,0
+1177761,"Granada CF","FC Barcelona","09/21/2019 18:56:48","Jersey Changed",8,0
+1177761,"Granada CF","FC Barcelona","09/21/2019 18:56:53","Photo taking",9,0
+1177761,"Granada CF","FC Barcelona","09/21/2019 18:57:28","Flip coin",10,0
+1177761,"Granada CF","FC Barcelona","09/21/2019 18:58:13","Game about to start",11,0
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:00:03","Start RT1 Team 1",12,1
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:00:04","SAFE1",13,1
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:00:13","AT1",14,1
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:00:15","SAFE2",15,1
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:00:26","AT1",16,1
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:00:34","Possible Free Kick",17,1
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:00:41","FK1",19,1
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:00:41","Ball Position",20,1
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:00:41","DANGER1",21,1
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:00:41","DFK1",22,1
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:00:42","Restart",23,1
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:00:44","SAFE1",24,1
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:00:55","AT1",25,1
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:01:01","DANGER1",26,1
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:01:01","DAT1",27,1
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:01:08","GOAL1",28,2
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:02:07","Injury Break",29,3
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:02:27","Scorer",30,3
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:03:56","CONF_GOAL1",31,4
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:03:56","Restart",32,4
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:03:56","KO2",33,4
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:03:56","SAFE2",34,4
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:04:09","AT2",35,5
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:04:13","SAFE2",36,5
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:04:16","AT1",37,5
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:04:20","DANGER1",38,5
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:04:20","DAT1",39,5
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:04:23","SAFE2",40,5
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:04:43","Player_DATA_CONFIRMED",41,5
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:04:46","AT1",42,5
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:04:56","SAFE1",43,5
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:05:06","AT1",44,6
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:05:10","SAFE1",45,6
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:05:27","AT1",46,6
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:05:32","SAFE1",47,6
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:05:38","AT2",48,6
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:05:40","POSSIBLE_TI",49,6
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:05:41","TI2",50,6
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:05:43","Restart",51,6
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:05:43","SAFE2",52,6
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:06:02","AT2",53,6
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:06:23","DANGER2",54,7
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:06:23","DAT2",55,7
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:06:33","SAFE2",56,7
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:06:35","AT2",57,7
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:06:41","DANGER2",58,7
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:06:41","DAT2",59,7
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:07:08","SAFE1",60,8
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:07:27","SAFE2",61,8
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:07:35","AT2",62,8
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:07:37","DANGER2",63,8
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:07:37","DAT2",64,8
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:07:39","POSSIBLE_TI",65,8
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:07:40","TI2",66,8
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:07:48","Restart",67,8
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:07:51","SAFE2",68,8
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:07:54","AT2",69,8
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:07:56","SAFE2",70,8
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:07:57","AT2",71,8
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:07:59","DANGER2",72,8
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:07:59","DAT2",73,8
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:08:11","SAFE1",74,9
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:08:35","SAFE2",75,9
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:08:37","POSSIBLE_TI",76,9
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:08:37","TI2",77,9
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:08:39","Restart",78,9
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:09:02","AT1",79,9
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:09:05","POSSIBLE_TI",80,10
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:09:06","TI1",81,10
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:09:18","Restart",82,10
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:09:19","DANGER1",83,10
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:09:19","DAT1",84,10
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:09:31","Possible Free Kick",85,10
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:09:34","SAFE2",87,10
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:09:34","F1",88,10
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:09:34","FK2",89,10
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:09:34","Ball Position",90,10
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:09:41","Restart",91,10
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:09:53","AT2",92,10
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:09:57","DANGER2",93,10
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:09:57","DAT2",94,10
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:10:02","PCR2",95,10
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:10:16","CR2",96,11
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:10:18","Ball Position",97,11
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:10:26","Restart",98,11
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:10:34","SAFE2",99,11
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:10:38","AT2",100,11
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:10:41","DANGER2",101,11
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:10:41","DAT2",102,11
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:11:02","SHG2",103,11
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:11:05","SAFE1",104,12
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:11:10","AT2",105,12
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:11:14","DANGER2",106,12
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:11:14","DAT2",107,12
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:11:37","Possible Free Kick",108,12
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:11:40","POSSIBLE_CARDS",110,12
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:12:01","NO_Cards",111,12
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:12:04","F1",112,13
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:12:04","FK2",113,13
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:12:04","DFK2",114,13
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:12:04","Ball Position",115,13
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:12:05","Restart",116,13
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:12:13","SAFE2",117,13
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:12:15","AT2",118,13
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:12:16","SAFE2",119,13
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:12:28","AT2",120,13
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:12:32","DANGER2",121,13
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:12:32","DAT2",122,13
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:12:53","SAFE2",123,13
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:13:10","AT2",124,14
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:13:17","DANGER2",125,14
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:13:17","DAT2",126,14
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:13:34","SAFE1",127,14
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:13:36","AT1",128,14
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:13:39","SAFE1",129,14
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:13:42","AT1",130,14
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:13:43","DANGER1",131,14
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:13:43","DAT1",132,14
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:13:54","PCR1",133,14
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:14:12","CR1",134,15
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:14:17","SHG1",135,15
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:14:19","Ball Position",136,15
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:14:40","Restart",137,15
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:14:50","Possible Free Kick",138,15
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:14:59","SAFE2",140,15
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:14:59","F1",141,15
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:14:59","FK2",142,15
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:14:59","Ball Position",143,15
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:15:07","Restart",144,16
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:15:17","AT2",145,16
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:15:19","SAFE2",146,16
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:15:29","AT2",147,16
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:15:32","SAFE2",148,16
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:15:34","AT2",149,16
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:15:48","DANGER2",150,16
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:15:48","DAT2",151,16
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:16:03","SAFE1",152,17
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:16:29","SAFE2",153,17
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:16:30","POSSIBLE_TI",154,17
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:16:31","TI2",155,17
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:16:49","Injury Break",156,17
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:17:50","Restart",157,18
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:17:53","SAFE1",158,18
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:18:09","AT1",159,19
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:18:11","Possible Free Kick",160,19
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:18:12","No Free Kick",162,19
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:18:14","AT2",163,19
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:18:14","DANGER2",164,19
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:18:14","DAT2",165,19
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:18:19","POSSIBLE_CARDS",166,19
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:18:34","POSSIBLE_TI",167,19
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:18:45","TI2",168,19
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:18:47","Restart",169,19
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:18:47","NO_Cards",170,19
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:18:48","SAFE2",171,19
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:19:07","AT2",172,20
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:19:24","DANGER2",173,20
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:19:24","DAT2",174,20
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:19:29","Possible Free Kick",175,20
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:19:32","POSSIBLE_CARDS",177,20
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:19:55","NO_Cards",178,20
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:20:00","F1",179,20
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:20:00","FK2",180,20
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:20:00","DFK2",181,20
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:20:00","Ball Position",182,20
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:20:35","Restart",183,21
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:20:42","POSSIBLE_CARDS",184,21
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:20:42","PRC",185,21
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:21:01","BLOCKED2",186,21
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:21:05","Possible Free Kick",187,22
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:21:09","YC2",189,22
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:21:13","CONF_YC2",190,22
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:21:16","Scorer",191,22
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:21:18","No RC",192,22
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:21:19","SAFE1",193,22
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:21:19","F2",194,22
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:21:19","FK1",195,22
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:21:19","Ball Position",196,22
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:21:34","Restart",197,22
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:21:37","AT1",198,22
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:21:42","DANGER1",199,22
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:21:42","DAT1",200,22
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:21:44","Player_DATA_CONFIRMED",201,22
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:21:46","Possible Free Kick",202,22
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:21:50","SAFE2",204,22
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:21:50","F1",205,22
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:21:50","FK2",206,22
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:21:50","Ball Position",207,22
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:21:52","Restart",208,22
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:21:55","CLS",209,22
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:21:57","Restart",210,22
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:22:08","AT2",211,23
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:22:20","DANGER2",212,23
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:22:20","DAT2",213,23
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:22:29","Possible Free Kick",214,23
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:22:31","SAFE1",216,23
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:22:31","F2",217,23
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:22:31","FK1",218,23
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:22:32","Ball Position",219,23
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:22:50","Restart",220,23
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:22:52","AT1",221,23
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:22:57","SAFE2",222,23
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:23:05","AT2",223,24
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:23:10","SAFE2",224,24
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:23:15","AT1",225,24
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:23:20","Possible Free Kick",226,24
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:23:25","F2",228,24
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:23:25","FK1",229,24
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:23:26","Ball Position",230,24
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:23:26","DANGER1",231,24
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:23:26","DFK1",232,24
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:24:02","Restart",233,24
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:24:14","SAFE2",234,25
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:24:24","AT2",235,25
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:24:31","SAFE1",236,25
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:24:33","AT1",237,25
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:24:39","SAFE2",238,25
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:24:45","AT2",239,25
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:24:53","DANGER2",240,25
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:24:53","DAT2",241,25
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:24:57","SAFE1",242,25
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:24:59","AT1",243,25
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:25:00","DANGER1",244,25
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:25:00","DAT1",245,25
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:25:10","PCR1",246,26
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:25:31","CR1",247,26
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:25:33","Ball Position",248,26
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:25:47","Restart",249,26
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:25:50","POSSIBLE_TI",250,26
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:25:51","TI1",251,26
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:26:14","Restart",252,27
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:26:25","SAFE1",253,27
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:26:27","AT1",254,27
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:26:32","SAFE2",255,27
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:26:34","AT2",256,27
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:26:37","SAFE2",257,27
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:27:03","AT2",258,27
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:27:05","SAFE1",259,28
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:27:29","POSSIBLE_TI",260,28
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:27:30","TI1",261,28
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:27:45","Restart",262,28
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:27:46","AT1",263,28
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:27:48","DANGER1",264,28
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:27:48","DAT1",265,28
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:27:54","Possible Free Kick",266,28
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:27:59","SAFE2",268,28
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:28:00","O1",269,28
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:28:00","FK2",270,28
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:28:00","Ball Position",271,28
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:28:01","Restart",272,28
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:28:10","AT2",273,29
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:28:14","DANGER2",274,29
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:28:14","DAT2",275,29
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:28:22","SHG2",276,29
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:28:24","SAFE1",277,29
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:28:35","AT1",278,29
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:28:40","SAFE2",279,29
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:28:41","AT2",280,29
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:28:43","Possible Free Kick",281,29
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:28:46","F1",283,29
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:28:46","FK2",284,29
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:28:46","Ball Position",285,29
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:28:46","DANGER2",286,29
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:28:46","DFK2",287,29
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:28:48","Restart",288,29
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:29:06","SAFE2",289,30
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:29:08","AT2",290,30
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:29:11","DANGER2",291,30
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:29:11","DAT2",292,30
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:29:19","SAFE1",293,30
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:29:20","GK1",294,30
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:29:38","Restart",295,30
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:29:40","AT1",296,30
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:29:43","SAFE2",297,30
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:29:45","POSSIBLE_TI",298,30
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:29:45","TI2",299,30
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:29:48","Restart",300,30
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:30:07","POSSIBLE_TI",301,31
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:30:21","NO_TI",302,31
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:30:23","Possible Free Kick",303,31
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:30:26","F1",305,31
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:30:26","FK2",306,31
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:30:26","Ball Position",307,31
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:30:28","Restart",308,31
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:30:46","AT1",309,31
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:30:47","DANGER1",310,31
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:30:47","DAT1",311,31
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:30:53","POSSIBLE_TI",312,31
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:30:56","TI2",313,31
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:31:07","Restart",314,32
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:31:11","POSSIBLE_TI",315,32
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:31:11","TI2",316,32
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:31:26","Restart",317,32
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:31:34","SAFE1",318,32
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:31:49","AT1",319,32
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:31:52","SAFE1",320,32
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:31:56","SAFE2",321,32
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:31:58","AT2",322,32
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:31:58","DANGER2",323,32
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:31:58","DAT2",324,32
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:32:11","BLOCKED2",325,33
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:32:19","SAFE1",326,33
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:32:24","AT1",327,33
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:32:26","SAFE2",328,33
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:32:52","AT2",329,33
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:32:53","SAFE2",330,33
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:32:57","AT2",331,33
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:32:59","DANGER2",332,33
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:32:59","DAT2",333,33
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:33:03","POSSIBLE_TI",334,33
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:33:05","TI1",335,34
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:33:21","Restart",336,34
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:33:27","SAFE1",337,34
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:33:28","POSSIBLE_TI",338,34
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:33:29","TI1",339,34
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:33:39","Restart",340,34
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:33:43","AT1",341,34
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:33:47","Possible Free Kick",342,34
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:33:55","F2",344,34
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:33:55","FK1",345,34
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:33:55","Ball Position",346,34
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:33:55","DANGER1",347,34
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:33:55","DFK1",348,34
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:34:01","Restart",349,34
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:34:06","Possible Free Kick",350,35
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:34:10","SAFE2",352,35
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:34:10","F1",353,35
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:34:10","FK2",354,35
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:34:10","Ball Position",355,35
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:34:12","Restart",356,35
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:34:39","AT2",357,35
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:34:43","SAFE2",358,35
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:34:48","AT2",359,35
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:35:08","DANGER2",360,36
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:35:08","DAT2",361,36
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:35:16","POSSIBLE_TI",362,36
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:35:18","TI2",363,36
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:35:20","Restart",364,36
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:35:41","SAFE1",365,36
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:35:43","AT1",366,36
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:35:44","DANGER1",367,36
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:35:44","DAT1",368,36
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:36:05","SHB1",369,37
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:36:06","SAFE2",370,37
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:36:07","GK2",371,37
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:36:10","Restart",372,37
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:36:20","AT1",373,37
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:36:22","POSSIBLE_TI",374,37
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:36:23","TI1",375,37
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:36:45","CLS",376,37
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:36:46","NO_TI",377,37
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:36:47","Possible Free Kick",378,37
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:36:50","F2",380,37
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:36:50","FK1",381,37
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:36:50","Ball Position",382,37
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:36:50","DANGER1",383,37
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:36:50","DFK1",384,37
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:36:52","Restart",385,37
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:36:59","POSSIBLE_TI",386,37
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:37:03","TI2",387,37
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:37:06","Restart",388,38
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:37:26","SAFE2",389,38
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:37:30","AT2",390,38
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:37:39","SAFE1",391,38
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:37:41","AT1",392,38
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:37:44","DANGER1",393,38
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:37:44","DAT1",394,38
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:37:47","SAFE2",395,38
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:37:56","AT2",396,38
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:37:59","SAFE2",397,38
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:38:07","AT2",398,39
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:38:14","SAFE2",399,39
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:38:25","AT2",400,39
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:38:27","DANGER2",401,39
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:38:27","DAT2",402,39
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:38:50","SAFE2",403,39
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:38:57","AT2",404,39
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:39:01","Possible Free Kick",405,39
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:39:12","F1",407,40
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:39:12","FK2",408,40
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:39:12","Ball Position",409,40
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:39:12","DANGER2",410,40
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:39:12","DFK2",411,40
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:39:14","Restart",412,40
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:39:22","POSSIBLE_TI",413,40
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:39:23","TI2",414,40
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:39:30","Restart",415,40
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:39:31","SAFE2",416,40
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:39:45","AT2",417,40
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:39:50","POSSIBLE_TI",418,40
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:39:51","TI1",419,40
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:40:09","Restart",420,41
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:40:12","SAFE1",421,41
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:40:14","AT1",422,41
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:40:15","POSSIBLE_TI",423,41
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:40:17","TI1",424,41
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:40:24","Restart",425,41
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:40:26","DANGER1",426,41
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:40:26","DAT1",427,41
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:40:42","SHB1",428,41
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:40:44","SAFE2",429,41
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:40:45","GK2",430,41
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:40:45","Restart",431,41
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:40:53","AT2",432,41
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:40:55","SAFE2",433,41
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:41:05","AT2",434,42
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:41:09","DANGER2",435,42
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:41:09","DAT2",436,42
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:41:27","SHG2",437,42
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:41:29","SAFE1",438,42
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:41:35","AT1",439,42
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:41:38","DANGER1",440,42
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:41:38","DAT1",441,42
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:41:50","SAFE2",442,42
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:41:53","AT2",443,42
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:41:54","SAFE1",444,42
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:41:56","AT1",445,42
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:41:59","SAFE1",446,42
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:42:00","AT1",447,42
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:42:29","SAFE2",448,43
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:42:32","AT2",449,43
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:42:42","SAFE1",450,43
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:42:44","AT1",451,43
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:43:02","POSSIBLE_TI",452,43
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:43:04","TI2",453,44
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:43:06","Injury Break",454,44
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:44:19","Restart",455,45
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:44:24","SAFE1",456,45
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:44:28","AT1",457,45
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:44:32","POSSIBLE_TI",458,45
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:44:33","TI2",459,45
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:44:36","Restart",460,45
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:44:37","SAFE2",461,45
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:44:47","AT2",462,45
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:44:50","DANGER2",463,45
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:44:50","DAT2",464,45
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:45:08","POSSIBLE_TI",465,46
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:45:10","TI1",466,46
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:45:23","Extra Time",467,46
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:45:24","Restart",468,46
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:45:30","POSSIBLE_TI",469,46
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:45:32","TI2",470,46
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:45:33","Restart",471,46
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:45:34","SAFE2",472,46
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:45:39","AT2",473,46
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:45:54","DANGER2",474,46
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:45:54","DAT2",475,46
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:46:05","SAFE2",476,47
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:46:09","AT2",477,47
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:46:10","DANGER2",478,47
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:46:10","DAT2",479,47
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:46:18","PCR2",480,47
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:46:32","CR2",481,47
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:46:33","Ball Position",482,47
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:46:44","Restart",483,47
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:46:51","SAFE1",484,47
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:46:58","AT1",485,47
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:47:03","SAFE2",486,48
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:47:08","Possible Free Kick",487,48
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:47:12","F1",489,48
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:47:12","FK2",490,48
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:47:12","Ball Position",491,48
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:47:14","Restart",492,48
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:47:17","AT2",493,48
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:47:20","SAFE2",494,48
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:47:27","AT2",495,48
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:47:32","SAFE1",496,48
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:47:34","AT1",497,48
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:47:36","SAFE2",498,48
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:47:48","AT2",499,48
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:47:49","DANGER2",500,48
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:47:49","DAT2",501,48
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:48:04","SAFE2",502,49
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:48:06","AT2",503,49
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:48:13","DANGER2",504,49
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:48:13","DAT2",505,49
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:48:17","Possible Free Kick",506,49
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:48:21","POSSIBLE_CARDS",508,49
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:48:34","YC2",509,49
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:48:38","CONF_YC2",510,49
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:48:57","Scorer",511,49
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:49:07","F1",512,50
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:49:07","FK2",513,50
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:49:07","DFK2",514,50
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:49:07","Ball Position",515,50
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:49:12","Restart",516,50
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:49:13","Player_DATA_CONFIRMED",517,50
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:49:25","SHG2",518,50
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:49:32","Stop RT1",519,50
+1177761,"Granada CF","FC Barcelona","09/21/2019 19:49:45","CONF_PERIOD_SCORE",520,45
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:03:53","Transmission Online",521,45
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:03:53","Players are coming out",522,45
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:04:46","Game about to start",523,45
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:05:36","Start RT2 Team 2",524,46
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:05:37","SAFE2",525,46
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:05:40","SUB2",526,46
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:05:43","SUB_UPDATE",527,46
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:05:43","Player_DATA_CONFIRMED",528,46
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:05:44","SUB2",529,46
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:05:52","AT2",530,46
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:05:57","POSSIBLE_TI",531,46
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:05:58","TI2",532,46
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:05:59","Restart",533,46
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:06:26","SAFE2",534,46
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:06:47","AT2",535,47
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:06:53","DANGER2",536,47
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:06:53","DAT2",537,47
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:07:32","POSSIBLE_TI",538,47
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:07:33","TI2",539,47
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:08:05","Restart",540,48
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:08:14","Possible Free Kick",541,48
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:08:14","POSSIBLE_CARDS",543,48
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:08:19","YC1",544,48
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:08:22","CONF_YC1",545,48
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:08:24","Scorer",546,48
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:08:35","F1",547,48
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:08:35","FK2",548,48
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:08:35","DFK2",549,48
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:08:35","Ball Position",550,48
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:08:43","Player_DATA_CONFIRMED",551,49
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:08:51","Restart",552,49
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:08:59","Possible Free Kick",553,49
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:09:02","F1",555,49
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:09:02","FK2",556,49
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:09:02","DFK2",557,49
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:09:02","Ball Position",558,49
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:09:03","Restart",559,49
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:09:28","Possible Free Kick",560,49
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:09:30","POSSIBLE_CARDS",562,49
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:09:37","YC1",563,50
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:09:46","CONF_YC1",564,50
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:09:50","Scorer",565,50
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:09:54","F1",566,50
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:09:54","FK2",567,50
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:09:54","DFK2",568,50
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:09:54","Ball Position",569,50
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:10:24","Restart",570,50
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:10:31","BLOCKED2",571,50
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:10:39","SAFE2",572,51
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:10:49","AT2",573,51
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:10:51","SAFE2",574,51
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:10:53","AT2",575,51
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:10:55","SAFE2",576,51
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:10:58","AT2",577,51
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:11:00","DANGER2",578,51
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:11:00","DAT2",579,51
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:11:02","POSSIBLE_TI",580,51
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:11:04","TI1",581,51
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:11:22","Restart",582,51
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:11:26","POSSIBLE_TI",583,51
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:11:28","TI2",584,51
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:11:29","Restart",585,51
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:11:34","Possible Free Kick",586,51
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:11:42","F1",588,52
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:11:42","FK2",589,52
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:11:42","DFK2",590,52
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:11:43","Ball Position",591,52
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:11:43","Restart",592,52
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:11:45","CLS",593,52
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:11:49","Restart",594,52
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:11:51","CLS",595,52
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:11:52","Restart",596,52
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:11:56","SAFE2",597,52
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:12:06","AT2",598,52
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:12:13","SUB_UPDATE",599,52
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:12:13","Player_DATA_CONFIRMED",600,52
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:12:14","SAFE1",601,52
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:12:15","AT1",602,52
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:12:17","DANGER1",603,52
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:12:17","DAT1",604,52
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:12:20","Player_DATA_CONFIRMED",605,52
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:12:28","GOAL1",606,52
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:13:08","CGOAL1",607,53
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:13:10","Possible Free Kick",608,53
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:13:15","SAFE2",610,53
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:13:15","F1",611,53
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:13:15","FK2",612,53
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:13:15","Ball Position",613,53
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:13:17","Restart",614,53
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:13:17","System Message",615,53
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:13:25","AT2",616,53
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:13:30","DANGER2",617,53
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:13:30","DAT2",618,53
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:13:58","SAFE2",619,54
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:14:05","AT2",620,54
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:14:17","SAFE1",621,54
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:14:19","AT1",622,54
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:14:21","DANGER1",623,54
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:14:21","DAT1",624,54
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:14:27","PCR1",625,54
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:14:39","CR1",626,55
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:14:41","Ball Position",627,55
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:15:17","Restart",628,55
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:15:27","POSSIBLE_TI",629,55
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:15:29","TI2",630,55
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:15:35","Restart",631,55
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:15:41","SAFE2",632,56
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:15:56","AT2",633,56
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:15:58","DANGER2",634,56
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:15:58","DAT2",635,56
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:16:12","POSSIBLE_TI",636,56
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:16:16","TI2",637,56
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:16:19","Restart",638,56
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:16:27","SAFE1",639,56
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:16:50","SAFE2",640,57
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:16:54","AT2",641,57
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:17:01","POSSIBLE_TI",642,57
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:17:02","TI1",643,57
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:17:38","SUB1",644,58
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:17:44","Restart",645,58
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:17:46","SAFE2",646,58
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:17:48","AT2",647,58
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:17:54","SAFE1",648,58
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:17:56","AT1",649,58
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:17:58","DANGER1",650,58
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:17:58","DAT1",651,58
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:18:03","SHB1",652,58
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:18:06","SAFE2",653,58
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:18:07","GK2",654,58
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:18:08","Restart",655,58
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:18:19","AT1",656,58
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:18:25","DANGER1",657,58
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:18:25","DAT1",658,58
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:18:30","SAFE1",659,58
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:18:32","AT1",660,58
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:18:34","DANGER1",661,58
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:18:34","DAT1",662,58
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:18:43","Player_DATA_CONFIRMED",663,59
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:18:44","SAFE2",664,59
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:18:45","GK2",665,59
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:18:46","Restart",666,59
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:18:57","AT2",667,59
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:18:58","Possible Free Kick",668,59
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:19:02","SAFE2",670,59
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:19:02","F1",671,59
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:19:02","FK2",672,59
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:19:02","Ball Position",673,59
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:19:05","Restart",674,59
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:19:07","CLS",675,59
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:19:12","Restart",676,59
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:19:15","AT2",677,59
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:19:17","SAFE1",678,59
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:19:23","AT1",679,59
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:19:26","DANGER1",680,59
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:19:26","DAT1",681,59
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:19:36","SAFE2",682,59
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:19:39","AT2",683,60
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:19:44","DANGER2",684,60
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:19:44","DAT2",685,60
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:19:56","SAFE1",686,60
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:20:12","AT1",687,60
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:20:19","SAFE1",688,60
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:20:21","AT2",689,60
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:20:24","Possible Free Kick",690,60
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:20:27","F1",692,60
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:20:27","FK2",693,60
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:20:27","Ball Position",694,60
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:20:27","DANGER2",695,60
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:20:27","DFK2",696,60
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:20:33","Restart",697,60
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:20:46","SAFE1",698,61
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:20:48","AT1",699,61
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:20:53","SAFE2",700,61
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:20:55","AT2",701,61
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:20:58","DANGER2",702,61
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:20:58","DAT2",703,61
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:21:13","Possible Free Kick",704,61
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:21:27","F1",706,61
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:21:27","FK2",707,61
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:21:27","DFK2",708,61
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:21:27","Ball Position",709,61
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:22:03","SUB1",710,62
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:22:27","SUB2",711,62
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:22:32","Restart",712,62
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:22:40","SHG2",713,63
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:22:42","SAFE1",714,63
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:22:44","AT1",715,63
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:22:48","DANGER1",716,63
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:22:48","DAT1",717,63
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:22:53","Possible Free Kick",718,63
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:22:54","POSSIBLE_CARDS",720,63
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:23:11","F2",721,63
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:23:11","FK1",722,63
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:23:11","DFK1",723,63
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:23:11","Ball Position",724,63
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:23:13","Player_DATA_CONFIRMED",725,63
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:23:16","NO_Cards",726,63
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:23:43","Restart",727,64
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:23:52","POSSIBLE_CARDS",728,64
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:23:52","PRC",729,64
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:24:04","SHG1",730,64
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:24:58","PPEN",731,65
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:24:58","PPEN1",732,65
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:25:11","PEN1",733,65
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:25:23","Scorer",734,65
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:25:32","No RC",735,65
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:25:33","NO_Cards",736,65
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:25:58","GOAL1",737,66
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:25:58","Scorer",738,66
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:26:43","Player_DATA_CONFIRMED",739,67
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:27:07","CONF_GOAL1",740,67
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:27:08","KO2",741,67
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:27:08","SAFE2",742,67
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:27:12","AT2",743,67
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:27:17","SAFE2",744,67
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:27:54","SUB_UPDATE",745,68
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:27:54","Player_DATA_CONFIRMED",746,68
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:27:56","AT2",747,68
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:27:59","DANGER2",748,68
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:27:59","DAT2",749,68
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:28:00","Possible Free Kick",750,68
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:28:03","F1",752,68
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:28:03","FK2",753,68
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:28:03","DFK2",754,68
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:28:03","Ball Position",755,68
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:28:19","Restart",756,68
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:28:26","SHG2",757,68
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:28:28","SAFE1",758,68
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:28:42","AT1",759,69
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:28:50","SAFE1",760,69
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:28:55","AT1",761,69
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:28:58","SAFE2",762,69
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:29:03","AT2",763,69
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:29:07","DANGER2",764,69
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:29:07","DAT2",765,69
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:29:15","PCR2",766,69
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:29:25","CR2",767,69
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:29:26","Ball Position",768,69
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:29:31","Restart",769,69
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:29:41","POSSIBLE_CARDS",770,70
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:29:41","PRC",771,70
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:29:46","SHG2",772,70
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:29:53","No RC",773,70
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:29:54","NO_Cards",774,70
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:29:55","SAFE1",775,70
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:30:02","AT1",776,70
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:30:09","POSSIBLE_TI",777,70
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:30:14","TI1",778,70
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:30:22","Restart",779,70
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:30:22","DANGER1",780,70
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:30:22","DAT1",781,70
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:30:32","SAFE2",782,70
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:30:40","AT2",783,71
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:30:42","DANGER2",784,71
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:30:42","DAT2",785,71
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:30:44","POSSIBLE_TI",786,71
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:30:46","TI2",787,71
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:30:51","Restart",788,71
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:31:23","SAFE1",789,71
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:31:27","AT1",790,71
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:31:30","SAFE2",791,71
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:31:32","POSSIBLE_TI",792,71
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:31:33","TI2",793,71
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:31:38","Restart",794,72
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:31:48","AT2",795,72
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:32:09","DANGER2",796,72
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:32:09","DAT2",797,72
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:32:30","SHB2",798,72
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:32:32","SAFE1",799,72
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:32:33","GK1",800,72
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:32:59","Restart",801,73
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:33:00","AT1",802,73
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:33:04","DANGER1",803,73
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:33:04","DAT1",804,73
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:33:13","PCR1",805,73
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:33:28","CR1",806,73
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:33:30","Ball Position",807,73
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:33:46","Restart",808,74
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:33:55","SAFE2",809,74
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:34:09","AT2",810,74
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:34:10","DANGER2",811,74
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:34:10","DAT2",812,74
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:34:32","SAFE1",813,74
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:34:43","AT1",814,75
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:34:46","SAFE2",815,75
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:34:47","POSSIBLE_TI",816,75
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:34:48","TI2",817,75
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:34:56","Restart",818,75
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:35:00","AT2",819,75
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:35:10","SAFE2",820,75
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:35:19","AT2",821,75
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:35:22","DANGER2",822,75
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:35:22","DAT2",823,75
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:35:31","PCR2",824,75
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:35:43","CR2",825,76
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:35:46","SHB2",826,76
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:35:48","Ball Position",827,76
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:35:49","Restart",828,76
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:35:52","PCR2",829,76
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:36:05","CR2",830,76
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:36:06","Ball Position",831,76
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:36:14","Restart",832,76
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:36:21","SAFE1",833,76
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:36:26","AT1",834,76
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:36:28","SAFE2",835,76
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:36:29","AT2",836,76
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:36:32","DANGER2",837,76
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:36:32","DAT2",838,76
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:37:04","Possible Free Kick",839,77
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:37:11","SAFE1",841,77
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:37:11","F2",842,77
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:37:11","FK1",843,77
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:37:11","Ball Position",844,77
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:37:34","Restart",845,77
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:37:35","AT1",846,77
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:37:38","DANGER1",847,78
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:37:38","DAT1",848,78
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:37:44","SHG1",849,78
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:37:46","SAFE2",850,78
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:38:00","AT2",851,78
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:38:01","DANGER2",852,78
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:38:01","DAT2",853,78
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:38:06","SAFE1",854,78
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:38:23","SAFE2",855,78
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:38:33","AT2",856,78
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:38:34","DANGER2",857,78
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:38:34","DAT2",858,78
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:38:42","POSSIBLE_TI",859,79
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:38:43","TI2",860,79
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:38:44","Restart",861,79
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:38:58","PPEN",862,79
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:38:58","PPEN2",863,79
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:39:03","No PEN",864,79
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:39:07","SAFE1",865,79
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:39:19","AT1",866,79
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:39:24","POSSIBLE_TI",867,79
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:39:25","TI1",868,79
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:39:40","Restart",869,80
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:39:41","DANGER1",870,80
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:39:41","DAT1",871,80
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:39:46","POSSIBLE_TI",872,80
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:39:47","TI1",873,80
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:39:53","Restart",874,80
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:40:08","POSSIBLE_TI",875,80
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:40:10","TI2",876,80
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:40:18","Restart",877,80
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:40:22","SAFE2",878,80
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:40:25","AT1",879,80
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:40:25","DANGER1",880,80
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:40:25","DAT1",881,80
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:40:27","POSSIBLE_TI",882,80
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:40:27","TI1",883,80
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:40:47","Restart",884,81
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:40:58","SAFE2",885,81
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:41:03","POSSIBLE_TI",886,81
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:41:04","TI2",887,81
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:41:12","Restart",888,81
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:41:21","AT2",889,81
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:41:27","SAFE2",890,81
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:41:30","AT2",891,81
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:41:45","DANGER2",892,82
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:41:45","DAT2",893,82
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:41:57","BLOCKED2",894,82
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:42:01","SAFE2",895,82
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:42:08","AT2",896,82
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:42:10","DANGER2",897,82
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:42:10","DAT2",898,82
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:42:38","SHG2",899,83
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:42:42","SAFE1",900,83
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:42:51","AT1",901,83
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:42:55","POSSIBLE_TI",902,83
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:43:00","TI2",903,83
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:43:26","SUB1",904,83
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:43:30","Restart",905,83
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:43:32","SAFE2",906,83
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:43:41","AT2",907,84
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:43:44","DANGER2",908,84
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:43:44","DAT2",909,84
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:43:50","SAFE1",910,84
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:43:51","GK1",911,84
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:44:16","Restart",912,84
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:44:17","AT1",913,84
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:44:22","DANGER1",914,84
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:44:22","DAT1",915,84
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:44:24","POSSIBLE_TI",916,84
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:44:25","TI2",917,84
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:44:28","Restart",918,84
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:44:31","SAFE2",919,84
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:44:40","AT2",920,85
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:44:44","SAFE2",921,85
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:44:50","AT2",922,85
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:45:08","DANGER2",923,85
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:45:08","DAT2",924,85
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:45:14","Player_DATA_CONFIRMED",925,85
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:45:42","Possible Free Kick",926,86
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:45:47","SAFE1",928,86
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:45:47","FK1",929,86
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:45:47","Ball Position",930,86
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:46:10","Restart",931,86
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:46:12","AT1",932,86
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:46:15","DANGER1",933,86
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:46:15","DAT1",934,86
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:46:17","SAFE2",935,86
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:46:34","AT2",936,86
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:46:36","SAFE1",937,86
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:46:40","Possible Free Kick",938,87
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:46:42","F2",940,87
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:46:42","FK1",941,87
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:46:42","Ball Position",942,87
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:47:03","Restart",943,87
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:47:04","AT1",944,87
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:47:05","DANGER1",945,87
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:47:05","DAT1",946,87
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:47:13","Possible Free Kick",947,87
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:47:17","POSSIBLE_CARDS",949,87
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:47:22","YC1",950,87
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:47:26","CONF_YC1",951,87
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:47:31","Scorer",952,87
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:47:33","SAFE2",953,87
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:47:33","F1",954,87
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:47:33","FK2",955,87
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:47:33","Ball Position",956,87
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:47:41","Restart",957,88
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:47:45","AT2",958,88
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:47:53","DANGER2",959,88
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:47:53","DAT2",960,88
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:48:18","SAFE1",961,88
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:48:19","GK1",962,88
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:48:41","Restart",963,89
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:48:43","AT1",964,89
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:48:44","Player_DATA_CONFIRMED",965,89
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:48:48","SAFE2",966,89
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:48:54","AT2",967,89
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:48:59","DANGER2",968,89
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:48:59","DAT2",969,89
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:49:45","SAFE1",970,90
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:49:46","GK1",971,90
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:50:15","Restart",972,90
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:50:17","AT1",973,90
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:50:21","SAFE1",974,90
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:50:22","AT2",975,90
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:50:25","POSSIBLE_TI",976,90
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:50:28","NO_TI",977,90
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:50:29","Possible Free Kick",978,90
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:50:34","SAFE1",980,90
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:50:34","O2",981,90
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:50:34","FK1",982,90
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:50:34","Ball Position",983,90
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:50:45","Extra Time",984,91
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:50:54","Restart",985,91
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:50:55","AT1",986,91
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:50:57","DANGER1",987,91
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:50:57","DAT1",988,91
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:51:01","POSSIBLE_TI",989,91
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:51:02","TI1",990,91
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:51:14","Restart",991,91
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:51:31","Possible Free Kick",992,91
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:51:34","POSSIBLE_CARDS",994,91
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:51:41","F2",995,92
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:51:41","FK1",996,92
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:51:41","DFK1",997,92
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:51:41","Ball Position",998,92
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:52:00","NO_Cards",999,92
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:52:19","Restart",1000,92
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:52:25","SHB1",1001,92
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:52:27","SAFE2",1002,92
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:52:28","GK2",1003,92
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:52:33","Restart",1004,92
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:52:39","AT2",1005,93
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:52:42","DANGER2",1006,93
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:52:42","DAT2",1007,93
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:52:50","SAFE1",1008,93
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:52:51","AT1",1009,93
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:52:53","DANGER1",1010,93
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:52:53","DAT1",1011,93
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:52:55","BREAKAWAY1",1012,93
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:53:02","DANGER1",1013,93
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:53:06","SAFE2",1014,93
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:53:11","AT2",1015,93
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:53:18","DANGER2",1016,93
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:53:18","DAT2",1017,93
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:53:20","SAFE1",1018,93
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:53:23","AT2",1019,93
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:53:23","DANGER2",1020,93
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:53:23","DAT2",1021,93
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:53:25","Possible Free Kick",1022,93
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:53:30","F1",1024,93
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:53:30","FK2",1025,93
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:53:30","DFK2",1026,93
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:53:30","Ball Position",1027,93
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:53:48","Restart",1028,94
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:53:55","Stop RT2",1029,94
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:53:55","Stop Game",1030,94
+1177761,"Granada CF","FC Barcelona","09/21/2019 20:54:40","CONF_PERIOD_SCORE",1031,93

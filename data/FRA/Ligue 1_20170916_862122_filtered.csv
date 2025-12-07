@@ -1,0 +1,894 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 13:27:25","Transmission Online",0,0
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 13:27:34","GCC",1,0
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 14:06:50","Scout in Stadion",2,0
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 14:06:56","GCC",3,0
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 14:55:53","GCC",4,0
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 14:56:15","Players are coming out",5,0
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 14:57:18","Players lined up",6,0
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 14:57:33","Shake hands",7,0
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 14:57:59","Jersey Changed",8,0
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 14:58:00","Jersey Changed",9,0
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 14:58:03","Flip coin",10,0
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 14:59:29","Game about to start",11,0
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:00:02","Start RT1 Team 2",12,1
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:00:29","Possible Free Kick",13,1
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:00:29","POSSIBLE_CARDS",15,1
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:00:29","Danger",16,1
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:00:30","Scout offline",17,1
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:00:44","Transmission Online",18,1
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:00:44","Start score update",19,1
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:00:46","YC2",20,1
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:00:49","CONF_YC2",21,1
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:00:49","Scorer",22,1
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:00:49","Score update finished",23,1
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:01:09","Possible Free Kick",24,2
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:01:11","F2",26,2
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:01:11","FK1",27,2
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:01:11","DFK1",28,2
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:01:11","Ball Position",29,2
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:01:19","Scorer",30,2
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:01:20","Player_DATA_CONFIRMED",31,2
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:01:25","Restart",32,2
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:01:37","SAFE1",33,2
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:02:01","AT1",34,2
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:02:02","DANGER1",35,2
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:02:02","DAT1",36,2
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:02:06","POSSIBLE_TI",37,3
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:02:06","TI1",38,3
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:02:10","Start score update",39,3
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:02:10","Statistic confirmation",40,3
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:02:10","Score update finished",41,3
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:02:15","Restart",42,3
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:02:21","POSSIBLE_TI",43,3
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:02:22","TI1",44,3
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:02:31","Restart",45,3
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:02:42","SAFE2",46,3
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:02:54","AT2",47,3
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:03:01","Possible Free Kick",48,3
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:03:05","F1",50,4
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:03:05","FK2",51,4
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:03:05","DANGER2",52,4
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:03:05","DFK2",53,4
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:03:05","Ball Position",54,4
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:03:47","Restart",55,4
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:03:57","Possible Free Kick",56,4
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:03:58","SAFE1",58,4
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:03:58","F2",59,4
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:03:58","FK1",60,4
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:03:58","Ball Position",61,4
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:04:09","Restart",62,5
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:04:30","AT1",63,5
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:04:33","POSSIBLE_TI",64,5
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:04:35","TI1",65,5
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:04:42","Restart",66,5
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:04:43","DANGER1",67,5
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:04:43","DAT1",68,5
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:05:00","SAFE2",69,5
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:05:22","POSSIBLE_TI",70,6
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:05:23","TI1",71,6
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:05:35","Restart",72,6
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:05:36","AT1",73,6
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:05:41","DANGER1",74,6
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:05:41","DAT1",75,6
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:05:45","Possible Free Kick",76,6
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:05:52","F2",78,6
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:05:52","FK1",79,6
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:05:52","DFK1",80,6
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:05:52","Ball Position",81,6
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:06:47","Restart",82,7
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:06:51","BLOCKED1",83,7
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:07:25","PCR1",84,8
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:07:33","NCR1",85,8
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:07:38","SHW1",86,8
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:07:41","SAFE2",87,8
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:07:42","GK2",88,8
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:07:54","Restart",89,8
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:08:06","AT2",90,9
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:08:14","Possible Free Kick",91,9
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:08:14","F1",93,9
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:08:14","FK2",94,9
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:08:14","DANGER2",95,9
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:08:14","DFK2",96,9
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:08:14","Ball Position",97,9
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:08:18","Restart",98,9
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:08:49","SAFE1",99,9
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:09:14","AT1",100,10
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:09:18","DANGER1",101,10
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:09:18","DAT1",102,10
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:09:29","Possible Free Kick",103,10
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:09:32","SAFE2",105,10
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:09:32","F1",106,10
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:09:32","FK2",107,10
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:09:32","Ball Position",108,10
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:09:53","Danger",109,10
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:09:53","Scout offline",110,10
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:10:04","Transmission Online",111,11
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:10:04","Start score update",112,11
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:10:04","Statistic confirmation",113,11
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:10:04","Score update finished",114,11
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:10:05","Restart",115,11
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:10:05","AT2",116,11
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:10:09","DANGER2",117,11
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:10:09","DAT2",118,11
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:10:19","POSSIBLE_TI",119,11
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:10:20","TI2",120,11
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:10:25","Restart",121,11
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:10:29","PPEN",122,11
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:10:29","PPEN2",123,11
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:10:34","No PEN",124,11
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:10:35","SAFE1",125,11
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:11:00","AT1",126,11
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:11:05","SAFE2",127,12
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:11:08","AT2",128,12
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:11:10","DANGER2",129,12
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:11:10","DAT2",130,12
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:11:19","SAFE1",131,12
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:11:27","POSSIBLE_TI",132,12
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:11:28","TI2",133,12
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:11:50","Restart",134,12
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:11:51","AT2",135,12
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:11:51","DANGER2",136,12
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:11:51","DAT2",137,12
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:11:55","POSSIBLE_TI",138,12
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:11:56","TI2",139,12
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:12:09","Restart",140,13
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:12:16","SAFE1",141,13
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:12:19","AT1",142,13
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:12:30","POSSIBLE_TI",143,13
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:12:31","TI1",144,13
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:12:33","Restart",145,13
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:12:48","SAFE2",146,13
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:12:48","AT2",147,13
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:12:51","DANGER2",148,13
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:12:51","DAT2",149,13
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:12:56","POSSIBLE_TI",150,13
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:12:56","TI1",151,13
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:13:04","Restart",152,14
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:13:11","SAFE1",153,14
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:13:16","AT1",154,14
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:13:20","DANGER1",155,14
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:13:20","DAT1",156,14
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:13:22","PCR1",157,14
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:13:27","CR1",158,14
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:13:28","Ball Position",159,14
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:13:55","Restart",160,14
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:13:59","Possible Free Kick",161,14
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:13:59","SAFE2",163,14
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:13:59","F1",164,14
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:13:59","FK2",165,14
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:13:59","Ball Position",166,14
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:14:25","Restart",167,15
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:14:35","AT1",168,15
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:14:38","DANGER1",169,15
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:14:38","DAT1",170,15
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:15:12","BLOCKED1",171,16
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:15:19","SHB1",172,16
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:15:25","SAFE2",173,16
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:15:26","GK2",174,16
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:15:46","Restart",175,16
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:15:53","AT2",176,16
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:15:57","SAFE1",177,16
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:15:58","AT1",178,16
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:16:03","POSSIBLE_TI",179,17
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:16:07","TI1",180,17
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:16:25","Restart",181,17
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:16:39","DANGER1",182,17
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:16:39","DAT1",183,17
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:16:53","PCR1",184,17
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:16:58","CR1",185,17
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:17:02","Ball Position",186,18
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:17:13","Restart",187,18
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:17:24","POSSIBLE_TI",188,18
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:17:25","TI1",189,18
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:17:34","Restart",190,18
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:17:43","SAFE1",191,18
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:18:10","AT1",192,19
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:18:16","POSSIBLE_TI",193,19
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:18:18","TI2",194,19
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:18:21","Restart",195,19
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:18:47","Danger",196,19
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:18:47","Scout offline",197,19
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:18:55","Transmission Online",198,19
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:18:55","Start score update",199,19
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:18:55","Statistic confirmation",200,19
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:18:55","Score update finished",201,19
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:19:00","SAFE2",202,19
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:19:00","GK2",203,19
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:19:09","Restart",204,20
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:19:16","POSSIBLE_TI",205,20
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:19:18","TI2",206,20
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:19:28","Restart",207,20
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:19:36","AT2",208,20
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:19:42","DANGER2",209,20
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:19:42","DAT2",210,20
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:19:48","PCR2",211,20
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:19:53","CR2",212,20
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:19:53","Ball Position",213,20
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:20:09","Restart",214,21
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:20:16","SAFE2",215,21
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:20:22","AT2",216,21
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:20:27","SAFE1",217,21
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:20:29","AT1",218,21
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:20:32","DANGER1",219,21
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:20:32","DAT1",220,21
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:20:38","SHG1",221,21
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:20:38","SAFE2",222,21
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:20:55","AT2",223,21
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:20:59","DANGER2",224,21
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:20:59","DAT2",225,21
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:21:03","POSSIBLE_TI",226,22
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:21:04","TI2",227,22
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:21:36","Restart",228,22
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:21:46","SAFE1",229,22
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:21:49","AT1",230,22
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:21:55","DANGER1",231,22
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:21:55","DAT1",232,22
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:21:59","Possible Free Kick",233,22
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:22:02","SAFE2",235,22
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:22:02","O1",236,22
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:22:02","FK2",237,22
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:22:02","Ball Position",238,22
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:22:22","Restart",239,23
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:22:28","AT2",240,23
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:22:32","SAFE1",241,23
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:22:37","AT1",242,23
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:22:39","DANGER1",243,23
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:22:39","DAT1",244,23
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:22:54","SAFE2",245,23
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:22:54","AT2",246,23
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:22:59","POSSIBLE_TI",247,23
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:23:00","TI1",248,23
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:23:09","Restart",249,24
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:23:36","Possible Free Kick",250,24
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:23:36","F1",252,24
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:23:36","FK2",253,24
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:23:36","DANGER2",254,24
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:23:36","DFK2",255,24
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:23:36","Ball Position",256,24
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:24:16","Restart",257,25
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:24:19","SAFE1",258,25
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:24:34","Danger",259,25
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:24:34","Scout offline",260,25
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:24:40","Transmission Online",261,25
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:24:40","Start score update",262,25
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:24:40","Statistic confirmation",263,25
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:24:40","Score update finished",264,25
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:24:41","AT1",265,25
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:24:43","DANGER1",266,25
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:24:43","DAT1",267,25
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:24:57","POSSIBLE_TI",268,25
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:24:57","TI1",269,25
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:24:59","Restart",270,25
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:25:01","POSSIBLE_TI",271,25
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:25:03","TI1",272,26
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:25:16","Restart",273,26
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:25:35","Possible Free Kick",274,26
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:25:37","SAFE2",276,26
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:25:37","F1",277,26
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:25:37","FK2",278,26
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:25:37","Ball Position",279,26
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:25:47","Restart",280,26
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:25:48","AT2",281,26
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:25:50","CLS",282,26
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:25:55","CLS",283,26
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:25:56","Restart",284,26
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:26:14","AT1",285,27
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:26:29","SAFE2",286,27
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:26:41","AT2",287,27
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:26:48","DANGER2",288,27
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:26:48","DAT2",289,27
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:26:51","Possible Free Kick",290,27
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:26:54","SAFE1",292,27
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:26:54","O2",293,27
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:26:54","FK1",294,27
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:26:54","Ball Position",295,27
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:27:02","Restart",296,27
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:27:19","POSSIBLE_TI",297,28
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:27:21","TI2",298,28
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:27:40","Restart",299,28
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:27:47","Possible Free Kick",300,28
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:27:48","F2",302,28
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:27:48","FK1",303,28
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:27:48","Ball Position",304,28
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:28:02","Restart",305,28
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:28:13","AT1",306,29
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:28:17","SAFE2",307,29
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:28:17","GK2",308,29
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:28:35","Restart",309,29
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:28:44","AT2",310,29
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:28:46","DANGER2",311,29
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:28:46","DAT2",312,29
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:28:53","PCR2",313,29
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:28:57","CR2",314,29
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:28:59","Ball Position",315,29
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:29:38","Scout offline",316,30
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:29:55","Transmission Online",317,30
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:29:55","Start score update",318,30
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:29:55","Statistic confirmation",319,30
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:29:55","Score update finished",320,30
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:30:02","POSSIBLE_TI",321,30
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:30:02","TI2",322,31
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:30:04","Restart",323,31
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:30:06","SAFE1",324,31
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:30:07","GK1",325,31
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:30:14","System Message",326,31
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:30:21","Restart",327,31
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:30:31","Start score update",328,31
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:30:31","Statistic confirmation",329,31
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:30:31","Score update finished",330,31
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:30:38","AT1",331,31
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:30:42","DANGER1",332,31
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:30:42","DAT1",333,31
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:30:44","SAFE2",334,31
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:30:53","System Message",335,31
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:30:56","AT2",336,31
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:31:16","Danger",337,32
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:31:16","Scout offline",338,32
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:31:30","Transmission Online",339,32
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:31:30","Start score update",340,32
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:31:30","Statistic confirmation",341,32
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:31:30","Score update finished",342,32
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:31:33","AT1",343,32
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:31:35","DANGER1",344,32
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:31:35","DAT1",345,32
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:31:40","SAFE2",346,32
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:31:51","AT1",347,32
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:31:51","DANGER1",348,32
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:31:51","DAT1",349,32
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:31:54","POSSIBLE_TI",350,32
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:31:55","TI1",351,32
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:32:00","Restart",352,32
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:32:16","Start score update",353,33
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:32:16","Statistic confirmation",354,33
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:32:16","Score update finished",355,33
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:32:19","PCR1",356,33
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:32:23","CR1",357,33
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:32:24","Ball Position",358,33
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:32:41","Restart",359,33
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:32:47","SAFE2",360,33
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:32:52","AT2",361,33
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:32:53","DANGER2",362,33
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:32:53","DAT2",363,33
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:33:02","PCR2",364,33
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:33:06","CR2",365,34
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:33:06","Ball Position",366,34
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:33:31","Restart",367,34
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:33:52","Scout offline",368,34
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:34:24","Scout offline",369,35
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:34:32","Transmission Online",370,35
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:34:32","Start score update",371,35
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:34:32","Statistic confirmation",372,35
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:34:32","Score update finished",373,35
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:34:34","AT1",374,35
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:34:37","SAFE1",375,35
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:34:40","AT1",376,35
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:34:46","DANGER1",377,35
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:34:46","DAT1",378,35
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:34:49","SAFE2",379,35
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:34:53","System Message",380,35
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:35:04","AT2",381,36
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:35:11","SAFE1",382,36
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:35:12","AT1",383,36
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:35:14","DANGER1",384,36
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:35:14","DAT1",385,36
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:35:18","Lineup changed",386,36
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:35:21","POSSIBLE_TI",387,36
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:35:22","TI1",388,36
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:35:29","Restart",389,36
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:35:48","Possible Free Kick",390,36
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:35:51","F2",392,36
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:35:51","FK1",393,36
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:35:51","DFK1",394,36
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:35:51","Ball Position",395,36
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:36:59","Restart",396,37
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:37:03","SHB1",397,38
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:37:04","SAFE2",398,38
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:37:05","GK2",399,38
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:37:26","Restart",400,38
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:37:34","POSSIBLE_TI",401,38
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:37:35","TI1",402,38
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:37:37","Restart",403,38
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:37:41","AT1",404,38
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:37:52","DANGER1",405,38
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:37:52","DAT1",406,38
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:38:01","SAFE2",407,38
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:38:05","AT2",408,39
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:38:08","DANGER2",409,39
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:38:08","DAT2",410,39
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:38:11","PPEN",411,39
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:38:11","PPEN2",412,39
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:38:16","No PEN",413,39
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:38:17","SAFE1",414,39
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:38:21","POSSIBLE_TI",415,39
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:38:22","TI2",416,39
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:39:24","Restart",417,40
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:39:29","SAFE1",418,40
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:39:55","POSSIBLE_TI",419,40
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:39:56","TI1",420,40
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:39:59","Restart",421,40
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:40:01","AT1",422,40
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:40:20","DANGER1",423,41
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:40:20","DAT1",424,41
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:40:47","SAFE2",425,41
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:40:49","GK2",426,41
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:41:15","Restart",427,42
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:41:20","Start score update",428,42
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:41:20","Statistic confirmation",429,42
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:41:20","Score update finished",430,42
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:41:37","AT2",431,42
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:41:40","DANGER2",432,42
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:41:40","DAT2",433,42
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:41:45","POSSIBLE_TI",434,42
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:41:45","TI1",435,42
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:41:54","Restart",436,42
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:42:00","SAFE1",437,42
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:42:01","AT1",438,42
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:42:03","POSSIBLE_TI",439,43
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:42:04","TI2",440,43
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:42:24","Restart",441,43
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:42:34","SAFE2",442,43
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:42:35","AT2",443,43
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:42:39","SAFE1",444,43
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:42:43","POSSIBLE_TI",445,43
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:42:43","TI2",446,43
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:42:46","Restart",447,43
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:43:01","AT1",448,43
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:43:04","SAFE2",449,44
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:43:12","AT2",450,44
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:43:14","DANGER2",451,44
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:43:14","DAT2",452,44
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:43:17","SAFE1",453,44
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:43:35","AT1",454,44
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:43:35","DANGER1",455,44
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:43:35","DAT1",456,44
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:43:37","GOAL1",457,44
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:43:49","CONF_GOAL1",458,44
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:44:00","Scorer",459,44
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:44:32","KO2",460,45
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:44:32","SAFE2",461,45
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:44:44","Possible Free Kick",462,45
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:44:45","F1",464,45
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:44:45","FK2",465,45
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:44:46","Ball Position",466,45
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:45:07","Restart",467,46
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:45:16","Stop RT1",468,46
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:45:24","Player_DATA_CONFIRMED",469,45
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:45:24","Assist",470,45
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:45:29","CONF_PERIOD_SCORE",471,45
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:46:06","CONF_PERIOD_SCORE",472,45
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 15:59:31","Players are coming out",473,45
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:00:02","Game about to start",474,45
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:00:10","System Message",475,45
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:00:44","SUB2",476,45
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:00:58","Start RT2 Team 1",477,46
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:01:28","POSSIBLE_TI",478,46
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:01:30","TI1",479,46
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:01:33","Restart",480,46
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:01:41","Lineup changed",481,46
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:01:54","AT1",482,46
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:01:55","DANGER1",483,46
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:01:55","DAT1",484,46
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:01:57","POSSIBLE_TI",485,46
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:01:58","TI1",486,46
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:02:00","Restart",487,47
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:02:18","SHB1",488,47
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:02:26","SAFE2",489,47
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:02:27","GK2",490,47
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:02:38","Restart",491,47
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:02:52","AT1",492,47
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:03:19","POSSIBLE_TI",493,48
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:03:19","TI2",494,48
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:03:26","Restart",495,48
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:03:35","Player_DATA_CONFIRMED",496,48
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:03:35","DANGER1",497,48
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:03:35","DAT1",498,48
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:03:36","POSSIBLE_TI",499,48
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:03:38","TI1",500,48
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:03:42","Restart",501,48
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:03:52","SAFE1",502,48
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:04:04","GCC",503,49
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:04:12","AT2",504,49
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:04:16","SAFE1",505,49
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:04:24","AT1",506,49
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:04:42","DANGER1",507,49
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:04:42","DAT1",508,49
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:04:51","PCR1",509,49
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:04:55","SHB1",510,49
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:04:55","CR1",511,49
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:04:56","Ball Position",512,49
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:05:15","Restart",513,50
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:05:19","SHB1",514,50
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:05:25","SAFE2",515,50
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:05:27","POSSIBLE_TI",516,50
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:05:27","NO_TI",517,50
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:05:28","GK2",518,50
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:05:45","Restart",519,50
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:05:49","AT1",520,50
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:05:50","DANGER1",521,50
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:05:50","DAT1",522,50
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:06:07","POSSIBLE_TI",523,51
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:06:07","TI1",524,51
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:06:09","Restart",525,51
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:06:18","GOAL1",526,51
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:06:30","Scorer",527,51
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:06:50","Scout offline",528,51
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:07:09","Transmission Online",529,52
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:07:09","Start score update",530,52
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:07:09","Statistic confirmation",531,52
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:07:09","Score update finished",532,52
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:07:12","CONF_GOAL1",533,52
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:07:14","KO2",534,52
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:07:14","SAFE2",535,52
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:07:27","SAFE2",536,52
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:07:36","AT2",537,52
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:07:38","DANGER2",538,52
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:07:38","DAT2",539,52
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:08:03","SAFE2",540,53
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:08:12","POSSIBLE_TI",541,53
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:08:12","TI1",542,53
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:08:21","Player_DATA_CONFIRMED",543,53
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:08:21","Assist",544,53
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:08:28","Restart",545,53
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:08:43","AT1",546,53
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:08:45","DANGER1",547,53
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:08:45","DAT1",548,53
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:08:50","PCR1",549,53
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:08:54","NCR1",550,53
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:08:56","SAFE2",551,53
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:08:56","GK2",552,53
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:09:15","Restart",553,54
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:09:36","Danger",554,54
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:09:36","Scout offline",555,54
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:09:46","Transmission Online",556,54
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:09:46","Start score update",557,54
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:09:46","Statistic confirmation",558,54
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:09:46","Score update finished",559,54
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:09:47","SAFE1",560,54
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:09:48","GK1",561,54
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:09:57","Restart",562,54
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:10:18","AT1",563,55
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:10:29","SAFE2",564,55
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:10:29","AT2",565,55
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:10:45","DANGER2",566,55
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:10:45","DAT2",567,55
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:10:49","Possible Free Kick",568,55
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:10:53","F1",570,55
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:10:53","FK2",571,55
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:10:53","DFK2",572,55
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:10:53","Ball Position",573,55
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:11:49","Restart",574,56
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:11:52","PCR2",575,56
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:11:54","CR2",576,56
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:11:57","SHG2",577,56
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:11:58","Ball Position",578,56
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:12:09","Restart",579,57
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:12:15","BLOCKED2",580,57
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:12:24","POSSIBLE_TI",581,57
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:12:25","TI2",582,57
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:12:27","Restart",583,57
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:12:27","SAFE2",584,57
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:12:39","AT2",585,57
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:12:50","DANGER2",586,57
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:12:50","DAT2",587,57
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:12:58","SAFE1",588,57
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:12:58","GK1",589,58
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:13:11","Restart",590,58
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:13:47","AT1",591,58
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:13:51","DANGER1",592,58
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:13:51","DAT1",593,58
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:14:03","Possible Free Kick",594,59
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:14:04","SAFE2",596,59
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:14:04","F1",597,59
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:14:04","FK2",598,59
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:14:04","Ball Position",599,59
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:14:28","SUB1",600,59
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:14:40","Restart",601,59
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:15:08","AT2",602,60
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:15:18","DANGER2",603,60
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:15:18","DAT2",604,60
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:15:41","SAFE1",605,60
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:15:42","AT1",606,60
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:15:43","DANGER1",607,60
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:15:43","DAT1",608,60
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:15:51","Player_DATA_CONFIRMED",609,60
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:16:04","GOAL1",610,61
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:16:15","CGOAL1",611,61
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:16:16","Possible Free Kick",612,61
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:16:18","SAFE2",614,61
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:16:18","O1",615,61
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:16:18","FK2",616,61
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:16:18","Ball Position",617,61
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:16:21","Restart",618,61
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:16:38","AT2",619,61
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:16:38","DANGER2",620,61
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:16:38","DAT2",621,61
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:16:44","SAFE1",622,61
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:16:52","AT2",623,61
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:16:59","SAFE1",624,62
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:17:13","AT1",625,62
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:17:19","DANGER1",626,62
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:17:19","DAT1",627,62
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:17:34","Possible Free Kick",628,62
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:17:35","SAFE2",630,62
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:17:35","F1",631,62
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:17:35","FK2",632,62
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:17:35","Ball Position",633,62
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:17:44","Restart",634,62
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:17:53","AT2",635,62
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:18:04","SAFE1",636,63
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:18:05","AT1",637,63
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:18:06","DANGER1",638,63
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:18:06","DAT1",639,63
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:18:08","Possible Free Kick",640,63
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:18:09","POSSIBLE_CARDS",642,63
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:18:13","YC2",643,63
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:18:22","CONF_YC2",644,63
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:18:24","Scorer",645,63
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:18:31","F2",646,63
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:18:31","FK1",647,63
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:18:31","DFK1",648,63
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:18:31","Ball Position",649,63
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:19:08","Restart",650,64
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:19:11","PCR1",651,64
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:19:15","CR1",652,64
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:19:16","SHB1",653,64
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:19:17","Ball Position",654,64
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:19:31","Restart",655,64
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:19:34","SAFE2",656,64
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:19:53","AT2",657,64
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:19:58","Player_DATA_CONFIRMED",658,64
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:20:01","Possible Free Kick",659,65
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:20:08","F1",661,65
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:20:08","FK2",662,65
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:20:08","DANGER2",663,65
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:20:08","DFK2",664,65
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:20:08","Ball Position",665,65
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:20:37","Restart",666,65
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:20:41","PPEN",667,65
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:20:41","PPEN2",668,65
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:20:45","No PEN",669,65
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:20:46","BLOCKED2",670,65
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:20:49","POSSIBLE_TI",671,65
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:20:50","TI2",672,65
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:21:01","Restart",673,66
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:21:07","Possible Free Kick",674,66
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:21:17","SAFE1",676,66
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:21:17","F2",677,66
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:21:17","FK1",678,66
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:21:17","Ball Position",679,66
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:21:25","Restart",680,66
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:21:36","AT1",681,66
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:21:37","DANGER1",682,66
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:21:37","DAT1",683,66
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:21:43","SAFE2",684,66
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:21:43","GK2",685,66
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:21:52","Restart",686,66
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:21:59","POSSIBLE_TI",687,67
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:22:00","TI2",688,67
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:22:08","Restart",689,67
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:22:13","AT1",690,67
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:22:14","DANGER1",691,67
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:22:14","DAT1",692,67
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:22:18","GOAL1",693,67
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:22:23","Scorer",694,67
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:22:29","CONF_GOAL1",695,67
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:23:08","SUB2",696,68
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:23:10","KO2",697,68
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:23:10","SAFE2",698,68
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:23:27","POSSIBLE_TI",699,68
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:23:28","TI2",700,68
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:23:34","Restart",701,68
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:23:41","AT1",702,68
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:23:48","SAFE2",703,68
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:23:52","AT2",704,68
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:24:29","SAFE1",705,69
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:24:31","POSSIBLE_TI",706,69
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:24:34","TI1",707,69
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:24:37","Restart",708,69
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:24:37","AT1",709,69
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:24:39","DANGER1",710,69
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:24:39","DAT1",711,69
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:25:21","SAFE1",712,70
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:25:56","AT1",713,70
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:25:59","Player_DATA_CONFIRMED",714,71
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:25:59","Player_DATA_CONFIRMED",715,71
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:26:04","SAFE2",716,71
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:26:06","AT2",717,71
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:26:07","DANGER2",718,71
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:26:07","DAT2",719,71
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:26:18","SAFE1",720,71
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:26:19","GK1",721,71
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:26:44","SUB1",722,71
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:27:12","Restart",723,72
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:27:35","Possible Free Kick",724,72
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:27:37","SAFE2",726,72
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:27:38","F1",727,72
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:27:38","FK2",728,72
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:27:38","Ball Position",729,72
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:27:47","Injury Break",730,72
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:27:52","Player_DATA_CONFIRMED",731,72
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:27:58","POSSIBLE_CARDS",732,72
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:28:18","YC1",733,73
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:28:20","CONF_YC1",734,73
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:28:25","Scorer",735,73
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:28:52","SUB2",736,73
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:29:15","Restart",737,74
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:29:33","AT2",738,74
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:29:34","DANGER2",739,74
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:29:34","DAT2",740,74
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:29:39","BLOCKED2",741,74
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:29:47","SAFE1",742,74
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:29:47","AT1",743,74
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:29:55","POSSIBLE_TI",744,74
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:29:56","TI1",745,74
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:30:07","Restart",746,75
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:30:09","SAFE1",747,75
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:30:09","Player_DATA_CONFIRMED",748,75
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:30:09","Player_DATA_CONFIRMED",749,75
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:30:22","AT2",750,75
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:30:26","DANGER2",751,75
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:30:26","DAT2",752,75
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:30:53","Possible Free Kick",753,75
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:30:54","SAFE1",755,75
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:30:54","F2",756,75
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:30:54","FK1",757,75
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:30:54","Ball Position",758,75
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:31:06","Restart",759,76
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:31:41","AT1",760,76
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:31:48","DANGER1",761,76
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:31:48","DAT1",762,76
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:32:14","POSSIBLE_TI",763,77
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:32:15","TI2",764,77
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:32:18","Restart",765,77
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:32:28","SAFE2",766,77
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:32:36","AT2",767,77
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:32:41","POSSIBLE_TI",768,77
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:32:43","TI2",769,77
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:32:45","Restart",770,77
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:32:51","SAFE1",771,77
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:32:59","AT2",772,78
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:33:07","DANGER2",773,78
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:33:07","DAT2",774,78
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:33:10","SHB2",775,78
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:33:17","SAFE1",776,78
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:33:17","GK1",777,78
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:33:23","Restart",778,78
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:33:39","AT2",779,78
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:33:43","DANGER2",780,78
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:33:43","DAT2",781,78
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:34:12","SAFE1",782,79
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:34:13","GK1",783,79
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:34:14","Restart",784,79
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:34:22","AT1",785,79
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:34:24","DANGER1",786,79
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:34:24","DAT1",787,79
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:34:32","PPEN",788,79
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:34:32","PPEN1",789,79
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:34:36","No PEN",790,79
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:34:37","SAFE2",791,79
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:34:42","AT2",792,79
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:34:47","DANGER2",793,79
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:34:47","DAT2",794,79
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:34:53","PCR2",795,79
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:35:01","CR2",796,80
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:35:02","Ball Position",797,80
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:35:13","Restart",798,80
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:35:16","PPEN",799,80
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:35:16","PPEN2",800,80
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:35:25","No PEN",801,80
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:35:38","POSSIBLE_TI",802,80
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:35:39","TI1",803,80
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:35:47","Restart",804,80
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:36:25","POSSIBLE_TI",805,81
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:36:26","TI2",806,81
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:36:28","Restart",807,81
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:36:36","SHB2",808,81
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:36:38","SAFE1",809,81
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:36:39","GK1",810,81
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:36:56","Restart",811,81
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:37:16","POSSIBLE_TI",812,82
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:37:17","TI1",813,82
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:37:24","Restart",814,82
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:37:30","AT1",815,82
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:37:33","DANGER1",816,82
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:37:33","DAT1",817,82
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:37:45","POSSIBLE_TI",818,82
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:37:45","TI1",819,82
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:37:45","Restart",820,82
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:37:48","SAFE2",821,82
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:37:59","AT2",822,83
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:38:03","DANGER2",823,83
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:38:03","DAT2",824,83
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:38:28","Possible Free Kick",825,83
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:38:30","SAFE1",827,83
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:38:30","F2",828,83
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:38:30","FK1",829,83
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:38:30","Ball Position",830,83
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:38:36","Restart",831,83
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:38:37","AT1",832,83
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:38:39","DANGER1",833,83
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:38:39","DAT1",834,83
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:39:08","SAFE2",835,84
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:39:11","AT2",836,84
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:39:18","Possible Free Kick",837,84
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:39:19","POSSIBLE_CARDS",839,84
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:39:28","YC1",840,84
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:39:30","CONF_YC1",841,84
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:39:33","Scorer",842,84
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:39:45","F1",843,84
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:39:45","FK2",844,84
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:39:45","DANGER2",845,84
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:39:45","DFK2",846,84
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:39:45","Ball Position",847,84
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:40:11","Restart",848,85
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:40:16","SHB2",849,85
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:40:18","SAFE1",850,85
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:40:18","GK1",851,85
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:40:31","SUB1",852,85
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:41:04","Player_DATA_CONFIRMED",853,86
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:41:12","Restart",854,86
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:41:29","Possible Free Kick",855,86
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:41:31","F2",857,86
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:41:31","FK1",858,86
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:41:31","DANGER1",859,86
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:41:31","DFK1",860,86
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:41:31","Ball Position",861,86
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:41:31","Player_DATA_CONFIRMED",862,86
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:41:38","Restart",863,86
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:41:59","Possible Free Kick",864,87
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:42:02","F2",866,87
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:42:02","FK1",867,87
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:42:02","DFK1",868,87
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:42:02","Ball Position",869,87
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:42:10","Restart",870,87
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:42:49","SAFE2",871,87
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:43:09","AT2",872,88
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:43:17","DANGER2",873,88
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:43:17","DAT2",874,88
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:43:26","SAFE1",875,88
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:43:28","AT1",876,88
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:43:32","DANGER1",877,88
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:43:32","DAT1",878,88
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:43:38","SAFE2",879,88
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:44:18","AT1",880,89
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:44:30","DANGER1",881,89
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:44:30","DAT1",882,89
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:44:32","Possible Free Kick",883,89
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:44:44","F2",885,89
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:44:44","FK1",886,89
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:44:44","DFK1",887,89
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:44:44","Ball Position",888,89
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:44:46","Restart",889,89
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:45:07","POSSIBLE_TI",890,90
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:45:08","TI1",891,90
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:45:15","Restart",892,90
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:45:19","SAFE2",893,90
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:45:23","POSSIBLE_TI",894,90
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:45:24","TI2",895,90
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:45:33","Restart",896,90
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:45:37","AT2",897,90
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:45:39","DANGER2",898,90
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:45:39","DAT2",899,90
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:45:41","POSSIBLE_TI",900,90
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:45:41","TI2",901,90
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:45:51","Restart",902,90
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:45:57","Extra Time",903,90
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:46:07","BLOCKED2",904,91
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:46:16","SAFE1",905,91
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:46:17","GK1",906,91
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:46:48","Restart",907,91
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:47:07","SAFE2",908,92
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:47:15","AT1",909,92
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:47:44","SAFE1",910,92
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:48:11","AT1",911,93
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:48:15","POSSIBLE_TI",912,93
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:48:16","TI1",913,93
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:48:18","Restart",914,93
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:48:23","DANGER1",915,93
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:48:23","DAT1",916,93
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:48:30","SAFE2",917,93
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:48:38","AT2",918,93
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:48:57","Stop RT2",919,93
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:48:57","Stop Game",920,93
+862122,"AS Monaco FC","RCS Strasbourg","09/16/2017 16:49:02","CONF_PERIOD_SCORE",921,92

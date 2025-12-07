@@ -1,0 +1,863 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1054605,"Southampton FC","Manchester United FC","12/01/2018 15:45:47","Transmission Online",0,0
+1054605,"Southampton FC","Manchester United FC","12/01/2018 15:45:56","GCC",1,0
+1054605,"Southampton FC","Manchester United FC","12/01/2018 16:30:57","Lineup changed",2,0
+1054605,"Southampton FC","Manchester United FC","12/01/2018 16:31:28","Scout in Stadion",3,0
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:26:09","Players are coming out",4,0
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:26:29","Players lined up",5,0
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:26:42","Shake hands",6,0
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:27:33","Jersey Changed",7,0
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:27:34","Jersey Changed",8,0
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:28:00","Photo taking",9,0
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:28:33","GCC",10,0
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:29:00","Flip coin",11,0
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:29:40","Game about to start",12,0
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:30:06","Start RT1 Team 1",13,1
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:30:10","AT1",14,1
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:30:14","SAFE2",15,1
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:30:18","AT1",16,1
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:30:27","DANGER1",17,1
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:30:27","DAT1",18,1
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:30:46","Possible Free Kick",19,1
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:30:49","F2",21,1
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:30:49","FK1",22,1
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:30:49","DFK1",23,1
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:30:49","Ball Position",24,1
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:31:19","Restart",25,2
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:31:41","SAFE2",26,2
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:31:59","AT2",27,2
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:32:03","DANGER2",28,2
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:32:03","DAT2",29,2
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:32:30","SHG2",30,3
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:32:33","SAFE1",31,3
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:32:35","AT1",32,3
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:32:38","DANGER1",33,3
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:32:38","DAT1",34,3
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:32:42","SHB1",35,3
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:32:43","SAFE2",36,3
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:32:44","GK2",37,3
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:32:58","Restart",38,3
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:33:15","POSSIBLE_TI",39,4
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:33:17","TI2",40,4
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:33:26","Restart",41,4
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:33:43","POSSIBLE_TI",42,4
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:33:47","TI2",43,4
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:33:56","Restart",44,4
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:34:26","SAFE1",45,5
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:34:31","AT1",46,5
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:34:36","POSSIBLE_TI",47,5
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:34:37","TI1",48,5
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:34:42","Restart",49,5
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:34:45","POSSIBLE_TI",50,5
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:34:46","TI1",51,5
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:34:57","Restart",52,5
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:35:05","SAFE2",53,5
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:35:06","AT2",54,6
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:35:09","SAFE1",55,6
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:35:19","AT1",56,6
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:35:21","SAFE2",57,6
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:35:24","AT2",58,6
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:35:25","DANGER2",59,6
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:35:25","DAT2",60,6
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:35:30","BLOCKED2",61,6
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:35:41","POSSIBLE_TI",62,6
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:35:44","TI2",63,6
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:35:55","Restart",64,6
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:36:02","SAFE1",65,6
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:36:03","AT1",66,6
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:36:06","DANGER1",67,6
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:36:06","DAT1",68,6
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:36:15","SHG1",69,7
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:36:17","SAFE2",70,7
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:36:19","AT2",71,7
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:36:26","DANGER2",72,7
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:36:26","DAT2",73,7
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:37:07","SAFE1",74,8
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:37:12","SAFE2",75,8
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:37:15","AT2",76,8
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:37:32","DANGER2",77,8
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:37:32","DAT2",78,8
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:37:34","POSSIBLE_TI",79,8
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:37:36","TI1",80,8
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:38:02","Restart",81,8
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:38:10","SAFE2",82,9
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:38:16","AT2",83,9
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:38:20","Possible Free Kick",84,9
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:38:23","SAFE1",86,9
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:38:24","O2",87,9
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:38:24","FK1",88,9
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:38:24","Ball Position",89,9
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:38:46","Restart",90,9
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:38:46","AT1",91,9
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:38:58","SAFE2",92,9
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:39:12","AT1",93,10
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:39:22","SAFE2",94,10
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:39:25","POSSIBLE_TI",95,10
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:39:26","TI2",96,10
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:39:31","Restart",97,10
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:39:36","Possible Free Kick",98,10
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:39:37","F1",100,10
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:39:37","FK2",101,10
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:39:38","Ball Position",102,10
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:39:40","Restart",103,10
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:41:04","AT2",104,11
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:41:08","Possible Free Kick",105,12
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:41:10","SAFE1",107,12
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:41:10","O2",108,12
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:41:10","FK1",109,12
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:41:10","Ball Position",110,12
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:41:24","Restart",111,12
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:41:26","AT1",112,12
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:41:35","DANGER1",113,12
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:41:35","DAT1",114,12
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:41:45","SAFE1",115,12
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:41:46","AT1",116,12
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:42:01","DANGER1",117,12
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:42:01","DAT1",118,12
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:42:15","GOAL1",119,13
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:42:29","Scorer",120,13
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:43:14","CONF_GOAL1",121,14
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:43:19","KO2",122,14
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:43:19","SAFE2",123,14
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:43:29","AT2",124,14
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:43:31","POSSIBLE_TI",125,14
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:43:34","TI2",126,14
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:43:36","Restart",127,14
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:43:39","SAFE2",128,14
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:43:57","AT2",129,14
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:44:06","SAFE1",130,14
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:44:14","Player_DATA_CONFIRMED",131,15
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:44:14","Assist",132,15
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:44:14","AT1",133,15
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:44:16","SAFE2",134,15
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:44:28","POSSIBLE_CARDS",135,15
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:44:28","PRC",136,15
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:44:28","Danger",137,15
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:44:37","Possible Free Kick",138,15
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:44:46","No RC",140,15
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:44:47","NO_Cards",141,15
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:44:48","F2",142,15
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:44:48","FK1",143,15
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:44:48","DFK1",144,15
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:44:48","Ball Position",145,15
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:44:59","Restart",146,15
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:45:07","SAFE1",147,16
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:45:10","AT1",148,16
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:45:13","SAFE2",149,16
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:45:33","AT2",150,16
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:45:54","SAFE1",151,16
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:46:04","AT1",152,16
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:46:14","SAFE2",153,17
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:46:15","POSSIBLE_TI",154,17
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:46:16","TI2",155,17
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:46:28","Restart",156,17
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:46:30","SAFE1",157,17
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:46:47","POSSIBLE_TI",158,17
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:46:47","TI1",159,17
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:47:06","Restart",160,17
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:47:06","AT1",161,18
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:47:08","SAFE2",162,18
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:47:27","AT1",163,18
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:47:28","DANGER1",164,18
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:47:28","DAT1",165,18
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:47:29","POSSIBLE_TI",166,18
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:47:33","TI2",167,18
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:47:47","Restart",168,18
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:47:56","BLOCKED1",169,18
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:47:58","Possible Free Kick",170,18
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:48:02","POSSIBLE_CARDS",172,18
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:48:11","YC2",173,19
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:48:13","CONF_YC2",174,19
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:48:16","Scorer",175,19
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:48:19","F2",176,19
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:48:19","FK1",177,19
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:48:19","DFK1",178,19
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:48:20","Ball Position",179,19
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:48:34","Player_DATA_CONFIRMED",180,19
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:49:35","Restart",181,20
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:49:38","GOAL1",182,20
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:49:50","Scorer",183,20
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:50:24","CONF_GOAL1",184,21
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:50:27","Scorer",185,21
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:50:28","Player_DATA_CONFIRMED",186,21
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:50:29","KO2",187,21
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:50:29","SAFE2",188,21
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:50:37","AT2",189,21
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:50:44","SAFE1",190,21
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:51:00","AT1",191,21
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:51:08","SAFE2",192,22
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:51:11","AT2",193,22
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:51:48","Possible Free Kick",194,22
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:51:48","F1",196,22
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:51:48","FK2",197,22
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:51:48","DANGER2",198,22
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:51:48","DFK2",199,22
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:51:48","Ball Position",200,22
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:52:15","Restart",201,23
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:52:48","Possible Free Kick",202,23
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:52:50","F1",204,23
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:52:50","FK2",205,23
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:52:50","DFK2",206,23
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:52:50","Ball Position",207,23
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:53:54","Restart",208,24
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:53:57","PCR2",209,24
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:54:01","CR2",210,24
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:54:02","Ball Position",211,24
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:54:12","Restart",212,25
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:54:22","PCR2",213,25
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:54:26","SHB2",214,25
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:54:27","NCR2",215,25
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:54:28","SAFE1",216,25
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:54:29","GK1",217,25
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:54:53","Restart",218,25
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:55:00","AT1",219,25
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:55:02","DANGER1",220,25
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:55:02","DAT1",221,25
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:55:03","POSSIBLE_TI",222,25
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:55:04","TI1",223,25
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:55:15","Restart",224,26
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:55:58","SAFE1",225,26
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:56:06","AT1",226,27
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:56:17","SAFE2",227,27
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:56:21","AT2",228,27
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:56:30","SAFE1",229,27
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:56:43","AT1",230,27
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:56:52","Possible Free Kick",231,27
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:56:53","SAFE2",234,27
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:56:54","F1",235,27
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:56:54","FK2",236,27
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:56:54","Ball Position",237,27
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:56:58","Restart",238,27
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:57:27","AT2",239,28
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:57:47","DANGER2",240,28
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:57:47","DAT2",241,28
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:57:55","SHB2",242,28
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:57:55","SAFE1",243,28
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:57:56","GK1",244,28
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:58:23","Restart",245,29
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:58:26","AT1",246,29
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:58:45","SAFE1",247,29
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:59:11","AT1",248,30
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:59:24","DANGER1",249,30
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:59:24","DAT1",250,30
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:59:25","PCR1",251,30
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:59:26","CR1",252,30
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:59:27","Ball Position",253,30
+1054605,"Southampton FC","Manchester United FC","12/01/2018 17:59:56","Restart",254,30
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:00:26","SAFE2",255,31
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:00:50","AT2",256,31
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:00:58","SAFE1",257,31
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:01:19","AT1",258,32
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:01:20","CLS",259,32
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:01:21","AT2",260,32
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:01:23","DANGER2",261,32
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:01:23","DAT2",262,32
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:01:48","SAFE2",263,32
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:02:01","AT2",264,32
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:02:05","DANGER2",265,32
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:02:05","DAT2",266,32
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:02:32","SAFE1",267,33
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:02:33","AT1",268,33
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:02:43","SAFE2",269,33
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:02:44","GK2",270,33
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:02:55","Restart",271,33
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:02:56","AT2",272,33
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:02:59","DANGER2",273,33
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:02:59","DAT2",274,33
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:03:03","GOAL2",275,33
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:03:15","Scorer",276,34
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:03:29","CONF_GOAL2",277,34
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:03:32","KO1",278,34
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:03:32","SAFE1",279,34
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:03:52","Possible Free Kick",280,34
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:03:58","F2",282,34
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:03:58","FK1",283,34
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:03:58","DANGER1",284,34
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:03:58","DFK1",285,34
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:03:58","Ball Position",286,34
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:03:59","POSSIBLE_CARDS",287,34
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:03:59","PRC",288,34
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:04:27","YC2",289,35
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:04:28","CONF_YC2",290,35
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:04:36","Scorer",291,35
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:04:38","No RC",292,35
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:04:44","Restart",293,35
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:04:46","Player_DATA_CONFIRMED",294,35
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:04:49","Player_DATA_CONFIRMED",295,35
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:04:54","SAFE2",296,35
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:04:57","AT2",297,35
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:05:00","POSSIBLE_CARDS",298,35
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:05:00","PRC",299,35
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:05:00","Danger",300,35
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:05:06","Possible Free Kick",301,35
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:05:17","Assist",303,36
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:05:33","YC1",304,36
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:05:34","CONF_YC1",305,36
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:05:34","Scorer",306,36
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:05:37","No RC",307,36
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:05:38","F1",308,36
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:05:38","FK2",309,36
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:05:38","DFK2",310,36
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:05:38","Ball Position",311,36
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:05:38","Restart",312,36
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:05:46","SAFE2",313,36
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:05:46","POSSIBLE_TI",314,36
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:05:47","TI2",315,36
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:05:48","Restart",316,36
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:05:57","AT2",317,36
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:06:00","Possible Free Kick",318,36
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:06:01","SAFE1",320,36
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:06:01","F2",321,36
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:06:01","FK1",322,36
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:06:01","Ball Position",323,36
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:06:05","Scorer",324,36
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:06:06","Player_DATA_CONFIRMED",325,36
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:06:30","Restart",326,37
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:06:32","AT1",327,37
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:06:35","POSSIBLE_TI",328,37
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:06:37","TI1",329,37
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:06:56","Restart",330,37
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:06:56","DANGER1",331,37
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:06:56","DAT1",332,37
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:07:04","Possible Free Kick",333,37
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:07:17","F2",335,38
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:07:17","FK1",336,38
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:07:17","DFK1",337,38
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:07:17","Ball Position",338,38
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:07:56","Restart",339,38
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:08:01","SHB1",340,38
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:08:01","SAFE2",341,38
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:08:02","GK2",342,38
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:08:12","Restart",343,39
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:08:17","Possible Free Kick",344,39
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:08:18","F1",346,39
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:08:18","FK2",347,39
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:08:18","Ball Position",348,39
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:08:28","POSSIBLE_CARDS",349,39
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:08:28","NO_Cards",350,39
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:08:29","Restart",351,39
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:08:47","AT2",352,39
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:08:47","DANGER2",353,39
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:08:47","DAT2",354,39
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:08:57","GOAL2",355,39
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:09:08","Scorer",356,40
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:09:21","CONF_GOAL2",357,40
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:09:24","KO1",358,40
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:09:24","SAFE1",359,40
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:09:36","AT1",360,40
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:09:46","SAFE2",361,40
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:09:46","AT2",362,40
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:09:51","DANGER2",363,40
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:09:51","DAT2",364,40
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:09:55","PCR2",365,40
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:09:57","CR2",366,40
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:10:00","Ball Position",367,40
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:10:19","Restart",368,41
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:10:37","Player_DATA_CONFIRMED",369,41
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:10:39","POSSIBLE_TI",370,41
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:10:40","TI2",371,41
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:10:42","Restart",372,41
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:10:45","SAFE2",373,41
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:11:11","AT2",374,42
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:11:13","DANGER2",375,42
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:11:13","DAT2",376,42
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:11:15","Assist",377,42
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:11:21","POSSIBLE_TI",378,42
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:11:22","TI2",379,42
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:11:22","Restart",380,42
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:11:23","SAFE2",381,42
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:12:16","AT2",382,43
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:12:21","SAFE1",383,43
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:12:25","Possible Free Kick",384,43
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:12:26","F2",386,43
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:12:26","FK1",387,43
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:12:26","DANGER1",388,43
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:12:26","DFK1",389,43
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:12:26","Ball Position",390,43
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:12:35","Restart",391,43
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:12:36","SAFE1",392,43
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:12:50","AT1",393,43
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:12:54","DANGER1",394,43
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:12:54","DAT1",395,43
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:13:17","SAFE2",396,44
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:13:28","POSSIBLE_TI",397,44
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:13:29","TI1",398,44
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:13:30","Restart",399,44
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:13:30","AT1",400,44
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:13:31","CLS",401,44
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:13:36","CLS",402,44
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:13:43","Restart",403,44
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:13:43","AT1",404,44
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:13:52","DANGER1",405,44
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:13:52","DAT1",406,44
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:13:57","BLOCKED1",407,44
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:14:03","SAFE1",408,44
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:14:04","AT1",409,44
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:14:14","DANGER1",410,45
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:14:14","DAT1",411,45
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:14:43","SAFE2",412,45
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:14:46","AT2",413,45
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:14:49","DANGER2",414,45
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:14:49","DAT2",415,45
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:15:19","Extra Time",416,46
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:15:33","SHG2",417,46
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:15:34","SAFE1",418,46
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:15:53","AT1",419,46
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:15:58","DANGER1",420,46
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:15:58","DAT1",421,46
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:16:11","SAFE2",422,47
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:16:12","AT2",423,47
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:16:18","SAFE1",424,47
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:16:24","AT1",425,47
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:16:25","DANGER1",426,47
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:16:25","DAT1",427,47
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:16:32","PCR1",428,47
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:16:37","CR1",429,47
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:16:37","Ball Position",430,47
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:17:06","Restart",431,47
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:17:24","SHB1",432,48
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:17:28","Stop RT1",433,48
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:17:35","CONF_PERIOD_SCORE",434,45
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:32:06","Players are coming out",435,45
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:32:44","Game about to start",436,45
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:32:59","Start RT2 Team 2",437,46
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:33:03","CLS",438,45
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:33:13","Start RT2 Team 2",439,46
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:33:16","AT2",440,46
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:33:23","SAFE1",441,46
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:33:33","System Message",442,46
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:33:41","AT2",443,46
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:33:41","CLS",444,46
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:33:42","AT1",445,46
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:33:46","Possible Free Kick",446,46
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:33:48","SAFE2",448,46
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:33:48","F1",449,46
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:33:48","FK2",450,46
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:33:48","Ball Position",451,46
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:33:55","Restart",452,46
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:34:17","AT2",453,47
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:34:20","POSSIBLE_TI",454,47
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:34:21","TI2",455,47
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:34:29","Restart",456,47
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:34:30","DANGER2",457,47
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:34:30","DAT2",458,47
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:34:40","PCR2",459,47
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:34:40","CR2",460,47
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:34:41","Ball Position",461,47
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:35:03","Restart",462,47
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:35:10","PCR2",463,47
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:35:12","CR2",464,47
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:35:14","Ball Position",465,48
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:36:02","Restart",466,48
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:36:08","Possible Free Kick",467,48
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:36:09","SAFE1",469,48
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:36:09","F2",470,48
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:36:09","FK1",471,48
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:36:09","Ball Position",472,48
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:36:38","Restart",473,49
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:36:47","SAFE2",474,49
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:36:48","POSSIBLE_TI",475,49
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:36:49","TI2",476,49
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:36:59","Restart",477,49
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:37:01","AT2",478,49
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:37:13","SAFE2",479,50
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:37:14","POSSIBLE_TI",480,50
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:37:15","TI2",481,50
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:37:30","Restart",482,50
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:37:43","AT2",483,50
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:37:43","DANGER2",484,50
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:37:43","DAT2",485,50
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:37:43","CLS",486,50
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:37:44","AT2",487,50
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:38:13","SAFE2",488,50
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:38:26","AT2",489,51
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:38:35","Possible Free Kick",490,51
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:38:35","F1",492,51
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:38:35","FK2",493,51
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:38:36","DANGER2",494,51
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:38:36","DFK2",495,51
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:38:36","Ball Position",496,51
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:39:23","Restart",497,52
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:39:28","SHB2",498,52
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:39:29","SAFE1",499,52
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:39:30","GK1",500,52
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:39:57","Restart",501,52
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:40:03","POSSIBLE_TI",502,52
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:40:03","TI2",503,52
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:40:04","SAFE2",504,52
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:40:07","Restart",505,52
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:40:19","AT2",506,53
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:40:30","SAFE1",507,53
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:40:44","Possible Free Kick",508,53
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:40:44","POSSIBLE_CARDS",510,53
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:40:56","YC2",511,53
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:40:57","CONF_YC2",512,53
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:41:00","Scorer",513,53
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:41:01","F2",514,53
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:41:01","FK1",515,53
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:41:01","DANGER1",516,53
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:41:01","DFK1",517,53
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:41:01","Ball Position",518,53
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:41:11","Restart",519,53
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:41:12","SAFE1",520,53
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:41:22","AT1",521,54
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:41:28","DANGER1",522,54
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:41:28","DAT1",523,54
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:41:44","Player_DATA_CONFIRMED",524,54
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:41:58","Possible Free Kick",525,54
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:42:01","POSSIBLE_CARDS",527,54
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:42:16","YC1",528,55
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:42:20","CONF_YC1",529,55
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:42:20","Scorer",530,55
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:42:20","SAFE2",531,55
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:42:20","F1",532,55
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:42:20","FK2",533,55
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:42:20","Ball Position",534,55
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:42:30","Restart",535,55
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:42:35","Player_DATA_CONFIRMED",536,55
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:42:47","AT2",537,55
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:42:52","DANGER2",538,55
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:42:52","DAT2",539,55
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:43:09","BLOCKED2",540,55
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:43:11","Scout offline",541,55
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:43:19","Transmission Online",542,56
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:43:19","Start score update",543,56
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:43:19","Statistic confirmation",544,56
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:43:19","Score update finished",545,56
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:43:23","DANGER2",546,56
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:43:23","POSSIBLE_TI",547,56
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:43:23","NO_TI",548,56
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:43:33","SAFE2",549,56
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:43:36","AT2",550,56
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:43:47","SAFE1",551,56
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:43:49","AT1",552,56
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:43:53","DANGER1",553,56
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:43:53","DAT1",554,56
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:44:22","SAFE1",555,57
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:44:35","AT1",556,57
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:44:45","DANGER1",557,57
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:44:45","DAT1",558,57
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:44:57","Possible Free Kick",559,57
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:45:01","F2",561,57
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:45:01","FK1",562,57
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:45:01","DFK1",563,57
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:45:01","Ball Position",564,57
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:45:46","Restart",565,58
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:45:49","SHG1",566,58
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:45:50","SAFE2",567,58
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:46:28","AT2",568,59
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:46:38","DANGER2",569,59
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:46:38","DAT2",570,59
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:47:06","Possible Free Kick",571,59
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:47:07","F1",573,59
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:47:07","FK2",574,59
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:47:07","DFK2",575,59
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:47:07","Ball Position",576,59
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:47:07","POSSIBLE_CARDS",577,59
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:47:07","Scout offline",578,59
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:47:14","Transmission Online",579,60
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:47:14","Start score update",580,60
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:47:17","YC1",581,60
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:47:19","CONF_YC1",582,60
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:47:19","Scorer",583,60
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:47:20","Score update finished",584,60
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:47:23","Possible Free Kick",585,60
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:47:24","Restart",587,60
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:47:24","F1",588,60
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:47:24","FK2",589,60
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:47:24","DFK2",590,60
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:47:24","Ball Position",591,60
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:47:53","Restart",592,60
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:47:58","PCR2",593,60
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:48:03","CR2",594,60
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:48:03","Ball Position",595,60
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:48:15","Scorer",596,61
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:48:15","Player_DATA_CONFIRMED",597,61
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:48:23","Restart",598,61
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:48:32","PCR2",599,61
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:48:40","SHB2",600,61
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:48:42","NCR2",601,61
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:48:42","SAFE1",602,61
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:48:43","GK1",603,61
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:49:00","Restart",604,61
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:49:02","AT1",605,61
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:49:07","Possible Free Kick",606,61
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:49:08","SAFE2",608,61
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:49:08","F1",609,61
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:49:08","FK2",610,61
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:49:09","Ball Position",611,61
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:49:11","Restart",612,61
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:49:12","CLS",613,61
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:49:27","Restart",614,62
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:49:46","AT2",615,62
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:49:49","SAFE1",616,62
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:49:51","AT1",617,62
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:49:54","DANGER1",618,62
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:49:54","DAT1",619,62
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:50:27","PPEN",620,63
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:50:27","PPEN1",621,63
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:50:31","No PEN",622,63
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:50:34","SAFE2",623,63
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:50:41","AT2",624,63
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:50:41","DANGER2",625,63
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:50:41","DAT2",626,63
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:50:52","SAFE1",627,63
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:50:52","GK1",628,63
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:51:14","SUB1",629,64
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:52:01","Restart",630,64
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:52:09","SAFE2",631,64
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:52:10","POSSIBLE_TI",632,64
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:52:10","TI2",633,64
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:52:14","Player_DATA_CONFIRMED",634,65
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:52:20","Restart",635,65
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:52:24","AT2",636,65
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:52:33","SAFE2",637,65
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:53:05","AT1",638,65
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:53:05","POSSIBLE_TI",639,65
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:53:06","TI1",640,65
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:53:14","Restart",641,66
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:53:18","SAFE2",642,66
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:53:20","AT2",643,66
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:53:27","POSSIBLE_TI",644,66
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:53:29","TI2",645,66
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:53:37","Restart",646,66
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:53:50","SAFE2",647,66
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:54:00","AT2",648,66
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:54:08","SAFE2",649,66
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:54:10","AT2",650,66
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:54:42","SAFE1",651,67
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:54:43","GK1",652,67
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:55:07","Restart",653,67
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:55:16","AT1",654,68
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:55:22","DANGER1",655,68
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:55:22","DAT1",656,68
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:55:36","SHG1",657,68
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:55:36","SAFE2",658,68
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:55:50","AT2",659,68
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:55:53","DANGER2",660,68
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:55:53","DAT2",661,68
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:56:12","SHG2",662,68
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:56:12","SAFE1",663,68
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:56:32","AT1",664,69
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:56:39","POSSIBLE_TI",665,69
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:56:42","TI2",666,69
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:56:48","SAFE2",667,69
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:56:49","Restart",668,69
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:57:01","AT2",669,69
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:57:04","SAFE1",670,69
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:57:09","AT1",671,69
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:57:14","DANGER1",672,70
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:57:14","DAT1",673,70
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:57:32","SAFE2",674,70
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:57:33","AT2",675,70
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:57:52","DANGER2",676,70
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:57:52","DAT2",677,70
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:58:01","SAFE1",678,70
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:58:02","GK1",679,70
+1054605,"Southampton FC","Manchester United FC","12/01/2018 18:58:22","Injury Break",680,71
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:00:12","SUB2",681,72
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:00:18","Restart",682,73
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:00:33","AT1",683,73
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:00:34","DANGER1",684,73
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:00:34","DAT1",685,73
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:00:47","SAFE2",686,73
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:00:47","Player_DATA_CONFIRMED",687,73
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:00:48","AT2",688,73
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:00:51","DANGER2",689,73
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:00:51","DAT2",690,73
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:01:12","SAFE1",691,73
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:01:32","AT1",692,74
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:01:41","DANGER1",693,74
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:01:41","DAT1",694,74
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:01:46","POSSIBLE_TI",695,74
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:01:47","TI1",696,74
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:01:57","Restart",697,74
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:02:30","SHB1",698,75
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:02:31","SAFE2",699,75
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:02:32","GK2",700,75
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:02:57","Restart",701,75
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:03:10","AT1",702,75
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:03:12","DANGER1",703,75
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:03:12","DAT1",704,75
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:03:16","SHG1",705,76
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:03:17","SAFE2",706,76
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:04:10","SAFE1",707,76
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:04:12","GK1",708,76
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:04:28","SUB2",709,77
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:04:49","Restart",710,77
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:04:56","AT1",711,77
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:05:01","DANGER1",712,77
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:05:01","DAT1",713,77
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:05:02","POSSIBLE_TI",714,77
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:05:06","TI2",715,77
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:05:06","Restart",716,77
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:05:09","SAFE2",717,77
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:05:11","AT2",718,77
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:05:14","SAFE1",719,78
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:05:15","Player_DATA_CONFIRMED",720,78
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:05:23","AT1",721,78
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:05:27","DANGER1",722,78
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:05:27","DAT1",723,78
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:06:35","SAFE2",724,79
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:06:48","Possible Free Kick",725,79
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:06:51","F2",727,79
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:06:51","FK1",728,79
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:06:51","DANGER1",729,79
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:06:51","DFK1",730,79
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:06:51","Ball Position",731,79
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:06:56","Restart",732,79
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:07:12","SAFE2",733,79
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:07:16","AT1",734,80
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:07:20","DANGER1",735,80
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:07:20","DAT1",736,80
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:07:22","PCR1",737,80
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:07:24","CR1",738,80
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:07:44","Ball Position",739,80
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:08:23","Restart",740,81
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:08:28","SHB1",741,81
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:08:29","SAFE2",742,81
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:08:29","GK2",743,81
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:08:40","Restart",744,81
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:08:49","AT2",745,81
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:08:59","POSSIBLE_TI",746,81
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:09:00","TI2",747,81
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:09:10","Restart",748,81
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:09:11","SAFE2",749,81
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:09:16","AT2",750,82
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:09:21","DANGER2",751,82
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:09:21","DAT2",752,82
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:09:23","SAFE1",753,82
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:09:24","GK1",754,82
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:09:53","Restart",755,82
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:09:54","AT1",756,82
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:10:05","POSSIBLE_TI",757,82
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:10:06","TI2",758,82
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:10:08","SAFE2",759,82
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:10:14","Restart",760,83
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:10:15","AT2",761,83
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:10:20","DANGER2",762,83
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:10:20","DAT2",763,83
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:10:24","POSSIBLE_TI",764,83
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:10:25","TI2",765,83
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:10:35","Restart",766,83
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:10:51","SAFE1",767,83
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:10:53","AT1",768,83
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:10:56","DANGER1",769,83
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:10:56","DAT1",770,83
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:11:06","BLOCKED1",771,83
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:11:22","Injury Break",772,84
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:12:26","Referee Ball",773,85
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:12:27","POSSIBLE_CARDS",774,85
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:12:29","NO_Cards",775,85
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:12:30","Restart",776,85
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:12:30","SAFE1",777,85
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:12:42","AT1",778,85
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:12:50","Possible Free Kick",779,85
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:12:52","F2",781,85
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:12:52","FK1",782,85
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:12:52","DANGER1",783,85
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:12:52","DFK1",784,85
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:12:52","Ball Position",785,85
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:12:55","Restart",786,85
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:13:22","SAFE2",787,86
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:13:23","AT2",788,86
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:13:24","SAFE1",789,86
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:13:27","AT1",790,86
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:13:38","DANGER1",791,86
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:13:38","DAT1",792,86
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:13:49","PCR1",793,86
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:13:51","NCR1",794,86
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:13:51","SAFE2",795,86
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:13:52","GK2",796,86
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:14:05","SUB2",797,86
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:14:14","Restart",798,87
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:14:44","Player_DATA_CONFIRMED",799,87
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:14:53","AT2",800,87
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:15:22","SAFE1",801,88
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:15:25","AT1",802,88
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:15:28","DANGER1",803,88
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:15:28","DAT1",804,88
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:15:32","POSSIBLE_TI",805,88
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:15:34","TI1",806,88
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:15:43","Restart",807,88
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:16:04","SAFE2",808,88
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:16:14","POSSIBLE_TI",809,89
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:16:17","TI1",810,89
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:16:20","Restart",811,89
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:16:21","SAFE1",812,89
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:16:26","AT1",813,89
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:16:28","POSSIBLE_TI",814,89
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:16:30","TI2",815,89
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:16:48","Restart",816,89
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:16:50","SAFE2",817,89
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:16:51","POSSIBLE_TI",818,89
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:16:51","TI2",819,89
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:17:10","Restart",820,89
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:17:32","AT2",821,90
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:17:38","DANGER2",822,90
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:17:38","DAT2",823,90
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:17:51","Possible Free Kick",824,90
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:17:55","F1",826,90
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:17:55","FK2",827,90
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:17:55","DFK2",828,90
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:17:55","Ball Position",829,90
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:18:19","Extra Time",830,91
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:18:37","Restart",831,91
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:18:40","SAFE1",832,91
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:19:00","AT1",833,91
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:19:04","SAFE2",834,91
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:19:06","AT2",835,91
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:19:09","DANGER2",836,91
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:19:09","DAT2",837,91
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:19:11","POSSIBLE_TI",838,91
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:19:12","TI2",839,91
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:19:20","Restart",840,92
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:19:30","POSSIBLE_TI",841,92
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:19:30","TI2",842,92
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:19:39","SUB1",843,92
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:20:23","Restart",844,93
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:20:24","POSSIBLE_TI",845,93
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:20:26","TI1",846,93
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:20:45","Restart",847,93
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:20:45","SAFE2",848,93
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:20:49","AT2",849,93
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:20:54","SAFE1",850,93
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:20:56","AT1",851,93
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:20:59","DANGER1",852,93
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:20:59","DAT1",853,93
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:21:02","Possible Free Kick",854,93
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:21:07","POSSIBLE_CARDS",856,93
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:21:13","YC2",857,94
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:21:15","Player_DATA_CONFIRMED",858,94
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:21:15","CONF_YC2",859,94
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:21:19","Scorer",860,94
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:21:22","F2",861,94
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:21:22","FK1",862,94
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:21:22","DFK1",863,94
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:21:22","Ball Position",864,94
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:21:37","Player_DATA_CONFIRMED",865,94
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:22:01","Restart",866,94
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:22:04","SHB1",867,94
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:22:05","SAFE2",868,94
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:22:06","GK2",869,94
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:22:18","Restart",870,95
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:22:19","AT2",871,95
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:22:28","DANGER2",872,95
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:22:28","DAT2",873,95
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:22:31","POSSIBLE_TI",874,95
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:22:33","TI2",875,95
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:22:36","Restart",876,95
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:22:47","Possible Free Kick",877,95
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:22:48","F1",879,95
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:22:48","FK2",880,95
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:22:48","DFK2",881,95
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:22:48","Ball Position",882,95
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:22:49","POSSIBLE_CARDS",883,95
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:22:53","YC1",884,95
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:22:54","CONF_YC1",885,95
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:23:02","Scorer",886,95
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:23:19","Restart",887,96
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:23:25","Stop RT2",888,96
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:23:25","Stop Game",889,96
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:23:32","CONF_PERIOD_SCORE",890,95
+1054605,"Southampton FC","Manchester United FC","12/01/2018 19:23:44","Player_DATA_CONFIRMED",891,95

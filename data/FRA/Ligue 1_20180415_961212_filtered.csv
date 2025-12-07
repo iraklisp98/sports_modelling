@@ -1,0 +1,955 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 14:06:22","Lineup changed",0,0
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 14:11:09","Transmission Online",1,0
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 14:11:09","Scout in Stadion",2,0
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 14:32:00","GCC",3,0
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 14:55:13","Jersey Changed",4,0
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 14:57:10","Jersey Changed",5,0
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 14:58:09","Players are coming out",6,0
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 14:58:55","Players lined up",7,0
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:00:29","Minute of silent",8,0
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:01:47","System Message",9,0
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:02:14","Game about to start",10,0
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:02:59","Start RT1 Team 1",11,1
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:03:04","AT1",12,1
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:03:07","POSSIBLE_TI",13,1
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:03:08","TI2",14,1
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:03:13","System Message",15,1
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:03:19","Restart",16,1
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:03:25","SAFE1",17,1
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:03:28","AT1",18,1
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:03:32","DANGER1",19,1
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:03:32","DAT1",20,1
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:03:37","GOAL1",21,1
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:04:27","CONF_GOAL1",22,2
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:04:30","Scorer",23,2
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:04:31","KO2",24,2
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:04:31","SAFE2",25,2
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:04:43","Player_DATA_CONFIRMED",26,2
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:04:49","AT2",27,2
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:04:49","DANGER2",28,2
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:04:49","DAT2",29,2
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:04:54","PCR2",30,2
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:05:08","CR2",31,3
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:05:14","Ball Position",32,3
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:05:23","Restart",33,3
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:05:29","PCR2",34,3
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:05:38","CR2",35,3
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:05:40","Ball Position",36,3
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:05:44","SHB2",37,3
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:05:45","Restart",38,3
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:05:48","PCR2",39,3
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:05:55","NCR2",40,3
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:05:57","SHB2",41,3
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:05:58","SAFE1",42,3
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:06:16","GK1",43,4
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:06:17","Restart",44,4
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:06:17","Assist",45,4
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:06:22","AT2",46,4
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:06:22","DANGER2",47,4
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:06:22","DAT2",48,4
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:06:26","Possible Free Kick",49,4
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:06:29","SAFE1",51,4
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:06:29","O2",52,4
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:06:29","FK1",53,4
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:06:29","Ball Position",54,4
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:06:50","Restart",55,4
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:06:54","AT1",56,4
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:06:57","POSSIBLE_TI",57,4
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:06:58","TI2",58,4
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:07:04","Restart",59,5
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:07:12","DANGER1",60,5
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:07:12","DAT1",61,5
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:07:20","POSSIBLE_TI",62,5
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:07:21","TI1",63,5
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:07:23","Restart",64,5
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:07:26","POSSIBLE_TI",65,5
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:07:27","TI1",66,5
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:07:35","Restart",67,5
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:07:54","POSSIBLE_TI",68,5
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:07:55","TI1",69,5
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:08:08","Restart",70,6
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:08:16","SAFE2",71,6
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:08:17","GK2",72,6
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:08:20","Restart",73,6
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:08:37","AT1",74,6
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:08:37","SAFE2",75,6
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:08:43","AT2",76,6
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:08:57","DANGER2",77,6
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:08:57","DAT2",78,6
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:09:08","PCR2",79,7
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:09:18","NCR2",80,7
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:09:22","SHB2",81,7
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:09:23","SAFE1",82,7
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:09:24","GK1",83,7
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:09:35","Restart",84,7
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:09:39","AT1",85,7
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:09:54","SAFE2",86,7
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:10:20","AT2",87,8
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:10:26","DANGER2",88,8
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:10:26","DAT2",89,8
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:10:37","POSSIBLE_TI",90,8
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:10:41","TI1",91,8
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:10:45","Restart",92,8
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:10:50","POSSIBLE_TI",93,8
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:10:52","TI2",94,8
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:11:03","Restart",95,9
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:11:04","SAFE2",96,9
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:11:20","AT1",97,9
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:11:21","DANGER1",98,9
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:11:21","DAT1",99,9
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:11:32","POSSIBLE_TI",100,9
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:11:33","TI1",101,9
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:11:49","Restart",102,9
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:12:06","SAFE2",103,10
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:12:06","AT2",104,10
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:12:07","DANGER2",105,10
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:12:07","DAT2",106,10
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:12:11","Possible Free Kick",107,10
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:12:31","F1",109,10
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:12:31","FK2",110,10
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:12:31","DFK2",111,10
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:12:31","Ball Position",112,10
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:13:06","Restart",113,11
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:13:09","GOAL2",114,11
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:13:45","CONF_GOAL2",115,11
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:13:56","Scorer",116,11
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:13:56","KO1",117,11
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:13:56","SAFE1",118,11
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:14:03","CLS",119,12
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:14:17","Player_DATA_CONFIRMED",120,12
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:14:17","Assist",121,12
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:14:23","Scorer",122,12
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:14:23","KO1",123,12
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:14:23","SAFE1",124,12
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:14:26","POSSIBLE_TI",125,12
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:14:28","TI1",126,12
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:14:29","Restart",127,12
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:14:33","AT1",128,12
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:14:33","DANGER1",129,12
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:14:33","DAT1",130,12
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:14:45","POSSIBLE_TI",131,12
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:14:48","TI2",132,12
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:14:50","SAFE2",133,12
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:14:50","Restart",134,12
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:15:03","AT2",135,13
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:15:11","SAFE1",136,13
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:15:11","AT1",137,13
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:15:13","DANGER1",138,13
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:15:13","DAT1",139,13
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:16:12","PCR1",140,14
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:16:19","NCR1",141,14
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:16:22","SHB1",142,14
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:16:23","SAFE2",143,14
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:16:24","GK2",144,14
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:16:30","Restart",145,14
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:16:51","AT2",146,14
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:16:52","DANGER2",147,14
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:16:52","DAT2",148,14
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:16:54","POSSIBLE_TI",149,14
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:17:00","TI2",150,15
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:17:01","Restart",151,15
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:17:19","SAFE2",152,15
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:17:20","AT2",153,15
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:17:21","DANGER2",154,15
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:17:21","DAT2",155,15
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:17:41","POSSIBLE_TI",156,15
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:17:44","TI1",157,15
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:17:58","Restart",158,15
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:18:00","SAFE2",159,16
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:18:31","AT2",160,16
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:18:33","DANGER2",161,16
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:18:33","DAT2",162,16
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:18:41","Possible Free Kick",163,16
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:18:45","F1",165,16
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:18:45","FK2",166,16
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:18:45","DFK2",167,16
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:18:45","Ball Position",168,16
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:18:46","POSSIBLE_CARDS",169,16
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:19:15","NO_Cards",170,17
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:20:05","Restart",171,18
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:20:07","PCR2",172,18
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:20:23","CR2",173,18
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:20:24","Ball Position",174,18
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:20:26","SHB2",175,18
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:20:30","Restart",176,18
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:20:53","SAFE1",177,18
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:20:54","Possible Free Kick",178,18
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:20:56","F2",180,18
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:20:56","FK1",181,18
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:20:56","Ball Position",182,18
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:21:02","Restart",183,19
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:21:05","AT1",184,19
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:21:13","DANGER1",185,19
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:21:13","DAT1",186,19
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:21:25","PCR1",187,19
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:21:38","CR1",188,19
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:21:41","Ball Position",189,19
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:21:50","Restart",190,19
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:21:57","SAFE2",191,19
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:22:03","Possible Free Kick",192,20
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:22:06","F1",194,20
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:22:06","FK2",195,20
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:22:06","Ball Position",196,20
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:22:09","Restart",197,20
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:22:32","AT2",198,20
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:22:33","DANGER2",199,20
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:22:33","DAT2",200,20
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:22:51","POSSIBLE_TI",201,20
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:22:52","TI2",202,20
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:22:56","Restart",203,20
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:23:22","PCR2",204,21
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:23:47","NCR2",205,21
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:23:49","SHB2",206,21
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:23:50","SAFE1",207,21
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:23:52","GK1",208,21
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:23:58","Restart",209,21
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:24:07","AT1",210,22
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:24:15","Possible Free Kick",211,22
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:24:19","F2",213,22
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:24:19","FK1",214,22
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:24:20","DANGER1",215,22
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:24:20","DFK1",216,22
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:24:20","Ball Position",217,22
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:24:38","Restart",218,22
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:24:42","PCR1",219,22
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:24:44","NCR1",220,22
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:24:45","SAFE2",221,22
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:24:48","GK2",222,22
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:24:49","Restart",223,22
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:25:15","AT2",224,23
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:25:21","SAFE1",225,23
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:25:22","AT1",226,23
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:25:26","SAFE2",227,23
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:25:26","AT2",228,23
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:25:28","DANGER2",229,23
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:25:28","DAT2",230,23
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:25:39","SAFE1",231,23
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:25:40","POSSIBLE_TI",232,23
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:25:49","TI1",233,23
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:25:50","Restart",234,23
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:26:06","Possible Free Kick",235,24
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:26:09","F2",237,24
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:26:09","FK1",238,24
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:26:09","DANGER1",239,24
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:26:09","DFK1",240,24
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:26:09","Ball Position",241,24
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:26:25","Restart",242,24
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:26:31","PCR1",243,24
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:26:37","NCR1",244,24
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:26:39","SHB1",245,24
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:26:40","SAFE2",246,24
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:26:41","GK2",247,24
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:26:42","Restart",248,24
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:26:52","AT2",249,24
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:27:19","SAFE1",250,25
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:27:23","AT1",251,25
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:27:27","POSSIBLE_TI",252,25
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:27:37","TI1",253,25
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:27:39","Restart",254,25
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:27:56","Possible Free Kick",255,25
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:27:57","SAFE2",257,25
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:27:57","F1",258,25
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:27:57","FK2",259,25
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:27:58","Ball Position",260,25
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:27:58","Restart",261,25
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:27:59","AT2",262,26
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:27:59","DANGER2",263,26
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:27:59","DAT2",264,26
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:28:17","PCR2",265,26
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:28:24","CR2",266,26
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:28:28","Ball Position",267,26
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:28:43","Restart",268,26
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:29:10","SAFE1",269,27
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:29:18","SAFE2",270,27
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:29:19","AT2",271,27
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:29:19","DANGER2",272,27
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:29:19","DAT2",273,27
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:29:23","POSSIBLE_CARDS",274,27
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:29:25","Possible Free Kick",275,27
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:29:38","YC1",277,27
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:29:50","CONF_YC1",278,27
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:29:50","Scorer",279,27
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:29:55","No Free Kick",280,27
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:30:15","Possible Free Kick",281,28
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:30:18","F1",283,28
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:30:18","FK2",284,28
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:30:18","DFK2",285,28
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:30:18","Ball Position",286,28
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:30:42","Restart",287,28
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:30:45","PCR2",288,28
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:30:48","Player_DATA_CONFIRMED",289,28
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:30:54","NCR2",290,28
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:30:57","SAFE1",291,28
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:31:05","GK1",292,29
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:31:16","Restart",293,29
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:31:20","AT1",294,29
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:31:25","POSSIBLE_TI",295,29
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:31:28","TI2",296,29
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:31:37","Restart",297,29
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:31:46","Possible Free Kick",298,29
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:31:50","POSSIBLE_CARDS",300,29
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:32:10","NO_Cards",301,30
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:32:12","SAFE2",302,30
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:32:12","F1",303,30
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:32:12","FK2",304,30
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:32:12","Ball Position",305,30
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:32:13","Restart",306,30
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:32:23","AT2",307,30
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:32:48","SAFE1",308,30
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:32:49","AT1",309,30
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:32:51","DANGER1",310,30
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:32:51","DAT1",311,30
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:32:54","PCR1",312,30
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:33:04","CR1",313,31
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:33:06","Ball Position",314,31
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:33:14","Restart",315,31
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:33:32","SHG1",316,31
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:33:33","SAFE2",317,31
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:33:36","AT2",318,31
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:33:43","DANGER2",319,31
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:33:43","DAT2",320,31
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:33:59","SAFE1",321,31
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:34:12","AT1",322,32
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:34:13","Possible Free Kick",323,32
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:34:15","F2",325,32
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:34:15","FK1",326,32
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:34:16","DANGER1",327,32
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:34:16","DFK1",328,32
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:34:16","Ball Position",329,32
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:34:20","Restart",330,32
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:34:44","SAFE2",331,32
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:35:14","AT2",332,33
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:35:20","POSSIBLE_TI",333,33
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:35:30","TI1",334,33
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:35:32","Restart",335,33
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:35:41","SAFE2",336,33
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:36:02","AT2",337,34
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:36:16","DANGER2",338,34
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:36:16","DAT2",339,34
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:36:21","POSSIBLE_TI",340,34
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:36:22","TI2",341,34
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:36:30","Restart",342,34
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:36:43","Injury Break",343,34
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:37:35","Referee Ball",344,35
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:37:35","Restart",345,35
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:37:37","SAFE2",346,35
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:37:42","AT2",347,35
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:37:43","DANGER2",348,35
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:37:43","DAT2",349,35
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:37:56","SHG2",350,35
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:37:57","SAFE1",351,35
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:38:09","AT1",352,36
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:38:11","POSSIBLE_TI",353,36
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:38:13","TI2",354,36
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:38:14","Restart",355,36
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:38:28","SAFE2",356,36
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:38:32","AT2",357,36
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:38:33","DANGER2",358,36
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:38:33","DAT2",359,36
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:38:37","SAFE1",360,36
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:38:43","POSSIBLE_TI",361,36
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:38:47","TI2",362,36
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:38:51","Restart",363,36
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:39:07","POSSIBLE_TI",364,37
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:39:11","TI2",365,37
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:39:12","Restart",366,37
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:39:23","AT2",367,37
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:39:28","DANGER2",368,37
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:39:28","DAT2",369,37
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:39:43","POSSIBLE_TI",370,37
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:39:45","TI1",371,37
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:39:54","Restart",372,37
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:40:00","POSSIBLE_TI",373,38
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:40:01","TI2",374,38
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:40:04","Restart",375,38
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:40:09","AT2",376,38
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:40:29","DANGER2",377,38
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:40:29","DAT2",378,38
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:40:36","Possible Free Kick",379,38
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:40:41","POSSIBLE_CARDS",381,38
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:41:00","NO_Cards",382,39
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:41:06","F1",383,39
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:41:06","FK2",384,39
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:41:06","DFK2",385,39
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:41:06","Ball Position",386,39
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:41:17","Restart",387,39
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:41:23","Possible Free Kick",388,39
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:41:31","SAFE1",390,39
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:41:31","F2",391,39
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:41:31","FK1",392,39
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:41:32","Ball Position",393,39
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:41:58","Restart",394,39
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:41:59","AT1",395,39
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:42:00","Possible Free Kick",396,40
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:42:02","F2",398,40
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:42:02","FK1",399,40
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:42:03","DANGER1",400,40
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:42:03","DFK1",401,40
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:42:03","Ball Position",402,40
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:42:11","Injury Break",403,40
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:43:12","CLS",404,41
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:43:13","CLS",405,41
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:43:17","Referee Ball",406,41
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:43:20","Restart",407,41
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:43:22","AT1",408,41
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:43:27","DANGER1",409,41
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:43:27","DAT1",410,41
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:43:29","Possible Free Kick",411,41
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:43:37","No Free Kick",413,41
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:43:40","SAFE2",414,41
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:43:42","GK2",415,41
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:43:43","Restart",416,41
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:43:58","AT1",417,41
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:43:59","DANGER1",418,41
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:43:59","DAT1",419,41
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:44:05","POSSIBLE_TI",420,42
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:44:09","TI1",421,42
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:44:10","Restart",422,42
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:44:16","SAFE2",423,42
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:44:24","SAFE1",424,42
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:44:42","AT1",425,42
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:44:43","DANGER1",426,42
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:44:43","DAT1",427,42
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:45:05","PCR1",428,43
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:45:13","NCR1",429,43
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:45:17","SHB1",430,43
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:45:18","SAFE2",431,43
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:45:19","GK2",432,43
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:45:20","Restart",433,43
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:45:25","AT2",434,43
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:45:26","DANGER2",435,43
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:45:26","DAT2",436,43
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:45:35","PCR2",437,43
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:45:40","CR2",438,43
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:45:42","Ball Position",439,43
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:46:00","Restart",440,44
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:46:05","PCR2",441,44
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:46:11","NCR2",442,44
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:46:13","SHB2",443,44
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:46:14","SAFE1",444,44
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:46:15","GK1",445,44
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:46:31","Restart",446,44
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:46:42","POSSIBLE_TI",447,44
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:46:43","TI2",448,44
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:46:46","Restart",449,44
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:46:52","AT2",450,44
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:46:54","DANGER2",451,44
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:46:54","DAT2",452,44
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:47:49","PCR2",453,45
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:47:59","CR2",454,45
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:48:01","Ball Position",455,46
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:48:03","SHG2",456,46
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:48:08","Restart",457,46
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:48:18","Extra Time",458,46
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:48:21","SAFE2",459,46
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:48:33","Possible Free Kick",460,46
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:48:36","POSSIBLE_CARDS",462,46
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:48:50","O2",463,46
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:48:50","FK1",464,46
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:48:50","Ball Position",465,46
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:48:54","Injury Break",466,46
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:49:11","YC2",467,47
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:49:24","CONF_YC2",468,47
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:49:24","Scorer",469,47
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:49:33","POSSIBLE_CARDS",470,47
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:50:04","Restart",471,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:50:08","NO_Cards",472,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:50:14","AT1",473,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:50:17","Player_DATA_CONFIRMED",474,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:50:21","Possible Free Kick",475,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:50:24","SAFE2",477,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:50:24","O1",478,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:50:24","FK2",479,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:50:24","Ball Position",480,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:50:25","Restart",481,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:50:32","Possible Free Kick",482,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:50:36","POSSIBLE_CARDS",484,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:50:37","NO_Cards",485,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:50:38","F1",486,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:50:38","FK2",487,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:50:38","Ball Position",488,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:50:39","Restart",489,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:50:40","AT2",490,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:50:44","DANGER2",491,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:50:44","DAT2",492,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:50:48","POSSIBLE_TI",493,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:50:48","TI2",494,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:50:49","Restart",495,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:50:56","DANGER2",496,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:51:07","Stop RT1",497,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 15:51:09","CONF_PERIOD_SCORE",498,45
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:00:07","Scorer",499,45
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:03:34","Players are coming out",500,45
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:04:18","Game about to start",501,45
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:04:54","Start RT2 Team 2",502,46
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:04:57","SAFE2",503,46
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:05:16","AT2",504,46
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:05:23","DANGER2",505,46
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:05:23","DAT2",506,46
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:05:25","PCR2",507,46
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:05:33","NCR2",508,46
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:05:34","SAFE1",509,46
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:05:41","GK1",510,46
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:05:47","Restart",511,46
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:05:50","AT1",512,46
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:06:05","DANGER1",513,47
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:06:05","DAT1",514,47
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:06:11","POSSIBLE_TI",515,47
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:06:24","TI1",516,47
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:06:28","Restart",517,47
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:06:35","SAFE2",518,47
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:06:35","AT2",519,47
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:06:38","DANGER2",520,47
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:06:38","DAT2",521,47
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:07:03","SAFE1",522,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:07:13","POSSIBLE_TI",523,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:07:14","TI1",524,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:07:35","Restart",525,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:07:44","AT1",526,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:07:44","DANGER1",527,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:07:44","DAT1",528,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:07:51","GOAL1",529,48
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:08:32","CONF_GOAL1",530,49
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:08:37","Scorer",531,49
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:08:37","KO2",532,49
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:08:37","SAFE2",533,49
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:08:55","AT2",534,50
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:08:55","DANGER2",535,50
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:08:55","DAT2",536,50
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:08:59","Possible Free Kick",537,50
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:09:03","POSSIBLE_CARDS",539,50
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:09:08","F1",540,50
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:09:08","FK2",541,50
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:09:08","DFK2",542,50
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:09:08","Ball Position",543,50
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:09:43","NO_Cards",544,50
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:09:45","Restart",545,50
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:09:52","SHG2",546,50
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:09:54","POSSIBLE_TI",547,51
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:09:55","TI2",548,51
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:09:56","Restart",549,51
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:10:12","SAFE2",550,51
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:10:17","Player_DATA_CONFIRMED",551,51
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:10:20","AT2",552,51
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:10:24","DANGER2",553,51
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:10:24","DAT2",554,51
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:10:54","SAFE1",555,51
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:11:03","AT2",556,52
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:11:04","DANGER2",557,52
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:11:04","DAT2",558,52
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:11:13","Possible Free Kick",559,52
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:11:16","SAFE1",561,52
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:11:16","O2",562,52
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:11:16","FK1",563,52
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:11:16","Ball Position",564,52
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:12:00","System Message",565,53
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:12:32","Restart",566,53
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:12:34","AT1",567,53
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:12:35","POSSIBLE_TI",568,53
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:12:36","TI2",569,53
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:12:40","Restart",570,53
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:12:44","DANGER1",571,53
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:12:44","DAT1",572,53
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:13:12","PCR1",573,54
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:13:14","NCR1",574,54
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:13:15","SAFE2",575,54
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:13:16","GK2",576,54
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:13:17","Restart",577,54
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:13:31","AT2",578,54
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:13:32","DANGER2",579,54
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:13:32","DAT2",580,54
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:13:35","Possible Free Kick",581,54
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:13:38","SAFE1",583,54
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:13:38","O2",584,54
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:13:38","FK1",585,54
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:13:39","Ball Position",586,54
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:14:01","Restart",587,55
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:14:05","AT1",588,55
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:14:06","DANGER1",589,55
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:14:06","DAT1",590,55
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:14:22","SAFE2",591,55
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:14:24","Possible Free Kick",592,55
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:14:27","F1",594,55
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:14:27","FK2",595,55
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:14:27","Ball Position",596,55
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:14:53","Restart",597,55
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:14:56","AT2",598,56
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:14:56","DANGER2",599,56
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:14:56","DAT2",600,56
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:15:00","SAFE1",601,56
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:15:00","AT1",602,56
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:15:02","DANGER1",603,56
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:15:02","DAT1",604,56
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:15:28","Possible Free Kick",605,56
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:15:31","SAFE2",607,56
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:15:31","O1",608,56
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:15:31","FK2",609,56
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:15:31","Ball Position",610,56
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:15:50","Restart",611,56
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:16:10","AT2",612,57
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:16:10","DANGER2",613,57
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:16:10","DAT2",614,57
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:16:11","POSSIBLE_TI",615,57
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:16:12","TI1",616,57
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:16:24","Restart",617,57
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:16:25","POSSIBLE_TI",618,57
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:16:26","TI1",619,57
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:16:37","CLS",620,57
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:16:39","Possible Free Kick",621,57
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:16:41","SAFE1",623,57
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:16:41","F2",624,57
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:16:41","FK1",625,57
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:16:41","Ball Position",626,57
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:16:42","Restart",627,57
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:16:55","POSSIBLE_TI",628,58
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:16:56","TI1",629,58
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:17:03","Restart",630,58
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:17:04","SAFE2",631,58
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:17:05","AT2",632,58
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:17:17","DANGER2",633,58
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:17:17","DAT2",634,58
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:17:36","SAFE2",635,58
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:17:41","AT2",636,58
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:17:47","DANGER2",637,58
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:17:47","DAT2",638,58
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:17:55","SAFE1",639,59
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:18:01","AT1",640,59
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:18:08","DANGER1",641,59
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:18:08","DAT1",642,59
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:18:18","AT2",643,59
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:18:28","Possible Free Kick",644,59
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:18:30","SAFE1",646,59
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:18:30","F2",647,59
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:18:30","FK1",648,59
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:18:30","Ball Position",649,59
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:18:55","POSSIBLE_CARDS",650,60
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:18:59","YC2",651,60
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:19:10","CONF_YC2",652,60
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:19:10","Scorer",653,60
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:19:23","SAFE2",654,60
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:19:24","Restart",655,60
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:19:26","AT2",656,60
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:19:30","DANGER2",657,60
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:19:30","DAT2",658,60
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:19:44","SAFE1",659,60
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:19:55","AT1",660,61
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:19:59","DANGER1",661,61
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:19:59","DAT1",662,61
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:20:02","Player_DATA_CONFIRMED",663,61
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:20:16","SAFE2",664,61
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:20:19","AT2",665,61
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:20:21","DANGER2",666,61
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:20:21","DAT2",667,61
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:20:36","SAFE1",668,61
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:20:46","AT1",669,61
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:20:46","DANGER1",670,61
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:20:46","DAT1",671,61
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:20:51","SHG1",672,61
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:20:54","SAFE2",673,62
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:21:00","AT2",674,62
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:21:01","DANGER2",675,62
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:21:01","DAT2",676,62
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:21:04","BLOCKED2",677,62
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:21:09","PCR2",678,62
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:22:04","CR2",679,63
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:22:07","Ball Position",680,63
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:22:09","SHG1",681,63
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:22:22","SUB1",682,63
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:22:26","System Message",683,63
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:22:28","Restart",684,63
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:22:31","SHG1",685,63
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:22:35","CLS",686,63
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:22:45","CLR",687,63
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:22:48","SHG2",688,63
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:23:00","SAFE2",689,64
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:23:02","AT2",690,64
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:23:05","Player_DATA_CONFIRMED",691,64
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:23:20","POSSIBLE_TI",692,64
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:23:25","TI2",693,64
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:23:30","Restart",694,64
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:23:58","POSSIBLE_TI",695,65
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:24:00","TI2",696,65
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:24:07","Restart",697,65
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:24:31","SAFE1",698,65
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:24:36","POSSIBLE_TI",699,65
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:24:38","TI2",700,65
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:24:39","Injury Break",701,65
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:24:48","POSSIBLE_CARDS",702,65
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:24:54","YC2",703,65
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:25:13","CONF_YC2",704,66
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:25:16","Scorer",705,66
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:25:20","Restart",706,66
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:25:20","SAFE1",707,66
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:25:27","Scorer",708,66
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:25:27","Player_DATA_CONFIRMED",709,66
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:25:36","POSSIBLE_TI",710,66
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:25:57","TI1",711,67
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:26:01","Restart",712,67
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:26:03","SAFE2",713,67
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:26:05","AT2",714,67
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:26:12","AT1",715,67
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:26:12","DANGER1",716,67
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:26:12","DAT1",717,67
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:26:21","PCR1",718,67
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:26:24","NCR1",719,67
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:26:25","SAFE2",720,67
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:26:26","GK2",721,67
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:26:32","Restart",722,67
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:26:39","AT2",723,67
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:26:44","DANGER2",724,67
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:26:44","DAT2",725,67
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:27:10","SAFE2",726,68
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:27:12","AT2",727,68
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:27:25","DANGER2",728,68
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:27:25","DAT2",729,68
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:27:28","PCR2",730,68
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:27:35","CR2",731,68
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:27:38","Ball Position",732,68
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:27:52","Restart",733,68
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:28:04","POSSIBLE_TI",734,69
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:28:06","TI2",735,69
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:28:32","SUB2",736,69
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:28:42","Restart",737,69
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:28:57","DANGER2",738,70
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:29:05","PCR2",739,70
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:29:14","NCR2",740,70
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:29:16","SHB2",741,70
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:29:17","SAFE1",742,70
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:29:18","GK1",743,70
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:29:37","Restart",744,70
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:29:46","SAFE2",745,70
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:29:47","AT2",746,70
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:29:52","DANGER2",747,70
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:29:52","DAT2",748,70
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:29:58","POSSIBLE_TI",749,71
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:29:58","TI2",750,71
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:30:01","Restart",751,71
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:30:18","Player_DATA_CONFIRMED",752,71
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:30:28","Possible Free Kick",753,71
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:30:29","POSSIBLE_CARDS",755,71
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:30:32","F1",756,71
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:30:32","FK2",757,71
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:30:32","DFK2",758,71
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:30:32","Ball Position",759,71
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:30:58","SUB2",760,72
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:31:14","Restart",761,72
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:31:27","SAFE2",762,72
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:31:32","AT2",763,72
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:31:39","SAFE1",764,72
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:31:44","AT1",765,72
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:31:50","DANGER1",766,72
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:31:50","DAT1",767,72
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:32:05","PCR1",768,73
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:32:10","NCR1",769,73
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:32:11","SAFE2",770,73
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:32:13","GK2",771,73
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:32:22","SUB_UPDATE",772,73
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:32:32","NO_Cards",773,73
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:32:44","SUB1",774,73
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:32:45","Restart",775,73
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:32:48","AT2",776,73
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:32:50","DANGER2",777,73
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:32:50","DAT2",778,73
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:32:56","SAFE1",779,74
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:32:59","AT2",780,74
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:33:00","DANGER2",781,74
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:33:00","DAT2",782,74
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:33:17","Player_DATA_CONFIRMED",783,74
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:33:24","Player_DATA_CONFIRMED",784,74
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:33:27","SAFE1",785,74
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:33:28","AT1",786,74
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:33:31","DANGER1",787,74
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:33:31","DAT1",788,74
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:33:55","SAFE2",789,75
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:33:59","AT2",790,75
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:34:00","DANGER2",791,75
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:34:00","DAT2",792,75
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:34:08","GOAL2",793,75
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:34:24","POSSIBLE_CARDS",794,75
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:34:34","YC1",795,75
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:34:42","CONF_YC1",796,75
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:34:42","Scorer",797,75
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:34:54","CONF_GOAL2",798,76
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:34:55","Scorer",799,76
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:34:55","KO1",800,76
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:34:55","SAFE1",801,76
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:34:58","Player_DATA_CONFIRMED",802,76
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:34:59","Player_DATA_CONFIRMED",803,76
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:35:08","AT1",804,76
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:35:13","DANGER1",805,76
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:35:13","DAT1",806,76
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:35:17","Assist",807,76
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:35:20","SAFE2",808,76
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:35:21","AT2",809,76
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:35:24","SAFE1",810,76
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:35:24","AT1",811,76
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:35:26","DANGER1",812,76
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:35:26","DAT1",813,76
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:35:35","PCR1",814,76
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:35:43","CR1",815,76
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:35:44","Ball Position",816,76
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:35:47","SHG1",817,76
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:36:11","Restart",818,77
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:36:17","SHG1",819,77
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:36:19","SAFE2",820,77
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:36:34","AT2",821,77
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:36:34","DANGER2",822,77
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:36:34","DAT2",823,77
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:36:39","POSSIBLE_TI",824,77
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:36:40","TI2",825,77
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:36:47","Restart",826,77
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:37:09","SAFE2",827,78
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:37:16","AT2",828,78
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:37:20","DANGER2",829,78
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:37:20","DAT2",830,78
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:37:34","SAFE1",831,78
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:37:36","AT1",832,78
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:37:37","SAFE2",833,78
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:37:38","AT2",834,78
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:37:40","DANGER2",835,78
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:37:40","DAT2",836,78
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:37:55","PCR2",837,79
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:37:58","NCR2",838,79
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:37:59","SHB2",839,79
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:38:22","SAFE1",840,79
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:38:23","GK1",841,79
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:38:24","Restart",842,79
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:38:28","SAFE2",843,79
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:38:47","AT2",844,79
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:39:20","DANGER2",845,80
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:39:20","DAT2",846,80
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:39:31","SAFE1",847,80
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:39:32","AT1",848,80
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:39:41","DANGER1",849,80
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:39:41","DAT1",850,80
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:39:50","SAFE2",851,80
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:39:52","AT2",852,80
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:39:57","DANGER2",853,81
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:39:57","DAT2",854,81
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:40:08","PCR2",855,81
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:40:13","NCR2",856,81
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:40:16","SHB2",857,81
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:40:16","SAFE1",858,81
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:40:18","GK1",859,81
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:40:35","Restart",860,81
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:40:40","AT1",861,81
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:40:44","SAFE2",862,81
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:40:56","AT2",863,82
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:40:57","POSSIBLE_TI",864,82
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:40:58","TI2",865,82
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:41:11","Restart",866,82
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:41:12","DANGER2",867,82
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:41:12","DAT2",868,82
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:41:32","SAFE1",869,82
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:41:50","AT1",870,82
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:42:11","POSSIBLE_TI",871,83
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:42:11","TI2",872,83
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:42:30","SUB1",873,83
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:42:52","Restart",874,83
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:43:10","AT2",875,84
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:43:11","DANGER2",876,84
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:43:11","DAT2",877,84
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:43:27","PCR2",878,84
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:43:32","NCR2",879,84
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:43:33","SAFE1",880,84
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:43:36","GK1",881,84
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:43:47","Player_DATA_CONFIRMED",882,84
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:43:50","Restart",883,84
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:43:57","POSSIBLE_TI",884,85
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:44:05","TI1",885,85
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:44:09","Restart",886,85
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:44:19","SAFE2",887,85
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:44:20","AT2",888,85
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:44:28","POSSIBLE_TI",889,85
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:44:34","TI2",890,85
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:44:36","Restart",891,85
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:44:38","DANGER2",892,85
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:44:38","DAT2",893,85
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:44:53","GOAL2",894,85
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:45:43","CONF_GOAL2",895,86
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:46:03","SUB2",896,87
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:46:10","Scorer",897,87
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:46:10","KO1",898,87
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:46:10","SAFE1",899,87
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:46:17","Scorer",900,87
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:46:17","Player_DATA_CONFIRMED",901,87
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:46:17","Assist",902,87
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:46:43","AT2",903,87
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:46:45","Player_DATA_CONFIRMED",904,87
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:46:54","DANGER2",905,88
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:46:54","DAT2",906,88
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:47:42","PCR2",907,88
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:47:50","NCR2",908,88
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:47:53","SHB2",909,88
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:47:54","SAFE1",910,88
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:47:56","GK1",911,89
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:47:57","Restart",912,89
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:47:58","AT1",913,89
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:48:12","SAFE2",914,89
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:48:13","AT2",915,89
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:48:36","AT2",916,89
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:48:37","Possible Free Kick",917,89
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:48:39","F1",919,89
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:48:39","FK2",920,89
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:48:39","DANGER2",921,89
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:48:39","DFK2",922,89
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:48:39","Ball Position",923,89
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:48:53","SAFE2",924,89
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:48:56","Restart",925,90
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:49:01","AT2",926,90
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:49:02","DANGER2",927,90
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:49:02","DAT2",928,90
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:49:05","Possible Free Kick",929,90
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:49:08","SAFE1",931,90
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:49:08","O2",932,90
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:49:08","FK1",933,90
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:49:08","Ball Position",934,90
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:49:18","AT1",935,90
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:49:44","POSSIBLE_TI",936,90
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:49:45","TI1",937,90
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:49:46","Restart",938,90
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:49:47","SAFE1",939,90
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:49:47","AT1",940,90
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:49:58","DANGER1",941,91
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:49:58","DAT1",942,91
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:50:07","PCR1",943,91
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:50:13","CR1",944,91
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:50:15","Ball Position",945,91
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:50:19","Extra Time",946,91
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:50:24","Restart",947,91
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:50:33","Possible Free Kick",948,91
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:50:49","SAFE2",950,91
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:50:49","F1",951,91
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:50:49","FK2",952,91
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:50:49","Ball Position",953,91
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:50:53","Injury Break",954,91
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:51:39","Restart",955,92
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:51:45","POSSIBLE_TI",956,92
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:51:46","TI2",957,92
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:51:58","Restart",958,93
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:52:06","AT2",959,93
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:52:09","POSSIBLE_TI",960,93
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:52:10","TI1",961,93
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:52:11","Restart",962,93
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:52:27","AT1",963,93
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:52:35","Possible Free Kick",964,93
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:52:37","SAFE2",966,93
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:52:37","F1",967,93
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:52:37","FK2",968,93
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:52:38","Ball Position",969,93
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:52:44","Restart",970,93
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:52:53","AT1",971,93
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:52:53","DANGER1",972,93
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:52:53","DAT1",973,93
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:53:11","PCR1",974,94
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:53:41","CR1",975,94
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:53:45","Ball Position",976,94
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:53:46","Restart",977,94
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:53:58","SHB1",978,95
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:54:21","SAFE2",979,95
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:54:33","GK2",980,95
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:54:34","Restart",981,95
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:54:37","Stop RT2",982,95
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:54:37","Stop Game",983,95
+961212,"ES Troyes AC","Olympique de Marseille","04/15/2018 16:54:39","CONF_PERIOD_SCORE",984,94

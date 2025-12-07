@@ -1,0 +1,943 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 19:00:49","Lineup changed",0,0
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 19:01:19","Transmission Online",1,0
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 19:01:19","Scout in Stadion",2,0
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 19:34:02","GCC",3,0
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 19:45:52","Jersey Changed",4,0
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 19:45:52","Jersey Changed",5,0
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 19:53:41","GCC",6,0
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 19:56:09","Players are coming out",7,0
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 19:56:29","Players lined up",8,0
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 19:56:47","Shake hands",9,0
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 19:58:23","Flip coin",10,0
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 19:58:44","Game about to start",11,0
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:00:01","Start RT1 Team 1",12,1
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:00:03","SAFE1",13,1
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:00:14","AT1",14,1
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:00:17","DANGER1",15,1
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:00:17","DAT1",16,1
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:00:20","SAFE2",17,1
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:00:31","AT2",18,1
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:01:03","SAFE2",19,2
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:01:16","AT2",20,2
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:01:26","Possible Free Kick",21,2
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:01:27","F1",23,2
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:01:27","FK2",24,2
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:01:27","Ball Position",25,2
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:01:27","DANGER2",26,2
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:01:27","DFK2",27,2
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:01:27","Restart",28,2
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:01:28","SAFE2",29,2
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:01:57","SAFE1",30,2
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:01:59","Adjust Game Clock",31,3
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:02:01","AT1",32,3
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:02:05","SAFE2",33,3
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:02:25","AT2",34,3
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:02:26","DANGER2",35,3
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:02:26","DAT2",36,3
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:02:45","POSSIBLE_TI",37,3
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:02:47","TI2",38,3
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:02:51","Restart",39,3
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:02:53","System Message",40,3
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:03:04","POSSIBLE_CARDS",41,4
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:03:21","SAFE1",42,4
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:03:22","GK1",43,4
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:03:23","NO_Cards",44,4
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:03:32","Restart",45,4
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:03:38","AT2",46,4
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:03:38","DANGER2",47,4
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:03:38","DAT2",48,4
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:03:58","SAFE2",49,5
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:04:05","AT2",50,5
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:04:07","SAFE2",51,5
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:04:10","AT2",52,5
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:04:19","SAFE2",53,5
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:04:26","AT2",54,5
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:04:31","DANGER2",55,5
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:04:31","DAT2",56,5
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:04:42","SAFE1",57,5
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:04:43","GK1",58,5
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:04:45","Restart",59,5
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:05:02","AT1",60,6
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:05:05","DANGER1",61,6
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:05:05","DAT1",62,6
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:05:23","SAFE2",63,6
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:05:28","AT2",64,6
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:05:43","DANGER2",65,6
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:05:43","DAT2",66,6
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:05:55","SHG2",67,6
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:05:58","POSSIBLE_TI",68,7
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:05:58","TI2",69,7
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:05:59","Restart",70,7
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:07:22","SAFE1",71,8
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:07:34","AT2",72,8
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:07:34","DANGER2",73,8
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:07:34","DAT2",74,8
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:07:58","SAFE1",75,9
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:08:01","SAFE2",76,9
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:08:13","AT2",77,9
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:08:20","DANGER2",78,9
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:08:20","DAT2",79,9
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:08:21","POSSIBLE_TI",80,9
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:08:22","TI2",81,9
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:08:23","Restart",82,9
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:08:47","SHB2",83,9
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:08:48","SAFE1",84,9
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:08:49","GK1",85,9
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:09:10","Restart",86,10
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:09:14","AT2",87,10
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:09:16","DANGER2",88,10
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:09:16","DAT2",89,10
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:09:27","SHG2",90,10
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:09:27","SAFE1",91,10
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:09:40","AT1",92,10
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:10:00","SAFE1",93,11
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:10:09","AT1",94,11
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:10:20","DANGER1",95,11
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:10:20","DAT1",96,11
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:10:24","SAFE2",97,11
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:10:25","GK2",98,11
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:10:35","Restart",99,11
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:10:51","AT2",100,11
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:11:19","DANGER2",101,12
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:11:19","DAT2",102,12
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:11:39","SHG2",103,12
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:12:28","Scout offline",104,13
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:12:31","Scout offline",105,13
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:12:37","Transmission Online",106,13
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:12:37","Start score update",107,13
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:12:37","Statistic confirmation",108,13
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:12:37","Score update finished",109,13
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:12:40","POSSIBLE_TI",110,13
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:12:41","TI2",111,13
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:12:41","Restart",112,13
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:12:45","SAFE2",113,13
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:12:48","AT2",114,13
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:12:58","DANGER2",115,14
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:12:58","DAT2",116,14
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:13:15","SHB2",117,14
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:13:19","SAFE1",118,14
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:13:19","GK1",119,14
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:13:32","Danger",120,14
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:13:32","Scout offline",121,14
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:13:43","Transmission Online",122,14
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:13:43","Start score update",123,14
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:13:43","Statistic confirmation",124,14
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:13:43","Score update finished",125,14
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:13:44","Restart",126,14
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:13:44","AT1",127,14
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:13:45","DANGER1",128,14
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:13:45","DAT1",129,14
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:13:51","SAFE2",130,14
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:13:53","AT2",131,14
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:13:53","SAFE1",132,14
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:14:02","AT1",133,15
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:14:10","Possible Free Kick",134,15
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:14:24","F2",136,15
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:14:24","FK1",137,15
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:14:25","Ball Position",138,15
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:14:25","DANGER1",139,15
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:14:25","DFK1",140,15
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:14:57","Restart",141,16
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:15:07","PCR1",142,16
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:15:13","NCR1",143,16
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:15:14","POSSIBLE_TI",144,16
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:15:17","TI1",145,16
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:15:18","Restart",146,16
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:15:41","PCR1",147,16
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:15:51","NCR1",148,16
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:15:53","Possible Free Kick",149,16
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:15:57","SAFE2",151,17
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:15:57","O1",152,17
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:15:57","FK2",153,17
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:15:57","Ball Position",154,17
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:16:08","Restart",155,17
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:16:09","AT2",156,17
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:16:17","Possible Free Kick",157,17
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:16:19","SAFE1",159,17
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:16:19","F2",160,17
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:16:19","FK1",161,17
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:16:19","Ball Position",162,17
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:16:21","Restart",163,17
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:16:31","AT1",164,17
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:16:32","DANGER1",165,17
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:16:32","DAT1",166,17
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:16:41","SHG1",167,17
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:16:42","SAFE2",168,17
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:16:54","AT2",169,17
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:16:56","DANGER2",170,18
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:16:56","DAT2",171,18
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:17:09","SAFE1",172,18
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:17:10","AT2",173,18
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:17:10","DANGER2",174,18
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:17:10","DAT2",175,18
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:17:17","SAFE1",176,18
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:17:21","AT1",177,18
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:17:23","DANGER1",178,18
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:17:23","DAT1",179,18
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:17:47","SAFE2",180,18
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:17:48","AT2",181,18
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:18:03","DANGER2",182,19
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:18:03","DAT2",183,19
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:18:16","SHB2",184,19
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:18:17","SAFE1",185,19
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:18:19","GK1",186,19
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:18:33","Restart",187,19
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:18:36","AT1",188,19
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:18:44","SAFE2",189,19
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:18:52","AT2",190,19
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:19:13","DANGER2",191,20
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:19:13","DAT2",192,20
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:19:37","SHG2",193,20
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:19:38","SAFE1",194,20
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:19:52","AT1",195,20
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:19:54","SAFE2",196,20
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:19:56","AT2",197,21
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:20:00","DANGER2",198,21
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:20:00","DAT2",199,21
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:20:45","Possible Free Kick",200,21
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:20:45","POSSIBLE_CARDS",202,21
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:21:00","NO_Cards",203,22
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:21:01","SAFE1",204,22
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:21:01","F2",205,22
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:21:01","FK1",206,22
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:21:01","Ball Position",207,22
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:21:02","Restart",208,22
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:21:06","AT1",209,22
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:21:19","SAFE1",210,22
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:21:23","AT1",211,22
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:21:32","SAFE1",212,22
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:21:54","AT2",213,22
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:21:59","DANGER2",214,23
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:21:59","DAT2",215,23
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:22:08","SAFE1",216,23
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:22:10","AT1",217,23
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:22:13","DANGER1",218,23
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:22:13","DAT1",219,23
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:22:24","SAFE1",220,23
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:22:30","AT1",221,23
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:22:36","SAFE1",222,23
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:22:38","AT1",223,23
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:22:46","SAFE1",224,23
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:22:57","AT1",225,24
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:22:58","DANGER1",226,24
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:22:58","DAT1",227,24
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:23:06","SAFE1",228,24
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:23:09","AT1",229,24
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:23:11","DANGER1",230,24
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:23:11","DAT1",231,24
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:23:18","SAFE2",232,24
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:23:19","GK2",233,24
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:23:23","Restart",234,24
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:23:26","AT1",235,24
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:23:26","DANGER1",236,24
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:23:26","DAT1",237,24
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:23:33","SAFE2",238,24
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:23:43","AT2",239,24
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:24:00","DANGER2",240,25
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:24:00","DAT2",241,25
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:25:07","SAFE1",242,26
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:25:08","AT1",243,26
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:25:09","DANGER1",244,26
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:25:09","DAT1",245,26
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:25:21","Possible Free Kick",246,26
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:25:25","POSSIBLE_CARDS",248,26
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:25:46","Scout offline",249,26
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:26:13","Transmission Online",250,27
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:26:13","Start score update",251,27
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:26:50","Statistic confirmation",252,27
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:26:50","Score update finished",253,27
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:26:51","Possible Free Kick",254,27
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:26:54","SAFE1",257,27
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:26:54","F1",258,27
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:26:54","FK2",259,27
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:26:55","Ball Position",260,27
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:26:57","NO_Cards",261,28
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:27:00","System Message",262,28
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:27:12","AT1",263,28
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:27:12","DANGER1",264,28
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:27:12","DAT1",265,28
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:27:12","Restart",266,28
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:27:36","SHG1",267,28
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:27:42","SAFE2",268,28
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:27:45","AT2",269,28
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:28:09","Start score update",270,29
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:28:09","Statistic confirmation",271,29
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:28:09","Score update finished",272,29
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:28:11","SAFE2",273,29
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:28:16","System Message",274,29
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:28:29","AT1",275,29
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:28:29","DANGER1",276,29
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:28:29","DAT1",277,29
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:28:33","SAFE2",278,29
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:28:38","SAFE1",279,29
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:28:56","AT1",280,30
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:29:00","SAFE2",281,30
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:29:03","AT2",282,30
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:29:06","SAFE1",283,30
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:29:19","SAFE2",284,30
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:29:21","AT2",285,30
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:29:30","DANGER2",286,30
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:29:30","DAT2",287,30
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:30:39","Possible Free Kick",288,31
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:30:39","POSSIBLE_CARDS",290,31
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:30:47","SAFE1",291,31
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:30:47","F2",292,31
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:30:47","FK1",293,31
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:30:47","Ball Position",294,31
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:30:48","NO_Cards",295,31
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:30:52","Restart",296,31
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:30:58","AT2",297,32
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:30:58","DANGER2",298,32
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:30:58","DAT2",299,32
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:31:01","Possible Free Kick",300,32
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:31:06","SAFE1",302,32
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:31:06","F2",303,32
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:31:06","FK1",304,32
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:31:06","Ball Position",305,32
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:31:14","Restart",306,32
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:31:18","AT1",307,32
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:31:21","DANGER1",308,32
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:31:21","DAT1",309,32
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:31:26","SAFE2",310,32
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:31:27","AT2",311,32
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:31:29","DANGER2",312,32
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:31:29","DAT2",313,32
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:31:43","SAFE1",314,32
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:31:44","AT1",315,32
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:31:49","SAFE2",316,32
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:31:52","AT2",317,32
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:31:58","DANGER2",318,33
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:31:58","DAT2",319,33
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:32:01","POSSIBLE_TI",320,33
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:32:02","TI1",321,33
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:32:10","Restart",322,33
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:32:19","SAFE2",323,33
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:32:24","AT2",324,33
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:32:44","SAFE1",325,33
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:32:45","AT1",326,33
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:32:55","DANGER1",327,33
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:32:55","DAT1",328,33
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:33:07","Possible Free Kick",329,34
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:33:14","SAFE2",331,34
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:33:14","F1",332,34
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:33:14","FK2",333,34
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:33:14","Ball Position",334,34
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:33:15","Restart",335,34
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:33:31","AT1",336,34
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:33:31","DANGER1",337,34
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:33:31","DAT1",338,34
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:33:48","SAFE2",339,34
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:33:50","GK2",340,34
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:33:50","Restart",341,34
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:33:59","AT1",342,35
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:34:06","DANGER1",343,35
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:34:06","DAT1",344,35
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:34:16","SAFE1",345,35
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:34:20","AT1",346,35
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:34:39","DANGER1",347,35
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:34:39","DAT1",348,35
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:34:49","SHB1",349,35
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:34:50","SAFE2",350,35
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:34:50","GK2",351,35
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:35:03","Restart",352,36
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:35:15","Possible Free Kick",353,36
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:35:27","F1",355,36
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:35:27","FK2",356,36
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:35:27","Ball Position",357,36
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:35:31","Restart",358,36
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:35:44","AT1",359,36
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:35:44","DANGER1",360,36
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:35:44","DAT1",361,36
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:35:55","SAFE2",362,37
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:35:58","AT2",363,37
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:36:00","DANGER2",364,37
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:36:00","DAT2",365,37
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:36:12","SAFE1",366,37
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:36:13","GK1",367,37
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:36:34","Restart",368,37
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:36:39","AT1",369,37
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:36:44","SAFE2",370,37
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:36:48","AT2",371,37
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:36:51","Possible Free Kick",372,37
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:36:53","POSSIBLE_CARDS",374,37
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:36:58","YC1",375,38
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:37:00","CONF_YC1",376,38
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:37:16","Scorer",377,38
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:37:43","Player_DATA_CONFIRMED",378,38
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:37:48","F1",379,38
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:37:48","FK2",380,38
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:37:48","Ball Position",381,38
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:37:48","DANGER2",382,38
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:37:48","DFK2",383,38
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:38:15","Scout offline",384,39
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:38:18","Scout offline",385,39
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:38:20","Transmission Online",386,39
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:38:20","Start score update",387,39
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:38:20","Statistic confirmation",388,39
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:38:20","Score update finished",389,39
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:38:21","SAFE1",390,39
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:38:22","Restart",391,39
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:38:22","GK1",392,39
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:38:43","Restart",393,39
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:38:47","AT1",394,39
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:39:12","SAFE1",395,40
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:39:17","AT1",396,40
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:39:24","DANGER1",397,40
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:39:24","DAT1",398,40
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:39:52","SAFE1",399,40
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:40:00","AT1",400,41
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:40:01","SAFE1",401,41
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:40:25","Possible Free Kick",402,41
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:40:27","POSSIBLE_CARDS",404,41
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:40:55","NO_Cards",405,42
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:40:58","F1",406,42
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:40:58","FK2",407,42
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:40:58","Ball Position",408,42
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:40:58","DANGER2",409,42
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:40:58","DFK2",410,42
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:40:58","Restart",411,42
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:41:00","SAFE2",412,42
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:41:20","AT2",413,42
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:41:23","DANGER2",414,42
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:41:23","DAT2",415,42
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:41:42","POSSIBLE_TI",416,42
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:41:45","TI1",417,42
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:41:53","Restart",418,42
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:42:33","POSSIBLE_TI",419,43
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:42:37","TI1",420,43
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:42:51","Restart",421,43
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:43:51","SHB2",422,44
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:43:52","SAFE1",423,44
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:43:53","GK1",424,44
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:44:05","Restart",425,45
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:44:08","AT1",426,45
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:44:12","SAFE2",427,45
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:44:14","AT2",428,45
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:44:18","SAFE1",429,45
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:44:19","AT1",430,45
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:44:27","DANGER1",431,45
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:44:27","DAT1",432,45
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:44:34","SAFE2",433,45
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:44:47","AT2",434,45
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:44:57","Stop RT1",435,45
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:45:09","CONF_PERIOD_SCORE",436,45
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:59:54","Transmission Online",437,45
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:59:54","Players are coming out",438,45
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 20:59:58","Game about to start",439,45
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:01:08","Start RT2 Team 2",440,46
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:01:09","SAFE2",441,46
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:01:32","AT2",442,46
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:01:40","SAFE2",443,46
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:01:51","SAFE1",444,46
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:01:54","AT1",445,46
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:01:56","DANGER1",446,46
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:01:56","DAT1",447,46
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:02:02","SHG1",448,46
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:02:05","POSSIBLE_TI",449,46
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:02:12","TI1",450,47
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:02:15","Restart",451,47
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:02:19","SAFE2",452,47
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:02:39","AT2",453,47
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:02:44","SAFE2",454,47
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:02:49","AT2",455,47
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:02:56","SAFE2",456,47
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:02:59","AT2",457,47
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:03:08","SAFE2",458,47
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:03:27","AT2",459,48
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:03:36","SAFE2",460,48
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:03:41","AT2",461,48
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:03:46","SAFE2",462,48
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:03:48","POSSIBLE_TI",463,48
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:03:55","TI1",464,48
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:03:57","Restart",465,48
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:03:58","SAFE1",466,48
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:04:04","AT2",467,48
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:04:04","DANGER2",468,48
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:04:04","DAT2",469,48
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:04:13","SAFE1",470,49
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:04:18","SAFE2",471,49
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:04:21","AT2",472,49
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:04:24","DANGER2",473,49
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:04:24","DAT2",474,49
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:04:45","POSSIBLE_TI",475,49
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:04:46","TI1",476,49
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:04:47","Restart",477,49
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:04:54","SAFE1",478,49
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:05:01","POSSIBLE_TI",479,49
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:05:02","TI2",480,49
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:05:14","Restart",481,50
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:05:22","AT1",482,50
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:05:23","DANGER1",483,50
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:05:23","DAT1",484,50
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:05:27","SAFE2",485,50
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:05:48","AT2",486,50
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:05:54","Possible Free Kick",487,50
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:05:55","F1",489,50
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:05:55","FK2",490,50
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:05:55","Ball Position",491,50
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:05:55","DANGER2",492,50
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:05:55","DFK2",493,50
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:05:56","Restart",494,50
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:06:00","SAFE2",495,50
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:06:01","AT2",496,50
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:06:06","DANGER2",497,50
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:06:06","DAT2",498,50
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:06:32","SAFE2",499,51
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:07:03","POSSIBLE_TI",500,51
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:07:05","TI1",501,51
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:07:06","Restart",502,51
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:07:08","SAFE1",503,51
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:07:29","Possible Free Kick",504,52
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:07:38","F2",506,52
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:07:38","FK1",507,52
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:07:38","Ball Position",508,52
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:07:38","DANGER1",509,52
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:07:38","DFK1",510,52
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:07:42","Restart",511,52
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:07:42","SAFE1",512,52
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:07:50","AT2",513,52
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:07:52","DANGER2",514,52
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:07:52","DAT2",515,52
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:08:11","POSSIBLE_TI",516,53
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:08:14","TI2",517,53
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:08:19","Restart",518,53
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:08:23","SAFE2",519,53
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:08:42","AT2",520,53
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:08:51","Possible Free Kick",521,53
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:08:52","SAFE1",523,53
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:08:52","F2",524,53
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:08:52","FK1",525,53
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:08:52","Ball Position",526,53
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:09:00","Restart",527,53
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:09:06","AT1",528,53
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:09:15","SAFE1",529,54
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:09:20","AT1",530,54
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:09:24","DANGER1",531,54
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:09:24","DAT1",532,54
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:09:30","PCR1",533,54
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:09:54","CR1",534,54
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:09:56","Ball Position",535,54
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:10:22","Restart",536,55
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:10:31","SHG1",537,55
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:10:31","SAFE2",538,55
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:10:36","AT2",539,55
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:10:38","DANGER2",540,55
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:10:38","DAT2",541,55
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:10:42","SAFE1",542,55
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:10:49","AT1",543,55
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:10:52","DANGER1",544,55
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:10:52","DAT1",545,55
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:11:28","SAFE2",546,56
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:11:30","GK2",547,56
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:11:40","Restart",548,56
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:11:43","AT1",549,56
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:11:43","DANGER1",550,56
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:11:43","DAT1",551,56
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:11:48","SAFE2",552,56
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:11:53","POSSIBLE_TI",553,56
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:11:54","TI1",554,56
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:12:02","Restart",555,56
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:12:04","SAFE1",556,56
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:12:14","AT1",557,57
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:12:18","SAFE1",558,57
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:12:39","AT1",559,57
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:12:44","SAFE2",560,57
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:12:50","AT2",561,57
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:13:01","DANGER2",562,57
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:13:01","DAT2",563,57
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:13:14","SAFE1",564,58
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:13:15","AT1",565,58
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:13:21","SAFE2",566,58
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:13:31","AT2",567,58
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:13:32","DANGER2",568,58
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:13:32","DAT2",569,58
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:13:40","SAFE1",570,58
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:13:55","AT1",571,58
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:13:59","SAFE1",572,58
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:14:07","POSSIBLE_TI",573,58
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:14:08","TI1",574,58
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:14:11","Restart",575,59
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:14:27","AT1",576,59
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:14:29","DANGER1",577,59
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:14:29","DAT1",578,59
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:14:38","SAFE2",579,59
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:14:45","AT1",580,59
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:14:45","DANGER1",581,59
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:14:45","DAT1",582,59
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:14:53","SAFE2",583,59
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:14:59","POSSIBLE_CARDS",584,59
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:15:05","NO_Cards",585,59
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:15:06","Possible Free Kick",586,59
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:15:07","F1",588,59
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:15:07","FK2",589,59
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:15:08","Ball Position",590,59
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:15:08","Restart",591,59
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:15:10","AT2",592,60
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:15:13","DANGER2",593,60
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:15:13","DAT2",594,60
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:15:50","SAFE1",595,60
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:15:51","GK1",596,60
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:16:12","SUB1",597,61
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:16:34","Restart",598,61
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:16:38","AT1",599,61
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:16:41","SAFE2",600,61
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:16:42","AT2",601,61
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:16:44","Player_DATA_CONFIRMED",602,61
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:16:48","SAFE1",603,61
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:16:57","AT1",604,61
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:17:04","POSSIBLE_TI",605,61
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:17:08","TI1",606,61
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:17:09","Restart",607,62
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:17:10","SAFE1",608,62
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:17:25","AT1",609,62
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:17:28","POSSIBLE_TI",610,62
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:17:29","TI2",611,62
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:17:30","Restart",612,62
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:17:32","SAFE2",613,62
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:17:42","AT2",614,62
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:17:47","SAFE2",615,62
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:17:52","AT2",616,62
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:18:06","DANGER2",617,62
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:18:06","DAT2",618,62
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:18:08","SAFE1",619,62
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:18:10","AT1",620,63
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:18:13","DANGER1",621,63
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:18:13","DAT1",622,63
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:18:15","SAFE2",623,63
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:18:25","AT2",624,63
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:18:29","DANGER2",625,63
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:18:29","DAT2",626,63
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:18:39","SAFE1",627,63
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:18:49","AT1",628,63
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:18:50","DANGER1",629,63
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:18:50","DAT1",630,63
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:19:06","SAFE2",631,63
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:19:08","AT2",632,63
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:19:14","DANGER2",633,64
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:19:14","DAT2",634,64
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:19:25","POSSIBLE_TI",635,64
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:19:28","TI2",636,64
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:19:29","Restart",637,64
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:19:45","SAFE2",638,64
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:19:57","AT2",639,64
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:20:02","DANGER2",640,64
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:20:02","DAT2",641,64
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:20:14","SHG2",642,65
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:20:15","SAFE1",643,65
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:20:37","POSSIBLE_TI",644,65
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:20:38","TI2",645,65
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:20:43","Restart",646,65
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:20:43","SAFE2",647,65
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:20:57","AT2",648,65
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:20:59","SAFE2",649,65
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:21:06","AT2",650,65
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:21:12","SAFE2",651,66
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:21:15","AT2",652,66
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:21:16","DANGER2",653,66
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:21:16","DAT2",654,66
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:21:24","SAFE1",655,66
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:21:29","AT1",656,66
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:21:30","DANGER1",657,66
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:21:30","DAT1",658,66
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:21:36","SAFE2",659,66
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:21:42","AT2",660,66
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:21:48","SAFE2",661,66
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:21:52","AT2",662,66
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:21:54","DANGER2",663,66
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:21:54","DAT2",664,66
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:22:00","SAFE1",665,66
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:22:16","POSSIBLE_TI",666,67
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:22:18","TI2",667,67
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:22:19","Restart",668,67
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:22:20","SAFE2",669,67
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:22:22","AT2",670,67
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:22:38","SAFE1",671,67
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:22:42","AT1",672,67
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:22:45","DANGER1",673,67
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:22:45","DAT1",674,67
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:23:02","SAFE2",675,67
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:23:16","AT2",676,68
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:23:28","DANGER2",677,68
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:23:28","DAT2",678,68
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:23:36","SAFE1",679,68
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:24:02","AT1",680,68
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:24:06","DANGER1",681,68
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:24:06","DAT1",682,68
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:24:14","POSSIBLE_TI",683,69
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:24:15","TI1",684,69
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:24:43","SUB2",685,69
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:24:51","SUB2",686,69
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:24:54","Restart",687,69
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:25:15","Possible Free Kick",688,70
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:25:24","SAFE2",691,70
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:25:25","F1",692,70
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:25:25","FK2",693,70
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:25:25","Ball Position",694,70
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:25:28","Restart",695,70
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:25:37","AT2",696,70
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:25:42","SAFE2",697,70
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:25:46","AT2",698,70
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:25:47","Player_DATA_CONFIRMED",699,70
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:25:47","DANGER2",700,70
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:25:47","DAT2",701,70
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:25:50","Player_DATA_CONFIRMED",702,70
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:26:07","SAFE1",703,70
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:26:08","GK1",704,70
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:26:33","Restart",705,71
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:26:38","AT1",706,71
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:26:47","SAFE2",707,71
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:27:01","POSSIBLE_TI",708,71
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:27:01","TI1",709,71
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:27:02","Restart",710,71
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:27:04","SAFE1",711,71
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:27:11","AT1",712,72
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:27:19","SAFE2",713,72
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:27:39","Possible Free Kick",714,72
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:27:47","F1",717,72
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:27:47","FK2",718,72
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:27:47","Ball Position",719,72
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:27:49","Restart",720,72
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:27:55","AT2",721,72
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:27:58","DANGER2",722,72
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:27:58","DAT2",723,72
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:28:12","SHB2",724,73
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:28:13","SAFE1",725,73
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:28:14","GK1",726,73
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:28:28","Restart",727,73
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:28:33","AT1",728,73
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:28:45","SAFE1",729,73
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:28:58","AT2",730,73
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:28:59","DANGER2",731,73
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:28:59","DAT2",732,73
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:29:05","SUB_UPDATE",733,73
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:29:09","PCR2",734,74
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:29:15","CR2",735,74
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:29:19","SHB2",736,74
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:29:22","Ball Position",737,74
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:29:38","Restart",738,74
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:29:47","SHB2",739,74
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:29:50","SAFE1",740,74
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:29:51","GK1",741,74
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:30:07","Restart",742,74
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:30:17","POSSIBLE_TI",743,75
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:30:17","TI1",744,75
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:30:20","Restart",745,75
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:30:28","AT1",746,75
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:30:31","DANGER1",747,75
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:30:31","DAT1",748,75
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:30:32","SAFE2",749,75
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:30:36","AT2",750,75
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:30:42","POSSIBLE_TI",751,75
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:30:43","TI2",752,75
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:30:43","Restart",753,75
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:30:48","POSSIBLE_TI",754,75
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:30:51","TI2",755,75
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:30:51","Restart",756,75
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:30:53","SAFE2",757,75
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:30:58","AT2",758,75
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:31:09","DANGER2",759,76
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:31:09","DAT2",760,76
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:31:26","SAFE2",761,76
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:31:31","AT2",762,76
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:31:42","DANGER2",763,76
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:31:42","DAT2",764,76
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:32:03","SAFE1",765,76
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:32:07","Possible Free Kick",766,76
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:32:07","POSSIBLE_CARDS",768,76
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:32:18","YC2",769,77
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:32:22","CONF_YC2",770,77
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:32:31","Scorer",771,77
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:33:09","F2",772,78
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:33:09","FK1",773,78
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:33:09","Ball Position",774,78
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:33:09","DANGER1",775,78
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:33:09","DFK1",776,78
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:33:13","Player_DATA_CONFIRMED",777,78
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:33:13","Injury Break",778,78
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:33:19","Restart",779,78
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:33:20","SAFE1",780,78
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:33:35","AT1",781,78
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:33:38","DANGER1",782,78
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:33:38","DAT1",783,78
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:33:44","GOAL1",784,78
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:34:04","Scorer",785,78
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:34:13","Player_DATA_CONFIRMED",786,79
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:34:43","Assist",787,79
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:34:53","CONF_GOAL1",788,79
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:34:53","KO2",789,79
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:34:53","SAFE2",790,79
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:35:01","AT2",791,79
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:35:05","DANGER2",792,79
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:35:05","DAT2",793,79
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:35:10","Possible Free Kick",794,80
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:35:25","F1",796,80
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:35:25","FK2",797,80
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:35:25","DFK2",798,80
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:35:25","Ball Position",799,80
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:36:10","Restart",800,81
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:36:22","BLOCKED2",801,81
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:36:33","Possible Free Kick",802,81
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:36:54","SAFE1",805,81
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:36:54","FK1",806,81
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:36:54","Ball Position",807,81
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:37:07","SUB2",808,81
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:37:21","Restart",809,82
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:37:26","AT1",810,82
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:37:32","DANGER1",811,82
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:37:32","DAT1",812,82
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:37:37","Possible Free Kick",813,82
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:37:38","POSSIBLE_CARDS",815,82
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:37:43","Player_DATA_CONFIRMED",816,82
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:37:55","FK1",817,82
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:37:55","DFK1",818,82
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:37:55","Ball Position",819,82
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:38:20","SUB1",820,83
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:38:32","Restart",821,83
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:38:37","SAFE2",822,83
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:38:38","GK2",823,83
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:38:39","NO_Cards",824,83
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:38:46","Restart",825,83
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:38:56","AT2",826,83
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:39:07","DANGER2",827,83
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:39:07","DAT2",828,83
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:39:15","Possible Free Kick",829,84
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:39:19","No Free Kick",831,84
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:39:20","POSSIBLE_TI",832,84
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:39:22","TI2",833,84
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:39:23","Restart",834,84
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:39:36","SAFE1",835,84
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:39:37","GK1",836,84
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:39:45","Player_DATA_CONFIRMED",837,84
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:40:09","Restart",838,85
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:40:11","AT1",839,85
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:40:17","DANGER1",840,85
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:40:17","DAT1",841,85
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:40:22","SAFE2",842,85
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:40:23","GK2",843,85
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:40:31","Restart",844,85
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:40:36","Possible Free Kick",845,85
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:40:41","F2",848,85
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:40:41","FK1",849,85
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:40:41","Ball Position",850,85
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:40:41","DANGER1",851,85
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:40:41","DFK1",852,85
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:40:41","Restart",853,85
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:40:43","SAFE2",854,85
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:40:48","CLS",855,85
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:40:50","CLS",856,85
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:40:52","CLS",857,85
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:40:58","F1",862,85
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:40:58","FK2",863,85
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:40:58","Ball Position",864,85
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:40:58","Restart",865,85
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:41:00","AT2",866,85
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:41:02","DANGER2",867,85
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:41:02","DAT2",868,85
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:41:07","SAFE1",869,85
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:41:08","GK1",870,85
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:41:33","Restart",871,86
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:41:40","POSSIBLE_TI",872,86
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:41:41","TI2",873,86
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:41:42","Restart",874,86
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:41:43","SAFE2",875,86
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:41:49","AT2",876,86
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:41:54","DANGER2",877,86
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:41:54","DAT2",878,86
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:42:06","SAFE1",879,86
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:42:08","AT1",880,86
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:42:10","SAFE2",881,87
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:42:15","AT2",882,87
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:42:24","DANGER2",883,87
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:42:24","DAT2",884,87
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:42:32","SAFE1",885,87
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:42:33","GK1",886,87
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:42:59","Restart",887,87
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:43:03","AT1",888,87
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:43:08","SAFE2",889,87
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:43:09","AT2",890,88
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:43:10","SAFE2",891,88
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:43:13","POSSIBLE_TI",892,88
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:43:15","TI2",893,88
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:43:17","Restart",894,88
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:43:37","AT2",895,88
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:43:42","SAFE1",896,88
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:43:42","AT1",897,88
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:43:45","DANGER1",898,88
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:43:45","DAT1",899,88
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:43:52","POSSIBLE_TI",900,88
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:43:54","TI2",901,88
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:44:04","Restart",902,88
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:44:17","Possible Free Kick",903,89
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:44:24","F2",905,89
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:44:24","FK1",906,89
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:44:24","DFK1",907,89
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:44:24","Ball Position",908,89
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:44:33","Restart",909,89
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:45:10","Possible Free Kick",910,90
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:45:15","SAFE2",912,90
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:45:15","O1",913,90
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:45:15","FK2",914,90
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:45:15","Ball Position",915,90
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:45:26","SUB1",916,90
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:45:47","Restart",917,90
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:45:48","AT2",918,90
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:45:55","SAFE1",919,90
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:45:59","Possible Free Kick",920,90
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:46:00","POSSIBLE_CARDS",922,90
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:46:04","YC2",923,90
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:46:17","CONF_YC2",924,91
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:46:21","Scorer",925,91
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:46:33","F2",926,91
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:46:33","FK1",927,91
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:46:33","Ball Position",928,91
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:46:43","Player_DATA_CONFIRMED",929,91
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:46:43","Player_DATA_CONFIRMED",930,91
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:46:46","Extra Time",931,91
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:47:07","POSSIBLE_CARDS",932,91
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:47:47","Restart",933,92
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:47:49","AT1",934,92
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:47:50","DANGER1",935,92
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:47:50","DAT1",936,92
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:48:03","SAFE2",937,92
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:48:09","AT2",938,93
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:48:12","DANGER2",939,93
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:48:12","DAT2",940,93
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:48:13","Scorer",941,93
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:48:15","SAFE1",942,93
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:48:19","AT1",943,93
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:48:22","DANGER1",944,93
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:48:22","DAT1",945,93
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:48:39","SHG1",946,93
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:48:41","SAFE2",947,93
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:48:42","AT2",948,93
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:48:43","DANGER2",949,93
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:48:43","DAT2",950,93
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:48:49","GOAL2",951,93
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:49:29","NO_Cards",952,94
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:49:41","CGOAL2",953,94
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:49:42","Possible Free Kick",954,94
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:49:46","SAFE1",956,94
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:49:46","O2",957,94
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:49:46","FK1",958,94
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:49:46","Ball Position",959,94
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:49:49","Restart",960,94
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:49:51","SAFE2",961,94
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:49:53","AT2",962,94
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:49:57","SAFE2",963,94
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:50:00","AT2",964,94
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:50:03","DANGER2",965,94
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:50:03","DAT2",966,94
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:50:14","PCR2",967,95
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:50:21","CR2",968,95
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:50:22","Ball Position",969,95
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:50:33","Restart",970,95
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:50:38","GOAL2",971,95
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:51:08","Scorer",972,95
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:51:37","CONF_GOAL2",973,96
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:51:38","KO1",974,96
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:51:38","SAFE1",975,96
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:51:48","Stop RT2",976,96
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:51:48","Stop Game",977,96
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:51:57","CONF_PERIOD_SCORE",978,95
+1223605,"Valencia CF","Real Madrid CF","12/15/2019 21:52:13","Player_DATA_CONFIRMED",979,95

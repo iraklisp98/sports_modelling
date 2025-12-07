@@ -1,0 +1,834 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+865235,"Everton FC","AFC Bournemouth","09/23/2017 13:00:32","Scout in Stadion",0,0
+865235,"Everton FC","AFC Bournemouth","09/23/2017 13:00:35","Transmission Online",1,0
+865235,"Everton FC","AFC Bournemouth","09/23/2017 13:00:49","GCC",2,0
+865235,"Everton FC","AFC Bournemouth","09/23/2017 13:01:10","Lineup changed",3,0
+865235,"Everton FC","AFC Bournemouth","09/23/2017 13:24:47","GCC",4,0
+865235,"Everton FC","AFC Bournemouth","09/23/2017 13:25:57","Jersey Changed",5,0
+865235,"Everton FC","AFC Bournemouth","09/23/2017 13:25:58","Jersey Changed",6,0
+865235,"Everton FC","AFC Bournemouth","09/23/2017 13:56:07","Players are coming out",7,0
+865235,"Everton FC","AFC Bournemouth","09/23/2017 13:56:42","Players lined up",8,0
+865235,"Everton FC","AFC Bournemouth","09/23/2017 13:56:45","Shake hands",9,0
+865235,"Everton FC","AFC Bournemouth","09/23/2017 13:58:57","Flip coin",10,0
+865235,"Everton FC","AFC Bournemouth","09/23/2017 13:59:30","Game about to start",11,0
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:00:06","Start RT1 Team 2",12,1
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:00:06","SAFE2",13,1
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:00:15","POSSIBLE_TI",14,1
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:00:16","TI2",15,1
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:00:23","Restart",16,1
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:00:42","AT2",17,1
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:00:47","DANGER2",18,1
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:00:47","DAT2",19,1
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:00:56","PCR2",20,1
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:00:58","CR2",21,1
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:01:00","Ball Position",22,1
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:01:05","Restart",23,1
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:01:19","SAFE1",24,2
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:01:23","SAFE2",25,2
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:01:25","AT2",26,2
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:01:29","DANGER2",27,2
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:01:29","DAT2",28,2
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:01:43","SAFE2",29,2
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:01:48","AT2",30,2
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:01:59","DANGER2",31,2
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:01:59","DAT2",32,2
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:02:22","Possible Free Kick",33,3
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:02:25","F1",35,3
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:02:25","FK2",36,3
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:02:25","DFK2",37,3
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:02:25","Ball Position",38,3
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:02:28","Restart",39,3
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:03:08","POSSIBLE_TI",40,4
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:03:09","TI2",41,4
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:03:21","Restart",42,4
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:03:32","Possible Free Kick",43,4
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:03:34","SAFE1",45,4
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:03:34","O2",46,4
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:03:34","FK1",47,4
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:03:35","Ball Position",48,4
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:03:40","Restart",49,4
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:03:51","POSSIBLE_TI",50,4
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:03:52","TI1",51,4
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:04:11","Restart",52,5
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:04:12","AT1",53,5
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:04:13","DANGER1",54,5
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:04:13","DAT1",55,5
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:04:29","PCR1",56,5
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:04:30","CR1",57,5
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:04:31","Ball Position",58,5
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:04:50","Restart",59,5
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:05:00","POSSIBLE_TI",60,5
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:05:01","TI2",61,5
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:05:02","SAFE2",62,5
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:05:18","Restart",63,6
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:05:30","AT1",64,6
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:05:51","DANGER1",65,6
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:05:51","DAT1",66,6
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:05:58","SHB1",67,6
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:06:00","SAFE2",68,6
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:06:00","GK2",69,6
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:06:17","Restart",70,7
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:06:23","POSSIBLE_TI",71,7
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:06:23","TI1",72,7
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:06:24","SAFE1",73,7
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:06:33","Restart",74,7
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:06:41","POSSIBLE_TI",75,7
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:06:41","TI1",76,7
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:06:45","Restart",77,7
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:07:01","AT1",78,7
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:07:08","DANGER1",79,8
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:07:08","DAT1",80,8
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:07:14","SAFE2",81,8
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:07:41","AT1",82,8
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:07:43","DANGER1",83,8
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:07:43","DAT1",84,8
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:07:50","SAFE2",85,8
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:07:56","AT2",86,8
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:07:58","DANGER2",87,8
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:07:58","DAT2",88,8
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:08:06","SAFE2",89,9
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:08:31","POSSIBLE_TI",90,9
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:08:32","TI1",91,9
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:08:32","SAFE1",92,9
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:08:43","Restart",93,9
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:09:05","POSSIBLE_TI",94,9
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:09:06","TI1",95,10
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:09:17","Restart",96,10
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:09:32","Possible Free Kick",97,10
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:09:34","SAFE2",99,10
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:09:34","O1",100,10
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:09:34","FK2",101,10
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:09:34","Ball Position",102,10
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:09:52","Restart",103,10
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:10:07","POSSIBLE_TI",104,11
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:10:07","TI1",105,11
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:10:08","SAFE1",106,11
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:10:19","Restart",107,11
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:10:41","AT1",108,11
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:10:44","DANGER1",109,11
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:10:44","DAT1",110,11
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:10:45","Possible Free Kick",111,11
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:10:49","F2",113,11
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:10:49","FK1",114,11
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:10:49","DFK1",115,11
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:10:49","Ball Position",116,11
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:11:34","Restart",117,12
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:11:43","PCR1",118,12
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:11:44","CR1",119,12
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:11:45","Ball Position",120,12
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:12:05","Restart",121,12
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:12:18","BLOCKED1",122,13
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:12:19","SAFE2",123,13
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:12:32","SAFE1",124,13
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:13:23","POSSIBLE_TI",125,14
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:13:25","TI2",126,14
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:13:26","SAFE2",127,14
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:13:37","Restart",128,14
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:13:45","POSSIBLE_TI",129,14
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:13:47","TI1",130,14
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:13:50","Restart",131,14
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:13:59","SAFE1",132,14
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:14:26","SAFE2",133,15
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:14:35","SAFE1",134,15
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:14:40","AT1",135,15
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:14:41","DANGER1",136,15
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:14:41","DAT1",137,15
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:14:50","Possible Free Kick",138,15
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:14:51","POSSIBLE_CARDS",140,15
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:14:58","YC1",141,15
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:14:58","CONF_YC1",142,15
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:14:59","Scorer",143,15
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:15:01","SAFE2",144,15
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:15:01","F1",145,15
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:15:01","FK2",146,15
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:15:01","Ball Position",147,15
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:15:26","Restart",148,16
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:15:41","SAFE1",149,16
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:15:56","AT2",150,16
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:15:56","DANGER2",151,16
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:15:56","DAT2",152,16
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:16:03","SHG2",153,16
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:16:04","SAFE1",154,16
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:16:23","Scorer",155,17
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:16:23","Player_DATA_CONFIRMED",156,17
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:16:36","Possible Free Kick",157,17
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:16:38","SAFE2",159,17
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:16:38","F1",160,17
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:16:38","FK2",161,17
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:16:38","Ball Position",162,17
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:17:14","Restart",163,18
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:17:24","AT2",164,18
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:17:24","DANGER2",165,18
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:17:24","DAT2",166,18
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:17:42","SAFE2",167,18
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:18:52","AT2",168,19
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:18:53","DANGER2",169,19
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:18:53","DAT2",170,19
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:19:22","SAFE1",171,20
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:19:22","AT1",172,20
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:19:27","DANGER1",173,20
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:19:27","DAT1",174,20
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:19:34","BLOCKED1",175,20
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:19:37","SAFE2",176,20
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:19:44","SAFE1",177,20
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:20:38","AT1",178,21
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:20:38","DANGER1",179,21
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:20:38","DAT1",180,21
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:20:48","SAFE2",181,21
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:20:50","AT2",182,21
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:20:56","DANGER2",183,21
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:20:56","DAT2",184,21
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:21:11","SAFE1",185,22
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:21:15","SAFE2",186,22
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:21:52","AT2",187,22
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:21:52","DANGER2",188,22
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:21:52","DAT2",189,22
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:22:04","SAFE1",190,22
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:22:05","GK1",191,22
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:22:23","Restart",192,23
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:22:34","POSSIBLE_TI",193,23
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:22:35","TI2",194,23
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:22:36","SAFE2",195,23
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:22:56","Restart",196,23
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:23:04","POSSIBLE_TI",197,23
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:23:07","TI1",198,24
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:23:07","SAFE1",199,24
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:23:10","Restart",200,24
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:23:14","AT1",201,24
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:23:30","DANGER1",202,24
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:23:30","DAT1",203,24
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:23:51","SAFE1",204,24
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:23:58","AT1",205,24
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:24:03","DANGER1",206,24
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:24:03","DAT1",207,24
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:24:35","SAFE1",208,25
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:24:55","SAFE2",209,25
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:25:11","AT2",210,26
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:25:15","DANGER2",211,26
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:25:15","DAT2",212,26
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:25:26","SAFE2",213,26
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:25:45","AT2",214,26
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:26:06","DANGER2",215,27
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:26:06","DAT2",216,27
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:26:17","SAFE2",217,27
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:26:24","Possible Free Kick",218,27
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:26:26","F2",220,27
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:26:26","FK1",221,27
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:26:26","DANGER1",222,27
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:26:26","DFK1",223,27
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:26:26","Ball Position",224,27
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:26:43","Restart",225,27
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:27:02","SAFE1",226,27
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:27:06","POSSIBLE_TI",227,28
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:27:08","TI2",228,28
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:27:11","Restart",229,28
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:27:12","AT2",230,28
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:27:16","DANGER2",231,28
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:27:16","DAT2",232,28
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:27:23","Possible Free Kick",233,28
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:27:24","SAFE1",235,28
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:27:24","F2",236,28
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:27:24","FK1",237,28
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:27:24","Ball Position",238,28
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:27:50","Restart",239,28
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:28:06","AT2",240,29
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:28:18","Possible Free Kick",241,29
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:28:20","F1",243,29
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:28:20","FK2",244,29
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:28:20","DANGER2",245,29
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:28:20","DFK2",246,29
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:28:20","Ball Position",247,29
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:28:25","Restart",248,29
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:28:38","SAFE1",249,29
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:28:39","AT1",250,29
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:29:00","DANGER1",251,29
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:29:00","DAT1",252,29
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:29:26","SAFE1",253,30
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:29:48","SAFE2",254,30
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:30:49","POSSIBLE_TI",255,31
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:30:51","TI1",256,31
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:30:51","SAFE1",257,31
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:31:07","Restart",258,32
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:31:19","SAFE2",259,32
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:31:32","Possible Free Kick",260,32
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:31:35","F1",262,32
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:31:35","FK2",263,32
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:31:35","Ball Position",264,32
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:31:56","Restart",265,32
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:32:15","SAFE1",266,33
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:32:30","AT1",267,33
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:32:31","DANGER1",268,33
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:32:31","DAT1",269,33
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:32:42","POSSIBLE_TI",270,33
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:32:43","TI2",271,33
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:32:44","SAFE2",272,33
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:32:47","Restart",273,33
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:32:59","Possible Free Kick",274,33
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:33:02","F2",276,33
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:33:02","FK1",277,33
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:33:02","DANGER1",278,33
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:33:02","DFK1",279,33
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:33:02","Ball Position",280,33
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:33:20","Restart",281,34
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:33:51","SAFE2",282,34
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:33:51","GK2",283,34
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:34:36","Restart",284,35
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:34:47","AT2",285,35
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:34:48","DANGER2",286,35
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:34:48","DAT2",287,35
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:35:00","Possible Free Kick",288,35
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:35:06","SAFE1",290,36
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:35:06","F2",291,36
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:35:06","FK1",292,36
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:35:06","Ball Position",293,36
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:35:26","Restart",294,36
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:35:32","SAFE2",295,36
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:35:33","GK2",296,36
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:35:42","Restart",297,36
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:36:00","POSSIBLE_TI",298,36
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:36:01","TI1",299,36
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:36:02","SAFE1",300,36
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:36:21","Restart",301,37
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:36:36","AT1",302,37
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:36:37","DANGER1",303,37
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:36:37","DAT1",304,37
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:36:43","POSSIBLE_TI",305,37
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:36:44","TI1",306,37
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:36:59","Restart",307,37
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:37:08","Possible Free Kick",308,38
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:37:09","F2",310,38
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:37:09","FK1",311,38
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:37:09","DFK1",312,38
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:37:09","Ball Position",313,38
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:37:43","Restart",314,38
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:37:49","SAFE2",315,38
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:37:50","GK2",316,38
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:38:15","Restart",317,39
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:38:39","AT2",318,39
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:38:39","DANGER2",319,39
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:38:39","DAT2",320,39
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:38:58","SAFE1",321,39
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:39:06","SAFE2",322,40
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:39:19","SAFE1",323,40
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:39:38","AT1",324,40
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:39:49","DANGER1",325,40
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:39:49","DAT1",326,40
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:40:04","BLOCKED1",327,40
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:40:05","PCR1",328,40
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:40:09","NCR1",329,41
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:40:10","SAFE2",330,41
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:40:11","GK2",331,41
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:40:23","Restart",332,41
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:40:29","POSSIBLE_TI",333,41
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:40:30","TI1",334,41
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:40:31","SAFE1",335,41
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:40:31","Restart",336,41
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:40:43","AT1",337,41
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:40:46","DANGER1",338,41
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:40:46","DAT1",339,41
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:40:51","POSSIBLE_TI",340,41
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:40:51","TI1",341,41
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:41:05","Restart",342,41
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:41:18","SAFE2",343,42
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:41:32","AT2",344,42
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:41:33","DANGER2",345,42
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:41:33","DAT2",346,42
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:41:40","PCR2",347,42
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:41:41","CR2",348,42
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:41:44","Ball Position",349,42
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:42:13","Restart",350,43
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:42:22","Possible Free Kick",351,43
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:42:23","POSSIBLE_CARDS",353,43
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:42:33","NO_Cards",354,43
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:42:34","SAFE1",355,43
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:42:34","F2",356,43
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:42:34","FK1",357,43
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:42:34","Ball Position",358,43
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:42:53","Restart",359,43
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:42:59","Possible Free Kick",360,43
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:43:01","SAFE2",362,43
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:43:01","F1",363,43
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:43:01","FK2",364,43
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:43:01","Ball Position",365,43
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:43:09","Restart",366,44
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:43:24","AT2",367,44
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:43:32","SAFE2",368,44
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:43:47","AT2",369,44
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:43:47","DANGER2",370,44
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:43:47","DAT2",371,44
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:43:51","SAFE1",372,44
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:43:54","AT2",373,44
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:44:06","DANGER2",374,45
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:44:06","DAT2",375,45
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:44:12","PCR2",376,45
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:44:13","CR2",377,45
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:44:15","Ball Position",378,45
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:44:37","Restart",379,45
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:45:01","SAFE2",380,45
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:45:09","AT2",381,46
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:45:09","DANGER2",382,46
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:45:09","DAT2",383,46
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:45:22","POSSIBLE_TI",384,46
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:45:25","TI1",385,46
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:45:26","SAFE1",386,46
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:45:31","Extra Time",387,46
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:45:40","Restart",388,46
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:45:44","AT2",389,46
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:45:46","DANGER2",390,46
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:45:46","DAT2",391,46
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:45:59","POSSIBLE_TI",392,46
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:46:00","TI2",393,46
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:46:07","Restart",394,47
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:46:11","Stop RT1",395,47
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:46:18","CONF_PERIOD_SCORE",396,45
+865235,"Everton FC","AFC Bournemouth","09/23/2017 14:59:58","Players are coming out",397,45
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:00:54","Game about to start",398,45
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:01:28","Start RT2 Team 1",399,46
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:01:29","SAFE1",400,46
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:01:38","POSSIBLE_TI",401,46
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:01:38","TI1",402,46
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:01:51","Restart",403,46
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:01:53","AT1",404,46
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:02:02","SAFE1",405,46
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:02:19","AT1",406,46
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:02:19","DANGER1",407,46
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:02:19","DAT1",408,46
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:02:25","SAFE2",409,46
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:02:26","GK2",410,46
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:02:42","Restart",411,47
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:02:51","POSSIBLE_TI",412,47
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:02:51","TI2",413,47
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:03:05","Restart",414,47
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:03:25","AT2",415,47
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:03:25","DANGER2",416,47
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:03:25","DAT2",417,47
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:03:30","POSSIBLE_TI",418,48
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:03:37","TI2",419,48
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:03:47","Restart",420,48
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:03:56","SAFE1",421,48
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:04:00","AT1",422,48
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:04:22","SAFE2",423,48
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:04:37","AT2",424,49
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:04:40","DANGER2",425,49
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:04:40","DAT2",426,49
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:04:42","GOAL2",427,49
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:04:56","CONF_GOAL2",428,49
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:05:43","Scorer",429,50
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:05:43","KO1",430,50
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:05:43","SAFE1",431,50
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:05:57","POSSIBLE_TI",432,50
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:05:57","Scorer",433,50
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:05:57","Player_DATA_CONFIRMED",434,50
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:05:58","TI1",435,50
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:06:08","Restart",436,50
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:06:08","Assist",437,50
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:06:28","AT1",438,50
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:06:32","POSSIBLE_TI",439,51
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:06:32","TI1",440,51
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:06:33","Restart",441,51
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:06:38","SAFE1",442,51
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:06:49","AT2",443,51
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:06:51","DANGER2",444,51
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:06:51","DAT2",445,51
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:06:55","SHG2",446,51
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:07:00","SAFE1",447,51
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:07:06","POSSIBLE_TI",448,51
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:07:07","TI2",449,51
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:07:08","SAFE2",450,51
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:07:19","Restart",451,51
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:07:27","AT1",452,51
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:07:28","DANGER1",453,51
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:07:28","DAT1",454,51
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:07:42","POSSIBLE_TI",455,52
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:07:44","TI1",456,52
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:07:47","Restart",457,52
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:07:53","SAFE2",458,52
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:08:12","POSSIBLE_TI",459,52
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:08:12","TI2",460,52
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:08:28","Restart",461,52
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:08:49","SAFE1",462,53
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:09:04","AT2",463,53
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:09:05","DANGER2",464,53
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:09:05","DAT2",465,53
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:09:10","SAFE1",466,53
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:09:15","AT1",467,53
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:09:18","POSSIBLE_TI",468,53
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:09:19","TI2",469,53
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:09:20","SAFE2",470,53
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:09:40","Restart",471,54
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:09:53","Possible Free Kick",472,54
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:09:55","F2",474,54
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:09:55","FK1",475,54
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:09:55","DANGER1",476,54
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:09:55","DFK1",477,54
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:09:55","Ball Position",478,54
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:10:22","Restart",479,54
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:10:30","SHB1",480,55
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:10:30","SAFE2",481,55
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:10:31","GK2",482,55
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:10:47","SUB1",483,55
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:10:57","SUB1",484,55
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:11:20","SUB_UPDATE",485,55
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:11:21","Player_DATA_CONFIRMED",486,55
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:11:23","Restart",487,55
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:11:34","Possible Free Kick",488,56
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:11:35","POSSIBLE_CARDS",490,56
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:11:40","SUB_UPDATE",491,56
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:11:40","Player_DATA_CONFIRMED",492,56
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:11:44","YC1",493,56
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:11:45","CONF_YC1",494,56
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:11:48","Scorer",495,56
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:11:50","F1",496,56
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:11:50","FK2",497,56
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:11:50","Ball Position",498,56
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:12:04","Restart",499,56
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:12:09","Scorer",500,56
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:12:09","Player_DATA_CONFIRMED",501,56
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:12:12","Scorer",502,56
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:12:19","SAFE1",503,56
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:12:20","GK1",504,56
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:12:25","SUB_UPDATE",505,56
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:12:26","SUB_UPDATE",506,56
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:12:30","Restart",507,57
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:12:43","Possible Free Kick",508,57
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:12:46","F1",510,57
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:12:46","FK2",511,57
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:12:46","DANGER2",512,57
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:12:46","DFK2",513,57
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:12:46","Ball Position",514,57
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:13:03","Restart",515,57
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:13:14","SAFE2",516,57
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:13:22","AT2",517,57
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:13:22","DANGER2",518,57
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:13:22","DAT2",519,57
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:13:29","BLOCKED2",520,58
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:13:31","POSSIBLE_TI",521,58
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:13:32","TI2",522,58
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:13:36","Restart",523,58
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:13:46","POSSIBLE_TI",524,58
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:13:47","TI2",525,58
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:14:04","Restart",526,58
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:14:13","SAFE2",527,58
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:14:22","Possible Free Kick",528,58
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:14:24","F1",530,58
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:14:24","FK2",531,58
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:14:24","Ball Position",532,58
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:14:33","Restart",533,59
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:14:40","AT2",534,59
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:14:50","DANGER2",535,59
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:14:50","DAT2",536,59
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:15:18","BLOCKED2",537,59
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:15:20","PCR2",538,59
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:15:21","CR2",539,59
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:15:23","Ball Position",540,59
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:15:30","Restart",541,60
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:15:41","SAFE2",542,60
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:15:44","AT2",543,60
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:15:51","POSSIBLE_TI",544,60
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:15:51","TI1",545,60
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:15:52","SAFE1",546,60
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:16:06","Restart",547,60
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:16:13","POSSIBLE_TI",548,60
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:16:14","TI2",549,60
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:16:14","SAFE2",550,60
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:16:23","Restart",551,60
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:16:36","AT2",552,61
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:16:40","DANGER2",553,61
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:16:40","DAT2",554,61
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:16:47","SHG2",555,61
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:16:47","SAFE1",556,61
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:17:01","AT1",557,61
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:17:02","DANGER1",558,61
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:17:02","DAT1",559,61
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:17:20","BLOCKED1",560,61
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:17:22","POSSIBLE_TI",561,61
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:17:26","TI1",562,61
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:17:45","Restart",563,62
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:17:49","SAFE1",564,62
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:18:06","AT1",565,62
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:18:07","DANGER1",566,62
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:18:07","DAT1",567,62
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:18:22","SHB1",568,62
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:18:24","POSSIBLE_TI",569,62
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:18:25","TI1",570,62
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:18:42","Restart",571,63
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:18:44","SAFE1",572,63
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:19:14","POSSIBLE_TI",573,63
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:19:15","TI2",574,63
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:19:16","SAFE2",575,63
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:19:30","Restart",576,64
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:19:36","AT2",577,64
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:20:01","DANGER2",578,64
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:20:01","DAT2",579,64
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:20:08","Possible Free Kick",580,64
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:20:11","SAFE1",582,64
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:20:11","F2",583,64
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:20:11","FK1",584,64
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:20:11","Ball Position",585,64
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:20:18","Restart",586,64
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:20:35","AT2",587,65
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:20:37","DANGER2",588,65
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:20:37","DAT2",589,65
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:20:57","SAFE2",590,65
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:21:05","AT2",591,65
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:21:06","DANGER2",592,65
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:21:06","DAT2",593,65
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:21:09","SAFE1",594,65
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:21:14","POSSIBLE_TI",595,65
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:21:15","TI2",596,65
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:21:16","SAFE2",597,65
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:21:41","Restart",598,66
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:21:51","AT1",599,66
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:22:05","Injury Break",600,66
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:22:46","Restart",601,67
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:22:47","SAFE1",602,67
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:22:54","AT1",603,67
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:23:00","DANGER1",604,67
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:23:00","DAT1",605,67
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:23:16","SAFE2",606,67
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:23:39","SAFE1",607,68
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:23:59","AT1",608,68
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:23:59","DANGER1",609,68
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:23:59","DAT1",610,68
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:24:05","SAFE2",611,68
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:24:35","AT2",612,69
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:24:47","DANGER2",613,69
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:24:47","DAT2",614,69
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:25:14","SAFE1",615,69
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:25:15","GK1",616,69
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:25:22","Restart",617,69
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:25:47","AT1",618,70
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:25:47","DANGER1",619,70
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:25:47","DAT1",620,70
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:25:54","PCR1",621,70
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:25:55","CR1",622,70
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:25:56","Ball Position",623,70
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:26:11","Restart",624,70
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:26:20","SAFE2",625,70
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:26:29","SAFE1",626,71
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:26:45","SAFE2",627,71
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:26:49","AT2",628,71
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:26:52","DANGER2",629,71
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:26:52","DAT2",630,71
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:27:21","PCR2",631,71
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:27:27","CR2",632,71
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:27:29","Ball Position",633,72
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:27:44","Restart",634,72
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:27:51","BLOCKED2",635,72
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:27:56","SAFE2",636,72
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:28:27","AT1",637,72
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:28:36","DANGER1",638,73
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:28:36","DAT1",639,73
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:28:48","SAFE2",640,73
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:28:55","SAFE1",641,73
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:29:01","AT1",642,73
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:29:01","DANGER1",643,73
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:29:01","DAT1",644,73
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:29:08","SAFE2",645,73
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:29:26","SAFE1",646,73
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:29:51","AT1",647,74
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:29:51","DANGER1",648,74
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:29:51","DAT1",649,74
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:29:53","SAFE2",650,74
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:30:04","Possible Free Kick",651,74
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:30:09","F1",653,74
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:30:09","FK2",654,74
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:30:09","DANGER2",655,74
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:30:09","DFK2",656,74
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:30:09","Ball Position",657,74
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:30:25","SUB2",658,74
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:31:04","Restart",659,75
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:31:17","SAFE1",660,75
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:31:18","GK1",661,75
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:31:33","SUB1",662,76
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:31:59","Restart",663,76
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:32:07","SUB_UPDATE",664,76
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:32:07","Player_DATA_CONFIRMED",665,76
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:32:08","POSSIBLE_TI",666,76
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:32:09","TI1",667,76
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:32:17","Restart",668,76
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:32:31","AT1",669,77
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:32:33","SAFE2",670,77
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:32:38","AT1",671,77
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:32:44","DANGER1",672,77
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:32:44","DAT1",673,77
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:32:46","GOAL1",674,77
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:32:58","CONF_GOAL1",675,77
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:33:08","SUB_UPDATE",676,77
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:33:08","Player_DATA_CONFIRMED",677,77
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:33:12","Scorer",678,77
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:33:12","KO2",679,77
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:33:12","SAFE2",680,77
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:33:30","AT2",681,78
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:33:31","Possible Free Kick",682,78
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:33:36","SAFE1",684,78
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:33:36","F2",685,78
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:33:36","FK1",686,78
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:33:36","Ball Position",687,78
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:33:55","Restart",688,78
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:34:08","Scorer",689,78
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:34:08","Player_DATA_CONFIRMED",690,78
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:34:08","Assist",691,78
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:34:12","AT2",692,78
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:34:16","DANGER2",693,78
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:34:16","DAT2",694,78
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:34:18","SAFE1",695,78
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:34:31","SAFE2",696,79
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:34:50","SAFE1",697,79
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:35:04","POSSIBLE_TI",698,79
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:35:05","TI2",699,79
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:35:10","SUB2",700,79
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:35:39","Restart",701,80
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:35:48","SAFE1",702,80
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:36:07","Possible Free Kick",703,80
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:36:09","POSSIBLE_CARDS",705,80
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:36:17","YC1",706,80
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:36:18","CONF_YC1",707,80
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:36:19","Scorer",708,80
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:36:21","SAFE2",709,80
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:36:21","F1",710,80
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:36:21","FK2",711,80
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:36:21","Ball Position",712,80
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:36:49","Restart",713,81
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:36:54","AT2",714,81
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:36:54","DANGER2",715,81
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:36:54","DAT2",716,81
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:37:07","SAFE2",717,81
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:37:08","SUB_UPDATE",718,81
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:37:08","Player_DATA_CONFIRMED",719,81
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:37:17","SAFE1",720,81
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:37:20","AT1",721,81
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:37:22","DANGER1",722,81
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:37:22","DAT1",723,81
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:37:30","GOAL1",724,82
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:37:37","Scorer",725,82
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:37:37","Player_DATA_CONFIRMED",726,82
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:37:47","CONF_GOAL1",727,82
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:38:48","Scorer",728,83
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:38:49","Player_DATA_CONFIRMED",729,83
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:38:53","SUB2",730,83
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:39:03","Scorer",731,83
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:39:03","KO2",732,83
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:39:03","SAFE2",733,83
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:39:38","Scorer",734,84
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:39:58","AT2",735,84
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:39:59","DANGER2",736,84
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:39:59","DAT2",737,84
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:40:06","PCR2",738,84
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:40:07","SUB_UPDATE",739,84
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:40:07","Player_DATA_CONFIRMED",740,84
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:40:10","CR2",741,84
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:40:11","Ball Position",742,84
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:40:26","Restart",743,84
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:40:30","SHB2",744,85
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:40:32","SAFE1",745,85
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:40:32","GK1",746,85
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:41:03","Restart",747,85
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:41:10","POSSIBLE_TI",748,85
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:41:10","TI2",749,85
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:41:11","SAFE2",750,85
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:41:37","Restart",751,86
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:41:47","AT1",752,86
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:41:48","DANGER1",753,86
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:41:48","DAT1",754,86
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:41:53","POSSIBLE_TI",755,86
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:41:53","TI2",756,86
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:41:54","SAFE2",757,86
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:42:07","Restart",758,86
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:42:11","POSSIBLE_TI",759,86
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:42:12","TI1",760,86
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:42:12","SAFE1",761,86
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:42:25","Restart",762,86
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:42:38","POSSIBLE_TI",763,87
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:42:38","TI1",764,87
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:42:48","Restart",765,87
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:42:53","AT1",766,87
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:42:53","DANGER1",767,87
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:42:53","DAT1",768,87
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:43:11","SHB1",769,87
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:43:13","SAFE2",770,87
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:43:14","GK2",771,87
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:43:28","Restart",772,87
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:43:37","AT2",773,88
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:43:37","DANGER2",774,88
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:43:37","DAT2",775,88
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:43:40","SAFE1",776,88
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:44:05","POSSIBLE_TI",777,88
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:44:05","TI1",778,88
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:44:27","Restart",779,88
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:44:36","AT1",780,89
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:44:36","DANGER1",781,89
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:44:36","DAT1",782,89
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:44:38","Possible Free Kick",783,89
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:44:41","SAFE2",785,89
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:44:41","O1",786,89
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:44:41","FK2",787,89
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:44:41","Ball Position",788,89
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:44:55","Restart",789,89
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:45:15","SAFE1",790,89
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:45:23","POSSIBLE_TI",791,89
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:45:24","TI2",792,89
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:45:26","SAFE2",793,89
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:45:35","Restart",794,90
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:45:50","AT1",795,90
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:45:50","DANGER1",796,90
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:45:50","DAT1",797,90
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:45:53","SAFE2",798,90
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:46:11","AT2",799,90
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:46:12","DANGER2",800,90
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:46:12","DAT2",801,90
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:46:21","SAFE1",802,90
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:46:36","Extra Time",803,91
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:46:40","AT1",804,91
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:46:43","DANGER1",805,91
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:46:43","DAT1",806,91
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:46:46","SHB1",807,91
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:46:47","SAFE2",808,91
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:46:48","GK2",809,91
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:46:56","Restart",810,91
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:47:07","AT1",811,91
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:47:10","SAFE2",812,91
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:47:23","AT2",813,91
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:47:50","Possible Free Kick",814,92
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:47:56","F1",816,92
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:47:56","FK2",817,92
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:47:56","DANGER2",818,92
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:47:56","DFK2",819,92
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:47:56","Ball Position",820,92
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:48:23","Restart",821,92
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:48:30","Possible Free Kick",822,93
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:48:34","SAFE1",824,93
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:48:34","F2",825,93
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:48:34","FK1",826,93
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:48:34","Ball Position",827,93
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:48:44","Injury Break",828,93
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:50:31","Restart",829,95
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:50:38","POSSIBLE_TI",830,95
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:50:38","TI2",831,95
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:50:39","SAFE2",832,95
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:50:47","Restart",833,95
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:51:00","AT1",834,95
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:51:03","DANGER1",835,95
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:51:03","DAT1",836,95
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:51:06","POSSIBLE_TI",837,95
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:51:07","TI1",838,95
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:51:27","Restart",839,95
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:51:32","POSSIBLE_TI",840,96
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:51:33","TI1",841,96
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:51:43","Restart",842,96
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:51:49","POSSIBLE_TI",843,96
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:51:50","TI1",844,96
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:51:57","Restart",845,96
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:52:06","PCR1",846,96
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:52:08","CR1",847,96
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:52:10","Ball Position",848,96
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:52:14","POSSIBLE_CARDS",849,96
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:52:17","YC2",850,96
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:52:17","CONF_YC2",851,96
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:52:18","Scorer",852,96
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:52:41","Restart",853,97
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:52:46","Stop RT2",854,97
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:52:46","Stop Game",855,97
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:52:53","CONF_PERIOD_SCORE",856,96
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:53:53","Scorer",857,96
+865235,"Everton FC","AFC Bournemouth","09/23/2017 15:53:53","Player_DATA_CONFIRMED",858,96

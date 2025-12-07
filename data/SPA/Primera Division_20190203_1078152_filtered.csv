@@ -1,0 +1,825 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 14:01:29","Transmission Online",0,0
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 14:05:22","Lineup changed",1,0
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 14:39:58","Scout in Stadion",2,0
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 14:40:17","GCC",3,0
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 14:47:18","Jersey Changed",4,0
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 14:47:18","Jersey Changed",5,0
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:08:56","GCC",6,0
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:12:30","Players are coming out",7,0
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:12:49","Players lined up",8,0
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:12:58","Shake hands",9,0
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:13:53","Flip coin",10,0
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:15:24","Game about to start",11,0
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:16:01","System Message",12,0
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:16:03","Start RT1 Team 1",13,1
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:16:04","SAFE1",14,1
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:16:36","POSSIBLE_TI",15,1
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:16:37","TI2",16,1
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:16:49","Restart",17,1
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:16:50","SAFE2",18,1
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:16:52","SAFE1",19,1
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:16:54","AT1",20,1
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:17:04","SAFE1",21,2
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:17:16","AT2",22,2
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:17:16","DANGER2",23,2
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:17:16","DAT2",24,2
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:17:24","SAFE1",25,2
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:17:26","AT1",26,2
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:17:28","DANGER1",27,2
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:17:28","DAT1",28,2
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:17:32","PCR1",29,2
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:17:36","CR1",30,2
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:17:37","Ball Position",31,2
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:18:02","Restart",32,2
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:18:12","SHG1",33,3
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:18:48","SAFE2",34,3
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:18:50","AT2",35,3
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:18:52","DANGER2",36,3
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:18:52","DAT2",37,3
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:20:35","SAFE1",38,5
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:20:53","AT1",39,5
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:20:57","DANGER1",40,5
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:20:57","DAT1",41,5
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:21:04","SAFE1",42,6
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:21:15","AT1",43,6
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:21:24","DANGER1",44,6
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:21:24","DAT1",45,6
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:21:42","SAFE2",46,6
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:21:45","AT2",47,6
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:21:50","DANGER2",48,6
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:21:50","DAT2",49,6
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:22:04","POSSIBLE_TI",50,7
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:22:05","TI2",51,7
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:22:21","Restart",52,7
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:22:32","POSSIBLE_TI",53,7
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:22:32","TI2",54,7
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:22:47","Restart",55,7
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:22:58","BLOCKED2",56,7
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:23:14","POSSIBLE_TI",57,8
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:23:15","TI2",58,8
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:23:25","Restart",59,8
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:23:40","SAFE1",60,8
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:23:41","AT1",61,8
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:23:42","DANGER1",62,8
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:23:42","DAT1",63,8
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:23:52","Possible Free Kick",64,8
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:23:56","F2",66,8
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:23:56","FK1",67,8
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:23:56","DFK1",68,8
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:23:56","Ball Position",69,8
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:24:31","Restart",70,9
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:24:53","SAFE2",71,9
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:24:55","AT2",72,9
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:24:56","DANGER2",73,9
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:24:56","DAT2",74,9
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:25:07","SHG2",75,10
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:25:11","SAFE1",76,10
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:26:56","AT2",77,11
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:26:56","DANGER2",78,11
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:26:56","DAT2",79,11
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:27:12","SAFE2",80,12
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:27:29","AT2",81,12
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:27:33","Possible Free Kick",82,12
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:27:34","F1",84,12
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:27:34","FK2",85,12
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:27:34","DANGER2",86,12
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:27:34","DFK2",87,12
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:27:34","Ball Position",88,12
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:28:02","Restart",89,12
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:28:09","SHG2",90,13
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:28:12","SAFE1",91,13
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:28:28","AT2",92,13
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:28:28","DANGER2",93,13
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:28:28","DAT2",94,13
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:28:39","SAFE2",95,13
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:28:41","Possible Free Kick",96,13
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:28:44","F1",98,13
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:28:44","FK2",99,13
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:28:44","Ball Position",100,13
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:29:15","Restart",101,14
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:29:16","AT2",102,14
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:29:20","DANGER2",103,14
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:29:20","DAT2",104,14
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:29:35","SAFE2",105,14
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:29:47","AT1",106,14
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:29:48","DANGER1",107,14
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:29:48","DAT1",108,14
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:29:52","Possible Free Kick",109,14
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:29:57","SAFE2",111,14
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:29:57","O1",112,14
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:29:57","FK2",113,14
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:29:58","Ball Position",114,14
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:30:04","Restart",115,15
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:30:17","AT2",116,15
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:30:22","SAFE1",117,15
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:30:33","AT2",118,15
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:30:33","DANGER2",119,15
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:30:33","DAT2",120,15
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:30:47","SAFE1",121,15
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:30:52","Possible Free Kick",122,15
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:30:54","F2",124,15
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:30:54","FK1",125,15
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:30:54","Ball Position",126,15
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:30:56","Restart",127,15
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:31:20","SAFE2",128,16
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:31:35","AT2",129,16
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:31:38","DANGER2",130,16
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:31:38","DAT2",131,16
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:31:49","POSSIBLE_TI",132,16
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:31:50","TI2",133,16
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:31:57","Restart",134,16
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:32:05","Possible Free Kick",135,17
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:32:07","SAFE1",137,17
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:32:07","F2",138,17
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:32:07","FK1",139,17
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:32:07","Ball Position",140,17
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:32:18","Restart",141,17
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:32:31","AT1",142,17
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:32:33","DANGER1",143,17
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:32:33","DAT1",144,17
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:32:42","SAFE2",145,17
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:32:56","AT2",146,17
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:33:06","DANGER2",147,18
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:33:06","DAT2",148,18
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:33:48","BLOCKED2",149,18
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:34:16","SAFE1",150,19
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:34:17","GK1",151,19
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:34:24","Restart",152,19
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:35:06","AT1",153,20
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:35:08","DANGER1",154,20
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:35:08","DAT1",155,20
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:35:42","SAFE1",156,20
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:35:54","AT1",157,20
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:35:55","DANGER1",158,20
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:35:55","DAT1",159,20
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:35:58","BLOCKED1",160,20
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:36:02","SAFE1",161,20
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:36:19","AT1",162,21
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:36:24","SAFE2",163,21
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:36:41","AT2",164,21
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:36:54","DANGER2",165,21
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:36:54","DAT2",166,21
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:37:00","POSSIBLE_TI",167,21
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:37:01","TI2",168,21
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:37:21","Restart",169,22
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:37:30","SAFE1",170,22
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:37:35","AT1",171,22
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:37:37","DANGER1",172,22
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:37:37","DAT1",173,22
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:37:40","POSSIBLE_TI",174,22
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:37:41","TI1",175,22
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:37:46","Restart",176,22
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:38:16","SAFE1",177,23
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:38:20","AT1",178,23
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:38:23","DANGER1",179,23
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:38:23","DAT1",180,23
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:38:45","Possible Free Kick",181,23
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:38:47","SAFE2",183,23
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:38:47","F1",184,23
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:38:47","FK2",185,23
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:38:47","Ball Position",186,23
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:38:55","Restart",187,23
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:39:00","AT2",188,23
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:39:02","DANGER2",189,23
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:39:02","DAT2",190,23
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:39:20","SAFE1",191,24
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:39:26","Possible Free Kick",192,24
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:39:31","F2",194,24
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:39:31","FK1",195,24
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:39:31","DANGER1",196,24
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:39:31","DFK1",197,24
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:39:31","Ball Position",198,24
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:39:42","Restart",199,24
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:39:55","SAFE1",200,24
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:40:15","AT1",201,25
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:40:25","SAFE2",202,25
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:40:31","SAFE1",203,25
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:40:45","AT1",204,25
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:40:53","SAFE1",205,25
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:41:04","AT1",206,26
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:41:05","DANGER1",207,26
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:41:05","DAT1",208,26
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:41:10","POSSIBLE_TI",209,26
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:41:11","TI2",210,26
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:41:29","Restart",211,26
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:41:51","SAFE1",212,26
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:41:59","AT1",213,26
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:42:01","DANGER1",214,26
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:42:01","DAT1",215,26
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:42:31","SAFE1",216,27
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:42:43","SAFE2",217,27
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:43:16","AT2",218,28
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:43:27","SAFE1",219,28
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:43:47","AT2",220,28
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:43:47","DANGER2",221,28
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:43:47","DAT2",222,28
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:44:01","SAFE1",223,28
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:44:03","Possible Free Kick",224,29
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:44:19","F2",226,29
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:44:19","FK1",227,29
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:44:19","DANGER1",228,29
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:44:19","DFK1",229,29
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:44:19","Ball Position",230,29
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:44:24","Restart",231,29
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:44:46","POSSIBLE_TI",232,29
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:44:47","TI1",233,29
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:44:55","Restart",234,29
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:45:26","SAFE1",235,30
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:45:36","AT1",236,30
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:45:37","DANGER1",237,30
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:45:37","DAT1",238,30
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:45:42","SAFE2",239,30
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:45:48","AT2",240,30
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:45:49","DANGER2",241,30
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:45:49","DAT2",242,30
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:47:11","POSSIBLE_TI",243,32
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:47:12","TI2",244,32
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:47:33","Restart",245,32
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:47:41","SAFE2",246,32
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:47:59","AT2",247,32
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:48:02","DANGER2",248,32
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:48:02","DAT2",249,32
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:48:15","PCR2",250,33
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:48:18","CR2",251,33
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:48:19","Ball Position",252,33
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:49:01","Restart",253,33
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:49:12","Possible Free Kick",254,34
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:49:15","SAFE1",256,34
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:49:15","F2",257,34
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:49:15","FK1",258,34
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:49:15","Ball Position",259,34
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:49:34","Restart",260,34
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:49:48","Possible Free Kick",261,34
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:49:50","F2",263,34
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:49:50","FK1",264,34
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:49:50","DANGER1",265,34
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:49:50","DFK1",266,34
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:49:50","Ball Position",267,34
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:49:53","Restart",268,34
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:50:03","SAFE2",269,34
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:50:17","AT2",270,35
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:50:17","DANGER2",271,35
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:50:17","DAT2",272,35
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:50:24","SAFE1",273,35
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:50:45","AT2",274,35
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:50:45","DANGER2",275,35
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:50:45","DAT2",276,35
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:50:52","SAFE1",277,35
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:50:56","POSSIBLE_TI",278,35
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:50:58","TI1",279,35
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:51:11","Restart",280,36
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:51:19","AT1",281,36
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:51:38","POSSIBLE_TI",282,36
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:51:41","TI1",283,36
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:51:44","Restart",284,36
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:51:46","SAFE1",285,36
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:51:58","Possible Free Kick",286,36
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:52:01","F2",288,36
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:52:01","FK1",289,36
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:52:01","Ball Position",290,36
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:52:03","Restart",291,37
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:52:50","SAFE2",292,37
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:52:51","POSSIBLE_TI",293,37
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:52:52","TI2",294,37
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:53:10","Restart",295,38
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:53:21","SAFE1",296,38
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:53:28","Possible Free Kick",297,38
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:53:43","F2",299,38
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:53:43","FK1",300,38
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:53:43","Ball Position",301,38
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:53:44","Restart",302,38
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:54:05","AT1",303,39
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:54:11","DANGER1",304,39
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:54:11","DAT1",305,39
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:54:29","BLOCKED1",306,39
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:54:32","SAFE2",307,39
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:54:33","AT2",308,39
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:54:33","DANGER2",309,39
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:54:33","DAT2",310,39
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:54:36","POSSIBLE_TI",311,39
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:54:38","TI2",312,39
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:54:45","POSSIBLE_CARDS",313,39
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:55:13","YC2",314,40
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:55:14","CONF_YC2",315,40
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:55:17","Scorer",316,40
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:55:29","Player_DATA_CONFIRMED",317,40
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:55:33","Restart",318,40
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:55:42","SAFE1",319,40
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:55:45","SAFE2",320,40
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:55:57","SAFE1",321,40
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:56:14","Possible Free Kick",322,41
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:56:17","POSSIBLE_CARDS",324,41
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:56:21","YC2",325,41
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:56:22","CONF_YC2",326,41
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:56:26","Scorer",327,41
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:56:30","F2",328,41
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:56:30","FK1",329,41
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:56:30","DANGER1",330,41
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:56:30","DFK1",331,41
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:56:30","Ball Position",332,41
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:56:47","Restart",333,41
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:56:59","SAFE2",334,41
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:57:00","POSSIBLE_TI",335,41
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:57:01","TI2",336,41
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:57:17","Restart",337,42
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:57:18","AT2",338,42
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:57:20","DANGER2",339,42
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:57:20","DAT2",340,42
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:57:26","Possible Free Kick",341,42
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:57:28","SAFE1",343,42
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:57:28","F2",344,42
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:57:28","FK1",345,42
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:57:28","Ball Position",346,42
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:57:38","Restart",347,42
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:57:40","AT2",348,42
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:57:40","DANGER2",349,42
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:57:40","DAT2",350,42
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:57:48","Player_DATA_CONFIRMED",351,42
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:57:48","SAFE1",352,42
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:57:52","AT2",353,42
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:58:03","SAFE1",354,42
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:58:15","AT1",355,43
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:58:18","DANGER1",356,43
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:58:18","DAT1",357,43
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:58:32","POSSIBLE_TI",358,43
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:58:33","TI2",359,43
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:58:54","Restart",360,43
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:59:36","SAFE1",361,44
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:59:47","AT1",362,44
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:59:53","SAFE2",363,44
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:59:54","AT2",364,44
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:59:56","DANGER2",365,44
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 15:59:56","DAT2",366,44
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:00:05","POSSIBLE_TI",367,45
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:00:05","TI2",368,45
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:00:30","Restart",369,45
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:00:51","Possible Free Kick",370,45
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:00:58","SAFE1",372,45
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:00:58","F2",373,45
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:00:58","FK1",374,45
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:00:58","Ball Position",375,45
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:01:07","CLS",376,46
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:01:09","No Free Kick",377,46
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:01:12","Stop RT1",378,46
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:01:16","CONF_PERIOD_SCORE",379,45
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:15:38","Players are coming out",380,45
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:16:11","SUB2",381,45
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:16:14","Game about to start",382,45
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:16:29","Player_DATA_CONFIRMED",383,45
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:16:42","Start RT2 Team 2",384,46
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:16:43","SAFE2",385,46
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:16:46","AT2",386,46
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:16:49","DANGER2",387,46
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:16:49","DAT2",388,46
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:16:59","Possible Free Kick",389,46
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:17:00","F1",391,46
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:17:00","FK2",392,46
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:17:00","DFK2",393,46
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:17:00","Ball Position",394,46
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:17:29","Restart",395,46
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:17:43","POSSIBLE_TI",396,47
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:17:43","TI2",397,47
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:18:02","Restart",398,47
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:18:19","Possible Free Kick",399,47
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:18:28","SAFE1",401,47
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:18:28","O2",402,47
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:18:28","FK1",403,47
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:18:28","Ball Position",404,47
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:18:30","Restart",405,47
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:18:39","SAFE2",406,47
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:18:40","POSSIBLE_TI",407,47
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:18:40","TI2",408,47
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:18:55","Restart",409,48
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:19:00","POSSIBLE_TI",410,48
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:19:00","TI2",411,48
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:19:08","Restart",412,48
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:19:20","AT2",413,48
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:19:21","DANGER2",414,48
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:19:21","DAT2",415,48
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:19:36","SAFE1",416,48
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:19:36","GK1",417,48
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:19:39","Restart",418,48
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:19:56","AT2",419,49
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:19:56","DANGER2",420,49
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:19:56","DAT2",421,49
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:19:56","POSSIBLE_TI",422,49
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:19:57","TI2",423,49
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:20:05","Restart",424,49
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:20:16","SHB2",425,49
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:20:21","SAFE1",426,49
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:20:22","GK1",427,49
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:20:24","Restart",428,49
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:20:37","SAFE2",429,49
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:20:39","AT2",430,49
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:20:47","SAFE1",431,50
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:20:49","AT1",432,50
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:20:51","DANGER1",433,50
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:20:51","DAT1",434,50
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:20:58","SAFE1",435,50
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:21:18","SAFE2",436,50
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:21:27","SAFE1",437,50
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:21:41","AT2",438,50
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:21:41","DANGER2",439,50
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:21:41","DAT2",440,50
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:21:53","SAFE1",441,51
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:21:58","Possible Free Kick",442,51
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:22:03","POSSIBLE_CARDS",444,51
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:22:11","YC2",445,51
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:22:12","CONF_YC2",446,51
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:22:20","Scorer",447,51
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:22:23","F2",448,51
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:22:23","FK1",449,51
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:22:23","DANGER1",450,51
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:22:23","DFK1",451,51
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:22:23","Ball Position",452,51
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:22:57","SUB1",453,52
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:22:59","Restart",454,52
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:23:07","Player_DATA_CONFIRMED",455,52
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:23:08","Player_DATA_CONFIRMED",456,52
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:23:14","SAFE1",457,52
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:23:30","AT2",458,52
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:23:30","DANGER2",459,52
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:23:30","DAT2",460,52
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:23:42","SHB2",461,52
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:23:42","SAFE1",462,53
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:23:43","GK1",463,53
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:23:50","Restart",464,53
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:24:04","AT2",465,53
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:24:04","DANGER2",466,53
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:24:04","DAT2",467,53
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:24:08","Possible Free Kick",468,53
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:24:09","SAFE1",470,53
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:24:09","F2",471,53
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:24:09","FK1",472,53
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:24:09","Ball Position",473,53
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:24:17","Restart",474,53
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:24:23","AT1",475,53
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:24:25","DANGER1",476,53
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:24:25","DAT1",477,53
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:24:34","SAFE2",478,53
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:24:38","SAFE1",479,53
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:24:55","SAFE2",480,54
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:25:05","AT2",481,54
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:25:07","SAFE1",482,54
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:25:09","AT1",483,54
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:25:18","POSSIBLE_TI",484,54
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:25:18","TI2",485,54
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:25:33","Restart",486,54
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:25:37","DANGER1",487,54
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:25:37","DAT1",488,54
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:25:50","SAFE2",489,55
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:25:53","AT2",490,55
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:25:55","DANGER2",491,55
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:25:55","DAT2",492,55
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:26:01","PPEN",493,55
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:26:01","PPEN2",494,55
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:26:06","No PEN",495,55
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:26:07","PCR2",496,55
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:26:08","CR2",497,55
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:26:12","Ball Position",498,55
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:26:35","System Message",499,55
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:26:55","Restart",500,56
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:27:35","System Message",501,56
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:27:50","SAFE1",502,57
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:27:55","SAFE2",503,57
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:27:56","AT2",504,57
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:28:05","DANGER2",505,57
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:28:05","DAT2",506,57
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:28:07","Time Correction",507,57
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:28:17","SAFE1",508,57
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:28:30","SAFE2",509,57
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:28:43","POSSIBLE_TI",510,58
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:28:43","TI2",511,58
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:28:49","Restart",512,58
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:28:50","AT2",513,58
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:28:56","SAFE2",514,58
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:29:03","SAFE1",515,58
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:29:07","AT1",516,58
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:29:15","DANGER1",517,58
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:29:15","DAT1",518,58
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:29:23","SHG1",519,58
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:29:24","SAFE2",520,58
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:29:48","AT2",521,59
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:29:50","DANGER2",522,59
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:29:50","DAT2",523,59
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:29:54","PCR2",524,59
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:29:58","CR2",525,59
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:29:59","Ball Position",526,59
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:30:28","Restart",527,59
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:30:43","SAFE1",528,60
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:30:51","AT1",529,60
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:30:55","DANGER1",530,60
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:30:55","DAT1",531,60
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:31:14","SAFE2",532,60
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:31:15","AT2",533,60
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:31:24","DANGER2",534,60
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:31:24","DAT2",535,60
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:31:31","SAFE1",536,60
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:31:39","SAFE2",537,60
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:31:42","AT2",538,60
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:31:53","DANGER2",539,61
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:31:53","DAT2",540,61
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:32:13","SHB2",541,61
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:32:14","SAFE1",542,61
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:32:15","GK1",543,61
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:32:18","Restart",544,61
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:32:30","AT2",545,61
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:32:30","DANGER2",546,61
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:32:30","DAT2",547,61
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:32:37","PCR2",548,61
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:32:49","NCR2",549,62
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:32:50","SAFE1",550,62
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:32:50","GK1",551,62
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:32:56","Restart",552,62
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:33:05","AT2",553,62
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:33:05","DANGER2",554,62
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:33:05","DAT2",555,62
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:33:08","SHB2",556,62
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:33:10","Possible Free Kick",557,62
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:33:25","SAFE1",559,62
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:33:25","F2",560,62
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:33:25","FK1",561,62
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:33:25","Ball Position",562,62
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:33:46","SUB2",563,63
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:33:49","Restart",564,63
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:33:50","AT1",565,63
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:33:50","DANGER1",566,63
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:33:50","DAT1",567,63
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:34:01","POSSIBLE_TI",568,63
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:34:02","TI1",569,63
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:34:03","Restart",570,63
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:34:03","Player_DATA_CONFIRMED",571,63
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:34:37","PPEN",572,63
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:34:37","PPEN1",573,63
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:34:44","PEN1",574,64
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:35:01","Scorer",575,64
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:35:47","GOAL1",576,65
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:35:47","Scorer",577,65
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:36:51","CONF_GOAL1",578,66
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:36:51","KO2",579,66
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:36:51","SAFE2",580,66
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:37:02","AT2",581,66
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:37:05","DANGER2",582,66
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:37:05","DAT2",583,66
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:37:28","Player_DATA_CONFIRMED",584,66
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:37:41","POSSIBLE_TI",585,66
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:37:42","TI2",586,67
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:37:50","Restart",587,67
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:38:02","SHW2",588,67
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:38:08","Possible Free Kick",589,67
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:38:11","SAFE1",591,67
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:38:11","F2",592,67
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:38:11","FK1",593,67
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:38:11","Ball Position",594,67
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:38:38","Restart",595,67
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:38:47","AT1",596,68
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:38:50","DANGER1",597,68
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:38:50","DAT1",598,68
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:38:56","SAFE1",599,68
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:39:06","Possible Free Kick",600,68
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:39:09","F2",602,68
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:39:09","FK1",603,68
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:39:09","Ball Position",604,68
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:39:20","Restart",605,68
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:39:27","AT1",606,68
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:39:29","DANGER1",607,68
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:39:29","DAT1",608,68
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:39:49","POSSIBLE_TI",609,69
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:39:50","TI2",610,69
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:39:52","Restart",611,69
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:39:57","SAFE2",612,69
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:40:04","AT2",613,69
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:40:11","DANGER2",614,69
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:40:11","DAT2",615,69
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:40:45","SAFE1",616,70
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:40:46","GK1",617,70
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:40:58","Restart",618,70
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:41:07","AT1",619,70
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:41:08","Possible Free Kick",620,70
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:41:11","SAFE2",622,70
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:41:11","O1",623,70
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:41:11","FK2",624,70
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:41:11","Ball Position",625,70
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:41:11","Restart",626,70
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:41:14","AT2",627,70
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:41:18","DANGER2",628,70
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:41:18","DAT2",629,70
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:41:41","PCR2",630,70
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:41:44","CR2",631,71
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:41:46","Ball Position",632,71
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:42:01","Restart",633,71
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:42:04","PCR2",634,71
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:42:09","CR2",635,71
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:42:14","SHG2",636,71
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:42:21","Ball Position",637,71
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:42:21","Restart",638,71
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:42:30","SAFE2",639,71
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:42:48","AT2",640,72
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:42:56","DANGER2",641,72
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:42:56","DAT2",642,72
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:43:26","Possible Free Kick",643,72
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:43:27","SAFE1",645,72
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:43:27","F2",646,72
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:43:27","FK1",647,72
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:43:27","Ball Position",648,72
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:44:05","SUB1",649,73
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:44:10","Restart",650,73
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:44:14","Possible Free Kick",651,73
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:44:16","F2",653,73
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:44:16","FK1",654,73
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:44:16","Ball Position",655,73
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:44:17","Player_DATA_CONFIRMED",656,73
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:44:23","Restart",657,73
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:44:44","AT2",658,74
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:44:44","DANGER2",659,74
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:44:44","DAT2",660,74
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:44:52","SAFE1",661,74
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:44:57","AT1",662,74
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:44:59","DANGER1",663,74
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:44:59","DAT1",664,74
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:45:13","SAFE1",665,74
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:45:22","AT2",666,74
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:45:22","DANGER2",667,74
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:45:22","DAT2",668,74
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:45:26","SAFE1",669,74
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:45:32","AT1",670,74
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:45:57","DANGER1",671,75
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:45:57","DAT1",672,75
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:46:14","SAFE2",673,75
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:46:15","GK2",674,75
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:46:32","SUB2",675,75
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:47:20","Restart",676,76
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:47:26","AT2",677,76
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:47:38","DANGER2",678,76
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:47:38","DAT2",679,76
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:47:51","SAFE1",680,77
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:47:58","AT1",681,77
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:47:59","Player_DATA_CONFIRMED",682,77
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:48:00","DANGER1",683,77
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:48:00","DAT1",684,77
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:48:18","SHB1",685,77
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:48:18","SAFE2",686,77
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:48:19","GK2",687,77
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:48:23","Restart",688,77
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:48:40","AT2",689,77
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:48:47","DANGER2",690,78
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:48:47","DAT2",691,78
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:48:51","Possible Free Kick",692,78
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:48:55","F1",694,78
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:48:55","FK2",695,78
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:48:55","DFK2",696,78
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:48:55","Ball Position",697,78
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:49:21","Restart",698,78
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:49:31","SHB2",699,78
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:49:32","SAFE1",700,78
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:49:33","GK1",701,78
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:49:43","Restart",702,79
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:49:48","AT2",703,79
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:49:50","DANGER2",704,79
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:49:50","DAT2",705,79
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:50:04","SAFE1",706,79
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:50:06","AT1",707,79
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:50:07","DANGER1",708,79
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:50:07","DAT1",709,79
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:50:37","SAFE1",710,79
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:50:40","POSSIBLE_TI",711,79
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:50:42","TI1",712,80
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:50:49","Restart",713,80
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:50:58","AT2",714,80
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:50:58","DANGER2",715,80
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:50:58","DAT2",716,80
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:51:09","SAFE1",717,80
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:51:28","SAFE2",718,80
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:51:32","Possible Free Kick",719,80
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:51:33","F1",721,80
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:51:33","FK2",722,80
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:51:33","DANGER2",723,80
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:51:33","DFK2",724,80
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:51:33","Ball Position",725,80
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:51:35","Restart",726,80
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:52:07","SAFE1",727,81
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:52:15","SAFE2",728,81
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:52:16","AT2",729,81
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:52:17","DANGER2",730,81
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:52:17","DAT2",731,81
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:52:31","SAFE1",732,81
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:52:38","SAFE2",733,81
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:52:39","AT2",734,81
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:52:42","DANGER2",735,82
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:52:42","DAT2",736,82
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:52:49","Possible Free Kick",737,82
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:52:52","POSSIBLE_CARDS",739,82
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:53:01","YC1",740,82
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:53:03","CONF_YC1",741,82
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:53:05","Scorer",742,82
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:53:08","F1",743,82
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:53:08","FK2",744,82
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:53:08","DFK2",745,82
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:53:08","Ball Position",746,82
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:53:46","POSSIBLE_CARDS",747,83
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:53:49","YC1",748,83
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:53:53","CONF_YC1",749,83
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:54:00","Scorer",750,83
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:54:40","SUB1",751,83
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:55:00","Restart",752,84
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:55:02","PCR2",753,84
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:55:09","CR2",754,84
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:55:10","SHG2",755,84
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:55:13","Ball Position",756,84
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:55:22","Restart",757,84
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:55:26","PCR2",758,84
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:55:29","Player_DATA_CONFIRMED",759,84
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:55:30","CR2",760,84
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:55:32","Ball Position",761,84
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:55:49","Restart",762,85
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:56:13","SAFE1",763,85
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:56:19","SAFE2",764,85
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:56:20","POSSIBLE_TI",765,85
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:56:22","TI2",766,85
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:56:24","POSSIBLE_CARDS",767,85
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:56:25","Player_DATA_CONFIRMED",768,85
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:56:26","Player_DATA_CONFIRMED",769,85
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:56:27","YC1",770,85
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:56:30","CONF_YC1",771,85
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:56:34","Scorer",772,85
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:56:36","Restart",773,85
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:56:49","AT2",774,86
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:56:53","Scorer",775,86
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:56:53","Player_DATA_CONFIRMED",776,86
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:57:05","DANGER2",777,86
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:57:05","DAT2",778,86
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:57:43","PCR2",779,87
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:57:48","NCR2",780,87
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:57:49","SAFE1",781,87
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:57:50","GK1",782,87
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:58:15","POSSIBLE_CARDS",783,87
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:58:17","YC1",784,87
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:58:18","CONF_YC1",785,87
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:58:28","Scorer",786,87
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:58:30","Restart",787,87
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:58:33","AT1",788,87
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:58:33","DANGER1",789,87
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:58:33","DAT1",790,87
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:58:39","Player_DATA_CONFIRMED",791,87
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:58:52","SAFE2",792,88
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:58:53","AT2",793,88
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:58:56","DANGER2",794,88
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:58:56","DAT2",795,88
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:59:00","POSSIBLE_TI",796,88
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:59:00","TI1",797,88
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:59:17","Restart",798,88
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:59:23","POSSIBLE_TI",799,88
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:59:24","TI2",800,88
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:59:42","Restart",801,89
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:59:51","SAFE1",802,89
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:59:59","AT2",803,89
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:59:59","DANGER2",804,89
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 16:59:59","DAT2",805,89
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:00:09","SAFE1",806,89
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:00:16","AT2",807,89
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:00:17","POSSIBLE_TI",808,89
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:00:18","TI2",809,89
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:00:21","Restart",810,89
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:00:22","DANGER2",811,89
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:00:22","DAT2",812,89
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:00:56","Possible Free Kick",813,90
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:01:02","SAFE1",815,90
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:01:02","F2",816,90
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:01:02","FK1",817,90
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:01:02","Ball Position",818,90
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:01:36","Restart",819,90
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:01:41","SAFE2",820,90
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:01:44","AT2",821,91
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:01:44","DANGER2",822,91
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:01:44","DAT2",823,91
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:01:50","Extra Time",824,91
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:02:03","SAFE1",825,91
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:02:06","AT1",826,91
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:02:08","DANGER1",827,91
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:02:08","DAT1",828,91
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:02:31","POSSIBLE_TI",829,91
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:02:32","TI1",830,91
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:02:47","Restart",831,92
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:02:56","SAFE2",832,92
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:02:57","POSSIBLE_TI",833,92
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:02:58","TI2",834,92
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:02:59","Restart",835,92
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:03:02","AT2",836,92
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:03:04","DANGER2",837,92
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:03:04","DAT2",838,92
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:03:23","SHG2",839,92
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:03:25","SAFE1",840,92
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:03:42","AT1",841,93
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:03:45","DANGER1",842,93
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:03:45","DAT1",843,93
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:03:49","POSSIBLE_TI",844,93
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:03:51","TI1",845,93
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:04:07","Restart",846,93
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:04:14","POSSIBLE_TI",847,93
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:04:14","TI1",848,93
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:04:33","Restart",849,93
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:04:40","SAFE2",850,93
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:04:50","Stop RT2",851,93
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:04:50","Stop Game",852,93
+1078152,"Real Betis Balompie","Atletico de Madrid","02/03/2019 17:04:54","CONF_PERIOD_SCORE",853,93

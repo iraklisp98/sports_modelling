@@ -1,0 +1,931 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 13:12:19","Scout in Stadion",0,0
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 13:12:22","Transmission Online",1,0
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 13:12:36","Jersey Changed",2,0
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 13:12:36","Jersey Changed",3,0
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 13:13:00","GCC",4,0
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 13:20:34","Lineup changed",5,0
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 13:36:31","Jersey Changed",6,0
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 13:56:33","Players are coming out",7,0
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 13:56:56","Players lined up",8,0
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 13:57:19","Shake hands",9,0
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 13:57:58","Flip coin",10,0
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 13:59:21","Game about to start",11,0
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:00:02","Start RT1 Team 1",12,1
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:00:03","SAFE1",13,1
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:00:13","AT1",14,1
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:00:19","SAFE2",15,1
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:00:26","AT2",16,1
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:00:30","DANGER2",17,1
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:00:30","DAT2",18,1
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:00:37","SAFE1",19,1
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:00:50","AT1",20,1
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:00:55","Possible Free Kick",21,1
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:00:57","F2",23,1
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:00:57","FK1",24,1
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:00:57","DANGER1",25,1
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:00:57","DFK1",26,1
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:00:57","Ball Position",27,1
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:01:05","Restart",28,2
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:01:05","SAFE1",29,2
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:01:17","AT2",30,2
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:01:28","Possible Free Kick",31,2
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:01:30","SAFE1",33,2
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:01:30","F2",34,2
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:01:30","FK1",35,2
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:01:30","Ball Position",36,2
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:01:33","Restart",37,2
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:01:58","AT1",38,2
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:02:02","DANGER1",39,3
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:02:02","DAT1",40,3
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:02:09","SAFE2",41,3
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:02:27","POSSIBLE_TI",42,3
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:02:32","TI2",43,3
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:02:37","Restart",44,3
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:02:38","AT2",45,3
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:02:40","DANGER2",46,3
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:02:40","DAT2",47,3
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:02:47","SHB2",48,3
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:02:48","SAFE1",49,3
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:02:49","GK1",50,3
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:02:54","Restart",51,3
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:03:07","AT2",52,4
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:03:16","SAFE2",53,4
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:03:22","AT1",54,4
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:03:30","Possible Free Kick",55,4
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:03:36","F2",57,4
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:03:36","FK1",58,4
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:03:36","DANGER1",59,4
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:03:36","DFK1",60,4
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:03:36","Ball Position",61,4
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:03:59","Restart",62,4
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:04:09","POSSIBLE_TI",63,5
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:04:11","TI2",64,5
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:04:19","Restart",65,5
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:04:21","SAFE2",66,5
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:04:30","SAFE1",67,5
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:04:49","AT1",68,5
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:04:51","SAFE2",69,5
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:04:55","AT1",70,5
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:04:56","DANGER1",71,5
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:04:56","DAT1",72,5
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:05:00","Possible Free Kick",73,5
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:05:02","SAFE2",75,6
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:05:02","F1",76,6
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:05:02","FK2",77,6
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:05:03","Ball Position",78,6
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:05:03","Restart",79,6
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:05:06","AT2",80,6
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:05:09","DANGER2",81,6
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:05:09","DAT2",82,6
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:05:13","SAFE1",83,6
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:05:17","AT1",84,6
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:05:23","DANGER1",85,6
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:05:23","DAT1",86,6
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:05:36","SAFE2",87,6
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:05:38","POSSIBLE_TI",88,6
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:05:41","TI1",89,6
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:06:05","Injury Break",90,7
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:07:01","Restart",91,7
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:07:04","SAFE2",92,8
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:07:23","AT2",93,8
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:07:27","DANGER2",94,8
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:07:27","DAT2",95,8
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:07:33","SAFE1",96,8
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:07:34","GK1",97,8
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:07:43","Restart",98,8
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:07:54","Possible Free Kick",99,8
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:07:56","F2",101,8
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:07:56","FK1",102,8
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:07:56","Ball Position",103,8
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:07:57","Restart",104,8
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:07:58","SAFE1",105,8
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:08:06","AT2",106,9
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:08:07","DANGER2",107,9
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:08:07","DAT2",108,9
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:08:11","PCR2",109,9
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:08:26","CR2",110,9
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:08:30","Ball Position",111,9
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:08:39","Restart",112,9
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:08:52","Possible Free Kick",113,9
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:09:00","SAFE1",115,9
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:09:00","F2",116,9
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:09:00","FK1",117,9
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:09:00","Ball Position",118,9
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:09:30","Restart",119,10
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:09:34","AT1",120,10
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:10:01","Possible Free Kick",121,10
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:10:02","SAFE2",123,11
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:10:02","F1",124,11
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:10:02","FK2",125,11
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:10:02","Ball Position",126,11
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:10:43","Restart",127,11
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:10:44","AT2",128,11
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:11:04","AT1",129,12
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:11:04","DANGER1",130,12
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:11:04","DAT1",131,12
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:11:16","Possible Free Kick",132,12
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:11:20","SAFE2",134,12
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:11:20","O1",135,12
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:11:20","FK2",136,12
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:11:20","Ball Position",137,12
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:11:41","Restart",138,12
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:11:51","SAFE1",139,12
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:11:55","AT1",140,12
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:12:00","DANGER1",141,12
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:12:00","DAT1",142,12
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:12:08","PCR1",143,13
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:12:11","SHB1",144,13
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:12:21","CR1",145,13
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:12:22","Ball Position",146,13
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:12:29","Restart",147,13
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:12:46","SAFE2",148,13
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:12:50","POSSIBLE_TI",149,13
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:12:52","TI1",150,13
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:12:59","Restart",151,13
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:13:09","SAFE1",152,14
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:13:22","AT1",153,14
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:13:29","SAFE2",154,14
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:13:31","AT2",155,14
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:13:41","SAFE2",156,14
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:13:49","AT2",157,14
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:13:51","DANGER2",158,14
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:13:51","DAT2",159,14
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:13:59","SAFE1",160,14
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:14:04","AT1",161,15
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:14:10","DANGER1",162,15
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:14:10","DAT1",163,15
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:14:29","SHB1",164,15
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:14:31","SAFE2",165,15
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:14:32","GK2",166,15
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:14:53","Restart",167,15
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:14:58","AT2",168,15
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:14:59","DANGER2",169,15
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:14:59","DAT2",170,15
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:15:04","SAFE1",171,16
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:15:14","AT1",172,16
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:15:21","SAFE2",173,16
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:15:28","Possible Free Kick",174,16
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:15:30","F1",176,16
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:15:30","FK2",177,16
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:15:30","Ball Position",178,16
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:15:36","Restart",179,16
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:15:38","AT2",180,16
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:15:42","DANGER2",181,16
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:15:42","DAT2",182,16
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:15:47","SAFE1",183,16
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:15:56","AT1",184,16
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:16:29","DANGER1",185,17
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:16:29","DAT1",186,17
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:16:36","PCR1",187,17
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:16:46","CR1",188,17
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:16:49","Ball Position",189,17
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:16:57","Restart",190,17
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:17:04","SHB1",191,18
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:17:06","SAFE2",192,18
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:17:07","GK2",193,18
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:17:24","Restart",194,18
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:17:38","AT2",195,18
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:17:41","SAFE1",196,18
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:17:44","AT1",197,18
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:17:48","DANGER1",198,18
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:17:48","DAT1",199,18
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:18:05","SAFE2",200,19
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:18:06","GK2",201,19
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:18:23","Restart",202,19
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:18:28","AT1",203,19
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:18:35","POSSIBLE_TI",204,19
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:18:37","TI1",205,19
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:18:43","Restart",206,19
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:18:49","POSSIBLE_TI",207,19
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:18:52","TI2",208,19
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:19:00","POSSIBLE_CARDS",209,19
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:19:05","YC1",210,20
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:19:08","CONF_YC1",211,20
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:19:12","Scorer",212,20
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:19:33","Restart",213,20
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:19:34","AT2",214,20
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:19:34","DANGER2",215,20
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:19:34","DAT2",216,20
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:19:44","Player_DATA_CONFIRMED",217,20
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:19:51","SAFE1",218,20
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:19:52","GK1",219,20
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:20:10","Restart",220,21
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:20:16","AT2",221,21
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:20:22","SAFE1",222,21
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:20:24","AT1",223,21
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:20:27","POSSIBLE_CARDS",224,21
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:20:31","YC2",225,21
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:20:40","CONF_YC2",226,21
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:20:44","Scorer",227,21
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:20:46","Possible Free Kick",228,21
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:20:48","SAFE1",230,21
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:20:48","F2",231,21
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:20:48","FK1",232,21
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:20:48","Ball Position",233,21
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:21:00","Restart",234,21
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:21:10","SAFE1",235,22
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:21:11","AT1",236,22
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:21:14","Player_DATA_CONFIRMED",237,22
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:21:31","Possible Free Kick",238,22
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:21:35","F2",240,22
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:21:35","FK1",241,22
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:21:35","DANGER1",242,22
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:21:35","DFK1",243,22
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:21:35","Ball Position",244,22
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:22:22","Restart",245,23
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:22:27","SHG1",246,23
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:22:28","SAFE2",247,23
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:22:39","AT2",248,23
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:22:49","POSSIBLE_TI",249,23
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:22:52","TI1",250,23
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:22:53","Restart",251,23
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:22:56","SAFE1",252,23
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:22:56","AT1",253,23
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:23:08","DANGER1",254,24
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:23:08","DAT1",255,24
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:23:21","SAFE2",256,24
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:23:21","AT2",257,24
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:23:25","Possible Free Kick",258,24
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:23:26","F1",260,24
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:23:26","FK2",261,24
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:23:26","DANGER2",262,24
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:23:26","DFK2",263,24
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:23:26","Ball Position",264,24
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:24:07","Restart",265,25
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:24:20","SHB2",266,25
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:24:23","SAFE1",267,25
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:24:23","GK1",268,25
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:24:24","Restart",269,25
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:24:25","AT1",270,25
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:24:58","POSSIBLE_TI",271,25
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:25:01","TI1",272,25
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:25:03","Restart",273,26
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:25:04","SAFE1",274,26
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:25:18","AT1",275,26
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:25:29","SAFE1",276,26
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:25:55","AT1",277,26
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:25:58","POSSIBLE_TI",278,26
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:25:59","TI1",279,26
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:26:04","Restart",280,27
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:26:08","SAFE1",281,27
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:26:12","AT1",282,27
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:26:45","DANGER1",283,27
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:26:45","DAT1",284,27
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:27:07","SAFE2",285,28
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:27:13","AT2",286,28
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:27:27","POSSIBLE_CARDS",287,28
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:27:34","YC1",288,28
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:27:39","CONF_YC1",289,28
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:27:43","Scorer",290,28
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:28:11","Referee Ball",291,29
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:28:14","Restart",292,29
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:28:15","SAFE1",293,29
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:28:26","AT1",294,29
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:28:32","SAFE2",295,29
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:28:33","AT2",296,29
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:28:43","SAFE1",297,29
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:28:44","AT1",298,29
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:28:45","Player_DATA_CONFIRMED",299,29
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:28:51","DANGER1",300,29
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:28:51","DAT1",301,29
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:28:57","Possible Free Kick",302,29
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:28:59","F2",304,29
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:28:59","FK1",305,29
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:28:59","DFK1",306,29
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:28:59","Ball Position",307,29
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:29:02","POSSIBLE_CARDS",308,30
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:29:04","YC2",309,30
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:29:11","CONF_YC2",310,30
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:29:23","Scorer",311,30
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:29:54","Scorer",312,30
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:29:55","Player_DATA_CONFIRMED",313,30
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:30:22","Restart",314,31
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:30:35","SHG1",315,31
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:30:46","POSSIBLE_CARDS",316,31
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:31:22","NO_Cards",317,32
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:31:25","SAFE2",318,32
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:31:25","GK2",319,32
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:31:26","Restart",320,32
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:31:28","POSSIBLE_TI",321,32
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:31:34","TI2",322,32
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:31:37","Restart",323,32
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:31:39","AT2",324,32
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:31:41","DANGER2",325,32
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:31:41","DAT2",326,32
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:31:43","POSSIBLE_TI",327,32
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:31:51","TI1",328,32
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:31:54","Restart",329,32
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:31:59","POSSIBLE_TI",330,32
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:32:02","TI1",331,33
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:32:10","Restart",332,33
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:32:17","SAFE1",333,33
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:32:18","AT1",334,33
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:32:20","DANGER1",335,33
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:32:20","DAT1",336,33
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:32:25","SHG1",337,33
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:32:26","SAFE2",338,33
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:32:37","AT2",339,33
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:32:43","DANGER2",340,33
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:32:43","DAT2",341,33
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:32:56","POSSIBLE_TI",342,33
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:32:57","TI2",343,33
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:32:59","Restart",344,33
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:33:04","SAFE1",345,34
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:33:07","AT1",346,34
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:33:12","SAFE2",347,34
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:33:23","AT2",348,34
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:33:28","DANGER2",349,34
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:33:28","DAT2",350,34
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:33:35","SAFE1",351,34
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:33:40","AT1",352,34
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:33:45","SAFE1",353,34
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:34:00","AT1",354,34
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:34:18","DANGER1",355,35
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:34:18","DAT1",356,35
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:34:23","SAFE2",357,35
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:34:30","AT2",358,35
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:34:46","SAFE2",359,35
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:35:01","POSSIBLE_TI",360,35
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:35:04","TI2",361,36
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:35:12","Restart",362,36
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:35:16","AT2",363,36
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:35:19","DANGER2",364,36
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:35:19","DAT2",365,36
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:35:28","SAFE1",366,36
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:35:36","AT1",367,36
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:35:41","DANGER1",368,36
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:35:41","DAT1",369,36
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:35:51","SHB1",370,36
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:35:54","SAFE2",371,36
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:35:54","GK2",372,36
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:36:22","Restart",373,37
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:36:28","POSSIBLE_TI",374,37
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:36:29","TI2",375,37
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:36:36","Restart",376,37
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:36:38","AT2",377,37
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:36:47","SAFE1",378,37
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:36:48","AT1",379,37
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:36:56","DANGER1",380,37
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:36:56","DAT1",381,37
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:37:02","PCR1",382,38
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:37:10","CR1",383,38
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:37:11","Ball Position",384,38
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:37:13","Restart",385,38
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:37:22","Possible Free Kick",386,38
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:37:28","SAFE2",388,38
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:37:28","F1",389,38
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:37:28","FK2",390,38
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:37:28","Ball Position",391,38
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:38:08","Restart",392,39
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:38:19","POSSIBLE_TI",393,39
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:38:21","TI2",394,39
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:38:25","Restart",395,39
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:38:29","AT2",396,39
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:38:38","DANGER2",397,39
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:38:38","DAT2",398,39
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:38:47","SAFE1",399,39
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:38:52","AT1",400,39
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:39:19","DANGER1",401,40
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:39:19","DAT1",402,40
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:39:25","POSSIBLE_TI",403,40
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:39:27","TI1",404,40
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:39:30","Restart",405,40
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:39:46","SAFE2",406,40
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:39:52","AT2",407,40
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:39:55","POSSIBLE_TI",408,40
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:39:56","TI2",409,40
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:40:11","Restart",410,41
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:40:19","DANGER2",411,41
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:40:19","DAT2",412,41
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:40:27","POSSIBLE_TI",413,41
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:40:28","TI2",414,41
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:40:53","Restart",415,41
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:41:08","PCR2",416,42
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:41:17","CR2",417,42
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:41:26","Ball Position",418,42
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:41:50","Injury Break",419,42
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:42:28","Restart",420,43
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:42:35","BLOCKED2",421,43
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:42:38","POSSIBLE_CARDS",422,43
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:43:14","YC2",423,44
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:43:17","CONF_YC2",424,44
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:43:20","Scorer",425,44
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:43:27","YC1",426,44
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:43:33","CONF_YC1",427,44
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:43:42","Scorer",428,44
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:43:45","Player_DATA_CONFIRMED",429,44
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:43:51","Possible Free Kick",430,44
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:43:59","SAFE1",432,44
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:43:59","F2",433,44
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:43:59","FK1",434,44
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:43:59","Ball Position",435,44
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:44:00","Restart",436,44
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:44:01","SAFE1",437,44
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:44:08","AT1",438,45
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:44:17","SAFE2",439,45
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:44:22","AT2",440,45
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:44:37","DANGER2",441,45
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:44:37","DAT2",442,45
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:44:54","POSSIBLE_TI",443,45
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:44:54","TI2",444,45
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:45:01","Restart",445,45
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:45:09","Extra Time",446,46
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:45:11","SAFE2",447,46
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:45:22","SAFE1",448,46
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:45:22","AT1",449,46
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:45:28","POSSIBLE_TI",450,46
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:45:30","TI1",451,46
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:45:32","Restart",452,46
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:45:33","SAFE1",453,46
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:45:38","AT1",454,46
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:45:58","DANGER1",455,46
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:45:58","DAT1",456,46
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:46:09","SAFE2",457,47
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:46:15","AT2",458,47
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:46:16","Player_DATA_CONFIRMED",459,47
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:46:22","POSSIBLE_TI",460,47
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:46:24","TI1",461,47
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:46:28","Restart",462,47
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:46:35","SAFE1",463,47
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:46:39","AT1",464,47
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:46:49","DANGER1",465,47
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:46:49","DAT1",466,47
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:46:56","POSSIBLE_TI",467,47
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:46:57","TI1",468,47
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:47:02","Restart",469,48
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:47:08","Stop RT1",470,48
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 14:47:21","CONF_PERIOD_SCORE",471,45
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:01:24","Players are coming out",472,45
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:02:30","Game about to start",473,45
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:03:14","Start RT2 Team 2",474,46
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:03:16","AT2",475,46
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:03:20","DANGER2",476,46
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:03:20","DAT2",477,46
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:03:48","SAFE2",478,46
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:04:02","SAFE1",479,46
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:04:15","AT1",480,47
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:04:29","DANGER1",481,47
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:04:29","DAT1",482,47
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:04:34","SAFE2",483,47
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:05:00","AT2",484,47
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:05:08","SAFE1",485,47
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:05:19","AT1",486,48
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:05:25","DANGER1",487,48
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:05:25","DAT1",488,48
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:05:34","POSSIBLE_TI",489,48
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:05:34","TI1",490,48
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:05:37","Restart",491,48
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:05:45","SAFE2",492,48
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:05:52","AT2",493,48
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:06:12","SAFE1",494,48
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:06:12","AT1",495,48
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:06:15","SAFE2",496,49
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:06:28","AT2",497,49
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:06:31","DANGER2",498,49
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:06:31","DAT2",499,49
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:06:37","SAFE1",500,49
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:06:43","AT1",501,49
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:06:52","Possible Free Kick",502,49
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:06:53","SAFE2",504,49
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:06:53","F1",505,49
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:06:53","FK2",506,49
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:06:53","Ball Position",507,49
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:07:00","Injury Break",508,49
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:08:50","Restart",509,51
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:08:51","SAFE2",510,51
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:08:53","AT2",511,51
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:08:55","DANGER2",512,51
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:08:55","DAT2",513,51
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:09:03","PCR2",514,51
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:09:14","CR2",515,51
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:09:16","Ball Position",516,52
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:09:27","Restart",517,52
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:09:44","SAFE1",518,52
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:09:46","AT1",519,52
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:09:50","DANGER1",520,52
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:09:50","DAT1",521,52
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:09:59","SAFE2",522,52
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:10:23","AT2",523,53
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:10:28","DANGER2",524,53
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:10:28","DAT2",525,53
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:10:35","SAFE1",526,53
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:10:40","AT1",527,53
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:10:43","POSSIBLE_TI",528,53
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:10:45","TI1",529,53
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:10:47","Restart",530,53
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:10:51","SAFE1",531,53
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:11:00","AT1",532,53
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:11:01","DANGER1",533,53
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:11:01","DAT1",534,53
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:11:22","Possible Free Kick",535,54
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:11:24","SAFE2",537,54
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:11:24","F1",538,54
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:11:24","FK2",539,54
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:11:24","Ball Position",540,54
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:11:33","Restart",541,54
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:11:37","AT1",542,54
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:11:43","SAFE2",543,54
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:11:55","AT2",544,54
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:12:03","POSSIBLE_CARDS",545,54
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:12:15","YC1",546,55
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:12:18","CONF_YC1",547,55
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:12:22","Scorer",548,55
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:12:24","Possible Free Kick",549,55
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:12:26","F1",551,55
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:12:26","FK2",552,55
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:12:26","DANGER2",553,55
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:12:26","DFK2",554,55
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:12:26","Ball Position",555,55
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:12:43","Restart",556,55
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:12:45","Player_DATA_CONFIRMED",557,55
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:12:51","SHG2",558,55
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:12:52","SAFE1",559,55
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:13:04","AT2",560,55
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:13:23","SAFE2",561,56
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:13:31","AT2",562,56
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:13:35","DANGER2",563,56
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:13:35","DAT2",564,56
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:13:39","PCR2",565,56
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:13:55","CR2",566,56
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:13:56","Ball Position",567,56
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:14:09","Restart",568,56
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:14:23","PCR2",569,57
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:14:28","SHG2",570,57
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:14:40","CR2",571,57
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:14:41","Ball Position",572,57
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:14:53","Restart",573,57
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:15:06","Possible Free Kick",574,57
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:15:13","No Free Kick",576,57
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:15:14","POSSIBLE_TI",577,57
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:15:15","TI1",578,58
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:15:16","Restart",579,58
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:15:24","SAFE1",580,58
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:15:34","AT1",581,58
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:15:48","DANGER1",582,58
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:15:48","DAT1",583,58
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:15:57","POSSIBLE_TI",584,58
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:15:58","TI1",585,58
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:16:00","Restart",586,58
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:16:10","SAFE2",587,58
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:16:11","AT2",588,58
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:16:15","SAFE1",589,59
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:16:27","AT1",590,59
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:16:32","DANGER1",591,59
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:16:32","DAT1",592,59
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:16:36","Possible Free Kick",593,59
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:16:38","SAFE2",595,59
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:16:38","O1",596,59
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:16:38","FK2",597,59
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:16:38","Ball Position",598,59
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:16:57","SUB1",599,59
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:17:14","SUB1",600,59
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:17:27","Restart",601,60
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:17:41","AT2",602,60
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:17:49","DANGER2",603,60
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:17:49","DAT2",604,60
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:17:52","SAFE1",605,60
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:17:53","GK1",606,60
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:18:02","Restart",607,60
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:18:06","AT1",608,60
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:18:45","SAFE2",609,61
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:18:45","AT2",610,61
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:18:47","DANGER2",611,61
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:18:47","DAT2",612,61
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:18:51","SAFE1",613,61
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:18:57","AT1",614,61
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:19:01","DANGER1",615,61
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:19:01","DAT1",616,61
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:19:10","SHG1",617,61
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:19:11","SAFE2",618,61
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:19:29","SAFE1",619,62
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:19:36","AT1",620,62
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:19:41","DANGER1",621,62
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:19:41","DAT1",622,62
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:19:48","SHB1",623,62
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:19:48","SAFE2",624,62
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:19:49","GK2",625,62
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:20:10","Restart",626,62
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:20:22","AT1",627,63
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:20:26","DANGER1",628,63
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:20:26","DAT1",629,63
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:20:49","SAFE2",630,63
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:20:50","GK2",631,63
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:21:18","SUB2",632,64
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:21:33","Restart",633,64
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:21:40","POSSIBLE_TI",634,64
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:21:42","TI2",635,64
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:21:45","Restart",636,64
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:21:50","AT2",637,64
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:22:01","SAFE2",638,64
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:22:21","SAFE1",639,65
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:22:29","AT1",640,65
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:22:36","SAFE2",641,65
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:22:40","AT2",642,65
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:22:43","SAFE1",643,65
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:22:43","AT1",644,65
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:22:45","DANGER1",645,65
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:22:45","DAT1",646,65
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:22:49","Possible Free Kick",647,65
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:22:52","SAFE2",649,65
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:22:52","O1",650,65
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:22:52","FK2",651,65
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:22:52","Ball Position",652,65
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:23:18","Restart",653,66
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:23:21","AT2",654,66
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:23:44","Player_DATA_CONFIRMED",655,66
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:23:44","SAFE1",656,66
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:23:45","AT1",657,66
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:23:49","DANGER1",658,66
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:23:49","DAT1",659,66
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:23:59","SHB1",660,66
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:24:03","SAFE2",661,66
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:24:04","GK2",662,66
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:24:21","Restart",663,67
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:24:34","AT2",664,67
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:24:42","SAFE1",665,67
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:24:44","AT1",666,67
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:24:46","POSSIBLE_TI",667,67
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:24:47","TI2",668,67
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:24:48","Restart",669,67
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:24:49","SAFE2",670,67
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:24:58","AT2",671,67
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:25:00","DANGER2",672,67
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:25:00","DAT2",673,67
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:25:07","GOAL2",674,67
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:25:12","CGOAL2",675,67
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:25:28","Possible Free Kick",676,68
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:25:29","SAFE1",678,68
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:25:29","F2",679,68
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:25:29","FK1",680,68
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:25:29","Ball Position",681,68
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:25:42","System Message",682,68
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:25:45","Restart",683,68
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:25:47","AT1",684,68
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:25:53","DANGER1",685,68
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:25:53","DAT1",686,68
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:26:00","SHB1",687,68
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:26:01","SAFE2",688,68
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:26:02","GK2",689,68
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:26:29","Restart",690,69
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:26:33","AT2",691,69
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:26:44","System Message",692,69
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:26:44","DANGER2",693,69
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:26:44","DAT2",694,69
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:26:56","SHB2",695,69
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:26:57","SAFE1",696,69
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:26:57","GK1",697,69
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:27:19","Restart",698,70
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:27:25","AT1",699,70
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:27:28","Possible Free Kick",700,70
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:27:30","F2",702,70
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:27:30","FK1",703,70
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:27:30","DANGER1",704,70
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:27:30","DFK1",705,70
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:27:30","Ball Position",706,70
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:27:57","Restart",707,70
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:28:06","Possible Free Kick",708,70
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:28:09","SAFE2",710,70
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:28:09","O1",711,70
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:28:09","FK2",712,70
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:28:09","Ball Position",713,70
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:28:32","Restart",714,71
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:28:41","SAFE1",715,71
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:28:46","AT2",716,71
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:28:49","SAFE2",717,71
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:28:51","POSSIBLE_TI",718,71
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:28:53","TI1",719,71
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:29:00","Restart",720,71
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:29:05","AT1",721,71
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:29:14","DANGER1",722,71
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:29:14","DAT1",723,71
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:29:27","SAFE2",724,72
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:29:28","GK2",725,72
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:30:02","SUB1",726,72
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:30:14","Restart",727,72
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:30:29","SAFE2",728,73
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:30:34","AT2",729,73
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:30:41","DANGER2",730,73
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:30:41","DAT2",731,73
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:30:47","SAFE2",732,73
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:30:54","AT1",733,73
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:30:56","DANGER1",734,73
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:30:56","DAT1",735,73
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:31:28","SHG1",736,74
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:31:32","SAFE2",737,74
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:31:33","GK2",738,74
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:31:39","CLS",739,74
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:31:51","Possible Free Kick",740,74
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:32:00","F1",742,74
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:32:00","FK2",743,74
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:32:00","DANGER2",744,74
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:32:00","DFK2",745,74
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:32:00","Ball Position",746,74
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:32:14","Player_DATA_CONFIRMED",747,74
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:32:31","SUB2",748,75
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:32:46","Restart",749,75
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:32:48","Player_DATA_CONFIRMED",750,75
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:32:50","Player_DATA_CONFIRMED",751,75
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:32:54","Possible Free Kick",752,75
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:32:58","SAFE1",754,75
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:32:58","O2",755,75
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:32:58","FK1",756,75
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:32:58","Ball Position",757,75
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:33:11","Player_DATA_CONFIRMED",758,75
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:33:12","Restart",759,75
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:33:14","SAFE1",760,76
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:33:22","AT1",761,76
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:33:29","DANGER1",762,76
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:33:29","DAT1",763,76
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:33:37","SAFE2",764,76
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:33:45","SAFE1",765,76
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:33:51","AT1",766,76
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:33:54","SAFE2",767,76
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:33:54","AT2",768,76
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:34:14","SAFE2",769,76
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:34:22","POSSIBLE_TI",770,77
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:34:24","TI2",771,77
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:34:42","Restart",772,77
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:34:47","AT2",773,77
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:34:48","POSSIBLE_TI",774,77
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:34:49","TI1",775,77
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:34:52","Restart",776,77
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:34:53","SAFE1",777,77
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:35:00","AT1",778,77
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:35:05","Possible Free Kick",779,77
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:35:07","SAFE2",781,77
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:35:07","F1",782,77
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:35:07","FK2",783,77
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:35:07","Ball Position",784,77
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:35:16","Restart",785,78
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:35:21","AT2",786,78
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:35:30","Possible Free Kick",787,78
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:35:30","SAFE1",789,78
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:35:30","F2",790,78
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:35:30","FK1",791,78
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:35:31","Ball Position",792,78
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:36:00","Restart",793,78
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:36:01","SAFE1",794,78
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:36:11","AT1",795,78
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:36:13","SAFE1",796,78
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:36:20","AT1",797,79
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:36:25","SAFE2",798,79
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:36:26","AT2",799,79
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:36:29","POSSIBLE_TI",800,79
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:36:31","TI2",801,79
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:36:43","Restart",802,79
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:36:47","SAFE2",803,79
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:36:55","AT2",804,79
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:36:58","POSSIBLE_TI",805,79
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:36:59","TI1",806,79
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:37:15","Restart",807,80
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:37:25","SAFE2",808,80
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:37:26","AT2",809,80
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:37:30","DANGER2",810,80
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:37:30","DAT2",811,80
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:37:33","PCR2",812,80
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:37:52","CR2",813,80
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:37:56","Ball Position",814,80
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:38:07","Restart",815,80
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:38:19","SHB2",816,81
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:38:19","SAFE1",817,81
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:38:20","GK1",818,81
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:38:25","Restart",819,81
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:38:57","AT1",820,81
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:39:04","DANGER1",821,81
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:39:04","DAT1",822,81
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:39:14","POSSIBLE_TI",823,81
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:39:20","TI2",824,82
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:39:44","SUB2",825,82
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:39:49","Restart",826,82
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:39:59","Possible Free Kick",827,82
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:40:00","SAFE1",829,82
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:40:00","F2",830,82
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:40:00","FK1",831,82
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:40:01","Ball Position",832,82
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:40:09","Restart",833,82
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:40:13","SAFE1",834,82
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:40:15","Player_DATA_CONFIRMED",835,83
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:40:19","AT1",836,83
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:40:21","DANGER1",837,83
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:40:21","DAT1",838,83
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:40:37","POSSIBLE_TI",839,83
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:40:40","TI1",840,83
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:40:43","Restart",841,83
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:40:55","SAFE2",842,83
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:40:56","GK2",843,83
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:41:15","Restart",844,84
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:41:26","AT2",845,84
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:41:33","DANGER2",846,84
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:41:33","DAT2",847,84
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:41:56","SAFE1",848,84
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:42:10","AT1",849,84
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:42:13","DANGER1",850,84
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:42:13","DAT1",851,84
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:42:33","Possible Free Kick",852,85
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:42:40","SAFE2",854,85
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:42:40","F1",855,85
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:42:40","FK2",856,85
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:42:40","Ball Position",857,85
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:42:52","Restart",858,85
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:43:05","AT1",859,85
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:43:38","DANGER1",860,86
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:43:38","DAT1",861,86
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:43:58","SAFE2",862,86
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:43:59","AT2",863,86
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:44:02","SAFE1",864,86
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:44:07","AT1",865,86
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:44:11","DANGER1",866,86
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:44:11","DAT1",867,86
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:44:22","SHG1",868,87
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:44:23","SAFE2",869,87
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:44:46","AT2",870,87
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:44:50","DANGER2",871,87
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:44:50","DAT2",872,87
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:44:52","SAFE1",873,87
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:45:01","Possible Free Kick",874,87
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:45:04","F2",876,87
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:45:04","FK1",877,87
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:45:04","DANGER1",878,87
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:45:04","DFK1",879,87
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:45:04","Ball Position",880,87
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:45:11","Restart",881,87
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:45:19","POSSIBLE_TI",882,88
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:45:23","TI1",883,88
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:45:26","Restart",884,88
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:45:36","Possible Free Kick",885,88
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:45:37","SAFE2",887,88
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:45:37","F1",888,88
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:45:37","FK2",889,88
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:45:37","Ball Position",890,88
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:46:05","Restart",891,88
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:46:07","AT2",892,88
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:46:13","Possible Free Kick",893,88
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:46:23","F1",895,89
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:46:23","FK2",896,89
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:46:23","DANGER2",897,89
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:46:23","DFK2",898,89
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:46:23","Ball Position",899,89
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:46:49","Restart",900,89
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:47:04","SAFE1",901,89
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:47:07","GK1",902,89
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:47:12","Restart",903,89
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:47:19","AT1",904,90
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:47:26","POSSIBLE_TI",905,90
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:47:28","TI2",906,90
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:47:46","Restart",907,90
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:47:53","SAFE1",908,90
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:47:57","AT1",909,90
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:48:01","DANGER1",910,90
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:48:01","DAT1",911,90
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:48:10","Extra Time",912,90
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:48:14","SAFE1",913,90
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:48:21","AT1",914,91
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:48:36","DANGER1",915,91
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:48:36","DAT1",916,91
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:48:45","POSSIBLE_TI",917,91
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:48:52","TI2",918,91
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:49:04","Restart",919,91
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:49:11","AT2",920,91
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:49:11","DANGER2",921,91
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:49:11","DAT2",922,91
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:49:20","SAFE1",923,92
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:49:21","AT1",924,92
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:49:28","SAFE2",925,92
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:49:33","AT2",926,92
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:49:36","SAFE2",927,92
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:49:49","AT2",928,92
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:49:56","POSSIBLE_TI",929,92
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:49:58","TI1",930,92
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:50:04","Restart",931,92
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:50:10","AT1",932,92
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:50:10","DANGER1",933,92
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:50:10","DAT1",934,92
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:50:12","SAFE2",935,92
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:50:20","AT2",936,93
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:50:22","DANGER2",937,93
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:50:22","DAT2",938,93
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:50:27","SAFE1",939,93
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:50:29","AT1",940,93
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:50:29","DANGER1",941,93
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:50:29","DAT1",942,93
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:50:40","SHG1",943,93
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:50:55","SAFE2",944,93
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:50:56","AT2",945,93
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:51:02","DANGER2",946,93
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:51:02","DAT2",947,93
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:51:18","Possible Free Kick",948,94
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:51:24","SAFE1",950,94
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:51:24","O2",951,94
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:51:24","FK1",952,94
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:51:24","Ball Position",953,94
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:51:31","Restart",954,94
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:51:33","AT1",955,94
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:51:57","DANGER1",956,94
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:51:57","DAT1",957,94
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:52:04","POSSIBLE_TI",958,94
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:52:04","TI1",959,94
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:52:10","Restart",960,94
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:52:22","Stop RT2",961,94
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:52:22","Stop Game",962,94
+1043733,"FC Girondins de Bordeaux","SM Caen","11/11/2018 15:52:28","CONF_PERIOD_SCORE",963,94

@@ -1,0 +1,980 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+976115,"SD Eibar","UD Las Palmas","05/12/2018 15:05:45","Lineup changed",0,0
+976115,"SD Eibar","UD Las Palmas","05/12/2018 15:06:16","Transmission Online",1,0
+976115,"SD Eibar","UD Las Palmas","05/12/2018 15:53:01","Scout in Stadion",2,0
+976115,"SD Eibar","UD Las Palmas","05/12/2018 15:53:11","GCC",3,0
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:25:15","System Message",4,0
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:27:38","Players are coming out",5,0
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:27:56","Jersey Changed",6,0
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:27:57","Jersey Changed",7,0
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:27:57","Players lined up",8,0
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:28:11","Shake hands",9,0
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:28:44","Flip coin",10,0
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:29:46","Game about to start",11,0
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:30:33","Start RT1 Team 2",12,1
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:30:40","AT2",13,1
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:30:40","DANGER2",14,1
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:30:40","DAT2",15,1
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:30:43","POSSIBLE_TI",16,1
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:30:44","TI1",17,1
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:31:01","Restart",18,1
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:31:03","POSSIBLE_TI",19,1
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:31:04","TI2",20,1
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:31:14","Restart",21,1
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:31:25","SAFE1",22,1
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:31:39","AT1",23,2
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:31:49","POSSIBLE_TI",24,2
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:31:51","TI1",25,2
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:32:01","Restart",26,2
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:32:06","SAFE1",27,2
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:32:16","SAFE1",28,2
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:32:21","AT2",29,2
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:32:26","Possible Free Kick",30,2
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:32:27","F1",32,2
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:32:27","FK2",33,2
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:32:27","DANGER2",34,2
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:32:27","DFK2",35,2
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:32:27","Ball Position",36,2
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:33:04","Restart",37,3
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:33:12","SHG2",38,3
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:33:13","SAFE1",39,3
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:33:25","SAFE2",40,3
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:33:41","POSSIBLE_TI",41,4
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:33:43","TI2",42,4
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:33:51","Restart",43,4
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:33:52","AT2",44,4
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:33:52","DANGER2",45,4
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:33:52","DAT2",46,4
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:33:56","PCR2",47,4
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:33:57","CR2",48,4
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:33:59","Ball Position",49,4
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:34:10","Restart",50,4
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:34:13","PCR2",51,4
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:34:15","CR2",52,4
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:34:18","SHB2",53,4
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:34:19","Ball Position",54,4
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:34:27","Restart",55,4
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:34:33","SAFE1",56,5
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:34:35","AT1",57,5
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:34:37","SAFE2",58,5
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:34:47","AT2",59,5
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:34:51","POSSIBLE_TI",60,5
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:34:52","TI1",61,5
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:35:11","Restart",62,5
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:35:17","AT1",63,5
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:35:17","DANGER1",64,5
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:35:17","DAT1",65,5
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:35:21","GOAL1",66,5
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:35:56","Scorer",67,6
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:35:57","CONF_GOAL1",68,6
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:36:03","KO2",69,6
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:36:03","SAFE2",70,6
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:36:16","AT2",71,6
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:36:20","Player_DATA_CONFIRMED",72,6
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:36:20","Assist",73,6
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:36:27","DANGER2",74,6
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:36:27","DAT2",75,6
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:36:37","POSSIBLE_TI",76,7
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:36:37","TI2",77,7
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:36:49","Injury Break",78,7
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:39:27","SUB1",79,9
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:39:29","Restart",80,9
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:39:48","AT1",81,10
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:39:48","DANGER1",82,10
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:39:48","DAT1",83,10
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:40:05","Possible Free Kick",84,10
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:40:07","SAFE2",86,10
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:40:07","O1",87,10
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:40:07","FK2",88,10
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:40:07","Ball Position",89,10
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:40:24","Player_DATA_CONFIRMED",90,10
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:40:25","Restart",91,10
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:40:35","AT2",92,11
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:40:43","POSSIBLE_TI",93,11
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:40:43","TI2",94,11
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:40:54","Restart",95,11
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:40:59","SAFE2",96,11
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:41:11","AT2",97,11
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:41:11","DANGER2",98,11
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:41:11","DAT2",99,11
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:41:16","POSSIBLE_TI",100,11
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:41:17","TI2",101,11
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:41:24","Restart",102,11
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:41:35","SHB2",103,12
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:41:36","SAFE1",104,12
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:41:36","GK1",105,12
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:42:04","Restart",106,12
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:42:09","POSSIBLE_TI",107,12
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:42:10","TI2",108,12
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:42:14","Restart",109,12
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:42:33","SAFE2",110,12
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:42:49","SAFE1",111,13
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:42:50","AT1",112,13
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:42:54","SAFE1",113,13
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:43:19","SAFE2",114,13
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:43:36","AT1",115,14
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:43:38","DANGER1",116,14
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:43:38","DAT1",117,14
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:43:45","SAFE1",118,14
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:43:50","AT1",119,14
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:44:03","POSSIBLE_TI",120,14
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:44:04","TI2",121,14
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:44:12","Restart",122,14
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:44:21","SAFE2",123,14
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:44:27","AT1",124,14
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:44:27","DANGER1",125,14
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:44:27","DAT1",126,14
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:44:30","Possible Free Kick",127,14
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:44:33","SAFE2",129,15
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:44:33","O1",130,15
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:44:33","FK2",131,15
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:44:33","Ball Position",132,15
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:44:46","Restart",133,15
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:44:50","AT2",134,15
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:44:55","SAFE1",135,15
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:44:58","AT2",136,15
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:45:03","DANGER2",137,15
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:45:03","DAT2",138,15
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:45:16","BLOCKED2",139,15
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:45:18","POSSIBLE_TI",140,15
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:45:18","TI2",141,15
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:45:26","Restart",142,15
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:45:33","POSSIBLE_TI",143,16
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:45:34","TI1",144,16
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:45:45","Restart",145,16
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:45:49","POSSIBLE_TI",146,16
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:45:50","TI2",147,16
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:46:00","Restart",148,16
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:46:07","SAFE1",149,16
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:46:10","AT1",150,16
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:46:13","SAFE2",151,16
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:46:22","AT2",152,16
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:46:24","DANGER2",153,16
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:46:24","DAT2",154,16
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:46:25","Possible Free Kick",155,16
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:46:26","SAFE1",157,16
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:46:26","O2",158,16
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:46:26","FK1",159,16
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:46:26","Ball Position",160,16
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:46:39","Restart",161,17
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:46:44","POSSIBLE_TI",162,17
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:46:45","TI1",163,17
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:46:47","Restart",164,17
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:46:50","AT1",165,17
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:46:50","DANGER1",166,17
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:46:50","DAT1",167,17
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:46:55","POSSIBLE_TI",168,17
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:46:56","TI2",169,17
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:47:05","Restart",170,17
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:47:15","SAFE2",171,17
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:47:18","AT2",172,17
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:47:23","SAFE2",173,17
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:47:29","AT2",174,17
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:47:37","POSSIBLE_TI",175,18
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:47:39","TI2",176,18
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:47:48","Restart",177,18
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:48:01","DANGER2",178,18
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:48:01","DAT2",179,18
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:48:04","SAFE1",180,18
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:48:05","GK1",181,18
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:48:24","Restart",182,18
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:48:29","AT2",183,18
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:48:37","SAFE2",184,19
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:48:52","AT1",185,19
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:49:02","SAFE1",186,19
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:49:12","AT1",187,19
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:49:23","DANGER1",188,19
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:49:23","DAT1",189,19
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:49:29","SAFE2",190,19
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:49:29","GK2",191,19
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:49:46","Restart",192,20
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:49:58","SAFE1",193,20
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:50:05","SAFE2",194,20
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:50:08","Possible Free Kick",195,20
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:50:09","F1",197,20
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:50:09","FK2",198,20
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:50:09","DANGER2",199,20
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:50:09","DFK2",200,20
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:50:09","Ball Position",201,20
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:50:43","Restart",202,21
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:50:51","SHB2",203,21
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:50:52","SAFE1",204,21
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:50:52","GK1",205,21
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:51:22","Restart",206,21
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:51:33","AT1",207,22
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:51:37","DANGER1",208,22
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:51:37","DAT1",209,22
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:51:41","Possible Free Kick",210,22
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:51:42","F2",212,22
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:51:42","FK1",213,22
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:51:42","DFK1",214,22
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:51:42","Ball Position",215,22
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:52:21","Restart",216,22
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:52:32","SAFE2",217,22
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:52:32","GK2",218,22
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:52:43","Restart",219,23
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:53:02","SAFE1",220,23
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:53:12","POSSIBLE_TI",221,23
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:53:13","TI1",222,23
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:53:20","Restart",223,23
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:53:26","SAFE1",224,23
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:53:36","POSSIBLE_TI",225,24
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:53:37","TI1",226,24
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:53:52","Restart",227,24
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:54:10","SAFE2",228,24
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:54:15","SAFE1",229,24
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:54:39","SAFE2",230,25
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:54:43","AT2",231,25
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:54:57","POSSIBLE_TI",232,25
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:54:59","TI2",233,25
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:55:05","Restart",234,25
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:55:08","SAFE2",235,25
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:55:32","POSSIBLE_TI",236,25
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:55:34","TI1",237,26
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:55:48","Restart",238,26
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:56:00","AT2",239,26
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:56:04","DANGER2",240,26
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:56:04","DAT2",241,26
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:56:15","SAFE1",242,26
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:56:31","Possible Free Kick",243,26
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:56:32","SAFE2",245,26
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:56:32","F1",246,26
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:56:32","FK2",247,26
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:56:32","Ball Position",248,26
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:56:45","Restart",249,27
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:56:55","AT2",250,27
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:56:57","DANGER2",251,27
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:56:57","DAT2",252,27
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:57:02","SAFE1",253,27
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:57:05","AT2",254,27
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:57:08","DANGER2",255,27
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:57:08","DAT2",256,27
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:57:11","PCR2",257,27
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:57:12","CR2",258,27
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:57:15","SHG2",259,27
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:57:16","Ball Position",260,27
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:57:35","Restart",261,28
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:57:42","SHB2",262,28
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:57:43","SAFE1",263,28
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:57:43","GK1",264,28
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:57:59","Restart",265,28
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:58:15","SAFE2",266,28
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:58:27","SAFE1",267,28
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:58:34","AT2",268,29
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:58:38","DANGER2",269,29
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:58:38","DAT2",270,29
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:58:43","SAFE1",271,29
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:58:45","AT2",272,29
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:58:49","SAFE2",273,29
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:59:02","SAFE1",274,29
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:59:17","AT1",275,29
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:59:23","POSSIBLE_TI",276,29
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:59:25","TI2",277,29
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:59:36","Restart",278,30
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:59:41","SAFE1",279,30
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:59:42","AT1",280,30
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:59:45","SAFE2",281,30
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:59:56","AT2",282,30
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:59:58","DANGER2",283,30
+976115,"SD Eibar","UD Las Palmas","05/12/2018 16:59:58","DAT2",284,30
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:00:04","PCR2",285,30
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:00:08","CR2",286,30
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:00:09","Ball Position",287,30
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:00:32","Restart",288,30
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:00:40","SAFE1",289,31
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:01:05","SAFE2",290,31
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:01:10","GK2",291,31
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:01:30","Restart",292,31
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:01:38","SAFE1",293,32
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:01:44","AT1",294,32
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:01:51","Possible Free Kick",295,32
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:01:52","SAFE1",297,32
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:01:52","F2",298,32
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:01:52","FK1",299,32
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:01:52","Ball Position",300,32
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:02:10","Restart",301,32
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:02:12","Possible Free Kick",302,32
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:02:12","F2",304,32
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:02:12","FK1",305,32
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:02:13","Ball Position",306,32
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:02:20","Restart",307,32
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:02:22","AT1",308,32
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:02:24","POSSIBLE_TI",309,32
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:02:26","TI1",310,32
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:02:33","Restart",311,33
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:02:35","PPEN",312,33
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:02:35","DANGER1",313,33
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:02:35","PPEN1",314,33
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:02:40","No PEN",315,33
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:02:50","POSSIBLE_TI",316,33
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:02:50","TI2",317,33
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:03:07","Restart",318,33
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:03:09","SAFE2",319,33
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:03:12","AT2",320,33
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:03:16","POSSIBLE_CARDS",321,33
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:03:18","YC1",322,33
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:03:19","CONF_YC1",323,33
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:03:21","Scorer",324,33
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:03:23","Possible Free Kick",325,33
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:03:24","F1",327,33
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:03:24","FK2",328,33
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:03:25","DANGER2",329,33
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:03:25","DFK2",330,33
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:03:25","Ball Position",331,33
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:04:04","Restart",332,34
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:04:11","SHG2",333,34
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:04:20","Player_DATA_CONFIRMED",334,34
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:04:24","SAFE1",335,34
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:04:29","SAFE2",336,34
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:04:40","AT2",337,35
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:04:43","SAFE1",338,35
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:04:51","AT1",339,35
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:04:53","SAFE1",340,35
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:04:56","AT1",341,35
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:05:03","DANGER1",342,35
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:05:03","DAT1",343,35
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:05:20","SAFE2",344,35
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:05:23","SAFE1",345,35
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:05:31","SAFE1",346,35
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:05:38","AT1",347,36
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:05:48","DANGER1",348,36
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:05:48","DAT1",349,36
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:05:51","SAFE2",350,36
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:05:56","AT1",351,36
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:05:57","DANGER1",352,36
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:05:57","DAT1",353,36
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:06:00","SHB1",354,36
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:06:02","SAFE2",355,36
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:06:02","GK2",356,36
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:06:22","Restart",357,36
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:06:30","AT1",358,36
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:06:37","POSSIBLE_CARDS",359,37
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:06:38","YC2",360,37
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:06:39","CONF_YC2",361,37
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:06:44","Scorer",362,37
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:06:46","Possible Free Kick",363,37
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:06:47","F2",365,37
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:06:47","FK1",366,37
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:06:47","DANGER1",367,37
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:06:47","DFK1",368,37
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:06:47","Ball Position",369,37
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:06:55","Restart",370,37
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:07:00","SAFE2",371,37
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:07:03","AT2",372,37
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:07:03","DANGER2",373,37
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:07:03","DAT2",374,37
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:07:06","Player_DATA_CONFIRMED",375,37
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:07:12","SAFE1",376,37
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:07:25","AT1",377,37
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:07:25","DANGER1",378,37
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:07:25","DAT1",379,37
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:07:37","SHG1",380,38
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:07:40","SAFE2",381,38
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:07:47","Possible Free Kick",382,38
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:07:48","F1",384,38
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:07:48","FK2",385,38
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:07:48","Ball Position",386,38
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:07:53","Restart",387,38
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:08:03","AT1",388,38
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:08:03","DANGER1",389,38
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:08:03","DAT1",390,38
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:08:13","PCR1",391,38
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:08:13","CR1",392,38
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:08:14","SHB1",393,38
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:08:16","Ball Position",394,38
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:08:41","Restart",395,39
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:08:55","SHB1",396,39
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:08:55","SAFE2",397,39
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:08:56","GK2",398,39
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:09:18","Restart",399,39
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:09:40","AT2",400,40
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:09:51","SAFE2",401,40
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:09:55","SAFE1",402,40
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:10:05","POSSIBLE_TI",403,40
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:10:05","TI2",404,40
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:10:14","Restart",405,40
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:10:17","AT2",406,40
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:10:20","DANGER2",407,40
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:10:20","DAT2",408,40
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:10:24","SAFE1",409,40
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:10:54","AT1",410,41
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:10:59","DANGER1",411,41
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:10:59","DAT1",412,41
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:11:04","SHG1",413,41
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:11:20","SAFE2",414,41
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:11:32","Possible Free Kick",415,41
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:11:33","F1",417,42
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:11:33","FK2",418,42
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:11:33","Ball Position",419,42
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:11:46","Restart",420,42
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:11:53","POSSIBLE_TI",421,42
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:11:55","NO_TI",422,42
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:11:55","POSSIBLE_CARDS",423,42
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:11:58","YC1",424,42
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:11:59","CONF_YC1",425,42
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:12:02","Scorer",426,42
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:12:04","POSSIBLE_TI",427,42
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:12:05","TI2",428,42
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:12:13","Restart",429,42
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:12:14","POSSIBLE_TI",430,42
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:12:15","TI2",431,42
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:12:20","Restart",432,42
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:12:23","AT2",433,42
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:12:23","DANGER2",434,42
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:12:23","DAT2",435,42
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:12:30","PCR2",436,42
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:12:31","CR2",437,42
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:12:32","Ball Position",438,42
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:12:49","Restart",439,43
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:12:50","SAFE1",440,43
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:12:51","AT1",441,43
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:13:03","DANGER1",442,43
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:13:03","DAT1",443,43
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:13:17","POSSIBLE_TI",444,43
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:13:18","TI1",445,43
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:13:20","Restart",446,43
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:13:35","SHG1",447,44
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:13:50","Player_DATA_CONFIRMED",448,44
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:13:51","SAFE2",449,44
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:13:58","POSSIBLE_TI",450,44
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:13:59","TI1",451,44
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:14:09","Restart",452,44
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:14:12","Possible Free Kick",453,44
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:14:13","SAFE1",455,44
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:14:13","F2",456,44
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:14:13","FK1",457,44
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:14:14","Ball Position",458,44
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:14:30","Restart",459,44
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:14:38","Possible Free Kick",460,45
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:14:39","SAFE2",462,45
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:14:39","F1",463,45
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:14:39","FK2",464,45
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:14:39","Ball Position",465,45
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:14:45","Restart",466,45
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:14:58","AT2",467,45
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:15:04","DANGER2",468,45
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:15:04","DAT2",469,45
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:15:10","SAFE1",470,45
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:15:24","AT2",471,45
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:15:26","SAFE1",472,45
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:15:29","AT1",473,45
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:15:31","DANGER1",474,45
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:15:31","DAT1",475,45
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:15:41","POSSIBLE_TI",476,46
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:15:42","TI1",477,46
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:15:58","Extra Time",478,46
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:16:04","Restart",479,46
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:16:08","SAFE2",480,46
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:16:24","SAFE1",481,46
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:16:33","AT1",482,47
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:16:39","SAFE2",483,47
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:16:50","AT2",484,47
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:16:58","SAFE1",485,47
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:17:12","Possible Free Kick",486,47
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:17:13","F2",488,47
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:17:13","FK1",489,47
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:17:13","DANGER1",490,47
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:17:13","DFK1",491,47
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:17:13","Ball Position",492,47
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:17:33","Restart",493,48
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:17:40","Stop RT1",494,48
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:17:53","CONF_PERIOD_SCORE",495,45
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:30:32","Players are coming out",496,45
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:31:00","Game about to start",497,45
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:31:46","Start RT2 Team 1",498,46
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:31:57","AT1",499,46
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:32:03","DANGER1",500,46
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:32:03","DAT1",501,46
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:32:23","SAFE1",502,46
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:32:44","Possible Free Kick",503,46
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:32:49","F2",505,47
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:32:49","FK1",506,47
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:32:49","Ball Position",507,47
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:33:07","Restart",508,47
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:33:17","AT2",509,47
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:33:24","POSSIBLE_TI",510,47
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:33:26","TI2",511,47
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:33:36","Restart",512,47
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:33:46","DANGER2",513,48
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:33:46","DAT2",514,48
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:33:53","POSSIBLE_TI",515,48
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:33:54","TI1",516,48
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:34:03","Restart",517,48
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:34:10","POSSIBLE_TI",518,48
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:34:11","TI1",519,48
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:34:17","Restart",520,48
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:34:34","POSSIBLE_TI",521,48
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:34:36","TI1",522,48
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:34:41","Restart",523,48
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:34:45","SAFE1",524,48
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:34:47","AT1",525,49
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:34:51","DANGER1",526,49
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:34:51","DAT1",527,49
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:34:54","Possible Free Kick",528,49
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:34:55","F2",530,49
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:34:55","FK1",531,49
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:34:55","DFK1",532,49
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:34:55","Ball Position",533,49
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:35:23","Restart",534,49
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:35:30","SAFE2",535,49
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:35:31","GK2",536,49
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:35:48","Restart",537,50
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:35:53","SAFE2",538,50
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:36:04","AT2",539,50
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:36:14","DANGER2",540,50
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:36:14","DAT2",541,50
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:36:24","SAFE1",542,50
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:36:52","SAFE1",543,51
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:37:04","SAFE2",544,51
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:37:07","GK2",545,51
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:37:26","Restart",546,51
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:37:26","SAFE1",547,51
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:37:31","AT1",548,51
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:37:38","DANGER1",549,51
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:37:38","DAT1",550,51
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:37:42","SAFE2",551,51
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:37:58","POSSIBLE_TI",552,52
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:37:58","TI2",553,52
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:38:08","Restart",554,52
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:38:17","SAFE1",555,52
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:38:37","AT1",556,52
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:38:50","POSSIBLE_TI",557,53
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:38:51","TI1",558,53
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:39:05","SUB2",559,53
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:39:31","Restart",560,53
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:39:34","SAFE2",561,53
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:39:40","AT1",562,53
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:39:46","DANGER1",563,53
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:39:46","DAT1",564,53
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:39:51","Player_DATA_CONFIRMED",565,54
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:39:54","POSSIBLE_TI",566,54
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:39:55","TI1",567,54
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:40:14","Restart",568,54
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:40:26","SAFE1",569,54
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:40:31","AT1",570,54
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:40:43","POSSIBLE_TI",571,54
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:40:44","TI1",572,54
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:40:54","Restart",573,55
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:40:57","SAFE1",574,55
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:41:02","AT1",575,55
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:41:06","DANGER1",576,55
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:41:06","DAT1",577,55
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:41:15","SAFE2",578,55
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:41:20","SAFE1",579,55
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:41:46","POSSIBLE_TI",580,55
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:41:47","TI1",581,56
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:41:48","Restart",582,56
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:41:54","AT1",583,56
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:42:02","DANGER1",584,56
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:42:02","DAT1",585,56
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:42:06","SAFE2",586,56
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:42:16","AT1",587,56
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:42:16","DANGER1",588,56
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:42:16","DAT1",589,56
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:42:24","PCR1",590,56
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:42:26","SHB1",591,56
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:42:27","NCR1",592,56
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:42:27","SAFE2",593,56
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:42:28","GK2",594,56
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:42:52","Restart",595,57
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:43:07","Possible Free Kick",596,57
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:43:08","SAFE1",598,57
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:43:08","F2",599,57
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:43:08","FK1",600,57
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:43:08","Ball Position",601,57
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:43:09","Restart",602,57
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:43:11","AT1",603,57
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:43:16","DANGER1",604,57
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:43:16","DAT1",605,57
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:43:28","SAFE2",606,57
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:43:31","AT2",607,57
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:43:41","SAFE2",608,57
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:43:49","AT2",609,58
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:43:51","DANGER2",610,58
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:43:51","DAT2",611,58
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:43:56","SHG2",612,58
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:43:56","SAFE1",613,58
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:44:13","SAFE1",614,58
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:44:20","AT1",615,58
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:44:25","SAFE2",616,58
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:44:30","AT2",617,58
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:44:34","SAFE1",618,58
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:44:56","AT2",619,59
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:45:02","DANGER2",620,59
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:45:02","DAT2",621,59
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:45:12","Possible Free Kick",622,59
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:45:14","SAFE1",624,59
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:45:14","O2",625,59
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:45:14","FK1",626,59
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:45:14","Ball Position",627,59
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:45:48","Restart",628,60
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:45:52","SAFE2",629,60
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:46:01","SAFE1",630,60
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:46:16","SAFE2",631,60
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:46:18","AT1",632,60
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:46:26","POSSIBLE_TI",633,60
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:46:27","TI2",634,60
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:46:32","Restart",635,60
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:46:42","Possible Free Kick",636,60
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:46:43","SAFE2",638,60
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:46:43","F1",639,60
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:46:43","FK2",640,60
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:46:43","Ball Position",641,60
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:46:56","Restart",642,61
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:47:04","AT1",643,61
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:47:09","Possible Free Kick",644,61
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:47:09","SAFE1",646,61
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:47:09","F2",647,61
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:47:09","FK1",648,61
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:47:10","Ball Position",649,61
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:47:10","Restart",650,61
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:47:12","AT1",651,61
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:47:15","SAFE2",652,61
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:47:25","Possible Free Kick",653,61
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:47:25","F1",655,61
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:47:25","FK2",656,61
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:47:25","Ball Position",657,61
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:47:43","Restart",658,61
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:48:08","SAFE1",659,62
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:48:15","AT1",660,62
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:48:22","SAFE2",661,62
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:48:31","AT2",662,62
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:48:32","SAFE1",663,62
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:48:34","AT2",664,62
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:48:34","DANGER2",665,62
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:48:34","DAT2",666,62
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:48:49","PCR2",667,63
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:48:50","CR2",668,63
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:48:55","Ball Position",669,63
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:49:10","Restart",670,63
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:49:18","PCR2",671,63
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:49:18","CR2",672,63
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:49:19","SHB2",673,63
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:49:19","Ball Position",674,63
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:49:35","Restart",675,63
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:49:38","PCR2",676,63
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:49:38","CR2",677,63
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:49:40","SHB2",678,63
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:49:41","Ball Position",679,63
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:49:53","Restart",680,64
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:50:06","SAFE1",681,64
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:50:10","POSSIBLE_TI",682,64
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:50:12","TI2",683,64
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:50:21","Restart",684,64
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:50:26","SAFE2",685,64
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:50:53","AT1",686,65
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:50:56","SAFE2",687,65
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:51:00","AT2",688,65
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:51:01","SAFE1",689,65
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:51:10","AT1",690,65
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:51:18","SAFE1",691,65
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:51:22","POSSIBLE_TI",692,65
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:51:23","TI1",693,65
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:51:45","SUB2",694,65
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:51:54","Restart",695,66
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:52:00","POSSIBLE_TI",696,66
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:52:01","TI1",697,66
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:52:12","Restart",698,66
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:52:29","AT1",699,66
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:52:40","SAFE1",700,66
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:52:40","AT2",701,66
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:52:48","SAFE2",702,67
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:52:58","AT1",703,67
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:53:02","SAFE2",704,67
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:53:10","AT2",705,67
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:53:16","POSSIBLE_TI",706,67
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:53:18","TI2",707,67
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:53:21","Restart",708,67
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:53:21","Player_DATA_CONFIRMED",709,67
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:53:30","SAFE2",710,67
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:53:40","AT2",711,67
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:53:45","SAFE1",712,67
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:53:47","AT1",713,68
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:53:51","DANGER1",714,68
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:53:51","DAT1",715,68
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:54:08","SAFE2",716,68
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:54:14","Possible Free Kick",717,68
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:54:15","F1",719,68
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:54:15","FK2",720,68
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:54:15","Ball Position",721,68
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:54:16","Restart",722,68
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:54:17","AT2",723,68
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:54:20","DANGER2",724,68
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:54:20","DAT2",725,68
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:54:28","SAFE1",726,68
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:54:28","GK1",727,68
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:54:55","Restart",728,69
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:54:58","AT1",729,69
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:55:00","DANGER1",730,69
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:55:00","DAT1",731,69
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:55:04","SAFE2",732,69
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:55:15","SAFE1",733,69
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:55:21","AT1",734,69
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:55:31","DANGER1",735,69
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:55:31","DAT1",736,69
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:56:02","SAFE1",737,70
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:56:09","AT2",738,70
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:56:11","DANGER2",739,70
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:56:11","DAT2",740,70
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:56:15","PCR2",741,70
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:56:16","CR2",742,70
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:56:17","SHG2",743,70
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:56:17","Ball Position",744,70
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:56:40","Restart",745,70
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:56:44","POSSIBLE_TI",746,70
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:56:44","TI2",747,70
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:57:06","SUB1",748,71
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:57:29","Restart",749,71
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:57:34","SAFE1",750,71
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:57:41","AT2",751,71
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:57:45","DANGER2",752,71
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:57:45","DAT2",753,71
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:57:54","POSSIBLE_TI",754,72
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:57:55","TI2",755,72
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:58:02","Restart",756,72
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:58:07","SAFE1",757,72
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:58:07","GK1",758,72
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:58:18","Restart",759,72
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:58:32","Possible Free Kick",760,72
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:58:33","SAFE2",762,72
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:58:33","F1",763,72
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:58:33","FK2",764,72
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:58:33","Ball Position",765,72
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:58:39","Restart",766,72
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:58:48","AT2",767,73
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:58:48","DANGER2",768,73
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:58:48","DAT2",769,73
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:58:53","SAFE1",770,73
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:58:55","AT1",771,73
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:58:58","DANGER1",772,73
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:58:58","DAT1",773,73
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:59:04","PCR1",774,73
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:59:05","CR1",775,73
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:59:06","Ball Position",776,73
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:59:29","Restart",777,73
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:59:39","SAFE1",778,73
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:59:45","SAFE2",779,73
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:59:48","AT2",780,74
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:59:51","Player_DATA_CONFIRMED",781,74
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:59:58","POSSIBLE_TI",782,74
+976115,"SD Eibar","UD Las Palmas","05/12/2018 17:59:59","TI2",783,74
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:00:04","Restart",784,74
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:00:06","DANGER2",785,74
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:00:06","DAT2",786,74
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:00:08","SAFE2",787,74
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:00:13","AT2",788,74
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:00:18","DANGER2",789,74
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:00:18","DAT2",790,74
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:00:26","POSSIBLE_TI",791,74
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:00:26","TI2",792,74
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:00:45","SUB1",793,74
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:01:16","Restart",794,75
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:01:20","SAFE1",795,75
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:01:23","Player_DATA_CONFIRMED",796,75
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:01:29","AT1",797,75
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:01:29","DANGER1",798,75
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:01:29","DAT1",799,75
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:01:31","Possible Free Kick",800,75
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:01:33","SAFE2",802,75
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:01:33","O1",803,75
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:01:33","FK2",804,75
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:01:33","Ball Position",805,75
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:01:45","Restart",806,75
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:01:52","AT1",807,76
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:01:52","DANGER1",808,76
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:01:52","DAT1",809,76
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:01:55","SHB1",810,76
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:01:56","SAFE2",811,76
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:01:57","GK2",812,76
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:02:27","Restart",813,76
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:02:40","SAFE1",814,76
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:02:42","AT1",815,76
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:02:45","SAFE2",816,76
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:02:59","AT2",817,77
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:03:00","SAFE1",818,77
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:03:03","AT1",819,77
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:03:10","SAFE2",820,77
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:03:15","AT2",821,77
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:03:18","SAFE1",822,77
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:03:30","AT1",823,77
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:03:34","DANGER1",824,77
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:03:34","DAT1",825,77
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:03:44","SAFE2",826,77
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:03:49","POSSIBLE_TI",827,78
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:03:50","TI1",828,78
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:03:58","Restart",829,78
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:04:04","AT1",830,78
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:04:08","SAFE1",831,78
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:04:15","AT1",832,78
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:04:19","SAFE2",833,78
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:04:24","AT1",834,78
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:04:24","DANGER1",835,78
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:04:24","DAT1",836,78
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:04:31","Possible Free Kick",837,78
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:04:34","F2",839,78
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:04:34","FK1",840,78
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:04:34","DFK1",841,78
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:04:34","Ball Position",842,78
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:04:58","Restart",843,79
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:05:16","SAFE2",844,79
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:05:46","AT1",845,79
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:05:59","POSSIBLE_TI",846,80
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:06:00","TI2",847,80
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:06:12","SUB2",848,80
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:06:23","Restart",849,80
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:06:33","SAFE1",850,80
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:06:35","AT1",851,80
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:06:35","DANGER1",852,80
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:06:35","DAT1",853,80
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:06:38","POSSIBLE_TI",854,80
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:06:41","TI1",855,80
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:06:49","Restart",856,81
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:07:22","SUB_UPDATE",857,81
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:07:22","Player_DATA_CONFIRMED",858,81
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:07:29","POSSIBLE_TI",859,81
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:07:31","TI2",860,81
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:07:35","Restart",861,81
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:07:38","SAFE2",862,81
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:07:43","Possible Free Kick",863,81
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:07:43","F1",865,81
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:07:43","FK2",866,81
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:07:43","Ball Position",867,81
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:07:52","Restart",868,82
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:07:58","AT2",869,82
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:08:03","DANGER2",870,82
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:08:03","DAT2",871,82
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:08:06","POSSIBLE_TI",872,82
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:08:07","TI2",873,82
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:08:35","Restart",874,82
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:08:40","SAFE2",875,82
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:08:42","AT2",876,82
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:08:47","SAFE2",877,83
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:09:01","SAFE1",878,83
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:09:11","Possible Free Kick",879,83
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:09:13","SAFE2",881,83
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:09:13","O1",882,83
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:09:13","FK2",883,83
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:09:13","Ball Position",884,83
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:09:15","Restart",885,83
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:09:28","AT2",886,83
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:09:40","Possible Free Kick",887,83
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:09:41","SAFE1",889,83
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:09:41","O2",890,83
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:09:41","FK1",891,83
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:09:41","Ball Position",892,83
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:10:04","Restart",893,84
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:10:13","AT2",894,84
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:10:13","DANGER2",895,84
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:10:13","DAT2",896,84
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:10:15","SAFE2",897,84
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:10:17","AT1",898,84
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:10:22","DANGER1",899,84
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:10:22","DAT1",900,84
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:10:37","PCR1",901,84
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:10:38","CR1",902,84
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:10:39","SHG1",903,84
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:10:39","Ball Position",904,84
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:11:09","Restart",905,85
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:11:34","SAFE1",906,85
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:11:40","AT1",907,85
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:11:49","SAFE2",908,86
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:11:56","AT2",909,86
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:11:58","Possible Free Kick",910,86
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:11:59","SAFE1",912,86
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:11:59","O2",913,86
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:11:59","FK1",914,86
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:11:59","Ball Position",915,86
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:12:12","Restart",916,86
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:12:19","POSSIBLE_TI",917,86
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:12:20","TI1",918,86
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:12:26","Restart",919,86
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:12:28","SAFE2",920,86
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:12:32","AT1",921,86
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:12:35","DANGER1",922,86
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:12:35","DAT1",923,86
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:12:40","SHG1",924,86
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:12:41","SAFE2",925,86
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:12:46","AT2",926,87
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:12:48","SAFE1",927,87
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:12:53","AT2",928,87
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:12:53","DANGER2",929,87
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:12:53","DAT2",930,87
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:12:53","BREAKAWAY2",931,87
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:13:02","POSSIBLE_TI",932,87
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:13:04","TI2",933,87
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:13:11","Restart",934,87
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:13:14","SAFE2",935,87
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:13:29","AT2",936,87
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:13:39","SAFE1",937,87
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:13:46","AT2",938,87
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:13:50","SAFE1",939,88
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:14:01","SAFE2",940,88
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:14:05","AT2",941,88
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:14:09","SAFE1",942,88
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:14:18","AT1",943,88
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:14:22","Possible Free Kick",944,88
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:14:25","F2",947,88
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:14:25","FK1",948,88
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:14:25","DANGER1",949,88
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:14:25","DFK1",950,88
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:14:25","Ball Position",951,88
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:14:36","Restart",952,88
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:14:46","SAFE2",953,89
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:15:03","AT2",954,89
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:15:32","DANGER2",955,89
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:15:32","DAT2",956,89
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:15:36","PCR2",957,89
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:15:38","CR2",958,89
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:15:40","SHB2",959,89
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:15:42","Ball Position",960,89
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:16:01","Restart",961,90
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:16:11","SAFE2",962,90
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:16:24","AT2",963,90
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:16:30","SAFE1",964,90
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:16:32","POSSIBLE_TI",965,90
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:16:33","TI1",966,90
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:16:44","Restart",967,90
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:16:49","Extra Time",968,91
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:16:54","AT2",969,91
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:16:57","DANGER2",970,91
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:16:57","DAT2",971,91
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:16:59","PCR2",972,91
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:17:00","CR2",973,91
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:17:01","Ball Position",974,91
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:17:23","Restart",975,91
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:17:30","POSSIBLE_TI",976,91
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:17:32","TI2",977,91
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:17:41","Restart",978,91
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:18:06","SAFE1",979,92
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:18:09","AT1",980,92
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:18:13","DANGER1",981,92
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:18:13","DAT1",982,92
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:18:22","POSSIBLE_TI",983,92
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:18:25","TI2",984,92
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:18:39","Restart",985,92
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:18:50","SAFE2",986,93
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:18:52","SAFE1",987,93
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:18:55","AT1",988,93
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:18:59","DANGER1",989,93
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:18:59","DAT1",990,93
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:19:05","POSSIBLE_TI",991,93
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:19:07","TI1",992,93
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:19:26","Restart",993,93
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:19:53","SHG1",994,94
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:19:57","POSSIBLE_CARDS",995,94
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:20:00","YC1",996,94
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:20:02","CONF_YC1",997,94
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:20:04","Scorer",998,94
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:20:04","Possible Free Kick",999,94
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:20:04","SAFE2",1001,94
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:20:04","F1",1002,94
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:20:04","FK2",1003,94
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:20:04","Ball Position",1004,94
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:20:15","Restart",1005,94
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:20:16","AT2",1006,94
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:20:16","DANGER2",1007,94
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:20:16","DAT2",1008,94
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:20:22","Stop RT2",1009,94
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:20:22","Stop Game",1010,94
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:20:27","CONF_PERIOD_SCORE",1011,93
+976115,"SD Eibar","UD Las Palmas","05/12/2018 18:21:11","Player_DATA_CONFIRMED",1012,93

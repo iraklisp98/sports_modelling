@@ -1,0 +1,916 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+851759,"SM Caen","AS Saint Etienne","08/12/2017 17:06:18","Scout in Stadion",0,0
+851759,"SM Caen","AS Saint Etienne","08/12/2017 17:06:23","Transmission Online",1,0
+851759,"SM Caen","AS Saint Etienne","08/12/2017 17:06:42","GCC",2,0
+851759,"SM Caen","AS Saint Etienne","08/12/2017 17:17:58","Lineup changed",3,0
+851759,"SM Caen","AS Saint Etienne","08/12/2017 17:22:43","Lineup changed",4,0
+851759,"SM Caen","AS Saint Etienne","08/12/2017 17:56:19","Players are coming out",5,0
+851759,"SM Caen","AS Saint Etienne","08/12/2017 17:56:40","Jersey Changed",6,0
+851759,"SM Caen","AS Saint Etienne","08/12/2017 17:56:41","Jersey Changed",7,0
+851759,"SM Caen","AS Saint Etienne","08/12/2017 17:56:41","Players lined up",8,0
+851759,"SM Caen","AS Saint Etienne","08/12/2017 17:57:01","Shake hands",9,0
+851759,"SM Caen","AS Saint Etienne","08/12/2017 17:57:35","Flip coin",10,0
+851759,"SM Caen","AS Saint Etienne","08/12/2017 17:58:31","Minute of silent",11,0
+851759,"SM Caen","AS Saint Etienne","08/12/2017 17:59:54","Game about to start",12,0
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:00:04","Start RT1 Team 1",13,1
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:00:06","SAFE1",14,1
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:00:08","AT1",15,1
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:00:10","DANGER1",16,1
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:00:10","DAT1",17,1
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:00:15","POSSIBLE_TI",18,1
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:00:19","TI2",19,1
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:00:23","Restart",20,1
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:00:27","SAFE2",21,1
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:00:28","POSSIBLE_TI",22,1
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:00:34","TI2",23,1
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:00:40","Restart",24,1
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:01:07","POSSIBLE_TI",25,2
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:01:09","TI2",26,2
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:01:13","Restart",27,2
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:01:23","AT2",28,2
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:01:31","DANGER2",29,2
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:01:31","DAT2",30,2
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:01:39","SAFE1",31,2
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:01:40","AT1",32,2
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:01:53","DANGER1",33,2
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:01:53","DAT1",34,2
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:01:57","SHG1",35,2
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:01:59","SAFE2",36,2
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:02:22","AT2",37,3
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:02:25","DANGER2",38,3
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:02:25","DAT2",39,3
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:02:28","POSSIBLE_TI",40,3
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:02:33","TI1",41,3
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:02:38","Restart",42,3
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:02:44","SAFE2",43,3
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:03:03","AT2",44,3
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:03:10","SAFE2",45,4
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:03:29","SAFE1",46,4
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:03:29","POSSIBLE_TI",47,4
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:03:30","TI1",48,4
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:03:45","Restart",49,4
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:03:46","AT1",50,4
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:03:56","DANGER1",51,4
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:03:56","DAT1",52,4
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:04:00","POSSIBLE_TI",53,4
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:04:02","TI1",54,4
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:04:04","Restart",55,5
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:04:11","POSSIBLE_TI",56,5
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:04:13","TI1",57,5
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:04:16","Restart",58,5
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:04:29","POSSIBLE_TI",59,5
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:04:30","TI1",60,5
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:04:41","Restart",61,5
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:04:51","PCR1",62,5
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:05:02","CR1",63,5
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:05:08","Ball Position",64,6
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:05:23","Restart",65,6
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:05:32","SAFE2",66,6
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:05:34","AT2",67,6
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:05:35","DANGER2",68,6
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:05:35","DAT2",69,6
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:06:01","BLOCKED2",70,6
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:06:08","SAFE1",71,7
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:06:42","AT1",72,7
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:06:48","SAFE2",73,7
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:06:50","GK2",74,7
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:07:10","Restart",75,8
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:07:13","AT1",76,8
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:07:16","DANGER1",77,8
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:07:16","DAT1",78,8
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:07:22","SAFE2",79,8
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:07:24","Possible Free Kick",80,8
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:07:35","F1",82,8
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:07:35","FK2",83,8
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:07:36","Ball Position",84,8
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:07:40","Restart",85,8
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:07:53","AT1",86,8
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:07:59","SAFE2",87,8
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:08:09","AT2",88,9
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:08:12","POSSIBLE_TI",89,9
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:08:16","TI2",90,9
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:08:20","Restart",91,9
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:08:27","SAFE1",92,9
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:08:38","Possible Free Kick",93,9
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:08:43","F2",95,9
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:08:43","FK1",96,9
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:08:43","Ball Position",97,9
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:08:55","Restart",98,9
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:08:56","AT1",99,9
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:08:57","DANGER1",100,9
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:08:57","DAT1",101,9
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:09:07","SHB1",102,10
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:09:08","SAFE2",103,10
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:09:09","GK2",104,10
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:09:26","Restart",105,10
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:09:36","POSSIBLE_TI",106,10
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:09:43","TI2",107,10
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:09:54","Restart",108,10
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:10:01","Possible Free Kick",109,10
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:10:01","F1",111,10
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:10:01","FK2",112,10
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:10:02","Ball Position",113,10
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:10:07","Restart",114,11
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:10:08","AT2",115,11
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:10:08","DANGER2",116,11
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:10:08","DAT2",117,11
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:10:19","POSSIBLE_TI",118,11
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:10:19","TI1",119,11
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:10:29","Restart",120,11
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:10:35","SAFE1",121,11
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:10:37","AT2",122,11
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:10:46","SAFE1",123,11
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:10:46","POSSIBLE_TI",124,11
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:10:47","TI1",125,11
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:10:55","Restart",126,11
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:11:00","SAFE2",127,11
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:11:09","AT2",128,12
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:11:13","DANGER2",129,12
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:11:13","DAT2",130,12
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:11:22","POSSIBLE_TI",131,12
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:11:23","TI2",132,12
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:11:25","Restart",133,12
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:11:40","POSSIBLE_TI",134,12
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:11:42","TI2",135,12
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:11:53","Restart",136,12
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:12:03","POSSIBLE_TI",137,12
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:12:05","TI2",138,13
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:12:10","Restart",139,13
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:12:36","POSSIBLE_TI",140,13
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:12:37","TI2",141,13
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:12:47","Restart",142,13
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:13:00","POSSIBLE_TI",143,13
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:13:01","TI1",144,13
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:13:09","Restart",145,14
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:13:13","SAFE1",146,14
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:13:17","AT2",147,14
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:13:19","DANGER2",148,14
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:13:19","DAT2",149,14
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:13:37","SHW2",150,14
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:13:38","SHG2",151,14
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:13:41","SAFE1",152,14
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:14:13","AT2",153,15
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:14:20","DANGER2",154,15
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:14:20","DAT2",155,15
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:14:26","SAFE1",156,15
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:14:27","GK1",157,15
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:15:01","Restart",158,15
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:15:04","AT1",159,16
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:15:06","POSSIBLE_TI",160,16
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:15:07","TI1",161,16
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:15:18","Restart",162,16
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:15:37","DANGER1",163,16
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:15:37","DAT1",164,16
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:15:44","POSSIBLE_TI",165,16
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:15:44","TI1",166,16
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:15:58","Restart",167,16
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:16:12","SAFE2",168,17
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:16:15","AT2",169,17
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:16:20","DANGER2",170,17
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:16:20","DAT2",171,17
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:16:30","POSSIBLE_TI",172,17
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:16:43","TI1",173,17
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:16:48","Restart",174,17
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:16:51","SAFE1",175,17
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:16:53","AT1",176,17
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:16:59","SAFE2",177,17
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:17:02","AT2",178,17
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:17:06","SAFE1",179,18
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:17:07","POSSIBLE_TI",180,18
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:17:09","TI1",181,18
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:17:11","Restart",182,18
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:17:19","SAFE2",183,18
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:17:20","AT2",184,18
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:17:22","SAFE1",185,18
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:17:26","AT2",186,18
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:17:32","DANGER2",187,18
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:17:32","DAT2",188,18
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:17:34","Possible Free Kick",189,18
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:17:44","F1",191,18
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:17:44","FK2",192,18
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:17:44","DFK2",193,18
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:17:44","Ball Position",194,18
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:18:31","Restart",195,19
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:19:00","SAFE1",196,19
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:19:06","AT1",197,20
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:19:10","DANGER1",198,20
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:19:10","DAT1",199,20
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:19:15","PCR1",200,20
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:19:18","CR1",201,20
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:19:21","Ball Position",202,20
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:19:44","Restart",203,20
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:19:50","POSSIBLE_TI",204,20
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:19:52","TI1",205,20
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:20:09","Restart",206,21
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:20:12","SAFE2",207,21
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:20:14","POSSIBLE_TI",208,21
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:20:16","TI2",209,21
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:20:32","Restart",210,21
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:20:36","Possible Free Kick",211,21
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:20:40","POSSIBLE_CARDS",213,21
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:20:48","NO_Cards",214,21
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:20:49","F1",215,21
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:20:49","FK2",216,21
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:20:49","Ball Position",217,21
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:20:52","Restart",218,21
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:21:05","AT2",219,22
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:21:07","DANGER2",220,22
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:21:07","DAT2",221,22
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:21:14","POSSIBLE_TI",222,22
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:21:15","TI1",223,22
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:21:25","Restart",224,22
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:21:38","SAFE1",225,22
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:21:39","Possible Free Kick",226,22
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:21:43","F2",228,22
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:21:43","FK1",229,22
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:21:43","Ball Position",230,22
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:21:53","Restart",231,22
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:21:54","AT1",232,22
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:21:57","DANGER1",233,22
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:21:57","DAT1",234,22
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:22:17","PCR1",235,23
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:22:19","CR1",236,23
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:22:22","Ball Position",237,23
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:23:01","Restart",238,23
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:23:05","PCR1",239,24
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:23:07","CR1",240,24
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:23:10","Ball Position",241,24
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:23:44","POSSIBLE_CARDS",242,24
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:23:53","NO_Cards",243,24
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:24:03","Restart",244,24
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:24:06","SAFE2",245,25
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:24:08","Possible Free Kick",246,25
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:24:11","POSSIBLE_CARDS",248,25
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:24:19","F1",249,25
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:24:19","FK2",250,25
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:24:19","Ball Position",251,25
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:24:31","NO_Cards",252,25
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:24:54","Restart",253,25
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:24:57","AT2",254,25
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:24:59","DANGER2",255,25
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:24:59","DAT2",256,25
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:25:07","SAFE1",257,26
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:25:08","GK1",258,26
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:25:38","Restart",259,26
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:25:42","AT2",260,26
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:25:44","DANGER2",261,26
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:25:44","DAT2",262,26
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:25:53","POSSIBLE_TI",263,26
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:25:53","TI1",264,26
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:25:57","Restart",265,26
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:26:03","POSSIBLE_TI",266,26
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:26:04","TI2",267,26
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:26:13","Restart",268,27
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:26:26","SAFE1",269,27
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:26:27","Possible Free Kick",270,27
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:26:28","POSSIBLE_CARDS",272,27
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:26:35","NO_Cards",273,27
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:26:36","F2",274,27
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:26:36","FK1",275,27
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:26:36","Ball Position",276,27
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:26:49","AT1",277,27
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:26:49","DANGER1",278,27
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:26:49","DAT1",279,27
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:26:50","Restart",280,27
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:26:58","SAFE2",281,27
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:27:10","AT2",282,28
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:27:22","DANGER2",283,28
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:27:22","DAT2",284,28
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:27:29","POSSIBLE_TI",285,28
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:27:33","TI2",286,28
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:27:38","Restart",287,28
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:27:46","SAFE1",288,28
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:27:47","AT1",289,28
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:27:48","DANGER1",290,28
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:27:48","DAT1",291,28
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:27:56","SHG1",292,28
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:27:57","SAFE2",293,28
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:28:35","AT2",294,29
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:28:35","DANGER2",295,29
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:28:35","DAT2",296,29
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:28:40","SAFE1",297,29
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:28:41","Possible Free Kick",298,29
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:28:45","F2",300,29
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:28:45","FK1",301,29
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:28:45","Ball Position",302,29
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:28:45","Restart",303,29
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:28:47","AT1",304,29
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:28:50","DANGER1",305,29
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:28:50","DAT1",306,29
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:29:12","SAFE2",307,30
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:29:19","AT1",308,30
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:29:21","DANGER1",309,30
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:29:21","DAT1",310,30
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:29:39","SHG1",311,30
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:29:50","SAFE1",312,30
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:30:00","AT1",313,30
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:30:02","DANGER1",314,30
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:30:02","DAT1",315,30
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:30:12","SAFE2",316,31
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:30:13","AT2",317,31
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:30:14","DANGER2",318,31
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:30:14","DAT2",319,31
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:30:23","BLOCKED2",320,31
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:30:26","POSSIBLE_TI",321,31
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:30:27","TI2",322,31
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:30:41","Restart",323,31
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:31:11","SAFE1",324,32
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:31:12","POSSIBLE_TI",325,32
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:31:14","TI1",326,32
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:31:52","Restart",327,32
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:31:55","AT1",328,32
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:32:07","DANGER1",329,33
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:32:07","DAT1",330,33
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:32:12","SAFE2",331,33
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:32:13","GK2",332,33
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:32:44","Restart",333,33
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:32:55","POSSIBLE_TI",334,33
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:33:03","TI2",335,33
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:33:04","Restart",336,33
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:33:20","AT1",337,34
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:33:20","POSSIBLE_TI",338,34
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:33:22","TI1",339,34
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:33:25","Restart",340,34
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:33:32","SAFE1",341,34
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:33:51","AT1",342,34
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:33:52","DANGER1",343,34
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:33:52","DAT1",344,34
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:33:58","PCR1",345,34
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:34:01","CR1",346,34
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:34:03","Ball Position",347,34
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:34:25","Restart",348,35
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:34:30","SAFE2",349,35
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:34:35","AT2",350,35
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:34:38","POSSIBLE_TI",351,35
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:34:42","TI2",352,35
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:34:43","Restart",353,35
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:35:04","Possible Free Kick",354,36
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:35:10","F1",356,36
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:35:10","FK2",357,36
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:35:10","DANGER2",358,36
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:35:10","DFK2",359,36
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:35:10","Ball Position",360,36
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:35:38","Restart",361,36
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:35:50","SAFE1",362,36
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:35:51","Possible Free Kick",363,36
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:35:54","O2",365,36
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:35:54","FK1",366,36
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:35:54","Ball Position",367,36
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:36:16","Restart",368,37
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:36:19","AT1",369,37
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:36:24","DANGER1",370,37
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:36:24","DAT1",371,37
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:36:47","POSSIBLE_TI",372,37
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:36:49","TI1",373,37
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:36:54","Restart",374,37
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:36:57","POSSIBLE_TI",375,37
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:36:59","TI1",376,37
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:37:05","Restart",377,38
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:37:11","SAFE2",378,38
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:37:35","POSSIBLE_TI",379,38
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:37:38","TI2",380,38
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:37:42","Restart",381,38
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:37:50","AT2",382,38
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:37:55","DANGER2",383,38
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:37:55","DAT2",384,38
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:38:05","SAFE1",385,39
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:38:06","Possible Free Kick",386,39
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:38:15","O2",388,39
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:38:15","FK1",389,39
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:38:15","Ball Position",390,39
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:38:51","Restart",391,39
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:38:55","SAFE2",392,39
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:38:57","AT2",393,39
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:39:00","SAFE1",394,39
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:39:01","AT1",395,39
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:39:04","Possible Free Kick",396,40
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:39:12","F2",398,40
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:39:12","FK1",399,40
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:39:12","DANGER1",400,40
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:39:12","DFK1",401,40
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:39:12","Ball Position",402,40
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:39:51","Restart",403,40
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:39:57","SHB1",404,40
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:39:58","SAFE2",405,40
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:39:59","GK2",406,40
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:40:20","Restart",407,41
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:40:27","AT2",408,41
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:40:29","SAFE1",409,41
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:40:29","POSSIBLE_TI",410,41
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:40:31","TI1",411,41
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:40:33","Restart",412,41
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:40:47","AT2",413,41
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:40:56","SAFE1",414,41
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:40:57","AT1",415,41
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:40:59","POSSIBLE_TI",416,41
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:41:00","TI1",417,41
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:41:04","Restart",418,42
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:41:16","POSSIBLE_TI",419,42
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:41:18","TI1",420,42
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:41:22","Restart",421,42
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:41:57","DANGER1",422,42
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:41:57","DAT1",423,42
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:42:13","BLOCKED1",424,43
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:42:23","SAFE2",425,43
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:42:25","GK2",426,43
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:43:05","Restart",427,44
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:43:33","AT2",428,44
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:43:40","DANGER2",429,44
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:43:40","DAT2",430,44
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:43:46","POSSIBLE_TI",431,44
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:43:47","TI2",432,44
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:43:49","Restart",433,44
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:44:13","SAFE1",434,45
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:44:14","POSSIBLE_TI",435,45
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:44:22","TI1",436,45
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:44:29","Restart",437,45
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:44:37","AT2",438,45
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:44:43","DANGER2",439,45
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:44:43","DAT2",440,45
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:44:52","SAFE1",441,45
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:44:53","GK1",442,45
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:45:12","CLS",443,46
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:45:17","Stop RT1",444,46
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:45:21","CONF_PERIOD_SCORE",445,45
+851759,"SM Caen","AS Saint Etienne","08/12/2017 18:59:50","Players are coming out",446,45
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:01:10","Game about to start",447,45
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:01:53","Start RT2 Team 2",448,46
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:01:56","AT2",449,46
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:01:59","SAFE1",450,46
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:02:01","POSSIBLE_TI",451,46
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:02:01","TI1",452,46
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:02:12","Restart",453,46
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:02:15","AT1",454,46
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:02:17","SAFE2",455,46
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:02:26","POSSIBLE_TI",456,46
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:02:27","TI1",457,46
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:02:31","Restart",458,46
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:02:32","SAFE1",459,46
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:02:34","AT2",460,46
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:02:35","DANGER2",461,46
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:02:35","DAT2",462,46
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:02:59","SAFE1",463,47
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:03:15","SAFE2",464,47
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:03:43","AT2",465,47
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:03:45","DANGER2",466,47
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:03:45","DAT2",467,47
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:03:54","PCR2",468,48
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:03:58","SHB2",469,48
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:03:59","CR2",470,48
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:04:03","Ball Position",471,48
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:04:18","Restart",472,48
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:04:23","SAFE1",473,48
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:04:24","AT1",474,48
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:04:26","DANGER1",475,48
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:04:26","DAT1",476,48
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:04:31","SAFE2",477,48
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:05:00","AT2",478,49
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:05:16","DANGER2",479,49
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:05:16","DAT2",480,49
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:05:32","POSSIBLE_TI",481,49
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:05:33","TI2",482,49
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:05:50","Restart",483,49
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:06:19","PCR2",484,50
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:06:22","CR2",485,50
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:06:24","Ball Position",486,50
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:06:40","Restart",487,50
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:06:44","POSSIBLE_TI",488,50
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:06:45","TI2",489,50
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:07:08","Restart",490,51
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:07:12","POSSIBLE_TI",491,51
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:07:14","TI2",492,51
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:07:18","Restart",493,51
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:07:23","POSSIBLE_TI",494,51
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:07:24","TI2",495,51
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:07:25","Restart",496,51
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:07:33","SAFE1",497,51
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:07:34","Possible Free Kick",498,51
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:07:35","POSSIBLE_CARDS",500,51
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:07:39","YC2",501,51
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:07:43","CONF_YC2",502,51
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:08:00","Scorer",503,52
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:08:02","F2",504,52
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:08:02","FK1",505,52
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:08:02","DANGER1",506,52
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:08:02","DFK1",507,52
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:08:02","Ball Position",508,52
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:08:02","Restart",509,52
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:08:09","PCR1",510,52
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:08:10","CR1",511,52
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:08:20","Ball Position",512,52
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:08:29","Player_DATA_CONFIRMED",513,52
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:08:44","Restart",514,52
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:08:57","SHW1",515,53
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:09:00","SAFE2",516,53
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:09:11","AT2",517,53
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:09:14","DANGER2",518,53
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:09:14","DAT2",519,53
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:09:26","SAFE1",520,53
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:09:28","SAFE2",521,53
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:09:29","Possible Free Kick",522,53
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:09:34","F1",524,53
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:09:34","FK2",525,53
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:09:34","Ball Position",526,53
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:09:36","Restart",527,53
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:09:38","AT2",528,53
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:09:40","DANGER2",529,53
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:09:40","DAT2",530,53
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:09:43","SAFE1",531,53
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:09:57","AT1",532,54
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:09:57","Possible Free Kick",533,54
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:10:00","F2",535,54
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:10:00","FK1",536,54
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:10:00","DANGER1",537,54
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:10:00","DFK1",538,54
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:10:00","Ball Position",539,54
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:10:35","Restart",540,54
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:10:39","SAFE2",541,54
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:10:40","Possible Free Kick",542,54
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:10:43","O1",544,54
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:10:43","FK2",545,54
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:10:43","Ball Position",546,54
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:10:44","Restart",547,54
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:10:56","SAFE1",548,55
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:11:05","AT1",549,55
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:11:09","SAFE2",550,55
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:11:13","SAFE1",551,55
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:11:13","POSSIBLE_TI",552,55
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:11:14","TI1",553,55
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:11:39","Restart",554,55
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:11:41","AT1",555,55
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:11:50","SAFE2",556,55
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:11:59","SAFE1",557,56
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:12:02","AT1",558,56
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:12:04","SAFE2",559,56
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:12:05","Possible Free Kick",560,56
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:12:08","O1",562,56
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:12:08","FK2",563,56
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:12:09","Ball Position",564,56
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:12:12","Restart",565,56
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:12:22","AT2",566,56
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:12:25","SAFE1",567,56
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:12:25","Possible Free Kick",568,56
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:12:27","F2",570,56
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:12:27","FK1",571,56
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:12:27","Ball Position",572,56
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:12:46","Restart",573,56
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:12:50","SAFE2",574,56
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:13:00","AT2",575,57
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:13:02","DANGER2",576,57
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:13:02","DAT2",577,57
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:13:11","SAFE1",578,57
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:13:15","GK1",579,57
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:13:33","Restart",580,57
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:13:36","AT1",581,57
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:13:40","DANGER1",582,57
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:13:40","DAT1",583,57
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:13:46","SAFE2",584,57
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:13:48","AT2",585,57
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:13:51","DANGER2",586,57
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:13:51","DAT2",587,57
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:14:11","SAFE1",588,58
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:14:15","AT1",589,58
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:14:22","DANGER1",590,58
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:14:22","DAT1",591,58
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:14:49","POSSIBLE_TI",592,58
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:14:51","TI2",593,58
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:15:04","SUB1",594,59
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:15:30","Restart",595,59
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:15:38","SAFE2",596,59
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:15:42","AT2",597,59
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:15:43","POSSIBLE_TI",598,59
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:15:45","TI2",599,59
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:15:57","Restart",600,60
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:15:58","Player_DATA_CONFIRMED",601,60
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:16:08","POSSIBLE_TI",602,60
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:16:09","TI2",603,60
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:16:12","Restart",604,60
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:16:22","SAFE2",605,60
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:16:23","POSSIBLE_TI",606,60
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:16:23","TI2",607,60
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:16:35","Restart",608,60
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:16:48","SAFE1",609,60
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:17:00","AT1",610,61
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:17:03","DANGER1",611,61
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:17:03","DAT1",612,61
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:17:13","SAFE2",613,61
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:17:14","GK2",614,61
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:17:32","Restart",615,61
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:17:51","AT1",616,61
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:17:55","SAFE2",617,62
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:17:56","Possible Free Kick",618,62
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:17:57","F1",620,62
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:17:57","FK2",621,62
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:17:57","Ball Position",622,62
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:18:17","SUB2",623,62
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:18:41","Restart",624,62
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:18:42","AT2",625,62
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:18:53","SAFE1",626,63
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:19:10","AT1",627,63
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:19:11","DANGER1",628,63
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:19:11","DAT1",629,63
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:19:16","SAFE2",630,63
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:19:17","Possible Free Kick",631,63
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:19:20","O1",633,63
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:19:20","FK2",634,63
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:19:20","Ball Position",635,63
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:19:40","Restart",636,63
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:19:53","SAFE1",637,63
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:19:55","POSSIBLE_TI",638,64
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:20:01","TI1",639,64
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:20:29","Restart",640,64
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:20:30","AT1",641,64
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:20:31","DANGER1",642,64
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:20:31","DAT1",643,64
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:20:40","POSSIBLE_TI",644,64
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:20:40","TI1",645,64
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:20:50","Restart",646,64
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:21:12","Player_DATA_CONFIRMED",647,65
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:21:14","SAFE2",648,65
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:21:25","AT2",649,65
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:21:35","DANGER2",650,65
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:21:35","DAT2",651,65
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:21:46","SAFE2",652,65
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:21:51","AT2",653,65
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:22:00","DANGER2",654,66
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:22:00","DAT2",655,66
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:22:06","SAFE1",656,66
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:22:07","Possible Free Kick",657,66
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:22:09","F2",659,66
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:22:09","FK1",660,66
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:22:09","Ball Position",661,66
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:22:19","Restart",662,66
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:22:20","AT1",663,66
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:22:25","POSSIBLE_TI",664,66
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:22:26","TI1",665,66
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:22:33","Restart",666,66
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:22:39","DANGER1",667,66
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:22:39","DAT1",668,66
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:22:55","SAFE2",669,67
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:22:56","AT2",670,67
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:22:57","DANGER2",671,67
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:22:57","DAT2",672,67
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:23:01","GOAL2",673,67
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:23:15","Scorer",674,67
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:23:41","CONF_GOAL2",675,67
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:23:59","KO1",676,68
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:23:59","SAFE1",677,68
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:24:03","AT1",678,68
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:24:06","SAFE2",679,68
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:24:07","POSSIBLE_TI",680,68
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:24:14","TI2",681,68
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:24:20","Restart",682,68
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:24:22","AT1",683,68
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:24:25","DANGER1",684,68
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:24:25","DAT1",685,68
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:24:27","Possible Free Kick",686,68
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:24:36","F2",688,68
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:24:36","FK1",689,68
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:24:36","DFK1",690,68
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:24:36","Ball Position",691,68
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:24:58","Player_DATA_CONFIRMED",692,69
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:24:58","Assist",693,69
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:25:10","Restart",694,69
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:25:13","SHB1",695,69
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:25:14","SAFE2",696,69
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:25:15","GK2",697,69
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:25:40","Restart",698,69
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:25:48","AT1",699,69
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:26:02","DANGER1",700,70
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:26:02","DAT1",701,70
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:26:12","SAFE2",702,70
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:26:12","AT2",703,70
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:26:19","DANGER2",704,70
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:26:19","DAT2",705,70
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:26:40","SAFE1",706,70
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:26:41","GK1",707,70
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:26:50","Restart",708,70
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:27:01","AT1",709,71
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:27:03","DANGER1",710,71
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:27:03","DAT1",711,71
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:27:08","SAFE2",712,71
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:27:12","AT1",713,71
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:27:15","DANGER1",714,71
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:27:15","DAT1",715,71
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:27:48","Possible Free Kick",716,71
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:27:50","POSSIBLE_CARDS",718,71
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:27:59","NO_Cards",719,72
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:28:00","F2",720,72
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:28:00","FK1",721,72
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:28:00","DFK1",722,72
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:28:00","Ball Position",723,72
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:28:28","SUB1",724,72
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:28:46","Restart",725,72
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:28:56","SHB1",726,73
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:28:57","SAFE2",727,73
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:28:58","GK2",728,73
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:29:17","Restart",729,73
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:29:24","AT1",730,73
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:29:25","DANGER1",731,73
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:29:25","DAT1",732,73
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:29:30","PCR1",733,73
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:29:32","CR1",734,73
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:29:34","Ball Position",735,73
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:29:59","Restart",736,74
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:29:59","Player_DATA_CONFIRMED",737,74
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:30:05","SAFE2",738,74
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:30:31","AT2",739,74
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:30:32","DANGER2",740,74
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:30:32","DAT2",741,74
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:30:35","SAFE1",742,74
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:30:47","AT1",743,74
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:30:55","POSSIBLE_TI",744,75
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:30:58","TI1",745,75
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:30:59","DANGER1",746,75
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:30:59","DAT1",747,75
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:31:04","Restart",748,75
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:31:21","SAFE2",749,75
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:31:24","Possible Free Kick",750,75
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:31:35","F1",752,75
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:31:35","FK2",753,75
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:31:35","Ball Position",754,75
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:31:44","Restart",755,75
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:31:50","AT1",756,75
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:31:51","DANGER1",757,75
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:31:51","DAT1",758,75
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:31:53","POSSIBLE_TI",759,76
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:31:54","TI2",760,76
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:32:10","Restart",761,76
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:32:20","POSSIBLE_TI",762,76
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:32:24","TI1",763,76
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:32:29","Restart",764,76
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:32:50","SAFE2",765,76
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:32:52","AT2",766,76
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:32:56","DANGER2",767,77
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:32:56","DAT2",768,77
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:33:05","SAFE1",769,77
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:33:06","POSSIBLE_TI",770,77
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:33:08","TI1",771,77
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:33:35","SUB2",772,77
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:33:45","Restart",773,77
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:33:52","AT1",774,77
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:34:06","SAFE2",775,78
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:34:07","AT2",776,78
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:34:11","DANGER2",777,78
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:34:11","DAT2",778,78
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:34:11","Possible Free Kick",779,78
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:34:12","POSSIBLE_CARDS",781,78
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:34:13","YC1",782,78
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:34:23","CONF_YC1",783,78
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:34:26","Scorer",784,78
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:34:35","F1",785,78
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:34:35","FK2",786,78
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:34:35","DFK2",787,78
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:34:35","Ball Position",788,78
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:34:58","Player_DATA_CONFIRMED",789,79
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:34:58","Player_DATA_CONFIRMED",790,79
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:35:12","Restart",791,79
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:35:33","SAFE1",792,79
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:35:35","SAFE2",793,79
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:35:46","AT2",794,79
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:35:56","SAFE1",795,80
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:36:00","AT1",796,80
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:36:10","DANGER1",797,80
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:36:10","DAT1",798,80
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:36:19","POSSIBLE_TI",799,80
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:36:19","TI1",800,80
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:36:23","Restart",801,80
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:36:31","POSSIBLE_TI",802,80
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:36:31","TI1",803,80
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:36:38","Restart",804,80
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:36:48","SHG1",805,80
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:36:51","SAFE2",806,80
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:37:08","AT2",807,81
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:37:10","SAFE1",808,81
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:37:10","Possible Free Kick",809,81
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:37:12","F2",811,81
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:37:12","FK1",812,81
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:37:12","Ball Position",813,81
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:37:13","Restart",814,81
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:37:14","AT1",815,81
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:37:19","DANGER1",816,81
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:37:19","DAT1",817,81
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:37:25","SAFE2",818,81
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:37:28","AT2",819,81
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:37:31","DANGER2",820,81
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:37:31","DAT2",821,81
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:38:03","SAFE1",822,82
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:38:04","GK1",823,82
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:38:31","Restart",824,82
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:38:38","AT1",825,82
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:38:43","Possible Free Kick",826,82
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:38:44","F2",828,82
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:38:44","FK1",829,82
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:38:45","DANGER1",830,82
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:38:45","DFK1",831,82
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:38:45","Ball Position",832,82
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:39:03","Restart",833,83
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:39:23","SAFE1",834,83
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:39:33","Injury Break",835,83
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:40:01","Restart",836,84
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:40:13","AT1",837,84
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:40:15","DANGER1",838,84
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:40:15","DAT1",839,84
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:40:34","POSSIBLE_TI",840,84
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:40:44","TI2",841,84
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:40:44","Restart",842,84
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:40:48","SAFE2",843,84
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:40:51","SAFE1",844,84
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:40:51","Possible Free Kick",845,84
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:40:53","F2",847,85
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:40:53","FK1",848,85
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:40:53","Ball Position",849,85
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:40:58","AT1",850,85
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:40:58","DANGER1",851,85
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:40:58","DAT1",852,85
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:41:01","Restart",853,85
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:41:10","SAFE2",854,85
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:41:29","AT1",855,85
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:41:30","DANGER1",856,85
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:41:30","DAT1",857,85
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:41:44","SAFE2",858,85
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:41:45","Possible Free Kick",859,85
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:41:52","F1",861,85
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:41:52","FK2",862,85
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:41:52","Ball Position",863,85
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:42:21","SUB2",864,86
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:42:43","Restart",865,86
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:42:49","AT2",866,86
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:43:01","Player_DATA_CONFIRMED",867,87
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:43:03","SAFE1",868,87
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:43:05","AT1",869,87
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:43:08","SAFE2",870,87
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:43:08","POSSIBLE_TI",871,87
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:43:09","TI2",872,87
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:43:24","Restart",873,87
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:43:33","SAFE1",874,87
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:43:43","AT1",875,87
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:43:48","SAFE2",876,87
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:43:49","POSSIBLE_TI",877,87
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:43:50","TI2",878,87
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:44:04","Restart",879,88
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:44:13","AT2",880,88
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:44:18","DANGER2",881,88
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:44:18","DAT2",882,88
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:44:20","POSSIBLE_TI",883,88
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:44:21","TI2",884,88
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:44:31","Restart",885,88
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:44:42","POSSIBLE_TI",886,88
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:44:43","TI2",887,88
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:44:53","Restart",888,88
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:45:32","SAFE1",889,89
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:45:39","POSSIBLE_TI",890,89
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:45:40","TI1",891,89
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:45:42","Restart",892,89
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:45:54","AT1",893,90
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:45:55","DANGER1",894,90
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:45:55","DAT1",895,90
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:45:59","PCR1",896,90
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:46:02","CR1",897,90
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:46:05","Ball Position",898,90
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:46:23","Restart",899,90
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:46:40","SAFE2",900,90
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:46:41","Possible Free Kick",901,90
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:46:45","O1",903,90
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:46:45","FK2",904,90
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:46:45","Ball Position",905,90
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:46:50","Extra Time",906,90
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:47:07","Restart",907,91
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:47:10","AT2",908,91
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:47:11","Possible Free Kick",909,91
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:47:17","F1",911,91
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:47:17","FK2",912,91
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:47:17","DANGER2",913,91
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:47:17","DFK2",914,91
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:47:17","Ball Position",915,91
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:47:53","Restart",916,92
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:48:06","SAFE1",917,92
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:48:07","GK1",918,92
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:48:18","Restart",919,92
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:48:24","SAFE2",920,92
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:48:27","SAFE1",921,92
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:48:32","AT2",922,92
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:48:34","DANGER2",923,92
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:48:34","DAT2",924,92
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:48:37","POSSIBLE_TI",925,92
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:48:38","TI1",926,92
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:48:44","Restart",927,92
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:49:05","SAFE1",928,93
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:49:07","POSSIBLE_TI",929,93
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:49:08","TI1",930,93
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:49:10","Restart",931,93
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:49:13","Possible Free Kick",932,93
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:49:17","F2",934,93
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:49:17","FK1",935,93
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:49:17","Ball Position",936,93
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:49:18","AT1",937,93
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:49:18","DANGER1",938,93
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:49:18","DAT1",939,93
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:49:28","Restart",940,93
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:49:38","POSSIBLE_TI",941,93
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:49:38","TI1",942,93
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:49:42","Restart",943,93
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:49:49","SAFE2",944,93
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:49:52","Stop RT2",945,93
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:49:52","Stop Game",946,93
+851759,"SM Caen","AS Saint Etienne","08/12/2017 19:50:00","CONF_PERIOD_SCORE",947,92

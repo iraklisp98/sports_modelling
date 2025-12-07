@@ -1,0 +1,953 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 13:51:28","Transmission Online",0,0
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 13:55:26","Lineup changed",1,0
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 14:07:29","Scout in Stadion",2,0
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 14:12:42","GCC",3,0
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 14:40:52","Jersey Changed",4,0
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 14:40:52","Jersey Changed",5,0
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 14:47:13","GCC",6,0
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 14:57:46","Players are coming out",7,0
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:00:32","Game about to start",8,0
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:01:07","Start RT1 Team 2",9,1
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:01:08","System Message",10,1
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:01:09","SAFE2",11,1
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:01:11","AT2",12,1
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:01:19","SAFE2",13,1
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:01:28","AT2",14,1
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:01:31","POSSIBLE_TI",15,1
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:01:32","TI2",16,1
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:01:35","Restart",17,1
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:01:37","SAFE2",18,1
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:02:12","AT2",19,2
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:02:15","SAFE1",20,2
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:02:23","AT1",21,2
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:02:25","SAFE2",22,2
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:02:38","AT2",23,2
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:02:41","DANGER2",24,2
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:02:41","DAT2",25,2
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:02:45","Possible Free Kick",26,2
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:02:51","F1",28,2
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:02:51","FK2",29,2
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:02:51","DFK2",30,2
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:02:51","Ball Position",31,2
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:03:44","Restart",32,3
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:03:56","SAFE1",33,3
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:03:57","GK1",34,3
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:04:12","Restart",35,4
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:04:15","AT1",36,4
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:04:19","POSSIBLE_TI",37,4
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:04:21","TI1",38,4
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:04:28","Restart",39,4
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:04:28","DANGER1",40,4
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:04:28","DAT1",41,4
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:05:02","SAFE2",42,4
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:05:39","AT2",43,5
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:05:46","POSSIBLE_TI",44,5
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:05:47","TI2",45,5
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:05:57","Restart",46,5
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:05:57","SAFE2",47,5
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:06:11","AT2",48,6
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:06:14","SAFE1",49,6
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:06:22","AT2",50,6
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:06:28","SAFE2",51,6
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:06:39","AT2",52,6
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:06:43","POSSIBLE_TI",53,6
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:06:44","TI1",54,6
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:06:50","SAFE1",55,6
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:06:52","Restart",56,6
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:06:58","AT1",57,6
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:07:00","DANGER1",58,6
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:07:00","DAT1",59,6
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:07:06","PCR1",60,6
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:07:10","CR1",61,7
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:07:13","Ball Position",62,7
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:07:40","Restart",63,7
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:07:56","PCR1",64,7
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:08:00","CR1",65,7
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:08:05","Ball Position",66,7
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:08:30","Restart",67,8
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:08:37","SAFE2",68,8
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:08:38","GK2",69,8
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:08:45","Restart",70,8
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:08:54","AT2",71,8
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:08:56","SAFE2",72,8
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:09:01","AT2",73,8
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:09:06","SAFE1",74,8
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:09:14","POSSIBLE_TI",75,9
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:09:15","TI2",76,9
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:09:16","AT2",77,9
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:09:19","Restart",78,9
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:09:20","SAFE2",79,9
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:09:38","AT2",80,9
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:09:44","SAFE1",81,9
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:09:48","Possible Free Kick",82,9
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:09:51","F2",84,9
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:09:51","FK1",85,9
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:09:51","Ball Position",86,9
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:10:05","Restart",87,9
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:10:06","AT1",88,9
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:10:12","SAFE1",89,10
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:10:23","AT1",90,10
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:10:30","DANGER1",91,10
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:10:30","DAT1",92,10
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:10:35","BLOCKED1",93,10
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:10:40","POSSIBLE_TI",94,10
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:10:41","TI1",95,10
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:10:49","Restart",96,10
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:11:09","SAFE2",97,11
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:11:52","AT2",98,11
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:11:56","DANGER2",99,11
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:11:56","DAT2",100,11
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:12:01","PCR2",101,11
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:12:04","CR2",102,11
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:12:06","Ball Position",103,11
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:12:28","Restart",104,12
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:12:48","BLOCKED2",105,12
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:12:58","SAFE2",106,12
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:13:17","AT2",107,13
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:13:36","SAFE2",108,13
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:13:51","AT2",109,13
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:13:55","Possible Free Kick",110,13
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:13:57","F1",112,13
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:13:57","FK2",113,13
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:13:57","Ball Position",114,13
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:13:57","DANGER2",115,13
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:13:57","DFK2",116,13
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:14:06","Restart",117,13
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:14:07","SAFE2",118,13
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:14:10","AT2",119,14
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:14:13","SAFE2",120,14
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:14:22","AT2",121,14
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:14:28","SAFE1",122,14
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:14:45","AT2",123,14
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:14:47","SAFE2",124,14
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:15:09","AT2",125,15
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:15:11","SAFE1",126,15
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:15:15","AT1",127,15
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:15:21","SAFE2",128,15
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:15:28","AT2",129,15
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:15:31","SAFE1",130,15
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:15:33","AT1",131,15
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:15:36","DANGER1",132,15
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:15:36","DAT1",133,15
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:15:42","SAFE2",134,15
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:16:01","AT2",135,15
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:16:04","DANGER2",136,15
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:16:04","DAT2",137,15
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:16:05","SAFE1",138,15
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:16:16","AT1",139,16
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:16:25","SAFE1",140,16
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:16:29","AT1",141,16
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:16:31","DANGER1",142,16
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:16:31","DAT1",143,16
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:16:38","SHB1",144,16
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:16:45","SAFE2",145,16
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:16:46","GK2",146,16
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:16:56","Restart",147,16
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:17:08","POSSIBLE_TI",148,17
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:17:09","TI1",149,17
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:17:28","Injury Break",150,17
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:18:21","SUB2",151,18
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:18:28","Restart",152,18
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:18:43","Player_DATA_CONFIRMED",153,18
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:18:51","AT2",154,18
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:18:59","DANGER2",155,18
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:18:59","DAT2",156,18
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:19:17","POSSIBLE_TI",157,19
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:19:18","TI2",158,19
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:19:24","Restart",159,19
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:19:26","SAFE2",160,19
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:19:29","AT2",161,19
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:19:32","SAFE1",162,19
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:19:33","AT1",163,19
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:19:35","DANGER1",164,19
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:19:35","DAT1",165,19
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:19:41","SHG1",166,19
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:19:43","SAFE2",167,19
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:19:59","AT1",168,19
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:20:00","POSSIBLE_TI",169,19
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:20:01","TI1",170,19
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:20:02","Restart",171,19
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:20:03","DANGER1",172,19
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:20:03","DAT1",173,19
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:20:09","SAFE2",174,20
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:20:20","AT2",175,20
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:20:45","Possible Free Kick",176,20
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:20:48","SAFE1",178,20
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:20:48","F2",179,20
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:20:48","FK1",180,20
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:20:48","Ball Position",181,20
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:21:02","Restart",182,20
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:21:07","AT2",183,20
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:21:08","DANGER2",184,21
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:21:08","DAT2",185,21
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:21:32","SHB2",186,21
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:21:36","SAFE1",187,21
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:21:36","GK1",188,21
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:21:54","Restart",189,21
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:21:55","AT1",190,21
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:21:59","SAFE1",191,21
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:22:03","AT1",192,21
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:22:08","SAFE1",193,22
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:22:22","AT2",194,22
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:22:33","SAFE1",195,22
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:22:39","Possible Free Kick",196,22
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:22:41","F2",198,22
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:22:41","FK1",199,22
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:22:41","Ball Position",200,22
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:22:55","Restart",201,22
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:22:58","AT1",202,22
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:23:14","SAFE1",203,23
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:23:32","AT1",204,23
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:23:36","SAFE2",205,23
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:23:53","AT2",206,23
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:23:56","DANGER2",207,23
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:23:56","DAT2",208,23
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:24:06","SAFE1",209,23
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:24:08","AT1",210,24
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:24:11","DANGER1",211,24
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:24:11","DAT1",212,24
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:24:20","PCR1",213,24
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:24:24","CR1",214,24
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:24:32","Ball Position",215,24
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:25:11","Restart",216,25
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:25:17","BLOCKED1",217,25
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:25:36","POSSIBLE_TI",218,25
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:25:37","TI1",219,25
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:25:51","Restart",220,25
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:26:01","PCR1",221,25
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:26:04","CR1",222,25
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:26:07","Ball Position",223,26
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:26:28","Restart",224,26
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:26:52","Possible Free Kick",225,26
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:26:54","SAFE2",227,26
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:26:54","F1",228,26
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:26:54","FK2",229,26
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:26:54","Ball Position",230,26
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:27:21","Restart",231,27
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:27:24","AT2",232,27
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:27:38","POSSIBLE_TI",233,27
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:27:39","TI2",234,27
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:28:10","Restart",235,28
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:28:13","SAFE2",236,28
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:28:19","AT2",237,28
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:28:26","SAFE2",238,28
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:28:37","POSSIBLE_TI",239,28
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:28:38","TI2",240,28
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:28:51","Restart",241,28
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:28:51","AT2",242,28
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:28:55","DANGER2",243,28
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:28:55","DAT2",244,28
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:29:10","POSSIBLE_TI",245,29
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:29:11","TI1",246,29
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:29:12","SAFE1",247,29
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:29:23","Restart",248,29
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:29:26","POSSIBLE_TI",249,29
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:29:29","TI2",250,29
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:29:29","AT2",251,29
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:29:39","Restart",252,29
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:29:40","SAFE2",253,29
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:29:49","POSSIBLE_TI",254,29
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:29:50","TI1",255,29
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:29:51","AT1",256,29
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:29:53","Restart",257,29
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:29:56","POSSIBLE_TI",258,29
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:29:56","TI1",259,29
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:30:06","Restart",260,29
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:30:12","DANGER1",261,30
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:30:12","DAT1",262,30
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:30:17","SAFE2",263,30
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:30:18","GK2",264,30
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:30:34","Restart",265,30
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:30:45","POSSIBLE_TI",266,30
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:30:46","TI2",267,30
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:30:53","Restart",268,30
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:31:00","AT2",269,30
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:31:03","SAFE2",270,30
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:31:09","Possible Free Kick",271,31
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:31:12","F1",273,31
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:31:12","FK2",274,31
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:31:12","Ball Position",275,31
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:31:20","Restart",276,31
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:31:28","AT2",277,31
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:31:37","DANGER2",278,31
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:31:37","DAT2",279,31
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:32:04","Possible Free Kick",280,31
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:32:13","SAFE1",282,32
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:32:13","F2",283,32
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:32:13","FK1",284,32
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:32:13","Ball Position",285,32
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:32:34","Restart",286,32
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:32:36","AT1",287,32
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:32:52","SAFE2",288,32
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:32:57","AT2",289,32
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:32:59","SAFE2",290,32
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:33:02","AT2",291,32
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:33:06","DANGER2",292,32
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:33:06","DAT2",293,32
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:33:13","SAFE1",294,33
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:33:14","GK1",295,33
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:33:32","Restart",296,33
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:33:33","AT1",297,33
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:33:38","POSSIBLE_TI",298,33
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:33:38","TI2",299,33
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:33:41","Restart",300,33
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:33:44","POSSIBLE_TI",301,33
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:33:46","TI2",302,33
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:33:49","Restart",303,33
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:33:50","SAFE2",304,33
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:33:52","AT2",305,33
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:33:56","SAFE1",306,33
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:34:00","AT1",307,33
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:34:08","DANGER1",308,34
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:34:08","DAT1",309,34
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:34:19","POSSIBLE_TI",310,34
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:34:19","TI1",311,34
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:34:29","Restart",312,34
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:35:07","SAFE2",313,34
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:35:08","AT2",314,35
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:35:11","SAFE1",315,35
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:35:13","AT1",316,35
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:35:40","DANGER1",317,35
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:35:40","DAT1",318,35
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:36:23","POSSIBLE_TI",319,36
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:36:24","TI1",320,36
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:36:35","Restart",321,36
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:36:39","SAFE2",322,36
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:36:43","AT2",323,36
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:36:48","DANGER2",324,36
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:36:48","DAT2",325,36
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:36:53","SAFE1",326,36
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:36:56","AT1",327,36
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:37:01","Possible Free Kick",328,36
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:37:05","F2",330,36
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:37:05","FK1",331,36
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:37:05","Ball Position",332,36
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:37:05","DANGER1",333,36
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:37:05","DFK1",334,36
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:37:13","Restart",335,37
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:37:38","SAFE2",336,37
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:37:40","AT2",337,37
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:37:45","DANGER2",338,37
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:37:45","DAT2",339,37
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:37:55","SAFE1",340,37
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:37:58","AT1",341,37
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:38:11","DANGER1",342,38
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:38:11","DAT1",343,38
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:38:17","SHG1",344,38
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:38:18","SAFE2",345,38
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:38:35","AT2",346,38
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:38:48","SAFE2",347,38
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:38:49","AT2",348,38
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:38:55","SAFE1",349,38
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:39:00","AT2",350,38
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:39:02","DANGER2",351,38
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:39:02","DAT2",352,38
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:39:05","GOAL2",353,38
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:39:22","Scorer",354,39
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:39:43","Player_DATA_CONFIRMED",355,39
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:40:14","CONF_GOAL2",356,40
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:40:14","KO1",357,40
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:40:14","SAFE1",358,40
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:40:16","Assist",359,40
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:40:18","AT1",360,40
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:40:19","DANGER1",361,40
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:40:19","DAT1",362,40
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:40:21","SAFE2",363,40
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:40:36","AT2",364,40
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:40:39","SAFE2",365,40
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:40:41","AT2",366,40
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:40:46","DANGER2",367,40
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:40:46","DAT2",368,40
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:40:54","POSSIBLE_TI",369,40
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:40:55","TI2",370,40
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:41:08","Restart",371,41
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:41:20","SAFE2",372,41
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:41:27","AT2",373,41
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:41:44","POSSIBLE_TI",374,41
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:41:45","TI2",375,41
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:41:52","Restart",376,41
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:41:53","SAFE2",377,41
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:42:06","AT1",378,41
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:42:09","SAFE2",379,42
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:42:12","AT2",380,42
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:42:12","DANGER2",381,42
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:42:12","DAT2",382,42
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:42:17","SHB2",383,42
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:42:18","SAFE1",384,42
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:42:18","GK1",385,42
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:42:30","Restart",386,42
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:42:31","AT1",387,42
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:42:35","SAFE1",388,42
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:42:44","Possible Free Kick",389,42
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:42:47","F2",391,42
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:42:47","FK1",392,42
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:42:47","Ball Position",393,42
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:42:59","Restart",394,42
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:43:00","AT1",395,42
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:43:10","SAFE1",396,43
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:43:26","Possible Free Kick",397,43
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:43:29","F2",399,43
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:43:29","FK1",400,43
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:43:29","Ball Position",401,43
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:43:32","Restart",402,43
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:43:35","AT1",403,43
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:43:39","SAFE1",404,43
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:43:47","AT1",405,43
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:44:02","DANGER1",406,43
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:44:02","DAT1",407,43
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:44:07","SAFE2",408,44
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:44:08","GK2",409,44
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:44:34","Restart",410,44
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:44:38","AT2",411,44
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:44:41","SAFE2",412,44
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:44:43","AT2",413,44
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:44:47","Possible Free Kick",414,44
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:44:50","SAFE1",416,44
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:44:50","O2",417,44
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:44:50","FK1",418,44
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:44:50","Ball Position",419,44
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:44:52","Restart",420,44
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:45:01","AT1",421,44
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:45:05","DANGER1",422,44
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:45:05","DAT1",423,44
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:45:07","SAFE2",424,44
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:45:25","AT2",425,45
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:45:27","SAFE2",426,45
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:45:32","AT2",427,45
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:45:38","Possible Free Kick",428,45
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:45:42","SAFE1",430,45
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:45:42","F2",431,45
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:45:42","FK1",432,45
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:45:42","Ball Position",433,45
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:45:44","Restart",434,45
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:45:46","AT1",435,45
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:45:59","SAFE1",436,45
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:46:03","AT1",437,45
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:46:08","SAFE2",438,46
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:46:15","POSSIBLE_TI",439,46
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:46:16","TI1",440,46
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:46:20","Restart",441,46
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:46:21","SAFE1",442,46
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:46:23","AT1",443,46
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:46:25","DANGER1",444,46
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:46:25","DAT1",445,46
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:46:38","Extra Time",446,46
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:46:50","SAFE1",447,46
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:46:56","AT1",448,46
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:47:00","DANGER1",449,46
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:47:00","DAT1",450,46
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:47:05","GOAL1",451,46
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:47:25","CGOAL1",452,47
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:47:28","Possible Free Kick",453,47
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:47:32","SAFE2",455,47
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:47:32","O1",456,47
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:47:32","FK2",457,47
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:47:32","Ball Position",458,47
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:48:48","AT1",459,48
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:48:48","DANGER1",460,48
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:48:48","DAT1",461,48
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:48:50","Restart",462,48
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:48:50","GOAL1",463,48
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:49:10","CONF_GOAL1",464,49
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:49:10","Stop RT1",465,48
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:49:15","System Message",466,45
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:49:27","CONF_PERIOD_SCORE",467,45
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:50:25","System Message",468,45
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:55:22","System Message",469,45
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:58:36","System Message",470,45
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:59:46","Scorer",471,45
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:59:46","Transmission Online",472,45
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 15:59:46","Player_DATA_CONFIRMED",473,45
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:03:54","Players are coming out",474,45
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:04:44","Game about to start",475,45
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:05:03","Start RT2 Team 1",476,46
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:05:04","SAFE1",477,46
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:05:07","Restart",478,46
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:05:08","AT1",479,46
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:05:20","DANGER1",480,46
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:05:20","DAT1",481,46
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:05:30","PCR1",482,46
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:05:33","CR1",483,46
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:05:57","Ball Position",484,46
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:06:10","Restart",485,47
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:06:25","PCR1",486,47
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:06:27","CR1",487,47
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:06:31","Ball Position",488,47
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:06:40","Restart",489,47
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:06:43","SAFE2",490,47
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:07:11","AT1",491,48
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:07:21","DANGER1",492,48
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:07:21","DAT1",493,48
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:07:23","BLOCKED1",494,48
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:07:27","Possible Free Kick",495,48
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:07:29","F2",497,48
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:07:29","FK1",498,48
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:07:29","DFK1",499,48
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:07:29","Ball Position",500,48
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:07:57","Restart",501,48
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:08:13","PCR1",502,49
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:08:19","CR1",503,49
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:08:22","SHG1",504,49
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:08:26","Ball Position",505,49
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:09:26","PPEN",506,50
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:09:26","PPEN1",507,50
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:11:39","No PEN",508,52
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:11:45","CCR1",509,52
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:11:51","Possible Free Kick",510,52
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:11:55","SAFE2",512,52
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:11:55","Restart",513,52
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:11:55","F1",514,52
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:11:55","FK2",515,52
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:11:55","Ball Position",516,52
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:12:10","System Message",517,53
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:12:13","Restart",518,53
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:12:15","AT2",519,53
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:12:24","SAFE1",520,53
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:12:25","GK1",521,53
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:12:41","Restart",522,53
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:12:42","AT1",523,53
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:12:54","SAFE1",524,53
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:13:04","POSSIBLE_TI",525,54
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:13:06","TI1",526,54
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:13:16","Restart",527,54
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:13:20","AT1",528,54
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:13:28","POSSIBLE_TI",529,54
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:13:29","TI1",530,54
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:13:39","Restart",531,54
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:13:42","DANGER1",532,54
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:13:42","DAT1",533,54
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:13:48","SAFE1",534,54
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:13:50","AT1",535,54
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:13:51","DANGER1",536,54
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:13:51","DAT1",537,54
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:13:55","SAFE2",538,54
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:14:04","AT1",539,55
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:14:06","POSSIBLE_TI",540,55
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:14:07","TI1",541,55
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:14:14","Restart",542,55
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:14:19","SAFE1",543,55
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:14:21","AT1",544,55
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:14:29","DANGER1",545,55
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:14:29","DAT1",546,55
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:14:37","PCR1",547,55
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:14:39","CR1",548,55
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:14:45","SHG1",549,55
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:14:48","Ball Position",550,55
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:15:12","Restart",551,56
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:15:18","SAFE2",552,56
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:15:20","AT2",553,56
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:15:22","DANGER2",554,56
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:15:22","DAT2",555,56
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:15:32","SAFE1",556,56
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:15:33","POSSIBLE_TI",557,56
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:15:34","TI1",558,56
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:15:36","Restart",559,56
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:15:37","AT1",560,56
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:15:42","SAFE1",561,56
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:15:50","AT1",562,56
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:15:57","DANGER1",563,56
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:15:57","DAT1",564,56
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:16:01","POSSIBLE_TI",565,56
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:16:02","TI1",566,56
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:16:24","Restart",567,57
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:16:35","Possible Free Kick",568,57
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:16:38","SAFE2",570,57
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:16:38","O1",571,57
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:16:38","FK2",572,57
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:16:38","Ball Position",573,57
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:16:57","Restart",574,57
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:16:59","AT2",575,57
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:17:00","POSSIBLE_TI",576,57
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:17:01","TI1",577,57
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:17:03","AT1",578,58
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:17:05","Restart",579,58
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:17:06","DANGER1",580,58
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:17:06","DAT1",581,58
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:17:17","SHG1",582,58
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:17:21","POSSIBLE_TI",583,58
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:17:21","TI2",584,58
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:17:25","SAFE2",585,58
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:17:26","Restart",586,58
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:17:36","SAFE1",587,58
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:17:40","AT1",588,58
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:17:46","DANGER1",589,58
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:17:46","DAT1",590,58
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:17:49","GOAL1",591,58
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:17:58","Scorer",592,58
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:18:13","Player_DATA_CONFIRMED",593,59
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:18:43","Assist",594,59
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:18:46","SUB2",595,59
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:19:04","CONF_GOAL1",596,60
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:19:04","KO2",597,60
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:19:04","SAFE2",598,60
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:19:10","AT2",599,60
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:19:13","Player_DATA_CONFIRMED",600,60
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:19:14","DANGER2",601,60
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:19:14","DAT2",602,60
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:19:17","Possible Free Kick",603,60
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:19:20","F1",605,60
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:19:20","FK2",606,60
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:19:20","DFK2",607,60
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:19:20","Ball Position",608,60
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:19:24","POSSIBLE_CARDS",609,60
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:19:26","YC1",610,60
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:19:30","CONF_YC1",611,60
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:19:36","Scorer",612,60
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:19:43","Player_DATA_CONFIRMED",613,60
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:20:13","Restart",614,61
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:20:18","SHB2",615,61
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:20:20","SAFE1",616,61
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:20:21","GK1",617,61
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:20:41","Restart",618,61
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:20:43","AT1",619,61
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:20:48","SAFE1",620,61
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:20:51","AT1",621,61
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:20:53","DANGER1",622,61
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:20:53","DAT1",623,61
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:21:04","POSSIBLE_TI",624,62
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:21:05","TI1",625,62
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:21:19","Restart",626,62
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:21:30","BLOCKED1",627,62
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:21:52","SHB1",628,62
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:21:57","SAFE2",629,62
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:21:58","GK2",630,62
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:22:18","Restart",631,63
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:22:19","AT2",632,63
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:22:23","DANGER2",633,63
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:22:23","DAT2",634,63
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:22:32","POSSIBLE_TI",635,63
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:22:33","TI1",636,63
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:22:43","SAFE1",637,63
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:22:51","Restart",638,63
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:22:56","SAFE2",639,63
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:22:58","AT2",640,63
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:23:13","SAFE2",641,64
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:23:19","AT2",642,64
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:23:20","DANGER2",643,64
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:23:20","DAT2",644,64
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:23:29","POSSIBLE_TI",645,64
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:23:30","TI2",646,64
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:23:32","Restart",647,64
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:23:48","POSSIBLE_CARDS",648,64
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:23:50","YC2",649,64
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:23:57","CONF_YC2",650,64
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:24:01","Scorer",651,64
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:24:04","Possible Free Kick",652,65
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:24:06","SAFE1",654,65
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:24:06","F2",655,65
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:24:06","FK1",656,65
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:24:06","Ball Position",657,65
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:24:14","Player_DATA_CONFIRMED",658,65
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:24:19","Restart",659,65
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:24:20","AT1",660,65
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:24:21","DANGER1",661,65
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:24:21","DAT1",662,65
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:24:25","SAFE2",663,65
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:24:27","AT2",664,65
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:24:32","SAFE1",665,65
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:24:34","POSSIBLE_TI",666,65
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:24:34","TI1",667,65
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:24:48","Restart",668,65
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:24:50","AT2",669,65
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:24:58","SAFE2",670,65
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:25:01","AT2",671,65
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:25:06","DANGER2",672,66
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:25:06","DAT2",673,66
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:25:14","SAFE1",674,66
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:25:15","GK1",675,66
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:25:39","Restart",676,66
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:25:41","AT1",677,66
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:25:44","Possible Free Kick",678,66
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:25:50","F2",680,66
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:25:50","FK1",681,66
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:25:50","Ball Position",682,66
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:25:50","DANGER1",683,66
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:25:50","DFK1",684,66
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:26:24","Restart",685,67
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:26:41","PCR1",686,67
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:26:43","CR1",687,67
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:26:46","SHB1",688,67
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:26:49","Ball Position",689,67
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:27:08","Restart",690,68
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:27:14","SAFE1",691,68
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:27:25","AT1",692,68
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:27:36","Possible Free Kick",693,68
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:27:37","SAFE2",695,68
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:27:37","F1",696,68
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:27:37","FK2",697,68
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:27:37","Ball Position",698,68
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:27:45","Restart",699,68
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:27:50","AT2",700,68
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:27:55","POSSIBLE_TI",701,68
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:27:56","TI2",702,68
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:27:59","Restart",703,68
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:28:00","SAFE2",704,68
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:28:10","AT2",705,69
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:28:12","DANGER2",706,69
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:28:12","DAT2",707,69
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:28:22","SAFE1",708,69
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:28:23","AT1",709,69
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:28:27","DANGER1",710,69
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:28:27","DAT1",711,69
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:28:34","PCR1",712,69
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:28:36","CR1",713,69
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:28:44","Ball Position",714,69
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:29:08","Restart",715,70
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:29:15","POSSIBLE_TI",716,70
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:29:16","TI1",717,70
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:29:31","Restart",718,70
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:29:35","POSSIBLE_TI",719,70
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:29:36","TI2",720,70
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:29:41","Restart",721,70
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:29:46","Possible Free Kick",722,70
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:29:48","SAFE2",724,70
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:29:48","F1",725,70
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:29:48","FK2",726,70
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:29:48","Ball Position",727,70
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:29:55","Restart",728,70
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:30:03","AT2",729,70
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:30:06","SAFE2",730,71
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:30:15","AT2",731,71
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:30:20","DANGER2",732,71
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:30:20","DAT2",733,71
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:30:29","SAFE1",734,71
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:30:41","AT1",735,71
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:30:42","SAFE2",736,71
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:30:49","AT2",737,71
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:30:51","DANGER2",738,71
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:30:51","DAT2",739,71
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:30:58","POSSIBLE_TI",740,71
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:30:59","TI2",741,71
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:31:16","SUB2",742,72
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:31:22","Player_DATA_CONFIRMED",743,72
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:31:26","Restart",744,72
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:31:52","SAFE1",745,72
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:31:53","GK1",746,72
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:32:13","Restart",747,73
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:32:14","AT1",748,73
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:32:17","SAFE1",749,73
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:32:20","AT2",750,73
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:32:26","Possible Free Kick",751,73
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:32:28","SAFE1",753,73
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:32:28","F2",754,73
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:32:28","FK1",755,73
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:32:28","Ball Position",756,73
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:32:37","Restart",757,73
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:32:41","AT1",758,73
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:32:45","SAFE2",759,73
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:32:50","Possible Free Kick",760,73
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:32:52","F1",762,73
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:32:52","FK2",763,73
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:32:52","Ball Position",764,73
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:32:56","Restart",765,73
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:33:16","AT2",766,74
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:33:22","DANGER2",767,74
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:33:22","DAT2",768,74
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:33:25","SAFE2",769,74
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:33:28","AT2",770,74
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:33:31","SAFE2",771,74
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:33:36","AT2",772,74
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:33:38","DANGER2",773,74
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:33:38","DAT2",774,74
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:33:52","POSSIBLE_TI",775,74
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:33:53","TI2",776,74
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:34:16","SUB1",777,75
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:34:27","Restart",778,75
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:34:28","SAFE2",779,75
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:34:38","AT2",780,75
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:34:43","Player_DATA_CONFIRMED",781,75
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:34:44","SAFE2",782,75
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:34:47","AT2",783,75
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:34:51","SAFE2",784,75
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:34:59","AT2",785,75
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:35:01","SAFE2",786,75
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:35:09","AT2",787,76
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:35:16","Possible Free Kick",788,76
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:35:21","F1",790,76
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:35:21","FK2",791,76
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:35:21","Ball Position",792,76
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:35:21","DANGER2",793,76
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:35:21","DFK2",794,76
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:35:35","Restart",795,76
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:35:53","POSSIBLE_TI",796,76
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:35:53","TI2",797,76
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:36:00","Restart",798,76
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:36:02","SAFE2",799,76
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:36:23","AT2",800,77
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:36:41","DANGER2",801,77
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:36:41","DAT2",802,77
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:36:44","SHB2",803,77
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:36:50","SAFE1",804,77
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:36:51","GK1",805,77
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:37:06","Restart",806,78
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:37:07","AT1",807,78
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:37:14","SAFE1",808,78
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:37:16","AT1",809,78
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:37:20","SAFE2",810,78
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:37:22","AT2",811,78
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:37:36","SAFE1",812,78
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:37:40","AT1",813,78
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:37:45","DANGER1",814,78
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:37:45","DAT1",815,78
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:37:51","SHG1",816,78
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:37:52","SAFE2",817,78
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:37:57","AT2",818,78
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:38:04","SAFE1",819,79
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:38:15","AT1",820,79
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:38:18","DANGER1",821,79
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:38:18","DAT1",822,79
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:38:27","BLOCKED1",823,79
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:38:50","POSSIBLE_TI",824,79
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:38:53","TI1",825,79
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:39:28","SUB1",826,80
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:39:42","Restart",827,80
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:39:47","POSSIBLE_TI",828,80
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:39:49","TI1",829,80
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:39:58","Restart",830,80
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:40:07","SAFE2",831,81
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:40:08","AT2",832,81
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:40:09","POSSIBLE_TI",833,81
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:40:10","TI2",834,81
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:40:15","Player_DATA_CONFIRMED",835,81
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:40:19","Restart",836,81
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:40:27","Possible Free Kick",837,81
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:40:29","F1",839,81
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:40:29","FK2",840,81
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:40:29","Ball Position",841,81
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:40:29","DANGER2",842,81
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:40:29","DFK2",843,81
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:40:54","Restart",844,81
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:41:01","Possible Free Kick",845,81
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:41:11","SAFE1",847,82
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:41:11","F2",848,82
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:41:11","FK1",849,82
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:41:11","Ball Position",850,82
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:41:15","Injury Break",851,82
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:42:23","Restart",852,83
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:42:25","AT1",853,83
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:42:30","DANGER1",854,83
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:42:30","DAT1",855,83
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:42:42","POSSIBLE_TI",856,83
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:42:44","TI1",857,83
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:43:13","Restart",858,84
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:43:34","POSSIBLE_TI",859,84
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:43:35","TI1",860,84
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:43:49","Restart",861,84
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:43:57","SAFE2",862,84
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:43:59","AT2",863,84
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:44:02","DANGER2",864,84
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:44:02","DAT2",865,84
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:44:06","POSSIBLE_CARDS",866,85
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:44:08","YC1",867,85
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:44:09","CONF_YC1",868,85
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:44:13","Scorer",869,85
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:44:16","Possible Free Kick",870,85
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:44:18","F1",872,85
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:44:18","FK2",873,85
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:44:18","DFK2",874,85
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:44:18","Ball Position",875,85
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:44:43","Player_DATA_CONFIRMED",876,85
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:45:23","Restart",877,86
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:45:30","Possible Free Kick",878,86
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:45:43","SAFE1",880,86
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:45:43","F2",881,86
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:45:43","FK1",882,86
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:45:43","Ball Position",883,86
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:45:58","Restart",884,86
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:46:00","AT1",885,86
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:46:03","SAFE1",886,86
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:46:07","AT1",887,87
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:46:08","DANGER1",888,87
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:46:08","DAT1",889,87
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:46:14","SAFE1",890,87
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:46:19","Possible Free Kick",891,87
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:46:22","F2",893,87
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:46:22","FK1",894,87
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:46:22","Ball Position",895,87
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:46:52","Restart",896,87
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:46:53","AT1",897,87
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:47:03","SAFE1",898,87
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:47:06","AT2",899,88
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:47:07","DANGER2",900,88
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:47:07","DAT2",901,88
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:47:13","POSSIBLE_TI",902,88
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:47:14","TI2",903,88
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:47:24","Restart",904,88
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:47:35","SAFE1",905,88
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:47:36","AT1",906,88
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:47:38","DANGER1",907,88
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:47:38","DAT1",908,88
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:47:40","SAFE2",909,88
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:47:49","AT2",910,88
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:47:59","SAFE1",911,88
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:48:04","AT1",912,89
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:48:08","Possible Free Kick",913,89
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:48:11","SAFE2",915,89
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:48:11","O1",916,89
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:48:11","FK2",917,89
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:48:11","Ball Position",918,89
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:48:16","System Message",919,89
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:48:43","SUB1",920,89
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:48:52","Restart",921,89
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:48:54","AT2",922,89
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:48:56","DANGER2",923,89
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:48:56","DAT2",924,89
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:49:13","Player_DATA_CONFIRMED",925,90
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:49:15","SAFE1",926,90
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:49:16","GK1",927,90
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:49:18","System Message",928,90
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:49:35","Restart",929,90
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:49:36","AT1",930,90
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:49:40","SAFE2",931,90
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:49:53","AT2",932,90
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:50:07","DANGER2",933,91
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:50:07","DAT2",934,91
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:50:13","POSSIBLE_TI",935,91
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:50:13","TI2",936,91
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:50:16","Restart",937,91
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:50:30","SAFE1",938,91
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:50:37","Extra Time",939,91
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:50:45","AT1",940,91
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:50:48","SAFE2",941,91
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:50:52","AT1",942,91
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:50:55","DANGER1",943,91
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:50:55","DAT1",944,91
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:51:03","GOAL1",945,92
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:51:13","Scorer",946,92
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:52:12","CONF_GOAL1",947,93
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:52:13","KO2",948,93
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:52:13","SAFE2",949,93
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:52:14","Player_DATA_CONFIRMED",950,93
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:52:14","Assist",951,93
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:52:28","AT2",952,93
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:52:32","POSSIBLE_TI",953,93
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:52:33","TI2",954,93
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:52:46","Restart",955,93
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:52:56","SAFE2",956,93
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:53:05","AT2",957,94
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:53:08","DANGER2",958,94
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:53:08","DAT2",959,94
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:53:44","BLOCKED2",960,94
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:53:50","POSSIBLE_TI",961,94
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:53:51","TI1",962,94
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:53:53","SAFE1",963,94
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:54:10","Restart",964,95
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:54:13","AT1",965,95
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:54:19","SAFE1",966,95
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:54:22","SAFE2",967,95
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:54:30","AT2",968,95
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:54:33","POSSIBLE_TI",969,95
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:54:34","TI2",970,95
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:54:40","Restart",971,95
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:54:58","DANGER2",972,95
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:54:58","DAT2",973,95
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:55:26","BLOCKED2",974,96
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:55:30","BLOCKED2",975,96
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:55:32","PCR2",976,96
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:55:36","CR2",977,96
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:55:50","Ball Position",978,96
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:55:51","Restart",979,96
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:56:13","Stop RT2",980,96
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:56:13","Stop Game",981,96
+1205890,"Atletico de Madrid","RCD Espanyol Barcelona","11/10/2019 16:56:19","CONF_PERIOD_SCORE",982,96

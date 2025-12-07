@@ -1,0 +1,846 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 17:02:02","Scout in Stadion",0,0
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 17:02:06","Transmission Online",1,0
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 17:02:28","Jersey Changed",2,0
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 17:02:29","Jersey Changed",3,0
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 17:02:32","GCC",4,0
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 17:11:51","Lineup changed",5,0
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 17:57:09","Players are coming out",6,0
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 17:57:21","Players lined up",7,0
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 17:57:44","Shake hands",8,0
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 17:58:15","Flip coin",9,0
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 17:59:29","Game about to start",10,0
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:00:10","Start RT1 Team 1",11,1
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:00:11","SAFE1",12,1
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:00:53","AT1",13,1
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:01:07","SAFE2",14,1
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:01:25","SAFE1",15,2
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:01:44","AT1",16,2
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:01:52","Possible Free Kick",17,2
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:01:57","F2",19,2
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:01:57","FK1",20,2
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:01:57","DANGER1",21,2
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:01:57","DFK1",22,2
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:01:57","Ball Position",23,2
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:02:44","Restart",24,3
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:02:51","SHG1",25,3
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:02:53","SAFE2",26,3
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:03:09","SAFE1",27,3
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:03:11","AT1",28,4
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:03:34","DANGER1",29,4
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:03:34","DAT1",30,4
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:03:45","PCR1",31,4
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:03:55","NCR1",32,4
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:03:56","SAFE2",33,4
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:03:57","GK2",34,4
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:04:15","Restart",35,5
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:04:26","AT2",36,5
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:04:33","DANGER2",37,5
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:04:33","DAT2",38,5
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:04:39","PCR2",39,5
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:04:48","CR2",40,5
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:04:52","Ball Position",41,5
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:05:01","Restart",42,5
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:05:09","SHB2",43,5
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:05:11","SAFE1",44,6
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:05:12","GK1",45,6
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:05:22","Restart",46,6
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:05:24","SAFE1",47,6
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:05:34","AT1",48,6
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:05:40","DANGER1",49,6
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:05:40","DAT1",50,6
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:06:07","POSSIBLE_TI",51,6
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:06:09","TI2",52,6
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:06:10","Restart",53,6
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:06:26","SAFE1",54,7
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:06:42","AT1",55,7
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:06:57","DANGER1",56,7
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:06:57","DAT1",57,7
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:07:20","SAFE1",58,8
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:07:31","SAFE2",59,8
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:07:38","AT1",60,8
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:07:52","DANGER1",61,8
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:07:52","DAT1",62,8
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:08:05","SAFE2",63,8
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:08:23","AT2",64,9
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:08:39","SAFE2",65,9
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:08:54","AT2",66,9
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:09:05","SAFE1",67,9
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:09:23","POSSIBLE_TI",68,10
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:09:24","TI1",69,10
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:09:25","Restart",70,10
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:09:26","SAFE1",71,10
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:09:35","AT1",72,10
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:09:42","DANGER1",73,10
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:09:42","DAT1",74,10
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:09:48","SAFE2",75,10
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:10:06","AT1",76,10
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:10:06","DANGER1",77,10
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:10:06","DAT1",78,10
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:10:09","GOAL1",79,10
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:10:19","Scorer",80,11
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:10:36","CONF_GOAL1",81,11
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:11:06","KO2",82,11
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:11:06","SAFE2",83,11
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:11:08","AT2",84,11
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:11:12","DANGER2",85,12
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:11:12","DAT2",86,12
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:11:21","SAFE1",87,12
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:11:22","GK1",88,12
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:11:32","Restart",89,12
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:11:34","Player_DATA_CONFIRMED",90,12
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:12:09","AT1",91,12
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:12:22","DANGER1",92,13
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:12:22","DAT1",93,13
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:12:30","SAFE2",94,13
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:12:31","GK2",95,13
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:12:44","Restart",96,13
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:12:55","AT2",97,13
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:13:05","Possible Free Kick",98,13
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:13:07","SAFE1",100,13
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:13:07","F2",101,13
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:13:07","FK1",102,13
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:13:07","Ball Position",103,13
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:13:10","Restart",104,13
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:13:10","SAFE1",105,13
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:13:22","AT1",106,14
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:13:43","DANGER1",107,14
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:13:43","DAT1",108,14
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:13:52","SAFE2",109,14
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:13:58","SAFE1",110,14
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:14:04","AT1",111,14
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:14:09","DANGER1",112,14
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:14:09","DAT1",113,14
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:14:15","Possible Free Kick",114,15
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:14:17","F2",116,15
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:14:17","FK1",117,15
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:14:17","DFK1",118,15
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:14:17","Ball Position",119,15
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:15:05","Restart",120,15
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:15:36","Possible Free Kick",121,16
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:15:40","F2",123,16
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:15:40","FK1",124,16
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:15:40","DFK1",125,16
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:15:40","Ball Position",126,16
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:16:02","Restart",127,16
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:16:10","SHB1",128,16
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:16:14","SAFE2",129,17
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:16:15","GK2",130,17
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:16:29","Restart",131,17
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:16:34","AT2",132,17
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:16:37","POSSIBLE_TI",133,17
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:16:38","TI2",134,17
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:16:40","Restart",135,17
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:16:48","POSSIBLE_TI",136,17
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:16:50","TI2",137,17
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:16:57","Restart",138,17
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:17:00","DANGER2",139,17
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:17:00","DAT2",140,17
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:17:16","SAFE1",141,18
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:18:06","AT1",142,18
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:18:24","SAFE2",143,19
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:18:29","AT2",144,19
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:18:32","DANGER2",145,19
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:18:32","DAT2",146,19
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:18:37","POSSIBLE_TI",147,19
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:18:38","TI2",148,19
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:18:51","Restart",149,19
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:18:54","PCR2",150,19
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:19:03","NCR2",151,19
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:19:04","SAFE1",152,19
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:19:05","GK1",153,19
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:19:08","Restart",154,19
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:19:31","AT1",155,20
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:19:37","DANGER1",156,20
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:19:37","DAT1",157,20
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:19:40","PCR1",158,20
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:19:54","CR1",159,20
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:19:55","Ball Position",160,20
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:20:05","Restart",161,20
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:20:12","Possible Free Kick",162,21
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:20:13","SAFE2",164,21
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:20:13","F1",165,21
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:20:13","FK2",166,21
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:20:13","Ball Position",167,21
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:20:29","Restart",168,21
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:20:34","AT1",169,21
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:20:44","SAFE2",170,21
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:20:46","AT2",171,21
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:20:47","POSSIBLE_TI",172,21
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:20:49","TI2",173,21
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:20:53","Restart",174,21
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:21:10","SAFE2",175,21
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:21:22","AT2",176,22
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:21:29","DANGER2",177,22
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:21:29","DAT2",178,22
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:21:35","PCR2",179,22
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:21:44","NCR2",180,22
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:21:45","SAFE1",181,22
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:21:46","GK1",182,22
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:21:52","Restart",183,22
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:22:22","AT1",184,23
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:22:26","POSSIBLE_TI",185,23
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:22:29","TI1",186,23
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:22:33","Restart",187,23
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:22:35","SAFE1",188,23
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:22:56","POSSIBLE_TI",189,23
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:22:57","TI1",190,23
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:23:01","Restart",191,23
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:23:09","AT1",192,23
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:23:20","SAFE2",193,24
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:23:25","AT2",194,24
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:23:34","SAFE1",195,24
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:23:54","AT1",196,24
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:23:59","POSSIBLE_TI",197,24
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:24:00","TI1",198,24
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:24:18","Restart",199,25
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:24:31","DANGER1",200,25
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:24:31","DAT1",201,25
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:24:57","Possible Free Kick",202,25
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:25:01","F2",204,25
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:25:01","FK1",205,25
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:25:01","DFK1",206,25
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:25:01","Ball Position",207,25
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:25:13","Restart",208,26
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:26:05","POSSIBLE_TI",209,26
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:26:12","TI1",210,27
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:26:23","Restart",211,27
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:26:38","POSSIBLE_TI",212,27
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:26:42","TI2",213,27
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:26:50","Restart",214,27
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:26:57","SAFE1",215,27
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:26:58","AT1",216,27
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:27:01","SAFE2",217,27
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:27:08","AT1",218,27
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:27:10","DANGER1",219,27
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:27:10","DAT1",220,27
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:27:15","PCR1",221,28
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:27:24","SHB1",222,28
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:27:33","CR1",223,28
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:27:34","Ball Position",224,28
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:27:43","Restart",225,28
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:27:56","Possible Free Kick",226,28
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:28:00","SAFE2",228,28
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:28:01","O1",229,28
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:28:01","FK2",230,28
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:28:01","Ball Position",231,28
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:28:39","System Message",232,29
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:28:39","Game suspended",233,29
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:30:08","Restart",234,30
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:30:10","SAFE2",235,30
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:30:13","System Message",236,31
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:30:15","AT2",237,31
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:30:31","DANGER2",238,31
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:30:31","DAT2",239,31
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:30:40","SAFE2",240,31
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:31:10","POSSIBLE_TI",241,31
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:31:13","TI1",242,32
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:31:15","Restart",243,32
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:31:24","Possible Free Kick",244,32
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:31:26","F1",246,32
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:31:26","FK2",247,32
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:31:26","DANGER2",248,32
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:31:26","DFK2",249,32
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:31:26","Ball Position",250,32
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:31:32","Restart",251,32
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:31:37","SAFE2",252,32
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:32:08","AT2",253,32
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:32:14","DANGER2",254,33
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:32:14","DAT2",255,33
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:32:22","PCR2",256,33
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:32:32","CR2",257,33
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:32:34","Ball Position",258,33
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:32:43","Restart",259,33
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:32:48","POSSIBLE_TI",260,33
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:32:50","TI2",261,33
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:32:53","Restart",262,33
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:33:12","Possible Free Kick",263,34
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:33:14","SAFE1",265,34
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:33:14","O2",266,34
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:33:14","FK1",267,34
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:33:15","Ball Position",268,34
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:33:25","Restart",269,34
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:33:29","SAFE1",270,34
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:33:46","AT2",271,34
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:33:52","Possible Free Kick",272,34
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:33:54","SAFE1",274,34
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:33:54","F2",275,34
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:33:54","FK1",276,34
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:33:54","Ball Position",277,34
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:33:57","Restart",278,34
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:34:02","AT1",279,34
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:34:14","SAFE2",280,35
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:34:14","AT2",281,35
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:34:16","DANGER2",282,35
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:34:16","DAT2",283,35
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:34:24","SAFE1",284,35
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:34:27","AT1",285,35
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:34:43","Possible Free Kick",286,35
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:34:43","F2",288,35
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:34:43","FK1",289,35
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:34:43","DANGER1",290,35
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:34:43","DFK1",291,35
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:34:43","Ball Position",292,35
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:34:44","Restart",293,35
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:34:58","SAFE2",294,35
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:35:00","AT2",295,35
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:35:14","POSSIBLE_TI",296,36
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:35:15","TI1",297,36
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:35:34","Restart",298,36
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:35:59","DANGER2",299,36
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:35:59","DAT2",300,36
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:36:04","Possible Free Kick",301,36
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:36:07","SAFE1",303,36
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:36:07","O2",304,36
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:36:07","FK1",305,36
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:36:07","Ball Position",306,36
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:36:08","Restart",307,36
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:36:09","AT1",308,36
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:36:29","POSSIBLE_TI",309,37
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:36:32","TI2",310,37
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:36:41","Restart",311,37
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:36:43","SAFE2",312,37
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:36:44","AT2",313,37
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:36:47","SAFE1",314,37
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:37:03","AT1",315,37
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:37:07","POSSIBLE_TI",316,37
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:37:07","TI2",317,37
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:37:12","Restart",318,38
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:37:13","SAFE2",319,38
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:37:26","SAFE1",320,38
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:37:30","AT1",321,38
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:37:34","DANGER1",322,38
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:37:34","DAT1",323,38
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:37:41","SAFE2",324,38
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:38:00","SAFE2",325,38
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:38:01","AT2",326,38
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:38:16","DANGER2",327,39
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:38:16","DAT2",328,39
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:38:38","POSSIBLE_TI",329,39
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:38:39","TI1",330,39
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:38:47","Restart",331,39
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:38:53","SAFE1",332,39
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:38:54","AT1",333,39
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:38:55","DANGER1",334,39
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:38:55","DAT1",335,39
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:39:04","SHG1",336,39
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:39:14","SAFE2",337,40
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:39:20","AT2",338,40
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:39:27","POSSIBLE_TI",339,40
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:39:45","TI2",340,40
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:39:56","Restart",341,40
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:40:07","DANGER2",342,40
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:40:07","DAT2",343,40
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:40:11","POSSIBLE_TI",344,41
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:40:12","TI2",345,41
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:40:24","Restart",346,41
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:40:38","SAFE1",347,41
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:41:07","AT1",348,41
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:41:25","Possible Free Kick",349,42
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:41:29","SAFE2",351,42
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:41:29","F1",352,42
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:41:29","FK2",353,42
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:41:29","Ball Position",354,42
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:41:34","Restart",355,42
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:41:39","AT2",356,42
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:41:58","POSSIBLE_TI",357,42
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:42:00","TI1",358,42
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:42:02","Restart",359,42
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:42:03","SAFE1",360,42
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:42:19","SAFE2",361,43
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:42:25","SAFE1",362,43
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:42:57","POSSIBLE_TI",363,43
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:42:58","TI2",364,43
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:43:00","Restart",365,43
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:43:02","SAFE2",366,43
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:43:15","SAFE1",367,44
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:43:55","Possible Free Kick",368,44
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:43:56","F1",370,44
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:43:56","FK2",371,44
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:43:56","DANGER2",372,44
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:43:56","DFK2",373,44
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:43:56","Ball Position",374,44
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:43:58","Restart",375,44
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:43:59","SAFE2",376,44
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:44:10","SAFE1",377,44
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:44:12","AT1",378,45
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:44:21","POSSIBLE_TI",379,45
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:44:22","TI1",380,45
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:44:23","Restart",381,45
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:44:40","DANGER1",382,45
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:44:40","DAT1",383,45
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:44:47","SAFE1",384,45
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:45:05","AT1",385,45
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:45:15","Extra Time",386,46
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:45:18","SAFE2",387,46
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:45:26","AT2",388,46
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:45:47","SAFE2",389,46
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:45:56","SAFE1",390,46
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:46:03","AT1",391,46
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:46:06","DANGER1",392,46
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:46:06","DAT1",393,46
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:46:11","POSSIBLE_TI",394,47
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:46:11","TI1",395,47
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:46:30","Restart",396,47
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:46:36","Possible Free Kick",397,47
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:46:38","F2",399,47
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:46:38","FK1",400,47
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:46:38","DFK1",401,47
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:46:38","Ball Position",402,47
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:46:42","POSSIBLE_CARDS",403,47
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:47:01","NO_Cards",404,47
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:47:25","Restart",405,48
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:47:35","Stop RT1",406,48
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 18:47:49","CONF_PERIOD_SCORE",407,45
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:01:01","Players are coming out",408,45
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:01:57","SUB2",409,45
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:01:59","Game about to start",410,45
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:02:29","Start RT2 Team 2",411,46
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:02:31","SAFE2",412,46
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:02:37","AT2",413,46
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:02:43","SAFE1",414,46
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:02:44","AT1",415,46
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:02:46","DANGER1",416,46
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:02:46","DAT1",417,46
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:03:07","SAFE2",418,46
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:03:16","AT2",419,46
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:03:17","DANGER2",420,46
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:03:17","DAT2",421,46
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:03:26","SAFE1",422,46
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:03:37","Possible Free Kick",423,47
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:03:39","F2",425,47
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:03:39","FK1",426,47
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:03:39","Ball Position",427,47
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:03:46","Restart",428,47
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:03:54","Player_DATA_CONFIRMED",429,47
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:04:01","POSSIBLE_TI",430,47
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:04:02","TI1",431,47
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:04:09","Restart",432,47
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:04:12","AT1",433,47
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:04:19","DANGER1",434,47
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:04:19","DAT1",435,47
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:04:31","GOAL1",436,48
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:04:49","Scorer",437,48
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:05:08","CONF_GOAL1",438,48
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:05:29","KO2",439,48
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:05:29","SAFE2",440,48
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:05:31","SAFE2",441,49
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:05:40","AT1",442,49
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:05:49","POSSIBLE_TI",443,49
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:05:49","TI1",444,49
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:05:56","Player_DATA_CONFIRMED",445,49
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:05:56","Assist",446,49
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:05:57","Restart",447,49
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:05:57","SAFE1",448,49
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:06:11","POSSIBLE_TI",449,49
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:06:11","TI2",450,49
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:06:12","Restart",451,49
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:06:14","AT2",452,49
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:06:17","DANGER2",453,49
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:06:17","DAT2",454,49
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:06:25","SAFE1",455,49
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:06:26","GK1",456,49
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:06:54","Restart",457,50
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:07:21","AT1",458,50
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:07:24","DANGER1",459,50
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:07:24","DAT1",460,50
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:07:34","SAFE2",461,51
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:07:41","AT2",462,51
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:07:44","SAFE1",463,51
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:07:44","AT1",464,51
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:07:46","DANGER1",465,51
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:07:46","DAT1",466,51
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:07:52","SAFE2",467,51
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:08:00","AT1",468,51
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:08:02","DANGER1",469,51
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:08:02","DAT1",470,51
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:08:11","Possible Free Kick",471,51
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:08:26","SAFE2",473,51
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:08:27","O1",474,51
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:08:27","FK2",475,51
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:08:27","Ball Position",476,51
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:08:48","Restart",477,52
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:08:53","AT2",478,52
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:08:55","DANGER2",479,52
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:08:55","DAT2",480,52
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:09:01","GOAL2",481,52
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:09:29","CONF_GOAL2",482,52
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:09:30","Scorer",483,53
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:09:34","KO1",484,53
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:09:34","SAFE1",485,53
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:09:37","SAFE1",486,53
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:09:46","AT2",487,53
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:09:47","DANGER2",488,53
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:09:47","DAT2",489,53
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:09:54","POSSIBLE_TI",490,53
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:09:54","TI2",491,53
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:09:56","Restart",492,53
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:10:05","Possible Free Kick",493,53
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:10:11","F1",495,53
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:10:11","FK2",496,53
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:10:11","DFK2",497,53
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:10:11","Ball Position",498,53
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:10:26","Player_DATA_CONFIRMED",499,53
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:10:26","Assist",500,53
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:10:39","Restart",501,54
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:10:53","SAFE1",502,54
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:11:12","AT2",503,54
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:11:15","SAFE2",504,54
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:11:31","AT2",505,55
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:11:35","DANGER2",506,55
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:11:35","DAT2",507,55
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:11:42","SAFE1",508,55
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:11:45","GK1",509,55
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:12:03","Restart",510,55
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:12:06","AT1",511,55
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:12:25","Possible Free Kick",512,55
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:12:25","SAFE2",514,55
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:12:25","F1",515,55
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:12:25","FK2",516,55
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:12:25","Ball Position",517,55
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:12:28","Restart",518,55
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:12:32","AT2",519,56
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:12:35","DANGER2",520,56
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:12:35","DAT2",521,56
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:13:01","SAFE1",522,56
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:13:12","AT1",523,56
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:13:39","Possible Free Kick",524,57
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:13:41","F2",526,57
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:13:41","FK1",527,57
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:13:41","DANGER1",528,57
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:13:41","DFK1",529,57
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:13:41","Ball Position",530,57
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:13:55","Restart",531,57
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:14:08","SAFE2",532,57
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:14:16","AT1",533,57
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:14:21","Possible Free Kick",534,57
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:14:24","SAFE2",536,57
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:14:24","O1",537,57
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:14:24","FK2",538,57
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:14:24","Ball Position",539,57
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:14:26","Restart",540,57
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:14:27","AT2",541,57
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:14:37","DANGER2",542,58
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:14:37","DAT2",543,58
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:14:41","SAFE1",544,58
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:14:42","AT1",545,58
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:14:45","DANGER1",546,58
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:14:45","DAT1",547,58
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:14:51","PCR1",548,58
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:15:02","NCR1",549,58
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:15:03","SAFE2",550,58
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:15:04","GK2",551,58
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:15:24","SUB1",552,58
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:15:36","Player_DATA_CONFIRMED",553,59
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:15:41","Restart",554,59
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:15:48","AT2",555,59
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:15:57","SAFE1",556,59
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:15:59","AT1",557,59
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:16:01","DANGER1",558,59
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:16:01","DAT1",559,59
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:16:11","SAFE2",560,59
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:16:16","AT2",561,59
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:16:24","POSSIBLE_TI",562,59
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:16:25","TI2",563,59
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:16:36","Restart",564,60
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:16:37","DANGER2",565,60
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:16:37","DAT2",566,60
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:17:29","POSSIBLE_TI",567,60
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:17:30","TI2",568,61
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:17:44","Restart",569,61
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:17:47","SAFE2",570,61
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:17:48","AT2",571,61
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:17:53","DANGER2",572,61
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:17:53","DAT2",573,61
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:17:59","SAFE1",574,61
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:18:08","POSSIBLE_TI",575,61
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:18:09","TI2",576,61
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:18:17","Restart",577,61
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:18:18","SAFE2",578,61
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:18:44","AT2",579,62
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:19:17","DANGER2",580,62
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:19:17","DAT2",581,62
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:19:25","BLOCKED2",582,62
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:19:26","SAFE1",583,62
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:19:53","AT1",584,63
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:20:00","DANGER1",585,63
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:20:00","DAT1",586,63
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:20:30","SAFE2",587,64
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:20:39","AT2",588,64
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:20:42","DANGER2",589,64
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:20:42","DAT2",590,64
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:21:03","SAFE1",591,64
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:21:12","AT1",592,64
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:21:17","DANGER1",593,64
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:21:17","DAT1",594,64
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:21:38","POSSIBLE_TI",595,65
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:21:41","TI2",596,65
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:21:50","Restart",597,65
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:22:04","SAFE2",598,65
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:22:11","AT1",599,65
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:22:14","DANGER1",600,65
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:22:14","DAT1",601,65
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:22:19","PCR1",602,65
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:22:28","CR1",603,65
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:22:29","Ball Position",604,65
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:22:47","Restart",605,66
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:23:06","SAFE1",606,66
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:23:26","AT1",607,66
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:23:33","DANGER1",608,67
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:23:33","DAT1",609,67
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:23:38","PCR1",610,67
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:23:46","NCR1",611,67
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:23:46","SAFE2",612,67
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:23:47","GK2",613,67
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:24:04","Restart",614,67
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:24:12","AT2",615,67
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:24:32","POSSIBLE_TI",616,68
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:24:34","TI2",617,68
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:24:35","Restart",618,68
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:24:59","Possible Free Kick",619,68
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:25:00","SAFE1",621,68
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:25:00","F2",622,68
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:25:00","FK1",623,68
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:25:00","Ball Position",624,68
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:25:02","Restart",625,68
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:25:04","AT1",626,68
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:25:11","DANGER1",627,68
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:25:11","DAT1",628,68
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:25:52","SAFE2",629,69
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:25:52","AT2",630,69
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:25:52","DANGER2",631,69
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:25:52","DAT2",632,69
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:25:54","SHG2",633,69
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:25:55","SAFE1",634,69
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:26:05","AT1",635,69
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:26:22","DANGER1",636,69
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:26:22","DAT1",637,69
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:26:58","Possible Free Kick",638,70
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:27:02","F2",640,70
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:27:02","FK1",641,70
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:27:02","DFK1",642,70
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:27:02","Ball Position",643,70
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:28:03","Restart",644,71
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:28:07","BLOCKED1",645,71
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:28:15","SAFE2",646,71
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:28:24","AT2",647,71
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:28:25","POSSIBLE_TI",648,71
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:28:26","TI1",649,71
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:28:41","SUB2",650,72
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:28:47","Player_DATA_CONFIRMED",651,72
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:28:48","Restart",652,72
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:28:49","SAFE1",653,72
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:29:12","SAFE2",654,72
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:29:18","Possible Free Kick",655,72
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:29:20","F1",657,72
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:29:20","FK2",658,72
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:29:20","DANGER2",659,72
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:29:20","DFK2",660,72
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:29:20","Ball Position",661,72
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:29:28","Restart",662,72
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:29:28","SAFE2",663,72
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:29:33","AT2",664,73
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:29:39","DANGER2",665,73
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:29:39","DAT2",666,73
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:29:53","POSSIBLE_TI",667,73
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:29:55","TI2",668,73
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:30:01","Restart",669,73
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:30:19","SAFE1",670,73
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:30:21","AT1",671,73
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:30:24","DANGER1",672,73
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:30:24","DAT1",673,73
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:30:34","Possible Free Kick",674,74
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:30:37","SAFE2",676,74
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:30:37","F1",677,74
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:30:37","FK2",678,74
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:30:37","Ball Position",679,74
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:30:38","Restart",680,74
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:30:40","SAFE2",681,74
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:31:00","Possible Free Kick",682,74
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:31:01","F1",684,74
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:31:01","FK2",685,74
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:31:01","DANGER2",686,74
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:31:01","DFK2",687,74
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:31:01","Ball Position",688,74
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:31:25","Restart",689,74
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:31:26","SAFE2",690,74
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:31:38","AT2",691,75
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:31:41","DANGER2",692,75
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:31:41","DAT2",693,75
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:31:45","PCR2",694,75
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:32:03","CR2",695,75
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:32:04","Ball Position",696,75
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:32:06","Restart",697,75
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:32:15","SAFE1",698,75
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:32:15","GK1",699,75
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:32:35","Restart",700,76
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:32:47","SAFE2",701,76
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:32:49","AT2",702,76
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:32:51","POSSIBLE_TI",703,76
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:32:55","TI1",704,76
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:33:05","Restart",705,76
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:33:12","SAFE1",706,76
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:33:13","AT1",707,76
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:33:17","SAFE2",708,76
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:33:20","AT2",709,76
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:33:25","DANGER2",710,76
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:33:25","DAT2",711,76
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:33:31","SAFE1",712,77
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:33:35","AT1",713,77
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:33:38","DANGER1",714,77
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:33:38","DAT1",715,77
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:33:45","SAFE2",716,77
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:34:04","AT2",717,77
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:34:08","DANGER2",718,77
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:34:08","DAT2",719,77
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:34:27","Possible Free Kick",720,77
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:34:29","SAFE1",722,77
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:34:29","F2",723,77
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:34:29","FK1",724,77
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:34:29","Ball Position",725,77
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:34:53","Restart",726,78
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:35:20","AT2",727,78
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:35:57","System Message",728,79
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:35:57","Game suspended",729,79
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:37:06","SUB2",730,80
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:37:23","SUB1",731,80
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:37:36","Referee Ball",732,81
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:37:37","Restart",733,81
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:37:39","SAFE2",734,81
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:37:50","SAFE1",735,81
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:37:56","POSSIBLE_CARDS",736,81
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:38:02","YC2",737,81
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:38:07","CONF_YC2",738,81
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:38:11","Scorer",739,81
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:38:14","System Message",740,81
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:38:15","Possible Free Kick",741,81
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:38:17","F2",743,81
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:38:17","FK1",744,81
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:38:17","Ball Position",745,81
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:38:24","Restart",746,81
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:38:25","Player_DATA_CONFIRMED",747,81
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:38:25","Player_DATA_CONFIRMED",748,81
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:38:36","AT1",749,82
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:38:40","DANGER1",750,82
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:38:40","DAT1",751,82
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:38:53","SHG1",752,82
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:39:04","POSSIBLE_TI",753,82
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:39:04","TI1",754,82
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:39:17","Restart",755,82
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:39:24","Player_DATA_CONFIRMED",756,82
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:39:35","Possible Free Kick",757,83
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:39:37","SAFE2",759,83
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:39:37","F1",760,83
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:39:37","FK2",761,83
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:39:37","Ball Position",762,83
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:39:45","Restart",763,83
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:39:58","AT2",764,83
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:40:09","SAFE2",765,83
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:40:17","SAFE1",766,83
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:40:44","AT1",767,84
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:40:52","DANGER1",768,84
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:40:52","DAT1",769,84
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:41:00","SHG1",770,84
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:41:01","SAFE2",771,84
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:41:08","AT2",772,84
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:41:18","DANGER2",773,84
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:41:18","DAT2",774,84
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:41:38","Possible Free Kick",775,85
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:41:40","SAFE1",777,85
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:41:40","F2",778,85
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:41:40","FK1",779,85
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:41:40","Ball Position",780,85
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:41:57","Restart",781,85
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:42:16","AT1",782,85
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:42:19","DANGER1",783,85
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:42:19","DAT1",784,85
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:42:30","SAFE2",785,86
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:42:34","Possible Free Kick",786,86
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:42:38","SAFE1",788,86
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:42:38","O2",789,86
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:42:38","FK1",790,86
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:42:38","Ball Position",791,86
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:42:41","Restart",792,86
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:42:42","SAFE1",793,86
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:42:44","AT1",794,86
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:42:49","DANGER1",795,86
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:42:49","DAT1",796,86
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:42:55","SAFE2",797,86
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:43:04","AT2",798,86
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:43:09","DANGER2",799,86
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:43:09","DAT2",800,86
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:43:15","POSSIBLE_TI",801,86
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:43:17","TI2",802,86
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:43:25","Restart",803,86
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:43:29","PCR2",804,86
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:43:34","CR2",805,87
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:43:36","Ball Position",806,87
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:43:46","Restart",807,87
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:44:06","PCR2",808,87
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:44:09","NCR2",809,87
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:44:10","SAFE1",810,87
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:44:10","GK1",811,87
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:44:27","Restart",812,87
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:44:34","AT2",813,88
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:44:36","DANGER2",814,88
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:44:36","DAT2",815,88
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:44:43","SHB2",816,88
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:44:48","SAFE1",817,88
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:44:49","GK1",818,88
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:45:15","SUB1",819,88
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:45:25","Restart",820,88
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:45:33","POSSIBLE_TI",821,89
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:45:35","TI1",822,89
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:45:40","Player_DATA_CONFIRMED",823,89
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:45:42","Restart",824,89
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:45:44","AT1",825,89
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:45:50","POSSIBLE_TI",826,89
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:45:52","TI2",827,89
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:45:57","Restart",828,89
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:46:00","SAFE2",829,89
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:46:03","AT2",830,89
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:46:07","DANGER2",831,89
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:46:07","DAT2",832,89
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:46:34","SAFE2",833,90
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:46:43","AT2",834,90
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:46:51","SAFE1",835,90
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:47:00","AT1",836,90
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:47:08","SAFE2",837,90
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:47:16","SAFE1",838,90
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:47:31","Extra Time",839,91
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:47:38","AT1",840,91
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:48:02","POSSIBLE_TI",841,91
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:48:02","TI2",842,91
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:48:04","Restart",843,91
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:48:04","SAFE2",844,91
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:48:28","AT2",845,91
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:48:31","DANGER2",846,92
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:48:31","DAT2",847,92
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:48:57","POSSIBLE_TI",848,92
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:48:58","TI2",849,92
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:49:01","Restart",850,92
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:49:06","POSSIBLE_TI",851,92
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:49:08","TI2",852,92
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:49:11","Restart",853,92
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:49:24","Possible Free Kick",854,92
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:49:25","SAFE1",856,92
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:49:25","F2",857,92
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:49:25","FK1",858,92
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:49:25","Ball Position",859,92
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:49:46","Restart",860,93
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:49:51","SAFE2",861,93
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:50:05","SAFE1",862,93
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:50:09","AT1",863,93
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:50:13","DANGER1",864,93
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:50:13","DAT1",865,93
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:50:24","PCR1",866,93
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:50:31","CR1",867,94
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:50:37","Ball Position",868,94
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:50:54","Restart",869,94
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:51:04","SAFE2",870,94
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:51:06","GK2",871,94
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:51:08","Restart",872,94
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:51:17","AT2",873,94
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:51:40","Stop RT2",874,94
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:51:40","Stop Game",875,94
+853315,"FC Girondins de Bordeaux","ES Troyes AC","08/26/2017 19:51:55","CONF_PERIOD_SCORE",876,94

@@ -1,0 +1,820 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 13:01:07","Lineup changed",0,0
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 13:01:45","Transmission Online",1,0
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 13:01:45","Scout in Stadion",2,0
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 13:23:58","GCC",3,0
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 13:56:06","Players are coming out",4,0
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 13:56:23","Players lined up",5,0
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 13:57:02","National anthem singing",6,0
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 13:57:07","CLS",7,0
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 13:57:11","Shake hands",8,0
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 13:58:01","Jersey Changed",9,0
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 13:58:01","Jersey Changed",10,0
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 13:59:18","Flip coin",11,0
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 13:59:45","Photo taking",12,0
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 13:59:46","Game about to start",13,0
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:00:03","Start RT1 Team 2",14,1
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:00:22","AT1",15,1
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:00:24","SAFE2",16,1
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:00:37","AT2",17,1
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:00:48","SAFE1",18,1
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:01:18","AT1",19,2
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:01:21","DANGER1",20,2
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:01:21","DAT1",21,2
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:01:51","Possible Free Kick",22,2
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:01:56","F2",24,2
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:01:56","FK1",25,2
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:01:56","DFK1",26,2
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:01:56","Ball Position",27,2
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:02:26","Restart",28,3
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:02:47","POSSIBLE_TI",29,3
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:02:52","TI2",30,3
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:03:08","Restart",31,4
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:03:09","SAFE2",32,4
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:03:19","POSSIBLE_TI",33,4
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:03:20","TI1",34,4
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:03:29","Restart",35,4
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:03:29","SAFE2",36,4
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:03:32","POSSIBLE_TI",37,4
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:03:33","TI1",38,4
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:03:47","Restart",39,4
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:03:48","SAFE1",40,4
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:04:04","AT1",41,5
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:04:08","DANGER1",42,5
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:04:08","DAT1",43,5
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:04:14","POSSIBLE_TI",44,5
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:04:15","TI1",45,5
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:04:20","Restart",46,5
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:04:36","POSSIBLE_TI",47,5
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:04:43","TI2",48,5
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:04:52","Restart",49,5
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:04:59","POSSIBLE_TI",50,5
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:05:00","TI2",51,5
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:05:00","SAFE2",52,5
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:05:16","Restart",53,6
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:05:21","POSSIBLE_TI",54,6
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:05:22","TI1",55,6
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:05:38","Restart",56,6
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:05:44","POSSIBLE_TI",57,6
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:05:45","TI1",58,6
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:05:57","Restart",59,6
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:06:13","SAFE1",60,7
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:06:27","AT2",61,7
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:06:31","DANGER2",62,7
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:06:31","DAT2",63,7
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:06:32","Possible Free Kick",64,7
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:06:35","F1",66,7
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:06:35","FK2",67,7
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:06:35","DFK2",68,7
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:06:35","Ball Position",69,7
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:07:07","Restart",70,8
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:07:16","POSSIBLE_TI",71,8
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:07:17","TI1",72,8
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:07:31","Restart",73,8
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:07:49","SAFE2",74,8
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:08:03","Possible Free Kick",75,8
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:08:04","F1",77,9
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:08:04","FK2",78,9
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:08:04","DANGER2",79,9
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:08:04","DFK2",80,9
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:08:04","Ball Position",81,9
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:08:32","Restart",82,9
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:08:44","POSSIBLE_TI",83,9
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:08:49","TI2",84,9
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:08:59","Restart",85,9
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:09:10","SAFE2",86,10
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:09:16","POSSIBLE_TI",87,10
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:09:18","TI1",88,10
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:09:30","Restart",89,10
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:09:31","SAFE1",90,10
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:09:38","AT2",91,10
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:09:38","DANGER2",92,10
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:09:38","DAT2",93,10
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:09:57","POSSIBLE_TI",94,10
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:09:58","TI1",95,10
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:10:08","CLS",96,11
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:10:09","NO_TI",97,11
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:10:11","Possible Free Kick",98,11
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:10:18","SAFE1",100,11
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:10:18","F2",101,11
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:10:18","FK1",102,11
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:10:19","Ball Position",103,11
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:10:26","Restart",104,11
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:10:35","AT1",105,11
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:10:36","DANGER1",106,11
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:10:36","DAT1",107,11
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:10:51","Possible Free Kick",108,11
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:10:54","SAFE1",110,11
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:10:54","O2",111,11
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:10:54","FK1",112,11
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:10:54","Ball Position",113,11
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:11:07","Restart",114,12
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:11:09","SAFE1",115,12
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:11:24","AT1",116,12
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:11:25","DANGER1",117,12
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:11:25","DAT1",118,12
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:11:33","PCR1",119,12
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:11:34","CR1",120,12
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:11:36","SHG1",121,12
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:11:36","Ball Position",122,12
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:12:06","Restart",123,13
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:12:11","PCR1",124,13
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:12:12","CR1",125,13
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:12:13","Ball Position",126,13
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:12:31","Restart",127,13
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:12:39","Possible Free Kick",128,13
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:12:41","SAFE2",130,13
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:12:42","O1",131,13
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:12:42","FK2",132,13
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:12:42","Ball Position",133,13
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:13:06","Restart",134,14
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:13:18","AT1",135,14
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:13:21","SAFE2",136,14
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:13:24","POSSIBLE_TI",137,14
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:13:24","TI2",138,14
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:13:38","Restart",139,14
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:13:39","SAFE2",140,14
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:13:41","AT2",141,14
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:13:42","DANGER2",142,14
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:13:42","DAT2",143,14
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:13:52","SAFE1",144,14
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:14:13","AT1",145,15
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:14:14","DANGER1",146,15
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:14:14","DAT1",147,15
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:14:25","SAFE2",148,15
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:14:31","SAFE1",149,15
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:14:56","AT1",150,15
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:15:05","SAFE2",151,16
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:15:07","Possible Free Kick",152,16
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:15:09","F1",154,16
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:15:09","FK2",155,16
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:15:09","Ball Position",156,16
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:15:37","Restart",157,16
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:15:44","AT2",158,16
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:15:45","DANGER2",159,16
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:15:45","DAT2",160,16
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:15:51","POSSIBLE_TI",161,16
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:15:52","TI2",162,16
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:16:16","Restart",163,17
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:16:29","Possible Free Kick",164,17
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:16:34","SAFE1",166,17
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:16:34","O2",167,17
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:16:34","FK1",168,17
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:16:34","Ball Position",169,17
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:16:46","Restart",170,17
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:17:01","AT1",171,17
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:17:03","DANGER1",172,17
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:17:03","DAT1",173,17
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:17:25","Possible Free Kick",174,18
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:17:28","SAFE2",176,18
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:17:28","F1",177,18
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:17:28","FK2",178,18
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:17:28","Ball Position",179,18
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:17:49","Restart",180,18
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:18:00","AT2",181,18
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:18:01","DANGER2",182,18
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:18:01","DAT2",183,18
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:18:09","POSSIBLE_TI",184,19
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:18:09","TI1",185,19
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:18:34","Restart",186,19
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:18:44","SAFE1",187,19
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:18:44","AT1",188,19
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:18:45","DANGER1",189,19
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:18:45","DAT1",190,19
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:18:47","SAFE2",191,19
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:19:15","AT2",192,20
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:19:17","DANGER2",193,20
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:19:17","DAT2",194,20
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:19:23","Injury Break",195,20
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:21:21","Injury Break",196,22
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:21:23","CLS",197,22
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:24:21","System Message",198,25
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:24:21","Game suspended",199,25
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:25:01","Injury Break",200,25
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:25:04","CLS",201,26
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:27:39","SUB1",202,28
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:27:46","Player_DATA_CONFIRMED",203,28
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:28:27","Referee Ball",204,29
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:28:49","Restart",205,29
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:28:50","SAFE1",206,29
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:28:51","System Message",207,29
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:29:16","AT1",208,30
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:29:22","SAFE1",209,30
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:29:32","AT1",210,30
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:29:32","DANGER1",211,30
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:29:32","DAT1",212,30
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:29:50","SAFE1",213,30
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:30:06","AT1",214,31
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:30:08","DANGER1",215,31
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:30:08","DAT1",216,31
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:30:12","POSSIBLE_TI",217,31
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:30:13","TI2",218,31
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:30:50","Restart",219,31
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:30:51","Possible Free Kick",220,31
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:30:52","SAFE2",222,31
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:30:52","F1",223,31
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:30:52","FK2",224,31
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:30:53","Ball Position",225,31
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:31:06","AT2",226,32
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:31:06","DANGER2",227,32
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:31:06","DAT2",228,32
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:31:09","Restart",229,32
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:31:30","POSSIBLE_TI",230,32
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:31:34","TI2",231,32
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:31:40","Restart",232,32
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:31:48","POSSIBLE_TI",233,32
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:31:48","TI2",234,32
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:31:53","Restart",235,32
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:32:04","SAFE2",236,33
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:32:17","SAFE1",237,33
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:32:32","AT1",238,33
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:32:40","DANGER1",239,33
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:32:40","DAT1",240,33
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:32:50","PCR1",241,33
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:32:50","CR1",242,33
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:32:53","Ball Position",243,33
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:33:13","Restart",244,34
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:33:34","SAFE1",245,34
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:33:59","AT2",246,34
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:34:02","Possible Free Kick",247,34
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:34:07","SAFE1",249,35
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:34:07","F2",250,35
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:34:07","FK1",251,35
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:34:07","Ball Position",252,35
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:34:25","Restart",253,35
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:34:25","SAFE1",254,35
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:34:35","SAFE2",255,35
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:34:40","AT2",256,35
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:34:41","DANGER2",257,35
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:34:41","DAT2",258,35
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:35:02","POSSIBLE_TI",259,35
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:35:02","TI2",260,35
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:35:18","Restart",261,36
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:35:20","SAFE1",262,36
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:35:24","AT1",263,36
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:35:26","DANGER1",264,36
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:35:26","DAT1",265,36
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:35:31","POSSIBLE_TI",266,36
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:35:32","TI1",267,36
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:35:51","Restart",268,36
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:36:22","SAFE2",269,37
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:36:23","AT2",270,37
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:36:36","POSSIBLE_TI",271,37
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:36:36","TI1",272,37
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:36:53","Restart",273,37
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:36:58","SAFE2",274,37
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:37:11","SAFE1",275,38
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:37:42","AT1",276,38
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:37:59","DANGER1",277,38
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:37:59","DAT1",278,38
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:38:12","POSSIBLE_TI",279,39
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:38:13","TI1",280,39
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:38:26","Restart",281,39
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:38:38","POSSIBLE_TI",282,39
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:38:40","TI1",283,39
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:38:41","Restart",284,39
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:38:47","Possible Free Kick",285,39
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:38:48","SAFE2",287,39
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:38:48","F1",288,39
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:38:48","FK2",289,39
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:38:48","Ball Position",290,39
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:39:12","Restart",291,40
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:39:22","POSSIBLE_TI",292,40
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:39:23","TI1",293,40
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:39:30","Restart",294,40
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:39:30","SAFE1",295,40
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:39:44","AT1",296,40
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:39:47","DANGER1",297,40
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:39:47","DAT1",298,40
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:39:55","SHG1",299,40
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:40:03","SAFE2",300,40
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:40:03","GK2",301,41
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:40:28","Restart",302,41
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:40:35","AT2",303,41
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:40:40","SAFE1",304,41
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:41:08","AT1",305,42
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:41:17","SAFE2",306,42
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:41:34","SAFE1",307,42
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:41:43","AT1",308,42
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:41:52","SAFE1",309,42
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:42:07","AT1",310,43
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:42:14","SAFE1",311,43
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:42:22","SAFE2",312,43
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:42:31","AT2",313,43
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:42:32","DANGER2",314,43
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:42:32","DAT2",315,43
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:42:51","Possible Free Kick",316,43
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:43:00","SAFE1",318,43
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:43:00","F2",319,43
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:43:00","FK1",320,43
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:43:00","Ball Position",321,43
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:43:01","Restart",322,43
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:43:02","SAFE1",323,43
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:43:14","SAFE2",324,44
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:43:29","AT1",325,44
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:43:32","DANGER1",326,44
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:43:32","DAT1",327,44
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:43:41","POSSIBLE_TI",328,44
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:43:46","TI1",329,44
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:43:48","Restart",330,44
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:44:06","SAFE2",331,45
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:44:15","POSSIBLE_TI",332,45
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:44:16","TI2",333,45
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:44:19","Restart",334,45
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:44:19","SAFE2",335,45
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:44:37","POSSIBLE_TI",336,45
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:44:37","TI2",337,45
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:44:51","Restart",338,45
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:44:58","POSSIBLE_TI",339,45
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:44:59","TI2",340,45
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:45:07","Restart",341,46
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:45:08","AT2",342,46
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:45:11","DANGER2",343,46
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:45:11","DAT2",344,46
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:45:18","Extra Time",345,46
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:45:40","SAFE1",346,46
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:45:48","AT1",347,46
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:45:49","DANGER1",348,46
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:45:49","DAT1",349,46
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:45:59","SAFE2",350,46
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:46:05","AT2",351,47
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:46:11","DANGER2",352,47
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:46:11","DAT2",353,47
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:46:16","SHB2",354,47
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:46:16","SAFE1",355,47
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:46:17","GK1",356,47
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:46:35","Restart",357,47
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:46:36","SAFE1",358,47
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:46:58","AT1",359,47
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:47:03","DANGER1",360,48
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:47:03","DAT1",361,48
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:47:06","SAFE2",362,48
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:47:13","AT2",363,48
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:47:14","DANGER2",364,48
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:47:14","DAT2",365,48
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:47:21","SAFE1",366,48
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:47:31","AT1",367,48
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:47:47","DANGER1",368,48
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:47:47","DAT1",369,48
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:47:56","SAFE2",370,48
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:48:04","SAFE1",371,49
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:48:51","AT1",372,49
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:48:53","DANGER1",373,49
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:48:53","DAT1",374,49
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:49:05","SAFE2",375,50
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:49:06","AT2",376,50
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:49:09","SAFE1",377,50
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:49:23","AT1",378,50
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:49:31","DANGER1",379,50
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:49:31","DAT1",380,50
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:49:41","SAFE2",381,50
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:49:46","SAFE1",382,50
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:49:59","AT1",383,50
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:50:00","DANGER1",384,50
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:50:00","DAT1",385,50
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:50:13","SAFE1",386,51
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:50:26","AT1",387,51
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:50:29","SAFE2",388,51
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:50:54","SAFE1",389,51
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:51:06","AT1",390,52
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:51:10","DANGER1",391,52
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:51:10","DAT1",392,52
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:51:28","SAFE1",393,52
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:51:36","AT1",394,52
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:51:39","DANGER1",395,52
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:51:39","DAT1",396,52
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:51:47","SHB1",397,52
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:51:48","SAFE2",398,52
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:51:48","GK2",399,52
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:52:26","Restart",400,53
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:52:42","Injury Break",401,53
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:53:30","Referee Ball",402,54
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:53:31","Restart",403,54
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:53:33","SAFE1",404,54
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:53:42","AT1",405,54
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:53:47","DANGER1",406,54
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:53:47","DAT1",407,54
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:53:54","SHB1",408,54
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:53:55","SAFE2",409,54
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:53:55","GK2",410,54
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:54:12","CLS",411,55
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:54:14","Stop RT1",412,55
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 14:54:18","CONF_PERIOD_SCORE",413,45
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:07:54","Players are coming out",414,45
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:08:33","Game about to start",415,45
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:09:09","Start RT2 Team 1",416,46
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:09:22","AT1",417,46
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:09:34","DANGER1",418,46
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:09:34","DAT1",419,46
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:09:49","PCR1",420,46
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:09:50","CR1",421,46
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:09:51","Ball Position",422,46
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:10:19","Restart",423,47
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:10:35","SAFE2",424,47
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:10:35","AT2",425,47
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:10:36","DANGER2",426,47
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:10:36","DAT2",427,47
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:10:39","SAFE1",428,47
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:10:53","AT1",429,47
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:10:56","SAFE2",430,47
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:10:58","AT2",431,47
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:11:02","SAFE1",432,47
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:11:41","AT1",433,48
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:11:42","DANGER1",434,48
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:11:42","DAT1",435,48
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:11:49","SHB1",436,48
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:11:50","SAFE2",437,48
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:11:50","GK2",438,48
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:12:21","Restart",439,49
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:12:29","POSSIBLE_TI",440,49
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:12:32","TI1",441,49
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:12:45","Restart",442,49
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:12:48","POSSIBLE_TI",443,49
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:12:49","TI2",444,49
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:12:58","Restart",445,49
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:13:06","SAFE1",446,49
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:13:44","AT1",447,50
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:13:45","DANGER1",448,50
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:13:45","DAT1",449,50
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:13:50","SAFE2",450,50
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:14:09","AT2",451,51
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:14:13","DANGER2",452,51
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:14:13","DAT2",453,51
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:14:19","POSSIBLE_TI",454,51
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:14:21","TI1",455,51
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:14:38","Restart",456,51
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:14:44","POSSIBLE_TI",457,51
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:14:47","TI2",458,51
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:15:03","CLS",459,51
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:15:04","NO_TI",460,51
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:15:05","Possible Free Kick",461,51
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:15:08","FK2",463,51
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:15:08","DFK2",464,51
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:15:08","Ball Position",465,51
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:15:18","Restart",466,52
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:15:31","POSSIBLE_TI",467,52
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:15:32","TI2",468,52
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:15:38","Restart",469,52
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:15:44","SAFE1",470,52
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:15:45","GK1",471,52
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:15:57","Restart",472,52
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:15:58","SAFE1",473,52
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:16:42","SAFE2",474,53
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:16:44","AT2",475,53
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:16:47","DANGER2",476,53
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:16:47","DAT2",477,53
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:16:59","SAFE1",478,53
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:17:05","AT1",479,53
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:17:06","DANGER1",480,53
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:17:06","DAT1",481,53
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:17:14","PCR1",482,54
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:17:16","CR1",483,54
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:17:20","Ball Position",484,54
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:17:52","Restart",485,54
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:18:25","PCR1",486,55
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:18:25","CR1",487,55
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:18:28","SHG1",488,55
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:18:29","Ball Position",489,55
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:18:43","Restart",490,55
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:18:54","SAFE1",491,55
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:19:07","POSSIBLE_TI",492,55
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:19:08","TI1",493,55
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:19:17","Restart",494,56
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:19:18","SAFE1",495,56
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:19:48","AT1",496,56
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:20:03","DANGER1",497,56
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:20:03","DAT1",498,56
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:20:22","SAFE2",499,57
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:20:30","AT2",500,57
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:20:33","DANGER2",501,57
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:20:33","DAT2",502,57
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:20:49","SAFE1",503,57
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:20:56","AT2",504,57
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:20:56","DANGER2",505,57
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:20:56","DAT2",506,57
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:21:04","SHB2",507,57
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:21:05","SAFE1",508,57
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:21:06","GK1",509,57
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:21:18","Restart",510,58
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:21:19","SAFE1",511,58
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:21:31","SAFE2",512,58
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:21:38","AT2",513,58
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:21:39","DANGER2",514,58
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:21:39","DAT2",515,58
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:21:44","SAFE1",516,58
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:22:01","AT1",517,58
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:22:03","DANGER1",518,58
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:22:03","DAT1",519,58
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:22:14","PCR1",520,59
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:22:15","CR1",521,59
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:22:16","Ball Position",522,59
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:22:36","Restart",523,59
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:22:55","PCR1",524,59
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:22:56","CR1",525,59
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:22:58","Ball Position",526,59
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:23:13","Restart",527,60
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:23:37","PCR1",528,60
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:23:38","CR1",529,60
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:23:39","Ball Position",530,60
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:23:55","Restart",531,60
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:24:03","SAFE2",532,60
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:24:04","GK2",533,60
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:24:23","SUB2",534,61
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:24:51","Restart",535,61
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:25:00","Player_DATA_CONFIRMED",536,61
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:25:03","AT1",537,61
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:25:07","POSSIBLE_TI",538,61
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:25:08","TI2",539,61
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:25:12","Restart",540,62
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:25:19","POSSIBLE_TI",541,62
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:25:19","TI2",542,62
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:25:24","Restart",543,62
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:25:28","SAFE1",544,62
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:25:29","POSSIBLE_TI",545,62
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:25:30","TI1",546,62
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:25:49","Restart",547,62
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:25:51","SAFE1",548,62
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:25:59","POSSIBLE_TI",549,62
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:26:13","TI2",550,63
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:26:14","Restart",551,63
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:26:21","AT2",552,63
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:26:21","DANGER2",553,63
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:26:21","DAT2",554,63
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:26:22","POSSIBLE_TI",555,63
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:26:23","TI2",556,63
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:26:42","Restart",557,63
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:26:53","SAFE1",558,63
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:27:01","AT1",559,63
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:27:02","DANGER1",560,63
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:27:02","DAT1",561,63
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:27:04","SAFE2",562,63
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:27:28","AT1",563,64
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:27:31","Possible Free Kick",564,64
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:27:34","SAFE1",566,64
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:27:34","F2",567,64
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:27:34","FK1",568,64
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:27:34","Ball Position",569,64
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:27:50","Restart",570,64
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:27:50","SAFE1",571,64
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:28:09","AT1",572,65
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:28:15","DANGER1",573,65
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:28:15","DAT1",574,65
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:28:26","PCR1",575,65
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:28:26","CR1",576,65
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:28:30","Ball Position",577,65
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:29:13","Restart",578,66
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:29:32","SAFE2",579,66
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:29:52","AT2",580,66
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:29:54","DANGER2",581,66
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:29:54","DAT2",582,66
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:30:03","SAFE1",583,66
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:30:04","GK1",584,66
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:30:15","Restart",585,67
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:30:16","SAFE1",586,67
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:30:34","AT2",587,67
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:30:39","SAFE1",588,67
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:31:06","AT1",589,67
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:31:13","DANGER1",590,68
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:31:13","DAT1",591,68
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:32:02","SAFE2",592,68
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:32:09","SAFE1",593,69
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:32:52","AT1",594,69
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:32:54","DANGER1",595,69
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:32:54","DAT1",596,69
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:32:59","SHB1",597,69
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:32:59","SAFE2",598,69
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:33:00","GK2",599,69
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:33:29","Restart",600,70
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:33:46","SAFE1",601,70
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:34:19","AT1",602,71
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:34:23","DANGER1",603,71
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:34:23","DAT1",604,71
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:34:37","POSSIBLE_TI",605,71
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:34:39","TI1",606,71
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:34:47","Restart",607,71
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:34:58","POSSIBLE_TI",608,71
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:34:59","TI2",609,71
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:35:17","SUB2",610,72
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:35:37","Restart",611,72
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:35:44","POSSIBLE_TI",612,72
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:35:44","TI2",613,72
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:35:45","SAFE2",614,72
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:35:49","Restart",615,72
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:35:51","Player_DATA_CONFIRMED",616,72
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:36:00","SAFE1",617,72
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:36:09","AT1",618,73
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:36:11","SAFE2",619,73
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:36:16","AT2",620,73
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:36:17","DANGER2",621,73
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:36:17","DAT2",622,73
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:36:24","SHG2",623,73
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:36:36","SAFE1",624,73
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:36:37","Possible Free Kick",625,73
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:36:39","F2",627,73
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:36:39","FK1",628,73
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:36:39","DANGER1",629,73
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:36:39","DFK1",630,73
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:36:39","Ball Position",631,73
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:36:49","Restart",632,73
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:36:53","SAFE2",633,73
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:36:54","GK2",634,73
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:37:24","Restart",635,74
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:37:34","Possible Free Kick",636,74
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:37:37","F1",638,74
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:37:37","FK2",639,74
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:37:37","DANGER2",640,74
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:37:37","DFK2",641,74
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:37:37","Ball Position",642,74
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:38:00","Restart",643,74
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:38:06","PCR2",644,74
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:38:07","CR2",645,74
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:38:08","Ball Position",646,74
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:38:48","Restart",647,75
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:39:00","SAFE1",648,75
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:39:00","GK1",649,75
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:39:10","Restart",650,76
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:39:10","SAFE1",651,76
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:40:18","AT1",652,77
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:40:19","DANGER1",653,77
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:40:19","DAT1",654,77
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:40:36","SAFE2",655,77
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:40:46","SAFE1",656,77
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:40:58","AT1",657,77
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:41:01","POSSIBLE_TI",658,77
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:41:03","TI2",659,77
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:41:26","Restart",660,78
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:41:26","POSSIBLE_TI",661,78
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:41:27","TI2",662,78
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:41:39","Restart",663,78
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:41:47","SAFE1",664,78
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:41:47","GK1",665,78
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:41:59","Restart",666,78
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:42:06","AT1",667,78
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:42:10","DANGER1",668,79
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:42:10","DAT1",669,79
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:42:18","GOAL1",670,79
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:42:35","Scorer",671,79
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:42:43","CONF_GOAL1",672,79
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:43:15","KO2",673,80
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:43:15","SAFE2",674,80
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:43:27","Possible Free Kick",675,80
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:43:27","Player_DATA_CONFIRMED",677,80
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:43:37","F1",678,80
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:43:37","FK2",679,80
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:43:37","DANGER2",680,80
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:43:37","DFK2",681,80
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:43:37","Ball Position",682,80
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:43:52","Assist",683,80
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:44:08","Restart",684,80
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:44:14","PCR2",685,81
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:44:18","CR2",686,81
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:44:20","SHG2",687,81
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:44:20","Ball Position",688,81
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:44:35","Restart",689,81
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:44:48","POSSIBLE_TI",690,81
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:44:48","TI2",691,81
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:45:00","Restart",692,81
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:45:09","SHG2",693,82
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:45:09","SAFE1",694,82
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:45:39","POSSIBLE_TI",695,82
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:45:45","TI1",696,82
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:46:14","Restart",697,83
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:46:17","Possible Free Kick",698,83
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:46:18","F2",700,83
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:46:18","FK1",701,83
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:46:18","Ball Position",702,83
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:46:22","POSSIBLE_CARDS",703,83
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:46:32","NO_Cards",704,83
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:46:57","Restart",705,83
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:47:07","AT1",706,83
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:47:08","DANGER1",707,83
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:47:08","DAT1",708,83
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:47:11","PPEN",709,84
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:47:11","PPEN1",710,84
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:47:15","No PEN",711,84
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:47:20","SAFE1",712,84
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:47:22","AT2",713,84
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:47:24","DANGER2",714,84
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:47:24","DAT2",715,84
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:47:26","Possible Free Kick",716,84
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:47:39","F1",718,84
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:47:39","FK2",719,84
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:47:39","DFK2",720,84
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:47:39","Ball Position",721,84
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:47:51","SUB1",722,84
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:48:41","Restart",723,85
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:48:45","SAFE1",724,85
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:48:46","GK1",725,85
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:48:51","Player_DATA_CONFIRMED",726,85
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:49:13","Restart",727,86
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:49:17","AT2",728,86
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:49:20","DANGER2",729,86
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:49:20","DAT2",730,86
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:49:31","SAFE1",731,86
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:49:33","AT1",732,86
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:49:34","DANGER1",733,86
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:49:34","DAT1",734,86
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:49:52","SAFE2",735,86
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:49:53","AT2",736,86
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:49:55","DANGER2",737,86
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:49:55","DAT2",738,86
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:49:58","SHG2",739,86
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:50:06","SHB2",740,86
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:50:08","SAFE1",741,86
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:50:36","SUB2",742,87
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:50:53","Referee Ball",743,87
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:50:54","Restart",744,87
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:50:56","SAFE1",745,87
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:51:06","Possible Free Kick",746,87
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:51:07","F2",748,87
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:51:07","FK1",749,87
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:51:07","Ball Position",750,87
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:51:22","SUB_UPDATE",751,88
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:51:22","Player_DATA_CONFIRMED",752,88
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:51:29","Restart",753,88
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:51:29","AT1",754,88
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:51:31","DANGER1",755,88
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:51:31","DAT1",756,88
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:51:47","SAFE2",757,88
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:51:47","AT2",758,88
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:51:48","DANGER2",759,88
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:51:48","DAT2",760,88
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:51:56","SHW2",761,88
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:52:01","Possible Free Kick",762,88
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:52:04","SAFE1",764,88
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:52:04","O2",765,88
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:52:04","FK1",766,88
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:52:04","Ball Position",767,88
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:52:29","SUB1",768,89
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:52:44","Restart",769,89
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:52:50","AT1",770,89
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:52:50","DANGER1",771,89
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:52:50","DAT1",772,89
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:52:51","Player_DATA_CONFIRMED",773,89
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:52:58","SAFE2",774,89
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:53:08","AT2",775,89
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:53:18","DANGER2",776,90
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:53:18","DAT2",777,90
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:53:41","SHG2",778,90
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:53:41","SAFE1",779,90
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:53:58","POSSIBLE_TI",780,90
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:53:58","TI2",781,90
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:54:12","Extra Time",782,91
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:54:32","Restart",783,91
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:54:33","SAFE2",784,91
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:54:38","AT2",785,91
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:54:38","DANGER2",786,91
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:54:38","DAT2",787,91
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:54:45","POSSIBLE_TI",788,91
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:54:46","TI2",789,91
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:55:02","Restart",790,91
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:55:28","PCR2",791,92
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:55:29","CR2",792,92
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:55:31","SHG2",793,92
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:55:32","Ball Position",794,92
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:55:47","Restart",795,92
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:55:52","SHG2",796,92
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:56:05","SAFE1",797,92
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:56:06","AT1",798,92
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:56:12","DANGER1",799,93
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:56:12","DAT1",800,93
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:56:16","SHB1",801,93
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:56:17","SAFE2",802,93
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:56:18","GK2",803,93
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:56:39","Restart",804,93
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:56:40","AT2",805,93
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:56:42","SAFE1",806,93
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:56:47","AT2",807,93
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:56:48","DANGER2",808,93
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:56:48","DAT2",809,93
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:56:57","SAFE1",810,93
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:57:03","AT1",811,93
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:57:04","DANGER1",812,93
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:57:04","DAT1",813,93
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:57:17","SAFE2",814,94
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:57:17","GK2",815,94
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:57:31","Restart",816,94
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:57:37","AT2",817,94
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:57:37","DANGER2",818,94
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:57:37","DAT2",819,94
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:57:48","SHG2",820,94
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:57:49","SAFE1",821,94
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:58:01","Injury Break",822,94
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:58:36","Restart",823,95
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:58:36","SAFE1",824,95
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:58:59","AT1",825,95
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:59:06","DANGER1",826,95
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:59:06","DAT1",827,95
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:59:36","Stop RT2",828,95
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 15:59:36","Stop Game",829,95
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 16:01:41","CONF_PERIOD_SCORE",830,95
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 16:06:21","CLS",831,95
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 16:06:23","CLS",832,103
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 16:06:32","PCR1",833,103
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 16:06:34","CR1",834,103
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 16:06:37","Ball Position",835,103
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 16:06:42","Stop RT2",836,103
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 16:06:42","Stop Game",837,103
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 16:06:45","CONF_PERIOD_SCORE",838,102
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 16:07:33","System Message",839,102
+1119591,"Fulham FC","Cardiff City FC","04/27/2019 16:27:21","System Message",840,102

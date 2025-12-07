@@ -1,0 +1,983 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 15:25:25","Lineup changed",0,0
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 15:26:11","Transmission Online",1,0
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 15:43:06","Scout in Stadion",2,0
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 15:49:58","GCC",3,0
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:01:30","Jersey Changed",4,0
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:01:31","Jersey Changed",5,0
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:26:41","Players are coming out",6,0
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:27:22","Players lined up",7,0
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:27:24","Shake hands",8,0
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:28:10","Flip coin",9,0
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:28:59","Minute of silent",10,0
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:29:50","Game about to start",11,0
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:30:50","Start RT1 Team 1",12,1
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:30:52","SAFE1",13,1
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:30:58","AT1",14,1
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:31:04","DANGER1",15,1
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:31:04","DAT1",16,1
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:31:15","SAFE2",17,1
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:31:19","AT2",18,1
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:31:25","POSSIBLE_TI",19,1
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:31:29","TI1",20,1
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:31:31","Restart",21,1
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:31:32","SAFE1",22,1
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:31:40","AT1",23,1
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:31:44","SAFE2",24,1
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:31:58","POSSIBLE_TI",25,2
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:32:05","TI2",26,2
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:32:09","Restart",27,2
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:32:13","SAFE1",28,2
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:32:24","AT1",29,2
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:32:29","DANGER1",30,2
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:32:29","DAT1",31,2
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:32:34","SAFE2",32,2
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:32:35","GK2",33,2
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:32:55","Restart",34,3
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:33:08","AT1",35,3
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:33:11","DANGER1",36,3
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:33:11","DAT1",37,3
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:33:45","SAFE1",38,3
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:33:53","AT1",39,4
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:33:58","DANGER1",40,4
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:33:58","DAT1",41,4
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:34:02","POSSIBLE_TI",42,4
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:34:13","TI2",43,4
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:34:24","Restart",44,4
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:34:26","SAFE2",45,4
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:34:27","AT2",46,4
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:34:33","SAFE2",47,4
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:34:43","AT2",48,4
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:34:46","SAFE2",49,4
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:35:00","AT2",50,5
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:35:05","POSSIBLE_TI",51,5
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:35:09","TI2",52,5
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:35:10","Restart",53,5
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:35:12","SAFE2",54,5
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:35:19","AT2",55,5
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:35:22","DANGER2",56,5
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:35:22","DAT2",57,5
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:35:29","Possible Free Kick",58,5
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:35:36","SAFE1",60,5
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:35:36","O2",61,5
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:35:36","FK1",62,5
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:35:36","Ball Position",63,5
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:35:49","Restart",64,5
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:36:11","POSSIBLE_TI",65,6
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:36:11","TI2",66,6
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:36:20","Restart",67,6
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:36:20","AT2",68,6
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:36:24","SAFE2",69,6
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:36:26","AT2",70,6
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:36:36","SAFE2",71,6
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:36:42","AT2",72,6
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:36:51","SAFE1",73,7
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:36:58","Possible Free Kick",74,7
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:37:03","F2",76,7
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:37:03","FK1",77,7
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:37:03","Ball Position",78,7
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:37:04","Restart",79,7
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:37:05","AT1",80,7
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:37:09","Possible Free Kick",81,7
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:37:19","F2",83,7
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:37:19","FK1",84,7
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:37:19","DANGER1",85,7
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:37:19","DFK1",86,7
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:37:19","Ball Position",87,7
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:37:21","Restart",88,7
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:37:26","SAFE2",89,7
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:37:52","AT2",90,8
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:38:00","SAFE1",91,8
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:38:07","AT2",92,8
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:38:09","SAFE2",93,8
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:38:20","Possible Free Kick",94,8
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:38:48","F1",96,8
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:38:48","FK2",97,8
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:38:48","DANGER2",98,8
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:38:48","DFK2",99,8
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:38:48","Ball Position",100,8
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:38:54","Restart",101,9
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:38:56","SAFE2",102,9
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:39:14","AT2",103,9
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:39:24","SAFE1",104,9
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:39:26","AT1",105,9
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:39:31","DANGER1",106,9
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:39:31","DAT1",107,9
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:39:33","Possible Free Kick",108,9
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:40:06","F2",110,10
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:40:06","FK1",111,10
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:40:06","DFK1",112,10
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:40:06","Ball Position",113,10
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:40:36","Restart",114,10
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:40:41","SAFE2",115,10
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:40:52","POSSIBLE_TI",116,11
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:40:54","TI2",117,11
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:41:11","Restart",118,11
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:41:12","AT2",119,11
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:41:17","AT1",120,11
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:41:17","DANGER1",121,11
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:41:17","DAT1",122,11
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:41:22","POSSIBLE_TI",123,11
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:41:27","TI1",124,11
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:41:28","Restart",125,11
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:41:31","SAFE1",126,11
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:41:41","AT2",127,11
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:41:45","SAFE1",128,11
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:41:48","AT1",129,11
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:41:52","DANGER1",130,12
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:41:52","DAT1",131,12
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:42:00","Possible Free Kick",132,12
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:42:13","SAFE2",134,12
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:42:13","F1",135,12
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:42:13","FK2",136,12
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:42:13","Ball Position",137,12
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:42:15","Restart",138,12
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:42:34","AT2",139,12
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:42:42","POSSIBLE_TI",140,12
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:42:43","TI2",141,12
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:42:53","Restart",142,13
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:42:54","SAFE2",143,13
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:43:08","AT2",144,13
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:43:08","DANGER2",145,13
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:43:08","DAT2",146,13
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:43:20","POSSIBLE_TI",147,13
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:43:21","TI2",148,13
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:43:23","Restart",149,13
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:43:28","PCR2",150,13
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:43:37","CR2",151,13
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:43:47","Ball Position",152,13
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:44:12","Restart",153,14
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:44:18","SAFE1",154,14
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:44:20","AT1",155,14
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:44:20","DANGER1",156,14
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:44:20","DAT1",157,14
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:44:29","SAFE2",158,14
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:44:42","AT2",159,14
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:44:44","SAFE2",160,14
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:44:51","AT2",161,15
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:45:05","Possible Free Kick",162,15
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:45:29","F1",164,15
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:45:29","FK2",165,15
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:45:29","DANGER2",166,15
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:45:29","DFK2",167,15
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:45:29","Ball Position",168,15
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:45:45","Restart",169,15
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:46:01","SAFE2",170,16
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:46:04","AT2",171,16
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:46:06","Possible Free Kick",172,16
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:46:18","F1",174,16
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:46:18","FK2",175,16
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:46:18","DANGER2",176,16
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:46:18","DFK2",177,16
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:46:18","Ball Position",178,16
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:46:19","Restart",179,16
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:46:20","SAFE2",180,16
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:46:25","AT2",181,16
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:46:33","DANGER2",182,16
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:46:33","DAT2",183,16
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:46:40","SAFE1",184,16
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:46:51","AT1",185,17
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:46:58","DANGER1",186,17
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:46:58","DAT1",187,17
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:47:31","PCR1",188,17
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:47:43","CR1",189,17
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:47:45","SHG1",190,17
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:47:47","Ball Position",191,17
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:48:01","Restart",192,18
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:48:12","Possible Free Kick",193,18
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:48:35","SAFE2",195,18
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:48:35","F1",196,18
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:48:35","FK2",197,18
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:48:35","Ball Position",198,18
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:48:55","Restart",199,19
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:48:59","AT2",200,19
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:49:07","AT1",201,19
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:49:07","DANGER1",202,19
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:49:07","DAT1",203,19
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:49:27","SAFE1",204,19
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:49:29","AT1",205,19
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:49:38","SAFE1",206,19
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:50:03","AT1",207,20
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:50:41","SAFE2",208,20
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:51:00","AT2",209,21
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:51:00","DANGER2",210,21
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:51:00","DAT2",211,21
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:51:14","SAFE1",212,21
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:51:18","AT1",213,21
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:51:23","DANGER1",214,21
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:51:23","DAT1",215,21
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:51:31","SHG1",216,21
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:51:32","SAFE2",217,21
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:52:03","Possible Free Kick",218,22
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:52:15","F1",220,22
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:52:15","FK2",221,22
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:52:15","Ball Position",222,22
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:52:16","Restart",223,22
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:52:21","AT2",224,22
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:52:24","DANGER2",225,22
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:52:24","DAT2",226,22
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:52:27","SAFE1",227,22
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:52:28","GK1",228,22
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:52:50","Restart",229,23
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:53:18","Possible Free Kick",230,23
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:53:45","F1",232,23
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:53:45","FK2",233,23
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:53:45","DANGER2",234,23
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:53:45","DFK2",235,23
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:53:45","Ball Position",236,23
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:54:10","Restart",237,24
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:54:25","SAFE1",238,24
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:54:34","AT1",239,24
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:54:43","SAFE1",240,24
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:54:49","Possible Free Kick",241,24
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:54:59","F2",243,25
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:54:59","FK1",244,25
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:54:59","Ball Position",245,25
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:55:03","Restart",246,25
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:55:20","AT1",247,25
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:55:27","DANGER1",248,25
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:55:27","DAT1",249,25
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:55:30","SAFE2",250,25
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:55:45","SAFE1",251,25
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:55:51","AT1",252,26
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:55:56","SAFE2",253,26
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:56:03","AT2",254,26
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:56:09","SAFE2",255,26
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:56:18","AT2",256,26
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:56:26","SAFE1",257,26
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:56:46","AT1",258,26
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:56:49","SAFE2",259,26
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:56:50","AT2",260,26
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:56:58","SAFE2",261,27
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:56:59","AT2",262,27
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:57:16","SAFE1",263,27
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:57:20","Possible Free Kick",264,27
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:57:25","SAFE2",266,27
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:57:25","O1",267,27
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:57:25","FK2",268,27
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:57:26","Ball Position",269,27
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:57:27","Restart",270,27
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:57:41","AT2",271,27
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:57:46","SAFE1",272,27
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:58:07","AT1",273,28
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:58:12","Possible Free Kick",274,28
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:58:30","SAFE2",276,28
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:58:30","F1",277,28
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:58:30","FK2",278,28
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:58:30","Ball Position",279,28
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:58:31","Restart",280,28
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:58:34","AT2",281,28
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:58:36","DANGER2",282,28
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:58:36","DAT2",283,28
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:58:44","PCR2",284,28
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:58:51","CR2",285,29
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:58:53","Ball Position",286,29
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:59:20","Restart",287,29
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:59:30","Possible Free Kick",288,29
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:59:49","SAFE1",290,29
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:59:49","F2",291,29
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:59:49","FK1",292,29
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 16:59:49","Ball Position",293,29
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:00:01","Restart",294,30
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:00:04","AT1",295,30
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:00:15","POSSIBLE_TI",296,30
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:00:17","TI2",297,30
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:00:27","Restart",298,30
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:00:27","SAFE2",299,30
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:00:30","POSSIBLE_TI",300,30
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:00:35","TI2",301,30
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:00:45","Restart",302,30
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:00:46","AT2",303,30
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:00:51","Possible Free Kick",304,31
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:00:59","SAFE1",306,31
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:00:59","F2",307,31
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:00:59","FK1",308,31
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:01:00","Ball Position",309,31
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:01:00","Restart",310,31
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:01:08","AT1",311,31
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:01:12","SAFE2",312,31
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:01:19","SAFE1",313,31
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:01:24","AT1",314,31
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:01:28","SAFE1",315,31
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:01:36","AT1",316,31
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:01:46","DANGER1",317,31
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:01:46","DAT1",318,31
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:02:02","SAFE1",319,32
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:02:06","AT1",320,32
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:02:15","DANGER1",321,32
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:02:15","DAT1",322,32
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:02:25","Possible Free Kick",323,32
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:03:00","SAFE2",325,33
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:03:00","F1",326,33
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:03:00","FK2",327,33
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:03:01","Ball Position",328,33
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:03:03","Restart",329,33
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:03:14","AT2",330,33
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:03:25","POSSIBLE_TI",331,33
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:03:27","TI1",332,33
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:03:43","Restart",333,33
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:03:43","SAFE1",334,33
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:03:45","AT1",335,33
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:03:49","SAFE2",336,33
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:03:58","AT2",337,34
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:04:04","SAFE1",338,34
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:04:07","POSSIBLE_TI",339,34
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:04:09","TI1",340,34
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:04:16","Restart",341,34
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:04:20","SAFE2",342,34
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:04:36","AT2",343,34
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:04:53","SAFE1",344,35
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:05:22","POSSIBLE_TI",345,35
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:05:28","TI1",346,35
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:05:34","Restart",347,35
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:05:35","AT1",348,35
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:05:38","POSSIBLE_TI",349,35
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:05:39","TI1",350,35
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:05:44","Restart",351,35
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:05:56","DANGER1",352,36
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:05:56","DAT1",353,36
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:06:04","SAFE2",354,36
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:06:12","SAFE1",355,36
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:06:19","AT1",356,36
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:06:22","DANGER1",357,36
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:06:22","DAT1",358,36
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:06:29","POSSIBLE_TI",359,36
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:06:43","TI2",360,36
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:06:47","Injury Break",361,36
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:07:45","Restart",362,37
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:07:49","SAFE1",363,37
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:08:04","AT1",364,38
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:08:04","DANGER1",365,38
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:08:04","DAT1",366,38
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:08:11","SAFE2",367,38
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:08:12","GK2",368,38
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:08:20","Restart",369,38
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:08:29","AT2",370,38
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:08:35","DANGER2",371,38
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:08:35","DAT2",372,38
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:08:48","Possible Free Kick",373,38
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:08:50","POSSIBLE_CARDS",375,38
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:09:00","YC2",376,39
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:09:02","CONF_YC2",377,39
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:09:06","Scorer",378,39
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:09:10","SAFE1",379,39
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:09:10","F2",380,39
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:09:10","FK1",381,39
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:09:10","Ball Position",382,39
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:09:25","Restart",383,39
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:09:31","AT1",384,39
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:09:37","SAFE2",385,39
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:09:42","AT2",386,39
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:09:44","Player_DATA_CONFIRMED",387,39
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:09:48","SAFE2",388,39
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:09:53","AT2",389,40
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:09:58","DANGER2",390,40
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:09:58","DAT2",391,40
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:10:03","SAFE1",392,40
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:10:05","AT1",393,40
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:10:10","POSSIBLE_TI",394,40
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:10:13","TI2",395,40
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:10:14","Restart",396,40
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:10:15","SAFE2",397,40
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:10:23","Possible Free Kick",398,40
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:10:28","F1",400,40
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:10:28","FK2",401,40
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:10:28","Ball Position",402,40
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:10:29","Restart",403,40
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:10:30","AT2",404,40
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:10:33","SAFE2",405,40
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:10:38","Possible Free Kick",406,40
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:10:39","F1",408,40
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:10:39","FK2",409,40
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:10:40","Ball Position",410,40
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:10:40","Restart",411,40
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:10:42","AT2",412,40
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:10:52","DANGER2",413,41
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:10:52","DAT2",414,41
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:11:06","GOAL2",415,41
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:12:43","Scorer",416,42
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:12:46","CONF_GOAL2",417,42
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:12:47","KO1",418,42
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:12:47","SAFE1",419,42
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:12:55","AT1",420,43
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:13:04","Possible Free Kick",421,43
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:13:09","F2",423,43
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:13:09","FK1",424,43
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:13:09","DANGER1",425,43
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:13:09","DFK1",426,43
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:13:09","Ball Position",427,43
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:13:10","Restart",428,43
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:13:12","AT2",429,43
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:13:12","DANGER2",430,43
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:13:12","DAT2",431,43
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:13:15","Player_DATA_CONFIRMED",432,43
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:13:15","Assist",433,43
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:13:19","SAFE1",434,43
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:13:27","AT1",435,43
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:13:33","DANGER1",436,43
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:13:33","DAT1",437,43
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:13:37","SAFE2",438,43
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:13:46","AT2",439,43
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:13:49","SAFE2",440,43
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:13:52","Possible Free Kick",441,44
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:14:08","F1",443,44
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:14:08","FK2",444,44
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:14:08","Ball Position",445,44
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:14:13","Restart",446,44
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:14:32","AT2",447,44
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:14:37","SAFE1",448,44
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:14:43","AT1",449,44
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:14:46","DANGER1",450,44
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:14:46","DAT1",451,44
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:15:06","SAFE2",452,45
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:15:09","SAFE1",453,45
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:15:11","AT1",454,45
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:15:16","DANGER1",455,45
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:15:16","DAT1",456,45
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:15:25","POSSIBLE_TI",457,45
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:15:27","TI1",458,45
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:15:29","Restart",459,45
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:15:40","POSSIBLE_TI",460,45
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:15:56","Extra Time",461,46
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:15:59","TI2",462,46
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:16:10","Restart",463,46
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:16:10","SAFE2",464,46
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:16:15","POSSIBLE_TI",465,46
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:16:15","TI2",466,46
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:16:29","Restart",467,46
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:16:29","SAFE2",468,46
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:16:31","AT2",469,46
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:16:35","DANGER2",470,46
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:16:35","DAT2",471,46
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:16:37","SAFE1",472,46
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:16:43","AT1",473,46
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:16:51","SAFE1",474,47
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:16:54","AT1",475,47
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:17:00","DANGER1",476,47
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:17:00","DAT1",477,47
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:17:04","SAFE2",478,47
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:17:29","AT2",479,47
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:17:29","DANGER2",480,47
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:17:29","DAT2",481,47
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:17:57","Stop RT1",482,47
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:18:08","CONF_PERIOD_SCORE",483,45
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:32:09","Players are coming out",484,45
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:32:58","SUB1",485,45
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:32:59","Game about to start",486,45
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:33:33","Start RT2 Team 2",487,46
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:33:42","SAFE2",488,46
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:33:48","AT2",489,46
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:33:55","SAFE1",490,46
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:34:08","AT1",491,46
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:34:27","SAFE1",492,46
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:34:39","AT2",493,47
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:34:43","SAFE1",494,47
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:34:52","Player_DATA_CONFIRMED",495,47
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:35:06","AT1",496,47
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:35:11","Possible Free Kick",497,47
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:35:22","F2",499,47
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:35:22","FK1",500,47
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:35:22","DANGER1",501,47
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:35:22","DFK1",502,47
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:35:22","Ball Position",503,47
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:35:22","Restart",504,47
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:35:23","SAFE1",505,47
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:35:30","AT1",506,47
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:35:38","POSSIBLE_TI",507,48
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:35:41","TI1",508,48
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:35:42","Restart",509,48
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:35:43","SAFE1",510,48
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:35:55","AT1",511,48
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:36:04","SAFE2",512,48
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:36:16","AT2",513,48
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:36:18","Possible Free Kick",514,48
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:36:26","SAFE1",516,48
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:36:26","O2",517,48
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:36:26","FK1",518,48
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:36:26","Ball Position",519,48
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:36:39","Restart",520,49
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:36:49","AT1",521,49
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:36:52","DANGER1",522,49
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:36:52","DAT1",523,49
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:36:59","SAFE2",524,49
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:36:59","GK2",525,49
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:37:29","Restart",526,49
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:37:34","AT2",527,50
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:37:37","SAFE1",528,50
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:37:40","AT1",529,50
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:37:49","DANGER1",530,50
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:37:49","DAT1",531,50
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:37:52","SAFE2",532,50
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:37:59","Possible Free Kick",533,50
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:38:06","F1",535,50
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:38:06","FK2",536,50
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:38:07","DANGER2",537,50
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:38:07","DFK2",538,50
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:38:07","Ball Position",539,50
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:38:10","Restart",540,50
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:38:11","GOAL2",541,50
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:39:33","System Message",542,51
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:40:20","CGOAL2",543,52
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:40:21","SAFE1",544,52
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:40:25","Possible Free Kick",545,52
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:40:27","O2",547,52
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:40:27","FK1",548,52
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:40:27","Ball Position",549,52
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:40:29","Restart",550,52
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:40:37","AT1",551,53
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:40:42","DANGER1",552,53
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:40:42","DAT1",553,53
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:40:48","PCR1",554,53
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:40:55","System Message",555,53
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:41:10","CR1",556,53
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:41:11","Ball Position",557,53
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:41:16","Restart",558,53
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:41:29","POSSIBLE_TI",559,53
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:41:39","TI2",560,54
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:41:40","Restart",561,54
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:41:41","SAFE2",562,54
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:41:44","POSSIBLE_TI",563,54
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:41:48","TI1",564,54
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:41:56","Restart",565,54
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:41:58","AT1",566,54
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:42:03","Possible Free Kick",567,54
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:42:10","SAFE2",569,54
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:42:10","F1",570,54
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:42:10","FK2",571,54
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:42:10","Ball Position",572,54
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:42:16","Restart",573,54
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:42:22","AT2",574,54
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:42:25","DANGER2",575,54
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:42:25","DAT2",576,54
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:42:28","SAFE1",577,54
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:42:29","GK1",578,54
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:42:38","Restart",579,55
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:42:47","AT1",580,55
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:42:49","POSSIBLE_TI",581,55
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:42:51","TI1",582,55
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:42:53","Restart",583,55
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:42:59","DANGER1",584,55
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:42:59","DAT1",585,55
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:43:12","SAFE2",586,55
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:43:12","GK2",587,55
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:43:33","Restart",588,55
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:43:48","AT2",589,56
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:44:09","SAFE1",590,56
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:44:17","AT1",591,56
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:44:21","SAFE2",592,56
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:44:23","AT2",593,56
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:44:25","DANGER2",594,56
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:44:25","DAT2",595,56
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:44:27","SAFE1",596,56
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:44:45","AT1",597,57
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:44:52","SAFE2",598,57
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:44:53","GK2",599,57
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:45:17","SUB1",600,57
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:45:31","Restart",601,57
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:45:36","Possible Free Kick",602,58
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:45:37","POSSIBLE_CARDS",604,58
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:45:47","Player_DATA_CONFIRMED",605,58
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:45:47","YC1",606,58
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:45:49","CONF_YC1",607,58
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:46:01","Scorer",608,58
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:46:05","Injury Break",609,58
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:46:11","Player_DATA_CONFIRMED",610,58
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:46:53","Restart",611,59
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:46:53","F1",612,59
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:46:53","FK2",613,59
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:46:53","Ball Position",614,59
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:46:58","Restart",615,59
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:47:00","AT2",616,59
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:47:06","POSSIBLE_TI",617,59
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:47:07","TI1",618,59
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:47:23","Restart",619,59
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:47:25","AT1",620,59
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:47:25","DANGER1",621,59
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:47:25","DAT1",622,59
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:47:28","POSSIBLE_TI",623,59
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:47:29","TI1",624,59
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:47:39","Restart",625,60
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:47:51","POSSIBLE_TI",626,60
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:47:55","TI2",627,60
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:48:11","Restart",628,60
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:48:22","POSSIBLE_TI",629,60
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:48:24","TI1",630,60
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:48:30","Restart",631,60
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:48:36","SAFE1",632,61
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:48:53","AT1",633,61
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:49:00","DANGER1",634,61
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:49:00","DAT1",635,61
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:49:09","SAFE2",636,61
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:49:18","AT1",637,61
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:49:23","POSSIBLE_TI",638,61
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:49:24","TI1",639,61
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:49:26","Restart",640,61
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:49:29","DANGER1",641,61
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:49:29","DAT1",642,61
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:49:49","POSSIBLE_TI",643,62
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:49:50","TI1",644,62
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:49:52","Restart",645,62
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:49:55","SAFE2",646,62
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:49:58","AT2",647,62
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:50:00","SAFE2",648,62
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:50:02","AT2",649,62
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:50:08","SAFE1",650,62
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:50:12","AT1",651,62
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:50:18","POSSIBLE_TI",652,62
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:50:19","TI1",653,62
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:50:35","Restart",654,63
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:50:36","DANGER1",655,63
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:50:36","DAT1",656,63
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:50:41","SHB1",657,63
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:50:42","SAFE2",658,63
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:50:43","GK2",659,63
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:51:00","Restart",660,63
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:51:05","AT1",661,63
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:51:05","DANGER1",662,63
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:51:05","DAT1",663,63
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:51:12","BLOCKED1",664,63
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:51:18","POSSIBLE_TI",665,63
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:51:19","TI1",666,63
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:51:27","Restart",667,63
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:51:34","AT2",668,64
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:51:34","DANGER2",669,64
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:51:34","DAT2",670,64
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:51:41","SAFE1",671,64
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:51:48","AT1",672,64
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:51:52","POSSIBLE_TI",673,64
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:51:53","TI1",674,64
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:51:55","Restart",675,64
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:51:59","DANGER1",676,64
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:51:59","DAT1",677,64
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:52:08","SAFE2",678,64
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:52:10","AT2",679,64
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:52:10","DANGER2",680,64
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:52:10","DAT2",681,64
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:52:13","BREAKAWAY2",682,64
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:52:17","GOAL2",683,64
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:52:29","Scorer",684,64
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:53:07","SUB2",685,65
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:53:46","CONF_GOAL2",686,66
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:53:46","KO1",687,66
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:53:46","SAFE1",688,66
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:54:04","AT1",689,66
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:54:13","DANGER1",690,66
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:54:13","DAT1",691,66
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:54:15","Player_DATA_CONFIRMED",692,66
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:54:15","Player_DATA_CONFIRMED",693,66
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:54:16","Assist",694,66
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:54:32","Possible Free Kick",695,66
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:54:42","SAFE2",697,67
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:54:42","F1",698,67
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:54:42","FK2",699,67
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:54:42","Ball Position",700,67
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:54:59","Restart",701,67
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:55:00","AT2",702,67
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:55:09","Possible Free Kick",703,67
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:55:14","POSSIBLE_CARDS",705,67
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:55:50","YC1",706,68
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:55:53","CONF_YC1",707,68
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:56:04","Scorer",708,68
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:56:05","YC2",709,68
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:56:06","CONF_YC2",710,68
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:56:11","Scorer",711,68
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:56:14","Player_DATA_CONFIRMED",712,68
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:56:23","F1",713,68
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:56:23","FK2",714,68
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:56:23","DANGER2",715,68
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:56:23","DFK2",716,68
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:56:23","Ball Position",717,68
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:57:14","Player_DATA_CONFIRMED",718,69
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:57:39","Restart",719,70
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:57:42","PCR2",720,70
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:58:33","CR2",721,70
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 17:58:34","Ball Position",722,71
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:00:43","POSSIBLE_CARDS",723,73
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:00:50","YC2",724,73
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:00:54","CONF_YC2",725,73
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:00:59","Scorer",726,73
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:01:11","Possible Free Kick",727,73
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:01:24","SUB2",729,73
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:01:38","System Message",730,74
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:01:44","SUB1",731,74
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:01:46","Player_DATA_CONFIRMED",732,74
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:01:50","SAFE1",733,74
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:01:50","Restart",734,74
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:01:50","F2",735,74
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:01:50","FK1",736,74
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:01:50","Ball Position",737,74
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:02:03","Restart",738,74
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:02:19","CCR2",739,74
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:02:27","System Message",740,74
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:02:39","Possible Free Kick",741,75
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:02:47","F1",743,75
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:02:47","FK2",744,75
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:02:48","DANGER2",745,75
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:02:48","DFK2",746,75
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:02:48","Ball Position",747,75
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:02:52","Restart",748,75
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:02:54","SAFE2",749,75
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:03:04","POSSIBLE_TI",750,75
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:03:08","TI2",751,75
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:03:12","Restart",752,75
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:03:19","SAFE1",753,75
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:03:21","AT1",754,75
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:03:27","SAFE1",755,75
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:03:45","Player_DATA_CONFIRMED",756,76
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:03:45","Player_DATA_CONFIRMED",757,76
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:03:45","AT1",758,76
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:03:49","POSSIBLE_TI",759,76
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:03:52","TI1",760,76
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:03:57","Restart",761,76
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:04:03","SAFE1",762,76
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:04:06","Possible Free Kick",763,76
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:04:11","F2",765,76
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:04:11","FK1",766,76
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:04:11","Ball Position",767,76
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:04:12","Restart",768,76
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:04:16","AT1",769,76
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:04:23","DANGER1",770,76
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:04:23","DAT1",771,76
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:04:38","SAFE1",772,77
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:04:55","AT1",773,77
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:05:00","SAFE2",774,77
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:05:11","AT2",775,77
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:05:28","POSSIBLE_TI",776,77
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:05:29","TI2",777,77
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:05:30","Restart",778,77
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:05:31","DANGER2",779,77
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:05:31","DAT2",780,77
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:05:40","Possible Free Kick",781,78
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:05:52","SAFE1",783,78
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:05:52","O2",784,78
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:05:52","FK1",785,78
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:05:52","Ball Position",786,78
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:06:04","Restart",787,78
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:06:05","AT1",788,78
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:06:16","Possible Free Kick",789,78
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:06:41","F2",791,79
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:06:41","FK1",792,79
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:06:42","DANGER1",793,79
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:06:42","DFK1",794,79
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:06:42","Ball Position",795,79
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:06:47","Restart",796,79
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:06:53","POSSIBLE_TI",797,79
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:06:56","TI1",798,79
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:06:57","Restart",799,79
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:07:08","SAFE2",800,79
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:07:11","AT2",801,79
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:07:11","DANGER2",802,79
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:07:11","DAT2",803,79
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:07:30","PCR2",804,79
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:07:56","CR2",805,80
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:07:57","Ball Position",806,80
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:08:15","Restart",807,80
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:08:28","SAFE2",808,80
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:08:30","AT2",809,80
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:08:32","DANGER2",810,80
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:08:32","DAT2",811,80
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:08:43","POSSIBLE_TI",812,81
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:08:45","TI2",813,81
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:09:11","Restart",814,81
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:09:16","AT1",815,81
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:09:16","DANGER1",816,81
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:09:16","DAT1",817,81
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:09:29","SAFE2",818,81
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:09:32","AT2",819,81
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:09:38","DANGER2",820,82
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:09:38","DAT2",821,82
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:09:56","SAFE2",822,82
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:10:08","AT2",823,82
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:10:08","DANGER2",824,82
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:10:08","DAT2",825,82
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:10:15","PCR2",826,82
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:10:26","CR2",827,82
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:10:29","Ball Position",828,82
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:11:17","Restart",829,83
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:11:24","SHB2",830,83
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:11:25","SAFE1",831,83
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:11:26","GK1",832,83
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:11:37","Restart",833,84
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:11:49","AT2",834,84
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:11:53","SAFE2",835,84
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:11:56","AT2",836,84
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:11:59","DANGER2",837,84
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:11:59","DAT2",838,84
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:12:10","POSSIBLE_TI",839,84
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:12:12","TI1",840,84
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:12:27","Restart",841,84
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:12:28","SAFE1",842,84
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:12:30","AT1",843,84
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:12:31","Possible Free Kick",844,84
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:12:44","F2",846,85
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:12:44","FK1",847,85
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:12:44","DANGER1",848,85
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:12:44","DFK1",849,85
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:12:44","Ball Position",850,85
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:12:48","Restart",851,85
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:12:56","PCR1",852,85
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:13:00","CR1",853,85
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:13:01","Ball Position",854,85
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:13:12","Restart",855,85
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:13:19","POSSIBLE_TI",856,85
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:13:21","TI2",857,85
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:13:37","Restart",858,86
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:13:42","POSSIBLE_TI",859,86
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:13:43","TI1",860,86
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:13:44","Restart",861,86
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:13:49","SAFE1",862,86
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:13:51","AT1",863,86
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:13:54","DANGER1",864,86
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:13:54","DAT1",865,86
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:14:03","SAFE2",866,86
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:14:12","AT1",867,86
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:14:12","DANGER1",868,86
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:14:12","DAT1",869,86
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:14:40","SHB1",870,87
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:14:41","SAFE2",871,87
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:14:41","GK2",872,87
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:15:29","SUB2",873,87
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:15:58","Restart",874,88
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:16:02","AT2",875,88
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:16:11","DANGER2",876,88
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:16:11","DAT2",877,88
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:16:20","SHB2",878,88
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:16:21","SAFE1",879,88
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:16:22","GK1",880,88
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:16:30","Restart",881,88
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:16:36","Possible Free Kick",882,89
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:16:44","Player_DATA_CONFIRMED",884,89
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:16:45","F2",885,89
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:16:45","FK1",886,89
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:16:45","DANGER1",887,89
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:16:45","DFK1",888,89
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:16:45","Ball Position",889,89
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:16:59","Restart",890,89
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:17:04","SAFE2",891,89
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:17:05","GK2",892,89
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:17:31","Restart",893,89
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:17:37","AT1",894,90
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:17:41","DANGER1",895,90
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:17:41","DAT1",896,90
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:18:04","SHG1",897,90
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:18:04","SAFE2",898,90
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:18:15","AT2",899,90
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:18:24","POSSIBLE_TI",900,90
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:18:25","TI1",901,90
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:18:40","Extra Time",902,91
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:18:42","Restart",903,91
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:18:49","AT1",904,91
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:18:49","DANGER1",905,91
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:18:49","DAT1",906,91
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:18:54","AT2",907,91
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:18:54","DANGER2",908,91
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:18:54","DAT2",909,91
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:18:57","SAFE1",910,91
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:19:05","AT1",911,91
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:19:13","POSSIBLE_TI",912,91
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:19:16","TI2",913,91
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:19:26","Restart",914,91
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:19:28","SAFE2",915,91
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:19:30","AT1",916,91
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:19:33","DANGER1",917,91
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:19:33","DAT1",918,91
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:19:39","POSSIBLE_TI",919,92
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:19:44","TI2",920,92
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:19:59","Restart",921,92
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:20:01","POSSIBLE_TI",922,92
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:20:02","TI1",923,92
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:20:03","Restart",924,92
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:20:04","SAFE2",925,92
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:20:06","AT1",926,92
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:20:06","DANGER1",927,92
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:20:06","DAT1",928,92
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:20:40","POSSIBLE_TI",929,93
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:20:43","TI2",930,93
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:20:59","Restart",931,93
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:21:03","SAFE2",932,93
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:21:07","AT2",933,93
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:21:11","SAFE2",934,93
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:21:24","AT2",935,93
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:21:28","DANGER2",936,93
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:21:28","DAT2",937,93
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:21:32","SAFE1",938,93
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:21:33","GK1",939,93
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:21:46","Restart",940,94
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:21:51","AT1",941,94
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:21:55","DANGER1",942,94
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:21:55","DAT1",943,94
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:22:04","PCR1",944,94
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:22:07","CR1",945,94
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:22:08","SHG1",946,94
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:22:10","Ball Position",947,94
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:22:24","Restart",948,94
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:22:28","SAFE2",949,94
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:22:33","SAFE1",950,94
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:22:40","AT1",951,95
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:22:45","SAFE2",952,95
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:22:50","AT1",953,95
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:23:03","DANGER1",954,95
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:23:03","DAT1",955,95
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:23:19","PCR1",956,95
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:23:22","CR1",957,95
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:23:24","SHG1",958,95
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:23:26","Ball Position",959,95
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:23:34","Restart",960,96
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:23:57","SAFE2",961,96
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:23:58","GK2",962,96
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:24:32","Restart",963,96
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:24:34","AT2",964,97
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:24:37","AT1",965,97
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:24:37","DANGER1",966,97
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:24:37","DAT1",967,97
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:24:49","POSSIBLE_TI",968,97
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:24:51","TI1",969,97
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:24:55","Restart",970,97
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:24:56","SAFE1",971,97
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:25:04","AT1",972,97
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:25:09","SAFE1",973,97
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:25:12","SAFE2",974,97
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:25:15","SAFE1",975,97
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:25:19","AT1",976,97
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:25:24","SAFE2",977,97
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:25:27","Possible Free Kick",978,97
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:25:45","F1",980,98
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:25:45","FK2",981,98
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:25:45","Ball Position",982,98
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:25:52","Restart",983,98
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:25:54","AT2",984,98
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:25:55","SAFE2",985,98
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:26:00","AT1",986,98
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:26:00","DANGER1",987,98
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:26:00","DAT1",988,98
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:26:06","PCR1",989,98
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:26:10","CR1",990,98
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:26:12","SHG1",991,98
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:26:13","Ball Position",992,98
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:26:22","Restart",993,98
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:26:33","Possible Free Kick",994,98
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:27:01","SAFE2",996,99
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:27:01","F1",997,99
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:27:01","FK2",998,99
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:27:01","Ball Position",999,99
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:27:10","Restart",1000,99
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:27:11","AT2",1001,99
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:27:16","DANGER2",1002,99
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:27:16","DAT2",1003,99
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:27:21","Possible Free Kick",1004,99
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:27:23","POSSIBLE_CARDS",1006,99
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:27:42","YC1",1007,100
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:27:43","CONF_YC1",1008,100
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:27:46","Scorer",1009,100
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:27:50","F1",1010,100
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:27:50","FK2",1011,100
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:27:50","DFK2",1012,100
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:27:50","Ball Position",1013,100
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:28:31","Restart",1014,100
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:28:32","Player_DATA_CONFIRMED",1015,100
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:28:38","SHW2",1016,101
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:28:40","Stop RT2",1017,101
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:28:40","Stop Game",1018,101
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:28:51","System Message",1019,100
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:29:58","CONF_PERIOD_SCORE",1020,100
+1033872,"SD Huesca","RCD Espanyol Barcelona","10/21/2018 18:30:17","System Message",1021,100

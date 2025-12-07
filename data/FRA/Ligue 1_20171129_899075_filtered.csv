@@ -1,0 +1,984 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 19:05:57","Transmission Online",0,0
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 19:05:57","Scout in Stadion",1,0
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 19:10:43","Lineup changed",2,0
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 19:54:14","GCC",3,0
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 19:57:03","Players are coming out",4,0
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 19:57:30","Jersey Changed",5,0
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 19:57:32","Jersey Changed",6,0
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 19:57:32","Players lined up",7,0
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 19:57:57","Shake hands",8,0
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 19:58:29","Flip coin",9,0
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 19:59:37","Game about to start",10,0
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:00:21","Start RT1 Team 2",11,1
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:00:33","POSSIBLE_TI",12,1
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:00:33","TI1",13,1
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:00:36","Restart",14,1
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:00:45","AT1",15,1
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:00:46","DANGER1",16,1
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:00:46","DAT1",17,1
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:01:01","SAFE2",18,1
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:01:24","SAFE1",19,2
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:01:25","AT1",20,2
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:01:38","DANGER1",21,2
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:01:38","DAT1",22,2
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:01:52","Possible Free Kick",23,2
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:01:53","F2",25,2
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:01:53","FK1",26,2
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:01:53","DFK1",27,2
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:01:53","Ball Position",28,2
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:02:41","Restart",29,3
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:02:51","SAFE1",30,3
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:03:04","SAFE1",31,3
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:03:15","AT1",32,3
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:03:16","DANGER1",33,3
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:03:16","DAT1",34,3
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:03:56","PCR1",35,4
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:03:59","CR1",36,4
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:04:01","Ball Position",37,4
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:04:13","Restart",38,4
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:04:25","SHG1",39,5
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:04:26","SAFE2",40,5
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:04:42","SAFE1",41,5
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:04:53","AT1",42,5
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:04:54","DANGER1",43,5
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:04:54","DAT1",44,5
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:05:07","SAFE1",45,5
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:05:09","AT1",46,5
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:05:10","DANGER1",47,5
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:05:10","DAT1",48,5
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:05:26","POSSIBLE_TI",49,6
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:05:31","TI2",50,6
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:05:34","Restart",51,6
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:05:48","SAFE2",52,6
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:06:07","AT2",53,6
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:06:08","DANGER2",54,6
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:06:08","DAT2",55,6
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:06:12","SAFE1",56,6
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:06:14","POSSIBLE_TI",57,6
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:06:16","TI2",58,6
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:06:18","Restart",59,6
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:06:23","AT2",60,7
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:06:24","DANGER2",61,7
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:06:24","DAT2",62,7
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:06:31","SAFE2",63,7
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:06:49","AT2",64,7
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:06:50","DANGER2",65,7
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:06:50","DAT2",66,7
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:06:51","PCR2",67,7
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:06:56","CR2",68,7
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:06:58","Ball Position",69,7
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:07:13","Restart",70,7
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:07:20","SAFE1",71,7
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:07:21","AT1",72,8
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:07:44","DANGER1",73,8
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:07:44","DAT1",74,8
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:07:53","PCR1",75,8
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:08:02","CR1",76,8
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:08:03","Ball Position",77,8
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:08:09","Restart",78,8
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:08:14","PCR1",79,8
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:08:17","CR1",80,8
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:08:18","Ball Position",81,8
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:08:27","Restart",82,9
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:08:49","Possible Free Kick",83,9
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:08:52","SAFE2",85,9
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:08:52","O1",86,9
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:08:52","FK2",87,9
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:08:52","Ball Position",88,9
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:09:15","Restart",89,9
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:09:18","SAFE1",90,9
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:09:25","AT1",91,10
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:09:26","DANGER1",92,10
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:09:26","DAT1",93,10
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:10:01","POSSIBLE_TI",94,10
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:10:02","TI2",95,10
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:10:03","Restart",96,10
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:10:17","POSSIBLE_TI",97,10
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:10:18","TI1",98,10
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:10:20","Restart",99,10
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:10:21","SAFE1",100,10
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:10:24","AT1",101,11
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:10:25","DANGER1",102,11
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:10:25","DAT1",103,11
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:10:55","Possible Free Kick",104,11
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:10:56","F2",106,11
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:10:56","FK1",107,11
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:10:56","DFK1",108,11
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:10:56","Ball Position",109,11
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:11:07","Restart",110,11
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:11:07","SHB1",111,11
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:11:09","SAFE2",112,11
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:11:10","GK2",113,11
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:11:25","Restart",114,12
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:11:34","POSSIBLE_TI",115,12
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:11:35","TI2",116,12
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:11:44","Restart",117,12
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:11:45","POSSIBLE_TI",118,12
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:11:46","TI2",119,12
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:11:49","Restart",120,12
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:11:59","POSSIBLE_TI",121,12
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:12:08","TI1",122,12
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:12:09","Restart",123,12
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:12:11","AT1",124,12
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:12:12","DANGER1",125,12
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:12:12","DAT1",126,12
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:12:42","Possible Free Kick",127,13
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:12:43","F1",129,13
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:12:43","FK2",130,13
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:12:43","DFK2",131,13
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:12:43","Ball Position",132,13
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:13:03","Restart",133,13
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:13:07","POSSIBLE_TI",134,13
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:13:08","TI1",135,13
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:13:08","Restart",136,13
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:13:13","SAFE1",137,13
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:13:14","AT1",138,13
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:13:20","DANGER1",139,13
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:13:20","DAT1",140,13
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:13:30","SAFE2",141,14
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:13:49","SAFE1",142,14
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:13:55","SAFE2",143,14
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:14:03","POSSIBLE_TI",144,14
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:14:04","TI1",145,14
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:14:06","Restart",146,14
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:14:14","AT1",147,14
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:14:15","DANGER1",148,14
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:14:15","DAT1",149,14
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:14:23","SAFE2",150,15
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:14:26","AT2",151,15
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:14:26","DANGER2",152,15
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:14:26","DAT2",153,15
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:14:43","PCR2",154,15
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:14:48","SHB2",155,15
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:14:49","NCR2",156,15
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:14:49","SAFE1",157,15
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:14:50","GK1",158,15
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:14:51","Restart",159,15
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:14:57","SAFE1",160,15
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:15:02","AT1",161,15
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:15:09","DANGER1",162,15
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:15:09","DAT1",163,15
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:16:05","SAFE2",164,16
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:16:10","AT2",165,16
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:16:14","POSSIBLE_TI",166,16
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:16:16","TI2",167,16
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:16:22","Restart",168,17
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:16:31","POSSIBLE_TI",169,17
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:16:32","TI1",170,17
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:16:34","Restart",171,17
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:16:42","SAFE1",172,17
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:16:43","AT1",173,17
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:16:53","DANGER1",174,17
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:16:53","DAT1",175,17
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:17:28","POSSIBLE_TI",176,18
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:17:29","TI1",177,18
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:17:30","Restart",178,18
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:18:10","SAFE1",179,18
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:18:21","AT1",180,18
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:18:23","DANGER1",181,19
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:18:23","DAT1",182,19
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:18:29","SAFE2",183,19
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:18:41","AT2",184,19
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:18:43","DANGER2",185,19
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:18:43","DAT2",186,19
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:18:49","SAFE1",187,19
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:18:51","GK1",188,19
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:18:57","Restart",189,19
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:19:04","AT1",190,19
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:19:09","DANGER1",191,19
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:19:09","DAT1",192,19
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:19:29","PCR1",193,20
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:19:31","SHB1",194,20
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:19:32","NCR1",195,20
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:19:34","SAFE2",196,20
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:19:35","GK2",197,20
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:19:49","Restart",198,20
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:20:00","SAFE1",199,20
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:20:11","AT1",200,20
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:20:20","DANGER1",201,20
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:20:20","DAT1",202,20
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:20:40","POSSIBLE_TI",203,21
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:20:41","TI2",204,21
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:20:52","Restart",205,21
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:21:06","SAFE1",206,21
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:21:08","AT1",207,21
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:21:09","DANGER1",208,21
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:21:09","DAT1",209,21
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:21:20","SHG1",210,21
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:21:20","SAFE2",211,21
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:21:46","AT1",212,22
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:21:47","DANGER1",213,22
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:21:47","DAT1",214,22
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:22:12","SAFE2",215,22
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:22:14","AT1",216,22
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:22:15","DANGER1",217,22
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:22:15","DAT1",218,22
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:22:18","BLOCKED1",219,22
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:22:26","Possible Free Kick",220,23
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:22:28","SAFE2",222,23
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:22:28","FK2",223,23
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:22:28","Ball Position",224,23
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:22:45","Restart",225,23
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:22:57","AT1",226,23
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:23:03","Possible Free Kick",227,23
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:23:04","SAFE1",229,23
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:23:04","F2",230,23
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:23:04","FK1",231,23
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:23:04","Ball Position",232,23
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:23:06","Restart",233,23
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:23:07","AT1",234,23
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:23:09","DANGER1",235,23
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:23:09","DAT1",236,23
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:23:59","SAFE1",237,24
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:24:06","AT1",238,24
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:24:08","DANGER1",239,24
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:24:08","DAT1",240,24
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:24:19","SAFE1",241,24
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:24:25","AT1",242,25
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:24:28","DANGER1",243,25
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:24:28","DAT1",244,25
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:24:30","SAFE2",245,25
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:24:48","SAFE2",246,25
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:24:49","AT2",247,25
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:24:50","DANGER2",248,25
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:24:50","DAT2",249,25
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:24:56","SAFE1",250,25
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:24:59","SAFE2",251,25
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:25:02","AT2",252,25
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:25:03","DANGER2",253,25
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:25:03","DAT2",254,25
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:25:08","SAFE1",255,25
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:25:09","AT1",256,25
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:25:15","SAFE2",257,25
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:25:24","SAFE1",258,26
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:25:33","POSSIBLE_TI",259,26
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:25:34","TI2",260,26
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:25:36","Restart",261,26
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:25:48","AT2",262,26
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:25:48","DANGER2",263,26
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:25:48","DAT2",264,26
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:25:55","SAFE1",265,26
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:26:02","AT1",266,26
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:26:03","DANGER1",267,26
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:26:03","DAT1",268,26
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:26:29","POSSIBLE_TI",269,27
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:26:30","TI1",270,27
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:26:30","Restart",271,27
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:26:36","Possible Free Kick",272,27
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:26:38","SAFE2",274,27
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:26:38","O1",275,27
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:26:38","FK2",276,27
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:26:38","Ball Position",277,27
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:26:57","Restart",278,27
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:26:59","SAFE2",279,27
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:27:07","AT1",280,27
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:27:07","DANGER1",281,27
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:27:07","DAT1",282,27
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:27:15","PCR1",283,27
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:27:16","SHB1",284,27
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:27:18","NCR1",285,27
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:27:19","SAFE2",286,27
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:27:20","GK2",287,27
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:27:42","Restart",288,28
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:27:50","SAFE1",289,28
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:27:57","AT1",290,28
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:28:02","DANGER1",291,28
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:28:02","DAT1",292,28
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:28:12","SAFE2",293,28
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:28:18","SAFE1",294,28
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:28:25","AT1",295,29
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:28:26","DANGER1",296,29
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:28:26","DAT1",297,29
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:28:53","SAFE2",298,29
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:28:56","AT2",299,29
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:29:03","SAFE1",300,29
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:29:14","SAFE2",301,29
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:29:25","AT2",302,30
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:29:27","DANGER2",303,30
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:29:27","DAT2",304,30
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:29:34","SHG2",305,30
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:29:37","SAFE1",306,30
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:29:42","AT1",307,30
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:29:42","DANGER1",308,30
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:29:42","DAT1",309,30
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:29:55","SAFE2",310,30
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:30:06","AT2",311,30
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:30:06","DANGER2",312,30
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:30:06","DAT2",313,30
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:30:25","SAFE2",314,31
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:30:46","AT2",315,31
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:30:46","DANGER2",316,31
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:30:46","DAT2",317,31
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:30:58","SAFE1",318,31
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:31:00","Possible Free Kick",319,31
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:31:00","F2",321,31
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:31:00","FK1",322,31
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:31:00","Ball Position",323,31
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:31:01","Restart",324,31
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:31:14","AT1",325,31
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:31:16","DANGER1",326,31
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:31:16","DAT1",327,31
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:31:23","POSSIBLE_TI",328,32
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:31:24","TI1",329,32
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:31:25","Restart",330,32
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:31:28","SAFE1",331,32
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:31:34","AT1",332,32
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:31:35","DANGER1",333,32
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:31:35","DAT1",334,32
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:31:40","SAFE2",335,32
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:31:51","AT2",336,32
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:31:52","DANGER2",337,32
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:31:52","DAT2",338,32
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:32:03","Possible Free Kick",339,32
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:32:05","SAFE1",341,32
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:32:05","F2",342,32
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:32:05","FK1",343,32
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:32:05","Ball Position",344,32
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:32:06","Restart",345,32
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:32:07","AT1",346,32
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:32:14","DANGER1",347,32
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:32:14","DAT1",348,32
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:32:29","Possible Free Kick",349,33
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:32:30","POSSIBLE_CARDS",351,33
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:32:31","PRC",352,33
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:33:11","No RC",353,33
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:33:14","NO_Cards",354,33
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:33:16","F2",355,33
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:33:16","FK1",356,33
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:33:16","DFK1",357,33
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:33:16","Ball Position",358,33
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:33:16","Restart",359,33
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:33:18","SAFE2",360,33
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:33:28","POSSIBLE_TI",361,34
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:33:29","TI1",362,34
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:33:30","Restart",363,34
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:33:32","AT1",364,34
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:33:47","DANGER1",365,34
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:33:47","DAT1",366,34
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:33:51","POSSIBLE_TI",367,34
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:33:52","TI1",368,34
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:33:58","Restart",369,34
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:34:22","SAFE2",370,35
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:34:41","SAFE1",371,35
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:34:44","AT1",372,35
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:35:01","SAFE2",373,35
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:35:03","AT2",374,35
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:35:05","DANGER2",375,35
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:35:05","DAT2",376,35
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:35:22","GOAL2",377,36
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:35:27","CGOAL2",378,36
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:35:28","Possible Free Kick",379,36
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:35:29","SAFE1",381,36
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:35:29","O2",382,36
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:35:29","FK1",383,36
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:35:29","Ball Position",384,36
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:35:30","Restart",385,36
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:35:34","AT1",386,36
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:35:39","DANGER1",387,36
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:35:39","DAT1",388,36
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:35:46","SAFE2",389,36
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:35:57","SAFE1",390,36
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:36:01","AT1",391,36
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:36:07","DANGER1",392,36
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:36:07","DAT1",393,36
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:36:58","SHB1",394,37
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:36:59","SAFE2",395,37
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:37:00","GK2",396,37
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:37:25","Restart",397,38
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:37:28","SAFE1",398,38
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:37:33","AT1",399,38
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:37:42","DANGER1",400,38
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:37:42","DAT1",401,38
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:37:57","SAFE2",402,38
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:37:57","GK2",403,38
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:37:59","CLS",404,38
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:38:02","SAFE2",405,38
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:38:15","POSSIBLE_TI",406,38
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:38:16","TI1",407,38
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:38:20","Restart",408,38
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:38:21","AT1",409,38
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:38:22","DANGER1",410,39
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:38:22","DAT1",411,39
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:38:50","PPEN",412,39
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:38:50","PPEN1",413,39
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:38:58","PEN1",414,39
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:39:00","POSSIBLE_CARDS",415,39
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:39:47","NO_Cards",416,40
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:39:49","Scorer",417,40
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:40:26","MPEN1",418,41
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:40:30","Restart",419,41
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:40:38","PCR1",420,41
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:40:43","CR1",421,41
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:40:45","Ball Position",422,41
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:40:48","Restart",423,41
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:40:49","POSSIBLE_TI",424,41
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:40:50","TI1",425,41
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:40:52","Restart",426,41
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:41:07","SHB1",427,41
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:41:08","PCR1",428,41
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:41:08","CR1",429,41
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:41:16","Ball Position",430,41
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:41:27","Restart",431,42
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:41:30","PCR1",432,42
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:41:31","CR1",433,42
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:41:32","Ball Position",434,42
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:41:40","Restart",435,42
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:41:55","PCR1",436,42
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:42:00","NCR1",437,42
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:42:02","POSSIBLE_TI",438,42
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:42:03","TI1",439,42
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:42:05","Restart",440,42
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:42:51","Possible Free Kick",441,43
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:42:58","SAFE2",443,43
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:42:58","FK2",444,43
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:42:58","Ball Position",445,43
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:43:09","Restart",446,43
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:43:24","POSSIBLE_TI",447,44
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:43:27","TI2",448,44
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:43:30","Restart",449,44
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:43:40","POSSIBLE_TI",450,44
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:43:42","TI1",451,44
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:43:47","Restart",452,44
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:43:49","AT1",453,44
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:44:00","DANGER1",454,44
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:44:00","DAT1",455,44
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:44:16","SAFE2",456,44
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:44:18","AT2",457,44
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:44:20","DANGER2",458,44
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:44:20","DAT2",459,44
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:44:30","SHB2",460,45
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:44:30","SAFE1",461,45
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:44:31","GK1",462,45
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:44:35","Restart",463,45
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:44:36","AT1",464,45
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:44:44","DANGER1",465,45
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:44:44","DAT1",466,45
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:44:48","Possible Free Kick",467,45
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:44:50","SAFE1",469,45
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:44:50","F2",470,45
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:44:50","FK1",471,45
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:44:50","Ball Position",472,45
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:44:51","Restart",473,45
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:44:59","AT2",474,45
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:45:03","SAFE1",475,45
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:45:05","AT1",476,45
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:45:06","DANGER1",477,45
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:45:06","DAT1",478,45
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:45:27","Scout offline",479,46
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:45:54","Transmission Online",480,46
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:45:54","Start score update",481,46
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:45:54","Statistic confirmation",482,46
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:45:54","Score update finished",483,46
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:45:57","Stop RT1",484,46
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 20:46:07","CONF_PERIOD_SCORE",485,45
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:01:50","Players are coming out",486,45
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:02:31","Game about to start",487,45
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:02:55","Start RT2 Team 1",488,46
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:03:08","AT1",489,46
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:03:25","DANGER1",490,46
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:03:25","DAT1",491,46
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:03:31","POSSIBLE_TI",492,46
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:03:32","TI1",493,46
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:03:33","Restart",494,46
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:03:49","POSSIBLE_TI",495,46
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:03:49","TI2",496,46
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:03:51","Restart",497,46
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:04:06","SAFE1",498,47
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:04:14","Possible Free Kick",499,47
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:04:17","SAFE2",501,47
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:04:17","F1",502,47
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:04:17","FK2",503,47
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:04:17","Ball Position",504,47
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:04:26","Restart",505,47
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:04:28","SAFE2",506,47
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:04:33","AT2",507,47
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:04:34","DANGER2",508,47
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:04:34","DAT2",509,47
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:04:41","SAFE1",510,47
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:04:48","AT1",511,47
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:04:52","DANGER1",512,47
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:04:52","DAT1",513,47
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:05:16","SAFE2",514,48
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:05:18","AT1",515,48
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:05:21","DANGER1",516,48
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:05:21","DAT1",517,48
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:05:28","PCR1",518,48
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:05:30","CR1",519,48
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:05:31","Ball Position",520,48
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:05:34","Restart",521,48
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:05:43","SAFE2",522,48
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:05:57","POSSIBLE_TI",523,49
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:06:00","TI1",524,49
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:06:00","Restart",525,49
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:06:01","SAFE1",526,49
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:06:10","AT1",527,49
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:06:11","DANGER1",528,49
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:06:11","DAT1",529,49
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:06:16","SAFE2",530,49
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:06:21","AT1",531,49
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:06:24","DANGER1",532,49
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:06:24","DAT1",533,49
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:06:35","BLOCKED1",534,49
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:07:04","BLOCKED1",535,50
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:07:23","SAFE2",536,50
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:07:34","Possible Free Kick",537,50
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:07:36","POSSIBLE_CARDS",539,50
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:08:08","F1",540,51
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:08:08","FK2",541,51
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:08:08","Ball Position",542,51
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:08:11","NO_Cards",543,51
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:08:12","Restart",544,51
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:08:17","AT2",545,51
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:08:18","DANGER2",546,51
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:08:18","DAT2",547,51
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:08:24","SAFE1",548,51
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:08:34","AT1",549,51
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:08:35","DANGER1",550,51
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:08:35","DAT1",551,51
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:08:46","SAFE2",552,51
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:08:47","GK2",553,51
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:09:12","Restart",554,52
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:09:20","AT2",555,52
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:09:23","SAFE2",556,52
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:09:44","POSSIBLE_TI",557,52
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:09:45","TI1",558,52
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:09:45","Restart",559,52
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:09:46","AT1",560,52
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:10:01","DANGER1",561,53
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:10:01","DAT1",562,53
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:10:09","SAFE2",563,53
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:10:21","SAFE2",564,53
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:10:29","SAFE1",565,53
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:10:32","AT1",566,53
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:10:42","DANGER1",567,53
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:10:42","DAT1",568,53
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:11:03","SAFE2",569,54
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:11:23","POSSIBLE_TI",570,54
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:11:25","TI2",571,54
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:11:26","Restart",572,54
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:11:37","Possible Free Kick",573,54
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:11:39","F1",575,54
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:11:39","FK2",576,54
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:11:39","DANGER2",577,54
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:11:39","DFK2",578,54
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:11:39","Ball Position",579,54
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:12:01","Restart",580,55
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:12:04","SAFE2",581,55
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:12:16","SAFE1",582,55
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:12:27","AT1",583,55
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:12:29","Possible Free Kick",584,55
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:12:30","SAFE1",586,55
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:12:30","F2",587,55
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:12:30","FK1",588,55
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:12:30","Ball Position",589,55
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:12:31","Restart",590,55
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:12:37","AT1",591,55
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:12:47","Referee Ball",592,55
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:12:54","Restart",593,55
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:12:59","DANGER1",594,56
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:12:59","DAT1",595,56
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:13:06","SAFE2",596,56
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:13:10","AT2",597,56
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:13:15","POSSIBLE_TI",598,56
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:13:16","TI1",599,56
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:13:17","Restart",600,56
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:13:18","SAFE1",601,56
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:13:24","AT1",602,56
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:13:34","DANGER1",603,56
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:13:34","DAT1",604,56
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:13:37","Possible Free Kick",605,56
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:13:39","SAFE2",607,56
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:13:39","F1",608,56
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:13:39","FK2",609,56
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:13:39","Ball Position",610,56
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:13:53","Restart",611,56
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:13:59","AT2",612,57
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:14:00","DANGER2",613,57
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:14:00","DAT2",614,57
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:14:14","SHG2",615,57
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:14:16","Possible Free Kick",616,57
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:14:18","SAFE1",618,57
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:14:18","F2",619,57
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:14:18","FK1",620,57
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:14:18","Ball Position",621,57
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:14:20","Restart",622,57
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:14:30","AT1",623,57
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:14:31","DANGER1",624,57
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:14:31","DAT1",625,57
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:14:45","SAFE2",626,57
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:14:46","AT2",627,57
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:14:48","DANGER2",628,57
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:14:48","DAT2",629,57
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:15:00","SAFE1",630,58
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:15:01","AT1",631,58
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:15:08","DANGER1",632,58
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:15:08","DAT1",633,58
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:15:17","PCR1",634,58
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:15:19","SHB1",635,58
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:15:23","CR1",636,58
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:15:24","Ball Position",637,58
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:15:30","Restart",638,58
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:15:36","SAFE2",639,58
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:15:57","SAFE1",640,59
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:15:58","AT1",641,59
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:16:13","DANGER1",642,59
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:16:13","DAT1",643,59
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:16:41","Possible Free Kick",644,59
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:16:50","POSSIBLE_CARDS",646,59
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:16:51","YC2",647,59
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:16:57","CONF_YC2",648,60
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:17:04","Scorer",649,60
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:17:06","Player_DATA_CONFIRMED",650,60
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:17:23","F2",651,60
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:17:23","FK1",652,60
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:17:23","DFK1",653,60
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:17:24","Ball Position",654,60
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:17:28","Restart",655,60
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:17:29","SHG1",656,60
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:17:31","SAFE2",657,60
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:17:48","POSSIBLE_TI",658,60
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:17:49","TI1",659,60
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:17:50","Restart",660,60
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:17:59","SAFE1",661,61
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:18:10","SAFE1",662,61
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:18:12","AT1",663,61
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:18:15","DANGER1",664,61
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:18:15","DAT1",665,61
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:18:30","POSSIBLE_TI",666,61
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:18:31","TI1",667,61
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:18:33","CLS",668,61
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:18:36","TI2",669,61
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:18:48","SUB2",670,61
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:19:22","Player_DATA_CONFIRMED",671,62
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:19:24","SUB2",672,62
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:19:57","Player_DATA_CONFIRMED",673,63
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:19:58","Restart",674,63
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:20:10","SAFE1",675,63
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:20:17","AT1",676,63
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:20:22","DANGER1",677,63
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:20:22","DAT1",678,63
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:20:34","SAFE2",679,63
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:20:37","Possible Free Kick",680,63
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:20:45","POSSIBLE_CARDS",682,63
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:21:05","NO_Cards",683,64
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:21:05","F1",684,64
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:21:05","FK2",685,64
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:21:05","Ball Position",686,64
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:21:13","Restart",687,64
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:21:23","SAFE1",688,64
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:21:33","AT1",689,64
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:21:39","DANGER1",690,64
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:21:39","DAT1",691,64
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:21:55","SAFE2",692,64
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:21:55","GK2",693,65
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:22:12","Restart",694,65
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:22:28","POSSIBLE_TI",695,65
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:22:30","TI2",696,65
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:22:33","Restart",697,65
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:22:45","SAFE1",698,65
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:22:46","AT1",699,65
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:22:54","DANGER1",700,65
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:22:54","DAT1",701,65
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:23:01","SAFE2",702,66
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:23:02","AT2",703,66
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:23:04","DANGER2",704,66
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:23:04","DAT2",705,66
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:23:13","SAFE1",706,66
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:23:21","AT1",707,66
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:23:35","DANGER1",708,66
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:23:35","DAT1",709,66
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:23:42","POSSIBLE_TI",710,66
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:23:44","TI1",711,66
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:23:45","Restart",712,66
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:23:50","Possible Free Kick",713,66
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:23:52","F2",715,66
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:23:52","FK1",716,66
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:23:52","DFK1",717,66
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:23:52","Ball Position",718,66
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:24:42","Restart",719,67
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:24:51","SHG1",720,67
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:25:12","SAFE2",721,68
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:25:24","AT1",722,68
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:25:24","DANGER1",723,68
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:25:24","DAT1",724,68
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:25:24","SAFE2",725,68
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:25:39","AT2",726,68
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:25:39","DANGER2",727,68
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:25:39","DAT2",728,68
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:25:40","POSSIBLE_TI",729,68
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:25:40","TI1",730,68
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:25:41","Restart",731,68
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:25:42","SAFE1",732,68
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:25:42","AT1",733,68
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:25:43","DANGER1",734,68
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:25:43","DAT1",735,68
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:25:51","SAFE2",736,68
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:25:53","AT2",737,68
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:26:01","DANGER2",738,69
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:26:01","DAT2",739,69
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:26:08","SAFE1",740,69
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:26:15","SAFE1",741,69
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:26:24","AT1",742,69
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:26:25","Possible Free Kick",743,69
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:26:26","F2",745,69
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:26:26","FK1",746,69
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:26:26","DANGER1",747,69
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:26:26","DFK1",748,69
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:26:26","Ball Position",749,69
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:26:37","SUB1",750,69
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:26:55","SUB1",751,69
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:27:15","Restart",752,70
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:27:24","Player_DATA_CONFIRMED",753,70
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:27:24","SAFE2",754,70
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:27:25","Player_DATA_CONFIRMED",755,70
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:27:26","AT2",756,70
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:27:26","DANGER2",757,70
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:27:26","DAT2",758,70
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:27:38","SAFE1",759,70
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:27:38","POSSIBLE_TI",760,70
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:27:40","TI1",761,70
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:27:41","Restart",762,70
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:27:42","AT1",763,70
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:27:49","DANGER1",764,70
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:27:49","DAT1",765,70
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:28:06","PCR1",766,71
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:28:13","SHB1",767,71
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:28:14","NCR1",768,71
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:28:15","SAFE2",769,71
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:28:17","GK2",770,71
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:28:30","Restart",771,71
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:28:43","SAFE1",772,71
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:28:48","AT1",773,71
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:28:56","DANGER1",774,72
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:28:56","DAT1",775,72
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:30:08","GOAL1",776,73
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:30:17","Scorer",777,73
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:30:24","Player_DATA_CONFIRMED",778,73
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:30:28","CONF_GOAL1",779,73
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:31:15","KO2",780,74
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:31:15","SAFE2",781,74
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:31:25","SAFE2",782,74
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:31:34","SAFE2",783,74
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:31:41","Possible Free Kick",784,74
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:31:42","F1",786,74
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:31:42","FK2",787,74
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:31:42","Ball Position",788,74
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:31:45","Restart",789,74
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:31:54","SAFE2",790,74
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:32:00","AT2",791,75
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:32:02","DANGER2",792,75
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:32:02","DAT2",793,75
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:32:04","SAFE1",794,75
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:32:07","AT1",795,75
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:32:13","DANGER1",796,75
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:32:13","DAT1",797,75
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:32:29","POSSIBLE_TI",798,75
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:32:30","TI2",799,75
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:33:00","Restart",800,76
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:33:03","SAFE1",801,76
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:33:23","AT1",802,76
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:33:26","DANGER1",803,76
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:33:26","DAT1",804,76
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:33:31","Possible Free Kick",805,76
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:33:40","F2",807,76
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:33:40","FK1",808,76
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:33:40","DFK1",809,76
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:33:40","Ball Position",810,76
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:33:44","Restart",811,76
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:33:54","SAFE1",812,76
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:33:57","AT1",813,77
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:34:12","DANGER1",814,77
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:34:12","DAT1",815,77
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:34:30","SAFE2",816,77
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:34:42","SAFE2",817,77
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:34:52","POSSIBLE_TI",818,77
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:34:54","TI1",819,77
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:34:56","Restart",820,78
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:35:01","SAFE1",821,78
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:35:06","AT1",822,78
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:35:14","DANGER1",823,78
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:35:14","DAT1",824,78
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:35:35","Possible Free Kick",825,78
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:35:40","SAFE2",827,78
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:35:40","F1",828,78
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:35:40","FK2",829,78
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:35:40","Ball Position",830,78
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:35:48","Restart",831,78
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:35:49","SAFE2",832,78
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:35:58","AT2",833,79
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:36:01","DANGER2",834,79
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:36:01","DAT2",835,79
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:36:08","POSSIBLE_TI",836,79
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:36:09","TI2",837,79
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:36:16","Restart",838,79
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:36:17","SAFE2",839,79
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:36:33","POSSIBLE_TI",840,79
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:36:36","TI2",841,79
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:36:47","SUB2",842,79
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:36:53","Restart",843,79
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:36:56","SAFE2",844,80
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:37:27","AT1",845,80
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:37:32","SAFE2",846,80
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:37:42","SAFE2",847,80
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:37:45","Player_DATA_CONFIRMED",848,80
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:37:52","AT1",849,80
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:37:54","DANGER1",850,80
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:37:54","DAT1",851,80
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:38:13","Possible Free Kick",852,81
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:38:16","SAFE2",854,81
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:38:16","O1",855,81
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:38:16","FK2",856,81
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:38:16","Ball Position",857,81
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:38:35","Restart",858,81
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:38:42","SAFE2",859,81
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:38:44","POSSIBLE_TI",860,81
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:38:46","TI2",861,81
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:38:48","Restart",862,81
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:38:48","AT2",863,81
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:38:49","DANGER2",864,81
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:38:49","DAT2",865,81
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:38:59","SAFE2",866,82
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:39:06","AT2",867,82
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:39:07","DANGER2",868,82
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:39:07","DAT2",869,82
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:39:11","SHG2",870,82
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:39:14","POSSIBLE_TI",871,82
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:39:15","TI2",872,82
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:39:17","Restart",873,82
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:39:22","SAFE1",874,82
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:39:22","AT1",875,82
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:39:23","DANGER1",876,82
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:39:23","DAT1",877,82
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:39:43","Scout offline",878,82
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:40:10","Transmission Online",879,83
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:40:10","Start score update",880,83
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:40:15","CR1",881,83
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:40:18","Score update finished",882,83
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:40:20","SAFE1",883,83
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:40:21","POSSIBLE_TI",884,83
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:40:22","TI1",885,83
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:40:24","Restart",886,83
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:40:26","Time Correction",887,83
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:40:26","AT1",888,83
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:40:30","SAFE2",889,83
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:40:31","AT2",890,83
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:40:31","DANGER2",891,83
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:40:31","DAT2",892,83
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:40:44","Possible Free Kick",893,83
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:40:46","F1",895,83
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:40:46","FK2",896,83
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:40:46","DFK2",897,83
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:40:46","Ball Position",898,83
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:40:47","Restart",899,83
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:40:49","SHG2",900,83
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:40:50","SAFE1",901,83
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:40:55","AT1",902,84
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:41:04","DANGER1",903,84
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:41:04","DAT1",904,84
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:41:14","Possible Free Kick",905,84
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:41:26","SAFE2",908,84
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:41:26","F1",909,84
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:41:26","FK2",910,84
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:41:26","Ball Position",911,84
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:41:47","Restart",912,84
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:41:52","SAFE1",913,84
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:41:53","AT1",914,84
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:41:55","DANGER1",915,84
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:41:55","DAT1",916,84
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:42:16","PCR1",917,85
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:42:23","CR1",918,85
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:42:28","Ball Position",919,85
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:42:50","Restart",920,85
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:43:19","SAFE1",921,86
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:43:19","POSSIBLE_TI",922,86
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:43:20","TI1",923,86
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:43:21","Restart",924,86
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:43:27","AT1",925,86
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:43:29","DANGER1",926,86
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:43:29","DAT1",927,86
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:43:57","SAFE2",928,87
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:44:04","SAFE2",929,87
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:44:05","AT2",930,87
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:44:06","DANGER2",931,87
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:44:06","DAT2",932,87
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:44:11","SAFE1",933,87
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:44:17","AT1",934,87
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:44:20","DANGER1",935,87
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:44:20","DAT1",936,87
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:44:36","Possible Free Kick",937,87
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:44:37","F2",939,87
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:44:37","FK1",940,87
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:44:37","DFK1",941,87
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:44:37","Ball Position",942,87
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:44:38","Restart",943,87
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:44:44","SAFE2",944,87
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:44:49","POSSIBLE_TI",945,87
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:44:50","TI1",946,87
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:44:50","CLS",947,87
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:44:53","TI2",948,87
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:45:03","SUB1",949,88
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:45:34","Restart",950,88
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:45:36","SAFE2",951,88
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:45:41","AT2",952,88
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:45:46","Player_DATA_CONFIRMED",953,88
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:45:47","SAFE1",954,88
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:45:53","AT1",955,88
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:45:58","DANGER1",956,89
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:45:58","DAT1",957,89
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:45:59","SAFE2",958,89
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:46:05","AT1",959,89
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:46:09","DANGER1",960,89
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:46:09","DAT1",961,89
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:47:02","Possible Free Kick",962,90
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:47:03","SAFE2",964,90
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:47:03","F1",965,90
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:47:03","FK2",966,90
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:47:04","Ball Position",967,90
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:47:12","Restart",968,90
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:47:24","SAFE1",969,90
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:47:27","SAFE1",970,90
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:47:29","AT1",971,90
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:47:30","DANGER1",972,90
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:47:30","DAT1",973,90
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:47:40","GOAL1",974,90
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:47:48","Scorer",975,90
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:47:50","CONF_GOAL1",976,90
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:47:54","Player_DATA_CONFIRMED",977,90
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:48:04","Extra Time",978,91
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:48:48","KO2",979,91
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:48:48","SAFE2",980,91
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:48:51","SAFE2",981,91
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:48:56","Possible Free Kick",982,92
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:48:57","F1",984,92
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:48:57","FK2",985,92
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:48:57","DANGER2",986,92
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:48:57","DFK2",987,92
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:48:57","Ball Position",988,92
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:49:00","Restart",989,92
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:49:12","SAFE1",990,92
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:49:24","AT1",991,92
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:49:25","DANGER1",992,92
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:49:25","DAT1",993,92
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:49:31","SAFE1",994,92
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:49:33","AT1",995,92
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:49:36","DANGER1",996,92
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:49:36","DAT1",997,92
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:49:39","Possible Free Kick",998,92
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:49:40","F2",1000,92
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:49:40","FK1",1001,92
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:49:40","DFK1",1002,92
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:49:41","Ball Position",1003,92
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:49:48","Restart",1004,92
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:50:06","PCR1",1005,93
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:50:07","CR1",1006,93
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:50:08","Ball Position",1007,93
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:50:17","Assist",1008,93
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:50:24","Restart",1009,93
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:50:35","POSSIBLE_TI",1010,93
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:50:36","TI1",1011,93
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:50:48","CLS",1012,93
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:50:50","NO_TI",1013,93
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:50:53","Stop RT2",1014,93
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:50:53","Stop Game",1015,93
+899075,"Paris Saint-Germain FC","ES Troyes AC","11/29/2017 21:51:00","CONF_PERIOD_SCORE",1016,92

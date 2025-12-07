@@ -1,0 +1,842 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+904365,"Southampton FC","Arsenal FC","12/10/2017 10:30:01","Transmission Online",0,0
+904365,"Southampton FC","Arsenal FC","12/10/2017 10:30:08","GCC",1,0
+904365,"Southampton FC","Arsenal FC","12/10/2017 11:01:15","Lineup changed",2,0
+904365,"Southampton FC","Arsenal FC","12/10/2017 11:01:40","Scout in Stadion",3,0
+904365,"Southampton FC","Arsenal FC","12/10/2017 11:56:16","Players are coming out",4,0
+904365,"Southampton FC","Arsenal FC","12/10/2017 11:56:29","Players lined up",5,0
+904365,"Southampton FC","Arsenal FC","12/10/2017 11:56:48","Shake hands",6,0
+904365,"Southampton FC","Arsenal FC","12/10/2017 11:57:42","Jersey Changed",7,0
+904365,"Southampton FC","Arsenal FC","12/10/2017 11:57:42","Jersey Changed",8,0
+904365,"Southampton FC","Arsenal FC","12/10/2017 11:58:21","Photo taking",9,0
+904365,"Southampton FC","Arsenal FC","12/10/2017 11:58:50","Flip coin",10,0
+904365,"Southampton FC","Arsenal FC","12/10/2017 11:59:13","Game about to start",11,0
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:00:02","Start RT1 Team 2",12,1
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:00:05","SAFE2",13,1
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:00:30","AT2",14,1
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:00:33","DANGER2",15,1
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:00:33","DAT2",16,1
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:00:39","SAFE1",17,1
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:00:43","AT1",18,1
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:00:45","Possible Free Kick",19,1
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:00:47","SAFE2",21,1
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:00:47","O1",22,1
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:00:47","FK2",23,1
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:00:48","Ball Position",24,1
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:00:53","Restart",25,1
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:01:28","AT2",26,2
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:01:34","SAFE1",27,2
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:01:36","AT1",28,2
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:01:42","POSSIBLE_TI",29,2
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:01:43","TI1",30,2
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:01:59","Restart",31,2
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:02:04","DANGER1",32,3
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:02:04","DAT1",33,3
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:02:10","GOAL1",34,3
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:02:15","Scorer",35,3
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:02:50","CONF_GOAL1",36,3
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:03:06","KO2",37,4
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:03:06","SAFE2",38,4
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:03:16","AT2",39,4
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:03:18","DANGER2",40,4
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:03:18","DAT2",41,4
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:03:23","SAFE1",42,4
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:03:41","AT1",43,4
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:03:48","Possible Free Kick",44,4
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:03:50","SAFE1",46,4
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:03:50","F2",47,4
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:03:50","FK1",48,4
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:03:50","Ball Position",49,4
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:04:02","Restart",50,5
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:04:13","AT1",51,5
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:04:15","DANGER1",52,5
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:04:15","DAT1",53,5
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:04:19","SHG1",54,5
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:04:23","SAFE2",55,5
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:04:58","AT2",56,5
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:05:03","DANGER2",57,6
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:05:03","DAT2",58,6
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:05:10","SAFE1",59,6
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:05:28","Player_DATA_CONFIRMED",60,6
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:05:28","Assist",61,6
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:05:34","AT1",62,6
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:05:43","DANGER1",63,6
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:05:43","DAT1",64,6
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:05:46","Possible Free Kick",65,6
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:05:50","SAFE2",67,6
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:05:50","O1",68,6
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:05:50","FK2",69,6
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:05:50","Ball Position",70,6
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:06:02","Restart",71,7
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:06:35","AT2",72,7
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:06:39","DANGER2",73,7
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:06:39","DAT2",74,7
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:06:52","SAFE1",75,7
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:07:05","AT1",76,8
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:07:09","DANGER1",77,8
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:07:09","DAT1",78,8
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:07:12","Possible Free Kick",79,8
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:07:17","SAFE2",81,8
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:07:17","O1",82,8
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:07:17","FK2",83,8
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:07:17","Ball Position",84,8
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:07:24","Restart",85,8
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:07:42","Possible Free Kick",86,8
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:07:42","F1",88,8
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:07:42","FK2",89,8
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:07:42","DANGER2",90,8
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:07:42","DFK2",91,8
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:07:42","Ball Position",92,8
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:07:58","Restart",93,8
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:08:24","Possible Free Kick",94,9
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:08:26","F1",96,9
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:08:26","FK2",97,9
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:08:26","DFK2",98,9
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:08:26","Ball Position",99,9
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:08:31","Restart",100,9
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:09:10","SAFE2",101,10
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:09:26","AT2",102,10
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:09:39","DANGER2",103,10
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:09:39","DAT2",104,10
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:10:26","SAFE1",105,11
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:10:42","AT1",106,11
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:10:58","SAFE2",107,11
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:11:20","Possible Free Kick",108,12
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:11:21","F1",110,12
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:11:21","FK2",111,12
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:11:21","Ball Position",112,12
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:11:34","Restart",113,12
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:11:37","AT2",114,12
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:11:39","DANGER2",115,12
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:11:39","DAT2",116,12
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:11:43","SAFE1",117,12
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:11:52","AT1",118,12
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:11:56","DANGER1",119,12
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:11:56","DAT1",120,12
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:12:09","SAFE2",121,13
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:12:17","SAFE1",122,13
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:12:27","AT1",123,13
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:12:31","SAFE2",124,13
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:12:35","AT2",125,13
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:12:42","SAFE1",126,13
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:12:45","AT1",127,13
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:13:13","SAFE1",128,14
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:13:22","AT2",129,14
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:13:27","DANGER2",130,14
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:13:27","DAT2",131,14
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:14:11","SAFE1",132,15
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:14:17","POSSIBLE_TI",133,15
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:14:18","TI2",134,15
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:14:29","Restart",135,15
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:14:29","SAFE2",136,15
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:14:41","AT2",137,15
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:15:14","Possible Free Kick",138,16
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:15:15","F1",140,16
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:15:15","FK2",141,16
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:15:16","DANGER2",142,16
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:15:16","DFK2",143,16
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:15:16","Ball Position",144,16
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:15:21","Restart",145,16
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:15:41","SHG2",146,16
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:15:42","SAFE1",147,16
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:15:58","AT1",148,16
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:16:03","SAFE2",149,17
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:16:05","AT1",150,17
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:16:08","DANGER1",151,17
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:16:08","DAT1",152,17
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:16:12","PCR1",153,17
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:16:14","CR1",154,17
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:16:15","Ball Position",155,17
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:16:46","Restart",156,17
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:16:50","SAFE2",157,17
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:16:55","AT2",158,17
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:16:58","DANGER2",159,17
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:16:58","DAT2",160,17
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:17:01","PCR2",161,17
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:17:06","CR2",162,18
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:17:07","Ball Position",163,18
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:17:26","Restart",164,18
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:17:42","SAFE1",165,18
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:17:58","AT1",166,18
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:18:10","DANGER1",167,19
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:18:10","DAT1",168,19
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:18:34","SAFE1",169,19
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:18:52","AT1",170,19
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:18:58","SAFE2",171,19
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:18:58","GK2",172,19
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:19:18","Restart",173,20
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:19:21","POSSIBLE_TI",174,20
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:19:23","TI1",175,20
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:19:24","SAFE1",176,20
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:19:42","Restart",177,20
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:19:47","AT1",178,20
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:19:57","DANGER1",179,20
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:19:57","DAT1",180,20
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:20:03","SAFE2",181,21
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:20:11","AT2",182,21
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:20:15","DANGER2",183,21
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:20:15","DAT2",184,21
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:20:23","Possible Free Kick",185,21
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:20:27","SAFE1",187,21
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:20:27","FK1",188,21
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:20:27","Ball Position",189,21
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:20:43","Restart",190,21
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:20:56","Possible Free Kick",191,21
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:21:00","FK2",193,21
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:21:00","DANGER2",194,21
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:21:00","DFK2",195,21
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:21:00","Ball Position",196,21
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:21:01","Restart",197,21
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:21:02","SAFE2",198,22
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:21:19","SAFE2",199,22
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:21:20","AT2",200,22
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:21:40","DANGER2",201,22
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:21:40","DAT2",202,22
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:22:05","POSSIBLE_TI",203,23
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:22:07","TI2",204,23
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:22:22","Restart",205,23
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:22:27","POSSIBLE_TI",206,23
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:22:28","TI2",207,23
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:22:34","Restart",208,23
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:22:35","SAFE2",209,23
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:22:43","AT2",210,23
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:22:49","DANGER2",211,23
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:22:49","DAT2",212,23
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:22:55","SHG2",213,23
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:22:58","SAFE1",214,23
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:23:11","AT1",215,24
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:23:17","SAFE2",216,24
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:23:55","SAFE1",217,24
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:24:19","AT2",218,25
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:24:25","DANGER2",219,25
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:24:25","DAT2",220,25
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:24:32","PCR2",221,25
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:24:35","NCR2",222,25
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:24:35","SAFE1",223,25
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:24:36","GK1",224,25
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:25:04","Restart",225,26
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:25:06","AT1",226,26
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:25:12","SAFE2",227,26
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:25:22","AT1",228,26
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:25:22","DANGER1",229,26
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:25:22","DAT1",230,26
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:25:29","POSSIBLE_TI",231,26
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:25:31","TI1",232,26
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:25:52","Restart",233,26
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:25:58","Possible Free Kick",234,26
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:25:59","F2",236,26
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:25:59","FK1",237,26
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:25:59","DFK1",238,26
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:25:59","Ball Position",239,26
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:26:44","Restart",240,27
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:26:48","PCR1",241,27
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:26:51","CR1",242,27
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:26:52","Ball Position",243,27
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:27:10","Restart",244,28
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:27:18","PCR1",245,28
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:27:21","CR1",246,28
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:27:22","Ball Position",247,28
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:27:50","Restart",248,28
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:28:05","SHG1",249,29
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:28:06","SAFE2",250,29
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:28:09","AT1",251,29
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:28:13","DANGER1",252,29
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:28:13","DAT1",253,29
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:28:29","SAFE2",254,29
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:28:33","AT2",255,29
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:28:41","Possible Free Kick",256,29
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:28:46","F1",258,29
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:28:46","FK2",259,29
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:28:46","DANGER2",260,29
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:28:46","DFK2",261,29
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:28:46","Ball Position",262,29
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:29:18","Restart",263,30
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:29:47","PCR2",264,30
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:29:50","NCR2",265,30
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:29:57","SAFE2",266,30
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:30:06","AT2",267,31
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:30:12","DANGER2",268,31
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:30:12","DAT2",269,31
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:30:30","SAFE1",270,31
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:30:33","AT1",271,31
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:30:39","SAFE2",272,31
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:30:44","AT2",273,31
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:30:52","DANGER2",274,31
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:30:52","DAT2",275,31
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:30:53","POSSIBLE_TI",276,31
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:30:54","TI2",277,31
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:31:00","Restart",278,31
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:31:14","PCR2",279,32
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:31:15","CR2",280,32
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:31:17","Ball Position",281,32
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:31:24","Restart",282,32
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:31:30","BLOCKED2",283,32
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:31:42","SHG2",284,32
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:31:47","POSSIBLE_TI",285,32
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:31:48","TI2",286,32
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:31:56","Restart",287,32
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:32:11","POSSIBLE_TI",288,33
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:32:12","TI2",289,33
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:32:16","Restart",290,33
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:32:37","Possible Free Kick",291,33
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:32:39","SAFE1",293,33
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:32:39","F2",294,33
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:32:39","FK1",295,33
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:32:39","Ball Position",296,33
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:33:17","Restart",297,34
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:33:18","AT1",298,34
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:33:33","SAFE2",299,34
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:33:43","AT2",300,34
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:33:46","DANGER2",301,34
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:33:46","DAT2",302,34
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:33:54","SAFE1",303,34
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:34:00","AT1",304,34
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:34:04","DANGER1",305,35
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:34:04","DAT1",306,35
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:34:21","SAFE2",307,35
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:34:28","AT2",308,35
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:34:35","POSSIBLE_TI",309,35
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:34:37","TI1",310,35
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:35:03","Restart",311,36
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:35:07","POSSIBLE_TI",312,36
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:35:08","TI2",313,36
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:35:12","Restart",314,36
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:35:13","SAFE2",315,36
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:35:28","AT2",316,36
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:35:36","DANGER2",317,36
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:35:36","DAT2",318,36
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:35:50","SAFE1",319,36
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:35:59","AT1",320,36
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:36:04","SAFE1",321,37
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:36:16","AT1",322,37
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:36:16","DANGER1",323,37
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:36:16","DAT1",324,37
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:36:18","CLS",325,37
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:36:18","AT1",326,37
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:36:24","DANGER1",327,37
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:36:24","DAT1",328,37
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:36:48","POSSIBLE_TI",329,37
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:36:50","TI1",330,37
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:36:54","Restart",331,37
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:36:58","SAFE1",332,37
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:37:08","AT1",333,38
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:37:12","DANGER1",334,38
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:37:12","DAT1",335,38
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:37:16","PPEN",336,38
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:37:16","PPEN1",337,38
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:37:17","No PEN",338,38
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:37:19","POSSIBLE_TI",339,38
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:37:20","TI1",340,38
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:37:26","Restart",341,38
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:37:27","SAFE1",342,38
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:37:46","AT1",343,38
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:37:54","DANGER1",344,38
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:37:54","DAT1",345,38
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:37:55","POSSIBLE_TI",346,38
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:37:58","TI2",347,38
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:38:11","Restart",348,39
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:38:14","POSSIBLE_TI",349,39
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:38:15","TI1",350,39
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:38:17","CLS",351,39
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:38:18","TI2",352,39
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:38:24","Restart",353,39
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:38:28","SAFE2",354,39
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:38:49","AT2",355,39
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:38:57","DANGER2",356,39
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:38:57","DAT2",357,39
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:39:15","SAFE1",358,40
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:39:21","SAFE2",359,40
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:39:33","SAFE2",360,40
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:39:33","AT2",361,40
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:39:36","SAFE1",362,40
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:39:47","AT1",363,40
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:39:56","SAFE2",364,40
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:40:02","AT2",365,40
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:40:09","DANGER2",366,41
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:40:09","DAT2",367,41
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:40:22","SHB2",368,41
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:40:23","SAFE1",369,41
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:40:24","GK1",370,41
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:40:58","Restart",371,41
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:41:03","AT1",372,42
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:41:06","DANGER1",373,42
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:41:06","DAT1",374,42
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:41:10","SAFE2",375,42
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:41:24","POSSIBLE_TI",376,42
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:41:25","TI2",377,42
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:41:26","Restart",378,42
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:41:38","AT2",379,42
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:41:44","DANGER2",380,42
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:41:44","DAT2",381,42
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:41:59","SAFE1",382,42
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:42:03","AT1",383,43
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:42:07","DANGER1",384,43
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:42:07","DAT1",385,43
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:42:20","SAFE1",386,43
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:42:33","AT1",387,43
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:42:36","DANGER1",388,43
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:42:36","DAT1",389,43
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:42:39","POSSIBLE_TI",390,43
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:42:40","TI1",391,43
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:42:45","Restart",392,43
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:42:51","SAFE2",393,43
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:43:10","AT2",394,44
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:43:30","DANGER2",395,44
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:43:30","DAT2",396,44
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:43:45","SAFE1",397,44
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:43:49","AT1",398,44
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:43:57","AT2",399,44
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:43:57","DANGER2",400,44
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:43:57","DAT2",401,44
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:44:04","SAFE1",402,45
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:44:11","Possible Free Kick",403,45
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:44:12","F2",405,45
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:44:12","FK1",406,45
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:44:12","DANGER1",407,45
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:44:12","DFK1",408,45
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:44:12","Ball Position",409,45
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:44:39","Restart",410,45
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:44:41","SAFE1",411,45
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:44:49","AT1",412,45
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:45:04","POSSIBLE_TI",413,46
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:45:05","TI2",414,46
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:45:08","Extra Time",415,46
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:45:11","SAFE2",416,46
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:45:14","Restart",417,46
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:45:23","AT2",418,46
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:45:40","DANGER2",419,46
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:45:40","DAT2",420,46
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:45:50","Possible Free Kick",421,46
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:45:52","F1",423,46
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:45:52","FK2",424,46
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:45:52","DFK2",425,46
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:45:52","Ball Position",426,46
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:46:11","Restart",427,47
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:46:20","Stop RT1",428,47
+904365,"Southampton FC","Arsenal FC","12/10/2017 12:46:26","CONF_PERIOD_SCORE",429,45
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:00:16","Players are coming out",430,45
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:01:26","Game about to start",431,45
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:01:49","Start RT2 Team 1",432,46
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:01:51","SAFE1",433,46
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:01:55","AT1",434,46
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:02:09","SAFE1",435,46
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:02:30","SAFE2",436,46
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:02:33","AT2",437,46
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:02:36","DANGER2",438,46
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:02:36","DAT2",439,46
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:02:41","SAFE1",440,46
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:02:45","AT1",441,46
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:02:48","DANGER1",442,46
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:02:48","DAT1",443,46
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:02:54","SAFE2",444,47
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:03:11","AT2",445,47
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:03:38","SAFE1",446,47
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:03:40","AT2",447,47
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:03:43","DANGER2",448,47
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:03:43","DAT2",449,47
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:04:29","SAFE2",450,48
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:04:36","AT2",451,48
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:05:04","DANGER2",452,49
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:05:04","DAT2",453,49
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:05:41","SAFE1",454,49
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:06:00","SAFE2",455,50
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:06:05","AT2",456,50
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:06:17","SAFE2",457,50
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:06:28","AT2",458,50
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:06:28","DANGER2",459,50
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:06:28","DAT2",460,50
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:06:53","POSSIBLE_TI",461,51
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:06:54","TI2",462,51
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:07:03","Restart",463,51
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:07:17","SAFE2",464,51
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:07:21","AT2",465,51
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:07:31","DANGER2",466,51
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:07:31","DAT2",467,51
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:08:03","SAFE2",468,52
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:08:22","AT2",469,52
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:08:25","DANGER2",470,52
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:08:25","DAT2",471,52
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:08:29","PPEN",472,52
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:08:29","PPEN2",473,52
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:08:32","No PEN",474,52
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:08:49","POSSIBLE_TI",475,52
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:08:49","TI2",476,53
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:08:52","Restart",477,53
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:09:06","SAFE1",478,53
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:09:12","AT1",479,53
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:09:17","DANGER1",480,53
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:09:17","DAT1",481,53
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:09:20","SHG1",482,53
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:09:21","SAFE2",483,53
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:09:30","AT2",484,53
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:09:36","DANGER2",485,53
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:09:36","DAT2",486,53
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:09:44","SHB2",487,53
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:09:45","SAFE1",488,53
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:09:45","GK1",489,53
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:10:16","Restart",490,54
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:10:21","AT1",491,54
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:10:25","SAFE2",492,54
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:10:34","AT2",493,54
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:10:41","DANGER2",494,54
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:10:41","DAT2",495,54
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:10:54","SAFE1",496,55
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:11:03","AT1",497,55
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:11:14","SAFE1",498,55
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:11:25","AT1",499,55
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:11:31","DANGER1",500,55
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:11:31","DAT1",501,55
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:11:37","SAFE2",502,55
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:11:57","AT2",503,56
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:12:08","DANGER2",504,56
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:12:08","DAT2",505,56
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:13:08","POSSIBLE_TI",506,57
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:13:09","TI2",507,57
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:13:11","Restart",508,57
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:13:12","SAFE2",509,57
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:13:17","SAFE2",510,57
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:13:17","AT2",511,57
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:13:19","SAFE2",512,57
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:13:31","AT2",513,57
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:13:44","DANGER2",514,57
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:13:44","DAT2",515,57
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:13:53","PCR2",516,58
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:14:00","CR2",517,58
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:14:01","Ball Position",518,58
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:14:16","Restart",519,58
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:14:22","BLOCKED2",520,58
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:14:34","SAFE1",521,58
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:15:16","POSSIBLE_TI",522,59
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:15:17","TI2",523,59
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:15:24","Restart",524,59
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:15:25","SAFE2",525,59
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:15:33","AT1",526,59
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:15:37","POSSIBLE_TI",527,59
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:15:38","TI1",528,59
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:15:49","Restart",529,60
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:15:57","SAFE2",530,60
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:16:03","AT2",531,60
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:16:07","DANGER2",532,60
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:16:07","DAT2",533,60
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:16:14","SAFE1",534,60
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:16:18","AT1",535,60
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:16:23","DANGER1",536,60
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:16:23","DAT1",537,60
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:16:35","SAFE2",538,60
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:16:48","AT2",539,60
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:16:52","DANGER2",540,61
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:16:52","DAT2",541,61
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:17:08","SAFE1",542,61
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:17:17","POSSIBLE_TI",543,61
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:17:17","TI1",544,61
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:17:27","Restart",545,61
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:17:42","AT1",546,61
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:17:52","DANGER1",547,62
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:17:52","DAT1",548,62
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:18:06","SHB1",549,62
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:18:08","SAFE2",550,62
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:18:09","GK2",551,62
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:18:36","Restart",552,62
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:18:48","AT1",553,62
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:18:53","Possible Free Kick",554,63
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:18:54","F2",556,63
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:18:54","FK1",557,63
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:18:54","DANGER1",558,63
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:18:54","DFK1",559,63
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:18:54","Ball Position",560,63
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:19:04","Restart",561,63
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:19:06","SAFE2",562,63
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:19:12","AT2",563,63
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:19:18","SAFE1",564,63
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:19:54","POSSIBLE_TI",565,64
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:19:56","TI2",566,64
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:19:56","SAFE2",567,64
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:20:13","SUB2",568,64
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:20:35","Restart",569,64
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:21:06","AT2",570,65
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:21:12","POSSIBLE_TI",571,65
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:21:12","TI2",572,65
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:21:21","Restart",573,65
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:21:38","DANGER2",574,65
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:21:38","DAT2",575,65
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:22:02","AT1",576,66
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:22:02","DANGER1",577,66
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:22:02","DAT1",578,66
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:22:13","SHB1",579,66
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:22:14","SAFE2",580,66
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:22:15","GK2",581,66
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:22:18","Restart",582,66
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:22:30","AT2",583,66
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:22:47","DANGER2",584,66
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:22:47","DAT2",585,66
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:22:59","Player_DATA_CONFIRMED",586,67
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:23:14","SAFE1",587,67
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:23:18","AT1",588,67
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:23:21","POSSIBLE_CARDS",589,67
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:23:21","PRC",590,67
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:23:21","Danger",591,67
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:23:24","SAFE2",592,67
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:23:27","No RC",593,67
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:23:27","NO_Cards",594,67
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:23:33","AT2",595,67
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:23:37","DANGER2",596,67
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:23:37","DAT2",597,67
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:24:05","PCR2",598,68
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:24:07","CR2",599,68
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:24:08","Ball Position",600,68
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:24:19","Restart",601,68
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:24:28","SHB2",602,68
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:24:29","SAFE1",603,68
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:24:30","GK1",604,68
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:24:55","SUB2",605,69
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:25:11","Restart",606,69
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:25:19","AT2",607,69
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:25:28","DANGER2",608,69
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:25:28","DAT2",609,69
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:25:42","SAFE1",610,69
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:25:43","AT1",611,69
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:25:47","SAFE2",612,69
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:25:56","AT2",613,70
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:25:58","Possible Free Kick",614,70
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:26:00","SAFE1",616,70
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:26:00","O2",617,70
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:26:00","FK1",618,70
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:26:00","Ball Position",619,70
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:26:01","Player_DATA_CONFIRMED",620,70
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:26:33","Restart",621,70
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:26:36","AT1",622,70
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:26:41","SAFE2",623,70
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:26:52","Possible Free Kick",624,71
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:26:53","F1",626,71
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:26:53","FK2",627,71
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:26:53","Ball Position",628,71
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:26:54","Restart",629,71
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:26:58","Possible Free Kick",630,71
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:26:58","F1",632,71
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:26:58","FK2",633,71
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:26:58","Ball Position",634,71
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:27:00","POSSIBLE_CARDS",635,71
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:27:24","NO_Cards",636,71
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:27:25","Restart",637,71
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:27:26","AT2",638,71
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:27:35","SAFE2",639,71
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:27:43","AT2",640,71
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:27:49","DANGER2",641,72
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:27:49","DAT2",642,72
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:27:54","POSSIBLE_TI",643,72
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:27:55","TI1",644,72
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:28:17","SUB2",645,72
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:28:49","Restart",646,72
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:28:54","SAFE2",647,73
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:28:58","Player_DATA_CONFIRMED",648,73
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:28:59","AT2",649,73
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:29:12","DANGER2",650,73
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:29:12","DAT2",651,73
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:29:33","SAFE1",652,73
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:29:36","AT1",653,73
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:29:46","SAFE2",654,73
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:29:51","POSSIBLE_TI",655,74
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:29:52","TI2",656,74
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:30:13","SUB1",657,74
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:30:28","Restart",658,74
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:30:31","SAFE1",659,74
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:30:38","AT1",660,74
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:30:57","Possible Free Kick",661,75
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:30:58","F2",663,75
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:30:58","FK1",664,75
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:30:58","DANGER1",665,75
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:30:58","DFK1",666,75
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:30:58","Ball Position",667,75
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:31:34","Restart",668,75
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:31:39","SAFE2",669,75
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:31:40","GK2",670,75
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:31:59","Player_DATA_CONFIRMED",671,76
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:32:08","Restart",672,76
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:32:10","AT2",673,76
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:32:28","DANGER2",674,76
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:32:28","DAT2",675,76
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:33:04","Possible Free Kick",676,77
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:33:10","SAFE1",678,77
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:33:10","F2",679,77
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:33:10","FK1",680,77
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:33:10","Ball Position",681,77
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:33:35","Restart",682,77
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:33:36","AT1",683,77
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:33:47","SAFE2",684,77
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:33:51","AT2",685,78
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:33:58","SAFE1",686,78
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:34:02","AT1",687,78
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:34:05","Possible Free Kick",688,78
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:34:08","POSSIBLE_CARDS",690,78
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:34:11","YC2",691,78
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:34:16","CONF_YC2",692,78
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:34:18","Scorer",693,78
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:34:20","F2",694,78
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:34:20","FK1",695,78
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:34:20","DANGER1",696,78
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:34:20","DFK1",697,78
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:34:20","Ball Position",698,78
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:34:53","Restart",699,79
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:34:57","SAFE2",700,79
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:35:15","AT2",701,79
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:35:38","SAFE1",702,79
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:35:42","AT1",703,79
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:35:43","SAFE2",704,79
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:36:02","AT2",705,80
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:36:05","Player_DATA_CONFIRMED",706,80
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:36:06","DANGER2",707,80
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:36:06","DAT2",708,80
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:36:09","PCR2",709,80
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:36:14","CR2",710,80
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:36:16","Ball Position",711,80
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:36:39","Restart",712,80
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:37:09","SAFE1",713,81
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:37:13","AT1",714,81
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:37:22","POSSIBLE_TI",715,81
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:37:27","TI1",716,81
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:37:54","POSSIBLE_CARDS",717,82
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:37:56","YC1",718,82
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:37:58","CONF_YC1",719,82
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:38:09","Scorer",720,82
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:38:11","Restart",721,82
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:38:19","SAFE2",722,82
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:38:23","AT2",723,82
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:38:28","DANGER2",724,82
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:38:28","DAT2",725,82
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:38:38","PPEN",726,82
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:38:38","PPEN2",727,82
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:38:40","No PEN",728,82
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:38:41","SAFE1",729,82
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:38:43","AT1",730,82
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:38:46","DANGER1",731,82
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:38:46","DAT1",732,82
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:38:54","POSSIBLE_CARDS",733,83
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:38:54","PRC",734,83
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:38:57","Possible Free Kick",735,83
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:38:59","Player_DATA_CONFIRMED",737,83
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:39:03","SAFE2",738,83
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:39:03","O1",739,83
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:39:03","FK2",740,83
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:39:03","Ball Position",741,83
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:39:08","Restart",742,83
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:39:12","No RC",743,83
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:39:12","NO_Cards",744,83
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:39:15","AT2",745,83
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:39:22","DANGER2",746,83
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:39:22","DAT2",747,83
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:39:42","Possible Free Kick",748,83
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:39:46","POSSIBLE_CARDS",750,83
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:39:47","YC1",751,83
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:39:48","CONF_YC1",752,83
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:39:49","Scorer",753,84
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:40:02","F1",754,84
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:40:02","FK2",755,84
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:40:02","DFK2",756,84
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:40:02","Ball Position",757,84
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:40:45","Restart",758,84
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:40:47","SHG2",759,84
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:40:50","POSSIBLE_TI",760,85
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:40:51","TI2",761,85
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:40:56","Restart",762,85
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:41:24","SAFE2",763,85
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:41:33","AT2",764,85
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:41:38","DANGER2",765,85
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:41:38","DAT2",766,85
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:41:47","SAFE1",767,85
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:41:48","POSSIBLE_TI",768,85
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:41:48","TI1",769,85
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:42:16","SUB1",770,86
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:42:18","Scorer",771,86
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:42:18","Player_DATA_CONFIRMED",772,86
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:42:41","Restart",773,86
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:42:49","AT1",774,86
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:42:59","Player_DATA_CONFIRMED",775,87
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:42:59","SAFE2",776,87
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:43:02","CLS",777,87
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:43:03","SAFE1",778,87
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:43:12","AT1",779,87
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:43:24","SAFE2",780,87
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:43:29","AT2",781,87
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:43:43","SAFE2",782,87
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:43:49","AT2",783,88
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:43:55","DANGER2",784,88
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:43:55","DAT2",785,88
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:44:08","GOAL2",786,88
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:44:15","Scorer",787,88
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:44:22","CONF_GOAL2",788,88
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:44:44","SUB1",789,88
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:44:56","KO1",790,89
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:44:56","SAFE1",791,89
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:45:04","AT1",792,89
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:45:08","Possible Free Kick",793,89
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:45:09","SAFE2",795,89
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:45:09","F1",796,89
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:45:09","FK2",797,89
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:45:09","Ball Position",798,89
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:45:12","Restart",799,89
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:45:19","AT2",800,89
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:45:27","DANGER2",801,89
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:45:27","DAT2",802,89
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:45:39","SAFE1",803,89
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:45:43","POSSIBLE_CARDS",804,89
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:45:43","PRC",805,89
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:45:43","Danger",806,89
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:45:46","Possible Free Kick",807,89
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:45:52","YC2",809,90
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:45:56","CONF_YC2",810,90
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:45:59","Scorer",811,90
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:46:00","No RC",812,90
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:46:04","F2",813,90
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:46:04","FK1",814,90
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:46:04","DFK1",815,90
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:46:04","Ball Position",816,90
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:46:28","Restart",817,90
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:46:29","Player_DATA_CONFIRMED",818,90
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:46:29","Assist",819,90
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:46:36","AT1",820,90
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:46:40","SAFE2",821,90
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:46:43","AT2",822,90
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:46:46","DANGER2",823,90
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:46:46","DAT2",824,90
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:46:55","Extra Time",825,91
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:47:06","SAFE1",826,91
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:47:18","POSSIBLE_TI",827,91
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:47:19","TI1",828,91
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:47:22","SUB_UPDATE",829,91
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:47:22","Player_DATA_CONFIRMED",830,91
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:47:32","Restart",831,91
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:47:41","AT1",832,91
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:47:46","DANGER1",833,91
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:47:46","DAT1",834,91
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:47:58","Player_DATA_CONFIRMED",835,92
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:48:01","BLOCKED1",836,92
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:48:09","SAFE1",837,92
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:48:17","AT1",838,92
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:48:23","SAFE2",839,92
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:48:41","AT2",840,92
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:48:44","DANGER2",841,92
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:48:44","DAT2",842,92
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:48:54","SAFE1",843,93
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:48:57","AT1",844,93
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:48:59","DANGER1",845,93
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:48:59","DAT1",846,93
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:49:00","PCR1",847,93
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:49:02","CR1",848,93
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:49:03","Ball Position",849,93
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:49:38","Restart",850,93
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:49:46","Possible Free Kick",851,93
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:49:47","SAFE2",853,93
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:49:47","F1",854,93
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:49:47","FK2",855,93
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:49:47","Ball Position",856,93
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:49:57","Restart",857,94
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:50:04","AT2",858,94
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:50:13","DANGER2",859,94
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:50:13","DAT2",860,94
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:50:25","SHG2",861,94
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:50:25","SAFE1",862,94
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:50:44","AT1",863,94
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:50:48","SAFE1",864,94
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:50:58","Stop RT2",865,94
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:50:58","Stop Game",866,94
+904365,"Southampton FC","Arsenal FC","12/10/2017 13:51:03","CONF_PERIOD_SCORE",867,94

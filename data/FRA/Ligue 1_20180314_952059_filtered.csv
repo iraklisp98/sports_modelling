@@ -1,0 +1,811 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 15:10:40","Lineup changed",0,0
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 15:10:55","Transmission Online",1,0
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 15:10:55","Scout in Stadion",2,0
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 15:22:40","GCC",3,0
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 15:53:02","GCC",4,0
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 15:57:06","Players are coming out",5,0
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 15:57:41","Jersey Changed",6,0
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 15:57:41","Jersey Changed",7,0
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 15:57:43","Players lined up",8,0
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 15:58:02","Shake hands",9,0
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 15:58:39","Flip coin",10,0
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 15:59:47","Game about to start",11,0
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:00:08","Start RT1 Team 1",12,1
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:00:31","AT1",13,1
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:00:38","DANGER1",14,1
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:00:38","DAT1",15,1
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:00:41","POSSIBLE_TI",16,1
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:00:41","TI1",17,1
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:00:42","Restart",18,1
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:00:55","POSSIBLE_TI",19,1
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:00:58","TI1",20,1
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:01:01","Restart",21,1
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:01:03","POSSIBLE_TI",22,1
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:01:04","TI1",23,1
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:01:09","Restart",24,2
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:01:30","PCR1",25,2
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:01:36","NCR1",26,2
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:01:37","POSSIBLE_TI",27,2
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:01:38","TI1",28,2
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:01:39","Restart",29,2
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:02:01","SAFE2",30,2
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:02:06","AT2",31,2
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:02:14","SAFE1",32,3
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:02:15","AT1",33,3
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:02:20","POSSIBLE_TI",34,3
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:02:22","TI2",35,3
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:02:25","Restart",36,3
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:02:29","SAFE2",37,3
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:02:31","AT2",38,3
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:02:33","SAFE1",39,3
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:02:41","AT1",40,3
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:02:53","DANGER1",41,3
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:02:53","DAT1",42,3
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:02:58","Possible Free Kick",43,3
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:03:02","SAFE2",45,3
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:03:02","O1",46,3
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:03:02","FK2",47,3
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:03:02","Ball Position",48,3
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:03:23","Restart",49,4
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:03:24","AT2",50,4
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:03:33","POSSIBLE_TI",51,4
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:03:33","TI1",52,4
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:03:36","Restart",53,4
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:03:46","Possible Free Kick",54,4
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:03:51","F1",56,4
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:03:51","FK2",57,4
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:03:51","DANGER2",58,4
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:03:51","DFK2",59,4
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:03:51","Ball Position",60,4
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:04:20","Restart",61,5
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:04:29","SHB2",62,5
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:04:29","SAFE1",63,5
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:04:30","GK1",64,5
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:04:40","Restart",65,5
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:04:57","AT1",66,5
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:05:08","SAFE2",67,5
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:05:09","AT2",68,6
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:05:12","DANGER2",69,6
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:05:12","DAT2",70,6
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:05:14","SAFE1",71,6
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:05:31","AT1",72,6
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:05:32","DANGER1",73,6
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:05:32","DAT1",74,6
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:05:42","SAFE2",75,6
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:05:46","SAFE1",76,6
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:05:47","AT1",77,6
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:05:51","DANGER1",78,6
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:05:51","DAT1",79,6
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:06:01","SAFE2",80,6
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:06:02","AT2",81,6
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:06:05","DANGER2",82,6
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:06:05","DAT2",83,6
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:06:12","SHG2",84,7
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:06:12","SAFE1",85,7
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:06:40","AT1",86,7
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:06:41","SAFE2",87,7
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:06:44","AT2",88,7
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:06:49","DANGER2",89,7
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:06:49","DAT2",90,7
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:06:56","PPEN",91,7
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:06:56","PPEN2",92,7
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:07:01","No PEN",93,7
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:07:02","PCR2",94,7
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:07:06","CR2",95,7
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:07:08","Ball Position",96,7
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:07:30","Restart",97,8
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:07:35","Time Correction",98,8
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:07:48","SAFE1",99,8
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:08:05","AT1",100,8
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:08:09","SAFE2",101,9
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:08:10","AT2",102,9
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:08:13","DANGER2",103,9
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:08:13","DAT2",104,9
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:08:19","SHG2",105,9
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:08:19","SAFE1",106,9
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:08:39","AT1",107,9
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:08:51","DANGER1",108,9
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:08:51","DAT1",109,9
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:08:56","PCR1",110,9
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:09:00","SHG1",111,9
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:09:00","CR1",112,9
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:09:03","Ball Position",113,9
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:09:19","Restart",114,10
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:09:31","POSSIBLE_TI",115,10
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:09:34","TI1",116,10
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:09:40","Restart",117,10
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:09:40","PCR1",118,10
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:09:47","CR1",119,10
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:09:47","Ball Position",120,10
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:09:48","Restart",121,10
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:09:59","PCR1",122,10
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:10:01","NCR1",123,10
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:10:02","SAFE2",124,10
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:10:03","GK2",125,10
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:10:28","Restart",126,11
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:10:31","SAFE1",127,11
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:10:31","AT1",128,11
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:11:02","SAFE2",129,11
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:11:09","AT2",130,12
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:11:12","SAFE1",131,12
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:11:20","AT1",132,12
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:11:26","DANGER1",133,12
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:11:26","DAT1",134,12
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:11:29","GOAL1",135,12
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:12:00","CONF_GOAL1",136,12
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:12:23","Scorer",137,13
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:12:23","KO2",138,13
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:12:23","SAFE2",139,13
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:12:28","AT2",140,13
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:12:34","Scorer",141,13
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:12:35","Player_DATA_CONFIRMED",142,13
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:12:35","Assist",143,13
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:12:45","SAFE1",144,13
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:12:47","AT1",145,13
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:12:50","DANGER1",146,13
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:12:50","DAT1",147,13
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:12:55","POSSIBLE_TI",148,13
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:12:58","TI2",149,13
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:13:13","Restart",150,14
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:13:16","POSSIBLE_TI",151,14
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:13:19","TI1",152,14
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:13:24","Restart",153,14
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:13:41","SAFE2",154,14
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:13:42","AT2",155,14
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:13:43","SAFE1",156,14
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:13:52","AT1",157,14
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:14:07","Possible Free Kick",158,14
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:14:24","POSSIBLE_CARDS",160,15
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:14:31","Injury Break",161,15
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:14:37","SAFE2",162,15
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:14:37","Restart",163,15
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:14:37","F1",164,15
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:14:37","FK2",165,15
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:14:37","Ball Position",166,15
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:15:52","PRC",167,16
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:15:52","Danger",168,16
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:15:57","RC1",169,16
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:16:10","CONF_RC1",170,17
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:16:27","Scorer",171,17
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:16:54","System Message",172,17
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:16:54","Game suspended",173,17
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:17:04","Player_DATA_CONFIRMED",174,17
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:17:51","Restart",175,18
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:17:53","AT2",176,18
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:18:04","SAFE1",177,18
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:18:31","AT1",178,19
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:19:22","DANGER1",179,20
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:19:22","DAT1",180,20
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:19:25","SAFE2",181,20
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:19:25","GK2",182,20
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:19:51","Restart",183,20
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:19:54","AT2",184,20
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:20:04","Possible Free Kick",185,20
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:20:07","SAFE1",187,20
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:20:07","F2",188,20
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:20:07","FK1",189,20
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:20:07","Ball Position",190,20
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:20:07","Restart",191,20
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:20:15","AT1",192,21
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:20:43","POSSIBLE_TI",193,21
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:20:43","TI2",194,21
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:20:52","Restart",195,21
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:21:04","SAFE2",196,21
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:21:04","AT2",197,21
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:21:06","SAFE1",198,21
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:21:35","AT1",199,22
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:21:39","DANGER1",200,22
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:21:39","DAT1",201,22
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:21:43","SAFE2",202,22
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:22:02","AT2",203,22
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:22:10","DANGER2",204,23
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:22:10","DAT2",205,23
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:22:12","SAFE1",206,23
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:22:38","AT1",207,23
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:22:38","DANGER1",208,23
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:22:38","DAT1",209,23
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:22:41","SAFE2",210,23
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:22:44","AT2",211,23
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:22:57","POSSIBLE_TI",212,23
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:22:58","TI2",213,23
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:23:01","Restart",214,23
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:23:15","System Message",215,24
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:23:28","DANGER2",216,24
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:23:28","DAT2",217,24
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:23:34","SAFE1",218,24
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:23:55","AT1",219,24
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:23:59","DANGER1",220,24
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:23:59","DAT1",221,24
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:24:01","POSSIBLE_TI",222,24
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:24:02","TI2",223,24
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:24:16","Restart",224,25
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:24:23","POSSIBLE_TI",225,25
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:24:26","TI1",226,25
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:24:32","Restart",227,25
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:24:54","GOAL1",228,25
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:25:01","Scorer",229,25
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:25:38","CONF_GOAL1",230,26
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:25:48","KO2",231,26
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:25:48","SAFE2",232,26
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:26:09","AT2",233,27
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:26:15","SAFE1",234,27
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:26:18","AT1",235,27
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:26:19","SAFE2",236,27
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:26:20","AT2",237,27
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:26:38","DANGER2",238,27
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:26:38","DAT2",239,27
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:26:41","PCR2",240,27
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:26:45","CR2",241,27
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:26:46","Ball Position",242,27
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:27:09","Restart",243,28
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:27:18","SHB2",244,28
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:27:19","SAFE1",245,28
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:27:19","GK1",246,28
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:27:35","Player_DATA_CONFIRMED",247,28
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:27:35","Restart",248,28
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:27:35","Assist",249,28
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:27:56","AT1",250,28
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:27:56","DANGER1",251,28
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:27:56","DAT1",252,28
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:27:57","CLS",253,28
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:27:57","AT1",254,28
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:28:05","SAFE2",255,28
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:28:06","Possible Free Kick",256,28
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:28:08","No Free Kick",258,28
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:28:09","AT2",259,29
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:28:12","DANGER2",260,29
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:28:12","DAT2",261,29
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:28:15","PCR2",262,29
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:28:17","SHG2",263,29
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:28:17","CR2",264,29
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:28:19","Ball Position",265,29
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:28:41","Restart",266,29
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:29:13","SAFE2",267,30
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:29:16","AT2",268,30
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:29:21","POSSIBLE_TI",269,30
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:29:22","TI2",270,30
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:29:28","Restart",271,30
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:29:42","DANGER2",272,30
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:29:42","DAT2",273,30
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:30:34","SAFE2",274,31
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:30:55","AT2",275,31
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:30:59","DANGER2",276,31
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:30:59","DAT2",277,31
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:31:19","SAFE1",278,32
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:31:30","AT1",279,32
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:31:37","DANGER1",280,32
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:31:37","DAT1",281,32
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:31:50","SAFE2",282,32
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:31:53","AT2",283,32
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:31:54","SAFE1",284,32
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:31:55","AT1",285,32
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:32:01","Possible Free Kick",286,32
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:32:07","F2",288,32
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:32:07","FK1",289,32
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:32:07","DANGER1",290,32
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:32:07","DFK1",291,32
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:32:07","Ball Position",292,32
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:32:29","Restart",293,33
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:32:34","Possible Free Kick",294,33
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:32:35","F2",296,33
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:32:35","FK1",297,33
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:32:35","DFK1",298,33
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:32:35","Ball Position",299,33
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:32:35","POSSIBLE_CARDS",300,33
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:32:56","YC2",301,33
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:32:57","CONF_YC2",302,33
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:33:00","Scorer",303,33
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:33:27","Restart",304,34
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:33:33","SAFE2",305,34
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:33:33","GK2",306,34
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:33:53","Restart",307,34
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:34:03","AT2",308,34
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:34:04","DANGER2",309,34
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:34:04","DAT2",310,34
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:34:04","Player_DATA_CONFIRMED",311,34
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:34:05","Possible Free Kick",312,34
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:34:07","SAFE1",314,34
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:34:07","O2",315,34
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:34:07","FK1",316,34
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:34:07","Ball Position",317,34
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:34:14","Restart",318,35
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:34:29","SAFE2",319,35
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:34:30","AT2",320,35
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:34:34","DANGER2",321,35
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:34:34","DAT2",322,35
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:34:41","PCR2",323,35
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:34:45","SHB2",324,35
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:34:46","NCR2",325,35
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:34:46","SAFE1",326,35
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:34:47","GK1",327,35
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:35:01","Restart",328,35
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:35:08","POSSIBLE_TI",329,36
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:35:10","TI1",330,36
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:35:19","Restart",331,36
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:35:45","AT1",332,36
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:35:45","DANGER1",333,36
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:35:45","DAT1",334,36
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:35:50","SHG1",335,36
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:35:51","SAFE2",336,36
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:36:08","GK2",337,37
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:36:25","Restart",338,37
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:36:29","AT2",339,37
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:36:32","POSSIBLE_TI",340,37
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:36:33","TI2",341,37
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:36:38","Restart",342,37
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:37:01","DANGER2",343,37
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:37:01","DAT2",344,37
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:37:10","SAFE1",345,38
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:37:14","Referee Ball",346,38
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:37:57","Restart",347,38
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:38:11","SAFE2",348,39
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:38:11","AT2",349,39
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:38:16","POSSIBLE_TI",350,39
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:38:17","TI1",351,39
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:38:30","Restart",352,39
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:38:31","SAFE2",353,39
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:38:43","AT2",354,39
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:38:48","Possible Free Kick",355,39
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:38:55","SAFE2",357,39
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:38:55","F1",358,39
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:38:55","FK2",359,39
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:38:55","Ball Position",360,39
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:38:58","Restart",361,39
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:39:06","AT2",362,39
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:39:07","DANGER2",363,39
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:39:07","DAT2",364,39
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:39:20","POSSIBLE_TI",365,40
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:39:21","TI1",366,40
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:39:22","SAFE1",367,40
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:39:28","Restart",368,40
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:39:45","Possible Free Kick",369,40
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:39:46","F2",371,40
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:39:46","FK1",372,40
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:39:46","Ball Position",373,40
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:39:55","Restart",374,40
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:40:30","SAFE2",375,41
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:40:30","AT2",376,41
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:40:33","DANGER2",377,41
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:40:33","DAT2",378,41
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:40:39","PCR2",379,41
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:40:41","NCR2",380,41
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:40:42","SAFE1",381,41
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:40:42","GK1",382,41
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:40:49","Restart",383,41
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:41:28","AT1",384,42
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:41:47","DANGER1",385,42
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:41:47","DAT1",386,42
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:41:57","Possible Free Kick",387,42
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:42:01","SAFE2",389,42
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:42:01","O1",390,42
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:42:01","FK2",391,42
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:42:01","Ball Position",392,42
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:42:26","Restart",393,43
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:42:35","AT2",394,43
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:42:37","POSSIBLE_TI",395,43
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:42:38","TI1",396,43
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:42:52","Restart",397,43
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:43:02","SAFE1",398,43
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:43:03","AT1",399,43
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:43:04","SAFE2",400,43
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:43:28","AT2",401,44
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:43:31","DANGER2",402,44
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:43:31","DAT2",403,44
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:43:34","POSSIBLE_TI",404,44
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:43:34","TI2",405,44
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:43:41","Restart",406,44
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:44:05","SAFE1",407,44
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:44:05","AT1",408,44
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:44:06","DANGER1",409,44
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:44:06","DAT1",410,44
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:44:15","SAFE2",411,45
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:44:17","AT2",412,45
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:44:21","SAFE1",413,45
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:44:57","AT1",414,45
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:45:13","Extra Time",415,46
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:45:23","SAFE2",416,46
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:45:25","AT2",417,46
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:45:48","SAFE1",418,46
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:45:48","AT1",419,46
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:45:57","DANGER1",420,46
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:45:57","DAT1",421,46
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:46:04","SHG1",422,46
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:46:05","SAFE2",423,46
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:46:09","Stop RT1",424,46
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 16:46:15","CONF_PERIOD_SCORE",425,45
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:00:32","Players are coming out",426,45
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:01:38","Game about to start",427,45
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:02:14","Start RT2 Team 2",428,46
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:02:27","AT2",429,46
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:02:34","SAFE1",430,46
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:02:35","GK1",431,46
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:02:53","Restart",432,46
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:03:22","AT1",433,47
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:04:37","SAFE2",434,48
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:04:37","AT2",435,48
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:05:16","DANGER2",436,49
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:05:16","DAT2",437,49
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:05:28","SAFE1",438,49
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:05:41","Possible Free Kick",439,49
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:05:52","F1",442,49
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:05:52","FK2",443,49
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:05:52","DANGER2",444,49
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:05:52","DFK2",445,49
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:05:52","Ball Position",446,49
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:06:13","Restart",447,49
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:06:26","Possible Free Kick",448,50
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:06:27","SAFE1",450,50
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:06:27","F2",451,50
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:06:27","FK1",452,50
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:06:27","Ball Position",453,50
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:06:29","Restart",454,50
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:06:30","AT1",455,50
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:06:33","DANGER1",456,50
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:06:33","DAT1",457,50
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:07:01","SAFE2",458,50
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:07:02","AT2",459,50
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:07:04","DANGER2",460,50
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:07:04","DAT2",461,50
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:07:31","SAFE1",462,51
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:07:38","AT1",463,51
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:07:50","DANGER1",464,51
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:07:50","DAT1",465,51
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:07:52","SAFE2",466,51
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:08:26","SAFE1",467,52
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:08:53","SAFE2",468,52
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:08:54","AT2",469,52
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:09:17","DANGER2",470,53
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:09:17","DAT2",471,53
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:09:22","SAFE1",472,53
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:09:31","AT1",473,53
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:09:39","DANGER1",474,53
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:09:39","DAT1",475,53
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:09:43","SAFE2",476,53
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:09:44","GK2",477,53
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:10:04","Restart",478,53
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:10:19","AT2",479,54
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:10:36","DANGER2",480,54
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:10:36","DAT2",481,54
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:11:00","SAFE1",482,54
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:11:02","AT1",483,54
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:11:03","DANGER1",484,54
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:11:03","DAT1",485,54
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:11:09","BLOCKED1",486,54
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:11:10","SAFE2",487,54
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:11:19","AT1",488,55
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:11:20","DANGER1",489,55
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:11:20","DAT1",490,55
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:11:26","SHB1",491,55
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:11:26","SAFE2",492,55
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:11:27","GK2",493,55
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:11:46","Restart",494,55
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:11:48","AT2",495,55
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:12:06","DANGER2",496,55
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:12:06","DAT2",497,55
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:12:24","SHG2",498,56
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:12:24","SAFE1",499,56
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:13:00","AT1",500,56
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:13:17","SAFE2",501,57
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:13:23","AT2",502,57
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:13:28","DANGER2",503,57
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:13:28","DAT2",504,57
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:13:32","SAFE1",505,57
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:13:33","AT1",506,57
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:13:38","DANGER1",507,57
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:13:38","DAT1",508,57
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:13:50","Possible Free Kick",509,57
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:13:51","SAFE2",511,57
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:13:51","F1",512,57
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:13:51","FK2",513,57
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:13:51","Ball Position",514,57
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:13:52","POSSIBLE_CARDS",515,57
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:14:05","YC1",516,57
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:14:08","CONF_YC1",517,57
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:14:09","Scorer",518,57
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:14:37","SUB1",519,58
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:14:55","SUB2",520,58
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:15:04","SUB2",521,58
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:15:05","Scorer",522,58
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:15:05","Player_DATA_CONFIRMED",523,58
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:15:21","Restart",524,59
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:15:42","AT2",525,59
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:15:45","SAFE1",526,59
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:15:46","AT1",527,59
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:15:56","Possible Free Kick",528,59
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:16:00","F2",530,59
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:16:00","FK1",531,59
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:16:00","DANGER1",532,59
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:16:00","DFK1",533,59
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:16:00","Ball Position",534,59
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:16:10","Restart",535,59
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:17:09","SAFE2",536,60
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:17:30","AT2",537,61
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:17:34","DANGER2",538,61
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:17:34","DAT2",539,61
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:17:35","Player_DATA_CONFIRMED",540,61
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:17:49","PCR2",541,61
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:18:00","SHG2",542,61
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:18:01","CR2",543,61
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:18:02","Ball Position",544,61
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:18:13","Player_DATA_CONFIRMED",545,61
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:18:13","Player_DATA_CONFIRMED",546,61
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:18:19","Restart",547,62
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:18:59","PCR2",548,62
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:19:05","NCR2",549,62
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:19:05","SAFE1",550,62
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:19:06","GK1",551,62
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:19:09","Restart",552,62
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:19:40","AT1",553,63
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:20:11","DANGER1",554,63
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:20:11","DAT1",555,63
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:20:17","GOAL1",556,64
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:20:23","CGOAL1",557,64
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:20:24","Possible Free Kick",558,64
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:20:27","SAFE2",560,64
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:20:27","O1",561,64
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:20:27","FK2",562,64
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:20:27","Ball Position",563,64
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:20:46","Restart",564,64
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:20:59","AT2",565,64
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:21:03","SAFE1",566,64
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:21:08","SAFE2",567,64
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:21:08","AT2",568,64
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:21:09","POSSIBLE_TI",569,64
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:21:10","TI2",570,64
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:21:11","Restart",571,64
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:21:14","DANGER2",572,65
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:21:14","DAT2",573,65
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:21:15","PCR2",574,65
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:21:18","CR2",575,65
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:21:19","Ball Position",576,65
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:21:36","Restart",577,65
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:21:47","SHB2",578,65
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:21:48","SAFE1",579,65
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:21:48","GK1",580,65
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:22:09","Restart",581,65
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:22:21","AT1",582,66
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:22:25","DANGER1",583,66
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:22:25","DAT1",584,66
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:22:30","PCR1",585,66
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:22:32","CR1",586,66
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:22:33","Ball Position",587,66
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:22:47","Restart",588,66
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:23:04","PCR1",589,66
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:23:12","CR1",590,66
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:23:15","Ball Position",591,67
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:23:16","Restart",592,67
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:23:28","Possible Free Kick",593,67
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:23:31","SAFE2",595,67
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:23:31","O1",596,67
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:23:31","FK2",597,67
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:23:31","Ball Position",598,67
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:24:16","SUB1",599,68
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:24:31","Restart",600,68
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:24:39","AT2",601,68
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:24:48","Possible Free Kick",602,68
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:25:05","SAFE1",606,68
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:25:05","O2",607,68
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:25:05","FK1",608,68
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:25:05","Ball Position",609,68
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:25:07","Restart",610,68
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:25:31","AT1",611,69
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:26:34","Player_DATA_CONFIRMED",612,70
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:26:44","DANGER1",613,70
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:26:44","DAT1",614,70
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:26:46","PCR1",615,70
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:26:51","CR1",616,70
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:26:56","Ball Position",617,70
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:27:04","Restart",618,70
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:27:13","SHG1",619,70
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:27:18","PCR1",620,71
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:27:20","SHG1",621,71
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:27:21","CR1",622,71
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:27:23","Ball Position",623,71
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:27:30","Restart",624,71
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:27:53","SHB1",625,71
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:27:53","SAFE2",626,71
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:27:54","GK2",627,71
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:28:06","Restart",628,71
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:28:18","AT2",629,72
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:28:21","DANGER2",630,72
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:28:21","DAT2",631,72
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:28:22","PCR2",632,72
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:28:28","CR2",633,72
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:28:29","Ball Position",634,72
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:28:42","Restart",635,72
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:28:48","SHG2",636,72
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:28:51","SAFE1",637,72
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:28:51","GK1",638,72
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:28:58","Restart",639,72
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:30:00","AT1",640,73
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:30:02","Possible Free Kick",641,73
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:30:10","F2",643,73
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:30:10","FK1",644,73
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:30:10","DANGER1",645,73
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:30:10","DFK1",646,73
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:30:10","Ball Position",647,73
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:30:14","Restart",648,74
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:30:17","SAFE2",649,74
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:30:19","AT2",650,74
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:30:35","POSSIBLE_TI",651,74
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:30:36","TI1",652,74
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:30:38","Restart",653,74
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:30:46","SAFE1",654,74
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:31:06","AT1",655,74
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:31:24","DANGER1",656,75
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:31:24","DAT1",657,75
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:31:39","SAFE2",658,75
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:31:40","AT2",659,75
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:31:45","DANGER2",660,75
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:31:45","DAT2",661,75
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:31:48","GOAL2",662,75
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:32:10","CONF_GOAL2",663,75
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:32:35","SUB1",664,76
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:32:36","Scorer",665,76
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:32:36","KO1",666,76
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:32:36","SAFE1",667,76
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:33:17","AT1",668,77
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:33:24","SAFE2",669,77
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:33:29","AT2",670,77
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:33:35","Player_DATA_CONFIRMED",671,77
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:33:35","Scorer",672,77
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:33:35","Player_DATA_CONFIRMED",673,77
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:33:35","Assist",674,77
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:33:39","SAFE1",675,77
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:33:44","AT1",676,77
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:34:14","Possible Free Kick",677,78
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:34:18","SAFE1",679,78
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:34:18","F2",680,78
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:34:18","FK1",681,78
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:34:18","Ball Position",682,78
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:34:33","SUB2",683,78
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:34:45","Restart",684,78
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:34:52","AT1",685,78
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:35:06","DANGER1",686,78
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:35:06","DAT1",687,78
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:35:33","SAFE2",688,79
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:35:37","Possible Free Kick",689,79
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:35:39","F2",691,79
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:35:39","FK1",692,79
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:35:39","DANGER1",693,79
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:35:39","DFK1",694,79
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:35:39","Ball Position",695,79
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:35:48","POSSIBLE_CARDS",696,79
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:35:58","System Message",697,79
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:36:13","Restart",698,79
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:36:34","SUB_UPDATE",699,80
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:36:34","Player_DATA_CONFIRMED",700,80
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:36:34","Possible Free Kick",701,80
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:36:34","F2",703,80
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:36:34","FK1",704,80
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:36:34","DFK1",705,80
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:36:34","Ball Position",706,80
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:36:37","YC2",707,80
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:36:37","CONF_YC2",708,80
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:36:38","Scorer",709,80
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:37:00","Restart",710,80
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:37:05","Scorer",711,80
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:37:05","Player_DATA_CONFIRMED",712,80
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:37:14","SHG1",713,81
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:37:14","SAFE2",714,81
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:37:15","GK2",715,81
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:37:28","Restart",716,81
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:37:32","AT2",717,81
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:37:42","DANGER2",718,81
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:37:42","DAT2",719,81
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:37:47","PCR2",720,81
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:37:58","CR2",721,81
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:37:58","Ball Position",722,81
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:38:06","Restart",723,81
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:38:10","SHB2",724,81
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:38:12","SAFE1",725,81
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:38:12","GK1",726,81
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:38:47","Restart",727,82
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:39:02","AT1",728,82
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:39:11","SAFE2",729,82
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:39:12","AT2",730,82
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:39:20","SAFE1",731,83
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:39:21","AT1",732,83
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:39:26","DANGER1",733,83
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:39:26","DAT1",734,83
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:39:48","SAFE2",735,83
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:39:49","AT2",736,83
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:39:52","SAFE1",737,83
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:40:04","SAFE1",738,83
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:40:05","AT1",739,83
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:40:08","DANGER1",740,83
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:40:08","DAT1",741,83
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:40:10","SHW1",742,83
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:40:20","System Message",743,84
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:40:32","SAFE2",744,84
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:40:33","AT2",745,84
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:40:33","DANGER2",746,84
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:40:33","DAT2",747,84
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:40:41","SHB2",748,84
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:40:51","SHB2",749,84
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:40:55","SAFE1",750,84
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:40:55","GK1",751,84
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:41:22","Restart",752,85
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:41:41","AT1",753,85
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:41:43","DANGER1",754,85
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:41:43","DAT1",755,85
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:41:52","Possible Free Kick",756,85
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:41:56","SAFE2",758,85
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:41:56","F1",759,85
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:41:56","FK2",760,85
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:41:56","Ball Position",761,85
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:42:23","Restart",762,86
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:42:30","AT2",763,86
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:42:34","DANGER2",764,86
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:42:34","DAT2",765,86
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:42:35","PCR2",766,86
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:42:38","CR2",767,86
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:42:39","Ball Position",768,86
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:42:59","Restart",769,86
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:43:11","PCR2",770,86
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:43:27","NCR2",771,87
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:43:28","Possible Free Kick",772,87
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:43:28","SAFE1",774,87
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:43:29","F2",775,87
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:43:29","FK1",776,87
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:43:29","Ball Position",777,87
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:43:35","Restart",778,87
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:43:42","AT1",779,87
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:44:01","SAFE2",780,87
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:44:02","AT2",781,87
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:44:05","DANGER2",782,87
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:44:05","DAT2",783,87
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:44:08","SHG2",784,87
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:44:09","SAFE1",785,87
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:44:54","AT1",786,88
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:44:59","DANGER1",787,88
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:44:59","DAT1",788,88
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:45:02","PCR1",789,88
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:45:05","CR1",790,88
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:45:06","Ball Position",791,88
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:45:28","Restart",792,89
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:45:35","SHB1",793,89
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:45:35","SAFE2",794,89
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:45:36","GK2",795,89
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:45:42","Restart",796,89
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:45:49","AT2",797,89
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:45:53","Possible Free Kick",798,89
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:45:59","F1",800,89
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:45:59","FK2",801,89
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:45:59","DANGER2",802,89
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:45:59","DFK2",803,89
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:45:59","Ball Position",804,89
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:46:00","Restart",805,89
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:46:31","SHG2",806,90
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:46:36","POSSIBLE_TI",807,90
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:46:37","TI2",808,90
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:46:42","Restart",809,90
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:47:04","SAFE1",810,90
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:47:12","AT1",811,90
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:47:12","DANGER1",812,90
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:47:12","DAT1",813,90
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:47:14","CLS",814,91
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:47:15","AT1",815,91
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:47:15","SAFE2",816,91
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:47:24","Extra Time",817,91
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:47:25","AT2",818,91
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:47:26","DANGER2",819,91
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:47:26","DAT2",820,91
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:47:58","SAFE1",821,91
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:47:59","AT1",822,91
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:48:00","DANGER1",823,91
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:48:00","DAT1",824,91
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:48:06","SAFE2",825,91
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:48:12","AT2",826,91
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:48:23","DANGER2",827,92
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:48:23","DAT2",828,92
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:48:27","SHG2",829,92
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:48:32","POSSIBLE_TI",830,92
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:48:33","TI2",831,92
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:48:36","Restart",832,92
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:48:58","SAFE1",833,92
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:49:14","AT1",834,93
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:49:16","Stop RT2",835,93
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:49:16","Stop Game",836,93
+952059,"Paris Saint-Germain FC","Angers SCO","03/14/2018 17:49:21","CONF_PERIOD_SCORE",837,92

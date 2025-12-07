@@ -1,0 +1,923 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1059832,"SM Caen","Toulouse FC","12/18/2018 17:40:27","Lineup changed",0,0
+1059832,"SM Caen","Toulouse FC","12/18/2018 17:40:52","Transmission Online",1,0
+1059832,"SM Caen","Toulouse FC","12/18/2018 17:40:52","Scout in Stadion",2,0
+1059832,"SM Caen","Toulouse FC","12/18/2018 17:47:19","GCC",3,0
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:24:15","GCC",4,0
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:26:21","Jersey Changed",5,0
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:26:22","Jersey Changed",6,0
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:26:23","Players are coming out",7,0
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:26:28","Players lined up",8,0
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:26:50","Shake hands",9,0
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:27:22","Flip coin",10,0
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:28:24","Minute of silent",11,0
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:29:29","Game about to start",12,0
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:29:53","Start RT1 Team 1",13,1
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:29:54","SAFE1",14,1
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:30:11","AT1",15,1
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:30:12","DANGER1",16,1
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:30:12","DAT1",17,1
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:30:33","SAFE2",18,1
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:30:38","AT2",19,1
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:30:41","Possible Free Kick",20,1
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:30:48","SAFE1",23,1
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:30:48","F2",24,1
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:30:48","FK1",25,1
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:30:48","Ball Position",26,1
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:30:49","Restart",27,1
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:31:01","POSSIBLE_TI",28,2
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:31:03","TI1",29,2
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:31:14","Restart",30,2
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:31:27","AT1",31,2
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:31:31","SAFE2",32,2
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:31:31","POSSIBLE_TI",33,2
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:31:32","TI2",34,2
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:31:46","Restart",35,2
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:31:48","SAFE1",36,2
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:31:50","AT1",37,2
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:31:56","Possible Free Kick",38,3
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:32:15","F2",40,3
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:32:15","FK1",41,3
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:32:15","DANGER1",42,3
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:32:15","DFK1",43,3
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:32:15","Ball Position",44,3
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:32:35","Restart",45,3
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:32:43","BLOCKED1",46,3
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:32:46","POSSIBLE_TI",47,3
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:32:47","TI1",48,3
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:32:49","Restart",49,3
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:32:52","POSSIBLE_TI",50,3
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:32:53","TI1",51,4
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:33:03","Restart",52,4
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:33:27","SAFE1",53,4
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:33:31","SAFE2",54,4
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:34:02","AT2",55,5
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:34:07","DANGER2",56,5
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:34:07","DAT2",57,5
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:34:19","SAFE1",58,5
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:34:20","Possible Free Kick",59,5
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:34:23","F2",61,5
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:34:23","FK1",62,5
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:34:23","Ball Position",63,5
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:34:36","Restart",64,5
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:34:59","SAFE2",65,6
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:35:00","AT2",66,6
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:35:02","DANGER2",67,6
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:35:02","DAT2",68,6
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:35:05","Possible Free Kick",69,6
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:35:08","F1",71,6
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:35:08","FK2",72,6
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:35:08","DFK2",73,6
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:35:08","Ball Position",74,6
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:36:05","Restart",75,7
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:36:09","SHG2",76,7
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:36:10","SAFE1",77,7
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:36:26","SAFE2",78,7
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:36:26","AT2",79,7
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:36:31","SAFE1",80,7
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:36:31","Possible Free Kick",81,7
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:36:33","F2",83,7
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:36:33","FK1",84,7
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:36:33","Ball Position",85,7
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:36:48","Restart",86,7
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:36:49","AT1",87,7
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:36:59","DANGER1",88,8
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:36:59","DAT1",89,8
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:37:10","SHB1",90,8
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:37:10","SAFE2",91,8
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:37:11","GK2",92,8
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:37:30","Restart",93,8
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:37:35","SAFE1",94,8
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:37:36","AT1",95,8
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:37:54","DANGER1",96,9
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:37:54","DAT1",97,9
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:37:58","POSSIBLE_TI",98,9
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:37:59","TI2",99,9
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:38:23","Injury Break",100,9
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:40:13","Restart",101,11
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:40:20","SAFE2",102,11
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:40:22","AT2",103,11
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:40:38","DANGER2",104,11
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:40:38","DAT2",105,11
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:40:53","SAFE1",106,11
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:41:09","SAFE2",107,12
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:41:10","POSSIBLE_TI",108,12
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:41:11","TI2",109,12
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:41:22","SUB1",110,12
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:41:26","Player_DATA_CONFIRMED",111,12
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:41:28","Restart",112,12
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:41:29","AT2",113,12
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:41:36","SAFE1",114,12
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:41:39","AT1",115,12
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:41:42","DANGER1",116,12
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:41:42","DAT1",117,12
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:41:45","POSSIBLE_TI",118,12
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:41:48","TI1",119,12
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:41:53","Restart",120,12
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:42:04","SAFE2",121,13
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:42:05","POSSIBLE_TI",122,13
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:42:18","TI2",123,13
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:42:19","Restart",124,13
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:42:21","AT2",125,13
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:42:22","DANGER2",126,13
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:42:22","DAT2",127,13
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:42:26","SAFE1",128,13
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:42:40","SAFE2",129,13
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:42:43","SAFE1",130,13
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:42:43","POSSIBLE_TI",131,13
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:42:48","TI1",132,13
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:42:49","Restart",133,13
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:42:54","AT1",134,14
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:43:04","DANGER1",135,14
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:43:04","DAT1",136,14
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:43:23","SAFE2",137,14
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:43:28","AT2",138,14
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:43:41","DANGER2",139,14
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:43:41","DAT2",140,14
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:44:18","POSSIBLE_TI",141,15
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:44:19","TI2",142,15
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:44:42","Restart",143,15
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:44:42","SAFE1",144,15
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:44:55","POSSIBLE_TI",145,16
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:44:55","TI1",146,16
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:45:02","Restart",147,16
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:45:18","AT1",148,16
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:45:32","SAFE2",149,16
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:45:35","AT2",150,16
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:45:41","DANGER2",151,16
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:45:41","DAT2",152,16
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:45:43","Possible Free Kick",153,16
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:46:00","F1",155,17
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:46:00","FK2",156,17
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:46:00","DFK2",157,17
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:46:00","Ball Position",158,17
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:46:32","Restart",159,17
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:46:35","SAFE1",160,17
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:46:50","AT1",161,17
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:46:54","DANGER1",162,18
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:46:54","DAT1",163,18
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:46:57","GOAL1",164,18
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:47:02","Scorer",165,18
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:47:42","CONF_GOAL1",166,18
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:47:42","KO2",167,18
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:47:42","SAFE2",168,18
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:47:49","AT2",169,18
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:47:50","DANGER2",170,18
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:47:50","DAT2",171,18
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:47:52","SAFE1",172,18
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:48:01","Player_DATA_CONFIRMED",173,19
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:48:02","SAFE2",174,19
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:48:02","AT2",175,19
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:48:02","DANGER2",176,19
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:48:02","DAT2",177,19
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:48:07","SHB2",178,19
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:48:08","SAFE1",179,19
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:48:09","GK1",180,19
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:48:38","Restart",181,19
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:48:40","AT1",182,19
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:48:51","SAFE2",183,19
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:48:52","AT2",184,19
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:48:54","POSSIBLE_TI",185,20
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:48:59","TI2",186,20
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:48:59","Restart",187,20
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:49:10","DANGER2",188,20
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:49:10","DAT2",189,20
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:49:21","POSSIBLE_TI",190,20
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:49:23","TI2",191,20
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:49:27","Restart",192,20
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:49:44","Assist",193,20
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:50:02","SAFE1",194,21
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:50:04","AT1",195,21
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:50:05","Possible Free Kick",196,21
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:50:26","Danger",198,21
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:50:26","Scout offline",199,21
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:50:52","Transmission Online",200,21
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:50:52","Start score update",201,21
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:50:52","Statistic confirmation",202,21
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:50:52","Score update finished",203,21
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:50:55","SAFE2",204,22
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:51:08","AT2",205,22
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:51:20","SAFE1",206,22
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:51:21","AT1",207,22
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:51:23","DANGER1",208,22
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:51:23","DAT1",209,22
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:51:31","PCR1",210,22
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:51:34","CR1",211,22
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:51:43","Ball Position",212,22
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:52:06","Restart",213,23
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:52:10","SHG1",214,23
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:52:11","SAFE2",215,23
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:52:38","AT2",216,23
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:52:49","DANGER2",217,23
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:52:49","DAT2",218,23
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:53:16","SAFE1",219,24
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:53:17","Possible Free Kick",220,24
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:53:18","F2",222,24
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:53:18","FK1",223,24
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:53:18","Ball Position",224,24
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:53:24","Restart",225,24
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:53:25","AT1",226,24
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:53:40","Possible Free Kick",227,24
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:53:46","F2",229,24
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:53:46","FK1",230,24
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:53:46","DANGER1",231,24
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:53:46","DFK1",232,24
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:53:46","Ball Position",233,24
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:54:04","Restart",234,25
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:54:55","SAFE2",235,26
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:55:06","AT2",236,26
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:55:10","DANGER2",237,26
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:55:10","DAT2",238,26
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:55:21","SAFE2",239,26
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:55:43","AT2",240,26
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:55:49","DANGER2",241,26
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:55:49","DAT2",242,26
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:55:54","PCR2",243,27
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:55:57","CR2",244,27
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:56:02","Ball Position",245,27
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:56:17","Restart",246,27
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:56:27","SHB2",247,27
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:56:28","SAFE1",248,27
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:56:29","GK1",249,27
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:56:54","Restart",250,28
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:56:57","AT1",251,28
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:56:58","POSSIBLE_TI",252,28
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:56:59","TI1",253,28
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:57:16","Restart",254,28
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:57:21","SAFE2",255,28
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:57:22","POSSIBLE_TI",256,28
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:57:23","TI2",257,28
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:57:33","Restart",258,28
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:57:37","AT2",259,28
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:57:42","DANGER2",260,28
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:57:42","DAT2",261,28
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:57:47","POSSIBLE_TI",262,28
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:57:50","TI2",263,28
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:57:52","Restart",264,28
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:58:01","PCR2",265,29
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:58:03","CR2",266,29
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:58:04","Ball Position",267,29
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:58:19","Restart",268,29
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:58:30","POSSIBLE_TI",269,29
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:58:31","TI2",270,29
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:58:48","Restart",271,29
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:58:54","SAFE1",272,30
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:58:55","Possible Free Kick",273,30
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:58:57","O2",275,30
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:58:57","FK1",276,30
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:58:57","Ball Position",277,30
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:59:15","Restart",278,30
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:59:19","AT1",279,30
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:59:29","DANGER1",280,30
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:59:29","DAT1",281,30
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:59:42","SAFE2",282,30
+1059832,"SM Caen","Toulouse FC","12/18/2018 18:59:53","AT2",283,30
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:00:12","DANGER2",284,31
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:00:12","DAT2",285,31
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:00:22","SAFE1",286,31
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:00:23","Possible Free Kick",287,31
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:00:25","F2",289,31
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:00:25","FK1",290,31
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:00:25","Ball Position",291,31
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:00:34","Restart",292,31
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:00:44","Possible Free Kick",293,31
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:00:45","F2",295,31
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:00:45","FK1",296,31
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:00:45","Ball Position",297,31
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:00:48","Restart",298,31
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:00:57","AT1",299,32
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:01:00","Possible Free Kick",300,32
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:01:03","F2",302,32
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:01:03","FK1",303,32
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:01:03","DANGER1",304,32
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:01:03","DFK1",305,32
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:01:03","Ball Position",306,32
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:01:31","Restart",307,32
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:01:40","SAFE2",308,32
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:01:48","SAFE1",309,32
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:01:49","POSSIBLE_TI",310,32
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:01:49","TI1",311,32
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:01:58","Restart",312,33
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:02:03","AT1",313,33
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:02:05","DANGER1",314,33
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:02:05","DAT1",315,33
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:02:15","SAFE2",316,33
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:02:17","AT2",317,33
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:02:19","DANGER2",318,33
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:02:19","DAT2",319,33
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:02:22","PCR2",320,33
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:02:30","NCR2",321,33
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:02:33","SAFE1",322,33
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:02:33","Possible Free Kick",323,33
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:02:37","O2",325,33
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:02:37","FK1",326,33
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:02:37","Ball Position",327,33
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:02:53","Restart",328,33
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:03:00","AT1",329,34
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:03:04","SAFE2",330,34
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:03:05","Possible Free Kick",331,34
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:03:06","F1",333,34
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:03:06","FK2",334,34
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:03:06","Ball Position",335,34
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:03:08","Restart",336,34
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:03:23","AT2",337,34
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:03:34","POSSIBLE_TI",338,34
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:03:35","TI2",339,34
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:03:41","Restart",340,34
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:04:00","SAFE2",341,35
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:04:19","AT2",342,35
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:04:22","DANGER2",343,35
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:04:22","DAT2",344,35
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:04:24","Possible Free Kick",345,35
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:04:25","POSSIBLE_CARDS",347,35
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:04:28","YC1",348,35
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:04:29","CONF_YC1",349,35
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:04:32","Scorer",350,35
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:04:35","F1",351,35
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:04:35","FK2",352,35
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:04:35","DFK2",353,35
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:04:35","Ball Position",354,35
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:04:50","Player_DATA_CONFIRMED",355,35
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:05:02","Restart",356,36
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:05:11","SAFE1",357,36
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:05:12","AT1",358,36
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:05:15","DANGER1",359,36
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:05:15","DAT1",360,36
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:05:19","SAFE1",361,36
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:05:28","AT1",362,36
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:05:51","Possible Free Kick",363,36
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:05:58","F2",365,37
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:05:58","FK1",366,37
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:05:58","DANGER1",367,37
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:05:58","DFK1",368,37
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:05:58","Ball Position",369,37
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:06:17","Restart",370,37
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:07:04","SAFE2",371,38
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:07:23","AT2",372,38
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:07:25","POSSIBLE_TI",373,38
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:07:38","TI2",374,38
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:07:57","Restart",375,39
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:08:04","SAFE1",376,39
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:08:05","AT1",377,39
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:08:09","SAFE2",378,39
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:08:11","POSSIBLE_TI",379,39
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:08:11","TI2",380,39
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:08:14","Restart",381,39
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:08:20","AT2",382,39
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:08:41","DANGER2",383,39
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:08:41","DAT2",384,39
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:08:53","BLOCKED2",385,39
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:11:41","PPEN",386,42
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:11:41","PPEN2",387,42
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:11:57","PEN2",388,43
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:12:16","Scorer",389,43
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:13:05","GOAL2",390,44
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:13:05","Scorer",391,44
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:13:43","CONF_GOAL2",392,44
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:13:43","KO1",393,44
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:13:43","SAFE1",394,44
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:13:57","AT1",395,45
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:14:05","DANGER1",396,45
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:14:05","DAT1",397,45
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:14:14","Player_DATA_CONFIRMED",398,45
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:14:15","SAFE2",399,45
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:14:17","GK2",400,45
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:14:33","Restart",401,45
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:14:41","SAFE1",402,45
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:14:42","AT1",403,45
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:14:42","DANGER1",404,45
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:14:42","DAT1",405,45
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:14:53","POSSIBLE_TI",406,46
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:14:55","TI1",407,46
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:14:58","Extra Time",408,46
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:15:13","Restart",409,46
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:15:21","POSSIBLE_TI",410,46
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:15:23","TI1",411,46
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:15:33","Restart",412,46
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:15:45","Possible Free Kick",413,46
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:16:04","F2",415,47
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:16:04","FK1",416,47
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:16:04","DFK1",417,47
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:16:04","Ball Position",418,47
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:16:44","Restart",419,47
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:16:50","BLOCKED1",420,47
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:16:53","SAFE2",421,47
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:16:53","AT2",422,47
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:16:58","SAFE1",423,48
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:16:59","AT1",424,48
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:17:03","SAFE2",425,48
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:17:04","Possible Free Kick",426,48
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:17:07","O1",428,48
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:17:07","FK2",429,48
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:17:07","Ball Position",430,48
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:17:31","Restart",431,48
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:17:31","AT2",432,48
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:17:40","DANGER2",433,48
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:17:40","DAT2",434,48
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:17:45","SAFE1",435,48
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:17:45","Possible Free Kick",436,48
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:17:58","No Free Kick",438,49
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:18:03","Stop RT1",439,49
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:18:10","CONF_PERIOD_SCORE",440,45
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:30:49","Players are coming out",441,45
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:32:09","Game about to start",442,45
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:32:51","Start RT2 Team 2",443,46
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:32:55","SAFE2",444,46
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:32:57","AT2",445,46
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:33:02","POSSIBLE_TI",446,46
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:33:06","TI2",447,46
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:33:08","Restart",448,46
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:33:18","DANGER2",449,46
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:33:18","DAT2",450,46
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:33:23","SAFE2",451,46
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:33:41","SAFE1",452,46
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:33:42","POSSIBLE_TI",453,46
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:33:42","TI1",454,46
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:33:52","Restart",455,47
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:34:12","AT1",456,47
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:34:14","DANGER1",457,47
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:34:14","DAT1",458,47
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:34:15","POSSIBLE_TI",459,47
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:34:17","TI2",460,47
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:34:18","Restart",461,47
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:34:47","POSSIBLE_TI",462,47
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:34:47","TI1",463,47
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:34:50","Restart",464,47
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:35:07","SAFE1",465,48
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:35:15","AT1",466,48
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:35:18","DANGER1",467,48
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:35:18","DAT1",468,48
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:35:20","POSSIBLE_TI",469,48
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:35:21","TI2",470,48
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:35:35","Restart",471,48
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:35:54","SAFE2",472,49
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:35:58","GK2",473,49
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:36:04","Restart",474,49
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:36:17","AT2",475,49
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:36:26","SAFE1",476,49
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:36:26","AT1",477,49
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:36:30","Possible Free Kick",478,49
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:36:31","POSSIBLE_CARDS",480,49
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:36:39","YC2",481,49
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:36:40","CONF_YC2",482,49
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:36:43","Scorer",483,49
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:36:45","F2",484,49
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:36:45","FK1",485,49
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:36:45","DANGER1",486,49
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:36:45","DFK1",487,49
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:36:45","Ball Position",488,49
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:36:53","Player_DATA_CONFIRMED",489,50
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:37:14","Restart",490,50
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:37:24","POSSIBLE_TI",491,50
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:37:24","TI1",492,50
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:37:26","Restart",493,50
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:37:40","SHG1",494,50
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:37:41","SAFE2",495,50
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:37:49","POSSIBLE_TI",496,50
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:37:49","TI1",497,50
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:38:09","Restart",498,51
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:38:26","AT2",499,51
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:38:34","POSSIBLE_TI",500,51
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:38:34","TI2",501,51
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:38:41","Restart",502,51
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:38:49","SAFE1",503,51
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:38:52","AT1",504,52
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:38:55","SAFE2",505,52
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:38:56","POSSIBLE_TI",506,52
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:38:57","TI2",507,52
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:39:08","Restart",508,52
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:39:38","AT2",509,52
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:39:52","SAFE1",510,53
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:39:52","Possible Free Kick",511,53
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:39:53","F2",513,53
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:39:53","FK1",514,53
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:39:54","Ball Position",515,53
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:39:55","Restart",516,53
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:39:59","SAFE2",517,53
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:40:00","AT2",518,53
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:40:02","SAFE1",519,53
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:40:04","AT1",520,53
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:40:15","SAFE2",521,53
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:40:16","AT2",522,53
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:40:18","DANGER2",523,53
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:40:18","DAT2",524,53
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:40:23","POSSIBLE_TI",525,53
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:40:24","TI1",526,53
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:40:35","Restart",527,53
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:40:52","SAFE2",528,54
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:41:06","SAFE1",529,54
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:41:12","SAFE2",530,54
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:41:12","AT2",531,54
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:41:16","DANGER2",532,54
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:41:16","DAT2",533,54
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:41:28","SAFE1",534,54
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:41:29","Possible Free Kick",535,54
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:41:31","F2",537,54
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:41:31","FK1",538,54
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:41:31","Ball Position",539,54
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:41:53","Restart",540,55
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:42:07","SAFE2",541,55
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:42:10","SAFE1",542,55
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:42:10","AT1",543,55
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:42:22","SAFE2",544,55
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:42:23","Possible Free Kick",545,55
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:42:24","F1",547,55
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:42:24","FK2",548,55
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:42:24","Ball Position",549,55
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:43:06","Injury Break",550,56
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:44:08","Restart",551,57
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:44:18","SAFE1",552,57
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:44:18","AT1",553,57
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:44:30","SAFE2",554,57
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:44:31","GK2",555,57
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:44:56","SUB2",556,58
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:45:01","Player_DATA_CONFIRMED",557,58
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:45:06","Restart",558,58
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:45:09","POSSIBLE_TI",559,58
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:45:17","TI2",560,58
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:45:22","Restart",561,58
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:45:27","SAFE1",562,58
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:45:29","Possible Free Kick",563,58
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:45:31","F2",565,58
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:45:31","FK1",566,58
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:45:31","DANGER1",567,58
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:45:31","DFK1",568,58
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:45:31","Ball Position",569,58
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:45:34","Restart",570,58
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:45:51","SHG1",571,58
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:45:51","SAFE2",572,59
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:45:56","AT2",573,59
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:46:08","Possible Free Kick",574,59
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:46:11","F1",576,59
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:46:11","FK2",577,59
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:46:11","DANGER2",578,59
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:46:11","DFK2",579,59
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:46:11","Ball Position",580,59
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:46:29","Restart",581,59
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:46:35","SAFE1",582,59
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:46:39","SAFE2",583,59
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:46:40","AT2",584,59
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:47:00","DANGER2",585,60
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:47:00","DAT2",586,60
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:47:12","Possible Free Kick",587,60
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:47:21","F1",589,60
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:47:21","FK2",590,60
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:47:21","DFK2",591,60
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:47:21","Ball Position",592,60
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:48:17","Restart",593,61
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:48:21","SHB2",594,61
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:48:23","SAFE1",595,61
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:48:24","GK1",596,61
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:48:40","Restart",597,61
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:48:45","AT1",598,61
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:48:50","Possible Free Kick",599,61
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:48:52","F2",601,62
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:48:52","FK1",602,62
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:48:52","DANGER1",603,62
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:48:52","DFK1",604,62
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:48:52","Ball Position",605,62
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:49:03","Restart",606,62
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:49:13","SHB1",607,62
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:49:14","SAFE2",608,62
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:49:15","GK2",609,62
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:49:31","Restart",610,62
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:49:47","AT2",611,62
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:50:06","DANGER2",612,63
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:50:06","DAT2",613,63
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:50:24","Possible Free Kick",614,63
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:50:40","F1",616,63
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:50:40","FK2",617,63
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:50:40","DFK2",618,63
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:50:40","Ball Position",619,63
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:51:20","Restart",620,64
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:51:41","POSSIBLE_TI",621,64
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:51:42","TI1",622,64
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:51:52","Restart",623,65
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:51:55","SAFE1",624,65
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:51:55","Possible Free Kick",625,65
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:51:56","F2",627,65
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:51:56","FK1",628,65
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:51:56","Ball Position",629,65
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:52:14","Restart",630,65
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:52:18","AT1",631,65
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:52:26","SAFE2",632,65
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:52:26","POSSIBLE_TI",633,65
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:52:28","TI2",634,65
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:52:30","Restart",635,65
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:52:38","AT2",636,65
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:52:51","DANGER2",637,65
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:52:51","DAT2",638,65
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:53:30","SAFE1",639,66
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:53:31","Possible Free Kick",640,66
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:53:33","F2",642,66
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:53:33","FK1",643,66
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:53:33","Ball Position",644,66
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:53:50","SUB2",645,66
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:54:13","Player_DATA_CONFIRMED",646,67
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:54:16","Restart",647,67
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:54:20","AT1",648,67
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:54:22","Possible Free Kick",649,67
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:54:23","SAFE1",651,67
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:54:23","F2",652,67
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:54:23","FK1",653,67
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:54:23","Ball Position",654,67
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:54:54","AT1",655,68
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:54:54","DANGER1",656,68
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:54:54","DAT1",657,68
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:54:55","Restart",658,68
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:55:11","POSSIBLE_TI",659,68
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:55:12","TI2",660,68
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:55:17","Restart",661,68
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:55:27","SAFE1",662,68
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:55:41","AT1",663,68
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:55:44","SAFE2",664,68
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:55:44","Possible Free Kick",665,68
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:55:54","F1",667,69
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:55:54","FK2",668,69
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:55:54","DANGER2",669,69
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:55:54","DFK2",670,69
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:55:54","Ball Position",671,69
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:56:11","SUB1",672,69
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:56:13","Restart",673,69
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:56:22","SAFE1",674,69
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:56:23","Possible Free Kick",675,69
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:56:25","O2",677,69
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:56:25","FK1",678,69
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:56:25","Ball Position",679,69
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:56:29","Restart",680,69
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:56:44","Player_DATA_CONFIRMED",681,69
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:56:44","SAFE2",682,69
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:56:44","AT2",683,69
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:56:56","SAFE1",684,70
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:56:57","AT1",685,70
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:57:05","Possible Free Kick",686,70
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:57:07","F2",688,70
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:57:07","FK1",689,70
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:57:07","DANGER1",690,70
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:57:07","DFK1",691,70
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:57:07","Ball Position",692,70
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:57:31","Restart",693,70
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:57:44","POSSIBLE_TI",694,70
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:57:45","TI1",695,70
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:58:35","Restart",696,71
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:58:39","SAFE2",697,71
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:58:59","AT2",698,72
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:59:02","POSSIBLE_TI",699,72
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:59:03","TI2",700,72
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:59:09","Restart",701,72
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:59:28","POSSIBLE_TI",702,72
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:59:29","TI2",703,72
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:59:35","Restart",704,72
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:59:43","SAFE1",705,72
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:59:44","Possible Free Kick",706,72
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:59:46","F2",708,72
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:59:46","FK1",709,72
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:59:46","Ball Position",710,72
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:59:47","Restart",711,72
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:59:55","AT1",712,73
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:59:57","DANGER1",713,73
+1059832,"SM Caen","Toulouse FC","12/18/2018 19:59:57","DAT1",714,73
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:00:05","SHG1",715,73
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:00:14","SHG1",716,73
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:00:14","SAFE2",717,73
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:00:17","AT2",718,73
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:00:19","DANGER2",719,73
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:00:19","DAT2",720,73
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:00:28","SAFE1",721,73
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:00:49","SAFE2",722,73
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:00:49","AT2",723,73
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:00:51","DANGER2",724,74
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:00:51","DAT2",725,74
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:00:56","BLOCKED2",726,74
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:01:15","SAFE1",727,74
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:01:16","POSSIBLE_TI",728,74
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:01:17","TI1",729,74
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:01:29","Restart",730,74
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:01:41","AT1",731,74
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:01:50","SAFE2",732,74
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:01:55","SAFE1",733,75
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:01:56","POSSIBLE_TI",734,75
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:01:56","TI1",735,75
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:01:57","Restart",736,75
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:02:05","AT1",737,75
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:02:05","POSSIBLE_TI",738,75
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:02:06","TI1",739,75
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:02:18","Restart",740,75
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:02:31","SAFE2",741,75
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:02:32","AT2",742,75
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:02:57","DANGER2",743,76
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:02:57","DAT2",744,76
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:03:43","POSSIBLE_TI",745,76
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:03:45","TI2",746,76
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:03:48","Restart",747,76
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:03:58","POSSIBLE_TI",748,77
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:04:00","TI2",749,77
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:04:01","Restart",750,77
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:04:12","Possible Free Kick",751,77
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:04:23","F1",753,77
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:04:23","FK2",754,77
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:04:23","DFK2",755,77
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:04:24","Ball Position",756,77
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:04:48","Restart",757,77
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:04:55","POSSIBLE_TI",758,78
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:04:56","TI2",759,78
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:04:58","Restart",760,78
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:05:20","SAFE1",761,78
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:05:23","AT1",762,78
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:05:25","DANGER1",763,78
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:05:25","DAT1",764,78
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:05:30","SHG1",765,78
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:05:35","PCR1",766,78
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:05:40","CR1",767,78
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:05:43","Ball Position",768,78
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:05:56","SUB1",769,79
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:06:23","Restart",770,79
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:06:43","SAFE1",771,79
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:06:48","Injury Break",772,79
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:07:57","Restart",773,81
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:07:58","SAFE2",774,81
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:08:05","SAFE1",775,81
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:08:05","AT1",776,81
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:08:13","Player_DATA_CONFIRMED",777,81
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:08:15","SAFE2",778,81
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:08:17","AT2",779,81
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:08:21","SAFE1",780,81
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:08:22","POSSIBLE_TI",781,81
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:08:22","TI1",782,81
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:08:32","Restart",783,81
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:08:39","AT1",784,81
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:08:46","SAFE2",785,81
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:08:58","AT2",786,82
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:09:02","Possible Free Kick",787,82
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:09:04","F1",789,82
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:09:04","FK2",790,82
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:09:04","DANGER2",791,82
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:09:04","DFK2",792,82
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:09:04","Ball Position",793,82
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:09:26","Restart",794,82
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:09:37","POSSIBLE_TI",795,82
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:09:40","TI2",796,82
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:09:44","Restart",797,82
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:09:48","SAFE1",798,82
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:09:49","POSSIBLE_TI",799,82
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:09:50","TI1",800,82
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:09:54","Restart",801,83
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:09:58","AT1",802,83
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:09:59","DANGER1",803,83
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:09:59","DAT1",804,83
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:10:09","SAFE2",805,83
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:10:10","Possible Free Kick",806,83
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:10:12","F1",808,83
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:10:12","FK2",809,83
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:10:12","Ball Position",810,83
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:10:23","Restart",811,83
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:10:24","AT2",812,83
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:10:31","SAFE1",813,83
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:10:31","Possible Free Kick",814,83
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:10:32","F2",816,83
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:10:32","FK1",817,83
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:10:32","Ball Position",818,83
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:10:49","Restart",819,83
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:10:52","AT1",820,84
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:10:55","SAFE2",821,84
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:10:59","AT2",822,84
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:11:07","Possible Free Kick",823,84
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:11:08","POSSIBLE_CARDS",825,84
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:11:13","YC1",826,84
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:11:14","CONF_YC1",827,84
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:11:19","Scorer",828,84
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:11:36","F1",829,84
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:11:36","FK2",830,84
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:11:36","DANGER2",831,84
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:11:36","DFK2",832,84
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:11:36","Ball Position",833,84
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:11:41","Restart",834,84
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:12:00","PCR2",835,85
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:12:02","CR2",836,85
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:12:04","Ball Position",837,85
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:12:23","Restart",838,85
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:12:28","POSSIBLE_TI",839,85
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:12:37","TI2",840,85
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:12:38","Restart",841,85
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:12:45","SAFE1",842,85
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:12:50","AT1",843,85
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:13:03","DANGER1",844,86
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:13:03","DAT1",845,86
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:13:13","Possible Free Kick",846,86
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:13:15","POSSIBLE_CARDS",848,86
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:13:19","YC2",849,86
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:13:26","CONF_YC2",850,86
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:13:29","Scorer",851,86
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:13:32","F2",852,86
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:13:32","FK1",853,86
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:13:32","DFK1",854,86
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:13:32","Ball Position",855,86
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:13:39","Player_DATA_CONFIRMED",856,86
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:13:41","Player_DATA_CONFIRMED",857,86
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:14:14","Restart",858,87
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:14:21","SAFE2",859,87
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:14:21","AT2",860,87
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:14:23","SAFE1",861,87
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:14:28","AT1",862,87
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:14:51","DANGER1",863,88
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:14:51","DAT1",864,88
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:14:59","SAFE2",865,88
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:15:02","SAFE1",866,88
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:15:03","AT1",867,88
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:15:05","DANGER1",868,88
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:15:05","DAT1",869,88
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:15:16","SHB1",870,88
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:15:17","SAFE2",871,88
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:15:18","GK2",872,88
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:15:39","Restart",873,88
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:15:45","SAFE1",874,88
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:15:46","Possible Free Kick",875,88
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:15:48","F2",877,88
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:15:48","FK1",878,88
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:15:48","Ball Position",879,88
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:15:49","Restart",880,88
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:15:49","AT1",881,88
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:15:52","DANGER1",882,89
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:15:52","DAT1",883,89
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:16:50","SAFE2",884,89
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:16:54","SAFE1",885,90
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:16:55","AT1",886,90
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:16:59","DANGER1",887,90
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:16:59","DAT1",888,90
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:17:31","SAFE2",889,90
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:17:32","GK2",890,90
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:17:42","SUB2",891,90
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:18:21","Extra Time",892,91
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:18:22","Restart",893,91
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:18:24","AT2",894,91
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:18:25","POSSIBLE_TI",895,91
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:18:26","TI2",896,91
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:18:34","Restart",897,91
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:18:35","DANGER2",898,91
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:18:35","DAT2",899,91
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:18:51","SAFE1",900,91
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:18:51","Possible Free Kick",901,92
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:18:52","F2",903,92
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:18:52","FK1",904,92
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:18:52","Ball Position",905,92
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:18:57","Restart",906,92
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:19:07","SAFE2",907,92
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:19:07","Possible Free Kick",908,92
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:19:10","F1",910,92
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:19:10","FK2",911,92
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:19:10","Ball Position",912,92
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:19:28","Restart",913,92
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:19:30","AT2",914,92
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:19:34","DANGER2",915,92
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:19:34","DAT2",916,92
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:19:39","SAFE1",917,92
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:19:39","AT1",918,92
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:19:52","DANGER1",919,93
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:19:52","DAT1",920,93
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:20:04","SAFE2",921,93
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:20:05","AT2",922,93
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:20:09","SAFE1",923,93
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:20:10","AT1",924,93
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:20:16","Player_DATA_CONFIRMED",925,93
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:20:20","Possible Free Kick",926,93
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:20:23","F2",928,93
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:20:23","FK1",929,93
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:20:23","DANGER1",930,93
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:20:23","DFK1",931,93
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:20:23","Ball Position",932,93
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:20:39","POSSIBLE_CARDS",933,93
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:20:57","NO_Cards",934,94
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:21:09","Restart",935,94
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:21:19","SAFE2",936,94
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:21:19","AT2",937,94
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:21:25","SAFE1",938,94
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:21:25","AT1",939,94
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:21:29","DANGER1",940,94
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:21:29","DAT1",941,94
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:21:37","PPEN",942,94
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:21:37","PPEN1",943,94
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:22:04","PEN1",944,95
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:22:11","Scorer",945,95
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:25:58","POSSIBLE_CARDS",946,99
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:26:20","NO_Cards",947,99
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:26:47","GOAL1",948,99
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:26:48","Scorer",949,99
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:27:34","CONF_GOAL1",950,100
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:27:34","KO2",951,100
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:27:34","SAFE2",952,100
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:27:36","AT2",953,100
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:27:37","DANGER2",954,100
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:27:37","Player_DATA_CONFIRMED",955,100
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:27:37","DAT2",956,100
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:27:41","SAFE1",957,100
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:27:41","AT1",958,100
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:27:42","DANGER1",959,100
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:27:42","DAT1",960,100
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:27:44","SAFE2",961,100
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:27:45","AT2",962,100
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:27:50","DANGER2",963,100
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:27:50","DAT2",964,100
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:27:58","SAFE1",965,101
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:28:16","Stop RT2",966,101
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:28:16","Stop Game",967,101
+1059832,"SM Caen","Toulouse FC","12/18/2018 20:28:40","CONF_PERIOD_SCORE",968,100

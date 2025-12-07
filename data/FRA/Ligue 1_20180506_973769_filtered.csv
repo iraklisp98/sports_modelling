@@ -1,0 +1,926 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+973769,"Toulouse FC","OSC Lille","05/06/2018 14:10:47","Transmission Online",0,0
+973769,"Toulouse FC","OSC Lille","05/06/2018 14:10:47","Scout in Stadion",1,0
+973769,"Toulouse FC","OSC Lille","05/06/2018 14:11:17","Lineup changed",2,0
+973769,"Toulouse FC","OSC Lille","05/06/2018 14:13:51","GCC",3,0
+973769,"Toulouse FC","OSC Lille","05/06/2018 14:57:35","GCC",4,0
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:00:44","System Message",5,0
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:01:07","Players are coming out",6,0
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:01:26","Jersey Changed",7,0
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:01:27","Jersey Changed",8,0
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:01:28","Players lined up",9,0
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:01:56","Shake hands",10,0
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:02:29","Flip coin",11,0
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:04:19","Game about to start",12,0
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:05:07","Start RT1 Team 1",13,1
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:05:12","AT1",14,1
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:05:13","POSSIBLE_TI",15,1
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:05:14","TI1",16,1
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:05:22","Restart",17,1
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:05:29","SAFE2",18,1
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:05:40","AT2",19,1
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:05:44","SAFE1",20,1
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:05:57","SAFE2",21,1
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:06:04","AT1",22,1
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:06:08","DANGER1",23,2
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:06:08","DAT1",24,2
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:06:17","SAFE2",25,2
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:06:18","POSSIBLE_TI",26,2
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:06:19","TI2",27,2
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:06:29","Restart",28,2
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:06:48","Possible Free Kick",29,2
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:06:51","F2",31,2
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:06:51","FK1",32,2
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:06:51","DANGER1",33,2
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:06:51","DFK1",34,2
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:06:51","Ball Position",35,2
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:07:08","CLS",36,3
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:07:14","F1",38,3
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:07:14","FK2",39,3
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:07:14","Ball Position",40,3
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:07:15","Restart",41,3
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:07:27","SAFE1",42,3
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:07:27","POSSIBLE_TI",43,3
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:07:29","TI1",44,3
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:07:33","Restart",45,3
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:07:42","Possible Free Kick",46,3
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:07:45","F2",48,3
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:07:45","FK1",49,3
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:07:45","Ball Position",50,3
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:07:45","Restart",51,3
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:07:49","SAFE2",52,3
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:07:52","Possible Free Kick",53,3
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:07:54","O1",55,3
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:07:54","FK2",56,3
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:07:54","Ball Position",57,3
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:07:56","Restart",58,3
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:08:15","AT2",59,4
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:08:46","DANGER2",60,4
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:08:46","DAT2",61,4
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:08:55","POSSIBLE_TI",62,4
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:09:05","TI1",63,4
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:09:08","Restart",64,5
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:09:20","POSSIBLE_TI",65,5
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:09:20","TI1",66,5
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:09:26","Restart",67,5
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:09:55","GOAL2",68,5
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:10:20","Scorer",69,6
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:10:23","CONF_GOAL2",70,6
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:10:45","KO1",71,6
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:10:45","SAFE1",72,6
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:10:50","AT1",73,6
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:10:56","POSSIBLE_TI",74,6
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:10:56","TI2",75,6
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:11:07","Restart",76,7
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:11:10","Player_DATA_CONFIRMED",77,7
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:11:18","SAFE1",78,7
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:11:19","Possible Free Kick",79,7
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:11:23","F2",81,7
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:11:23","FK1",82,7
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:11:23","DANGER1",83,7
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:11:23","DFK1",84,7
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:11:23","Ball Position",85,7
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:11:33","Assist",86,7
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:11:48","Restart",87,7
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:11:55","POSSIBLE_TI",88,7
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:11:56","TI1",89,7
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:12:06","Restart",90,7
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:12:15","SAFE1",91,8
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:12:25","SAFE2",92,8
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:12:50","AT1",93,8
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:12:52","DANGER1",94,8
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:12:52","DAT1",95,8
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:13:02","PCR1",96,8
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:13:16","NCR1",97,9
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:13:17","Possible Free Kick",98,9
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:13:19","F2",100,9
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:13:19","FK1",101,9
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:13:19","DFK1",102,9
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:13:19","Ball Position",103,9
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:13:51","Restart",104,9
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:13:55","GOAL1",105,9
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:14:21","CONF_GOAL1",106,10
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:14:25","Scorer",107,10
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:14:35","KO2",108,10
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:14:35","SAFE2",109,10
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:15:03","Player_DATA_CONFIRMED",110,10
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:15:03","Assist",111,10
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:15:07","AT2",112,11
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:15:17","POSSIBLE_TI",113,11
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:15:18","TI1",114,11
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:15:31","Restart",115,11
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:15:32","SAFE1",116,11
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:15:58","AT1",117,11
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:16:03","SAFE2",118,11
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:16:04","AT2",119,11
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:16:06","SAFE1",120,11
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:16:15","SAFE2",121,12
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:16:25","AT2",122,12
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:16:39","Possible Free Kick",123,12
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:16:43","F1",125,12
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:16:43","FK2",126,12
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:16:43","DANGER2",127,12
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:16:43","DFK2",128,12
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:16:43","Ball Position",129,12
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:16:43","Restart",130,12
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:16:57","POSSIBLE_TI",131,12
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:16:58","TI2",132,12
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:17:08","Restart",133,13
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:17:15","SAFE1",134,13
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:17:21","Possible Free Kick",135,13
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:17:22","F2",137,13
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:17:22","FK1",138,13
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:17:22","DANGER1",139,13
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:17:22","DFK1",140,13
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:17:22","Ball Position",141,13
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:17:46","Restart",142,13
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:18:04","SAFE2",143,13
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:18:06","GK2",144,13
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:18:14","Restart",145,14
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:18:42","AT2",146,14
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:18:45","DANGER2",147,14
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:18:45","DAT2",148,14
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:18:49","PCR2",149,14
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:19:00","CR2",150,14
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:19:02","Ball Position",151,14
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:19:04","Restart",152,14
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:19:12","SHB2",153,15
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:19:14","SAFE1",154,15
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:19:15","GK1",155,15
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:19:35","Restart",156,15
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:19:43","AT1",157,15
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:19:44","DANGER1",158,15
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:19:44","DAT1",159,15
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:19:47","SHG1",160,15
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:19:53","SAFE2",161,15
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:20:04","Injury Break",162,15
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:20:56","Referee Ball",163,16
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:20:57","Restart",164,16
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:21:08","AT2",165,17
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:21:12","POSSIBLE_TI",166,17
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:21:14","TI1",167,17
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:21:17","Restart",168,17
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:21:29","SAFE1",169,17
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:21:29","POSSIBLE_TI",170,17
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:21:31","TI1",171,17
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:21:41","Restart",172,17
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:21:45","SAFE2",173,17
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:21:56","AT2",174,17
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:21:57","DANGER2",175,17
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:21:57","DAT2",176,17
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:22:01","SAFE1",177,17
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:22:15","AT1",178,18
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:22:17","DANGER1",179,18
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:22:17","DAT1",180,18
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:22:24","SAFE2",181,18
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:22:28","AT2",182,18
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:22:57","SAFE2",183,18
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:23:16","AT2",184,19
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:23:17","DANGER2",185,19
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:23:17","DAT2",186,19
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:23:25","SAFE1",187,19
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:23:27","AT1",188,19
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:23:41","SAFE2",189,19
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:23:46","SAFE1",190,19
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:23:47","POSSIBLE_TI",191,19
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:23:49","TI1",192,19
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:23:53","Restart",193,19
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:23:54","AT1",194,19
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:23:55","DANGER1",195,19
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:23:55","DAT1",196,19
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:24:05","SAFE2",197,19
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:24:06","Possible Free Kick",198,19
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:24:07","F1",200,20
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:24:07","FK2",201,20
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:24:07","Ball Position",202,20
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:24:38","Restart",203,20
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:24:45","SAFE1",204,20
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:24:46","Possible Free Kick",205,20
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:24:47","F2",207,20
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:24:47","FK1",208,20
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:24:47","Ball Position",209,20
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:25:05","Restart",210,20
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:25:14","SAFE2",211,21
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:25:15","POSSIBLE_TI",212,21
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:25:17","TI2",213,21
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:25:26","Restart",214,21
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:25:39","AT2",215,21
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:25:44","SAFE1",216,21
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:25:45","AT1",217,21
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:25:50","DANGER1",218,21
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:25:50","DAT1",219,21
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:25:55","SHB1",220,21
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:25:57","SAFE2",221,21
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:25:58","GK2",222,21
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:26:00","Restart",223,21
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:26:19","SAFE1",224,22
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:26:19","AT1",225,22
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:26:23","DANGER1",226,22
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:26:23","DAT1",227,22
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:26:35","SAFE2",228,22
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:27:09","AT2",229,23
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:27:15","SAFE1",230,23
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:27:21","AT1",231,23
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:27:26","SAFE1",232,23
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:27:41","AT1",233,23
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:27:42","DANGER1",234,23
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:27:42","DAT1",235,23
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:27:47","Possible Free Kick",236,23
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:27:50","POSSIBLE_CARDS",238,23
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:27:54","YC2",239,23
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:27:56","CONF_YC2",240,23
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:27:57","Scorer",241,23
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:28:02","F2",242,23
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:28:02","FK1",243,23
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:28:02","DFK1",244,23
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:28:02","Ball Position",245,23
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:28:03","Scorer",246,23
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:28:03","Player_DATA_CONFIRMED",247,23
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:28:44","Restart",248,24
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:28:48","SAFE2",249,24
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:28:49","GK2",250,24
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:28:59","Restart",251,24
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:29:19","AT1",252,25
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:29:23","DANGER1",253,25
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:29:23","DAT1",254,25
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:29:26","SAFE2",255,25
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:29:28","GK2",256,25
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:29:33","Restart",257,25
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:29:58","AT2",258,25
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:29:59","DANGER2",259,25
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:29:59","DAT2",260,25
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:30:03","SAFE1",261,25
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:30:04","Possible Free Kick",262,25
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:30:06","O2",264,25
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:30:06","FK1",265,25
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:30:06","Ball Position",266,25
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:30:21","Restart",267,26
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:30:32","AT1",268,26
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:30:36","DANGER1",269,26
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:30:36","DAT1",270,26
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:30:39","SAFE2",271,26
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:30:41","GK2",272,26
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:30:51","Restart",273,26
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:30:56","AT2",274,26
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:31:01","DANGER2",275,26
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:31:01","DAT2",276,26
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:31:03","POSSIBLE_TI",277,26
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:31:04","TI2",278,26
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:31:12","Restart",279,27
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:31:24","SAFE1",280,27
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:31:26","GK1",281,27
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:31:40","Restart",282,27
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:31:53","SAFE2",283,27
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:31:55","AT2",284,27
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:31:59","SAFE1",285,27
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:32:13","SAFE2",286,28
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:32:23","AT2",287,28
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:32:31","POSSIBLE_TI",288,28
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:32:32","TI2",289,28
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:32:43","Restart",290,28
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:33:01","SAFE1",291,28
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:33:08","AT2",292,29
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:33:13","DANGER2",293,29
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:33:13","DAT2",294,29
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:33:18","SHG2",295,29
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:33:20","SAFE1",296,29
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:33:30","Possible Free Kick",297,29
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:33:47","F2",299,29
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:33:47","FK1",300,29
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:33:47","DANGER1",301,29
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:33:47","DFK1",302,29
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:33:47","Ball Position",303,29
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:34:02","Restart",304,29
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:34:09","SAFE2",305,30
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:34:12","Possible Free Kick",306,30
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:34:13","F1",308,30
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:34:13","FK2",309,30
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:34:13","Ball Position",310,30
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:34:19","Restart",311,30
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:34:33","AT2",312,30
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:34:56","DANGER2",313,30
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:34:56","DAT2",314,30
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:35:05","SAFE1",315,30
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:35:14","AT2",316,31
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:35:37","Injury Break",317,31
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:36:28","Restart",318,32
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:36:41","Referee Ball",319,32
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:36:43","Restart",320,32
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:36:45","SAFE2",321,32
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:37:04","AT2",322,32
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:37:12","DANGER2",323,33
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:37:12","DAT2",324,33
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:37:22","SAFE2",325,33
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:37:32","AT2",326,33
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:37:36","DANGER2",327,33
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:37:36","DAT2",328,33
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:37:41","SHB2",329,33
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:37:45","SAFE1",330,33
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:37:46","GK1",331,33
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:38:13","Restart",332,34
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:38:18","POSSIBLE_TI",333,34
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:38:19","TI1",334,34
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:38:32","Restart",335,34
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:38:36","AT1",336,34
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:38:37","POSSIBLE_TI",337,34
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:38:38","TI1",338,34
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:38:47","Restart",339,34
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:38:55","DANGER1",340,34
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:38:55","DAT1",341,34
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:39:05","POSSIBLE_TI",342,34
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:39:06","TI1",343,34
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:39:11","Restart",344,35
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:39:15","SAFE2",345,35
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:39:17","Possible Free Kick",346,35
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:39:19","F1",348,35
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:39:19","FK2",349,35
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:39:19","Ball Position",350,35
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:39:24","Restart",351,35
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:39:31","AT2",352,35
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:39:42","POSSIBLE_TI",353,35
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:39:43","TI2",354,35
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:39:54","Restart",355,35
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:40:02","DANGER2",356,35
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:40:02","DAT2",357,35
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:40:15","SAFE2",358,36
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:40:16","POSSIBLE_TI",359,36
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:40:17","TI2",360,36
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:40:18","Restart",361,36
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:40:20","AT2",362,36
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:40:24","DANGER2",363,36
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:40:24","DAT2",364,36
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:40:31","SAFE1",365,36
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:40:40","SAFE2",366,36
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:41:04","AT2",367,36
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:41:09","DANGER2",368,37
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:41:09","DAT2",369,37
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:41:11","SAFE1",370,37
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:41:25","AT1",371,37
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:41:45","DANGER1",372,37
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:41:45","DAT1",373,37
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:41:51","SAFE2",374,37
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:41:59","AT2",375,37
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:42:03","DANGER2",376,37
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:42:03","DAT2",377,37
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:42:11","SAFE1",378,38
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:42:22","AT1",379,38
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:42:27","DANGER1",380,38
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:42:27","DAT1",381,38
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:42:45","SHG1",382,38
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:42:47","SAFE2",383,38
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:43:19","AT2",384,39
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:43:26","POSSIBLE_TI",385,39
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:43:27","TI2",386,39
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:43:33","Restart",387,39
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:43:35","SAFE2",388,39
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:43:45","AT2",389,39
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:43:49","SAFE1",390,39
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:43:49","Possible Free Kick",391,39
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:43:51","O2",393,39
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:43:51","FK1",394,39
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:43:52","Ball Position",395,39
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:44:03","Restart",396,39
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:44:10","AT1",397,40
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:44:17","SAFE2",398,40
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:44:28","AT2",399,40
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:44:32","DANGER2",400,40
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:44:32","DAT2",401,40
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:44:40","POSSIBLE_TI",402,40
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:44:41","TI2",403,40
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:44:56","Restart",404,40
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:45:08","SAFE1",405,41
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:45:12","AT1",406,41
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:45:15","DANGER1",407,41
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:45:15","DAT1",408,41
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:45:21","SAFE2",409,41
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:45:31","AT2",410,41
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:45:44","SAFE1",411,41
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:45:46","AT1",412,41
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:45:49","DANGER1",413,41
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:45:49","DAT1",414,41
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:45:54","Possible Free Kick",415,41
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:45:59","F2",417,41
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:45:59","FK1",418,41
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:45:59","DFK1",419,41
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:46:00","Ball Position",420,41
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:46:50","Restart",421,42
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:47:04","SAFE2",422,42
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:47:18","AT2",423,43
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:47:21","DANGER2",424,43
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:47:21","DAT2",425,43
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:47:28","SAFE1",426,43
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:47:30","GK1",427,43
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:47:47","Restart",428,43
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:47:53","POSSIBLE_TI",429,43
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:47:54","TI1",430,43
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:48:08","Restart",431,44
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:48:12","Possible Free Kick",432,44
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:48:19","F2",434,44
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:48:19","FK1",435,44
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:48:19","DANGER1",436,44
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:48:19","DFK1",437,44
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:48:19","Ball Position",438,44
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:48:36","Restart",439,44
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:48:46","GOAL1",440,44
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:49:17","CONF_GOAL1",441,45
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:49:21","Scorer",442,45
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:49:53","KO2",443,45
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:49:53","SAFE2",444,45
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:50:01","Extra Time",445,45
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:50:03","Player_DATA_CONFIRMED",446,45
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:50:03","AT2",447,45
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:50:03","Assist",448,45
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:50:05","DANGER2",449,45
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:50:05","DAT2",450,45
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:50:21","SAFE2",451,46
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:50:34","AT2",452,46
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:50:40","DANGER2",453,46
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:50:40","DAT2",454,46
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:50:44","SAFE2",455,46
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:50:53","AT2",456,46
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:50:55","DANGER2",457,46
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:50:55","DAT2",458,46
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:50:57","SAFE1",459,46
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:51:18","AT1",460,47
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:51:25","Possible Free Kick",461,47
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:51:26","F2",463,47
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:51:26","FK1",464,47
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:51:26","DANGER1",465,47
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:51:26","DFK1",466,47
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:51:26","Ball Position",467,47
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:51:57","Restart",468,47
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:52:07","SAFE1",469,48
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:52:11","Stop RT1",470,48
+973769,"Toulouse FC","OSC Lille","05/06/2018 15:52:32","CONF_PERIOD_SCORE",471,45
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:03:57","Players are coming out",472,45
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:07:02","Game about to start",473,45
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:07:33","Start RT2 Team 2",474,46
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:07:52","POSSIBLE_TI",475,46
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:07:53","TI1",476,46
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:07:58","Restart",477,46
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:08:02","AT1",478,46
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:08:07","DANGER1",479,46
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:08:07","DAT1",480,46
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:08:08","POSSIBLE_TI",481,46
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:08:09","TI1",482,46
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:08:23","Restart",483,46
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:08:28","POSSIBLE_TI",484,46
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:08:29","TI2",485,46
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:08:38","Restart",486,47
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:08:41","SAFE2",487,47
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:08:51","AT2",488,47
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:08:56","POSSIBLE_TI",489,47
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:08:57","TI2",490,47
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:08:59","Restart",491,47
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:09:16","POSSIBLE_TI",492,47
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:09:17","TI1",493,47
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:09:34","Restart",494,48
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:09:41","DANGER2",495,48
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:09:41","DAT2",496,48
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:09:51","SAFE2",497,48
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:09:56","AT2",498,48
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:10:08","DANGER2",499,48
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:10:08","DAT2",500,48
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:10:14","SAFE1",501,48
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:10:15","Possible Free Kick",502,48
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:10:16","O2",504,48
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:10:16","FK1",505,48
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:10:17","Ball Position",506,48
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:10:33","Restart",507,49
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:10:40","SAFE2",508,49
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:10:42","AT2",509,49
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:10:48","POSSIBLE_TI",510,49
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:10:49","TI2",511,49
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:10:52","Restart",512,49
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:10:55","DANGER2",513,49
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:10:55","DAT2",514,49
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:11:03","POSSIBLE_TI",515,49
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:11:04","TI2",516,49
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:11:40","Restart",517,50
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:11:59","POSSIBLE_TI",518,50
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:12:01","TI2",519,50
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:12:02","Restart",520,50
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:12:08","SAFE2",521,50
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:12:20","AT2",522,50
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:12:33","Possible Free Kick",523,50
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:12:35","F1",525,51
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:12:35","FK2",526,51
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:12:35","DANGER2",527,51
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:12:35","DFK2",528,51
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:12:35","Ball Position",529,51
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:13:11","Restart",530,51
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:13:18","SAFE1",531,51
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:13:21","AT1",532,51
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:13:22","DANGER1",533,51
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:13:22","DAT1",534,51
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:13:28","SAFE2",535,51
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:13:38","AT2",536,52
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:13:41","DANGER2",537,52
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:13:41","DAT2",538,52
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:14:29","Possible Free Kick",539,52
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:14:30","F1",541,52
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:14:30","FK2",542,52
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:14:30","DFK2",543,52
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:14:30","Ball Position",544,52
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:15:05","Restart",545,53
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:15:13","SHG2",546,53
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:15:14","SAFE1",547,53
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:15:39","AT1",548,54
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:15:46","DANGER1",549,54
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:15:46","DAT1",550,54
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:15:54","Possible Free Kick",551,54
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:16:00","F2",553,54
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:16:00","FK1",554,54
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:16:00","DFK1",555,54
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:16:00","Ball Position",556,54
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:16:40","Restart",557,55
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:16:46","SHB1",558,55
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:16:47","SAFE2",559,55
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:16:48","GK2",560,55
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:16:53","Restart",561,55
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:17:17","AT2",562,55
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:17:27","SAFE1",563,55
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:17:31","AT1",564,55
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:17:35","DANGER1",565,56
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:17:35","DAT1",566,56
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:17:44","SAFE2",567,56
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:17:44","GK2",568,56
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:17:51","Restart",569,56
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:18:00","AT2",570,56
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:18:03","DANGER2",571,56
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:18:03","DAT2",572,56
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:18:23","SHB2",573,56
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:18:28","SAFE1",574,56
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:18:29","GK1",575,56
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:18:50","Restart",576,57
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:18:55","Possible Free Kick",577,57
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:19:01","F2",579,57
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:19:01","FK1",580,57
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:19:01","DANGER1",581,57
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:19:01","DFK1",582,57
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:19:01","Ball Position",583,57
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:19:27","Restart",584,57
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:19:31","SAFE2",585,57
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:19:43","SAFE1",586,58
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:19:53","SAFE2",587,58
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:20:07","Possible Free Kick",588,58
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:20:09","F1",590,58
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:20:09","FK2",591,58
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:20:09","Ball Position",592,58
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:20:10","Restart",593,58
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:20:13","AT2",594,58
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:20:17","DANGER2",595,58
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:20:17","DAT2",596,58
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:20:21","SAFE1",597,58
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:20:22","GK1",598,58
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:20:40","SUB2",599,59
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:20:56","Restart",600,59
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:21:03","AT2",601,59
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:21:09","POSSIBLE_TI",602,59
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:21:11","TI1",603,59
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:21:23","Restart",604,59
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:21:32","SAFE2",605,59
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:21:36","AT2",606,60
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:21:41","DANGER2",607,60
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:21:41","DAT2",608,60
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:21:56","PCR2",609,60
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:21:59","SHG2",610,60
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:22:04","Player_DATA_CONFIRMED",611,60
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:22:06","CR2",612,60
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:22:10","Ball Position",613,60
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:22:15","Restart",614,60
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:22:20","SHB2",615,60
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:22:22","SAFE1",616,60
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:22:23","GK1",617,60
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:22:52","Restart",618,61
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:23:02","Possible Free Kick",619,61
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:23:10","F1",621,61
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:23:10","FK2",622,61
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:23:10","DANGER2",623,61
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:23:10","DFK2",624,61
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:23:10","Ball Position",625,61
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:23:15","Restart",626,61
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:23:24","SAFE1",627,61
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:23:25","AT1",628,61
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:23:27","DANGER1",629,61
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:23:27","DAT1",630,61
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:23:35","SAFE2",631,62
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:23:44","AT2",632,62
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:23:47","DANGER2",633,62
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:23:47","DAT2",634,62
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:23:54","SAFE1",635,62
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:23:56","POSSIBLE_TI",636,62
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:23:57","TI1",637,62
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:24:10","Restart",638,62
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:24:14","SAFE2",639,62
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:24:51","AT2",640,63
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:24:59","DANGER2",641,63
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:24:59","DAT2",642,63
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:25:06","SAFE2",643,63
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:25:25","AT2",644,63
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:25:29","DANGER2",645,63
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:25:29","DAT2",646,63
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:25:51","SAFE1",647,64
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:25:55","AT1",648,64
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:25:59","SAFE2",649,64
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:26:17","SAFE1",650,64
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:26:18","POSSIBLE_TI",651,64
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:26:19","TI1",652,64
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:26:32","SUB1",653,64
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:27:20","Restart",654,65
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:27:26","SAFE2",655,65
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:27:32","AT2",656,65
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:27:40","DANGER2",657,66
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:27:40","DAT2",658,66
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:27:47","SAFE1",659,66
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:27:53","SAFE2",660,66
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:28:01","AT2",661,66
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:28:03","DANGER2",662,66
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:28:03","DAT2",663,66
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:28:12","POSSIBLE_TI",664,66
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:28:13","TI2",665,66
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:28:17","Restart",666,66
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:28:38","PCR2",667,67
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:28:40","SHG2",668,67
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:28:48","CR2",669,67
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:28:50","Ball Position",670,67
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:28:58","Restart",671,67
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:29:03","Player_DATA_CONFIRMED",672,67
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:29:08","POSSIBLE_TI",673,67
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:29:09","TI2",674,67
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:29:11","Restart",675,67
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:29:28","POSSIBLE_TI",676,67
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:29:29","TI1",677,67
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:29:46","SUB1",678,68
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:30:13","Restart",679,68
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:30:21","SAFE1",680,68
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:30:24","SAFE2",681,68
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:30:24","POSSIBLE_TI",682,68
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:30:25","TI2",683,68
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:30:28","Restart",684,68
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:30:33","AT2",685,68
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:30:35","DANGER2",686,69
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:30:35","DAT2",687,69
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:30:40","SAFE1",688,69
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:30:48","AT1",689,69
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:30:54","DANGER1",690,69
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:30:54","DAT1",691,69
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:30:55","POSSIBLE_TI",692,69
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:30:58","TI1",693,69
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:31:17","Restart",694,69
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:31:21","SAFE2",695,69
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:31:30","Possible Free Kick",696,69
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:31:33","F1",698,70
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:31:33","FK2",699,70
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:31:33","Ball Position",700,70
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:31:34","Restart",701,70
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:31:34","Player_DATA_CONFIRMED",702,70
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:31:38","AT2",703,70
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:32:02","DANGER2",704,70
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:32:02","DAT2",705,70
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:32:34","SAFE2",706,71
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:32:49","AT2",707,71
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:32:53","DANGER2",708,71
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:32:53","DAT2",709,71
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:33:42","SAFE1",710,72
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:33:46","Possible Free Kick",711,72
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:33:56","F2",713,72
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:33:56","FK1",714,72
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:33:56","DANGER1",715,72
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:33:56","DFK1",716,72
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:33:56","Ball Position",717,72
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:34:06","SUB2",718,72
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:34:25","Restart",719,72
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:34:35","POSSIBLE_TI",720,73
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:34:36","TI1",721,73
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:34:51","Restart",722,73
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:34:57","POSSIBLE_TI",723,73
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:34:59","TI1",724,73
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:35:07","Restart",725,73
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:35:20","SAFE2",726,73
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:35:24","POSSIBLE_CARDS",727,73
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:35:29","YC1",728,73
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:35:30","CONF_YC1",729,73
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:35:31","Scorer",730,73
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:35:35","Player_DATA_CONFIRMED",731,74
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:35:36","Possible Free Kick",732,74
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:35:40","F1",734,74
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:35:40","FK2",735,74
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:35:40","Ball Position",736,74
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:35:42","Restart",737,74
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:35:47","AT2",738,74
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:35:51","DANGER2",739,74
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:35:51","DAT2",740,74
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:35:58","SAFE2",741,74
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:36:08","AT2",742,74
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:36:09","DANGER2",743,74
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:36:09","DAT2",744,74
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:36:31","POSSIBLE_TI",745,74
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:36:32","TI2",746,74
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:36:33","Scorer",747,74
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:36:33","Player_DATA_CONFIRMED",748,74
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:36:48","Restart",749,75
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:37:01","SAFE2",750,75
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:37:13","AT2",751,75
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:37:17","DANGER2",752,75
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:37:17","DAT2",753,75
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:37:49","Possible Free Kick",754,76
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:37:50","F1",756,76
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:37:50","FK2",757,76
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:37:50","DFK2",758,76
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:37:50","Ball Position",759,76
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:38:46","Restart",760,77
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:38:56","POSSIBLE_TI",761,77
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:38:56","TI2",762,77
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:39:06","Restart",763,77
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:39:37","POSSIBLE_CARDS",764,78
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:39:39","YC1",765,78
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:39:40","CONF_YC1",766,78
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:39:41","Scorer",767,78
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:39:47","Possible Free Kick",768,78
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:39:51","F1",770,78
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:39:51","FK2",771,78
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:39:51","DFK2",772,78
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:39:51","Ball Position",773,78
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:40:10","SUB2",774,78
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:40:47","SUB1",775,79
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:41:04","Player_DATA_CONFIRMED",776,79
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:41:04","Scorer",777,79
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:41:04","Player_DATA_CONFIRMED",778,79
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:41:38","Restart",779,80
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:41:41","GOAL2",780,80
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:42:03","Player_DATA_CONFIRMED",781,80
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:42:06","CONF_GOAL2",782,80
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:42:35","Scorer",783,81
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:42:35","KO1",784,81
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:42:35","SAFE1",785,81
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:42:43","AT2",786,81
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:42:47","DANGER2",787,81
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:42:47","DAT2",788,81
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:42:51","POSSIBLE_TI",789,81
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:42:52","TI2",790,81
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:42:55","Restart",791,81
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:43:00","SAFE1",792,81
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:43:01","Possible Free Kick",793,81
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:43:02","F2",795,81
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:43:02","FK1",796,81
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:43:02","Ball Position",797,81
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:43:04","Scorer",798,81
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:43:04","Player_DATA_CONFIRMED",799,81
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:43:11","Restart",800,81
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:43:15","AT1",801,81
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:43:19","POSSIBLE_TI",802,81
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:43:19","TI1",803,81
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:43:22","Restart",804,81
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:43:24","DANGER1",805,81
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:43:24","DAT1",806,81
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:43:29","SAFE2",807,81
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:43:34","AT1",808,82
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:43:39","DANGER1",809,82
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:43:39","DAT1",810,82
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:43:42","SAFE2",811,82
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:43:54","AT2",812,82
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:44:03","SAFE1",813,82
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:44:04","POSSIBLE_TI",814,82
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:44:05","TI1",815,82
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:44:08","Restart",816,82
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:44:11","AT1",817,82
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:44:17","DANGER1",818,82
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:44:17","DAT1",819,82
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:44:21","SAFE2",820,82
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:44:21","AT2",821,82
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:44:25","DANGER2",822,82
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:44:25","DAT2",823,82
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:44:26","GOAL2",824,82
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:44:51","CONF_GOAL2",825,83
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:44:54","POSSIBLE_CARDS",826,83
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:44:58","YC2",827,83
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:45:01","CONF_YC2",828,83
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:45:05","Scorer",829,83
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:45:27","Scorer",830,83
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:45:27","KO1",831,83
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:45:27","SAFE1",832,83
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:45:36","POSSIBLE_TI",833,84
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:45:37","TI1",834,84
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:45:40","Restart",835,84
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:45:41","AT1",836,84
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:45:42","DANGER1",837,84
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:45:42","DAT1",838,84
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:45:58","SAFE2",839,84
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:45:58","Possible Free Kick",840,84
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:45:59","F1",842,84
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:45:59","FK2",843,84
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:45:59","Ball Position",844,84
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:46:05","Scorer",845,84
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:46:05","Player_DATA_CONFIRMED",846,84
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:46:21","Restart",847,84
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:46:26","Scorer",848,84
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:46:26","Player_DATA_CONFIRMED",849,84
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:46:39","POSSIBLE_CARDS",850,85
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:46:39","YC1",851,85
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:46:40","CONF_YC1",852,85
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:46:41","Scorer",853,85
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:46:42","Possible Free Kick",854,85
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:46:46","F1",856,85
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:46:46","FK2",857,85
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:46:46","DANGER2",858,85
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:46:46","DFK2",859,85
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:46:46","Ball Position",860,85
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:47:10","Restart",861,85
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:47:23","POSSIBLE_TI",862,85
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:47:24","TI2",863,85
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:47:26","Restart",864,85
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:47:31","SAFE2",865,85
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:47:38","AT2",866,86
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:47:45","DANGER2",867,86
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:47:45","DAT2",868,86
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:48:04","Scorer",869,86
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:48:04","Player_DATA_CONFIRMED",870,86
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:48:07","SAFE1",871,86
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:48:24","POSSIBLE_CARDS",872,86
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:48:32","NO_Cards",873,86
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:48:34","Possible Free Kick",874,87
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:48:37","F2",876,87
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:48:37","FK1",877,87
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:48:37","DANGER1",878,87
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:48:37","DFK1",879,87
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:48:37","Ball Position",880,87
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:49:02","Restart",881,87
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:49:13","SAFE2",882,87
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:49:14","POSSIBLE_TI",883,87
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:49:15","TI2",884,87
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:49:28","Restart",885,87
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:50:07","POSSIBLE_TI",886,88
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:50:08","TI1",887,88
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:50:10","Restart",888,88
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:50:18","SAFE2",889,88
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:50:28","AT2",890,88
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:50:30","DANGER2",891,88
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:50:30","DAT2",892,88
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:50:38","SHB2",893,89
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:50:41","SAFE1",894,89
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:50:42","GK1",895,89
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:50:44","Restart",896,89
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:50:50","AT1",897,89
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:50:51","DANGER1",898,89
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:50:51","DAT1",899,89
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:50:55","POSSIBLE_TI",900,89
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:50:57","TI1",901,89
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:51:08","PCR1",902,89
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:51:18","Restart",903,89
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:51:18","CR1",904,89
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:51:20","Ball Position",905,89
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:51:29","Restart",906,89
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:51:54","SAFE2",907,90
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:51:55","GK2",908,90
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:52:20","Restart",909,90
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:52:26","AT2",910,90
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:52:27","DANGER2",911,90
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:52:27","DAT2",912,90
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:52:44","SAFE1",913,91
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:52:49","Extra Time",914,91
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:52:56","AT1",915,91
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:53:00","DANGER1",916,91
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:53:00","DAT1",917,91
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:53:09","SAFE2",918,91
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:53:09","AT2",919,91
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:53:11","DANGER2",920,91
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:53:11","DAT2",921,91
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:53:18","SAFE1",922,91
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:53:39","AT1",923,92
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:53:42","DANGER1",924,92
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:53:42","DAT1",925,92
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:54:21","SAFE1",926,92
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:54:21","POSSIBLE_TI",927,92
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:54:22","TI1",928,92
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:54:24","Restart",929,92
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:54:29","AT1",930,92
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:54:30","DANGER1",931,92
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:54:30","DAT1",932,92
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:54:44","SAFE2",933,93
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:54:48","POSSIBLE_CARDS",934,93
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:54:50","PRC",935,93
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:54:50","Danger",936,93
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:54:54","YRC1",937,93
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:54:58","CONF_YC_RC1",938,93
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:54:58","Scorer",939,93
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:55:04","Possible Free Kick",940,93
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:55:08","F1",942,93
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:55:08","FK2",943,93
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:55:08","DFK2",944,93
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:55:08","Ball Position",945,93
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:55:15","Restart",946,93
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:55:24","SAFE1",947,93
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:55:27","Possible Free Kick",948,93
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:55:29","O2",950,93
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:55:29","FK1",951,93
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:55:29","Ball Position",952,93
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:55:33","Restart",953,93
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:55:34","AT1",954,94
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:55:36","DANGER1",955,94
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:55:36","DAT1",956,94
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:55:42","Stop RT2",957,94
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:55:42","Stop Game",958,94
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:56:07","CONF_PERIOD_SCORE",959,93
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:56:23","Scorer",960,93
+973769,"Toulouse FC","OSC Lille","05/06/2018 16:56:23","Player_DATA_CONFIRMED",961,93

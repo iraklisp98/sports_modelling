@@ -1,0 +1,947 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 17:11:16","Transmission Online",0,0
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 17:12:18","Jersey Changed",1,0
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 17:12:19","Jersey Changed",2,0
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 18:06:02","Lineup changed",3,0
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 18:11:06","Scout in Stadion",4,0
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 18:42:56","GCC",5,0
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 18:56:20","Players are coming out",6,0
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 18:56:29","Players lined up",7,0
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 18:56:49","Shake hands",8,0
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 18:57:29","Flip coin",9,0
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 18:58:10","GCC",10,0
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 18:58:27","Minute of silent",11,0
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 18:59:50","Game about to start",12,0
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:00:15","Start RT1 Team 2",13,1
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:00:23","SAFE1",14,1
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:00:27","SAFE2",15,1
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:00:31","AT2",16,1
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:00:34","DANGER2",17,1
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:00:34","DAT2",18,1
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:00:37","SAFE1",19,1
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:01:01","AT1",20,1
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:01:06","DANGER1",21,1
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:01:06","DAT1",22,1
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:01:11","PCR1",23,1
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:01:16","SHG1",24,2
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:01:19","CR1",25,2
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:01:21","Ball Position",26,2
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:01:36","Restart",27,2
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:01:42","BLOCKED1",28,2
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:01:55","SAFE2",29,2
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:02:01","Possible Free Kick",30,2
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:02:02","F1",32,2
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:02:02","FK2",33,2
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:02:02","Ball Position",34,2
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:02:08","Restart",35,2
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:02:12","SAFE1",36,2
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:02:26","AT1",37,3
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:02:29","SAFE2",38,3
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:02:34","SAFE1",39,3
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:02:37","AT2",40,3
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:02:37","DANGER2",41,3
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:02:37","DAT2",42,3
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:02:41","SAFE1",43,3
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:02:55","AT1",44,3
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:03:01","SAFE2",45,3
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:03:30","SAFE1",46,4
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:03:31","POSSIBLE_TI",47,4
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:03:31","TI1",48,4
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:03:45","Restart",49,4
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:03:56","AT1",50,4
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:04:00","DANGER1",51,4
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:04:00","DAT1",52,4
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:04:10","SAFE2",53,4
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:04:10","GK2",54,4
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:04:37","Restart",55,5
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:04:45","AT2",56,5
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:04:55","DANGER2",57,5
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:04:55","DAT2",58,5
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:05:20","SAFE1",59,6
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:05:21","GK1",60,6
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:06:05","Restart",61,6
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:06:09","AT1",62,6
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:06:15","DANGER1",63,7
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:06:15","DAT1",64,7
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:06:20","PCR1",65,7
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:06:23","CR1",66,7
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:06:24","Ball Position",67,7
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:06:42","Restart",68,7
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:06:46","Possible Free Kick",69,7
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:06:54","SAFE2",71,7
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:06:54","O1",72,7
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:06:54","FK2",73,7
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:06:54","Ball Position",74,7
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:06:55","Restart",75,7
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:07:00","AT1",76,7
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:07:06","DANGER1",77,7
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:07:06","DAT1",78,7
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:07:12","SAFE2",79,7
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:07:15","AT1",80,8
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:07:20","SAFE2",81,8
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:07:31","SAFE1",82,8
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:07:34","AT1",83,8
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:07:38","SAFE2",84,8
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:07:46","AT2",85,8
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:07:49","SAFE1",86,8
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:08:07","SAFE2",87,8
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:08:17","AT2",88,9
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:08:18","Possible Free Kick",89,9
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:08:20","F1",91,9
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:08:20","FK2",92,9
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:08:20","DANGER2",93,9
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:08:20","DFK2",94,9
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:08:20","Ball Position",95,9
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:08:36","Restart",96,9
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:08:47","SAFE1",97,9
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:08:51","AT2",98,9
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:08:51","DANGER2",99,9
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:08:51","DAT2",100,9
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:08:59","SHG2",101,9
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:09:00","SAFE1",102,9
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:09:18","SAFE2",103,10
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:09:20","POSSIBLE_TI",104,10
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:09:21","TI2",105,10
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:09:29","Restart",106,10
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:09:47","SAFE2",107,10
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:09:56","AT1",108,10
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:09:56","DANGER1",109,10
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:09:56","DAT1",110,10
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:10:01","SAFE2",111,10
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:10:19","AT2",112,11
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:10:27","SAFE1",113,11
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:10:46","AT2",114,11
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:10:47","Possible Free Kick",115,11
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:10:49","F1",117,11
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:10:49","FK2",118,11
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:10:49","DANGER2",119,11
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:10:49","DFK2",120,11
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:10:49","Ball Position",121,11
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:11:01","Restart",122,11
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:11:18","SAFE2",123,12
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:11:21","AT2",124,12
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:11:33","SAFE1",125,12
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:11:37","AT2",126,12
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:11:37","DANGER2",127,12
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:11:37","DAT2",128,12
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:11:38","PCR2",129,12
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:11:46","CR2",130,12
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:11:47","Ball Position",131,12
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:12:07","Restart",132,12
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:12:12","SAFE1",133,12
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:12:49","AT1",134,13
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:12:51","DANGER1",135,13
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:12:51","DAT1",136,13
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:12:59","SHG1",137,13
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:13:03","SAFE2",138,13
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:13:23","AT2",139,14
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:13:33","DANGER2",140,14
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:13:33","DAT2",141,14
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:13:52","SAFE1",142,14
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:13:55","SAFE2",143,14
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:13:58","AT2",144,14
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:14:00","DANGER2",145,14
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:14:00","DAT2",146,14
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:14:03","SAFE1",147,14
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:14:06","AT1",148,14
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:14:09","SAFE1",149,14
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:14:43","AT1",150,15
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:14:44","POSSIBLE_TI",151,15
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:14:45","TI1",152,15
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:15:04","Restart",153,15
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:15:04","DANGER1",154,15
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:15:04","DAT1",155,15
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:15:13","SAFE2",156,15
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:15:14","AT2",157,15
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:15:18","SAFE1",158,16
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:15:58","SAFE2",159,16
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:16:11","AT2",160,16
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:16:16","POSSIBLE_TI",161,17
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:16:17","TI2",162,17
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:16:30","Restart",163,17
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:16:31","DANGER2",164,17
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:16:31","DAT2",165,17
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:16:34","POSSIBLE_TI",166,17
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:16:35","TI2",167,17
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:16:43","Restart",168,17
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:16:53","Possible Free Kick",169,17
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:16:55","SAFE1",171,17
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:16:55","F2",172,17
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:16:55","FK1",173,17
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:16:55","Ball Position",174,17
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:16:59","Restart",175,17
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:17:35","AT1",176,18
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:17:41","POSSIBLE_TI",177,18
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:17:41","TI2",178,18
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:17:43","SAFE2",179,18
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:17:59","Restart",180,18
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:18:03","POSSIBLE_TI",181,18
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:18:04","TI2",182,18
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:18:11","Restart",183,18
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:18:11","AT2",184,18
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:18:13","DANGER2",185,18
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:18:13","DAT2",186,18
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:18:17","SAFE1",187,19
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:18:23","AT1",188,19
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:18:28","POSSIBLE_TI",189,19
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:18:28","TI2",190,19
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:18:29","SAFE2",191,19
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:18:50","Restart",192,19
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:18:58","AT1",193,19
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:18:59","POSSIBLE_TI",194,19
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:19:01","TI1",195,19
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:19:08","Restart",196,19
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:19:11","SAFE2",197,19
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:19:16","AT1",198,20
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:19:19","DANGER1",199,20
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:19:19","DAT1",200,20
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:19:23","PCR1",201,20
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:19:26","CR1",202,20
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:19:27","Ball Position",203,20
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:19:47","Restart",204,20
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:19:55","SAFE2",205,20
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:19:59","AT1",206,20
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:19:59","DANGER1",207,20
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:19:59","DAT1",208,20
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:20:03","SAFE2",209,20
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:20:09","AT2",210,20
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:20:11","SAFE1",211,20
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:20:13","AT1",212,20
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:20:15","DANGER1",213,21
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:20:15","DAT1",214,21
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:20:25","POSSIBLE_TI",215,21
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:20:28","TI2",216,21
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:20:45","Restart",217,21
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:20:55","Possible Free Kick",218,21
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:21:03","SAFE2",220,21
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:21:03","F1",221,21
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:21:03","FK2",222,21
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:21:03","Ball Position",223,21
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:21:16","Restart",224,22
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:21:19","AT2",225,22
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:21:48","Possible Free Kick",226,22
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:21:50","SAFE1",229,22
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:21:50","F2",230,22
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:21:50","FK1",231,22
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:21:50","Ball Position",232,22
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:22:01","Restart",233,22
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:22:17","AT1",234,23
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:22:21","SAFE2",235,23
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:22:22","AT2",236,23
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:22:27","DANGER2",237,23
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:22:27","DAT2",238,23
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:22:36","SAFE1",239,23
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:22:36","GK1",240,23
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:23:00","Restart",241,23
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:23:13","AT1",242,23
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:23:22","DANGER1",243,24
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:23:22","DAT1",244,24
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:23:29","PCR1",245,24
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:23:35","SHB1",246,24
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:23:38","NCR1",247,24
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:23:38","SAFE2",248,24
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:23:39","GK2",249,24
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:24:03","Restart",250,24
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:24:13","AT1",251,24
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:24:17","Possible Free Kick",252,25
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:24:28","SAFE2",254,25
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:24:28","F1",255,25
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:24:28","FK2",256,25
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:24:28","Ball Position",257,25
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:24:56","Restart",258,25
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:25:07","AT2",259,25
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:25:07","POSSIBLE_TI",260,25
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:25:10","TI2",261,25
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:25:17","Restart",262,26
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:25:19","SAFE2",263,26
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:25:30","AT2",264,26
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:25:31","DANGER2",265,26
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:25:31","DAT2",266,26
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:25:38","PCR2",267,26
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:25:45","CR2",268,26
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:25:46","Ball Position",269,26
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:26:06","Restart",270,26
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:26:13","SHB2",271,26
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:26:14","SAFE1",272,26
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:26:14","GK1",273,26
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:26:30","Restart",274,27
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:26:36","AT1",275,27
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:26:36","Possible Free Kick",276,27
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:26:38","F2",278,27
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:26:38","FK1",279,27
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:26:38","DANGER1",280,27
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:26:38","DFK1",281,27
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:26:38","Ball Position",282,27
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:26:50","Restart",283,27
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:26:52","SAFE1",284,27
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:26:54","AT1",285,27
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:27:02","DANGER1",286,27
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:27:02","DAT1",287,27
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:27:03","POSSIBLE_TI",288,27
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:27:06","TI1",289,27
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:27:23","Restart",290,28
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:27:32","GOAL1",291,28
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:27:39","Scorer",292,28
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:28:05","CONF_GOAL1",293,28
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:28:40","KO2",294,29
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:28:40","SAFE2",295,29
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:28:45","AT2",296,29
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:28:59","DANGER2",297,29
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:28:59","DAT2",298,29
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:29:02","Possible Free Kick",299,29
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:29:06","Player_DATA_CONFIRMED",301,29
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:29:06","Assist",302,29
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:29:09","F1",303,29
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:29:09","FK2",304,29
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:29:09","DFK2",305,29
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:29:09","Ball Position",306,29
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:29:41","Restart",307,30
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:30:15","Possible Free Kick",308,31
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:30:43","F1",310,31
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:30:43","FK2",311,31
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:30:43","DFK2",312,31
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:30:43","Ball Position",313,31
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:31:07","Restart",314,31
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:31:11","SAFE1",315,31
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:31:32","SAFE2",316,32
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:31:33","POSSIBLE_TI",317,32
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:31:34","TI2",318,32
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:31:47","Restart",319,32
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:32:00","POSSIBLE_TI",320,32
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:32:01","TI2",321,32
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:32:14","Restart",322,32
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:32:15","AT2",323,33
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:32:16","SAFE1",324,33
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:32:17","POSSIBLE_TI",325,33
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:32:18","TI1",326,33
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:32:20","Restart",327,33
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:32:26","AT1",328,33
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:32:30","SAFE1",329,33
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:32:47","SAFE2",330,33
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:32:51","AT2",331,33
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:32:53","DANGER2",332,33
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:32:53","DAT2",333,33
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:32:59","POSSIBLE_TI",334,33
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:33:01","TI2",335,33
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:33:02","Restart",336,33
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:33:10","SAFE1",337,33
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:33:22","Possible Free Kick",338,34
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:33:24","POSSIBLE_CARDS",340,34
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:33:28","F2",341,34
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:33:28","FK1",342,34
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:33:28","Ball Position",343,34
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:33:43","Restart",344,34
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:33:43","NO_Cards",345,34
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:33:45","AT1",346,34
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:33:48","SAFE2",347,34
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:34:05","AT2",348,34
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:34:05","DANGER2",349,34
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:34:05","DAT2",350,34
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:34:09","SAFE1",351,34
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:34:16","SAFE2",352,35
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:34:18","AT1",353,35
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:34:19","DANGER1",354,35
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:34:19","DAT1",355,35
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:34:24","SHG1",356,35
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:34:28","SAFE2",357,35
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:34:34","SAFE1",358,35
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:34:37","SAFE2",359,35
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:34:37","AT2",360,35
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:34:45","SAFE1",361,35
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:34:49","SAFE2",362,35
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:34:51","AT2",363,35
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:34:59","DANGER2",364,35
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:34:59","DAT2",365,35
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:35:01","SAFE1",366,35
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:35:02","GK1",367,35
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:35:23","Restart",368,36
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:35:28","SAFE2",369,36
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:35:29","POSSIBLE_TI",370,36
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:35:30","TI2",371,36
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:35:39","Restart",372,36
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:35:46","AT2",373,36
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:35:51","SAFE1",374,36
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:36:00","AT1",375,36
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:36:01","Possible Free Kick",376,36
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:36:05","No Free Kick",378,36
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:36:05","SAFE2",379,36
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:36:06","AT2",380,36
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:36:07","POSSIBLE_TI",381,36
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:36:07","TI2",382,36
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:36:08","Restart",383,36
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:36:10","SAFE1",384,36
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:36:10","POSSIBLE_TI",385,36
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:36:12","TI1",386,36
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:36:31","Restart",387,37
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:36:34","AT1",388,37
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:36:36","DANGER1",389,37
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:36:36","DAT1",390,37
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:36:42","SAFE2",391,37
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:36:50","AT2",392,37
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:36:55","Possible Free Kick",393,37
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:37:01","F1",395,37
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:37:01","FK2",396,37
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:37:01","DANGER2",397,37
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:37:01","DFK2",398,37
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:37:01","Ball Position",399,37
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:37:27","Restart",400,38
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:37:34","SAFE1",401,38
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:37:44","AT1",402,38
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:37:46","SAFE2",403,38
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:37:46","AT2",404,38
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:37:49","SAFE1",405,38
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:38:09","SAFE2",406,38
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:38:16","AT1",407,39
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:38:22","DANGER1",408,39
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:38:22","DAT1",409,39
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:38:27","SAFE2",410,39
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:38:38","AT2",411,39
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:38:46","DANGER2",412,39
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:38:46","DAT2",413,39
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:38:50","SAFE2",414,39
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:38:52","AT2",415,39
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:38:58","DANGER2",416,39
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:38:58","DAT2",417,39
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:39:09","SAFE1",418,39
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:39:09","GK1",419,39
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:39:29","Restart",420,40
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:39:38","SAFE2",421,40
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:39:44","AT2",422,40
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:39:45","SAFE1",423,40
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:40:07","AT1",424,40
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:40:09","SAFE1",425,40
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:40:18","AT1",426,41
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:40:21","SAFE2",427,41
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:40:25","AT2",428,41
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:40:28","DANGER2",429,41
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:40:28","DAT2",430,41
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:40:30","SAFE1",431,41
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:41:09","AT1",432,41
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:41:20","DANGER1",433,42
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:41:20","DAT1",434,42
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:41:27","SAFE2",435,42
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:41:47","SAFE1",436,42
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:41:48","AT1",437,42
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:41:53","SAFE1",438,42
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:42:03","AT1",439,42
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:42:04","SAFE1",440,42
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:42:18","SAFE2",441,43
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:42:25","POSSIBLE_TI",442,43
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:42:27","TI2",443,43
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:42:45","Restart",444,43
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:42:54","AT2",445,43
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:43:03","DANGER2",446,43
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:43:03","DAT2",447,43
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:43:15","SAFE1",448,44
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:43:21","AT2",449,44
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:43:24","POSSIBLE_TI",450,44
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:43:25","TI2",451,44
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:43:36","Restart",452,44
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:43:44","SAFE1",453,44
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:43:46","AT1",454,44
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:43:48","DANGER1",455,44
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:43:48","DAT1",456,44
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:43:55","PCR1",457,44
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:44:07","SHG1",458,44
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:44:21","CR1",459,45
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:44:22","Ball Position",460,45
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:44:33","Restart",461,45
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:44:40","Possible Free Kick",462,45
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:44:46","F2",464,45
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:44:46","FK1",465,45
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:44:46","DFK1",466,45
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:44:46","Ball Position",467,45
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:45:30","Restart",468,46
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:45:34","Possible Free Kick",469,46
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:45:37","SAFE2",471,46
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:45:37","O1",472,46
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:45:37","FK2",473,46
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:45:37","Ball Position",474,46
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:45:50","Stop RT1",475,46
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:46:04","CONF_PERIOD_SCORE",476,45
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 19:58:28","Players are coming out",477,45
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:00:55","Game about to start",478,45
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:01:33","Start RT2 Team 1",479,46
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:01:42","Restart",480,46
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:01:42","AT1",481,46
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:01:49","Possible Free Kick",482,46
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:01:53","F2",484,46
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:01:53","FK1",485,46
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:01:53","DANGER1",486,46
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:01:53","DFK1",487,46
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:01:53","Ball Position",488,46
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:02:16","Restart",489,46
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:02:17","SAFE1",490,46
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:02:18","AT1",491,46
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:02:23","DANGER1",492,46
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:02:23","DAT1",493,46
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:02:28","PCR1",494,46
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:02:33","CR1",495,47
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:02:34","Ball Position",496,47
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:02:50","Restart",497,47
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:02:57","SHG1",498,47
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:02:59","SAFE2",499,47
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:03:03","AT2",500,47
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:03:10","DANGER2",501,47
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:03:10","DAT2",502,47
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:03:15","SHW2",503,47
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:03:22","POSSIBLE_TI",504,47
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:03:26","TI2",505,47
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:03:27","Restart",506,47
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:03:38","POSSIBLE_TI",507,48
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:03:39","TI2",508,48
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:03:52","Restart",509,48
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:03:57","SAFE1",510,48
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:04:03","AT1",511,48
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:04:06","DANGER1",512,48
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:04:06","DAT1",513,48
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:04:14","SAFE2",514,48
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:04:38","AT2",515,49
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:04:45","DANGER2",516,49
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:04:45","DAT2",517,49
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:04:50","SAFE1",518,49
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:04:57","AT1",519,49
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:05:00","POSSIBLE_TI",520,49
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:05:00","TI1",521,49
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:05:22","Restart",522,49
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:05:22","SAFE1",523,49
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:05:36","AT2",524,50
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:05:36","DANGER2",525,50
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:05:36","DAT2",526,50
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:05:46","SHG2",527,50
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:05:55","SAFE1",528,50
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:05:57","POSSIBLE_TI",529,50
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:05:59","TI2",530,50
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:06:21","Restart",531,50
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:06:22","SAFE1",532,50
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:06:33","AT1",533,51
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:06:38","SAFE2",534,51
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:06:46","AT2",535,51
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:06:49","DANGER2",536,51
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:06:49","DAT2",537,51
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:06:54","PCR2",538,51
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:07:06","CR2",539,51
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:07:07","Ball Position",540,51
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:07:19","Restart",541,51
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:07:37","PCR2",542,52
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:07:42","CR2",543,52
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:07:44","Ball Position",544,52
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:07:59","Restart",545,52
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:08:01","PCR2",546,52
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:08:15","CR2",547,52
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:08:17","Ball Position",548,52
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:08:18","Restart",549,52
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:08:38","SAFE1",550,53
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:08:49","AT2",551,53
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:08:51","DANGER2",552,53
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:08:51","DAT2",553,53
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:08:54","SAFE1",554,53
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:09:01","AT1",555,53
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:09:03","DANGER1",556,53
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:09:03","DAT1",557,53
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:09:09","Possible Free Kick",558,53
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:09:13","SAFE2",560,53
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:09:13","O1",561,53
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:09:13","FK2",562,53
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:09:13","Ball Position",563,53
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:09:38","Restart",564,54
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:09:57","POSSIBLE_TI",565,54
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:09:57","TI2",566,54
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:10:02","Restart",567,54
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:10:10","POSSIBLE_TI",568,54
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:10:10","TI2",569,54
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:10:21","Restart",570,54
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:10:30","SAFE1",571,54
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:10:31","AT1",572,54
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:10:36","SAFE2",573,55
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:10:42","SAFE1",574,55
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:11:03","AT1",575,55
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:11:08","DANGER1",576,55
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:11:08","DAT1",577,55
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:11:18","POSSIBLE_TI",578,55
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:11:20","TI1",579,55
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:11:42","Restart",580,56
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:11:46","PCR1",581,56
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:11:49","CR1",582,56
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:11:51","Ball Position",583,56
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:12:18","Restart",584,56
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:12:26","SAFE2",585,56
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:12:31","AT2",586,56
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:12:40","POSSIBLE_TI",587,57
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:12:41","TI2",588,57
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:12:45","Restart",589,57
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:13:08","SAFE1",590,57
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:13:09","POSSIBLE_TI",591,57
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:13:10","TI1",592,57
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:13:28","Restart",593,57
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:13:35","POSSIBLE_TI",594,58
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:13:35","TI1",595,58
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:13:44","Restart",596,58
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:13:45","AT1",597,58
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:13:50","SAFE2",598,58
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:13:54","AT2",599,58
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:13:56","DANGER2",600,58
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:13:56","DAT2",601,58
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:13:59","SAFE1",602,58
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:14:16","SAFE2",603,58
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:14:19","AT1",604,58
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:14:21","POSSIBLE_TI",605,58
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:14:23","TI1",606,58
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:15:13","SUB1",607,59
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:15:31","Restart",608,59
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:15:35","AT2",609,60
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:15:35","DANGER2",610,60
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:15:35","DAT2",611,60
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:15:47","SAFE1",612,60
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:16:06","AT2",613,60
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:16:15","DANGER2",614,60
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:16:15","DAT2",615,60
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:16:16","Possible Free Kick",616,60
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:16:30","F1",618,60
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:16:30","FK2",619,60
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:16:30","DFK2",620,60
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:16:30","Ball Position",621,60
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:16:36","Player_DATA_CONFIRMED",622,61
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:16:55","Restart",623,61
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:17:03","Possible Free Kick",624,61
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:17:05","POSSIBLE_CARDS",626,61
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:17:18","YC1",627,61
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:17:30","Injury Break",628,61
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:17:41","CONF_YC1",629,62
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:17:49","Scorer",630,62
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:18:00","Restart",631,62
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:18:00","F1",632,62
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:18:00","FK2",633,62
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:18:00","DFK2",634,62
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:18:00","Ball Position",635,62
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:18:07","Player_DATA_CONFIRMED",636,62
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:18:25","Restart",637,62
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:18:33","BLOCKED2",638,63
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:18:40","SAFE1",639,63
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:18:42","Possible Free Kick",640,63
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:18:42","POSSIBLE_CARDS",642,63
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:18:44","PRC",643,63
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:18:44","Danger",644,63
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:18:54","RC2",645,63
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:19:09","CONF_RC2",646,63
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:19:27","Scorer",647,63
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:19:40","F2",648,64
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:19:40","FK1",649,64
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:19:40","DFK1",650,64
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:19:41","Ball Position",651,64
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:20:01","Restart",652,64
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:20:06","SAFE2",653,64
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:20:07","Player_DATA_CONFIRMED",654,64
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:20:13","AT2",655,64
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:20:20","DANGER2",656,64
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:20:20","DAT2",657,64
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:20:30","SHB2",658,64
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:20:31","SAFE1",659,64
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:20:32","GK1",660,64
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:20:53","Restart",661,65
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:20:59","SAFE2",662,65
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:21:02","AT2",663,65
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:21:06","POSSIBLE_TI",664,65
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:21:07","TI2",665,65
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:21:13","Restart",666,65
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:21:24","POSSIBLE_TI",667,65
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:21:25","TI2",668,65
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:21:26","Restart",669,65
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:21:35","SAFE1",670,66
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:21:47","AT2",671,66
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:21:47","Possible Free Kick",672,66
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:21:49","F1",674,66
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:21:49","FK2",675,66
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:21:49","DANGER2",676,66
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:21:49","DFK2",677,66
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:21:49","Ball Position",678,66
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:22:00","Restart",679,66
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:22:13","SAFE1",680,66
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:22:14","GK1",681,66
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:22:40","Restart",682,67
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:22:47","Possible Free Kick",683,67
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:22:48","SAFE2",685,67
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:22:48","F1",686,67
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:22:48","FK2",687,67
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:22:48","Ball Position",688,67
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:22:53","Restart",689,67
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:22:53","AT2",690,67
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:22:56","SAFE2",691,67
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:23:01","AT2",692,67
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:23:08","DANGER2",693,67
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:23:08","DAT2",694,67
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:23:17","Possible Free Kick",695,67
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:23:22","No Free Kick",697,67
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:23:23","POSSIBLE_TI",698,67
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:23:23","TI2",699,67
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:23:24","Restart",700,67
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:23:26","Possible Free Kick",701,67
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:23:33","F1",703,68
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:23:33","FK2",704,68
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:23:33","DFK2",705,68
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:23:33","Ball Position",706,68
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:23:58","Restart",707,68
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:24:02","SHG2",708,68
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:24:02","SAFE1",709,68
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:24:38","SAFE2",710,69
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:25:07","SAFE1",711,69
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:25:08","POSSIBLE_TI",712,69
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:25:10","TI1",713,69
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:25:24","Restart",714,69
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:25:32","AT2",715,69
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:25:32","Possible Free Kick",716,69
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:25:43","F1",718,70
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:25:43","FK2",719,70
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:25:43","DANGER2",720,70
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:25:43","DFK2",721,70
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:25:43","Ball Position",722,70
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:26:00","SUB2",723,70
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:26:13","Restart",724,70
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:26:17","SAFE2",725,70
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:26:29","AT2",726,70
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:26:29","DANGER2",727,70
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:26:29","DAT2",728,70
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:26:36","PCR2",729,71
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:26:37","SHB2",730,71
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:26:39","CR2",731,71
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:26:42","Ball Position",732,71
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:27:20","Restart",733,71
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:27:27","SAFE1",734,71
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:27:28","GK1",735,71
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:27:47","Restart",736,72
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:28:05","AT1",737,72
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:28:06","Player_DATA_CONFIRMED",738,72
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:28:11","SAFE2",739,72
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:28:14","AT1",740,72
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:28:18","DANGER1",741,72
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:28:18","DAT1",742,72
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:28:29","POSSIBLE_TI",743,72
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:28:30","TI1",744,72
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:28:44","Restart",745,73
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:28:47","SAFE2",746,73
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:28:54","AT2",747,73
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:28:57","DANGER2",748,73
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:28:57","DAT2",749,73
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:29:07","SAFE2",750,73
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:29:08","AT2",751,73
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:29:10","SAFE2",752,73
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:29:12","AT2",753,73
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:29:19","POSSIBLE_TI",754,73
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:29:20","TI2",755,73
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:29:26","Restart",756,73
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:29:41","DANGER2",757,74
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:29:41","DAT2",758,74
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:29:49","SAFE1",759,74
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:29:58","AT1",760,74
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:30:07","DANGER1",761,74
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:30:07","DAT1",762,74
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:30:24","SAFE2",763,74
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:30:52","AT2",764,75
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:31:11","SAFE1",765,75
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:31:12","AT1",766,75
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:31:16","SAFE2",767,75
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:31:20","AT2",768,75
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:31:25","SAFE1",769,75
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:31:26","AT1",770,75
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:31:26","Possible Free Kick",771,75
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:31:27","No Free Kick",773,75
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:31:28","Possible Free Kick",774,75
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:31:35","SAFE2",776,76
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:31:35","O1",777,76
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:31:35","FK2",778,76
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:31:35","Ball Position",779,76
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:31:36","Restart",780,76
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:31:40","AT2",781,76
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:31:46","SAFE1",782,76
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:32:07","AT2",783,76
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:32:09","DANGER2",784,76
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:32:09","DAT2",785,76
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:32:15","SAFE1",786,76
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:32:18","AT1",787,76
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:32:23","DANGER1",788,76
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:32:23","DAT1",789,76
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:32:41","SAFE1",790,77
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:32:44","AT1",791,77
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:32:50","SAFE1",792,77
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:32:54","AT1",793,77
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:33:01","SAFE1",794,77
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:33:07","AT1",795,77
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:33:09","DANGER1",796,77
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:33:09","DAT1",797,77
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:33:17","SAFE2",798,77
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:33:19","AT1",799,77
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:33:24","SAFE2",800,77
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:33:38","AT1",801,78
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:33:41","SAFE1",802,78
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:33:43","POSSIBLE_TI",803,78
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:33:43","TI1",804,78
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:33:53","Restart",805,78
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:34:09","SAFE2",806,78
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:34:25","AT2",807,78
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:34:30","SAFE1",808,78
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:34:36","AT1",809,79
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:34:36","DANGER1",810,79
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:34:36","DAT1",811,79
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:34:41","SAFE2",812,79
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:34:50","POSSIBLE_TI",813,79
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:34:51","TI2",814,79
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:35:02","Restart",815,79
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:35:13","AT2",816,79
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:35:35","POSSIBLE_TI",817,80
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:35:37","TI2",818,80
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:35:48","Restart",819,80
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:35:48","DANGER2",820,80
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:35:48","DAT2",821,80
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:35:57","SAFE1",822,80
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:36:01","AT2",823,80
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:36:06","SAFE1",824,80
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:36:08","AT1",825,80
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:36:12","POSSIBLE_TI",826,80
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:36:14","TI1",827,80
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:36:36","SUB1",828,81
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:36:54","Restart",829,81
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:36:58","DANGER1",830,81
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:36:58","DAT1",831,81
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:37:07","Possible Free Kick",832,81
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:37:07","Player_DATA_CONFIRMED",834,81
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:37:14","SAFE2",835,81
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:37:14","F1",836,81
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:37:14","FK2",837,81
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:37:14","Ball Position",838,81
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:37:30","Restart",839,81
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:37:36","SAFE1",840,82
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:37:39","AT1",841,82
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:37:50","SAFE1",842,82
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:37:56","AT1",843,82
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:38:01","DANGER1",844,82
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:38:01","DAT1",845,82
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:38:06","GOAL1",846,82
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:38:18","Scorer",847,82
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:38:37","CONF_GOAL1",848,83
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:39:03","SUB2",849,83
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:39:07","Player_DATA_CONFIRMED",850,83
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:39:07","Assist",851,83
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:39:15","KO2",852,83
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:39:15","SAFE2",853,83
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:39:17","CLS",854,83
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:39:32","Scorer",855,83
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:39:32","KO2",856,83
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:39:32","SAFE2",857,83
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:39:43","AT2",858,84
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:39:59","DANGER2",859,84
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:39:59","DAT2",860,84
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:40:06","Player_DATA_CONFIRMED",861,84
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:40:12","SAFE1",862,84
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:40:55","AT1",863,85
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:40:56","SAFE2",864,85
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:40:57","AT2",865,85
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:40:58","DANGER2",866,85
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:40:58","DAT2",867,85
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:41:04","Possible Free Kick",868,85
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:41:24","F1",870,85
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:41:24","FK2",871,85
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:41:24","DFK2",872,85
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:41:24","Ball Position",873,85
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:41:48","Restart",874,86
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:41:50","PCR2",875,86
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:41:54","SHB2",876,86
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:42:00","CR2",877,86
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:42:01","Ball Position",878,86
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:42:18","Restart",879,86
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:42:23","SHB2",880,86
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:42:24","SAFE1",881,86
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:42:24","GK1",882,86
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:42:51","SUB1",883,87
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:43:32","SUB2",884,87
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:43:41","Restart",885,88
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:44:07","Player_DATA_CONFIRMED",886,88
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:44:07","Player_DATA_CONFIRMED",887,88
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:44:18","AT2",888,88
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:44:23","DANGER2",889,88
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:44:23","DAT2",890,88
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:44:27","GOAL2",891,88
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:45:04","Scorer",892,89
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:45:05","CONF_GOAL2",893,89
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:45:06","KO1",894,89
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:45:06","SAFE1",895,89
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:45:13","AT1",896,89
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:45:21","DANGER1",897,89
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:45:21","DAT1",898,89
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:45:28","SAFE2",899,89
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:45:36","AT2",900,90
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:45:38","SAFE2",901,90
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:45:44","SAFE1",902,90
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:45:52","SAFE2",903,90
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:46:05","AT2",904,90
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:46:07","Possible Free Kick",905,90
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:46:13","F1",907,90
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:46:13","FK2",908,90
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:46:13","DANGER2",909,90
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:46:13","DFK2",910,90
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:46:13","Ball Position",911,90
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:46:35","Extra Time",912,91
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:46:38","Player_DATA_CONFIRMED",913,91
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:46:38","Assist",914,91
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:46:41","Restart",915,91
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:46:54","Possible Free Kick",916,91
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:46:57","SAFE1",918,91
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:46:57","O2",919,91
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:46:57","FK1",920,91
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:46:57","Ball Position",921,91
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:48:03","Restart",922,92
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:48:05","AT1",923,92
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:48:09","DANGER1",924,92
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:48:09","DAT1",925,92
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:48:21","SAFE1",926,92
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:48:27","POSSIBLE_TI",927,92
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:48:28","TI1",928,92
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:48:48","Restart",929,93
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:48:49","AT1",930,93
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:48:55","DANGER1",931,93
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:48:55","DAT1",932,93
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:48:58","Possible Free Kick",933,93
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:49:01","SAFE2",935,93
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:49:01","O1",936,93
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:49:01","FK2",937,93
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:49:01","Ball Position",938,93
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:49:12","Restart",939,93
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:49:17","AT2",940,93
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:49:17","DANGER2",941,93
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:49:17","DAT2",942,93
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:49:19","SAFE1",943,93
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:49:23","SAFE2",944,93
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:49:24","AT2",945,93
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:49:25","SAFE1",946,93
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:49:28","SAFE2",947,93
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:49:35","SAFE1",948,94
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:49:37","AT1",949,94
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:49:42","DANGER1",950,94
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:49:42","DAT1",951,94
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:49:43","Possible Free Kick",952,94
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:49:55","F2",954,94
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:49:55","FK1",955,94
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:49:55","DFK1",956,94
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:49:55","Ball Position",957,94
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:50:08","Restart",958,94
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:50:15","POSSIBLE_TI",959,94
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:50:18","TI2",960,94
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:50:19","SAFE2",961,94
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:50:20","Restart",962,94
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:50:27","GCC",963,94
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:50:36","AT2",964,95
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:50:36","POSSIBLE_TI",965,95
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:50:37","TI2",966,95
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:50:47","Restart",967,95
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:50:53","DANGER2",968,95
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:50:53","DAT2",969,95
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:51:02","BLOCKED2",970,95
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:51:06","POSSIBLE_TI",971,95
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:51:08","TI2",972,95
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:51:08","Restart",973,95
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:51:15","SAFE1",974,95
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:51:16","AT1",975,95
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:51:19","DANGER1",976,95
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:51:19","DAT1",977,95
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:51:38","Stop RT2",978,95
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:51:38","Stop Game",979,95
+892999,"RCS Strasbourg","Stade Rennais","11/18/2017 20:51:50","CONF_PERIOD_SCORE",980,95

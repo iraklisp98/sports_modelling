@@ -1,0 +1,944 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+979303,"FC Barcelona","Real Sociedad","05/20/2018 17:50:39","Lineup changed",0,0
+979303,"FC Barcelona","Real Sociedad","05/20/2018 17:51:01","Transmission Online",1,0
+979303,"FC Barcelona","Real Sociedad","05/20/2018 17:51:01","Scout in Stadion",2,0
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:10:21","GCC",3,0
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:31:31","GCC",4,0
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:42:59","Players are coming out",5,0
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:44:55","Jersey Changed",6,0
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:44:55","Jersey Changed",7,0
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:44:57","Players lined up",8,0
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:45:45","Shake hands",9,0
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:45:52","Flip coin",10,0
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:46:14","System Message",11,0
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:46:26","Prize giving ceremony",12,0
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:47:29","Photo taking",13,0
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:47:32","Game about to start",14,0
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:47:46","Start RT1 Team 2",15,1
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:47:49","SAFE2",16,1
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:47:51","AT2",17,1
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:47:55","SAFE1",18,1
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:47:56","POSSIBLE_TI",19,1
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:47:57","TI1",20,1
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:48:09","Restart",21,1
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:48:10","SAFE1",22,1
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:48:18","POSSIBLE_TI",23,1
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:48:19","TI1",24,1
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:48:25","Restart",25,1
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:48:25","SAFE1",26,1
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:48:32","AT1",27,1
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:48:39","SAFE2",28,1
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:48:40","Possible Free Kick",29,1
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:48:42","F1",31,1
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:48:42","FK2",32,1
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:48:43","Ball Position",33,1
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:48:50","Restart",34,2
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:48:51","SAFE2",35,2
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:49:07","AT2",36,2
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:49:09","SAFE1",37,2
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:49:20","AT1",38,2
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:49:22","SAFE2",39,2
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:49:24","AT2",40,2
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:49:26","DANGER2",41,2
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:49:26","DAT2",42,2
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:49:35","SHG2",43,2
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:49:38","SAFE1",44,2
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:50:00","SAFE2",45,3
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:50:03","AT2",46,3
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:50:06","DANGER2",47,3
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:50:06","DAT2",48,3
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:50:16","SAFE1",49,3
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:50:19","AT1",50,3
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:50:23","DANGER1",51,3
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:50:23","DAT1",52,3
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:50:30","SAFE1",53,3
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:50:40","AT1",54,3
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:50:42","SAFE2",55,3
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:51:06","AT2",56,4
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:51:07","DANGER2",57,4
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:51:07","DAT2",58,4
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:51:09","SAFE1",59,4
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:51:15","AT1",60,4
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:51:18","DANGER1",61,4
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:51:18","DAT1",62,4
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:51:28","PCR1",63,4
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:51:47","CR1",64,5
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:51:48","Ball Position",65,5
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:51:52","Restart",66,5
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:52:02","SAFE2",67,5
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:52:03","AT2",68,5
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:52:04","DANGER2",69,5
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:52:04","DAT2",70,5
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:52:54","SAFE1",71,6
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:52:56","AT1",72,6
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:52:59","DANGER1",73,6
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:52:59","DAT1",74,6
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:53:30","SAFE2",75,6
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:53:31","GK2",76,6
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:53:45","Restart",77,6
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:53:45","SAFE2",78,6
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:53:52","SAFE1",79,7
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:53:52","POSSIBLE_TI",80,7
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:53:53","TI1",81,7
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:54:02","Restart",82,7
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:54:02","SAFE1",83,7
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:54:09","AT1",84,7
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:54:12","DANGER1",85,7
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:54:12","DAT1",86,7
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:54:23","SAFE2",87,7
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:54:33","AT2",88,7
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:54:34","DANGER2",89,7
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:54:34","DAT2",90,7
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:54:35","SHG2",91,7
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:54:37","PCR2",92,7
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:54:53","CR2",93,8
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:54:54","Ball Position",94,8
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:55:00","Restart",95,8
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:55:16","POSSIBLE_TI",96,8
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:55:17","TI2",97,8
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:55:24","Restart",98,8
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:55:34","SAFE2",99,8
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:55:35","AT2",100,8
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:55:41","SAFE2",101,8
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:56:04","AT2",102,9
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:56:04","DANGER2",103,9
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:56:04","DAT2",104,9
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:56:11","SHB2",105,9
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:56:12","SAFE1",106,9
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:56:13","GK1",107,9
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:56:21","Restart",108,9
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:56:21","SAFE1",109,9
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:56:31","CLS",110,9
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:56:33","CLS",111,9
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:56:35","Restart",112,9
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:56:35","SAFE1",113,9
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:56:46","Possible Free Kick",114,9
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:56:47","F2",116,10
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:56:47","FK1",117,10
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:56:47","Ball Position",118,10
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:56:51","Restart",119,10
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:56:52","SAFE1",120,10
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:56:52","AT1",121,10
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:56:55","DANGER1",122,10
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:56:55","DAT1",123,10
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:57:08","POSSIBLE_TI",124,10
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:57:09","TI1",125,10
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:57:17","Restart",126,10
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:57:28","SHB1",127,10
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:57:29","SAFE2",128,10
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:57:30","GK2",129,10
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:57:53","Restart",130,11
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:57:53","SAFE2",131,11
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:58:06","AT2",132,11
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:58:07","DANGER2",133,11
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:58:07","DAT2",134,11
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:58:13","SAFE1",135,11
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:58:13","Possible Free Kick",136,11
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:58:15","O2",138,11
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:58:15","FK1",139,11
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:58:15","Ball Position",140,11
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:58:23","Restart",141,11
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:58:24","SAFE1",142,11
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:58:55","AT1",143,12
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:58:55","DANGER1",144,12
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:58:55","DAT1",145,12
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:59:14","SHG1",146,12
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:59:17","BLOCKED1",147,12
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:59:20","POSSIBLE_TI",148,12
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:59:20","TI1",149,12
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:59:29","Restart",150,12
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:59:36","SAFE1",151,12
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:59:42","AT1",152,12
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:59:50","SAFE2",153,13
+979303,"FC Barcelona","Real Sociedad","05/20/2018 18:59:52","AT2",154,13
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:00:02","SAFE1",155,13
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:00:06","AT1",156,13
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:00:09","Possible Free Kick",157,13
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:00:10","F2",159,13
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:00:10","FK1",160,13
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:00:10","DANGER1",161,13
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:00:10","DFK1",162,13
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:00:10","Ball Position",163,13
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:00:17","Restart",164,13
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:00:20","SAFE1",165,13
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:00:30","AT1",166,13
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:00:33","DANGER1",167,13
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:00:33","DAT1",168,13
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:01:12","SAFE2",169,14
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:01:13","AT2",170,14
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:01:19","DANGER2",171,14
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:01:19","DAT2",172,14
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:01:23","PCR2",173,14
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:01:46","CR2",174,14
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:01:47","Ball Position",175,15
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:01:49","Restart",176,15
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:01:56","SAFE1",177,15
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:01:57","Possible Free Kick",178,15
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:02:01","F2",180,15
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:02:01","FK1",181,15
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:02:01","Ball Position",182,15
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:02:02","Restart",183,15
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:02:02","SAFE1",184,15
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:02:53","AT1",185,16
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:02:54","DANGER1",186,16
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:02:54","DAT1",187,16
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:03:11","SAFE1",188,16
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:03:15","AT1",189,16
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:03:18","DANGER1",190,16
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:03:18","DAT1",191,16
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:03:37","Possible Free Kick",192,16
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:03:57","F2",194,17
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:03:57","FK1",195,17
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:03:57","DFK1",196,17
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:03:57","Ball Position",197,17
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:04:34","Restart",198,17
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:04:37","BLOCKED1",199,17
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:04:49","SAFE1",200,18
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:04:51","AT1",201,18
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:04:55","SAFE1",202,18
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:05:05","AT1",203,18
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:05:07","DANGER1",204,18
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:05:07","DAT1",205,18
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:05:15","PCR1",206,18
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:05:26","CR1",207,18
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:05:28","Ball Position",208,18
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:05:32","Restart",209,18
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:05:38","SHG1",210,18
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:05:39","SAFE2",211,18
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:06:19","AT2",212,19
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:06:21","DANGER2",213,19
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:06:21","DAT2",214,19
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:06:36","POSSIBLE_TI",215,19
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:06:38","TI2",216,19
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:06:45","Restart",217,19
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:06:59","SAFE1",218,20
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:07:05","SAFE2",219,20
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:07:06","AT2",220,20
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:07:09","DANGER2",221,20
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:07:09","DAT2",222,20
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:07:15","SAFE1",223,20
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:07:33","AT1",224,20
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:07:46","DANGER1",225,20
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:07:46","DAT1",226,20
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:07:51","SAFE2",227,21
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:07:52","Possible Free Kick",228,21
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:07:54","O1",230,21
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:07:54","FK2",231,21
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:07:54","Ball Position",232,21
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:08:15","Restart",233,21
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:08:16","SAFE2",234,21
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:08:17","AT2",235,21
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:08:19","DANGER2",236,21
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:08:19","DAT2",237,21
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:08:25","SAFE1",238,21
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:08:49","AT1",239,22
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:08:51","DANGER1",240,22
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:08:51","DAT1",241,22
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:09:09","SAFE2",242,22
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:09:10","GK2",243,22
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:09:34","Restart",244,22
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:09:35","SAFE2",245,22
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:09:46","SAFE1",246,22
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:10:14","AT1",247,23
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:10:15","DANGER1",248,23
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:10:15","DAT1",249,23
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:10:22","SAFE2",250,23
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:10:25","GK2",251,23
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:10:39","Restart",252,23
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:10:39","SAFE2",253,23
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:10:48","POSSIBLE_TI",254,24
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:10:49","TI2",255,24
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:10:55","Restart",256,24
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:10:55","SAFE2",257,24
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:10:57","AT2",258,24
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:10:59","DANGER2",259,24
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:10:59","DAT2",260,24
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:11:05","PCR2",261,24
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:11:21","CR2",262,24
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:11:26","Ball Position",263,24
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:11:28","Restart",264,24
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:11:42","SAFE1",265,24
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:11:43","Possible Free Kick",266,24
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:11:49","F2",268,25
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:11:49","FK1",269,25
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:11:49","Ball Position",270,25
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:11:52","Restart",271,25
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:11:52","SAFE1",272,25
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:11:59","AT1",273,25
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:12:28","DANGER1",274,25
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:12:28","DAT1",275,25
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:12:38","SHB1",276,25
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:12:39","SAFE2",277,25
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:12:40","GK2",278,25
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:13:00","Restart",279,26
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:13:00","SAFE2",280,26
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:13:16","SAFE1",281,26
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:13:20","AT1",282,26
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:13:21","DANGER1",283,26
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:13:21","DAT1",284,26
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:13:40","SAFE2",285,26
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:13:43","AT2",286,26
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:13:44","DANGER2",287,26
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:13:44","DAT2",288,26
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:13:48","SAFE1",289,27
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:14:20","AT1",290,27
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:14:21","DANGER1",291,27
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:14:21","DAT1",292,27
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:14:28","SHB1",293,27
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:14:29","SAFE2",294,27
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:14:30","GK2",295,27
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:14:44","Restart",296,27
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:14:44","SAFE2",297,27
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:14:50","AT1",298,28
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:14:51","POSSIBLE_TI",299,28
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:14:51","TI1",300,28
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:14:55","Restart",301,28
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:14:56","DANGER1",302,28
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:14:56","DAT1",303,28
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:15:10","SAFE2",304,28
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:15:24","AT2",305,28
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:15:25","DANGER2",306,28
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:15:25","DAT2",307,28
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:15:31","SAFE1",308,28
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:15:50","AT1",309,29
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:15:51","DANGER1",310,29
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:15:51","DAT1",311,29
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:16:23","SAFE2",312,29
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:16:24","GK2",313,29
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:16:44","Restart",314,29
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:16:44","SAFE2",315,29
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:16:53","AT2",316,30
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:16:54","DANGER2",317,30
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:16:54","DAT2",318,30
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:17:07","SHB2",319,30
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:17:08","SAFE1",320,30
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:17:09","GK1",321,30
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:17:13","Restart",322,30
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:17:14","SAFE1",323,30
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:17:38","AT1",324,30
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:17:38","DANGER1",325,30
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:17:38","DAT1",326,30
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:17:50","POSSIBLE_TI",327,31
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:17:50","TI1",328,31
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:17:53","Restart",329,31
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:18:49","SAFE2",330,32
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:18:50","GK2",331,32
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:19:14","Restart",332,32
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:19:14","SAFE2",333,32
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:19:38","AT1",334,32
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:19:46","DANGER1",335,32
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:19:46","DAT1",336,32
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:20:41","SAFE2",337,33
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:20:43","Possible Free Kick",338,33
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:20:44","F1",340,33
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:20:44","FK2",341,33
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:20:44","Ball Position",342,33
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:21:05","Restart",343,34
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:21:06","SAFE2",344,34
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:21:10","SAFE1",345,34
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:21:12","AT1",346,34
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:21:14","DANGER1",347,34
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:21:14","DAT1",348,34
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:22:20","SAFE1",349,35
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:22:39","AT1",350,35
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:22:41","DANGER1",351,35
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:22:41","DAT1",352,35
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:22:58","SAFE2",353,36
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:23:15","AT2",354,36
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:23:16","DANGER2",355,36
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:23:16","DAT2",356,36
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:23:20","SAFE1",357,36
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:23:20","Possible Free Kick",358,36
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:23:22","F2",360,36
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:23:22","FK1",361,36
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:23:22","Ball Position",362,36
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:23:36","CLS",363,36
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:23:47","Injury Break",365,37
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:25:02","Restart",366,38
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:25:02","F1",367,38
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:25:02","FK2",368,38
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:25:02","DANGER2",369,38
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:25:02","DFK2",370,38
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:25:02","Ball Position",371,38
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:25:23","Restart",372,38
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:25:48","SAFE1",373,39
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:25:48","AT1",374,39
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:25:53","DANGER1",375,39
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:25:53","DAT1",376,39
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:26:04","SAFE2",377,39
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:26:10","AT2",378,39
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:26:11","DANGER2",379,39
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:26:11","DAT2",380,39
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:27:09","SHB2",381,40
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:27:10","SAFE1",382,40
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:27:10","GK1",383,40
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:27:14","Restart",384,40
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:27:15","SAFE1",385,40
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:27:28","AT2",386,40
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:27:31","SAFE2",387,40
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:27:45","AT2",388,40
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:27:45","DANGER2",389,40
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:27:45","DAT2",390,40
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:27:52","SAFE1",391,41
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:27:53","Possible Free Kick",392,41
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:27:59","O2",394,41
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:27:59","FK1",395,41
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:27:59","Ball Position",396,41
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:28:10","Restart",397,41
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:28:10","SAFE1",398,41
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:28:14","AT1",399,41
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:28:27","SAFE2",400,41
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:28:46","SAFE1",401,41
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:28:57","AT1",402,42
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:29:03","DANGER1",403,42
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:29:03","DAT1",404,42
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:29:19","SAFE2",405,42
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:29:23","AT2",406,42
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:29:24","DANGER2",407,42
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:29:24","DAT2",408,42
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:29:29","SAFE1",409,42
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:29:29","AT1",410,42
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:29:30","DANGER1",411,42
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:29:30","DAT1",412,42
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:29:33","Possible Free Kick",413,42
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:29:34","POSSIBLE_CARDS",415,42
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:29:37","YC2",416,42
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:29:42","CONF_YC2",417,42
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:29:53","Scorer",418,43
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:29:57","F2",419,43
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:29:57","FK1",420,43
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:29:57","DFK1",421,43
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:29:58","Ball Position",422,43
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:30:11","POSSIBLE_CARDS",423,43
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:30:13","YC1",424,43
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:30:45","CONF_YC1",425,43
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:30:51","Scorer",426,44
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:30:53","Player_DATA_CONFIRMED",427,44
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:31:49","Restart",428,45
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:31:54","SAFE2",429,45
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:31:55","Player_DATA_CONFIRMED",430,45
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:32:40","AT2",431,45
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:32:41","DANGER2",432,45
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:32:41","DAT2",433,45
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:32:53","Extra Time",434,46
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:32:55","SAFE1",435,46
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:32:58","AT1",436,46
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:33:00","DANGER1",437,46
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:33:00","DAT1",438,46
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:33:39","SAFE2",439,46
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:33:40","Possible Free Kick",440,46
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:33:42","O1",442,46
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:33:42","FK2",443,46
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:33:42","Ball Position",444,46
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:33:50","CLS",445,47
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:33:52","No Free Kick",446,47
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:33:55","Stop RT1",447,47
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:34:06","CONF_PERIOD_SCORE",448,45
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:48:33","Players are coming out",449,45
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:49:36","Game about to start",450,45
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:49:47","Start RT2 Team 1",451,46
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:49:48","SAFE1",452,46
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:50:04","AT2",453,46
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:50:04","DANGER2",454,46
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:50:04","DAT2",455,46
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:50:22","Possible Free Kick",456,46
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:50:55","F1",458,47
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:50:55","FK2",459,47
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:50:55","DFK2",460,47
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:50:55","Ball Position",461,47
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:51:17","Restart",462,47
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:51:21","PCR2",463,47
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:51:35","CR2",464,47
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:51:36","Ball Position",465,47
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:51:37","Restart",466,47
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:51:41","BLOCKED2",467,47
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:51:44","SAFE1",468,47
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:51:45","Possible Free Kick",469,47
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:51:46","F2",471,47
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:51:46","FK1",472,47
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:51:47","Ball Position",473,47
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:51:53","Restart",474,48
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:51:53","SAFE1",475,48
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:51:55","CLS",476,48
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:51:56","CLS",477,48
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:52:35","Restart",478,48
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:52:35","SAFE1",479,48
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:52:43","SAFE2",480,48
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:53:10","AT1",481,49
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:53:14","Possible Free Kick",482,49
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:53:20","F2",484,49
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:53:20","FK1",485,49
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:53:20","DANGER1",486,49
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:53:20","DFK1",487,49
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:53:20","Ball Position",488,49
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:53:24","Restart",489,49
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:53:31","SAFE1",490,49
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:53:38","AT1",491,49
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:53:51","SAFE1",492,50
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:54:08","AT1",493,50
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:54:15","DANGER1",494,50
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:54:15","DAT1",495,50
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:54:57","SAFE2",496,51
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:54:58","POSSIBLE_TI",497,51
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:54:58","TI2",498,51
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:55:13","Restart",499,51
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:55:14","SAFE2",500,51
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:55:22","SAFE1",501,51
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:55:23","AT1",502,51
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:55:26","SAFE2",503,51
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:55:26","AT2",504,51
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:55:35","DANGER2",505,51
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:55:35","DAT2",506,51
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:55:52","SAFE2",507,52
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:56:00","AT2",508,52
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:56:01","DANGER2",509,52
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:56:01","DAT2",510,52
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:56:05","POSSIBLE_TI",511,52
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:56:06","TI2",512,52
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:56:17","Restart",513,52
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:56:28","SAFE1",514,52
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:56:30","Possible Free Kick",515,52
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:56:33","F2",517,52
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:56:33","FK1",518,52
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:56:33","Ball Position",519,52
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:56:45","Restart",520,52
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:56:46","SAFE1",521,52
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:57:06","AT1",522,53
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:57:12","SAFE1",523,53
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:57:13","Possible Free Kick",524,53
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:57:15","POSSIBLE_CARDS",526,53
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:57:19","YC2",527,53
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:57:29","CONF_YC2",528,53
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:57:41","Scorer",529,53
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:57:43","F2",530,53
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:57:43","FK1",531,53
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:57:43","Ball Position",532,53
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:57:51","Restart",533,54
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:57:53","SAFE1",534,54
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:57:54","AT1",535,54
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:58:01","SAFE1",536,54
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:58:20","AT1",537,54
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:58:27","DANGER1",538,54
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:58:27","DAT1",539,54
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:58:30","SAFE2",540,54
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:58:53","SAFE1",541,55
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:58:53","POSSIBLE_TI",542,55
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:58:55","TI1",543,55
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:59:00","Restart",544,55
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:59:00","SAFE1",545,55
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:59:08","AT1",546,55
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:59:09","DANGER1",547,55
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:59:09","DAT1",548,55
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:59:17","PCR1",549,55
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:59:24","Player_DATA_CONFIRMED",550,55
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:59:32","CR1",551,55
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:59:33","Ball Position",552,55
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:59:35","Restart",553,55
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:59:42","SAFE2",554,55
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:59:43","GK2",555,55
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:59:55","Restart",556,56
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:59:55","SAFE2",557,56
+979303,"FC Barcelona","Real Sociedad","05/20/2018 19:59:58","AT2",558,56
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:00:09","SAFE1",559,56
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:00:15","AT2",560,56
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:00:16","DANGER2",561,56
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:00:16","DAT2",562,56
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:00:50","SAFE2",563,57
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:00:58","SAFE1",564,57
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:00:59","AT1",565,57
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:01:06","DANGER1",566,57
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:01:06","DAT1",567,57
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:01:11","GOAL1",568,57
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:01:37","Scorer",569,57
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:01:55","Player_DATA_CONFIRMED",570,58
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:01:55","Assist",571,58
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:02:08","SUB1",572,58
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:02:08","Time Correction",573,58
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:02:09","Player_DATA_CONFIRMED",574,58
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:02:16","CONF_GOAL1",575,58
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:02:17","KO2",576,58
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:02:17","SAFE2",577,58
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:02:18","SAFE2",578,58
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:02:23","SUB1",579,58
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:02:29","SAFE1",580,58
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:02:37","CLR",581,58
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:02:38","SAFE1",582,58
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:02:44","AT1",583,58
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:02:48","SAFE2",584,59
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:02:50","AT2",585,59
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:02:51","DANGER2",586,59
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:02:51","DAT2",587,59
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:03:00","SAFE1",588,59
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:03:12","AT2",589,59
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:03:13","DANGER2",590,59
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:03:13","DAT2",591,59
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:03:16","SAFE1",592,59
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:03:17","GK1",593,59
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:03:35","Restart",594,59
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:03:35","SAFE1",595,59
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:03:36","AT1",596,59
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:03:37","DANGER1",597,59
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:03:37","DAT1",598,59
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:03:57","System Message",599,60
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:04:42","SAFE2",600,60
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:04:42","AT2",601,60
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:04:44","DANGER2",602,60
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:04:44","DAT2",603,60
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:04:49","SAFE1",604,61
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:05:01","AT1",605,61
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:05:01","DANGER1",606,61
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:05:01","DAT1",607,61
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:05:29","SAFE1",608,61
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:05:38","AT1",609,61
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:05:38","DANGER1",610,61
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:05:38","DAT1",611,61
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:05:44","Possible Free Kick",612,61
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:05:54","F2",614,62
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:05:54","FK1",615,62
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:05:54","DFK1",616,62
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:05:54","Ball Position",617,62
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:06:02","Restart",618,62
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:06:03","SAFE2",619,62
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:06:20","AT1",620,62
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:06:21","DANGER1",621,62
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:06:21","DAT1",622,62
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:06:33","SAFE2",623,62
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:06:33","Possible Free Kick",624,62
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:06:35","F1",626,62
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:06:35","FK2",627,62
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:06:35","Ball Position",628,62
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:06:57","SUB2",629,63
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:06:58","Restart",630,63
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:06:59","SAFE2",631,63
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:06:59","AT2",632,63
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:07:00","DANGER2",633,63
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:07:00","DAT2",634,63
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:07:13","SAFE1",635,63
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:07:20","AT2",636,63
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:07:20","DANGER2",637,63
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:07:20","DAT2",638,63
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:07:28","PCR2",639,63
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:07:49","CR2",640,64
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:07:50","Ball Position",641,64
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:07:50","Restart",642,64
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:07:55","Player_DATA_CONFIRMED",643,64
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:08:06","SAFE2",644,64
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:08:09","AT2",645,64
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:08:13","DANGER2",646,64
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:08:13","DAT2",647,64
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:08:26","SHB2",648,64
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:08:28","SAFE1",649,64
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:08:29","GK1",650,64
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:08:34","Restart",651,64
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:08:35","SAFE1",652,64
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:08:45","AT1",653,64
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:08:58","SAFE2",654,65
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:08:58","AT2",655,65
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:09:02","SAFE1",656,65
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:09:02","AT1",657,65
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:09:03","DANGER1",658,65
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:09:03","DAT1",659,65
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:09:38","SHB1",660,65
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:09:38","SAFE2",661,65
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:09:39","GK2",662,65
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:09:48","Restart",663,66
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:09:48","SAFE2",664,66
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:09:59","AT2",665,66
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:10:06","SAFE1",666,66
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:10:18","AT1",667,66
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:10:25","SAFE1",668,66
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:10:28","AT1",669,66
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:10:31","DANGER1",670,66
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:10:31","DAT1",671,66
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:10:41","SAFE1",672,66
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:10:49","AT1",673,67
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:10:54","DANGER1",674,67
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:10:54","DAT1",675,67
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:10:59","SAFE1",676,67
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:11:02","AT1",677,67
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:11:03","DANGER1",678,67
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:11:03","DAT1",679,67
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:11:15","Possible Free Kick",680,67
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:11:42","SUB1",682,67
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:11:53","F2",683,68
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:11:53","FK1",684,68
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:11:53","DFK1",685,68
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:11:53","Ball Position",686,68
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:12:03","Restart",687,68
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:12:07","SHG1",688,68
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:12:08","SAFE2",689,68
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:12:20","AT2",690,68
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:12:21","DANGER2",691,68
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:12:21","DAT2",692,68
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:12:29","POSSIBLE_TI",693,68
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:12:29","TI2",694,68
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:12:36","Restart",695,68
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:12:43","POSSIBLE_TI",696,68
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:12:44","TI2",697,68
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:12:48","Restart",698,69
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:12:59","SAFE1",699,69
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:13:00","GK1",700,69
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:13:08","Restart",701,69
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:13:09","SAFE1",702,69
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:13:09","AT1",703,69
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:13:10","DANGER1",704,69
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:13:10","DAT1",705,69
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:13:21","SHB1",706,69
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:13:23","Player_DATA_CONFIRMED",707,69
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:13:28","SAFE2",708,69
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:13:29","GK2",709,69
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:13:36","Restart",710,69
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:13:36","SAFE2",711,69
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:13:53","AT1",712,70
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:13:54","DANGER1",713,70
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:13:54","DAT1",714,70
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:14:54","SAFE2",715,71
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:14:57","Possible Free Kick",716,71
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:15:00","F1",718,71
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:15:00","FK2",719,71
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:15:00","Ball Position",720,71
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:15:16","SUB2",721,71
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:15:26","Restart",722,71
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:15:27","SAFE2",723,71
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:15:42","AT1",724,71
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:15:43","POSSIBLE_TI",725,71
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:15:45","TI1",726,71
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:15:46","Restart",727,71
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:15:47","SAFE1",728,71
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:15:53","AT1",729,72
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:15:54","Player_DATA_CONFIRMED",730,72
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:15:55","DANGER1",731,72
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:15:55","DAT1",732,72
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:16:21","SAFE2",733,72
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:16:22","Possible Free Kick",734,72
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:16:23","POSSIBLE_CARDS",736,72
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:16:25","YC1",737,72
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:16:43","CONF_YC1",738,72
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:16:47","Scorer",739,73
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:16:49","F1",740,73
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:16:49","FK2",741,73
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:16:49","Ball Position",742,73
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:16:50","Restart",743,73
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:16:51","SAFE2",744,73
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:16:51","AT2",745,73
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:16:56","DANGER2",746,73
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:16:56","DAT2",747,73
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:17:13","SAFE2",748,73
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:17:17","AT2",749,73
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:17:24","Player_DATA_CONFIRMED",750,73
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:17:25","SAFE2",751,73
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:17:53","AT2",752,74
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:17:57","DANGER2",753,74
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:17:57","DAT2",754,74
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:18:02","PCR2",755,74
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:18:19","CR2",756,74
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:18:20","Ball Position",757,74
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:18:22","Restart",758,74
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:18:28","SAFE1",759,74
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:18:29","GK1",760,74
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:18:44","Restart",761,74
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:18:44","SAFE1",762,74
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:18:55","POSSIBLE_TI",763,75
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:18:55","TI1",764,75
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:19:03","Restart",765,75
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:19:03","SAFE1",766,75
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:19:05","AT2",767,75
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:19:06","DANGER2",768,75
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:19:06","DAT2",769,75
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:19:09","SAFE1",770,75
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:19:13","AT1",771,75
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:19:15","DANGER1",772,75
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:19:15","DAT1",773,75
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:19:41","SAFE2",774,75
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:19:44","Possible Free Kick",775,75
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:19:46","POSSIBLE_CARDS",777,75
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:19:48","YC1",778,76
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:20:01","CONF_YC1",779,76
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:20:08","Scorer",780,76
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:20:12","F1",781,76
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:20:12","FK2",782,76
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:20:12","Ball Position",783,76
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:20:13","Restart",784,76
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:20:14","SAFE2",785,76
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:20:16","AT2",786,76
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:20:18","DANGER2",787,76
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:20:18","DAT2",788,76
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:20:19","Player_DATA_CONFIRMED",789,76
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:20:35","SAFE1",790,76
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:20:35","POSSIBLE_TI",791,76
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:20:36","TI1",792,76
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:20:39","Restart",793,76
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:20:41","SAFE1",794,76
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:20:57","AT1",795,77
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:20:58","DANGER1",796,77
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:20:58","DAT1",797,77
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:21:07","SHG1",798,77
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:21:09","SAFE2",799,77
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:21:17","AT1",800,77
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:21:18","DANGER1",801,77
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:21:18","DAT1",802,77
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:21:23","SAFE2",803,77
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:21:24","Possible Free Kick",804,77
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:21:25","F1",806,77
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:21:25","FK2",807,77
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:21:25","Ball Position",808,77
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:21:44","Restart",809,77
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:21:45","SAFE2",810,77
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:21:58","AT2",811,78
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:21:59","DANGER2",812,78
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:21:59","DAT2",813,78
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:22:07","PCR2",814,78
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:22:26","CR2",815,78
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:22:27","Ball Position",816,78
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:22:30","Restart",817,78
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:22:33","SAFE1",818,78
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:22:46","AT1",819,78
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:22:48","DANGER1",820,79
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:22:48","DAT1",821,79
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:23:14","SAFE1",822,79
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:23:18","AT1",823,79
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:23:27","DANGER1",824,79
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:23:27","DAT1",825,79
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:23:31","Possible Free Kick",826,79
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:23:35","F2",828,79
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:23:35","FK1",829,79
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:23:35","DFK1",830,79
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:23:35","Ball Position",831,79
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:23:42","Restart",832,79
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:23:52","SAFE2",833,80
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:24:07","AT2",834,80
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:24:07","DANGER2",835,80
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:24:07","DAT2",836,80
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:24:15","PCR2",837,80
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:24:33","CR2",838,80
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:24:34","Ball Position",839,80
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:24:38","Restart",840,80
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:25:02","SHB2",841,81
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:25:03","SAFE1",842,81
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:25:04","GK1",843,81
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:25:20","SUB1",844,81
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:26:35","Restart",845,82
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:26:35","SAFE1",846,82
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:26:36","AT1",847,82
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:26:37","SAFE2",848,82
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:26:40","AT2",849,82
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:26:40","DANGER2",850,82
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:26:40","DAT2",851,82
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:26:56","Player_DATA_CONFIRMED",852,83
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:27:04","SAFE1",853,83
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:27:06","AT1",854,83
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:27:08","DANGER1",855,83
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:27:08","DAT1",856,83
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:27:15","SAFE2",857,83
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:27:21","AT2",858,83
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:27:22","DANGER2",859,83
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:27:22","DAT2",860,83
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:27:30","BLOCKED2",861,83
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:27:39","Possible Free Kick",862,83
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:27:50","F1",864,84
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:27:50","FK2",865,84
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:27:50","DFK2",866,84
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:27:50","Ball Position",867,84
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:27:51","Restart",868,84
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:28:07","SAFE1",869,84
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:28:08","Possible Free Kick",870,84
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:28:09","F2",872,84
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:28:09","FK1",873,84
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:28:09","Ball Position",874,84
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:28:27","Restart",875,84
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:28:27","SAFE1",876,84
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:28:28","AT1",877,84
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:28:29","DANGER1",878,84
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:28:29","DAT1",879,84
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:28:46","SAFE2",880,84
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:28:47","Possible Free Kick",881,84
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:28:49","O1",883,85
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:28:49","FK2",884,85
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:28:49","Ball Position",885,85
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:29:00","Restart",886,85
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:29:00","SAFE2",887,85
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:29:07","AT2",888,85
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:29:13","SAFE1",889,85
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:29:18","AT1",890,85
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:29:23","SAFE1",891,85
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:29:34","AT1",892,85
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:29:36","DANGER1",893,85
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:29:36","DAT1",894,85
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:29:45","SHB1",895,85
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:29:46","SAFE2",896,85
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:29:47","GK2",897,86
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:29:54","Restart",898,86
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:29:54","SAFE2",899,86
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:30:01","AT2",900,86
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:30:03","DANGER2",901,86
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:30:03","DAT2",902,86
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:30:24","SAFE1",903,86
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:30:49","AT1",904,87
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:30:54","DANGER1",905,87
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:30:54","DAT1",906,87
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:31:10","SAFE2",907,87
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:31:11","AT1",908,87
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:31:12","DANGER1",909,87
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:31:12","DAT1",910,87
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:31:28","SAFE2",911,87
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:31:36","AT2",912,87
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:31:37","DANGER2",913,87
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:31:37","DAT2",914,87
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:32:16","SAFE1",915,88
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:32:21","AT1",916,88
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:32:26","SAFE2",917,88
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:32:28","AT2",918,88
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:32:34","SAFE2",919,88
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:32:39","AT2",920,88
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:32:41","DANGER2",921,88
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:32:41","DAT2",922,88
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:32:46","Possible Free Kick",923,88
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:32:48","F1",925,89
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:32:48","FK2",926,89
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:32:48","DFK2",927,89
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:32:48","Ball Position",928,89
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:33:07","SUB2",929,89
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:33:17","Restart",930,89
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:33:26","SHB2",931,89
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:33:32","SAFE1",932,89
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:33:33","GK1",933,89
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:33:44","Restart",934,89
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:33:45","SAFE1",935,89
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:33:50","AT1",936,90
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:33:52","DANGER1",937,90
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:33:52","DAT1",938,90
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:34:18","SAFE1",939,90
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:34:22","AT1",940,90
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:34:27","SAFE1",941,90
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:34:33","AT1",942,90
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:34:34","DANGER1",943,90
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:34:34","DAT1",944,90
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:34:56","Player_DATA_CONFIRMED",945,91
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:34:57","SAFE2",946,91
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:34:59","Possible Free Kick",947,91
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:35:11","F1",949,91
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:35:11","FK2",950,91
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:35:11","Ball Position",951,91
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:35:17","Extra Time",952,91
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:35:19","Restart",953,91
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:35:20","SAFE2",954,91
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:35:22","Possible Free Kick",955,91
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:35:23","F1",957,91
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:35:23","FK2",958,91
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:35:23","Ball Position",959,91
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:35:39","Restart",960,91
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:35:40","SAFE2",961,91
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:35:40","AT2",962,91
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:35:42","DANGER2",963,91
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:35:42","DAT2",964,91
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:35:57","SAFE1",965,92
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:35:59","GK1",966,92
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:36:37","Restart",967,92
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:36:38","SAFE1",968,92
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:36:42","AT1",969,92
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:36:47","DANGER1",970,93
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:36:47","DAT1",971,93
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:36:55","SAFE2",972,93
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:37:00","Stop RT2",973,93
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:37:00","Stop Game",974,93
+979303,"FC Barcelona","Real Sociedad","05/20/2018 20:37:06","CONF_PERIOD_SCORE",975,92

@@ -1,0 +1,999 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 10:51:07","Transmission Online",0,0
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 10:51:15","GCC",1,0
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 11:30:32","Lineup changed",2,0
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 11:31:09","Scout in Stadion",3,0
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:26:08","Players are coming out",4,0
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:26:36","Players lined up",5,0
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:26:40","Shake hands",6,0
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:27:33","Jersey Changed",7,0
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:28:08","Jersey Changed",8,0
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:28:29","Photo taking",9,0
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:29:34","Game about to start",10,0
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:30:05","Start RT1 Team 2",11,1
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:30:10","SAFE2",12,1
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:30:16","System Message",13,1
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:30:28","POSSIBLE_TI",14,1
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:30:29","TI2",15,1
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:30:41","Restart",16,1
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:30:46","SAFE2",17,1
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:31:08","AT2",18,2
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:31:15","SAFE2",19,2
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:31:22","AT2",20,2
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:31:31","SAFE2",21,2
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:31:47","AT2",22,2
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:31:52","DANGER2",23,2
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:31:52","DAT2",24,2
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:32:03","POSSIBLE_TI",25,2
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:32:04","TI2",26,2
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:32:14","Restart",27,3
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:32:18","SAFE2",28,3
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:32:25","AT2",29,3
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:32:26","SAFE1",30,3
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:32:29","Possible Free Kick",31,3
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:32:30","F2",33,3
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:32:30","FK1",34,3
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:32:31","Ball Position",35,3
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:32:34","Restart",36,3
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:32:35","AT1",37,3
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:32:46","Start score update",38,3
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:32:46","Statistic confirmation",39,3
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:32:46","Score update finished",40,3
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:32:58","Possible Free Kick",41,3
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:33:00","F2",43,3
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:33:00","FK1",44,3
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:33:00","DANGER1",45,3
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:33:00","DFK1",46,3
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:33:00","Ball Position",47,3
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:33:18","Restart",48,4
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:33:25","Possible Free Kick",49,4
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:33:28","SAFE2",51,4
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:33:28","F1",52,4
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:33:28","FK2",53,4
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:33:28","Ball Position",54,4
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:33:39","SAFE2",55,4
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:33:41","SAFE2",56,4
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:33:42","Restart",57,4
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:33:52","AT1",58,4
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:33:56","Possible Free Kick",59,4
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:33:57","SAFE2",61,4
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:33:57","F1",62,4
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:33:57","FK2",63,4
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:33:57","Ball Position",64,4
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:33:59","System Message",65,4
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:34:02","Restart",66,4
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:34:02","SAFE2",67,4
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:34:16","SAFE2",68,5
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:34:23","SAFE1",69,5
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:34:28","AT2",70,5
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:34:28","DANGER2",71,5
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:34:28","DAT2",72,5
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:34:30","PCR2",73,5
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:34:43","CR2",74,5
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:34:49","Ball Position",75,5
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:35:00","Restart",76,5
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:35:06","SAFE1",77,6
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:35:11","AT2",78,6
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:35:12","DANGER2",79,6
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:35:12","DAT2",80,6
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:35:34","POSSIBLE_TI",81,6
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:35:35","TI1",82,6
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:36:09","Restart",83,7
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:36:10","SAFE1",84,7
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:36:12","SAFE2",85,7
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:36:14","SAFE1",86,7
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:36:14","AT1",87,7
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:36:22","DANGER1",88,7
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:36:22","DAT1",89,7
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:36:26","Possible Free Kick",90,7
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:36:28","SAFE2",92,7
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:36:29","O1",93,7
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:36:29","FK2",94,7
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:36:29","Ball Position",95,7
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:36:42","Restart",96,7
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:36:44","SAFE2",97,7
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:36:56","SAFE2",98,7
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:36:59","AT1",99,7
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:36:59","DANGER1",100,7
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:36:59","DAT1",101,7
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:37:20","Scout offline",102,8
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:37:48","System Message",103,8
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:37:52","Transmission Online",104,8
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:37:52","Start score update",105,8
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:37:52","Statistic confirmation",106,8
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:37:52","Score update finished",107,8
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:37:53","AT2",108,8
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:37:56","DANGER2",109,8
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:37:56","DAT2",110,8
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:38:14","PCR2",111,9
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:38:20","CR2",112,9
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:38:21","Ball Position",113,9
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:38:27","System Message",114,9
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:38:39","Restart",115,9
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:38:50","SHG2",116,9
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:38:52","SHB2",117,9
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:38:59","Start score update",118,9
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:38:59","Statistic confirmation",119,9
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:38:59","Score update finished",120,9
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:39:11","SAFE1",121,10
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:39:11","GK1",122,10
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:39:12","Restart",123,10
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:39:13","System Message",124,10
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:39:14","AT1",125,10
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:39:22","DANGER1",126,10
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:39:22","DAT1",127,10
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:39:35","SAFE2",128,10
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:39:35","AT2",129,10
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:39:37","DANGER2",130,10
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:39:37","DAT2",131,10
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:39:42","SAFE1",132,10
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:39:50","SAFE2",133,10
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:39:51","AT2",134,10
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:39:51","DANGER2",135,10
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:39:51","DAT2",136,10
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:40:01","SAFE2",137,10
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:40:09","SAFE2",138,11
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:40:10","AT2",139,11
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:40:20","DANGER2",140,11
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:40:20","DAT2",141,11
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:40:34","SHG2",142,11
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:40:36","PCR2",143,11
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:40:39","CR2",144,11
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:40:42","Ball Position",145,11
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:41:01","Restart",146,11
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:41:03","GOAL2",147,11
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:41:30","Scorer",148,12
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:41:59","CONF_GOAL2",149,12
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:42:00","KO1",150,12
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:42:00","SAFE1",151,12
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:42:01","SAFE1",152,12
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:42:01","AT1",153,12
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:42:06","POSSIBLE_TI",154,13
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:42:07","TI2",155,13
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:42:19","Player_DATA_CONFIRMED",156,13
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:42:19","Assist",157,13
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:42:21","Restart",158,13
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:42:21","SAFE2",159,13
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:42:24","POSSIBLE_TI",160,13
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:42:25","TI1",161,13
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:42:41","Restart",162,13
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:42:41","AT1",163,13
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:42:50","SAFE2",164,13
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:42:55","AT2",165,13
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:42:58","DANGER2",166,13
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:42:58","DAT2",167,13
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:43:05","SAFE1",168,14
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:43:07","SAFE1",169,14
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:43:08","AT1",170,14
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:43:28","Danger",171,14
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:43:28","Scout offline",172,14
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:43:40","Transmission Online",173,14
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:43:40","Start score update",174,14
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:43:40","Statistic confirmation",175,14
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:43:40","Score update finished",176,14
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:43:42","SAFE2",177,14
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:43:54","AT2",178,14
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:43:59","SAFE2",179,14
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:44:07","AT2",180,15
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:44:28","Danger",181,15
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:44:28","Scout offline",182,15
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:44:43","Transmission Online",183,15
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:44:43","Start score update",184,15
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:44:44","Statistic confirmation",185,15
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:44:44","Score update finished",186,15
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:44:53","POSSIBLE_TI",187,15
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:44:54","TI2",188,15
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:44:56","Restart",189,15
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:44:58","DANGER2",190,15
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:44:58","DAT2",191,15
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:45:05","SAFE1",192,16
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:45:10","AT1",193,16
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:45:16","SAFE2",194,16
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:45:39","SAFE2",195,16
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:45:47","AT2",196,16
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:45:50","DANGER2",197,16
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:45:50","DAT2",198,16
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:45:55","SAFE1",199,16
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:46:00","AT1",200,16
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:46:04","SAFE2",201,16
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:46:11","AT2",202,17
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:46:15","POSSIBLE_TI",203,17
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:46:15","TI2",204,17
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:46:19","Restart",205,17
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:46:29","SAFE1",206,17
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:46:32","AT2",207,17
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:46:37","SAFE1",208,17
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:46:47","Possible Free Kick",209,17
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:46:48","F2",211,17
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:46:48","FK1",212,17
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:46:48","Ball Position",213,17
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:47:08","Restart",214,18
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:47:09","SAFE1",215,18
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:47:16","AT1",216,18
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:47:20","DANGER1",217,18
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:47:20","DAT1",218,18
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:47:21","SAFE2",219,18
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:47:24","SAFE1",220,18
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:47:26","AT1",221,18
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:47:41","SAFE2",222,18
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:47:41","GK2",223,18
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:48:04","Restart",224,18
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:48:08","SAFE2",225,19
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:48:11","AT1",226,19
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:48:16","DANGER1",227,19
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:48:16","DAT1",228,19
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:48:26","SHB1",229,19
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:48:31","SAFE2",230,19
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:48:31","GK2",231,19
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:48:56","Restart",232,19
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:48:58","AT2",233,19
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:49:01","POSSIBLE_TI",234,19
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:49:02","TI2",235,19
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:49:23","Restart",236,20
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:49:23","SAFE1",237,20
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:49:24","SAFE2",238,20
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:49:26","AT2",239,20
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:49:29","SAFE1",240,20
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:49:36","Possible Free Kick",241,20
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:49:54","F1",243,20
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:49:54","FK2",244,20
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:49:54","DANGER2",245,20
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:49:54","DFK2",246,20
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:49:54","Ball Position",247,20
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:50:20","Restart",248,21
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:50:25","PCR2",249,21
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:50:25","CR2",250,21
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:50:28","Ball Position",251,21
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:50:53","Restart",252,21
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:50:53","SAFE1",253,21
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:50:54","Possible Free Kick",254,21
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:50:57","F2",256,21
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:50:57","FK1",257,21
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:50:57","Ball Position",258,21
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:51:04","Restart",259,21
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:51:05","AT1",260,22
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:51:16","DANGER1",261,22
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:51:16","DAT1",262,22
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:51:36","SAFE2",263,22
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:51:43","SAFE1",264,22
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:51:52","AT1",265,22
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:51:57","SAFE1",266,22
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:52:06","AT1",267,23
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:52:09","SAFE2",268,23
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:52:38","AT2",269,23
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:52:52","Possible Free Kick",270,23
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:52:55","F1",272,23
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:52:55","FK2",273,23
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:52:55","DANGER2",274,23
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:52:55","DFK2",275,23
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:52:55","Ball Position",276,23
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:53:00","Restart",277,23
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:53:01","SAFE2",278,23
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:53:07","AT2",279,24
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:53:10","DANGER2",280,24
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:53:10","DAT2",281,24
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:53:16","SAFE1",282,24
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:53:17","GK1",283,24
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:53:50","Restart",284,24
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:53:52","AT1",285,24
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:53:58","DANGER1",286,24
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:53:58","DAT1",287,24
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:54:00","Possible Free Kick",288,24
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:54:10","POSSIBLE_CARDS",290,25
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:54:17","YC2",291,25
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:54:19","CONF_YC2",292,25
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:54:22","Scorer",293,25
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:54:26","F2",294,25
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:54:26","FK1",295,25
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:54:26","DFK1",296,25
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:54:26","Ball Position",297,25
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:55:20","Restart",298,26
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:55:22","Player_DATA_CONFIRMED",299,26
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:55:22","SAFE2",300,26
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:55:40","SAFE2",301,26
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:56:01","SAFE2",302,26
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:56:10","Possible Free Kick",303,27
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:56:11","F1",305,27
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:56:11","FK2",306,27
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:56:11","Ball Position",307,27
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:56:24","Restart",308,27
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:56:25","SAFE2",309,27
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:56:39","AT2",310,27
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:56:46","SAFE2",311,27
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:56:52","AT2",312,27
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:56:54","SAFE1",313,27
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:56:59","AT2",314,27
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:57:01","DANGER2",315,27
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:57:01","DAT2",316,27
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:57:11","SHB2",317,28
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:57:12","SAFE1",318,28
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:57:13","GK1",319,28
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:57:51","Restart",320,28
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:57:51","AT1",321,28
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:58:06","DANGER1",322,29
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:58:06","DAT1",323,29
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:58:25","SHB1",324,29
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:58:26","SAFE2",325,29
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:58:28","GK2",326,29
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:58:49","Restart",327,29
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:58:52","AT2",328,29
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:58:54","DANGER2",329,29
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:58:54","DAT2",330,29
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:59:11","SAFE2",331,30
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:59:42","AT2",332,30
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:59:49","SAFE2",333,30
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 12:59:58","Possible Free Kick",334,30
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:00:01","F1",336,30
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:00:01","FK2",337,30
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:00:01","Ball Position",338,30
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:00:17","Restart",339,31
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:00:19","SAFE2",340,31
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:00:39","Possible Free Kick",341,31
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:00:40","F1",343,31
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:00:40","FK2",344,31
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:00:40","Ball Position",345,31
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:01:15","Restart",346,32
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:01:16","SAFE1",347,32
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:01:22","SAFE2",348,32
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:01:51","Possible Free Kick",349,32
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:01:52","F1",351,32
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:01:52","FK2",352,32
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:01:52","Ball Position",353,32
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:02:08","Restart",354,33
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:02:09","AT2",355,33
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:02:19","DANGER2",356,33
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:02:19","DAT2",357,33
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:02:25","SHW2",358,33
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:02:29","POSSIBLE_TI",359,33
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:02:29","TI2",360,33
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:02:43","Restart",361,33
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:02:47","SAFE2",362,33
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:02:49","AT2",363,33
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:03:03","SAFE2",364,33
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:03:24","AT2",365,34
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:03:27","SAFE1",366,34
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:03:30","AT1",367,34
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:03:42","DANGER1",368,34
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:03:42","DAT1",369,34
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:03:49","PCR1",370,34
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:03:50","CR1",371,34
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:03:51","Ball Position",372,34
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:04:17","Restart",373,35
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:04:22","SAFE2",374,35
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:04:28","AT2",375,35
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:04:30","DANGER2",376,35
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:04:30","DAT2",377,35
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:04:33","SAFE1",378,35
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:04:52","AT1",379,35
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:04:56","POSSIBLE_TI",380,35
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:04:56","TI2",381,35
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:05:22","Restart",382,36
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:05:23","SAFE2",383,36
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:05:29","AT1",384,36
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:05:32","SAFE2",385,36
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:05:37","AT2",386,36
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:05:38","POSSIBLE_TI",387,36
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:05:39","TI2",388,36
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:05:53","Restart",389,36
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:05:54","SAFE2",390,36
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:05:56","AT2",391,36
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:05:59","SAFE2",392,36
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:06:09","AT2",393,37
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:06:18","DANGER2",394,37
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:06:18","DAT2",395,37
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:06:34","SAFE1",396,37
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:06:42","AT1",397,37
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:06:52","DANGER1",398,37
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:06:52","DAT1",399,37
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:07:08","SAFE2",400,38
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:07:36","AT2",401,38
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:07:40","POSSIBLE_TI",402,38
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:07:40","TI2",403,38
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:07:57","Restart",404,38
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:07:57","DANGER2",405,38
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:07:57","DAT2",406,38
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:08:06","POSSIBLE_TI",407,39
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:08:07","TI2",408,39
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:08:26","Restart",409,39
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:08:40","SAFE2",410,39
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:08:42","AT2",411,39
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:08:54","DANGER2",412,39
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:08:54","DAT2",413,39
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:09:16","SAFE1",414,40
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:09:18","AT2",415,40
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:09:28","Injury Break",416,40
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:10:57","Referee Ball",417,41
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:10:59","SAFE2",418,41
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:11:22","SAFE1",419,42
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:11:24","Restart",420,42
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:11:24","AT1",421,42
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:11:31","SAFE2",422,42
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:11:35","SAFE1",423,42
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:11:37","SAFE2",424,42
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:11:41","SAFE1",425,42
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:11:41","AT1",426,42
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:11:44","SAFE2",427,42
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:11:48","SAFE1",428,42
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:11:53","AT1",429,42
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:12:00","DANGER1",430,42
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:12:00","DAT1",431,42
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:12:23","SAFE2",432,43
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:12:39","AT1",433,43
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:12:55","DANGER1",434,43
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:12:55","DAT1",435,43
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:13:03","SAFE2",436,43
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:13:07","POSSIBLE_TI",437,44
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:13:08","TI2",438,44
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:13:22","Restart",439,44
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:13:23","SAFE2",440,44
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:13:26","AT1",441,44
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:13:29","DANGER1",442,44
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:13:29","DAT1",443,44
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:13:45","SAFE2",444,44
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:13:46","GK2",445,44
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:14:11","Restart",446,45
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:14:12","AT2",447,45
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:14:19","DANGER2",448,45
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:14:19","DAT2",449,45
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:14:24","SAFE1",450,45
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:14:28","Possible Free Kick",451,45
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:14:32","F2",453,45
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:14:32","FK1",454,45
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:14:32","Ball Position",455,45
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:15:04","Restart",456,45
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:15:11","AT1",457,46
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:15:11","DANGER1",458,46
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:15:11","DAT1",459,46
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:15:13","SHB1",460,46
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:15:14","SAFE2",461,46
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:15:15","GK2",462,46
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:15:20","Extra Time",463,46
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:15:43","Restart",464,46
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:15:43","AT2",465,46
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:15:47","SAFE1",466,46
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:15:49","AT1",467,46
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:15:54","SAFE2",468,46
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:16:02","AT1",469,46
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:16:09","DANGER1",470,47
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:16:09","DAT1",471,47
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:16:16","GOAL1",472,47
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:16:47","Scorer",473,47
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:17:26","CONF_GOAL1",474,48
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:17:28","KO2",475,48
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:17:28","SAFE2",476,48
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:17:29","SAFE2",477,48
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:17:35","SAFE2",478,48
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:17:50","Player_DATA_CONFIRMED",479,48
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:17:50","Assist",480,48
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:17:50","Stop RT1",481,48
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:17:54","CONF_PERIOD_SCORE",482,45
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:31:25","Players are coming out",483,45
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:32:52","Game about to start",484,45
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:33:06","Start RT2 Team 1",485,46
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:33:08","System Message",486,46
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:33:10","AT1",487,46
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:33:24","Start score update",488,46
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:33:25","Statistic confirmation",489,46
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:33:25","Score update finished",490,46
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:33:25","SAFE2",491,46
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:33:46","Danger",492,46
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:33:46","Scout offline",493,46
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:33:54","Transmission Online",494,46
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:33:54","Start score update",495,46
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:33:54","Statistic confirmation",496,46
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:33:54","Score update finished",497,46
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:33:58","SAFE2",498,46
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:33:59","GK2",499,46
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:34:01","Restart",500,46
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:34:08","POSSIBLE_TI",501,47
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:34:09","TI1",502,47
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:34:30","Restart",503,47
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:34:31","AT1",504,47
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:34:38","SAFE2",505,47
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:34:41","AT1",506,47
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:34:46","DANGER1",507,47
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:34:46","DAT1",508,47
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:35:00","Start score update",509,47
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:35:00","Statistic confirmation",510,47
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:35:00","Score update finished",511,47
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:35:04","SAFE2",512,47
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:35:04","GK2",513,47
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:35:33","Danger",514,48
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:35:33","Scout offline",515,48
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:35:38","Transmission Online",516,48
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:35:38","Start score update",517,48
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:35:38","Statistic confirmation",518,48
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:35:38","Score update finished",519,48
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:35:40","SAFE2",520,48
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:35:41","Restart",521,48
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:35:42","AT2",522,48
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:35:53","DANGER2",523,48
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:35:53","DAT2",524,48
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:35:54","SAFE1",525,48
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:36:10","AT1",526,49
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:36:25","SAFE1",527,49
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:36:32","SAFE2",528,49
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:36:34","Possible Free Kick",529,49
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:36:35","F1",531,49
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:36:35","FK2",532,49
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:36:35","Ball Position",533,49
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:36:47","Restart",534,49
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:36:57","AT2",535,49
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:36:58","DANGER2",536,49
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:36:58","DAT2",537,49
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:37:03","PCR2",538,49
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:37:11","CR2",539,50
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:37:14","Ball Position",540,50
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:37:22","Start score update",541,50
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:37:22","Statistic confirmation",542,50
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:37:22","Score update finished",543,50
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:37:38","Restart",544,50
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:37:48","SHB2",545,50
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:37:52","Restart",546,50
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:37:52","SAFE1",547,50
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:37:52","GK1",548,50
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:38:32","Restart",549,51
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:38:36","SAFE1",550,51
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:38:38","AT1",551,51
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:38:44","Possible Free Kick",552,51
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:38:54","POSSIBLE_CARDS",554,51
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:38:57","YC2",555,51
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:38:58","CONF_YC2",556,51
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:39:05","Scorer",557,51
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:39:10","FK1",558,52
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:39:10","DANGER1",559,52
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:39:10","DFK1",560,52
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:39:10","Ball Position",561,52
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:39:19","Restart",562,52
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:39:26","SAFE2",563,52
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:39:27","GK2",564,52
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:39:32","System Message",565,52
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:39:46","Restart",566,52
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:39:48","AT2",567,52
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:40:05","SAFE2",568,52
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:40:09","AT2",569,53
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:40:15","SAFE2",570,53
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:40:22","AT2",571,53
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:40:28","SAFE2",572,53
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:40:32","AT2",573,53
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:40:37","DANGER2",574,53
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:40:37","DAT2",575,53
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:40:43","POSSIBLE_TI",576,53
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:40:44","TI2",577,53
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:40:48","Restart",578,53
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:40:50","Player_DATA_CONFIRMED",579,53
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:40:58","PCR2",580,53
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:40:59","CR2",581,53
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:40:59","Ball Position",582,53
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:41:16","Restart",583,54
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:41:21","SHG2",584,54
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:41:30","POSSIBLE_TI",585,54
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:41:31","TI2",586,54
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:41:44","Restart",587,54
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:41:51","SHG2",588,54
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:41:52","SAFE1",589,54
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:42:08","AT1",590,55
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:42:12","SAFE2",591,55
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:42:15","AT2",592,55
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:42:22","DANGER2",593,55
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:42:22","DAT2",594,55
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:42:26","SAFE1",595,55
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:42:31","POSSIBLE_TI",596,55
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:42:31","TI2",597,55
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:42:39","Restart",598,55
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:42:40","SAFE2",599,55
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:42:49","AT2",600,55
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:43:14","SAFE2",601,56
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:43:24","AT2",602,56
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:43:43","DANGER2",603,56
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:43:43","DAT2",604,56
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:43:48","BLOCKED2",605,56
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:44:01","PCR2",606,56
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:44:04","SHB2",607,56
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:44:04","CR2",608,56
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:44:05","Ball Position",609,56
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:44:28","Restart",610,57
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:44:33","SAFE1",611,57
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:44:38","SAFE2",612,57
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:44:40","AT2",613,57
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:44:40","DANGER2",614,57
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:44:40","DAT2",615,57
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:44:46","SAFE2",616,57
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:45:00","AT2",617,57
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:45:02","DANGER2",618,57
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:45:02","DAT2",619,57
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:45:05","SAFE1",620,57
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:45:12","AT1",621,58
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:45:15","DANGER1",622,58
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:45:15","DAT1",623,58
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:45:25","SHB1",624,58
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:45:27","SAFE2",625,58
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:45:28","GK2",626,58
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:45:28","POSSIBLE_CARDS",627,58
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:45:33","YC2",628,58
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:45:34","CONF_YC2",629,58
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:45:37","Scorer",630,58
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:45:51","Restart",631,58
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:45:55","SAFE1",632,58
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:46:00","AT1",633,58
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:46:06","Possible Free Kick",634,59
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:46:10","F2",636,59
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:46:10","FK1",637,59
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:46:10","DANGER1",638,59
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:46:10","DFK1",639,59
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:46:10","Ball Position",640,59
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:46:22","Scorer",641,59
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:46:22","Player_DATA_CONFIRMED",642,59
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:46:55","Restart",643,59
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:47:02","SHB1",644,59
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:47:03","SAFE2",645,59
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:47:04","GK2",646,59
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:47:21","Restart",647,60
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:47:23","AT2",648,60
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:47:47","DANGER2",649,60
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:47:47","DAT2",650,60
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:47:48","Scout offline",651,60
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:47:55","Transmission Online",652,60
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:47:55","Start score update",653,60
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:47:55","Statistic confirmation",654,60
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:47:55","Score update finished",655,60
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:47:58","SAFE1",656,60
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:48:03","SAFE2",657,60
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:48:05","AT2",658,60
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:48:08","DANGER2",659,61
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:48:08","DAT2",660,61
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:48:16","SAFE2",661,61
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:48:19","AT2",662,61
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:48:32","SAFE1",663,61
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:48:40","AT2",664,61
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:48:43","SAFE2",665,61
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:48:47","AT2",666,61
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:48:54","DANGER2",667,61
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:48:54","DAT2",668,61
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:48:58","POSSIBLE_TI",669,61
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:48:59","TI2",670,61
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:49:17","Restart",671,62
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:49:38","SAFE2",672,62
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:49:39","AT2",673,62
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:49:53","DANGER2",674,62
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:49:53","DAT2",675,62
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:49:56","GOAL2",676,62
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:50:02","Scorer",677,62
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:50:49","Assist",678,63
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:51:04","CONF_GOAL2",679,63
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:51:05","KO1",680,63
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:51:05","SAFE1",681,63
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:51:12","POSSIBLE_TI",682,64
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:51:12","TI2",683,64
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:51:26","Restart",684,64
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:51:27","AT2",685,64
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:51:31","Scorer",686,64
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:51:32","Player_DATA_CONFIRMED",687,64
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:51:34","SAFE2",688,64
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:51:42","AT1",689,64
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:51:48","DANGER1",690,64
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:51:48","DAT1",691,64
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:51:53","POSSIBLE_TI",692,64
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:51:54","TI2",693,64
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:52:03","Restart",694,64
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:52:03","SAFE2",695,64
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:52:23","AT2",696,65
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:52:26","DANGER2",697,65
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:52:26","DAT2",698,65
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:52:49","POSSIBLE_TI",699,65
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:52:50","TI2",700,65
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:53:00","Restart",701,65
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:53:11","SAFE1",702,66
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:53:22","AT1",703,66
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:53:24","Possible Free Kick",704,66
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:53:36","POSSIBLE_CARDS",706,66
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:53:38","YC2",707,66
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:53:39","CONF_YC2",708,66
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:53:43","Scorer",709,66
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:53:45","F2",710,66
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:53:45","FK1",711,66
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:53:45","DANGER1",712,66
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:53:45","DFK1",713,66
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:53:45","Ball Position",714,66
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:53:49","Player_DATA_CONFIRMED",715,66
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:53:52","Restart",716,66
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:54:01","Possible Free Kick",717,66
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:54:03","F2",719,66
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:54:03","FK1",720,66
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:54:03","DFK1",721,66
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:54:03","Ball Position",722,66
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:54:25","Restart",723,67
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:54:32","BLOCKED1",724,67
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:54:37","POSSIBLE_TI",725,67
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:54:38","TI1",726,67
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:55:00","Restart",727,67
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:55:05","POSSIBLE_TI",728,67
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:55:05","TI1",729,67
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:55:23","Restart",730,68
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:55:31","PCR1",731,68
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:55:32","SHB1",732,68
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:55:33","CR1",733,68
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:55:34","Ball Position",734,68
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:55:52","Restart",735,68
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:55:58","PCR1",736,68
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:55:59","CR1",737,68
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:56:00","Ball Position",738,68
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:56:07","Restart",739,69
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:56:16","SAFE2",740,69
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:56:23","SAFE1",741,69
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:56:25","AT1",742,69
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:56:40","Possible Free Kick",743,69
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:56:42","F2",745,69
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:56:42","FK1",746,69
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:56:42","DANGER1",747,69
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:56:42","DFK1",748,69
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:56:42","Ball Position",749,69
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:57:08","Restart",750,70
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:57:14","GOAL1",751,70
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:57:20","Scorer",752,70
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:57:59","SUB2",753,70
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:58:24","CONF_GOAL1",754,71
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:58:25","Scorer",755,71
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:58:25","KO2",756,71
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:58:25","SAFE2",757,71
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:58:30","SAFE2",758,71
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:58:40","AT2",759,71
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:58:50","DANGER2",760,71
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:58:50","DAT2",761,71
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:58:54","SAFE1",762,71
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:59:11","Possible Free Kick",763,72
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:59:12","POSSIBLE_CARDS",765,72
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:59:12","YC1",766,72
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:59:12","CONF_YC1",767,72
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:59:13","Scorer",768,72
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:59:13","SAFE2",769,72
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:59:13","F1",770,72
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:59:13","FK2",771,72
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:59:14","Ball Position",772,72
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:59:20","Player_DATA_CONFIRMED",773,72
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:59:20","Player_DATA_CONFIRMED",774,72
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:59:21","Assist",775,72
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:59:23","Restart",776,72
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:59:26","SAFE1",777,72
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:59:34","SAFE2",778,72
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:59:40","AT2",779,72
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:59:49","Player_DATA_CONFIRMED",780,72
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:59:55","POSSIBLE_TI",781,72
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:59:56","TI2",782,72
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 13:59:58","Restart",783,72
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:00:02","SAFE2",784,72
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:00:26","AT2",785,73
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:00:46","DANGER2",786,73
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:00:46","DAT2",787,73
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:01:05","PCR2",788,73
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:01:06","CR2",789,73
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:01:07","Ball Position",790,74
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:01:27","Scout offline",791,74
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:01:38","Transmission Online",792,74
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:01:38","Start score update",793,74
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:01:38","Statistic confirmation",794,74
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:01:38","Score update finished",795,74
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:01:40","Restart",796,74
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:01:40","SHG2",797,74
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:01:41","Possible Free Kick",798,74
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:01:42","SAFE1",800,74
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:01:42","F2",801,74
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:01:42","FK1",802,74
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:01:43","Ball Position",803,74
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:02:30","Restart",804,75
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:02:31","AT1",805,75
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:02:35","SAFE2",806,75
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:02:39","Possible Free Kick",807,75
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:02:40","F1",809,75
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:02:40","FK2",810,75
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:02:40","Ball Position",811,75
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:02:44","Restart",812,75
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:02:50","AT2",813,75
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:02:53","DANGER2",814,75
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:02:53","DAT2",815,75
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:02:57","PCR2",816,75
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:02:58","CR2",817,75
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:02:59","Ball Position",818,75
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:03:22","Restart",819,76
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:03:30","POSSIBLE_TI",820,76
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:03:30","TI2",821,76
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:03:46","Restart",822,76
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:03:50","SAFE2",823,76
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:03:57","AT2",824,76
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:04:05","DANGER2",825,76
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:04:05","DAT2",826,76
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:04:10","SAFE1",827,77
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:04:18","Possible Free Kick",828,77
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:04:28","POSSIBLE_CARDS",830,77
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:04:29","YC1",831,77
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:04:37","CONF_YC1",832,77
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:04:40","Scorer",833,77
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:04:44","F1",834,77
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:04:44","FK2",835,77
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:04:44","DANGER2",836,77
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:04:44","DFK2",837,77
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:04:44","Ball Position",838,77
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:04:50","Restart",839,77
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:04:54","SAFE2",840,77
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:04:57","AT2",841,77
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:05:20","DANGER2",842,78
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:05:20","DAT2",843,78
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:05:23","SAFE1",844,78
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:05:24","GK1",845,78
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:05:49","Player_DATA_CONFIRMED",846,78
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:06:06","Restart",847,79
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:06:07","AT1",848,79
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:06:13","SAFE2",849,79
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:06:18","SAFE1",850,79
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:06:24","AT2",851,79
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:06:32","SAFE1",852,79
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:06:35","AT1",853,79
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:06:38","DANGER1",854,79
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:06:38","DAT1",855,79
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:06:43","SHG1",856,79
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:06:44","SAFE2",857,79
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:06:52","AT1",858,79
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:06:58","SAFE2",859,79
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:06:59","GK2",860,79
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:07:15","Restart",861,80
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:07:17","AT2",862,80
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:07:23","SAFE2",863,80
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:07:40","AT2",864,80
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:07:45","DANGER2",865,80
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:07:45","DAT2",866,80
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:07:49","SAFE1",867,80
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:07:53","SAFE2",868,80
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:08:10","AT2",869,81
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:08:15","SAFE1",870,81
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:08:18","SAFE2",871,81
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:08:21","AT2",872,81
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:08:31","DANGER2",873,81
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:08:31","DAT2",874,81
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:08:42","GOAL2",875,81
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:08:55","Scorer",876,81
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:09:45","CONF_GOAL2",877,82
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:09:45","KO1",878,82
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:09:45","SAFE1",879,82
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:09:48","AT1",880,82
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:09:51","SAFE2",881,82
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:10:01","AT2",882,82
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:10:04","SAFE1",883,82
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:10:09","AT1",884,83
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:10:12","SAFE2",885,83
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:10:17","AT2",886,83
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:10:21","SAFE2",887,83
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:10:52","AT2",888,83
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:10:56","POSSIBLE_TI",889,83
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:10:56","TI2",890,83
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:11:06","POSSIBLE_TI",891,83
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:11:07","Restart",892,84
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:11:07","TI2",893,84
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:11:22","SUB2",894,84
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:11:33","SUB1",895,84
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:11:46","Restart",896,84
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:11:50","Player_DATA_CONFIRMED",897,84
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:11:50","Player_DATA_CONFIRMED",898,84
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:11:50","Assist",899,84
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:11:52","SAFE2",900,84
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:12:05","SAFE1",901,84
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:12:09","AT1",902,85
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:12:15","SAFE2",903,85
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:12:19","SAFE1",904,85
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:12:25","AT1",905,85
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:12:28","SAFE2",906,85
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:12:35","SAFE1",907,85
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:12:36","AT1",908,85
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:12:43","SAFE1",909,85
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:12:48","AT1",910,85
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:12:50","Player_DATA_CONFIRMED",911,85
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:12:56","SAFE2",912,85
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:12:57","POSSIBLE_TI",913,85
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:12:59","TI1",914,85
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:13:02","Restart",915,85
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:13:03","SAFE1",916,85
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:13:06","SAFE2",917,85
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:13:07","AT1",918,86
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:13:08","DANGER1",919,86
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:13:08","DAT1",920,86
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:13:27","SAFE2",921,86
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:13:29","AT1",922,86
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:13:35","DANGER1",923,86
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:13:35","DAT1",924,86
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:13:44","SAFE2",925,86
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:13:52","AT2",926,86
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:13:54","DANGER2",927,86
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:13:54","DAT2",928,86
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:14:17","SAFE2",929,87
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:14:32","AT2",930,87
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:14:40","SAFE1",931,87
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:14:41","SAFE2",932,87
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:14:55","AT2",933,87
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:15:09","DANGER2",934,88
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:15:09","DAT2",935,88
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:15:12","SAFE1",936,88
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:15:22","AT2",937,88
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:15:35","DANGER2",938,88
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:15:35","DAT2",939,88
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:15:56","SAFE2",940,88
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:16:02","AT2",941,88
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:16:07","DANGER2",942,89
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:16:07","DAT2",943,89
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:16:14","POSSIBLE_TI",944,89
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:16:15","TI2",945,89
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:16:45","SUB2",946,89
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:16:55","SUB1",947,89
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:17:15","Restart",948,90
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:17:19","Player_DATA_CONFIRMED",949,90
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:17:19","Player_DATA_CONFIRMED",950,90
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:17:26","SAFE2",951,90
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:17:44","AT1",952,90
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:17:47","SAFE2",953,90
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:17:49","SAFE1",954,90
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:17:57","Possible Free Kick",955,90
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:17:59","F2",957,90
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:17:59","FK1",958,90
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:17:59","Ball Position",959,90
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:18:13","Extra Time",960,91
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:18:22","Restart",961,91
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:18:24","AT1",962,91
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:18:24","DANGER1",963,91
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:18:24","DAT1",964,91
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:18:38","SHB1",965,91
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:18:40","SAFE2",966,91
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:18:40","GK2",967,91
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:19:06","Restart",968,92
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:19:12","AT2",969,92
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:19:12","DANGER2",970,92
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:19:12","DAT2",971,92
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:19:13","CLS",972,92
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:19:14","AT2",973,92
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:19:15","Possible Free Kick",974,92
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:19:18","SAFE1",976,92
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:19:18","O2",977,92
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:19:18","FK1",978,92
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:19:18","Ball Position",979,92
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:19:46","Restart",980,92
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:19:48","AT1",981,92
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:19:48","DANGER1",982,92
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:19:48","DAT1",983,92
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:19:59","SAFE2",984,92
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:20:05","Possible Free Kick",985,92
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:20:11","POSSIBLE_CARDS",987,93
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:20:14","YC1",988,93
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:20:14","CONF_YC1",989,93
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:20:20","Scorer",990,93
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:20:24","F1",991,93
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:20:24","FK2",992,93
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:20:24","Ball Position",993,93
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:20:46","Restart",994,93
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:20:47","AT2",995,93
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:20:48","DANGER2",996,93
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:20:48","DAT2",997,93
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:20:51","SAFE1",998,93
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:20:55","AT1",999,93
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:21:04","Possible Free Kick",1000,93
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:21:11","FK1",1002,94
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:21:11","DANGER1",1003,94
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:21:11","DFK1",1004,94
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:21:11","Ball Position",1005,94
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:21:43","Restart",1006,94
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:21:47","SAFE2",1007,94
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:21:48","GK2",1008,94
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:22:20","Restart",1009,95
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:22:21","AT2",1010,95
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:22:24","SAFE1",1011,95
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:22:25","AT1",1012,95
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:22:28","POSSIBLE_TI",1013,95
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:22:29","TI2",1014,95
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:22:39","Restart",1015,95
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:22:39","SAFE2",1016,95
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:22:40","AT2",1017,95
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:22:40","DANGER2",1018,95
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:22:40","DAT2",1019,95
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:22:50","Player_DATA_CONFIRMED",1020,95
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:22:56","SHG2",1021,95
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:22:57","SHG2",1022,95
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:22:58","SAFE1",1023,95
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:23:05","Stop RT2",1024,95
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:23:05","Stop Game",1025,95
+1012099,"Cardiff City FC","Arsenal FC","09/02/2018 14:23:10","CONF_PERIOD_SCORE",1026,94

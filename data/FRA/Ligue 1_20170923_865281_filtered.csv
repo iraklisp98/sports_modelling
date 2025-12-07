@@ -1,0 +1,856 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 17:01:06","Scout in Stadion",0,0
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 17:01:11","Transmission Online",1,0
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 17:06:13","Lineup changed",2,0
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 17:08:25","Jersey Changed",3,0
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 17:08:25","Jersey Changed",4,0
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 17:09:36","GCC",5,0
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 17:28:53","Jersey Changed",6,0
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 17:28:53","Jersey Changed",7,0
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 17:57:09","Players are coming out",8,0
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 17:57:29","Players lined up",9,0
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 17:57:51","Shake hands",10,0
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 17:58:18","Flip coin",11,0
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 17:59:29","Game about to start",12,0
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:00:03","Start RT1 Team 1",13,1
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:00:12","POSSIBLE_TI",14,1
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:00:15","TI1",15,1
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:00:20","Restart",16,1
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:00:22","AT1",17,1
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:00:25","DANGER1",18,1
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:00:25","DAT1",19,1
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:00:30","PCR1",20,1
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:00:42","CR1",21,1
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:00:44","Ball Position",22,1
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:00:59","Restart",23,1
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:01:09","SAFE2",24,2
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:01:42","AT2",25,2
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:01:45","DANGER2",26,2
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:01:45","DAT2",27,2
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:01:49","PPEN",28,2
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:01:49","PPEN2",29,2
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:01:57","POSSIBLE_CARDS",30,2
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:01:59","YC1",31,2
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:02:04","CONF_YC1",32,3
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:02:14","Scorer",33,3
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:02:20","PEN2",34,3
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:02:47","MPEN2",35,3
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:02:54","Restart",36,3
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:02:55","SAFE1",37,3
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:02:59","AT1",38,3
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:03:02","POSSIBLE_TI",39,3
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:03:03","TI2",40,3
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:03:08","Player_DATA_CONFIRMED",41,4
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:03:14","Restart",42,4
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:03:22","SAFE1",43,4
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:03:24","AT1",44,4
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:03:27","DANGER1",45,4
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:03:27","DAT1",46,4
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:03:31","POSSIBLE_TI",47,4
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:03:33","TI1",48,4
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:03:42","Restart",49,4
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:03:49","Possible Free Kick",50,4
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:03:55","F2",52,4
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:03:55","FK1",53,4
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:03:55","DFK1",54,4
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:03:55","Ball Position",55,4
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:04:32","Restart",56,5
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:04:38","SHG1",57,5
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:04:39","SAFE2",58,5
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:04:44","AT2",59,5
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:04:46","DANGER2",60,5
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:04:46","DAT2",61,5
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:05:09","SAFE1",62,6
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:05:17","AT1",63,6
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:05:20","DANGER1",64,6
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:05:20","DAT1",65,6
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:05:30","SHB1",66,6
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:05:32","SAFE2",67,6
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:05:34","GK2",68,6
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:05:50","Restart",69,6
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:05:57","AT2",70,6
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:06:16","SAFE1",71,7
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:06:36","AT2",72,7
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:06:40","SAFE1",73,7
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:06:41","AT1",74,7
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:06:44","DANGER1",75,7
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:06:44","DAT1",76,7
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:06:53","SHB1",77,7
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:06:53","SAFE2",78,7
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:06:54","GK2",79,7
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:07:16","Restart",80,8
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:07:29","AT1",81,8
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:07:30","SAFE2",82,8
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:07:31","AT2",83,8
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:07:35","DANGER2",84,8
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:07:35","DAT2",85,8
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:07:58","SAFE1",86,8
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:08:14","AT1",87,9
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:08:49","DANGER1",88,9
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:08:49","DAT1",89,9
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:09:02","PPEN",90,9
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:09:02","PPEN1",91,9
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:09:14","No PEN",92,10
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:09:15","Possible Free Kick",93,10
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:09:18","F2",95,10
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:09:18","FK1",96,10
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:09:18","DFK1",97,10
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:09:18","Ball Position",98,10
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:10:03","Restart",99,10
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:10:08","BLOCKED1",100,11
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:10:10","SHG1",101,11
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:10:10","SAFE2",102,11
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:10:23","AT2",103,11
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:10:28","POSSIBLE_TI",104,11
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:10:29","TI2",105,11
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:10:41","Restart",106,11
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:10:47","Possible Free Kick",107,11
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:10:48","SAFE1",109,11
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:10:48","F2",110,11
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:10:48","FK1",111,11
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:10:48","Ball Position",112,11
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:11:00","Restart",113,11
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:11:01","SAFE1",114,11
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:11:13","AT2",115,12
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:11:14","DANGER2",116,12
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:11:14","DAT2",117,12
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:11:22","PCR2",118,12
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:11:34","CR2",119,12
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:11:36","Ball Position",120,12
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:11:55","Restart",121,12
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:12:43","POSSIBLE_TI",122,13
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:12:44","TI2",123,13
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:12:58","Restart",124,13
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:13:19","SAFE1",125,14
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:13:20","AT1",126,14
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:13:23","DANGER1",127,14
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:13:23","DAT1",128,14
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:13:31","POSSIBLE_TI",129,14
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:13:31","TI1",130,14
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:13:41","Restart",131,14
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:13:53","BLOCKED1",132,14
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:13:55","SAFE2",133,14
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:13:57","AT2",134,14
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:14:02","POSSIBLE_TI",135,14
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:14:05","TI2",136,15
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:14:26","Restart",137,15
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:14:37","DANGER2",138,15
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:14:37","DAT2",139,15
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:14:42","PCR2",140,15
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:14:50","NCR2",141,15
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:14:53","SAFE1",142,15
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:14:53","GK1",143,15
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:15:11","Restart",144,16
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:15:26","SAFE1",145,16
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:15:31","AT1",146,16
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:15:41","POSSIBLE_TI",147,16
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:15:42","TI1",148,16
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:15:50","Restart",149,16
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:15:54","SAFE2",150,16
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:16:14","AT2",151,17
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:16:18","POSSIBLE_TI",152,17
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:16:18","TI1",153,17
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:16:23","Restart",154,17
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:16:31","SAFE2",155,17
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:16:32","AT2",156,17
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:16:35","POSSIBLE_TI",157,17
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:16:36","TI2",158,17
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:16:49","Restart",159,17
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:16:51","DANGER2",160,17
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:16:51","DAT2",161,17
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:17:01","Possible Free Kick",162,17
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:17:03","SAFE1",164,18
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:17:04","F2",165,18
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:17:04","FK1",166,18
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:17:04","Ball Position",167,18
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:17:10","Restart",168,18
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:17:11","SAFE1",169,18
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:17:23","AT1",170,18
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:17:29","DANGER1",171,18
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:17:29","DAT1",172,18
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:17:53","SHB1",173,18
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:17:55","SAFE2",174,18
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:17:58","GK2",175,18
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:18:17","Restart",176,19
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:18:24","SAFE1",177,19
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:18:46","POSSIBLE_CARDS",178,19
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:18:55","YC2",179,19
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:19:01","CONF_YC2",180,19
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:19:05","Scorer",181,20
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:19:07","Possible Free Kick",182,20
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:19:09","F2",184,20
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:19:09","FK1",185,20
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:19:09","DANGER1",186,20
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:19:09","DFK1",187,20
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:19:09","Ball Position",188,20
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:19:19","Restart",189,20
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:19:32","SAFE1",190,20
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:19:37","AT1",191,20
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:19:49","DANGER1",192,20
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:19:49","DAT1",193,20
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:19:55","SAFE2",194,20
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:20:16","SAFE1",195,21
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:20:24","AT1",196,21
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:20:28","DANGER1",197,21
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:20:28","DAT1",198,21
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:20:38","Player_DATA_CONFIRMED",199,21
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:21:13","PCR1",200,22
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:21:17","CR1",201,22
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:21:18","Ball Position",202,22
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:21:40","Restart",203,22
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:21:50","SHB1",204,22
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:21:51","SAFE2",205,22
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:21:52","GK2",206,22
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:22:13","Restart",207,23
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:22:22","AT2",208,23
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:22:29","DANGER2",209,23
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:22:29","DAT2",210,23
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:22:41","SAFE2",211,23
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:23:02","AT1",212,23
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:23:08","DANGER1",213,24
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:23:08","DAT1",214,24
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:23:31","SAFE1",215,24
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:23:44","AT1",216,24
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:23:47","DANGER1",217,24
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:23:47","DAT1",218,24
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:23:53","SAFE2",219,24
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:24:04","AT2",220,25
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:24:10","POSSIBLE_TI",221,25
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:24:12","TI1",222,25
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:24:16","Restart",223,25
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:24:16","SAFE1",224,25
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:24:30","AT1",225,25
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:24:33","DANGER1",226,25
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:24:33","DAT1",227,25
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:24:40","SAFE2",228,25
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:24:41","AT2",229,25
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:24:50","DANGER2",230,25
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:24:50","DAT2",231,25
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:25:03","SAFE1",232,25
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:25:05","AT1",233,26
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:25:20","DANGER1",234,26
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:25:20","DAT1",235,26
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:25:33","SAFE2",236,26
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:25:40","AT1",237,26
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:25:42","DANGER1",238,26
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:25:42","DAT1",239,26
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:25:53","SHB1",240,26
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:25:54","SAFE2",241,26
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:25:55","GK2",242,26
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:26:13","Restart",243,27
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:26:39","AT2",244,27
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:26:47","SAFE1",245,27
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:26:48","AT1",246,27
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:26:56","SAFE1",247,27
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:27:05","AT2",248,28
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:27:32","DANGER2",249,28
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:27:32","DAT2",250,28
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:28:02","SAFE1",251,28
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:28:12","AT1",252,29
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:28:15","DANGER1",253,29
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:28:15","DAT1",254,29
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:28:22","PPEN",255,29
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:28:22","PPEN1",256,29
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:28:43","PEN1",257,29
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:30:17","GOAL1",258,31
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:30:18","Scorer",259,31
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:30:39","CONF_GOAL1",260,31
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:31:07","KO2",261,32
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:31:07","SAFE2",262,32
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:31:09","SAFE2",263,32
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:31:16","AT2",264,32
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:31:17","DANGER2",265,32
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:31:17","DAT2",266,32
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:31:25","SAFE1",267,32
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:31:30","SAFE2",268,32
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:31:39","Scorer",269,32
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:31:39","Player_DATA_CONFIRMED",270,32
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:31:55","SAFE1",271,32
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:32:20","SAFE2",272,33
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:32:41","SAFE1",273,33
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:32:44","GK1",274,33
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:33:01","Restart",275,33
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:33:10","AT1",276,34
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:33:20","SAFE2",277,34
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:33:21","AT2",278,34
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:33:25","SAFE1",279,34
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:33:26","AT1",280,34
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:33:28","DANGER1",281,34
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:33:28","DAT1",282,34
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:33:36","SAFE2",283,34
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:33:39","AT2",284,34
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:33:43","SAFE1",285,34
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:33:44","AT1",286,34
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:34:00","SAFE2",287,34
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:34:26","POSSIBLE_TI",288,35
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:34:27","TI1",289,35
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:34:28","Restart",290,35
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:34:33","SAFE1",291,35
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:34:47","POSSIBLE_CARDS",292,35
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:34:57","YC1",293,35
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:35:04","CONF_YC1",294,36
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:35:16","Scorer",295,36
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:35:18","Possible Free Kick",296,36
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:35:20","SAFE2",298,36
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:35:20","F1",299,36
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:35:20","FK2",300,36
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:35:20","Ball Position",301,36
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:35:26","Restart",302,36
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:35:30","AT2",303,36
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:35:30","DANGER2",304,36
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:35:30","DAT2",305,36
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:35:35","Possible Free Kick",306,36
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:35:37","Player_DATA_CONFIRMED",308,36
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:35:38","F1",309,36
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:35:38","FK2",310,36
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:35:38","DFK2",311,36
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:35:38","Ball Position",312,36
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:35:47","Restart",313,36
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:35:57","PCR2",314,36
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:36:02","NCR2",315,36
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:36:05","SAFE1",316,37
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:36:06","GK1",317,37
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:36:17","Restart",318,37
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:36:22","AT1",319,37
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:36:25","DANGER1",320,37
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:36:25","DAT1",321,37
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:36:28","POSSIBLE_TI",322,37
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:36:29","TI2",323,37
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:36:39","Restart",324,37
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:36:47","SAFE2",325,37
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:36:48","AT2",326,37
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:36:52","SAFE1",327,37
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:36:53","AT1",328,37
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:37:10","DANGER1",329,38
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:37:10","DAT1",330,38
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:37:18","POSSIBLE_TI",331,38
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:37:19","TI2",332,38
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:37:34","Restart",333,38
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:37:43","Possible Free Kick",334,38
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:37:45","SAFE2",336,38
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:37:45","F1",337,38
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:37:45","FK2",338,38
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:37:45","Ball Position",339,38
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:37:53","Restart",340,38
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:38:09","AT2",341,39
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:38:18","POSSIBLE_TI",342,39
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:38:20","TI1",343,39
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:38:36","Restart",344,39
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:38:41","SAFE1",345,39
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:38:59","AT1",346,39
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:39:01","POSSIBLE_CARDS",347,39
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:39:11","YC2",348,40
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:39:18","CONF_YC2",349,40
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:39:23","Scorer",350,40
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:39:26","Possible Free Kick",351,40
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:39:27","SAFE1",353,40
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:39:27","F2",354,40
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:39:27","FK1",355,40
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:39:27","Ball Position",356,40
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:39:28","Restart",357,40
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:39:29","AT1",358,40
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:39:31","DANGER1",359,40
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:39:31","DAT1",360,40
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:39:39","POSSIBLE_TI",361,40
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:39:40","TI1",362,40
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:39:48","Restart",363,40
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:40:08","Player_DATA_CONFIRMED",364,41
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:40:33","Possible Free Kick",365,41
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:40:35","F2",367,41
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:40:35","FK1",368,41
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:40:35","DFK1",369,41
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:40:35","Ball Position",370,41
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:40:38","Restart",371,41
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:40:53","POSSIBLE_CARDS",372,41
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:41:30","YC1",373,42
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:41:32","CONF_YC1",374,42
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:41:35","Scorer",375,42
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:41:46","Possible Free Kick",376,42
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:41:47","SAFE2",378,42
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:41:48","F1",379,42
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:41:48","FK2",380,42
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:41:48","Ball Position",381,42
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:41:51","Injury Break",382,42
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:42:07","Player_DATA_CONFIRMED",383,43
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:42:20","Restart",384,43
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:42:22","AT2",385,43
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:42:26","SAFE1",386,43
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:42:28","AT1",387,43
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:42:30","DANGER1",388,43
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:42:30","DAT1",389,43
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:42:48","PCR1",390,43
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:42:53","CR1",391,43
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:42:54","Ball Position",392,43
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:43:10","Restart",393,44
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:43:23","POSSIBLE_CARDS",394,44
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:43:39","YC1",395,44
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:43:43","CONF_YC1",396,44
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:43:50","Scorer",397,44
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:43:52","Possible Free Kick",398,44
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:43:54","SAFE2",400,44
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:43:54","F1",401,44
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:43:54","FK2",402,44
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:43:54","Ball Position",403,44
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:44:04","Restart",404,45
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:44:06","SAFE2",405,45
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:44:16","AT2",406,45
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:44:18","POSSIBLE_TI",407,45
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:44:19","TI1",408,45
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:44:39","Restart",409,45
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:44:48","SAFE2",410,45
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:45:01","AT2",411,45
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:45:16","Extra Time",412,46
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:45:17","AT1",413,46
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:45:17","DANGER1",414,46
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:45:17","DAT1",415,46
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:45:30","SAFE2",416,46
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:45:42","POSSIBLE_TI",417,46
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:45:43","TI1",418,46
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:46:15","Restart",419,47
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:46:18","POSSIBLE_TI",420,47
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:46:19","TI2",421,47
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:46:54","Player_DATA_CONFIRMED",422,47
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:47:19","SUB2",423,48
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:47:30","Player_DATA_CONFIRMED",424,48
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:47:31","Restart",425,48
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:47:43","POSSIBLE_TI",426,48
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:47:45","TI1",427,48
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:47:55","Restart",428,48
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:47:57","AT1",429,48
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:48:06","Stop RT1",430,48
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 18:48:31","CONF_PERIOD_SCORE",431,45
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:00:31","Players are coming out",432,45
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:01:27","SUB2",433,45
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:01:30","Game about to start",434,45
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:01:55","Start RT2 Team 2",435,46
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:01:58","AT2",436,46
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:02:12","AT1",437,46
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:02:12","DANGER1",438,46
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:02:12","DAT1",439,46
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:02:18","SAFE2",440,46
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:02:22","AT2",441,46
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:02:24","DANGER2",442,46
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:02:24","DAT2",443,46
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:02:32","GOAL2",444,46
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:02:50","Scorer",445,46
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:02:51","CONF_GOAL2",446,46
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:03:09","KO1",447,47
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:03:09","SAFE1",448,47
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:03:12","SAFE1",449,47
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:03:13","SUB_UPDATE",450,47
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:03:14","Player_DATA_CONFIRMED",451,47
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:03:23","AT1",452,47
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:03:27","SAFE1",453,47
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:03:38","Player_DATA_CONFIRMED",454,47
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:03:38","Assist",455,47
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:03:40","AT1",456,47
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:03:50","DANGER1",457,47
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:03:50","DAT1",458,47
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:04:08","SAFE2",459,48
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:04:16","SAFE1",460,48
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:04:27","AT2",461,48
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:04:38","DANGER2",462,48
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:04:38","DAT2",463,48
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:04:42","BLOCKED2",464,48
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:04:47","SAFE1",465,48
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:04:53","AT1",466,48
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:04:59","SAFE2",467,49
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:05:17","AT2",468,49
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:05:21","SAFE1",469,49
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:05:30","AT1",470,49
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:05:35","Possible Free Kick",471,49
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:05:36","F2",473,49
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:05:36","FK1",474,49
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:05:36","DANGER1",475,49
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:05:36","DFK1",476,49
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:05:36","Ball Position",477,49
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:05:55","Restart",478,50
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:05:56","SAFE1",479,50
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:06:04","AT1",480,50
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:06:07","DANGER1",481,50
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:06:07","DAT1",482,50
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:06:24","Possible Free Kick",483,50
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:06:25","SAFE2",485,50
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:06:25","F1",486,50
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:06:25","FK2",487,50
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:06:25","Ball Position",488,50
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:06:25","Restart",489,50
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:06:27","AT2",490,50
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:06:42","Possible Free Kick",491,50
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:06:43","SAFE1",493,50
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:06:43","F2",494,50
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:06:43","FK1",495,50
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:06:43","Ball Position",496,50
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:06:47","Restart",497,50
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:06:49","SAFE1",498,50
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:07:07","AT1",499,51
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:07:08","DANGER1",500,51
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:07:08","DAT1",501,51
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:07:16","SAFE2",502,51
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:07:16","GK2",503,51
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:07:37","Restart",504,51
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:07:45","Possible Free Kick",505,51
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:07:47","F1",507,51
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:07:47","FK2",508,51
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:07:47","DANGER2",509,51
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:07:47","DFK2",510,51
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:07:47","Ball Position",511,51
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:08:02","Restart",512,52
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:08:09","SAFE2",513,52
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:08:33","AT2",514,52
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:08:43","DANGER2",515,52
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:08:43","DAT2",516,52
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:09:01","SHB2",517,53
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:09:01","SAFE1",518,53
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:09:02","GK1",519,53
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:09:05","Restart",520,53
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:09:11","POSSIBLE_TI",521,53
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:09:12","TI1",522,53
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:09:18","Restart",523,53
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:09:20","AT1",524,53
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:09:25","DANGER1",525,53
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:09:25","DAT1",526,53
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:09:44","PCR1",527,53
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:09:47","CR1",528,53
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:09:50","Ball Position",529,53
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:10:03","Restart",530,54
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:10:16","SHB1",531,54
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:10:17","SAFE2",532,54
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:10:18","GK2",533,54
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:10:33","Restart",534,54
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:10:54","AT1",535,54
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:11:01","DANGER1",536,55
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:11:01","DAT1",537,55
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:11:15","PCR1",538,55
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:11:18","NCR1",539,55
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:11:20","SAFE2",540,55
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:11:20","GK2",541,55
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:11:41","Restart",542,55
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:11:50","Possible Free Kick",543,55
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:11:53","F1",545,55
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:11:53","FK2",546,55
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:11:53","DANGER2",547,55
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:11:53","DFK2",548,55
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:11:53","Ball Position",549,55
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:11:55","Restart",550,55
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:12:07","SAFE2",551,56
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:12:18","POSSIBLE_TI",552,56
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:12:20","TI1",553,56
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:12:25","Restart",554,56
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:12:27","AT1",555,56
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:12:35","DANGER1",556,56
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:12:35","DAT1",557,56
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:12:40","SHG1",558,56
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:12:41","SAFE2",559,56
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:12:43","AT2",560,56
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:12:46","DANGER2",561,56
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:12:46","DAT2",562,56
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:13:01","SAFE1",563,57
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:13:03","AT1",564,57
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:13:09","Possible Free Kick",565,57
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:13:11","F2",567,57
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:13:11","FK1",568,57
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:13:11","DANGER1",569,57
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:13:11","DFK1",570,57
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:13:11","Ball Position",571,57
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:13:22","Restart",572,57
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:14:14","POSSIBLE_TI",573,58
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:14:17","TI2",574,58
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:14:27","Restart",575,58
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:14:35","SAFE1",576,58
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:14:40","AT1",577,58
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:14:43","DANGER1",578,58
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:14:43","DAT1",579,58
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:14:52","POSSIBLE_TI",580,58
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:14:54","TI1",581,58
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:15:09","Restart",582,59
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:15:18","SAFE2",583,59
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:15:18","AT2",584,59
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:15:26","SAFE1",585,59
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:16:00","AT1",586,60
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:16:05","SAFE1",587,60
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:16:17","AT1",588,60
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:16:25","DANGER1",589,60
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:16:25","DAT1",590,60
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:16:32","Possible Free Kick",591,60
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:16:33","SAFE2",593,60
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:16:33","F1",594,60
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:16:33","FK2",595,60
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:16:33","Ball Position",596,60
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:17:04","Restart",597,61
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:17:13","AT1",598,61
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:17:19","DANGER1",599,61
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:17:19","DAT1",600,61
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:17:25","BLOCKED1",601,61
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:17:28","SAFE2",602,61
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:17:30","AT2",603,61
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:17:39","DANGER2",604,61
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:17:39","DAT2",605,61
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:17:40","Possible Free Kick",606,61
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:17:42","F1",608,61
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:17:42","FK2",609,61
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:17:42","DFK2",610,61
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:17:42","Ball Position",611,61
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:18:41","Restart",612,62
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:18:44","PCR2",613,62
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:18:49","SHG2",614,62
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:18:57","CR2",615,63
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:18:59","Ball Position",616,63
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:19:16","Restart",617,63
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:19:25","SHG2",618,63
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:19:25","SAFE1",619,63
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:19:27","AT1",620,63
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:19:29","DANGER1",621,63
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:19:29","DAT1",622,63
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:19:36","PCR1",623,63
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:19:39","NCR1",624,63
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:19:41","SHB1",625,63
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:19:42","SAFE2",626,63
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:19:43","GK2",627,63
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:20:00","SUB1",628,64
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:20:08","Restart",629,64
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:20:19","SAFE1",630,64
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:20:26","AT1",631,64
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:20:41","DANGER1",632,64
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:20:41","DAT1",633,64
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:21:00","BLOCKED1",634,65
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:21:02","SHB1",635,65
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:21:04","SAFE2",636,65
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:21:04","GK2",637,65
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:21:08","Player_DATA_CONFIRMED",638,65
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:21:27","Restart",639,65
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:21:32","SAFE1",640,65
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:21:50","AT1",641,65
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:22:05","DANGER1",642,66
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:22:05","DAT1",643,66
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:22:14","SAFE2",644,66
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:22:16","AT2",645,66
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:22:24","DANGER2",646,66
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:22:24","DAT2",647,66
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:22:28","Possible Free Kick",648,66
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:22:30","F1",650,66
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:22:30","FK2",651,66
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:22:30","DFK2",652,66
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:22:30","Ball Position",653,66
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:23:23","Restart",654,67
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:23:31","SHB2",655,67
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:23:33","SAFE1",656,67
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:23:34","GK1",657,67
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:23:37","Restart",658,67
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:23:38","SAFE1",659,67
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:23:50","AT1",660,67
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:23:52","DANGER1",661,67
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:23:52","DAT1",662,67
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:23:54","Possible Free Kick",663,67
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:23:59","SAFE2",665,68
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:23:59","O1",666,68
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:23:59","FK2",667,68
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:23:59","Ball Position",668,68
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:24:25","Restart",669,68
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:24:32","SAFE1",670,68
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:24:32","GK1",671,68
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:24:38","Restart",672,68
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:24:52","AT1",673,68
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:25:14","SAFE2",674,69
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:25:14","AT2",675,69
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:25:17","POSSIBLE_TI",676,69
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:25:19","TI2",677,69
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:25:22","Restart",678,69
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:25:31","POSSIBLE_TI",679,69
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:25:32","TI2",680,69
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:25:40","Restart",681,69
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:25:41","SAFE2",682,69
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:26:12","AT1",683,70
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:26:14","DANGER1",684,70
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:26:14","DAT1",685,70
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:26:24","PCR1",686,70
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:26:31","SHG1",687,70
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:26:32","SHG1",688,70
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:27:21","CR1",689,71
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:27:23","Ball Position",690,71
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:28:08","Restart",691,72
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:28:33","Possible Free Kick",692,72
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:28:39","SAFE2",694,72
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:28:39","F1",695,72
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:28:39","FK2",696,72
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:28:39","Ball Position",697,72
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:28:45","Restart",698,72
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:29:04","SAFE2",699,73
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:29:23","AT2",700,73
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:29:27","DANGER2",701,73
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:29:27","DAT2",702,73
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:29:40","Possible Free Kick",703,73
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:29:41","SAFE1",705,73
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:29:41","F2",706,73
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:29:41","FK1",707,73
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:29:41","Ball Position",708,73
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:30:03","Restart",709,74
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:30:05","SAFE1",710,74
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:30:12","POSSIBLE_TI",711,74
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:30:13","TI2",712,74
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:30:35","SUB1",713,74
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:30:42","Restart",714,74
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:30:52","SAFE1",715,74
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:30:54","GK1",716,74
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:30:55","Restart",717,74
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:30:57","SAFE1",718,75
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:31:14","AT1",719,75
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:31:17","DANGER1",720,75
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:31:17","DAT1",721,75
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:31:23","GOAL1",722,75
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:31:27","Player_DATA_CONFIRMED",723,75
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:31:45","Scorer",724,75
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:31:54","CONF_GOAL1",725,75
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:32:03","Player_DATA_CONFIRMED",726,76
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:32:13","KO2",727,76
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:32:13","SAFE2",728,76
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:32:27","POSSIBLE_TI",729,76
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:32:29","TI1",730,76
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:32:32","Restart",731,76
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:32:33","SAFE1",732,76
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:32:38","Assist",733,76
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:32:50","AT1",734,76
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:32:54","POSSIBLE_TI",735,76
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:32:57","TI1",736,77
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:33:12","Restart",737,77
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:33:15","POSSIBLE_TI",738,77
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:33:15","TI1",739,77
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:33:21","Restart",740,77
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:33:28","SAFE1",741,77
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:33:55","POSSIBLE_TI",742,77
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:33:56","TI2",743,78
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:34:29","SUB2",744,78
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:34:38","Restart",745,78
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:34:38","Player_DATA_CONFIRMED",746,78
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:34:40","SAFE2",747,78
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:34:57","POSSIBLE_TI",748,79
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:34:58","TI1",749,79
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:35:16","Restart",750,79
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:35:19","AT2",751,79
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:35:24","DANGER2",752,79
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:35:24","DAT2",753,79
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:35:39","SAFE1",754,79
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:35:41","GK1",755,79
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:35:57","Restart",756,80
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:36:10","Possible Free Kick",757,80
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:36:11","SAFE2",759,80
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:36:11","F1",760,80
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:36:11","FK2",761,80
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:36:11","Ball Position",762,80
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:36:17","Restart",763,80
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:36:18","SAFE2",764,80
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:36:40","AT1",765,80
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:36:42","DANGER1",766,80
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:36:42","DAT1",767,80
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:36:47","SAFE2",768,80
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:36:58","AT2",769,81
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:37:15","DANGER2",770,81
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:37:15","DAT2",771,81
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:37:23","POSSIBLE_TI",772,81
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:37:24","TI2",773,81
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:37:34","Restart",774,81
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:37:39","POSSIBLE_TI",775,81
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:37:40","TI2",776,81
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:37:51","Restart",777,81
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:38:17","POSSIBLE_TI",778,82
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:38:18","TI1",779,82
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:38:28","Restart",780,82
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:38:33","SAFE1",781,82
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:38:39","AT1",782,82
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:38:59","DANGER1",783,83
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:38:59","DAT1",784,83
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:39:09","SAFE2",785,83
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:39:13","AT1",786,83
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:39:13","DANGER1",787,83
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:39:13","DAT1",788,83
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:39:19","PCR1",789,83
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:39:24","SHB1",790,83
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:39:26","NCR1",791,83
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:39:26","SAFE2",792,83
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:39:27","GK2",793,83
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:39:42","Restart",794,83
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:40:01","POSSIBLE_TI",795,84
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:40:03","TI2",796,84
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:40:05","Restart",797,84
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:40:07","SAFE2",798,84
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:40:30","AT1",799,84
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:41:23","SAFE2",800,85
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:41:40","SAFE1",801,85
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:41:50","AT1",802,85
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:42:17","Possible Free Kick",803,86
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:42:20","SAFE2",805,86
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:42:20","O1",806,86
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:42:20","FK2",807,86
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:42:20","Ball Position",808,86
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:42:24","Restart",809,86
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:42:36","AT2",810,86
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:42:54","DANGER2",811,86
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:42:54","DAT2",812,86
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:43:01","SAFE1",813,87
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:43:01","GK1",814,87
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:43:28","Restart",815,87
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:43:40","AT2",816,87
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:43:43","DANGER2",817,87
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:43:43","DAT2",818,87
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:44:05","POSSIBLE_TI",819,88
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:44:06","TI2",820,88
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:44:51","SUB1",821,88
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:44:54","Restart",822,88
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:44:54","SAFE2",823,88
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:44:56","AT2",824,89
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:45:08","Player_DATA_CONFIRMED",825,89
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:45:17","SAFE1",826,89
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:45:23","Possible Free Kick",827,89
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:45:26","SAFE2",829,89
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:45:26","O1",830,89
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:45:26","FK2",831,89
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:45:26","Ball Position",832,89
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:45:26","Restart",833,89
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:45:28","SAFE2",834,89
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:45:33","AT2",835,89
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:45:36","DANGER2",836,89
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:45:36","DAT2",837,89
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:45:42","SAFE1",838,89
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:46:03","AT1",839,90
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:46:30","SAFE2",840,90
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:46:30","AT2",841,90
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:46:35","DANGER2",842,90
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:46:35","DAT2",843,90
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:46:44","Possible Free Kick",844,90
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:46:45","SAFE1",846,90
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:46:45","F2",847,90
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:46:45","FK1",848,90
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:46:45","Ball Position",849,90
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:47:13","Restart",850,91
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:47:23","AT1",851,91
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:47:23","DANGER1",852,91
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:47:23","DAT1",853,91
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:47:27","Extra Time",854,91
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:47:31","SAFE2",855,91
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:47:31","GK2",856,91
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:47:35","Extra Time",857,91
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:47:44","Restart",858,91
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:47:48","AT1",859,91
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:47:55","POSSIBLE_TI",860,91
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:47:57","TI2",861,92
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:47:59","Restart",862,92
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:47:59","SAFE2",863,92
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:48:04","AT2",864,92
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:48:13","SAFE1",865,92
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:48:14","AT1",866,92
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:48:16","DANGER1",867,92
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:48:16","DAT1",868,92
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:48:21","GOAL1",869,92
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:48:40","Scorer",870,92
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:48:52","CONF_GOAL1",871,92
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:49:22","KO2",872,93
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:49:22","SAFE2",873,93
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:49:25","AT2",874,93
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:49:39","POSSIBLE_TI",875,93
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:49:40","TI2",876,93
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:49:41","Restart",877,93
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:50:01","Stop RT2",878,93
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:50:01","Stop Game",879,93
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:50:25","Player_DATA_CONFIRMED",880,93
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:50:29","CONF_PERIOD_SCORE",881,93
+865281,"FC Girondins de Bordeaux","EA Guingamp","09/23/2017 19:51:09","Assist",882,93

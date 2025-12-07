@@ -1,0 +1,806 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+936462,"Manchester United FC","Chelsea FC","02/25/2018 13:02:16","Transmission Online",0,0
+936462,"Manchester United FC","Chelsea FC","02/25/2018 13:02:22","GCC",1,0
+936462,"Manchester United FC","Chelsea FC","02/25/2018 13:05:37","Lineup changed",2,0
+936462,"Manchester United FC","Chelsea FC","02/25/2018 13:05:46","Scout in Stadion",3,0
+936462,"Manchester United FC","Chelsea FC","02/25/2018 13:48:01","GCC",4,0
+936462,"Manchester United FC","Chelsea FC","02/25/2018 13:48:15","Jersey Changed",5,0
+936462,"Manchester United FC","Chelsea FC","02/25/2018 13:48:16","Jersey Changed",6,0
+936462,"Manchester United FC","Chelsea FC","02/25/2018 13:58:50","GCC",7,0
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:01:10","Players are coming out",8,0
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:01:54","Players lined up",9,0
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:02:06","Shake hands",10,0
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:03:52","Flip coin",11,0
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:04:21","Game about to start",12,0
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:05:04","Start RT1 Team 2",13,1
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:05:06","SAFE2",14,1
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:05:16","AT2",15,1
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:05:20","DANGER2",16,1
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:05:20","DAT2",17,1
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:05:50","PCR2",18,1
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:05:52","CR2",19,1
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:05:53","Ball Position",20,1
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:06:20","Restart",21,2
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:06:32","Possible Free Kick",22,2
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:06:34","SAFE1",24,2
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:06:34","O2",25,2
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:06:34","FK1",26,2
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:06:35","Ball Position",27,2
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:06:46","Restart",28,2
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:06:55","AT2",29,2
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:07:06","SAFE2",30,3
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:07:26","AT2",31,3
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:07:29","DANGER2",32,3
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:07:29","DAT2",33,3
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:08:01","SAFE1",34,3
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:08:05","SAFE2",35,4
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:08:26","AT2",36,4
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:08:30","DANGER2",37,4
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:08:30","DAT2",38,4
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:08:44","SHW2",39,4
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:08:45","PCR2",40,4
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:08:53","CR2",41,4
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:08:55","Ball Position",42,4
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:09:29","Restart",43,5
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:09:37","SAFE1",44,5
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:09:40","AT1",45,5
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:09:45","DANGER1",46,5
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:09:45","DAT1",47,5
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:09:51","POSSIBLE_TI",48,5
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:09:54","TI2",49,5
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:10:13","Restart",50,6
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:10:23","POSSIBLE_TI",51,6
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:10:25","TI1",52,6
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:10:27","Restart",53,6
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:11:03","SAFE1",54,6
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:11:28","AT1",55,7
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:11:37","POSSIBLE_TI",56,7
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:11:40","TI1",57,7
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:11:49","Restart",58,7
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:11:54","POSSIBLE_TI",59,7
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:11:55","TI2",60,7
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:12:04","Restart",61,7
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:12:26","SAFE2",62,8
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:12:33","AT2",63,8
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:12:39","SAFE1",64,8
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:12:40","SAFE2",65,8
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:12:50","AT2",66,8
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:12:56","SAFE1",67,8
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:13:04","AT1",68,8
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:13:07","SAFE2",69,9
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:13:09","AT2",70,9
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:13:17","SAFE1",71,9
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:13:41","AT1",72,9
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:13:57","DANGER1",73,9
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:13:57","DAT1",74,9
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:14:04","POSSIBLE_TI",75,9
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:14:05","TI1",76,10
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:14:11","Restart",77,10
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:14:22","Possible Free Kick",78,10
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:14:26","F2",80,10
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:14:26","FK1",81,10
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:14:26","DFK1",82,10
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:14:26","Ball Position",83,10
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:14:59","Restart",84,10
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:15:02","SAFE2",85,10
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:15:27","AT2",86,11
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:15:41","SAFE2",87,11
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:16:14","SAFE1",88,12
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:16:19","AT1",89,12
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:16:23","DANGER1",90,12
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:16:23","DAT1",91,12
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:16:36","SAFE1",92,12
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:16:40","AT1",93,12
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:16:53","DANGER1",94,12
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:16:53","DAT1",95,12
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:17:10","SAFE2",96,13
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:17:11","GK2",97,13
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:17:20","Restart",98,13
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:17:40","AT2",99,13
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:17:43","DANGER2",100,13
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:17:43","DAT2",101,13
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:17:58","SAFE2",102,13
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:18:19","AT2",103,14
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:18:24","DANGER2",104,14
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:18:24","DAT2",105,14
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:18:40","Possible Free Kick",106,14
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:18:43","SAFE1",108,14
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:18:43","O2",109,14
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:18:43","FK1",110,14
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:18:43","Ball Position",111,14
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:19:15","Restart",112,15
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:19:16","AT1",113,15
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:19:24","Possible Free Kick",114,15
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:19:25","SAFE2",116,15
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:19:25","F1",117,15
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:19:25","FK2",118,15
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:19:25","Ball Position",119,15
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:19:36","Restart",120,15
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:19:45","AT2",121,15
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:20:06","SAFE2",122,16
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:20:16","AT2",123,16
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:20:31","SAFE2",124,16
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:20:35","AT2",125,16
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:20:41","DANGER2",126,16
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:20:41","DAT2",127,16
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:20:52","SAFE1",128,16
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:21:18","AT1",129,17
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:21:30","SAFE2",130,17
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:21:38","AT2",131,17
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:21:48","SAFE2",132,17
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:21:57","AT2",133,17
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:22:14","Possible Free Kick",134,18
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:22:23","F1",136,18
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:22:23","FK2",137,18
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:22:23","DANGER2",138,18
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:22:23","DFK2",139,18
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:22:23","Ball Position",140,18
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:22:54","Restart",141,18
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:23:10","Possible Free Kick",142,19
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:23:12","SAFE1",144,19
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:23:12","F2",145,19
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:23:12","FK1",146,19
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:23:12","Ball Position",147,19
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:23:26","Restart",148,19
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:23:43","AT1",149,19
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:23:44","POSSIBLE_TI",150,19
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:23:46","TI1",151,19
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:23:53","Restart",152,19
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:24:02","SAFE2",153,19
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:24:20","AT2",154,20
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:24:28","SAFE2",155,20
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:24:37","AT2",156,20
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:24:46","POSSIBLE_TI",157,20
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:24:48","TI2",158,20
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:24:57","Restart",159,20
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:24:57","SAFE2",160,20
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:25:29","AT2",161,21
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:25:34","SAFE1",162,21
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:25:44","SAFE2",163,21
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:26:02","AT2",164,21
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:26:04","POSSIBLE_TI",165,21
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:26:05","TI1",166,22
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:26:12","Restart",167,22
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:26:24","Possible Free Kick",168,22
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:26:29","F1",170,22
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:26:29","FK2",171,22
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:26:29","DANGER2",172,22
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:26:29","DFK2",173,22
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:26:29","Ball Position",174,22
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:27:01","Restart",175,22
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:27:19","SAFE2",176,23
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:27:25","AT2",177,23
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:27:37","SAFE1",178,23
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:27:49","AT1",179,23
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:28:15","DANGER1",180,24
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:28:15","DAT1",181,24
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:28:36","SAFE2",182,24
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:29:24","AT2",183,25
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:29:27","DANGER2",184,25
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:29:27","DAT2",185,25
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:29:54","SAFE1",186,25
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:29:56","AT1",187,25
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:29:58","DANGER1",188,25
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:29:58","DAT1",189,25
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:31:35","BLOCKED1",190,27
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:31:36","SAFE2",191,27
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:32:08","AT2",192,28
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:32:12","DANGER2",193,28
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:32:12","DAT2",194,28
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:32:29","SAFE1",195,28
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:32:31","AT1",196,28
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:32:33","DANGER1",197,28
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:32:33","DAT1",198,28
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:32:39","SHG1",199,28
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:32:42","SAFE2",200,28
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:32:59","AT2",201,28
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:33:07","DANGER2",202,29
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:33:07","DAT2",203,29
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:33:16","SHG2",204,29
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:33:17","SAFE1",205,29
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:33:46","AT1",206,29
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:33:50","Possible Free Kick",207,29
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:33:53","SAFE2",209,29
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:33:53","F1",210,29
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:33:53","FK2",211,29
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:33:53","Ball Position",212,29
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:34:07","Restart",213,30
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:34:13","AT2",214,30
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:34:20","DANGER2",215,30
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:34:20","DAT2",216,30
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:34:46","SAFE1",217,30
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:34:47","AT1",218,30
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:34:50","Possible Free Kick",219,30
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:34:51","POSSIBLE_CARDS",221,30
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:34:53","YC2",222,30
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:34:54","CONF_YC2",223,30
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:34:55","Scorer",224,30
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:35:06","F2",225,31
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:35:06","FK1",226,31
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:35:06","DANGER1",227,31
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:35:06","DFK1",228,31
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:35:06","Ball Position",229,31
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:35:17","Scorer",230,31
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:35:18","Player_DATA_CONFIRMED",231,31
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:35:38","Restart",232,31
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:36:00","SAFE2",233,31
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:36:03","AT2",234,31
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:36:06","DANGER2",235,32
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:36:06","DAT2",236,32
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:36:09","GOAL2",237,32
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:36:45","Scorer",238,32
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:37:01","CONF_GOAL2",239,32
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:37:28","KO1",240,33
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:37:28","SAFE1",241,33
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:37:31","SAFE1",242,33
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:37:34","Player_DATA_CONFIRMED",243,33
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:37:35","Assist",244,33
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:37:43","AT1",245,33
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:37:48","SAFE2",246,33
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:38:10","SAFE1",247,34
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:38:15","AT1",248,34
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:38:33","Possible Free Kick",249,34
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:38:34","SAFE2",251,34
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:38:34","F1",252,34
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:38:34","FK2",253,34
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:38:34","Ball Position",254,34
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:38:43","Restart",255,34
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:38:43","AT2",256,34
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:38:52","DANGER2",257,34
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:38:52","DAT2",258,34
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:39:17","SAFE2",259,35
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:39:21","AT2",260,35
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:39:24","DANGER2",261,35
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:39:24","DAT2",262,35
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:39:43","SHB2",263,35
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:39:43","SAFE1",264,35
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:39:44","GK1",265,35
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:40:07","Restart",266,36
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:40:14","SAFE2",267,36
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:40:32","AT1",268,36
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:40:39","SAFE2",269,36
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:41:09","AT2",270,37
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:41:12","DANGER2",271,37
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:41:12","DAT2",272,37
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:41:15","Possible Free Kick",273,37
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:41:17","SAFE1",275,37
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:41:17","O2",276,37
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:41:17","FK1",277,37
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:41:17","Ball Position",278,37
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:41:28","Restart",279,37
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:41:52","AT1",280,37
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:41:57","SAFE2",281,37
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:42:07","AT1",282,38
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:42:27","DANGER1",283,38
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:42:27","DAT1",284,38
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:42:41","SAFE2",285,38
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:42:43","AT2",286,38
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:42:52","POSSIBLE_TI",287,38
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:42:56","TI2",288,38
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:43:01","Restart",289,38
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:43:05","SAFE1",290,39
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:43:12","AT1",291,39
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:43:14","POSSIBLE_TI",292,39
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:43:15","TI1",293,39
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:43:16","Restart",294,39
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:43:36","DANGER1",295,39
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:43:36","DAT1",296,39
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:43:48","GOAL1",297,39
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:43:59","Scorer",298,39
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:44:23","CONF_GOAL1",299,40
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:44:38","KO2",300,40
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:44:38","SAFE2",301,40
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:44:40","SAFE2",302,40
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:44:54","AT2",303,40
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:45:01","SAFE1",304,40
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:45:10","AT1",305,41
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:45:15","POSSIBLE_TI",306,41
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:45:16","TI2",307,41
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:45:29","Restart",308,41
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:45:35","Player_DATA_CONFIRMED",309,41
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:45:35","Assist",310,41
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:45:38","SAFE2",311,41
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:45:42","Possible Free Kick",312,41
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:45:44","F1",314,41
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:45:44","FK2",315,41
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:45:44","DANGER2",316,41
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:45:44","DFK2",317,41
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:45:44","Ball Position",318,41
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:45:47","Restart",319,41
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:46:01","SHB2",320,41
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:46:02","SAFE1",321,41
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:46:03","GK1",322,41
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:46:43","Restart",323,42
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:46:49","AT1",324,42
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:46:53","SAFE1",325,42
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:47:04","AT1",326,43
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:47:07","SAFE2",327,43
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:47:44","AT2",328,43
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:47:52","Possible Free Kick",329,43
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:47:55","F1",331,43
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:47:55","FK2",332,43
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:47:55","DANGER2",333,43
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:47:55","DFK2",334,43
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:47:55","Ball Position",335,43
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:48:33","Restart",336,44
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:48:38","SHG2",337,44
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:48:39","SAFE1",338,44
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:48:47","AT1",339,44
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:48:59","SAFE2",340,44
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:49:00","AT2",341,44
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:49:19","SAFE2",342,45
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:49:23","AT2",343,45
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:49:25","DANGER2",344,45
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:49:25","DAT2",345,45
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:49:48","SAFE2",346,45
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:49:49","AT2",347,45
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:49:57","SAFE1",348,45
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:50:05","AT1",349,46
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:50:11","SAFE1",350,46
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:50:15","Extra Time",351,46
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:50:16","AT1",352,46
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:50:19","DANGER1",353,46
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:50:19","DAT1",354,46
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:50:24","SAFE2",355,46
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:50:25","GK2",356,46
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:50:37","Restart",357,46
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:50:49","AT1",358,46
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:50:51","DANGER1",359,46
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:50:51","DAT1",360,46
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:50:57","Possible Free Kick",361,46
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:51:00","SAFE2",363,46
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:51:00","O1",364,46
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:51:00","FK2",365,46
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:51:01","Ball Position",366,46
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:51:28","Restart",367,47
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:51:30","AT2",368,47
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:51:38","SAFE2",369,47
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:52:25","AT2",370,48
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:52:35","Stop RT1",371,48
+936462,"Manchester United FC","Chelsea FC","02/25/2018 14:52:40","CONF_PERIOD_SCORE",372,45
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:07:15","Players are coming out",373,45
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:08:52","Game about to start",374,45
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:09:02","Start RT2 Team 1",375,46
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:09:05","SAFE1",376,46
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:09:20","Possible Free Kick",377,46
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:09:21","F2",379,46
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:09:21","FK1",380,46
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:09:21","Ball Position",381,46
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:09:42","Danger",382,46
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:09:42","Scout offline",383,46
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:09:52","Transmission Online",384,46
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:09:52","Start score update",385,46
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:09:52","Statistic confirmation",386,46
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:09:52","Score update finished",387,46
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:10:10","POSSIBLE_TI",388,47
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:10:11","TI2",389,47
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:10:12","System Message",390,47
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:10:23","SAFE2",391,47
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:10:23","AT2",392,47
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:10:28","Possible Free Kick",393,47
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:10:30","SAFE2",395,47
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:10:30","F1",396,47
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:10:30","FK2",397,47
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:10:30","Ball Position",398,47
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:10:42","Restart",399,47
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:11:04","AT2",400,48
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:11:14","SAFE2",401,48
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:11:21","AT2",402,48
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:11:24","DANGER2",403,48
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:11:24","DAT2",404,48
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:11:50","SAFE1",405,48
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:11:53","AT1",406,48
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:11:58","SAFE2",407,48
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:12:16","AT1",408,49
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:12:19","DANGER1",409,49
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:12:19","DAT1",410,49
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:12:40","SAFE2",411,49
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:12:42","AT2",412,49
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:12:44","DANGER2",413,49
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:12:44","DAT2",414,49
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:12:51","BLOCKED2",415,49
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:13:05","BLOCKED2",416,50
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:13:05","SAFE1",417,50
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:13:42","AT1",418,50
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:13:57","SAFE1",419,50
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:14:01","AT1",420,50
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:14:42","DANGER1",421,51
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:14:42","DAT1",422,51
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:14:50","SAFE2",423,51
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:14:51","AT2",424,51
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:14:53","DANGER2",425,51
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:14:53","DAT2",426,51
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:14:59","SAFE1",427,51
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:15:31","AT1",428,52
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:15:32","DANGER1",429,52
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:15:32","DAT1",430,52
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:15:38","SAFE2",431,52
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:15:47","AT1",432,52
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:15:54","DANGER1",433,52
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:15:54","DAT1",434,52
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:16:03","SAFE2",435,53
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:16:03","AT2",436,53
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:16:07","SAFE1",437,53
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:16:20","AT1",438,53
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:16:28","DANGER1",439,53
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:16:28","DAT1",440,53
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:16:40","SAFE2",441,53
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:16:44","POSSIBLE_TI",442,53
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:16:45","TI2",443,53
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:16:55","Restart",444,53
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:16:58","AT2",445,53
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:17:04","DANGER2",446,54
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:17:04","DAT2",447,54
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:17:17","Start score update",448,54
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:17:17","Statistic confirmation",449,54
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:17:17","Score update finished",450,54
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:17:35","SAFE1",451,54
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:17:36","GK1",452,54
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:17:42","Restart",453,54
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:17:50","AT1",454,54
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:18:06","SAFE2",455,55
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:18:11","AT2",456,55
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:18:26","SAFE1",457,55
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:18:28","AT1",458,55
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:18:30","System Message",459,55
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:18:36","DANGER1",460,55
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:18:36","DAT1",461,55
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:18:45","BLOCKED1",462,55
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:19:00","PCR1",463,55
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:19:05","CR1",464,56
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:19:06","Ball Position",465,56
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:19:23","Restart",466,56
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:19:35","SAFE1",467,56
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:19:50","Possible Free Kick",468,56
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:19:51","F2",470,56
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:19:51","FK1",471,56
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:19:51","DANGER1",472,56
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:19:51","DFK1",473,56
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:19:51","Ball Position",474,56
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:20:03","Restart",475,57
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:20:19","SAFE2",476,57
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:20:31","AT2",477,57
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:20:36","Possible Free Kick",478,57
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:20:43","F1",480,57
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:20:43","FK2",481,57
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:20:43","DANGER2",482,57
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:20:43","DFK2",483,57
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:20:43","Ball Position",484,57
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:20:46","Restart",485,57
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:20:55","SHG2",486,57
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:20:57","POSSIBLE_TI",487,57
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:20:59","TI2",488,57
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:21:00","Restart",489,57
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:21:10","SAFE2",490,58
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:21:16","AT2",491,58
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:21:22","DANGER2",492,58
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:21:22","DAT2",493,58
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:21:23","POSSIBLE_TI",494,58
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:21:24","TI1",495,58
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:21:38","Restart",496,58
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:21:44","POSSIBLE_TI",497,58
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:21:45","TI2",498,58
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:21:52","Restart",499,58
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:22:05","SAFE2",500,59
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:22:28","AT2",501,59
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:22:42","DANGER2",502,59
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:22:42","DAT2",503,59
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:23:20","SHB2",504,60
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:23:21","SAFE1",505,60
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:23:22","GK1",506,60
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:23:48","Restart",507,60
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:23:58","AT1",508,60
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:24:03","SAFE2",509,61
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:24:13","AT2",510,61
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:24:15","SAFE1",511,61
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:24:30","AT1",512,61
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:24:32","DANGER1",513,61
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:24:32","DAT1",514,61
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:24:46","SAFE1",515,61
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:25:04","AT1",516,62
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:25:27","DANGER1",517,62
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:25:27","DAT1",518,62
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:25:32","SHB1",519,62
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:25:33","SAFE2",520,62
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:25:33","GK2",521,62
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:25:55","Restart",522,62
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:26:04","POSSIBLE_TI",523,63
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:26:06","TI1",524,63
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:26:07","Restart",525,63
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:26:08","SAFE1",526,63
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:26:48","AT1",527,63
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:26:54","POSSIBLE_TI",528,63
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:26:56","TI2",529,63
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:27:04","SUB1",530,64
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:27:49","Restart",531,64
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:27:51","SAFE2",532,64
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:27:57","SUB_UPDATE",533,64
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:27:57","Player_DATA_CONFIRMED",534,64
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:28:03","SAFE1",535,65
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:28:05","AT1",536,65
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:28:09","DANGER1",537,65
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:28:09","DAT1",538,65
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:28:15","SAFE2",539,65
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:28:18","SAFE1",540,65
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:28:27","AT1",541,65
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:28:32","POSSIBLE_TI",542,65
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:28:34","TI1",543,65
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:28:38","Restart",544,65
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:28:39","SAFE1",545,65
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:28:54","Possible Free Kick",546,65
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:28:56","F2",548,65
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:28:56","FK1",549,65
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:28:56","Ball Position",550,65
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:29:02","Restart",551,66
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:29:10","AT1",552,66
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:29:15","DANGER1",553,66
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:29:15","DAT1",554,66
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:29:18","PCR1",555,66
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:29:22","CR1",556,66
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:29:23","Ball Position",557,66
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:29:35","Restart",558,66
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:29:51","SAFE2",559,66
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:29:51","GK2",560,66
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:30:10","Restart",561,67
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:30:26","AT1",562,67
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:30:28","DANGER1",563,67
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:30:28","DAT1",564,67
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:30:54","PCR1",565,67
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:31:02","CR1",566,68
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:31:03","Ball Position",567,68
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:31:19","Restart",568,68
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:31:37","SHG1",569,68
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:31:38","SAFE2",570,68
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:31:44","AT2",571,68
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:31:51","Possible Free Kick",572,68
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:31:54","POSSIBLE_CARDS",574,68
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:31:56","YC1",575,68
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:31:59","CONF_YC1",576,68
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:31:59","Scorer",577,68
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:32:02","F1",578,69
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:32:02","FK2",579,69
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:32:02","DANGER2",580,69
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:32:02","DFK2",581,69
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:32:02","Ball Position",582,69
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:32:43","Restart",583,69
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:32:48","SHG2",584,69
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:32:50","SAFE1",585,69
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:33:05","Scorer",586,70
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:33:05","Player_DATA_CONFIRMED",587,70
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:33:20","AT1",588,70
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:33:35","DANGER1",589,70
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:33:35","DAT1",590,70
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:33:42","SAFE2",591,70
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:34:04","SAFE1",592,71
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:34:22","AT1",593,71
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:34:25","SAFE2",594,71
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:34:52","AT2",595,71
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:35:04","DANGER2",596,72
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:35:04","DAT2",597,72
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:35:43","SAFE1",598,72
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:35:52","Possible Free Kick",599,72
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:35:54","F1",601,72
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:35:54","FK2",602,72
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:35:54","DANGER2",603,72
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:35:54","DFK2",604,72
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:35:54","Ball Position",605,72
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:36:24","CLS",606,73
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:36:26","F2",608,73
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:36:26","FK1",609,73
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:36:26","Ball Position",610,73
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:36:45","SUB2",611,73
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:36:50","Restart",612,73
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:36:57","AT1",613,73
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:37:11","DANGER1",614,74
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:37:11","DAT1",615,74
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:37:19","Possible Free Kick",616,74
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:37:21","F2",618,74
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:37:21","FK1",619,74
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:37:21","DFK1",620,74
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:37:21","Ball Position",621,74
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:38:05","Player_DATA_CONFIRMED",622,75
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:38:11","Restart",623,75
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:38:24","SAFE1",624,75
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:38:38","AT1",625,75
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:38:40","DANGER1",626,75
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:38:40","DAT1",627,75
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:38:49","GOAL1",628,75
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:38:59","Scorer",629,75
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:39:37","CONF_GOAL1",630,76
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:39:50","Scorer",631,76
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:39:51","Player_DATA_CONFIRMED",632,76
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:39:54","Scorer",633,76
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:39:54","KO2",634,76
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:39:54","SAFE2",635,76
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:39:57","SAFE2",636,76
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:40:05","Assist",637,77
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:40:19","AT2",638,77
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:40:20","DANGER2",639,77
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:40:20","DAT2",640,77
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:40:26","SHG2",641,77
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:40:27","SAFE1",642,77
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:40:45","AT1",643,77
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:40:52","SAFE2",644,77
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:40:53","AT2",645,77
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:40:59","DANGER2",646,77
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:40:59","DAT2",647,77
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:41:03","PCR2",648,78
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:41:10","CR2",649,78
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:41:12","Ball Position",650,78
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:41:23","SUB2",651,78
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:41:40","Restart",652,78
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:41:55","POSSIBLE_TI",653,78
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:41:56","TI2",654,78
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:42:04","Restart",655,79
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:42:05","Player_DATA_CONFIRMED",656,79
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:42:08","Possible Free Kick",657,79
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:42:10","SAFE1",659,79
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:42:10","F2",660,79
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:42:10","FK1",661,79
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:42:10","Ball Position",662,79
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:42:47","Restart",663,79
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:42:48","AT1",664,79
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:42:57","SAFE2",665,79
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:43:02","AT2",666,80
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:43:09","SAFE2",667,80
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:43:18","AT2",668,80
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:43:30","DANGER2",669,80
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:43:30","DAT2",670,80
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:43:33","Possible Free Kick",671,80
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:43:35","SAFE1",673,80
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:43:35","O2",674,80
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:43:35","FK1",675,80
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:43:35","Ball Position",676,80
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:43:53","SUB1",677,80
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:44:08","SUB2",678,81
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:44:24","Restart",679,81
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:44:26","AT1",680,81
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:44:38","SAFE2",681,81
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:44:47","AT2",682,81
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:44:59","POSSIBLE_TI",683,81
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:45:00","TI1",684,81
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:45:27","Restart",685,82
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:45:34","SAFE2",686,82
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:45:38","Player_DATA_CONFIRMED",687,82
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:45:38","Player_DATA_CONFIRMED",688,82
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:45:41","Possible Free Kick",689,82
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:45:42","SAFE1",691,82
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:45:42","F2",692,82
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:45:42","FK1",693,82
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:45:42","Ball Position",694,82
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:45:48","POSSIBLE_CARDS",695,82
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:45:48","PRC",696,82
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:45:48","Danger",697,82
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:46:26","No RC",698,83
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:46:27","NO_Cards",699,83
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:46:35","Restart",700,83
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:46:36","AT1",701,83
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:46:48","DANGER1",702,83
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:46:48","DAT1",703,83
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:46:54","Possible Free Kick",704,83
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:46:55","POSSIBLE_CARDS",706,83
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:47:20","NO_Cards",707,84
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:47:20","F2",708,84
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:47:20","FK1",709,84
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:47:20","DFK1",710,84
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:47:20","Ball Position",711,84
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:47:43","Restart",712,84
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:47:46","SAFE2",713,84
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:48:13","AT2",714,85
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:48:14","Possible Free Kick",715,85
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:48:18","F1",717,85
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:48:18","FK2",718,85
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:48:18","DANGER2",719,85
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:48:18","DFK2",720,85
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:48:18","Ball Position",721,85
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:48:18","POSSIBLE_CARDS",722,85
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:48:18","PRC",723,85
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:48:21","YC1",724,85
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:48:24","CONF_YC1",725,85
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:48:27","Scorer",726,85
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:48:32","No RC",727,85
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:48:35","Restart",728,85
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:49:02","Possible Free Kick",729,85
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:49:05","Scorer",731,86
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:49:05","Player_DATA_CONFIRMED",732,86
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:49:06","SAFE1",733,86
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:49:06","O2",734,86
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:49:06","FK1",735,86
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:49:06","Ball Position",736,86
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:49:34","Restart",737,86
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:49:36","AT1",738,86
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:49:44","DANGER1",739,86
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:49:44","DAT1",740,86
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:49:58","SAFE2",741,86
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:49:59","GK2",742,86
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:50:08","Restart",743,87
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:50:20","AT2",744,87
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:50:22","DANGER2",745,87
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:50:22","DAT2",746,87
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:50:38","POSSIBLE_TI",747,87
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:50:39","TI1",748,87
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:50:59","Restart",749,87
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:51:36","Possible Free Kick",750,88
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:51:36","POSSIBLE_CARDS",752,88
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:51:37","YC2",753,88
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:51:40","CONF_YC2",754,88
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:51:42","Scorer",755,88
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:51:43","SAFE1",756,88
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:51:43","F2",757,88
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:51:43","FK1",758,88
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:51:43","Ball Position",759,88
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:52:14","Restart",760,89
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:52:15","AT1",761,89
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:52:19","DANGER1",762,89
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:52:19","DAT1",763,89
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:52:43","POSSIBLE_TI",764,89
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:52:45","TI2",765,89
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:52:48","Restart",766,89
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:52:57","Possible Free Kick",767,89
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:52:59","SAFE2",769,89
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:52:59","F1",770,89
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:52:59","FK2",771,89
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:53:00","Ball Position",772,89
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:53:05","Scorer",773,90
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:53:05","Player_DATA_CONFIRMED",774,90
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:53:07","Restart",775,90
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:53:18","AT2",776,90
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:53:23","SAFE1",777,90
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:53:25","AT1",778,90
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:53:27","DANGER1",779,90
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:53:27","DAT1",780,90
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:53:35","POSSIBLE_TI",781,90
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:53:36","TI1",782,90
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:54:05","Extra Time",783,91
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:54:11","Injury Break",784,91
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:55:11","Restart",785,92
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:55:29","SAFE2",786,92
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:55:39","AT2",787,92
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:55:52","DANGER2",788,92
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:55:52","DAT2",789,92
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:56:02","BLOCKED2",790,92
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:56:17","SAFE1",791,93
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:56:18","AT1",792,93
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:56:20","DANGER1",793,93
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:56:20","DAT1",794,93
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:56:27","BLOCKED1",795,93
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:56:29","POSSIBLE_TI",796,93
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:56:31","TI1",797,93
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:56:55","Restart",798,93
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:57:06","POSSIBLE_TI",799,94
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:57:07","TI2",800,94
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:57:16","Restart",801,94
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:57:18","SAFE2",802,94
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:57:29","AT2",803,94
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:57:32","Possible Free Kick",804,94
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:57:35","F1",806,94
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:57:35","FK2",807,94
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:57:35","DANGER2",808,94
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:57:35","DFK2",809,94
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:57:35","Ball Position",810,94
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:57:40","Restart",811,94
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:57:55","SAFE1",812,94
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:57:57","AT1",813,94
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:58:05","POSSIBLE_TI",814,95
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:58:07","TI2",815,95
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:58:15","Restart",816,95
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:58:18","SAFE2",817,95
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:58:22","CLS",818,95
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:58:29","Possible Free Kick",819,95
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:58:32","F2",821,95
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:58:32","FK1",822,95
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:58:32","DANGER1",823,95
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:58:32","DFK1",824,95
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:58:32","Ball Position",825,95
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:59:01","Restart",826,95
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:59:07","SAFE2",827,96
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:59:09","AT2",828,96
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:59:14","DANGER2",829,96
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:59:14","DAT2",830,96
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:59:18","PCR2",831,96
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:59:25","CR2",832,96
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:59:25","Ball Position",833,96
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:59:34","Restart",834,96
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:59:42","Stop RT2",835,96
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:59:42","Stop Game",836,96
+936462,"Manchester United FC","Chelsea FC","02/25/2018 15:59:51","CONF_PERIOD_SCORE",837,95

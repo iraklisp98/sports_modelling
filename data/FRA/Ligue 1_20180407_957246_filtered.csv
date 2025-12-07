@@ -1,0 +1,982 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 17:06:07","Transmission Online",0,0
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 17:06:07","Scout in Stadion",1,0
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 17:06:20","Lineup changed",2,0
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 17:13:05","GCC",3,0
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 17:51:47","GCC",4,0
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 17:56:08","Jersey Changed",5,0
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 17:56:08","Jersey Changed",6,0
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 17:56:17","Players are coming out",7,0
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 17:56:40","Players lined up",8,0
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 17:57:02","Shake hands",9,0
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 17:57:29","Flip coin",10,0
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 17:58:14","Minute of silent",11,0
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 17:59:40","Game about to start",12,0
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:00:02","Start RT1 Team 1",13,1
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:00:06","AT1",14,1
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:00:08","SAFE2",15,1
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:00:09","POSSIBLE_TI",16,1
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:00:10","TI2",17,1
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:00:12","Restart",18,1
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:00:16","SAFE1",19,1
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:00:39","AT1",20,1
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:00:43","Possible Free Kick",21,1
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:00:47","SAFE2",23,1
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:00:47","O1",24,1
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:00:47","FK2",25,1
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:00:47","Ball Position",26,1
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:00:50","Restart",27,1
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:01:07","AT2",28,2
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:01:13","DANGER2",29,2
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:01:13","DAT2",30,2
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:01:14","POSSIBLE_TI",31,2
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:01:14","TI2",32,2
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:01:16","Restart",33,2
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:01:21","SAFE2",34,2
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:01:36","SAFE1",35,2
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:01:38","SAFE2",36,2
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:01:44","AT1",37,2
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:01:47","DANGER1",38,2
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:01:47","DAT1",39,2
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:01:50","Possible Free Kick",40,2
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:01:53","SAFE2",42,2
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:01:53","O1",43,2
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:01:53","FK2",44,2
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:01:53","Ball Position",45,2
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:02:13","Restart",46,3
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:02:16","AT2",47,3
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:02:21","DANGER2",48,3
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:02:21","DAT2",49,3
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:02:31","Possible Free Kick",50,3
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:03:00","POSSIBLE_CARDS",52,3
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:03:05","YC1",53,4
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:03:06","CONF_YC1",54,4
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:03:18","Scorer",55,4
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:03:32","F1",56,4
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:03:32","FK2",57,4
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:03:32","DFK2",58,4
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:03:32","Ball Position",59,4
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:03:45","Player_DATA_CONFIRMED",60,4
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:04:00","Restart",61,4
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:04:06","POSSIBLE_TI",62,5
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:04:07","TI2",63,5
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:04:11","Restart",64,5
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:04:21","POSSIBLE_TI",65,5
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:04:22","TI2",66,5
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:04:30","Restart",67,5
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:04:37","SAFE1",68,5
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:04:57","AT2",69,5
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:04:57","DANGER2",70,5
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:04:57","DAT2",71,5
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:05:03","POSSIBLE_TI",72,6
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:05:05","TI2",73,6
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:05:08","Restart",74,6
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:05:10","PCR2",75,6
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:05:17","CR2",76,6
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:05:20","Ball Position",77,6
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:05:32","Restart",78,6
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:05:41","POSSIBLE_TI",79,6
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:05:49","TI1",80,6
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:05:55","Restart",81,6
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:06:00","SAFE1",82,6
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:06:10","Possible Free Kick",83,7
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:06:14","O2",85,7
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:06:14","FK1",86,7
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:06:14","Ball Position",87,7
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:06:29","Restart",88,7
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:06:33","AT1",89,7
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:06:36","SAFE2",90,7
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:06:40","AT1",91,7
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:06:53","DANGER1",92,7
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:06:53","DAT1",93,7
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:06:56","POSSIBLE_TI",94,7
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:06:59","TI2",95,7
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:07:10","Restart",96,8
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:07:20","SAFE2",97,8
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:07:24","SAFE1",98,8
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:07:34","AT1",99,8
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:07:37","SAFE2",100,8
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:07:57","AT2",101,8
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:08:00","SAFE1",102,8
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:08:01","GK1",103,8
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:08:23","Restart",104,9
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:08:26","AT1",105,9
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:08:26","DANGER1",106,9
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:08:26","DAT1",107,9
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:08:30","SAFE2",108,9
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:08:54","SAFE1",109,9
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:09:12","AT1",110,10
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:09:19","POSSIBLE_TI",111,10
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:09:29","TI1",112,10
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:09:30","Restart",113,10
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:09:34","DANGER1",114,10
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:09:34","DAT1",115,10
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:09:45","SAFE2",116,10
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:09:48","AT2",117,10
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:09:54","SAFE1",118,10
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:10:00","AT1",119,10
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:10:00","POSSIBLE_TI",120,10
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:10:01","TI1",121,10
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:10:07","Restart",122,11
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:10:45","SAFE2",123,11
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:10:49","SAFE1",124,11
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:11:51","AT1",125,12
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:11:53","DANGER1",126,12
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:11:53","DAT1",127,12
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:11:56","Possible Free Kick",128,12
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:11:59","SAFE2",130,12
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:11:59","O1",131,12
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:11:59","FK2",132,12
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:11:59","Ball Position",133,12
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:12:19","Restart",134,13
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:12:22","AT2",135,13
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:12:29","SAFE1",136,13
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:13:11","AT1",137,14
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:13:11","DANGER1",138,14
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:13:11","DAT1",139,14
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:13:24","SAFE2",140,14
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:13:31","Possible Free Kick",141,14
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:13:34","F1",143,14
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:13:34","FK2",144,14
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:13:34","Ball Position",145,14
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:13:42","Restart",146,14
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:13:50","SAFE1",147,14
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:13:50","GK1",148,14
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:14:25","Injury Break",149,15
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:15:00","Restart",150,15
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:15:17","AT1",151,16
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:15:20","DANGER1",152,16
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:15:20","DAT1",153,16
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:15:26","POSSIBLE_TI",154,16
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:15:27","TI1",155,16
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:15:29","Restart",156,16
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:15:33","POSSIBLE_TI",157,16
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:15:34","TI1",158,16
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:15:36","Restart",159,16
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:15:46","SAFE1",160,16
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:15:50","AT1",161,16
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:15:50","DANGER1",162,16
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:15:50","DAT1",163,16
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:15:57","POSSIBLE_TI",164,16
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:16:00","TI2",165,16
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:16:08","SUB2",166,17
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:16:17","Restart",167,17
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:16:35","SAFE2",168,17
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:16:35","GK2",169,17
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:16:56","Restart",170,17
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:16:58","SAFE1",171,17
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:17:09","AT1",172,18
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:17:28","DANGER1",173,18
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:17:28","DAT1",174,18
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:17:38","POSSIBLE_TI",175,18
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:17:44","Player_DATA_CONFIRMED",176,18
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:17:51","TI2",177,18
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:17:52","Restart",178,18
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:17:55","POSSIBLE_TI",179,18
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:17:55","TI2",180,18
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:18:02","Restart",181,18
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:18:06","SAFE2",182,19
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:18:13","SAFE1",183,19
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:18:16","AT1",184,19
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:18:26","DANGER1",185,19
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:18:26","DAT1",186,19
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:18:38","SAFE2",187,19
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:18:40","GK2",188,19
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:18:58","Restart",189,19
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:19:05","AT1",190,20
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:19:09","DANGER1",191,20
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:19:09","DAT1",192,20
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:19:15","Possible Free Kick",193,20
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:19:19","SAFE2",195,20
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:19:19","O1",196,20
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:19:19","FK2",197,20
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:19:19","Ball Position",198,20
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:19:46","Restart",199,20
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:19:51","Possible Free Kick",200,20
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:19:52","SAFE1",202,20
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:19:52","F2",203,20
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:19:52","FK1",204,20
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:19:52","Ball Position",205,20
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:19:59","Restart",206,20
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:20:21","Possible Free Kick",207,21
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:20:28","F2",209,21
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:20:28","FK1",210,21
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:20:28","Ball Position",211,21
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:20:29","Restart",212,21
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:20:40","AT1",213,21
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:20:40","DANGER1",214,21
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:20:40","DAT1",215,21
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:20:47","SAFE2",216,21
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:20:48","GK2",217,21
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:21:03","Restart",218,22
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:21:19","SAFE1",219,22
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:21:25","SAFE2",220,22
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:21:26","AT2",221,22
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:21:28","DANGER2",222,22
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:21:28","DAT2",223,22
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:21:34","PCR2",224,22
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:21:41","NCR2",225,22
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:21:43","SAFE1",226,22
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:21:44","GK1",227,22
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:22:04","Restart",228,23
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:22:09","AT1",229,23
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:22:09","DANGER1",230,23
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:22:09","DAT1",231,23
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:22:14","POSSIBLE_TI",232,23
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:22:16","TI1",233,23
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:22:21","Restart",234,23
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:22:29","PCR1",235,23
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:22:32","CR1",236,23
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:22:35","SHG1",237,23
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:22:36","Ball Position",238,23
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:22:48","Restart",239,23
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:22:52","GOAL1",240,23
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:23:36","CONF_GOAL1",241,24
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:23:37","Scorer",242,24
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:23:37","KO2",243,24
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:23:37","SAFE2",244,24
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:23:50","AT2",245,24
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:23:56","Possible Free Kick",246,24
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:24:01","SAFE1",248,24
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:24:01","FK1",249,24
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:24:01","Ball Position",250,24
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:24:14","Scorer",251,25
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:24:14","Player_DATA_CONFIRMED",252,25
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:24:14","Assist",253,25
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:24:24","Restart",254,25
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:24:29","AT1",255,25
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:24:29","DANGER1",256,25
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:24:29","DAT1",257,25
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:24:32","Possible Free Kick",258,25
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:24:33","POSSIBLE_CARDS",260,25
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:24:40","YC2",261,25
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:24:43","CONF_YC2",262,25
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:24:50","Scorer",263,25
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:24:58","F2",264,25
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:24:58","FK1",265,25
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:24:58","DFK1",266,25
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:24:58","Ball Position",267,25
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:25:22","Restart",268,26
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:25:29","Possible Free Kick",269,26
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:25:36","SAFE2",271,26
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:25:36","O1",272,26
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:25:36","FK2",273,26
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:25:36","Ball Position",274,26
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:25:43","Restart",275,26
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:25:56","AT2",276,26
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:25:58","DANGER2",277,26
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:25:58","DAT2",278,26
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:26:06","PCR2",279,27
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:26:10","CR2",280,27
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:26:14","Ball Position",281,27
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:26:21","Restart",282,27
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:26:33","Possible Free Kick",283,27
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:26:37","SAFE1",285,27
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:26:37","F2",286,27
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:26:37","FK1",287,27
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:26:37","Ball Position",288,27
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:26:39","Restart",289,27
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:26:50","SAFE2",290,27
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:27:17","POSSIBLE_TI",291,28
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:27:19","TI2",292,28
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:27:33","Restart",293,28
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:27:44","AT1",294,28
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:27:45","Player_DATA_CONFIRMED",295,28
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:27:50","SAFE2",296,28
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:27:51","AT2",297,28
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:27:55","DANGER2",298,28
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:27:55","DAT2",299,28
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:28:04","SHG2",300,29
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:28:13","SAFE1",301,29
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:28:29","AT1",302,29
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:28:33","SAFE2",303,29
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:28:39","AT1",304,29
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:28:41","DANGER1",305,29
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:28:41","DAT1",306,29
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:28:45","SAFE2",307,29
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:28:51","AT1",308,29
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:29:11","SAFE2",309,30
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:29:11","POSSIBLE_TI",310,30
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:29:12","TI2",311,30
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:29:15","Restart",312,30
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:29:23","AT2",313,30
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:29:25","SAFE1",314,30
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:29:26","POSSIBLE_TI",315,30
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:29:27","TI1",316,30
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:29:36","Restart",317,30
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:29:42","AT2",318,30
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:29:51","Possible Free Kick",319,30
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:29:53","F1",321,30
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:29:53","FK2",322,30
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:29:53","DANGER2",323,30
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:29:53","DFK2",324,30
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:29:53","Ball Position",325,30
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:30:19","Restart",326,31
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:30:26","SHG2",327,31
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:30:28","SAFE1",328,31
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:30:35","AT1",329,31
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:30:38","DANGER1",330,31
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:30:38","DAT1",331,31
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:31:15","Possible Free Kick",332,32
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:31:20","SAFE2",334,32
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:31:20","F1",335,32
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:31:20","FK2",336,32
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:31:20","Ball Position",337,32
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:31:30","Restart",338,32
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:31:35","SAFE1",339,32
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:31:35","GK1",340,32
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:32:01","Restart",341,32
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:32:10","AT1",342,33
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:32:16","SAFE2",343,33
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:32:28","SAFE1",344,33
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:32:35","SAFE2",345,33
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:32:41","AT2",346,33
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:32:43","DANGER2",347,33
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:32:43","DAT2",348,33
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:32:51","SAFE1",349,33
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:33:01","AT1",350,33
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:33:14","DANGER1",351,34
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:33:14","DAT1",352,34
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:33:49","SAFE2",353,34
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:33:53","GK2",354,34
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:33:57","Restart",355,34
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:34:04","AT2",356,35
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:34:15","POSSIBLE_TI",357,35
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:34:16","TI2",358,35
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:34:21","Restart",359,35
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:34:36","DANGER2",360,35
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:34:36","DAT2",361,35
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:34:41","PCR2",362,35
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:34:43","CR2",363,35
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:34:46","Ball Position",364,35
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:35:04","Restart",365,36
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:35:28","SAFE1",366,36
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:35:31","AT1",367,36
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:35:41","Possible Free Kick",368,36
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:35:46","F2",371,36
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:35:46","FK1",372,36
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:35:46","DANGER1",373,36
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:35:46","DFK1",374,36
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:35:46","Ball Position",375,36
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:35:47","Restart",376,36
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:36:07","SAFE2",377,37
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:36:10","AT1",378,37
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:36:17","DANGER1",379,37
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:36:17","DAT1",380,37
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:36:19","POSSIBLE_TI",381,37
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:36:20","TI2",382,37
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:36:34","Restart",383,37
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:36:46","BLOCKED1",384,37
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:36:57","SAFE2",385,37
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:36:59","SAFE1",386,37
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:37:10","AT1",387,38
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:37:13","DANGER1",388,38
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:37:13","DAT1",389,38
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:37:18","PCR1",390,38
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:37:22","CR1",391,38
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:37:25","SHB1",392,38
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:37:30","Ball Position",393,38
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:37:54","Restart",394,38
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:38:00","PCR1",395,38
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:38:05","CR1",396,39
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:38:07","SHG1",397,39
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:38:08","Ball Position",398,39
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:38:41","Restart",399,39
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:38:55","PCR1",400,39
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:39:05","CR1",401,40
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:39:08","Ball Position",402,40
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:39:15","Restart",403,40
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:39:22","SAFE2",404,40
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:39:22","GK2",405,40
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:39:37","Restart",406,40
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:39:48","SAFE1",407,40
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:39:52","AT1",408,40
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:40:02","SAFE2",409,41
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:40:03","AT2",410,41
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:40:04","POSSIBLE_TI",411,41
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:40:05","TI2",412,41
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:40:09","Restart",413,41
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:40:15","SAFE1",414,41
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:40:17","AT1",415,41
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:40:33","SAFE2",416,41
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:40:34","AT2",417,41
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:40:37","DANGER2",418,41
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:40:37","DAT2",419,41
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:40:39","Possible Free Kick",420,41
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:40:45","F1",422,41
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:40:45","FK2",423,41
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:40:45","DFK2",424,41
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:40:45","Ball Position",425,41
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:41:21","Restart",426,42
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:41:32","SHB2",427,42
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:41:35","SAFE1",428,42
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:41:38","GK1",429,42
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:41:56","Restart",430,42
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:42:02","AT1",431,42
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:42:10","SAFE2",432,43
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:42:26","AT2",433,43
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:42:30","Possible Free Kick",434,43
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:42:34","F1",436,43
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:42:34","FK2",437,43
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:42:34","DANGER2",438,43
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:42:34","DFK2",439,43
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:42:34","Ball Position",440,43
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:42:40","Restart",441,43
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:42:41","SAFE2",442,43
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:42:51","AT2",443,43
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:42:52","POSSIBLE_TI",444,43
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:42:53","TI2",445,43
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:42:54","Restart",446,43
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:43:04","Possible Free Kick",447,44
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:43:05","SAFE1",449,44
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:43:05","F2",450,44
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:43:05","FK1",451,44
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:43:05","Ball Position",452,44
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:43:25","Restart",453,44
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:43:27","AT1",454,44
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:43:27","DANGER1",455,44
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:43:27","DAT1",456,44
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:43:37","SAFE2",457,44
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:43:51","AT2",458,44
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:43:51","DANGER2",459,44
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:43:51","DAT2",460,44
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:43:59","SAFE1",461,44
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:44:07","Possible Free Kick",462,45
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:44:09","SAFE2",464,45
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:44:09","F1",465,45
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:44:09","FK2",466,45
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:44:09","Ball Position",467,45
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:44:16","Restart",468,45
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:44:18","AT2",469,45
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:44:20","DANGER2",470,45
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:44:20","DAT2",471,45
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:44:26","PCR2",472,45
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:44:31","CR2",473,45
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:44:33","Ball Position",474,45
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:44:48","Restart",475,45
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:44:54","POSSIBLE_TI",476,45
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:44:58","TI2",477,45
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:45:03","Restart",478,46
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:45:05","SAFE1",479,46
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:45:11","Possible Free Kick",480,46
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:45:14","F2",482,46
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:45:14","FK1",483,46
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:45:14","Ball Position",484,46
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:45:19","Extra Time",485,46
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:45:46","Restart",486,46
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:45:48","AT1",487,46
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:45:51","DANGER1",488,46
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:45:51","DAT1",489,46
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:46:02","SHG1",490,47
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:46:07","SAFE2",491,47
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:46:09","AT1",492,47
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:46:10","POSSIBLE_TI",493,47
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:46:11","TI1",494,47
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:46:22","Restart",495,47
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:46:27","SAFE2",496,47
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:46:38","AT2",497,47
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:46:42","SAFE1",498,47
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:46:44","AT2",499,47
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:46:45","POSSIBLE_TI",500,47
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:46:46","TI2",501,47
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:46:54","Restart",502,47
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:46:57","Possible Free Kick",503,47
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:47:11","No Free Kick",505,48
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:47:15","Stop RT1",506,48
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 18:47:26","CONF_PERIOD_SCORE",507,45
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:00:55","Players are coming out",508,45
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:02:11","Game about to start",509,45
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:02:38","Start RT2 Team 2",510,46
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:02:43","AT2",511,46
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:02:46","SAFE1",512,46
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:02:47","POSSIBLE_TI",513,46
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:02:48","TI1",514,46
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:02:55","SUB1",515,46
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:02:56","Restart",516,46
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:03:07","AT1",517,46
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:03:12","SAFE2",518,46
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:03:25","AT1",519,46
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:03:27","SAFE2",520,46
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:03:28","AT2",521,46
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:03:36","SAFE1",522,46
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:03:38","AT1",523,46
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:03:40","DANGER1",524,47
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:03:40","DAT1",525,47
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:03:47","SAFE2",526,47
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:03:51","AT1",527,47
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:03:56","DANGER1",528,47
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:03:56","DAT1",529,47
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:04:08","GOAL1",530,47
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:04:40","Scorer",531,48
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:04:56","CONF_GOAL1",532,48
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:05:11","KO2",533,48
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:05:11","SAFE2",534,48
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:05:21","AT1",535,48
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:05:28","SAFE1",536,48
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:05:29","AT1",537,48
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:05:29","DANGER1",538,48
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:05:29","DAT1",539,48
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:05:49","Possible Free Kick",540,49
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:05:53","FK1",542,49
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:05:53","DFK1",543,49
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:05:53","Ball Position",544,49
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:05:55","Restart",545,49
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:05:56","SAFE1",546,49
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:06:06","AT1",547,49
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:06:13","SAFE2",548,49
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:06:28","SAFE1",549,49
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:06:40","AT1",550,50
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:06:44","POSSIBLE_TI",551,50
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:06:44","Player_DATA_CONFIRMED",552,50
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:06:45","TI1",553,50
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:06:54","Restart",554,50
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:07:12","DANGER1",555,50
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:07:12","DAT1",556,50
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:07:34","SAFE2",557,50
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:07:43","POSSIBLE_TI",558,51
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:08:25","NO_TI",559,51
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:08:28","Referee Ball",560,51
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:08:29","Restart",561,51
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:08:40","SAFE2",562,52
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:08:40","AT2",563,52
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:08:45","DANGER2",564,52
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:08:45","DAT2",565,52
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:08:55","PCR2",566,52
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:08:58","CR2",567,52
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:09:00","Ball Position",568,52
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:09:11","Restart",569,52
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:09:16","SAFE1",570,52
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:09:18","SAFE2",571,52
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:09:19","SAFE2",572,52
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:09:20","AT2",573,52
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:09:28","SAFE1",574,52
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:09:39","Possible Free Kick",575,53
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:09:41","F2",577,53
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:09:41","FK1",578,53
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:09:41","Ball Position",579,53
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:09:53","Restart",580,53
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:10:08","Possible Free Kick",581,53
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:10:14","No Free Kick",583,53
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:10:16","POSSIBLE_TI",584,53
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:10:18","TI1",585,53
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:10:21","Restart",586,53
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:10:26","AT1",587,53
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:10:36","SAFE2",588,53
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:10:41","SAFE1",589,54
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:10:44","AT1",590,54
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:10:46","DANGER1",591,54
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:10:46","DAT1",592,54
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:10:53","SAFE2",593,54
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:10:59","AT2",594,54
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:11:02","DANGER2",595,54
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:11:02","DAT2",596,54
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:11:11","SAFE1",597,54
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:11:14","AT1",598,54
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:11:31","DANGER1",599,54
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:11:31","DAT1",600,54
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:11:57","SAFE1",601,55
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:12:09","POSSIBLE_TI",602,55
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:12:10","TI1",603,55
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:12:16","Restart",604,55
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:12:29","AT1",605,55
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:12:31","DANGER1",606,55
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:12:31","DAT1",607,55
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:12:36","PCR1",608,55
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:12:39","CR1",609,56
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:12:42","Ball Position",610,56
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:12:44","Restart",611,56
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:12:53","SHG1",612,56
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:13:02","SAFE2",613,56
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:13:06","SAFE1",614,56
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:13:11","AT1",615,56
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:13:20","DANGER1",616,56
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:13:20","DAT1",617,56
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:13:32","SAFE2",618,56
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:13:38","AT2",619,56
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:13:41","DANGER2",620,57
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:13:41","DAT2",621,57
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:13:55","SHB2",622,57
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:14:02","SAFE1",623,57
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:14:03","GK1",624,57
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:14:19","Restart",625,57
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:14:32","AT2",626,57
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:14:53","SAFE1",627,58
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:14:58","AT1",628,58
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:15:00","SAFE2",629,58
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:15:01","POSSIBLE_TI",630,58
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:15:03","TI2",631,58
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:15:04","Restart",632,58
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:15:06","AT2",633,58
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:15:14","SAFE1",634,58
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:15:16","SAFE2",635,58
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:15:18","POSSIBLE_TI",636,58
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:15:19","TI2",637,58
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:15:22","Restart",638,58
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:15:29","AT2",639,58
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:15:37","DANGER2",640,58
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:15:37","DAT2",641,58
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:15:51","SAFE1",642,59
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:15:57","AT2",643,59
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:16:02","DANGER2",644,59
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:16:02","DAT2",645,59
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:16:13","SAFE1",646,59
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:16:14","GK1",647,59
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:16:21","Restart",648,59
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:16:39","AT1",649,60
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:16:41","DANGER1",650,60
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:16:41","DAT1",651,60
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:16:55","PCR1",652,60
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:16:58","CR1",653,60
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:17:01","Ball Position",654,60
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:17:17","SUB2",655,60
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:17:35","Restart",656,60
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:17:43","PCR1",657,61
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:17:48","CR1",658,61
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:17:50","Ball Position",659,61
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:18:03","Restart",660,61
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:18:09","POSSIBLE_TI",661,61
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:18:11","TI1",662,61
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:18:12","Restart",663,61
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:18:16","SAFE1",664,61
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:18:26","AT1",665,61
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:18:31","SAFE2",666,61
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:18:32","POSSIBLE_TI",667,61
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:18:33","TI2",668,61
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:18:37","Restart",669,61
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:18:43","Possible Free Kick",670,62
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:18:44","Player_DATA_CONFIRMED",672,62
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:18:54","F1",673,62
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:18:54","FK2",674,62
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:18:54","Ball Position",675,62
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:18:55","Restart",676,62
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:18:58","AT2",677,62
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:19:11","DANGER2",678,62
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:19:11","DAT2",679,62
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:19:20","POSSIBLE_TI",680,62
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:19:21","TI1",681,62
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:19:31","Restart",682,62
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:19:34","SAFE1",683,62
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:19:38","AT1",684,63
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:19:42","Player_DATA_CONFIRMED",685,63
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:19:44","SAFE2",686,63
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:20:08","AT2",687,63
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:20:13","SAFE1",688,63
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:20:16","AT1",689,63
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:20:22","SAFE2",690,63
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:20:24","AT2",691,63
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:20:32","DANGER2",692,63
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:20:32","DAT2",693,63
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:21:29","SAFE1",694,64
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:21:34","AT1",695,64
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:21:48","Possible Free Kick",696,65
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:21:54","F2",698,65
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:21:54","FK1",699,65
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:21:54","DANGER1",700,65
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:21:54","DFK1",701,65
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:21:54","Ball Position",702,65
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:22:05","Restart",703,65
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:22:11","Possible Free Kick",704,65
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:22:14","SAFE2",706,65
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:22:14","O1",707,65
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:22:14","FK2",708,65
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:22:14","Ball Position",709,65
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:22:18","Restart",710,65
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:22:26","AT2",711,65
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:22:28","DANGER2",712,65
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:22:28","DAT2",713,65
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:22:35","PCR2",714,65
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:22:38","CR2",715,65
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:22:40","Ball Position",716,66
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:22:43","Restart",717,66
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:22:55","SAFE1",718,66
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:22:57","SAFE2",719,66
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:23:05","AT2",720,66
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:23:05","DANGER2",721,66
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:23:05","DAT2",722,66
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:23:13","SAFE1",723,66
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:23:31","SAFE2",724,66
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:23:37","AT2",725,66
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:23:45","DANGER2",726,67
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:23:45","DAT2",727,67
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:23:53","Possible Free Kick",728,67
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:24:14","F1",730,67
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:24:14","FK2",731,67
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:24:14","DFK2",732,67
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:24:14","Ball Position",733,67
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:24:32","Restart",734,67
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:24:39","SAFE1",735,68
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:24:43","AT1",736,68
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:24:49","DANGER1",737,68
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:24:49","DAT1",738,68
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:24:55","SAFE2",739,68
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:25:03","AT2",740,68
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:25:03","DANGER2",741,68
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:25:03","DAT2",742,68
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:25:12","SAFE1",743,68
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:25:17","AT1",744,68
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:25:20","DANGER1",745,68
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:25:20","DAT1",746,68
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:25:40","SAFE2",747,69
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:25:50","AT2",748,69
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:25:51","DANGER2",749,69
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:25:51","DAT2",750,69
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:25:58","POSSIBLE_TI",751,69
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:26:00","TI2",752,69
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:26:08","Restart",753,69
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:26:22","POSSIBLE_TI",754,69
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:26:23","TI2",755,69
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:26:30","Restart",756,69
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:26:38","PCR2",757,70
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:26:40","CR2",758,70
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:26:43","SHG2",759,70
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:26:44","Ball Position",760,70
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:26:55","Restart",761,70
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:27:01","SAFE1",762,70
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:27:06","SAFE2",763,70
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:27:23","AT2",764,70
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:27:26","DANGER2",765,70
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:27:26","DAT2",766,70
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:27:44","SAFE1",767,71
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:27:48","AT2",768,71
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:27:54","SAFE1",769,71
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:28:05","POSSIBLE_TI",770,71
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:28:18","SUB1",771,71
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:28:59","TI1",772,72
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:29:00","Restart",773,72
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:29:02","AT1",774,72
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:29:02","DANGER1",775,72
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:29:02","DAT1",776,72
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:29:07","Possible Free Kick",777,72
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:29:13","SAFE2",779,72
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:29:13","F1",780,72
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:29:13","FK2",781,72
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:29:13","Ball Position",782,72
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:29:17","Restart",783,72
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:29:28","AT2",784,72
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:29:50","DANGER2",785,73
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:29:50","DAT2",786,73
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:29:55","PCR2",787,73
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:29:58","CR2",788,73
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:30:03","Ball Position",789,73
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:30:11","Restart",790,73
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:30:15","Player_DATA_CONFIRMED",791,73
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:30:21","SHG2",792,73
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:30:44","SAFE1",793,74
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:30:46","AT2",794,74
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:30:47","POSSIBLE_TI",795,74
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:30:48","TI2",796,74
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:30:50","Restart",797,74
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:30:55","DANGER2",798,74
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:30:55","DAT2",799,74
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:31:00","PCR2",800,74
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:31:03","CR2",801,74
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:31:05","Ball Position",802,74
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:31:24","SUB2",803,74
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:31:30","Restart",804,74
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:31:44","SAFE1",805,75
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:31:44","Player_DATA_CONFIRMED",806,75
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:32:00","AT1",807,75
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:32:14","DANGER1",808,75
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:32:14","DAT1",809,75
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:32:19","SHB1",810,75
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:32:21","SAFE2",811,75
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:32:22","GK2",812,75
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:32:27","Restart",813,75
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:32:37","POSSIBLE_TI",814,75
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:32:38","TI2",815,75
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:32:40","Restart",816,76
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:32:49","AT2",817,76
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:33:02","Possible Free Kick",818,76
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:33:07","F1",820,76
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:33:07","FK2",821,76
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:33:07","DANGER2",822,76
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:33:07","DFK2",823,76
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:33:07","Ball Position",824,76
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:33:08","Restart",825,76
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:33:14","SAFE1",826,76
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:33:17","AT1",827,76
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:33:19","SAFE2",828,76
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:33:19","POSSIBLE_TI",829,76
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:33:21","TI2",830,76
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:33:23","Restart",831,76
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:33:32","AT2",832,76
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:33:32","DANGER2",833,76
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:33:32","DAT2",834,76
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:33:38","SAFE1",835,76
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:33:48","AT1",836,77
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:33:54","SAFE2",837,77
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:34:04","AT2",838,77
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:34:10","POSSIBLE_TI",839,77
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:34:12","TI2",840,77
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:34:17","Restart",841,77
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:34:21","SAFE1",842,77
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:34:25","AT2",843,77
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:34:28","SAFE1",844,77
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:34:32","AT1",845,77
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:34:38","DANGER1",846,77
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:34:38","DAT1",847,77
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:34:42","POSSIBLE_TI",848,78
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:34:43","TI1",849,78
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:34:51","POSSIBLE_CARDS",850,78
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:35:05","NO_Cards",851,78
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:35:12","Restart",852,78
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:35:20","SAFE2",853,78
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:35:22","AT2",854,78
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:35:34","SAFE1",855,78
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:35:35","AT1",856,78
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:35:37","DANGER1",857,78
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:35:37","DAT1",858,78
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:35:46","SHB1",859,79
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:35:47","SAFE2",860,79
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:35:48","GK2",861,79
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:35:50","Restart",862,79
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:35:55","AT1",863,79
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:35:55","DANGER1",864,79
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:35:55","DAT1",865,79
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:36:01","GOAL1",866,79
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:36:39","Scorer",867,80
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:37:06","CONF_GOAL1",868,80
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:37:10","KO2",869,80
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:37:10","SAFE2",870,80
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:37:17","AT2",871,80
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:37:31","DANGER2",872,80
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:37:31","DAT2",873,80
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:37:41","SAFE1",874,81
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:37:53","AT1",875,81
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:37:57","Possible Free Kick",876,81
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:38:01","SAFE2",878,81
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:38:01","O1",879,81
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:38:01","FK2",880,81
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:38:01","Ball Position",881,81
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:38:13","SUB1",882,81
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:38:36","Restart",883,81
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:38:38","AT2",884,81
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:38:41","DANGER2",885,82
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:38:41","DAT2",886,82
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:38:44","Player_DATA_CONFIRMED",887,82
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:38:48","SAFE1",888,82
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:38:52","AT1",889,82
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:38:53","Player_DATA_CONFIRMED",890,82
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:38:55","DANGER1",891,82
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:38:55","DAT1",892,82
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:38:57","POSSIBLE_TI",893,82
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:39:00","TI1",894,82
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:39:19","Restart",895,82
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:39:29","POSSIBLE_TI",896,82
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:39:31","TI2",897,82
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:39:38","Restart",898,82
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:39:48","SAFE2",899,83
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:39:50","AT2",900,83
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:39:52","DANGER2",901,83
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:39:52","DAT2",902,83
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:40:01","SHG2",903,83
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:40:02","SAFE1",904,83
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:40:11","AT1",905,83
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:40:15","DANGER1",906,83
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:40:15","DAT1",907,83
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:40:27","SHB1",908,83
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:40:28","SAFE2",909,83
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:40:29","GK2",910,83
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:41:14","Restart",911,84
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:41:24","POSSIBLE_TI",912,84
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:41:24","TI2",913,84
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:41:26","Restart",914,84
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:41:28","AT2",915,84
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:41:31","DANGER2",916,84
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:41:31","DAT2",917,84
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:41:40","SAFE1",918,85
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:41:45","AT1",919,85
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:41:45","DANGER1",920,85
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:41:45","DAT1",921,85
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:41:49","PCR1",922,85
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:41:52","CR1",923,85
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:41:56","Ball Position",924,85
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:42:15","Restart",925,85
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:42:23","Possible Free Kick",926,85
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:42:25","SAFE2",928,85
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:42:25","O1",929,85
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:42:25","FK2",930,85
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:42:25","Ball Position",931,85
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:42:32","Restart",932,85
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:42:44","AT2",933,86
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:42:45","POSSIBLE_TI",934,86
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:42:46","TI2",935,86
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:42:47","Restart",936,86
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:43:07","DANGER2",937,86
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:43:07","DAT2",938,86
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:43:20","SAFE1",939,86
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:43:22","AT1",940,86
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:43:23","DANGER1",941,86
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:43:23","DAT1",942,86
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:43:32","PCR1",943,86
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:43:34","CR1",944,86
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:43:36","SHG1",945,86
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:43:40","Ball Position",946,87
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:44:07","Restart",947,87
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:44:18","SAFE2",948,87
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:44:22","AT2",949,87
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:44:25","SAFE1",950,87
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:44:32","AT1",951,87
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:44:32","DANGER1",952,87
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:44:32","DAT1",953,87
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:44:40","SAFE2",954,88
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:44:48","AT2",955,88
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:45:04","DANGER2",956,88
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:45:04","DAT2",957,88
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:45:09","BLOCKED2",958,88
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:45:11","SAFE1",959,88
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:45:19","SAFE2",960,88
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:45:20","POSSIBLE_TI",961,88
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:45:21","TI2",962,88
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:45:24","Restart",963,88
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:45:40","AT2",964,89
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:45:46","SAFE1",965,89
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:45:47","POSSIBLE_TI",966,89
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:45:49","TI1",967,89
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:45:53","Restart",968,89
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:45:55","POSSIBLE_TI",969,89
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:45:57","TI1",970,89
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:46:12","Restart",971,89
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:46:15","AT2",972,89
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:46:19","SAFE1",973,89
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:46:24","AT1",974,89
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:46:26","SAFE2",975,89
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:46:27","POSSIBLE_TI",976,89
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:46:29","TI2",977,89
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:46:31","Restart",978,89
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:46:38","AT2",979,89
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:46:52","SAFE1",980,90
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:46:53","POSSIBLE_TI",981,90
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:46:54","TI1",982,90
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:47:04","Restart",983,90
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:47:21","SAFE1",984,90
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:47:23","AT1",985,90
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:47:32","SAFE2",986,90
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:47:40","Extra Time",987,91
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:47:46","AT2",988,91
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:47:51","DANGER2",989,91
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:47:51","DAT2",990,91
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:47:58","PCR2",991,91
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:48:02","CR2",992,91
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:48:10","SHB2",993,91
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:48:18","Ball Position",994,91
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:48:20","Restart",995,91
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:48:50","Referee Ball",996,92
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:49:02","Restart",997,92
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:49:07","AT1",998,92
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:49:07","DANGER1",999,92
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:49:07","DAT1",1000,92
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:49:13","GOAL1",1001,92
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:49:28","POSSIBLE_CARDS",1002,92
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:49:32","PRC",1003,92
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:49:48","No RC",1004,93
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:50:02","Scorer",1005,93
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:50:15","Player_DATA_CONFIRMED",1006,93
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:50:15","Assist",1007,93
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:50:20","CONF_GOAL1",1008,93
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:50:22","KO2",1009,93
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:50:22","SAFE2",1010,93
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:50:23","NO_Cards",1011,93
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:50:39","Stop RT2",1012,93
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:50:39","Stop Game",1013,93
+957246,"EA Guingamp","ES Troyes AC","04/07/2018 19:51:06","CONF_PERIOD_SCORE",1014,93

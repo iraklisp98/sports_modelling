@@ -1,0 +1,851 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1081047,"Fulham FC","Manchester United FC","02/09/2019 11:27:00","Transmission Online",0,0
+1081047,"Fulham FC","Manchester United FC","02/09/2019 11:27:10","GCC",1,0
+1081047,"Fulham FC","Manchester United FC","02/09/2019 11:30:46","Lineup changed",2,0
+1081047,"Fulham FC","Manchester United FC","02/09/2019 11:31:11","Scout in Stadion",3,0
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:26:13","Players are coming out",4,0
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:26:31","Players lined up",5,0
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:26:49","Jersey Changed",6,0
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:26:49","Jersey Changed",7,0
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:27:25","Shake hands",8,0
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:28:26","Photo taking",9,0
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:28:40","System Message",10,0
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:30:00","Minute of silent",11,0
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:30:06","Game about to start",12,0
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:30:08","Start RT1 Team 1",13,1
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:30:14","AT2",14,1
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:30:17","DANGER2",15,1
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:30:17","DAT2",16,1
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:30:29","Possible Free Kick",17,1
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:30:32","F1",19,1
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:30:32","FK2",20,1
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:30:32","DFK2",21,1
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:30:32","Ball Position",22,1
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:30:41","Restart",23,1
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:30:49","SAFE1",24,1
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:30:51","AT1",25,1
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:30:52","DANGER1",26,1
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:30:52","DAT1",27,1
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:31:02","SHB1",28,1
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:31:03","SAFE2",29,1
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:31:03","GK2",30,1
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:31:37","Restart",31,2
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:31:40","AT2",32,2
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:31:42","SAFE1",33,2
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:31:50","POSSIBLE_TI",34,2
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:31:50","TI1",35,2
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:31:58","Restart",36,2
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:31:58","AT1",37,2
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:32:06","Possible Free Kick",38,2
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:32:07","SAFE2",40,2
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:32:07","F1",41,2
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:32:07","FK2",42,2
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:32:07","Ball Position",43,2
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:32:10","Restart",44,3
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:32:11","SAFE2",45,3
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:32:24","SAFE1",46,3
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:32:33","SAFE2",47,3
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:32:40","AT1",48,3
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:32:42","DANGER1",49,3
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:32:42","DAT1",50,3
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:32:52","SAFE2",51,3
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:32:53","GK2",52,3
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:33:16","Restart",53,4
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:33:25","SAFE1",54,4
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:33:29","AT1",55,4
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:33:30","DANGER1",56,4
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:33:30","DAT1",57,4
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:33:44","PCR1",58,4
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:33:48","SHG1",59,4
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:33:49","CR1",60,4
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:33:50","Ball Position",61,4
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:34:00","GCC",62,4
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:34:04","Restart",63,4
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:34:26","SHB1",64,5
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:34:27","SAFE2",65,5
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:34:27","GK2",66,5
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:34:50","Restart",67,5
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:34:51","SAFE2",68,5
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:34:59","AT1",69,5
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:34:59","DANGER1",70,5
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:34:59","DAT1",71,5
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:35:02","POSSIBLE_TI",72,5
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:35:02","TI1",73,5
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:35:29","Restart",74,6
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:35:42","SAFE2",75,6
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:35:43","GK2",76,6
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:36:15","Restart",77,7
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:36:23","AT1",78,7
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:36:34","SAFE2",79,7
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:36:35","POSSIBLE_TI",80,7
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:36:36","TI2",81,7
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:36:48","Restart",82,7
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:36:54","SAFE1",83,7
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:37:04","AT2",84,7
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:37:05","DANGER2",85,7
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:37:05","DAT2",86,7
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:37:17","Possible Free Kick",87,8
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:37:18","SAFE1",89,8
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:37:18","F2",90,8
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:37:18","FK1",91,8
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:37:18","Ball Position",92,8
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:37:36","Restart",93,8
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:37:36","AT1",94,8
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:37:36","DANGER1",95,8
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:37:36","DAT1",96,8
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:37:45","SAFE2",97,8
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:38:05","AT2",98,8
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:38:06","DANGER2",99,8
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:38:06","DAT2",100,8
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:38:13","SAFE1",101,9
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:38:13","GK1",102,9
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:38:40","Restart",103,9
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:38:47","SAFE2",104,9
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:39:04","POSSIBLE_TI",105,9
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:39:06","TI2",106,9
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:39:10","Restart",107,10
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:39:11","SAFE2",108,10
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:39:21","AT2",109,10
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:39:23","DANGER2",110,10
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:39:23","DAT2",111,10
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:39:30","POSSIBLE_TI",112,10
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:39:32","TI1",113,10
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:39:48","Restart",114,10
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:39:51","SAFE1",115,10
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:40:04","AT1",116,10
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:40:16","POSSIBLE_TI",117,11
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:40:17","TI2",118,11
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:40:29","Restart",119,11
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:40:30","SAFE2",120,11
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:40:37","AT2",121,11
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:40:43","SAFE1",122,11
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:40:52","POSSIBLE_TI",123,11
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:40:53","TI2",124,11
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:41:08","Restart",125,12
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:41:18","Possible Free Kick",126,12
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:41:19","F2",128,12
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:41:19","FK1",129,12
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:41:19","Ball Position",130,12
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:41:28","Restart",131,12
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:41:29","SAFE1",132,12
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:41:39","AT2",133,12
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:41:41","Possible Free Kick",134,12
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:41:43","SAFE2",136,12
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:41:43","F1",137,12
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:41:43","FK2",138,12
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:41:43","Ball Position",139,12
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:42:31","Restart",140,13
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:42:37","AT2",141,13
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:42:43","SAFE1",142,13
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:43:04","SAFE2",143,13
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:43:45","AT2",144,14
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:43:46","DANGER2",145,14
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:43:46","DAT2",146,14
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:44:02","GOAL2",147,14
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:44:42","CONF_GOAL2",148,15
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:45:01","Scorer",149,15
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:45:01","KO1",150,15
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:45:01","SAFE1",151,15
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:45:23","AT1",152,16
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:45:25","DANGER1",153,16
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:45:25","DAT1",154,16
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:45:32","POSSIBLE_TI",155,16
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:45:33","TI1",156,16
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:45:40","Restart",157,16
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:45:57","SAFE2",158,16
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:46:22","Possible Free Kick",159,17
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:46:23","POSSIBLE_CARDS",161,17
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:46:57","Injury Break",162,17
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:47:27","NO_Cards",163,18
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:47:28","Restart",164,18
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:47:28","F1",165,18
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:47:28","FK2",166,18
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:47:28","Ball Position",167,18
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:47:28","Scorer",168,18
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:47:28","Player_DATA_CONFIRMED",169,18
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:47:28","Assist",170,18
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:47:55","Restart",171,18
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:48:01","AT2",172,18
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:48:11","POSSIBLE_TI",173,19
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:48:12","TI1",174,19
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:48:13","SAFE1",175,19
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:48:20","Restart",176,19
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:48:25","AT1",177,19
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:48:39","SAFE1",178,19
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:48:44","AT1",179,19
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:48:47","DANGER1",180,19
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:48:47","DAT1",181,19
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:49:37","Possible Free Kick",182,20
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:49:41","SAFE2",184,20
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:49:41","F1",185,20
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:49:41","FK2",186,20
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:49:41","Ball Position",187,20
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:50:05","Restart",188,20
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:50:09","POSSIBLE_TI",189,21
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:50:10","TI1",190,21
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:50:18","Restart",191,21
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:50:25","AT2",192,21
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:50:27","DANGER2",193,21
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:50:27","DAT2",194,21
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:50:45","SAFE1",195,21
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:50:46","AT1",196,21
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:50:47","DANGER1",197,21
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:50:47","DAT1",198,21
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:50:51","SAFE2",199,21
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:50:52","AT2",200,21
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:50:53","DANGER2",201,21
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:50:53","DAT2",202,21
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:50:54","POSSIBLE_CARDS",203,21
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:51:02","POSSIBLE_TI",204,21
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:51:04","TI1",205,21
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:51:05","NO_Cards",206,21
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:51:14","Restart",207,22
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:51:17","SAFE2",208,22
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:51:34","AT2",209,22
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:51:41","DANGER2",210,22
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:51:41","DAT2",211,22
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:51:55","SAFE1",212,22
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:51:58","AT1",213,22
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:52:02","POSSIBLE_TI",214,22
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:52:03","TI1",215,22
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:52:07","Restart",216,22
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:52:16","DANGER1",217,23
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:52:16","DAT1",218,23
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:52:41","SAFE2",219,23
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:52:42","AT2",220,23
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:52:45","DANGER2",221,23
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:52:45","DAT2",222,23
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:52:48","GOAL2",223,23
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:53:11","CONF_GOAL2",224,24
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:53:14","Scorer",225,24
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:53:46","KO1",226,24
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:53:46","SAFE1",227,24
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:54:02","POSSIBLE_TI",228,24
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:54:02","TI2",229,24
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:54:06","Restart",230,24
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:54:07","AT1",231,24
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:54:12","DANGER1",232,25
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:54:12","DAT1",233,25
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:54:17","BLOCKED1",234,25
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:54:21","PPEN",235,25
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:54:21","PPEN1",236,25
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:54:25","No PEN",237,25
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:54:47","Possible Free Kick",238,25
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:54:50","POSSIBLE_CARDS",240,25
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:54:55","YC1",241,25
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:54:56","CONF_YC1",242,25
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:54:59","Scorer",243,25
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:55:01","SAFE2",244,25
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:55:01","F1",245,25
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:55:01","FK2",246,25
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:55:02","Ball Position",247,25
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:55:23","Restart",248,26
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:55:28","Player_DATA_CONFIRMED",249,26
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:55:29","Assist",250,26
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:55:29","Player_DATA_CONFIRMED",251,26
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:55:29","AT2",252,26
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:55:31","DANGER2",253,26
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:55:31","DAT2",254,26
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:55:36","POSSIBLE_TI",255,26
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:55:37","TI2",256,26
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:55:46","Restart",257,26
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:55:54","Possible Free Kick",258,26
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:55:58","SAFE1",260,26
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:55:58","O2",261,26
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:55:58","FK1",262,26
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:55:58","Ball Position",263,26
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:56:07","Restart",264,26
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:56:12","AT1",265,27
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:56:21","SAFE2",266,27
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:56:28","SAFE1",267,27
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:56:29","Possible Free Kick",268,27
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:56:33","SAFE2",270,27
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:56:33","O1",271,27
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:56:33","FK2",272,27
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:56:33","Ball Position",273,27
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:57:04","AT2",274,27
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:57:04","DANGER2",275,27
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:57:04","DAT2",276,27
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:57:04","Restart",277,27
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:57:17","POSSIBLE_TI",278,28
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:57:21","TI2",279,28
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:57:29","Restart",280,28
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:57:31","POSSIBLE_TI",281,28
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:57:33","TI1",282,28
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:57:34","Restart",283,28
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:57:35","SAFE1",284,28
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:57:40","POSSIBLE_TI",285,28
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:57:40","TI2",286,28
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:57:42","Restart",287,28
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:57:43","SAFE2",288,28
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:57:56","AT1",289,28
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:57:58","DANGER1",290,28
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:57:58","DAT1",291,28
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:58:02","SAFE2",292,28
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:58:03","GK2",293,28
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:58:31","Restart",294,29
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:58:33","AT2",295,29
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:58:41","DANGER2",296,29
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:58:41","DAT2",297,29
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:58:51","SAFE1",298,29
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:59:06","SAFE2",299,29
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:59:38","AT1",300,30
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:59:40","DANGER1",301,30
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:59:40","DAT1",302,30
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:59:48","SAFE2",303,30
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:59:50","POSSIBLE_TI",304,30
+1081047,"Fulham FC","Manchester United FC","02/09/2019 12:59:51","TI1",305,30
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:00:08","Restart",306,31
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:00:25","SAFE1",307,31
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:00:39","AT1",308,31
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:00:44","Possible Free Kick",309,31
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:00:48","F2",311,31
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:00:48","FK1",312,31
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:00:48","DANGER1",313,31
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:00:48","DFK1",314,31
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:00:48","Ball Position",315,31
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:01:22","Restart",316,32
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:01:39","SHG1",317,32
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:01:40","PCR1",318,32
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:01:41","CR1",319,32
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:01:42","Ball Position",320,32
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:01:58","Restart",321,32
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:02:08","SAFE2",322,32
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:02:09","AT2",323,33
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:02:13","DANGER2",324,33
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:02:13","DAT2",325,33
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:02:46","POSSIBLE_TI",326,33
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:02:48","TI2",327,33
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:02:55","Restart",328,33
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:03:38","SAFE1",329,34
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:03:52","SAFE2",330,34
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:04:02","AT2",331,34
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:04:08","DANGER2",332,34
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:04:08","DAT2",333,34
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:04:15","SAFE1",334,35
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:04:17","POSSIBLE_TI",335,35
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:04:18","TI2",336,35
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:04:32","Restart",337,35
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:04:33","AT1",338,35
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:04:45","DANGER1",339,35
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:04:45","DAT1",340,35
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:04:48","SAFE2",341,35
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:05:05","AT2",342,35
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:05:10","DANGER2",343,36
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:05:10","DAT2",344,36
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:05:13","Possible Free Kick",345,36
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:05:16","POSSIBLE_CARDS",347,36
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:05:17","PRC",348,36
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:05:49","No RC",349,36
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:05:52","NO_Cards",350,36
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:05:57","F1",351,36
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:05:57","FK2",352,36
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:05:57","DFK2",353,36
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:05:57","Ball Position",354,36
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:06:03","Restart",355,36
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:06:22","SAFE1",356,37
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:06:22","GK1",357,37
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:06:30","Restart",358,37
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:06:33","AT1",359,37
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:06:36","DANGER1",360,37
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:06:36","DAT1",361,37
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:06:52","Possible Free Kick",362,37
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:07:06","POSSIBLE_CARDS",365,37
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:07:14","YC1",366,38
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:07:16","CONF_YC1",367,38
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:07:22","Scorer",368,38
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:07:25","SAFE2",369,38
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:07:25","F1",370,38
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:07:25","FK2",371,38
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:07:25","Ball Position",372,38
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:07:44","Restart",373,38
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:07:50","AT2",374,38
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:07:56","SAFE1",375,38
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:08:10","POSSIBLE_TI",376,39
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:08:12","TI2",377,39
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:08:18","Restart",378,39
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:08:23","SAFE2",379,39
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:08:28","Player_DATA_CONFIRMED",380,39
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:08:37","POSSIBLE_TI",381,39
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:08:38","TI2",382,39
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:08:50","Restart",383,39
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:08:56","SAFE1",384,39
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:09:10","AT2",385,40
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:09:11","DANGER2",386,40
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:09:11","DAT2",387,40
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:09:19","PCR2",388,40
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:09:20","CR2",389,40
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:09:22","SHG2",390,40
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:09:23","Ball Position",391,40
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:09:43","Restart",392,40
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:10:10","PCR2",393,41
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:10:14","CR2",394,41
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:10:16","SHG2",395,41
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:10:17","Ball Position",396,41
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:10:36","Restart",397,41
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:10:55","POSSIBLE_TI",398,41
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:10:56","TI2",399,41
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:11:11","Restart",400,42
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:11:15","Possible Free Kick",401,42
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:11:18","POSSIBLE_CARDS",403,42
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:11:29","NO_Cards",404,42
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:11:29","SAFE1",405,42
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:11:29","F2",406,42
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:11:29","FK1",407,42
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:11:29","Ball Position",408,42
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:11:31","Restart",409,42
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:11:31","SAFE1",410,42
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:11:33","AT2",411,42
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:11:34","DANGER2",412,42
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:11:34","DAT2",413,42
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:11:57","SHB2",414,42
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:11:58","SAFE1",415,42
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:11:58","GK1",416,42
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:12:19","Restart",417,43
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:12:30","Possible Free Kick",418,43
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:12:32","POSSIBLE_CARDS",420,43
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:12:33","YC2",421,43
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:12:34","CONF_YC2",422,43
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:12:41","Scorer",423,43
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:12:44","F2",424,43
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:12:44","FK1",425,43
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:12:45","DANGER1",426,43
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:12:45","DFK1",427,43
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:12:45","Ball Position",428,43
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:12:57","Restart",429,43
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:13:01","SHB1",430,43
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:13:15","SHG1",431,44
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:13:15","SAFE2",432,44
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:13:29","Player_DATA_CONFIRMED",433,44
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:13:39","AT2",434,44
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:13:41","DANGER2",435,44
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:13:41","DAT2",436,44
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:13:44","POSSIBLE_CARDS",437,44
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:13:54","SAFE1",438,44
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:14:09","AT2",439,45
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:14:13","DANGER2",440,45
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:14:13","DAT2",441,45
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:14:31","SAFE1",442,45
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:14:33","AT1",443,45
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:14:36","DANGER1",444,45
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:14:36","DAT1",445,45
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:14:43","SAFE1",446,45
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:15:02","AT1",447,45
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:15:04","DANGER1",448,45
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:15:04","DAT1",449,45
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:15:24","SAFE1",450,46
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:15:32","AT1",451,46
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:15:37","DANGER1",452,46
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:15:37","DAT1",453,46
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:15:47","Extra Time",454,46
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:15:52","SAFE2",455,46
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:15:53","AT2",456,46
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:15:55","DANGER2",457,46
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:15:55","DAT2",458,46
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:16:00","SAFE1",459,46
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:16:28","AT1",460,47
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:16:31","DANGER1",461,47
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:16:31","DAT1",462,47
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:16:54","POSSIBLE_TI",463,47
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:16:55","TI1",464,47
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:16:56","NO_Cards",465,47
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:16:58","Restart",466,47
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:17:01","SAFE1",467,47
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:17:18","Stop RT1",468,47
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:17:35","CONF_PERIOD_SCORE",469,45
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:30:48","Players are coming out",470,45
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:31:57","Game about to start",471,45
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:32:12","Start RT2 Team 2",472,46
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:32:27","AT2",473,46
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:32:29","DANGER2",474,46
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:32:29","DAT2",475,46
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:32:55","SHG2",476,46
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:33:08","POSSIBLE_TI",477,46
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:33:09","TI2",478,46
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:33:20","Restart",479,47
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:33:31","SHB2",480,47
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:33:33","SAFE1",481,47
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:34:04","AT1",482,47
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:34:09","DANGER1",483,47
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:34:09","DAT1",484,47
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:34:22","SAFE2",485,48
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:34:28","SAFE1",486,48
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:34:42","AT1",487,48
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:34:45","DANGER1",488,48
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:34:45","DAT1",489,48
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:34:50","SAFE2",490,48
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:34:51","GK2",491,48
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:35:23","Restart",492,49
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:35:30","AT1",493,49
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:35:36","SAFE2",494,49
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:35:43","POSSIBLE_TI",495,49
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:35:44","TI1",496,49
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:35:50","Restart",497,49
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:35:50","SAFE1",498,49
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:36:10","AT1",499,49
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:36:11","DANGER1",500,49
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:36:11","DAT1",501,49
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:36:19","POSSIBLE_TI",502,50
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:36:21","TI2",503,50
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:36:21","SAFE2",504,50
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:36:24","Restart",505,50
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:36:24","SAFE2",506,50
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:36:40","AT2",507,50
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:36:42","DANGER2",508,50
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:36:42","DAT2",509,50
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:36:50","Possible Free Kick",510,50
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:36:52","SAFE1",512,50
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:36:52","F2",513,50
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:36:52","FK1",514,50
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:36:52","Ball Position",515,50
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:36:57","Restart",516,50
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:36:58","SAFE1",517,50
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:37:16","AT1",518,51
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:37:23","DANGER1",519,51
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:37:23","DAT1",520,51
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:37:39","SAFE2",521,51
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:37:45","AT2",522,51
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:37:47","DANGER2",523,51
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:37:47","DAT2",524,51
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:38:15","SAFE1",525,52
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:38:31","SAFE2",526,52
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:38:42","AT2",527,52
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:38:43","Possible Free Kick",528,52
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:38:45","SAFE1",530,52
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:38:45","O2",531,52
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:38:45","FK1",532,52
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:38:45","Ball Position",533,52
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:38:49","Restart",534,52
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:38:50","AT1",535,52
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:38:51","DANGER1",536,52
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:38:51","DAT1",537,52
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:38:59","SHB1",538,52
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:39:00","SAFE2",539,52
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:39:00","GK2",540,52
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:39:23","SUB1",541,53
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:39:39","Restart",542,53
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:39:49","AT2",543,53
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:39:51","DANGER2",544,53
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:39:51","DAT2",545,53
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:39:58","SAFE1",546,53
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:39:58","GK1",547,53
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:39:59","Player_DATA_CONFIRMED",548,53
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:40:09","Restart",549,53
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:40:18","SAFE1",550,54
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:40:34","AT1",551,54
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:40:34","DANGER1",552,54
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:40:34","DAT1",553,54
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:40:52","POSSIBLE_TI",554,54
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:40:53","TI1",555,54
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:40:54","Restart",556,54
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:40:57","SAFE1",557,54
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:41:17","AT1",558,55
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:41:27","DANGER1",559,55
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:41:27","DAT1",560,55
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:41:47","SAFE2",561,55
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:41:48","GK2",562,55
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:42:21","Restart",563,56
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:42:25","AT2",564,56
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:42:32","SAFE2",565,56
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:42:48","AT2",566,56
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:42:49","DANGER2",567,56
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:42:49","DAT2",568,56
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:43:00","POSSIBLE_TI",569,56
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:43:01","TI1",570,56
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:43:10","Restart",571,56
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:43:18","Possible Free Kick",572,57
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:43:21","SAFE1",574,57
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:43:21","O2",575,57
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:43:21","FK1",576,57
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:43:21","Ball Position",577,57
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:43:23","Restart",578,57
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:43:24","SAFE1",579,57
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:43:47","POSSIBLE_TI",580,57
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:43:48","TI2",581,57
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:44:09","Restart",582,57
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:44:14","AT1",583,58
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:44:15","DANGER1",584,58
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:44:15","DAT1",585,58
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:44:26","PCR1",586,58
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:44:27","CR1",587,58
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:44:29","Ball Position",588,58
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:44:46","Restart",589,58
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:44:53","SAFE2",590,58
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:44:58","AT2",591,58
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:44:59","DANGER2",592,58
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:44:59","DAT2",593,58
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:45:33","SAFE2",594,59
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:45:45","AT2",595,59
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:45:47","DANGER2",596,59
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:45:47","DAT2",597,59
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:45:57","Possible Free Kick",598,59
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:46:06","F1",600,59
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:46:06","FK2",601,59
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:46:06","DFK2",602,59
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:46:06","Ball Position",603,59
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:46:08","Restart",604,59
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:46:30","Possible Free Kick",605,60
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:46:33","F1",607,60
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:46:33","FK2",608,60
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:46:33","DFK2",609,60
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:46:33","Ball Position",610,60
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:46:38","Restart",611,60
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:46:40","SAFE1",612,60
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:47:01","SAFE2",613,60
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:47:07","AT2",614,60
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:47:08","DANGER2",615,60
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:47:08","DAT2",616,60
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:48:07","BLOCKED2",617,61
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:48:12","Possible Free Kick",618,62
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:48:13","SAFE1",620,62
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:48:13","F2",621,62
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:48:13","FK1",622,62
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:48:13","Ball Position",623,62
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:48:27","Restart",624,62
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:48:28","SAFE1",625,62
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:48:43","AT1",626,62
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:48:50","DANGER1",627,62
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:48:50","DAT1",628,62
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:48:58","SAFE2",629,62
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:49:03","AT2",630,62
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:49:05","DANGER2",631,62
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:49:05","DAT2",632,62
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:49:12","SAFE1",633,63
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:49:28","SAFE2",634,63
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:49:38","AT2",635,63
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:49:40","DANGER2",636,63
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:49:40","DAT2",637,63
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:49:59","SHG2",638,63
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:50:20","SAFE2",639,64
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:50:27","AT1",640,64
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:50:29","DANGER1",641,64
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:50:29","DAT1",642,64
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:50:39","SAFE2",643,64
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:50:54","AT2",644,64
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:50:55","DANGER2",645,64
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:50:55","DAT2",646,64
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:51:01","PPEN",647,64
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:51:01","PPEN2",648,64
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:51:13","PEN2",649,65
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:51:27","Scorer",650,65
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:51:55","GOAL2",651,65
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:51:55","Scorer",652,65
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:52:18","CONF_GOAL2",653,66
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:52:47","KO1",654,66
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:52:47","SAFE1",655,66
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:53:04","SAFE2",656,66
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:53:13","Possible Free Kick",657,67
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:53:13","F1",659,67
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:53:13","FK2",660,67
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:53:13","Ball Position",661,67
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:53:20","Restart",662,67
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:53:21","SAFE2",663,67
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:53:32","SAFE1",664,67
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:53:40","AT1",665,67
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:53:40","DANGER1",666,67
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:53:40","DAT1",667,67
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:54:22","PCR1",668,68
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:54:23","CR1",669,68
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:54:25","Ball Position",670,68
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:54:38","Restart",671,68
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:55:00","Player_DATA_CONFIRMED",672,68
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:55:05","SAFE1",673,68
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:55:09","AT1",674,68
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:55:17","DANGER1",675,69
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:55:17","DAT1",676,69
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:55:37","BLOCKED1",677,69
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:55:41","CLS",678,69
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:55:43","SHG1",679,69
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:55:45","SAFE2",680,69
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:56:01","POSSIBLE_TI",681,69
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:56:14","SUB2",682,70
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:56:17","TI2",683,70
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:56:33","Restart",684,70
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:56:43","AT2",685,70
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:56:45","DANGER2",686,70
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:56:45","DAT2",687,70
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:57:28","Player_DATA_CONFIRMED",688,71
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:57:42","SAFE1",689,71
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:57:51","AT1",690,71
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:58:03","DANGER1",691,71
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:58:03","DAT1",692,71
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:58:11","SAFE2",693,71
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:58:42","POSSIBLE_TI",694,72
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:58:43","TI1",695,72
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:58:50","Restart",696,72
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:58:51","SAFE1",697,72
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:59:03","AT1",698,72
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:59:06","DANGER1",699,72
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:59:06","DAT1",700,72
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:59:44","SHG1",701,73
+1081047,"Fulham FC","Manchester United FC","02/09/2019 13:59:45","SAFE2",702,73
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:00:00","AT2",703,73
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:00:04","POSSIBLE_TI",704,73
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:00:06","TI1",705,73
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:00:22","SUB2",706,74
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:00:44","Restart",707,74
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:00:49","SAFE1",708,74
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:00:55","AT2",709,74
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:00:55","DANGER2",710,74
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:00:55","DAT2",711,74
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:01:00","PCR2",712,74
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:01:00","CR2",713,74
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:01:02","SHG2",714,74
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:01:04","Ball Position",715,74
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:01:20","Restart",716,75
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:01:29","Player_DATA_CONFIRMED",717,75
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:01:42","SHB2",718,75
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:01:42","SAFE1",719,75
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:01:43","GK1",720,75
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:01:58","Restart",721,75
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:02:04","SAFE1",722,75
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:02:15","SAFE2",723,76
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:02:24","AT2",724,76
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:02:31","DANGER2",725,76
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:02:31","DAT2",726,76
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:02:50","SAFE2",727,76
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:03:01","SAFE1",728,76
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:03:13","AT1",729,77
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:03:15","DANGER1",730,77
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:03:15","DAT1",731,77
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:03:21","SHB1",732,77
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:03:23","SAFE2",733,77
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:03:23","GK2",734,77
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:03:45","SUB1",735,77
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:04:16","Restart",736,78
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:04:23","POSSIBLE_TI",737,78
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:04:23","TI1",738,78
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:04:26","Restart",739,78
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:04:27","SAFE1",740,78
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:04:29","Player_DATA_CONFIRMED",741,78
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:04:43","AT1",742,78
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:04:45","DANGER1",743,78
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:04:45","DAT1",744,78
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:05:14","SAFE2",745,79
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:05:15","GK2",746,79
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:05:47","Restart",747,79
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:06:00","POSSIBLE_TI",748,79
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:06:00","TI2",749,79
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:06:04","Restart",750,79
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:06:09","SAFE2",751,79
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:06:17","SAFE1",752,80
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:06:27","Possible Free Kick",753,80
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:06:30","F2",755,80
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:06:30","FK1",756,80
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:06:30","Ball Position",757,80
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:06:31","Restart",758,80
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:06:32","SAFE1",759,80
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:06:44","AT2",760,80
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:06:45","DANGER2",761,80
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:06:45","DAT2",762,80
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:06:53","POSSIBLE_TI",763,80
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:06:54","TI1",764,80
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:07:13","SUB1",765,81
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:07:48","Restart",766,81
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:07:55","POSSIBLE_TI",767,81
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:07:57","TI2",768,81
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:07:58","Player_DATA_CONFIRMED",769,81
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:08:00","Restart",770,81
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:08:01","SAFE2",771,81
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:08:18","AT2",772,82
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:08:25","DANGER2",773,82
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:08:25","DAT2",774,82
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:08:39","SAFE1",775,82
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:08:40","GK1",776,82
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:08:54","Restart",777,82
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:08:55","SAFE1",778,82
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:09:03","POSSIBLE_TI",779,82
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:09:04","TI2",780,82
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:09:06","Restart",781,82
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:09:06","SAFE2",782,82
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:09:43","Possible Free Kick",783,83
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:09:48","F1",785,83
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:09:48","FK2",786,83
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:09:48","DANGER2",787,83
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:09:48","DFK2",788,83
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:09:48","Ball Position",789,83
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:10:14","Restart",790,84
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:10:48","PCR2",791,84
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:10:49","CR2",792,84
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:10:50","Ball Position",793,84
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:11:10","SUB2",794,84
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:11:53","Restart",795,85
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:12:05","SAFE1",796,85
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:12:05","GK1",797,85
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:12:24","Restart",798,86
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:12:29","Player_DATA_CONFIRMED",799,86
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:12:29","SAFE1",800,86
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:12:50","AT1",801,86
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:12:51","DANGER1",802,86
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:12:51","DAT1",803,86
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:13:08","PCR1",804,86
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:13:09","CR1",805,86
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:13:09","Ball Position",806,86
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:13:22","Restart",807,87
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:13:51","SHB1",808,87
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:13:52","SAFE2",809,87
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:13:52","GK2",810,87
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:14:18","Restart",811,88
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:14:24","AT2",812,88
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:14:25","DANGER2",813,88
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:14:25","DAT2",814,88
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:14:34","SAFE1",815,88
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:14:38","AT1",816,88
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:14:46","DANGER1",817,88
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:14:46","DAT1",818,88
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:14:56","Possible Free Kick",819,88
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:14:58","SAFE2",821,88
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:14:58","O1",822,88
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:14:58","FK2",823,88
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:14:59","Ball Position",824,88
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:15:25","Restart",825,89
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:15:38","SAFE2",826,89
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:15:51","POSSIBLE_CARDS",827,89
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:15:53","PRC",828,89
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:15:53","Danger",829,89
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:16:31","No RC",830,90
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:16:32","YC1",831,90
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:16:33","CONF_YC1",832,90
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:16:38","Scorer",833,90
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:16:39","YC2",834,90
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:16:39","CONF_YC2",835,90
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:16:49","Scorer",836,90
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:16:59","Player_DATA_CONFIRMED",837,90
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:16:59","Player_DATA_CONFIRMED",838,90
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:17:05","Referee Ball",839,90
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:17:06","Restart",840,90
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:17:15","Possible Free Kick",841,91
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:17:16","SAFE1",843,91
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:17:16","F2",844,91
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:17:16","FK1",845,91
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:17:16","Ball Position",846,91
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:17:17","Restart",847,91
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:17:20","Possible Free Kick",848,91
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:17:20","SAFE2",850,91
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:17:20","F1",851,91
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:17:20","FK2",852,91
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:17:21","Ball Position",853,91
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:17:26","Restart",854,91
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:17:28","AT1",855,91
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:17:30","DANGER1",856,91
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:17:30","DAT1",857,91
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:17:47","Extra Time",858,91
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:18:05","SAFE2",859,91
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:18:12","AT1",860,92
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:18:16","SAFE1",861,92
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:18:20","AT1",862,92
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:18:21","DANGER1",863,92
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:18:21","DAT1",864,92
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:18:27","SAFE2",865,92
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:18:28","GK2",866,92
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:19:00","Restart",867,92
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:19:07","SAFE1",868,92
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:19:14","AT1",869,93
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:19:21","DANGER1",870,93
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:19:21","DAT1",871,93
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:19:34","SAFE2",872,93
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:19:35","GK2",873,93
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:20:03","Restart",874,93
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:20:18","Stop RT2",875,93
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:20:18","Stop Game",876,93
+1081047,"Fulham FC","Manchester United FC","02/09/2019 14:20:22","CONF_PERIOD_SCORE",877,93

@@ -1,0 +1,854 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1116498,"Everton FC","Manchester United FC","04/21/2019 11:30:48","Lineup changed",0,0
+1116498,"Everton FC","Manchester United FC","04/21/2019 11:31:18","Transmission Online",1,0
+1116498,"Everton FC","Manchester United FC","04/21/2019 11:31:18","Scout in Stadion",2,0
+1116498,"Everton FC","Manchester United FC","04/21/2019 11:43:59","GCC",3,0
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:25:53","Players are coming out",4,0
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:27:01","Players lined up",5,0
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:27:18","Shake hands",6,0
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:27:50","Jersey Changed",7,0
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:27:51","Jersey Changed",8,0
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:28:49","Photo taking",9,0
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:29:03","Flip coin",10,0
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:29:35","Game about to start",11,0
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:30:16","Start RT1 Team 1",12,1
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:30:19","AT1",13,1
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:30:24","POSSIBLE_TI",14,1
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:30:25","TI2",15,1
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:30:32","Restart",16,1
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:30:36","SAFE2",17,1
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:30:37","AT2",18,1
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:31:16","POSSIBLE_TI",19,1
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:31:16","TI2",20,1
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:31:28","Restart",21,2
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:31:28","DANGER2",22,2
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:31:28","DAT2",23,2
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:31:37","POSSIBLE_TI",24,2
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:31:37","TI2",25,2
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:31:43","Restart",26,2
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:31:49","BLOCKED2",27,2
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:31:50","SAFE1",28,2
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:31:56","AT1",29,2
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:31:57","DANGER1",30,2
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:31:57","DAT1",31,2
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:32:37","POSSIBLE_TI",32,3
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:32:37","TI2",33,3
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:32:55","Restart",34,3
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:32:57","SAFE2",35,3
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:33:00","SAFE1",36,3
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:33:21","AT1",37,4
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:33:34","DANGER1",38,4
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:33:34","DAT1",39,4
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:33:38","PCR1",40,4
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:33:39","CR1",41,4
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:33:40","Ball Position",42,4
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:34:08","Restart",43,4
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:34:16","SAFE2",44,4
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:34:32","AT2",45,5
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:34:33","POSSIBLE_TI",46,5
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:34:34","TI1",47,5
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:34:38","Restart",48,5
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:34:40","SAFE1",49,5
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:34:41","AT1",50,5
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:34:48","POSSIBLE_TI",51,5
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:34:48","TI1",52,5
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:35:00","Restart",53,5
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:35:00","DANGER1",54,5
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:35:00","DAT1",55,5
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:35:02","PCR1",56,5
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:35:02","CR1",57,5
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:35:03","Ball Position",58,5
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:35:32","Restart",59,6
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:35:36","SAFE2",60,6
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:35:40","Possible Free Kick",61,6
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:35:41","F1",63,6
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:35:41","FK2",64,6
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:35:41","Ball Position",65,6
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:35:58","Restart",66,6
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:36:06","AT2",67,6
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:36:36","SAFE1",68,7
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:36:37","AT1",69,7
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:36:41","DANGER1",70,7
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:36:41","DAT1",71,7
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:36:55","SAFE2",72,7
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:37:11","AT2",73,7
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:37:17","POSSIBLE_TI",74,8
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:37:18","TI2",75,8
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:37:37","Restart",76,8
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:37:38","DANGER2",77,8
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:37:38","DAT2",78,8
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:37:45","SAFE1",79,8
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:37:46","AT1",80,8
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:38:12","DANGER1",81,8
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:38:12","DAT1",82,8
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:38:19","Possible Free Kick",83,9
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:38:20","SAFE2",85,9
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:38:20","F1",86,9
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:38:20","FK2",87,9
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:38:20","Ball Position",88,9
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:38:46","Restart",89,9
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:38:55","AT1",90,9
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:39:01","DANGER1",91,9
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:39:01","DAT1",92,9
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:39:04","SAFE2",93,9
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:39:07","AT1",94,9
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:39:10","Possible Free Kick",95,9
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:39:12","F2",97,9
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:39:12","FK1",98,9
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:39:12","DANGER1",99,9
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:39:12","DFK1",100,9
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:39:12","Ball Position",101,9
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:39:52","Restart",102,10
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:39:56","PCR1",103,10
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:39:56","CR1",104,10
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:39:57","Ball Position",105,10
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:40:23","Restart",106,11
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:40:33","SHG1",107,11
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:40:36","SHB1",108,11
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:40:38","SAFE2",109,11
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:40:39","GK2",110,11
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:41:05","Restart",111,11
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:41:08","AT2",112,11
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:41:14","DANGER2",113,11
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:41:14","DAT2",114,11
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:41:25","POSSIBLE_TI",115,12
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:41:25","TI2",116,12
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:41:30","Restart",117,12
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:41:33","SAFE2",118,12
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:42:02","AT1",119,12
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:42:07","DANGER1",120,12
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:42:07","DAT1",121,12
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:42:08","POSSIBLE_TI",122,12
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:42:08","TI1",123,12
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:42:37","Restart",124,13
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:42:40","GOAL1",125,13
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:42:49","Scorer",126,13
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:43:06","CONF_GOAL1",127,13
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:43:51","KO2",128,14
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:43:51","SAFE2",129,14
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:44:04","Player_DATA_CONFIRMED",130,14
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:44:05","AT1",131,14
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:44:11","DANGER1",132,14
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:44:11","DAT1",133,14
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:44:21","PCR1",134,15
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:44:21","CR1",135,15
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:44:24","Ball Position",136,15
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:44:51","Restart",137,15
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:44:58","BLOCKED1",138,15
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:45:02","POSSIBLE_TI",139,15
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:45:03","TI1",140,15
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:45:17","Restart",141,16
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:45:25","POSSIBLE_TI",142,16
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:45:26","TI1",143,16
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:45:49","Restart",144,16
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:45:51","Assist",145,16
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:45:56","SHB1",146,16
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:45:57","SAFE2",147,16
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:45:58","GK2",148,16
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:46:10","Restart",149,16
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:46:32","AT1",150,17
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:46:44","DANGER1",151,17
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:46:44","DAT1",152,17
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:46:50","PCR1",153,17
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:46:50","CR1",154,17
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:46:51","Ball Position",155,17
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:47:17","Restart",156,18
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:47:33","PCR1",157,18
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:47:34","CR1",158,18
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:47:35","Ball Position",159,18
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:48:03","Restart",160,18
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:48:17","SAFE2",161,19
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:48:17","POSSIBLE_TI",162,19
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:48:18","TI2",163,19
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:48:34","Restart",164,19
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:48:41","AT2",165,19
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:48:54","SAFE1",166,19
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:48:54","AT1",167,19
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:48:57","SAFE2",168,19
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:49:07","AT2",169,19
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:49:10","DANGER2",170,19
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:49:10","DAT2",171,19
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:49:14","SHB2",172,19
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:49:17","SAFE1",173,20
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:49:17","GK1",174,20
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:49:44","Restart",175,20
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:49:59","Possible Free Kick",176,20
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:50:00","SAFE2",178,20
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:50:00","F1",179,20
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:50:00","FK2",180,20
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:50:00","Ball Position",181,20
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:50:11","Restart",182,20
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:50:23","SAFE1",183,21
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:50:24","POSSIBLE_TI",184,21
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:50:25","TI1",185,21
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:50:34","Restart",186,21
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:50:43","SAFE2",187,21
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:51:10","AT2",188,21
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:51:18","DANGER2",189,22
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:51:18","DAT2",190,22
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:51:30","SAFE1",191,22
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:51:32","AT1",192,22
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:51:38","DANGER1",193,22
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:51:38","DAT1",194,22
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:51:46","SHB1",195,22
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:51:46","SAFE2",196,22
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:51:47","GK2",197,22
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:52:23","Restart",198,23
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:52:30","AT2",199,23
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:52:32","DANGER2",200,23
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:52:32","DAT2",201,23
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:52:49","Possible Free Kick",202,23
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:52:51","POSSIBLE_CARDS",204,23
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:52:57","YC1",205,23
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:52:58","CONF_YC1",206,23
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:53:00","Scorer",207,23
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:53:04","F1",208,23
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:53:04","FK2",209,23
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:53:04","DFK2",210,23
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:53:04","Ball Position",211,23
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:53:18","Player_DATA_CONFIRMED",212,24
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:53:41","Restart",213,24
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:53:44","SHB2",214,24
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:53:46","SAFE1",215,24
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:53:47","GK1",216,24
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:54:05","Restart",217,24
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:54:11","AT1",218,24
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:54:23","Possible Free Kick",219,25
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:54:24","F2",221,25
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:54:24","FK1",222,25
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:54:24","DANGER1",223,25
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:54:24","DFK1",224,25
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:54:24","Ball Position",225,25
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:54:43","Restart",226,25
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:54:51","SAFE1",227,25
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:55:02","AT2",228,25
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:55:02","POSSIBLE_TI",229,25
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:55:03","TI2",230,25
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:55:12","Restart",231,25
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:55:13","DANGER2",232,25
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:55:13","DAT2",233,25
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:55:18","SAFE1",234,26
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:55:20","AT1",235,26
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:55:23","DANGER1",236,26
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:55:23","DAT1",237,26
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:55:32","SAFE1",238,26
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:55:38","AT1",239,26
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:55:50","DANGER1",240,26
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:55:50","DAT1",241,26
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:55:50","POSSIBLE_TI",242,26
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:55:51","TI2",243,26
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:55:51","Restart",244,26
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:55:56","POSSIBLE_TI",245,26
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:55:57","TI1",246,26
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:56:05","Restart",247,26
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:56:32","SAFE2",248,27
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:56:33","GK2",249,27
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:56:49","Restart",250,27
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:56:58","AT1",251,27
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:57:01","SAFE2",252,27
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:57:01","AT2",253,27
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:57:06","DANGER2",254,27
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:57:06","DAT2",255,27
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:57:16","PCR2",256,27
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:57:17","CR2",257,28
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:57:19","Ball Position",258,28
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:57:44","Restart",259,28
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:57:51","SAFE1",260,28
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:57:52","AT1",261,28
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:57:59","DANGER1",262,28
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:57:59","DAT1",263,28
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:58:02","GOAL1",264,28
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:58:11","Scorer",265,28
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:58:26","CONF_GOAL1",266,29
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:59:11","KO2",267,29
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:59:11","SAFE2",268,29
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:59:20","Player_DATA_CONFIRMED",269,30
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:59:20","Assist",270,30
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:59:22","AT2",271,30
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:59:24","POSSIBLE_TI",272,30
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:59:24","TI1",273,30
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:59:40","Restart",274,30
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:59:41","SAFE1",275,30
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:59:42","AT1",276,30
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:59:47","Possible Free Kick",277,30
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:59:47","F2",279,30
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:59:47","FK1",280,30
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:59:47","DANGER1",281,30
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:59:47","DFK1",282,30
+1116498,"Everton FC","Manchester United FC","04/21/2019 12:59:47","Ball Position",283,30
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:00:07","Restart",284,30
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:00:19","SAFE2",285,31
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:00:20","GK2",286,31
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:00:45","Restart",287,31
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:00:45","AT2",288,31
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:01:00","POSSIBLE_TI",289,31
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:01:01","TI2",290,31
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:01:12","SAFE1",291,31
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:01:12","Restart",292,31
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:01:12","AT1",293,31
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:01:19","Possible Free Kick",294,32
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:01:20","SAFE2",296,32
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:01:20","F1",297,32
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:01:20","FK2",298,32
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:01:20","Ball Position",299,32
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:01:31","Restart",300,32
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:01:35","AT2",301,32
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:02:13","DANGER2",302,32
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:02:13","DAT2",303,32
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:02:17","SAFE1",304,33
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:02:37","AT1",305,33
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:03:03","DANGER1",306,33
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:03:03","DAT1",307,33
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:03:10","PCR1",308,33
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:03:11","CR1",309,33
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:03:12","Ball Position",310,33
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:03:42","Restart",311,34
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:04:03","POSSIBLE_TI",312,34
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:04:05","TI1",313,34
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:04:19","Restart",314,35
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:04:36","SAFE2",315,35
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:04:39","AT2",316,35
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:04:53","DANGER2",317,35
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:04:53","DAT2",318,35
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:05:02","POSSIBLE_TI",319,35
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:05:03","TI2",320,35
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:05:20","Restart",321,36
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:05:27","POSSIBLE_TI",322,36
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:05:28","TI2",323,36
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:05:38","Restart",324,36
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:05:45","SAFE1",325,36
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:05:46","GK1",326,36
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:06:03","Restart",327,36
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:06:04","AT1",328,36
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:06:12","Possible Free Kick",329,36
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:06:13","SAFE2",331,36
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:06:13","F1",332,36
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:06:13","FK2",333,36
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:06:13","Ball Position",334,36
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:06:16","Restart",335,36
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:06:24","AT2",336,37
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:07:08","DANGER2",337,37
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:07:08","DAT2",338,37
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:07:12","POSSIBLE_TI",339,37
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:07:13","TI2",340,37
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:07:17","Restart",341,38
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:07:22","Possible Free Kick",342,38
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:07:23","F1",344,38
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:07:23","FK2",345,38
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:07:23","DFK2",346,38
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:07:23","Ball Position",347,38
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:08:03","Restart",348,38
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:08:09","SAFE2",349,38
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:08:35","AT2",350,39
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:08:41","SAFE1",351,39
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:08:41","AT1",352,39
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:08:46","DANGER1",353,39
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:08:46","DAT1",354,39
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:08:48","SAFE2",355,39
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:08:58","Injury Break",356,39
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:10:12","Restart",357,40
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:10:13","SAFE2",358,40
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:10:18","AT1",359,41
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:10:23","DANGER1",360,41
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:10:23","DAT1",361,41
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:10:30","SHG1",362,41
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:10:31","SAFE2",363,41
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:10:50","AT2",364,41
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:11:00","Possible Free Kick",365,41
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:11:01","F1",367,41
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:11:01","FK2",368,41
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:11:01","DANGER2",369,41
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:11:01","DFK2",370,41
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:11:01","Ball Position",371,41
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:11:05","Restart",372,41
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:11:10","SAFE1",373,41
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:11:15","AT1",374,41
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:11:20","SAFE2",375,42
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:11:27","AT2",376,42
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:11:28","POSSIBLE_TI",377,42
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:11:28","TI2",378,42
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:11:34","Restart",379,42
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:11:40","SAFE1",380,42
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:11:46","AT1",381,42
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:11:48","DANGER1",382,42
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:11:48","DAT1",383,42
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:11:51","POSSIBLE_TI",384,42
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:11:52","TI1",385,42
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:12:08","Restart",386,42
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:12:20","SAFE1",387,43
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:12:32","AT1",388,43
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:12:36","DANGER1",389,43
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:12:36","DAT1",390,43
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:12:56","Possible Free Kick",391,43
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:13:01","F2",393,43
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:13:01","FK1",394,43
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:13:01","DFK1",395,43
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:13:01","Ball Position",396,43
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:13:44","Restart",397,44
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:14:13","POSSIBLE_TI",398,44
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:14:14","TI1",399,44
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:14:25","Restart",400,45
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:14:36","POSSIBLE_TI",401,45
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:14:36","TI1",402,45
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:14:50","Restart",403,45
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:15:01","POSSIBLE_TI",404,45
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:15:01","TI1",405,45
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:15:22","Extra Time",406,46
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:15:25","Restart",407,46
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:15:26","SAFE2",408,46
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:15:27","GK2",409,46
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:15:45","Restart",410,46
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:15:50","AT2",411,46
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:16:02","SAFE1",412,46
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:16:03","AT1",413,46
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:16:06","SAFE2",414,46
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:16:15","POSSIBLE_TI",415,46
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:16:15","TI1",416,46
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:16:18","Injury Break",417,47
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:17:34","Restart",418,48
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:17:39","SAFE2",419,48
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:17:46","AT2",420,48
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:17:48","DANGER2",421,48
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:17:48","DAT2",422,48
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:17:51","SAFE1",423,48
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:18:10","AT1",424,48
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:18:32","Stop RT1",425,48
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:18:36","CONF_PERIOD_SCORE",426,45
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:32:32","Players are coming out",427,45
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:33:36","SUB2",428,45
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:33:52","SUB2",429,45
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:33:54","Game about to start",430,45
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:34:11","Start RT2 Team 2",431,46
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:34:15","SAFE2",432,46
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:34:21","System Message",433,46
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:34:22","SAFE1",434,46
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:34:23","AT1",435,46
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:34:26","SAFE2",436,46
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:34:32","AT2",437,46
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:34:47","POSSIBLE_TI",438,46
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:34:47","TI2",439,46
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:34:50","Restart",440,46
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:34:56","Start score update",441,46
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:34:56","Statistic confirmation",442,46
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:34:56","Score update finished",443,46
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:34:57","SAFE2",444,46
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:35:01","System Message",445,46
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:35:05","Restart",446,46
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:35:05","AT2",447,46
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:35:05","DANGER2",448,46
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:35:05","DAT2",449,46
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:35:10","POSSIBLE_TI",450,46
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:35:10","TI2",451,46
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:35:17","Restart",452,47
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:35:21","POSSIBLE_TI",453,47
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:35:21","TI2",454,47
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:35:32","SUB_UPDATE",455,47
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:35:32","Player_DATA_CONFIRMED",456,47
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:35:36","Player_DATA_CONFIRMED",457,47
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:35:41","Restart",458,47
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:35:48","SAFE1",459,47
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:35:52","AT1",460,47
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:35:53","DANGER1",461,47
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:35:53","DAT1",462,47
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:35:56","SAFE2",463,47
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:36:05","AT2",464,47
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:36:24","SAFE1",465,48
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:36:24","AT1",466,48
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:36:35","SAFE2",467,48
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:36:36","AT2",468,48
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:36:41","SAFE1",469,48
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:36:41","AT1",470,48
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:36:54","DANGER1",471,48
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:36:54","DAT1",472,48
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:37:07","SAFE2",473,48
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:37:19","POSSIBLE_TI",474,49
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:37:20","TI1",475,49
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:37:27","Injury Break",476,49
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:39:17","SUB1",477,51
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:39:28","Restart",478,51
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:39:33","SAFE2",479,51
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:39:37","Player_DATA_CONFIRMED",480,51
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:39:41","AT2",481,51
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:39:44","DANGER2",482,51
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:39:44","DAT2",483,51
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:39:45","SAFE1",484,51
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:40:03","AT1",485,51
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:40:19","SAFE1",486,52
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:40:25","SAFE1",487,52
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:40:35","AT1",488,52
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:40:38","DANGER1",489,52
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:40:38","DAT1",490,52
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:40:48","SAFE2",491,52
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:40:48","AT2",492,52
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:41:09","DANGER2",493,52
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:41:09","DAT2",494,52
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:41:11","SAFE1",495,52
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:41:31","Possible Free Kick",496,53
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:41:33","SAFE2",498,53
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:41:33","O1",499,53
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:41:33","FK2",500,53
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:41:33","Ball Position",501,53
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:41:43","CLS",502,53
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:41:44","No Free Kick",503,53
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:41:45","POSSIBLE_TI",504,53
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:41:46","TI2",505,53
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:41:47","Restart",506,53
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:41:48","AT2",507,53
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:42:00","DANGER2",508,53
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:42:00","DAT2",509,53
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:42:21","SAFE1",510,54
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:42:28","AT1",511,54
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:42:32","POSSIBLE_TI",512,54
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:42:32","TI1",513,54
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:42:55","Restart",514,54
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:43:05","DANGER1",515,54
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:43:05","DAT1",516,54
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:43:31","BLOCKED1",517,55
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:43:33","PCR1",518,55
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:43:34","CR1",519,55
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:43:35","Ball Position",520,55
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:44:11","Restart",521,56
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:44:17","GOAL1",522,56
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:44:26","Scorer",523,56
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:44:37","CONF_GOAL1",524,56
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:45:13","KO2",525,57
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:45:13","SAFE2",526,57
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:45:14","SAFE2",527,57
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:45:20","AT2",528,57
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:45:21","Player_DATA_CONFIRMED",529,57
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:45:23","DANGER2",530,57
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:45:23","DAT2",531,57
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:45:49","SAFE1",532,57
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:45:51","AT2",533,57
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:46:10","DANGER2",534,57
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:46:10","DAT2",535,57
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:46:16","SAFE1",536,58
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:46:17","AT1",537,58
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:46:32","DANGER1",538,58
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:46:32","DAT1",539,58
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:46:37","PCR1",540,58
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:46:39","CR1",541,58
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:46:39","Ball Position",542,58
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:47:18","Restart",543,59
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:47:29","Possible Free Kick",544,59
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:47:33","SAFE2",546,59
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:47:33","O1",547,59
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:47:33","FK2",548,59
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:47:33","Ball Position",549,59
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:47:42","Restart",550,59
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:47:44","AT2",551,59
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:47:47","DANGER2",552,59
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:47:47","DAT2",553,59
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:47:50","SAFE1",554,59
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:48:00","AT1",555,59
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:48:08","POSSIBLE_TI",556,59
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:48:09","TI1",557,59
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:48:24","Restart",558,60
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:48:27","POSSIBLE_TI",559,60
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:48:29","TI2",560,60
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:48:38","Restart",561,60
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:48:49","SAFE2",562,60
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:48:50","AT2",563,60
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:48:52","SAFE1",564,60
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:48:55","AT1",565,60
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:48:58","DANGER1",566,60
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:48:58","DAT1",567,60
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:49:01","SAFE2",568,60
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:49:09","AT2",569,60
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:49:13","POSSIBLE_TI",570,61
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:49:14","TI1",571,61
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:49:30","Restart",572,61
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:49:40","SAFE1",573,61
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:49:41","AT1",574,61
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:49:43","DANGER1",575,61
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:49:43","DAT1",576,61
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:49:47","SAFE2",577,61
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:49:55","Possible Free Kick",578,61
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:49:56","F1",580,61
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:49:56","FK2",581,61
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:49:56","Ball Position",582,61
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:50:01","Restart",583,61
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:50:01","AT2",584,61
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:50:04","DANGER2",585,61
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:50:04","DAT2",586,61
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:50:14","SAFE1",587,62
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:50:14","AT1",588,62
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:50:22","SAFE2",589,62
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:50:37","AT2",590,62
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:50:39","DANGER2",591,62
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:50:39","DAT2",592,62
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:50:40","POSSIBLE_TI",593,62
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:50:40","TI2",594,62
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:50:51","Restart",595,62
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:51:07","SAFE2",596,62
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:51:08","AT2",597,62
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:51:13","DANGER2",598,63
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:51:13","DAT2",599,63
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:51:18","POSSIBLE_TI",600,63
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:51:19","TI2",601,63
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:51:41","Restart",602,63
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:51:47","POSSIBLE_TI",603,63
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:51:47","TI1",604,63
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:52:01","Restart",605,63
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:52:05","SAFE1",606,63
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:52:06","AT1",607,63
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:52:09","DANGER1",608,63
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:52:09","DAT1",609,63
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:52:13","GOAL1",610,64
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:52:18","Scorer",611,64
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:52:32","CONF_GOAL1",612,64
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:53:27","KO2",613,65
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:53:27","SAFE2",614,65
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:53:37","Player_DATA_CONFIRMED",615,65
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:53:37","AT1",616,65
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:53:44","SAFE2",617,65
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:53:45","AT2",618,65
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:53:55","Possible Free Kick",619,65
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:53:55","F1",621,65
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:53:55","FK2",622,65
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:53:55","DANGER2",623,65
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:53:55","DFK2",624,65
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:53:55","Ball Position",625,65
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:54:14","Restart",626,66
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:54:21","Assist",627,66
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:54:23","Possible Free Kick",628,66
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:54:25","SAFE1",630,66
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:54:25","O2",631,66
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:54:25","FK1",632,66
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:54:25","Ball Position",633,66
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:54:55","Restart",634,66
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:55:06","SAFE2",635,66
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:55:18","POSSIBLE_TI",636,67
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:55:19","TI2",637,67
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:55:19","Restart",638,67
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:55:28","AT2",639,67
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:55:46","SAFE1",640,67
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:55:46","AT1",641,67
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:55:52","SAFE2",642,67
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:55:58","AT2",643,67
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:56:07","DANGER2",644,67
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:56:07","DAT2",645,67
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:56:14","SAFE1",646,68
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:56:17","Possible Free Kick",647,68
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:56:19","F2",649,68
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:56:19","FK1",650,68
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:56:19","Ball Position",651,68
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:56:22","POSSIBLE_CARDS",652,68
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:56:23","YC2",653,68
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:56:24","CONF_YC2",654,68
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:56:31","Scorer",655,68
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:56:55","Player_DATA_CONFIRMED",656,68
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:56:56","Restart",657,68
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:56:57","AT1",658,68
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:57:04","POSSIBLE_TI",659,68
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:57:05","TI1",660,68
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:57:18","Restart",661,69
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:57:19","DANGER1",662,69
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:57:19","DAT1",663,69
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:57:22","POSSIBLE_TI",664,69
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:57:24","TI1",665,69
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:57:40","Restart",666,69
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:57:55","SAFE2",667,69
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:57:56","GK2",668,69
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:58:14","Restart",669,70
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:58:19","AT1",670,70
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:58:22","DANGER1",671,70
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:58:22","DAT1",672,70
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:58:24","SAFE2",673,70
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:58:26","AT2",674,70
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:58:27","Possible Free Kick",675,70
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:58:30","SAFE2",677,70
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:58:30","F1",678,70
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:58:30","FK2",679,70
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:58:30","Ball Position",680,70
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:58:38","Restart",681,70
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:58:41","AT2",682,70
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:58:57","DANGER2",683,70
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:58:57","DAT2",684,70
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:59:02","SHB2",685,70
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:59:04","SAFE1",686,70
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:59:05","GK1",687,70
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:59:40","Restart",688,71
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:59:43","AT1",689,71
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:59:48","SAFE2",690,71
+1116498,"Everton FC","Manchester United FC","04/21/2019 13:59:49","GK2",691,71
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:00:08","Restart",692,71
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:00:12","AT2",693,72
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:00:18","DANGER2",694,72
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:00:18","DAT2",695,72
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:00:21","SHB2",696,72
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:00:23","SAFE1",697,72
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:00:24","GK1",698,72
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:00:44","Restart",699,72
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:00:51","AT1",700,72
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:00:54","POSSIBLE_TI",701,72
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:00:54","TI2",702,72
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:01:07","Restart",703,72
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:01:16","SAFE2",704,73
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:01:16","POSSIBLE_TI",705,73
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:01:16","TI2",706,73
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:01:30","Restart",707,73
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:01:36","AT2",708,73
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:01:39","SAFE1",709,73
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:02:00","AT1",710,73
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:02:24","SAFE2",711,74
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:02:25","AT2",712,74
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:02:28","SAFE1",713,74
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:02:29","AT1",714,74
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:02:42","DANGER1",715,74
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:02:42","DAT1",716,74
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:02:52","SHG1",717,74
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:02:54","SAFE2",718,74
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:03:10","AT2",719,74
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:03:18","DANGER2",720,75
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:03:18","DAT2",721,75
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:03:26","SAFE1",722,75
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:03:37","AT2",723,75
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:03:37","DANGER2",724,75
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:03:37","DAT2",725,75
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:03:54","SHB2",726,75
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:03:55","SAFE1",727,75
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:03:56","GK1",728,75
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:04:20","SUB1",729,76
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:04:40","Player_DATA_CONFIRMED",730,76
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:05:11","SUB2",731,76
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:05:30","Restart",732,77
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:05:33","SAFE1",733,77
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:05:42","Player_DATA_CONFIRMED",734,77
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:05:44","AT1",735,77
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:05:52","Possible Free Kick",736,77
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:05:54","SAFE1",738,77
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:05:54","F2",739,77
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:05:54","FK1",740,77
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:05:54","Ball Position",741,77
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:06:14","Restart",742,78
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:06:27","AT1",743,78
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:06:34","SAFE2",744,78
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:06:35","AT2",745,78
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:06:37","DANGER2",746,78
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:06:37","DAT2",747,78
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:06:42","PCR2",748,78
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:06:42","CR2",749,78
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:06:43","Ball Position",750,78
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:07:03","Restart",751,78
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:07:15","POSSIBLE_TI",752,79
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:07:16","TI1",753,79
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:07:40","Restart",754,79
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:07:44","SAFE2",755,79
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:07:44","AT2",756,79
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:07:56","DANGER2",757,79
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:07:56","DAT2",758,79
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:08:02","SAFE1",759,79
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:08:05","AT1",760,79
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:08:08","DANGER1",761,79
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:08:08","DAT1",762,79
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:08:12","SAFE2",763,80
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:08:14","AT2",764,80
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:08:55","DANGER2",765,80
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:08:55","DAT2",766,80
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:09:03","SAFE2",767,80
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:09:05","POSSIBLE_TI",768,80
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:09:06","TI2",769,80
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:09:21","Restart",770,81
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:09:24","AT2",771,81
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:09:24","POSSIBLE_TI",772,81
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:09:25","TI2",773,81
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:09:31","Restart",774,81
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:09:42","SAFE1",775,81
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:09:42","AT1",776,81
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:10:00","DANGER1",777,81
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:10:00","DAT1",778,81
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:10:05","SHG1",779,81
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:10:07","SAFE2",780,81
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:10:15","AT2",781,82
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:10:24","DANGER2",782,82
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:10:24","DAT2",783,82
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:10:35","SAFE1",784,82
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:10:39","AT1",785,82
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:10:47","SAFE2",786,82
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:10:54","AT2",787,82
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:10:57","DANGER2",788,82
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:10:57","DAT2",789,82
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:11:07","SAFE1",790,82
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:11:08","Injury Break",791,82
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:13:15","SUB1",792,85
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:13:30","Restart",793,85
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:13:41","AT1",794,85
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:13:44","POSSIBLE_TI",795,85
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:13:44","TI2",796,85
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:13:55","Player_DATA_CONFIRMED",797,85
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:14:01","Restart",798,85
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:14:11","SAFE2",799,85
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:14:12","AT2",800,86
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:14:16","DANGER2",801,86
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:14:16","DAT2",802,86
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:14:34","SAFE1",803,86
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:14:35","AT2",804,86
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:14:38","DANGER2",805,86
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:14:38","DAT2",806,86
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:14:58","SHG2",807,86
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:15:00","SAFE1",808,86
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:15:19","AT1",809,87
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:15:29","SAFE2",810,87
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:15:40","AT2",811,87
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:15:55","SAFE1",812,87
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:16:17","SAFE2",813,88
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:16:19","AT2",814,88
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:16:36","DANGER2",815,88
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:16:36","DAT2",816,88
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:17:00","POSSIBLE_TI",817,88
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:17:01","TI2",818,88
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:17:22","Restart",819,89
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:17:30","SAFE2",820,89
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:17:35","AT2",821,89
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:17:42","DANGER2",822,89
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:17:42","DAT2",823,89
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:18:10","POSSIBLE_TI",824,89
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:18:10","TI2",825,89
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:18:25","Restart",826,90
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:18:53","SAFE2",827,90
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:18:54","AT2",828,90
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:18:59","DANGER2",829,90
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:18:59","DAT2",830,90
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:19:18","SAFE1",831,91
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:19:19","AT1",832,91
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:19:28","DANGER1",833,91
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:19:28","DAT1",834,91
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:19:31","Possible Free Kick",835,91
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:19:32","F2",837,91
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:19:32","FK1",838,91
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:19:32","DFK1",839,91
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:19:32","Ball Position",840,91
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:19:42","Extra Time",841,91
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:20:20","Restart",842,92
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:20:30","SAFE1",843,92
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:20:40","SAFE2",844,92
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:20:40","POSSIBLE_TI",845,92
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:20:41","TI2",846,92
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:20:51","Restart",847,92
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:20:55","AT1",848,92
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:20:59","SAFE2",849,92
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:21:10","AT2",850,92
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:21:22","SAFE1",851,93
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:21:24","AT1",852,93
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:21:28","DANGER1",853,93
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:21:28","DAT1",854,93
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:21:36","POSSIBLE_TI",855,93
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:21:37","TI1",856,93
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:22:03","Restart",857,93
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:22:11","PCR1",858,93
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:22:19","CR1",859,94
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:22:19","Ball Position",860,94
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:22:30","Restart",861,94
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:22:34","POSSIBLE_TI",862,94
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:22:34","TI1",863,94
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:22:46","Restart",864,94
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:22:48","SAFE1",865,94
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:22:56","AT1",866,94
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:23:19","POSSIBLE_TI",867,95
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:23:20","TI1",868,95
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:23:23","CLS",869,95
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:23:25","NO_TI",870,95
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:23:27","Stop RT2",871,95
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:23:27","Stop Game",872,95
+1116498,"Everton FC","Manchester United FC","04/21/2019 14:23:32","CONF_PERIOD_SCORE",873,94

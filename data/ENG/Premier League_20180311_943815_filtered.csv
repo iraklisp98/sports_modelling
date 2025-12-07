@@ -1,0 +1,823 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+943815,"Arsenal FC","Watford FC","03/11/2018 12:24:19","Transmission Online",0,0
+943815,"Arsenal FC","Watford FC","03/11/2018 12:31:19","Lineup changed",1,0
+943815,"Arsenal FC","Watford FC","03/11/2018 12:31:41","Scout in Stadion",2,0
+943815,"Arsenal FC","Watford FC","03/11/2018 13:24:33","GCC",3,0
+943815,"Arsenal FC","Watford FC","03/11/2018 13:26:16","Players are coming out",4,0
+943815,"Arsenal FC","Watford FC","03/11/2018 13:26:47","Jersey Changed",5,0
+943815,"Arsenal FC","Watford FC","03/11/2018 13:26:47","Jersey Changed",6,0
+943815,"Arsenal FC","Watford FC","03/11/2018 13:26:52","Shake hands",7,0
+943815,"Arsenal FC","Watford FC","03/11/2018 13:28:50","Flip coin",8,0
+943815,"Arsenal FC","Watford FC","03/11/2018 13:29:43","GCC",9,0
+943815,"Arsenal FC","Watford FC","03/11/2018 13:29:48","Game about to start",10,0
+943815,"Arsenal FC","Watford FC","03/11/2018 13:30:05","Start RT1 Team 2",11,1
+943815,"Arsenal FC","Watford FC","03/11/2018 13:30:21","SAFE2",12,1
+943815,"Arsenal FC","Watford FC","03/11/2018 13:30:32","SAFE1",13,1
+943815,"Arsenal FC","Watford FC","03/11/2018 13:30:54","AT1",14,1
+943815,"Arsenal FC","Watford FC","03/11/2018 13:30:57","DANGER1",15,1
+943815,"Arsenal FC","Watford FC","03/11/2018 13:30:57","DAT1",16,1
+943815,"Arsenal FC","Watford FC","03/11/2018 13:31:33","POSSIBLE_TI",17,2
+943815,"Arsenal FC","Watford FC","03/11/2018 13:31:35","TI2",18,2
+943815,"Arsenal FC","Watford FC","03/11/2018 13:31:37","SAFE2",19,2
+943815,"Arsenal FC","Watford FC","03/11/2018 13:31:58","Restart",20,2
+943815,"Arsenal FC","Watford FC","03/11/2018 13:32:02","SAFE1",21,2
+943815,"Arsenal FC","Watford FC","03/11/2018 13:32:04","AT1",22,2
+943815,"Arsenal FC","Watford FC","03/11/2018 13:32:04","DANGER1",23,2
+943815,"Arsenal FC","Watford FC","03/11/2018 13:32:04","DAT1",24,2
+943815,"Arsenal FC","Watford FC","03/11/2018 13:32:09","PCR1",25,3
+943815,"Arsenal FC","Watford FC","03/11/2018 13:32:12","SHG1",26,3
+943815,"Arsenal FC","Watford FC","03/11/2018 13:32:15","CR1",27,3
+943815,"Arsenal FC","Watford FC","03/11/2018 13:32:17","Ball Position",28,3
+943815,"Arsenal FC","Watford FC","03/11/2018 13:32:39","Restart",29,3
+943815,"Arsenal FC","Watford FC","03/11/2018 13:32:42","SAFE2",30,3
+943815,"Arsenal FC","Watford FC","03/11/2018 13:32:55","POSSIBLE_TI",31,3
+943815,"Arsenal FC","Watford FC","03/11/2018 13:32:57","TI1",32,3
+943815,"Arsenal FC","Watford FC","03/11/2018 13:32:57","SAFE1",33,3
+943815,"Arsenal FC","Watford FC","03/11/2018 13:33:06","Restart",34,4
+943815,"Arsenal FC","Watford FC","03/11/2018 13:33:22","AT1",35,4
+943815,"Arsenal FC","Watford FC","03/11/2018 13:33:24","DANGER1",36,4
+943815,"Arsenal FC","Watford FC","03/11/2018 13:33:24","DAT1",37,4
+943815,"Arsenal FC","Watford FC","03/11/2018 13:33:28","POSSIBLE_TI",38,4
+943815,"Arsenal FC","Watford FC","03/11/2018 13:33:28","TI1",39,4
+943815,"Arsenal FC","Watford FC","03/11/2018 13:33:32","Restart",40,4
+943815,"Arsenal FC","Watford FC","03/11/2018 13:33:56","POSSIBLE_TI",41,4
+943815,"Arsenal FC","Watford FC","03/11/2018 13:33:58","TI1",42,4
+943815,"Arsenal FC","Watford FC","03/11/2018 13:33:58","SAFE1",43,4
+943815,"Arsenal FC","Watford FC","03/11/2018 13:33:59","Restart",44,4
+943815,"Arsenal FC","Watford FC","03/11/2018 13:34:20","AT1",45,5
+943815,"Arsenal FC","Watford FC","03/11/2018 13:34:30","DANGER1",46,5
+943815,"Arsenal FC","Watford FC","03/11/2018 13:34:30","DAT1",47,5
+943815,"Arsenal FC","Watford FC","03/11/2018 13:34:57","SAFE2",48,5
+943815,"Arsenal FC","Watford FC","03/11/2018 13:34:58","GK2",49,5
+943815,"Arsenal FC","Watford FC","03/11/2018 13:35:21","Restart",50,6
+943815,"Arsenal FC","Watford FC","03/11/2018 13:35:26","AT2",51,6
+943815,"Arsenal FC","Watford FC","03/11/2018 13:35:28","DANGER2",52,6
+943815,"Arsenal FC","Watford FC","03/11/2018 13:35:28","DAT2",53,6
+943815,"Arsenal FC","Watford FC","03/11/2018 13:35:37","SHB2",54,6
+943815,"Arsenal FC","Watford FC","03/11/2018 13:35:38","SAFE1",55,6
+943815,"Arsenal FC","Watford FC","03/11/2018 13:35:39","GK1",56,6
+943815,"Arsenal FC","Watford FC","03/11/2018 13:35:49","Restart",57,6
+943815,"Arsenal FC","Watford FC","03/11/2018 13:35:56","SAFE2",58,6
+943815,"Arsenal FC","Watford FC","03/11/2018 13:36:03","Possible Free Kick",59,6
+943815,"Arsenal FC","Watford FC","03/11/2018 13:36:07","SAFE1",61,7
+943815,"Arsenal FC","Watford FC","03/11/2018 13:36:07","O2",62,7
+943815,"Arsenal FC","Watford FC","03/11/2018 13:36:07","FK1",63,7
+943815,"Arsenal FC","Watford FC","03/11/2018 13:36:07","Ball Position",64,7
+943815,"Arsenal FC","Watford FC","03/11/2018 13:36:09","Restart",65,7
+943815,"Arsenal FC","Watford FC","03/11/2018 13:36:34","AT1",66,7
+943815,"Arsenal FC","Watford FC","03/11/2018 13:36:37","Possible Free Kick",67,7
+943815,"Arsenal FC","Watford FC","03/11/2018 13:36:55","F2",69,7
+943815,"Arsenal FC","Watford FC","03/11/2018 13:36:55","FK1",70,7
+943815,"Arsenal FC","Watford FC","03/11/2018 13:36:55","DANGER1",71,7
+943815,"Arsenal FC","Watford FC","03/11/2018 13:36:55","DFK1",72,7
+943815,"Arsenal FC","Watford FC","03/11/2018 13:36:55","Ball Position",73,7
+943815,"Arsenal FC","Watford FC","03/11/2018 13:37:12","Restart",74,8
+943815,"Arsenal FC","Watford FC","03/11/2018 13:37:16","GOAL1",75,8
+943815,"Arsenal FC","Watford FC","03/11/2018 13:37:38","Scorer",76,8
+943815,"Arsenal FC","Watford FC","03/11/2018 13:37:59","CONF_GOAL1",77,8
+943815,"Arsenal FC","Watford FC","03/11/2018 13:38:01","KO2",78,8
+943815,"Arsenal FC","Watford FC","03/11/2018 13:38:01","SAFE2",79,8
+943815,"Arsenal FC","Watford FC","03/11/2018 13:38:03","Player_DATA_CONFIRMED",80,8
+943815,"Arsenal FC","Watford FC","03/11/2018 13:38:04","SAFE2",81,8
+943815,"Arsenal FC","Watford FC","03/11/2018 13:38:08","AT2",82,9
+943815,"Arsenal FC","Watford FC","03/11/2018 13:38:15","SAFE1",83,9
+943815,"Arsenal FC","Watford FC","03/11/2018 13:38:30","SAFE2",84,9
+943815,"Arsenal FC","Watford FC","03/11/2018 13:38:30","Assist",85,9
+943815,"Arsenal FC","Watford FC","03/11/2018 13:38:32","AT2",86,9
+943815,"Arsenal FC","Watford FC","03/11/2018 13:38:38","DANGER2",87,9
+943815,"Arsenal FC","Watford FC","03/11/2018 13:38:38","DAT2",88,9
+943815,"Arsenal FC","Watford FC","03/11/2018 13:38:49","PCR2",89,9
+943815,"Arsenal FC","Watford FC","03/11/2018 13:38:53","CR2",90,9
+943815,"Arsenal FC","Watford FC","03/11/2018 13:38:55","Ball Position",91,9
+943815,"Arsenal FC","Watford FC","03/11/2018 13:39:28","Restart",92,10
+943815,"Arsenal FC","Watford FC","03/11/2018 13:39:31","PCR2",93,10
+943815,"Arsenal FC","Watford FC","03/11/2018 13:39:34","CR2",94,10
+943815,"Arsenal FC","Watford FC","03/11/2018 13:39:36","Ball Position",95,10
+943815,"Arsenal FC","Watford FC","03/11/2018 13:39:53","Restart",96,10
+943815,"Arsenal FC","Watford FC","03/11/2018 13:39:58","SAFE1",97,10
+943815,"Arsenal FC","Watford FC","03/11/2018 13:39:59","GK1",98,10
+943815,"Arsenal FC","Watford FC","03/11/2018 13:40:05","Restart",99,10
+943815,"Arsenal FC","Watford FC","03/11/2018 13:40:07","AT1",100,11
+943815,"Arsenal FC","Watford FC","03/11/2018 13:40:09","DANGER1",101,11
+943815,"Arsenal FC","Watford FC","03/11/2018 13:40:09","DAT1",102,11
+943815,"Arsenal FC","Watford FC","03/11/2018 13:40:14","SAFE2",103,11
+943815,"Arsenal FC","Watford FC","03/11/2018 13:40:39","AT2",104,11
+943815,"Arsenal FC","Watford FC","03/11/2018 13:40:42","SAFE1",105,11
+943815,"Arsenal FC","Watford FC","03/11/2018 13:40:47","AT1",106,11
+943815,"Arsenal FC","Watford FC","03/11/2018 13:40:52","DANGER1",107,11
+943815,"Arsenal FC","Watford FC","03/11/2018 13:40:52","DAT1",108,11
+943815,"Arsenal FC","Watford FC","03/11/2018 13:40:56","SAFE2",109,11
+943815,"Arsenal FC","Watford FC","03/11/2018 13:41:06","AT2",110,12
+943815,"Arsenal FC","Watford FC","03/11/2018 13:41:06","DANGER2",111,12
+943815,"Arsenal FC","Watford FC","03/11/2018 13:41:06","DAT2",112,12
+943815,"Arsenal FC","Watford FC","03/11/2018 13:41:16","SHG2",113,12
+943815,"Arsenal FC","Watford FC","03/11/2018 13:41:19","SAFE1",114,12
+943815,"Arsenal FC","Watford FC","03/11/2018 13:41:27","Injury Break",115,12
+943815,"Arsenal FC","Watford FC","03/11/2018 13:42:26","Referee Ball",116,13
+943815,"Arsenal FC","Watford FC","03/11/2018 13:42:28","Restart",117,13
+943815,"Arsenal FC","Watford FC","03/11/2018 13:42:49","SAFE2",118,13
+943815,"Arsenal FC","Watford FC","03/11/2018 13:43:29","AT2",119,14
+943815,"Arsenal FC","Watford FC","03/11/2018 13:43:29","DANGER2",120,14
+943815,"Arsenal FC","Watford FC","03/11/2018 13:43:29","DAT2",121,14
+943815,"Arsenal FC","Watford FC","03/11/2018 13:43:32","SAFE1",122,14
+943815,"Arsenal FC","Watford FC","03/11/2018 13:43:47","AT1",123,14
+943815,"Arsenal FC","Watford FC","03/11/2018 13:43:50","Possible Free Kick",124,14
+943815,"Arsenal FC","Watford FC","03/11/2018 13:43:53","SAFE2",126,14
+943815,"Arsenal FC","Watford FC","03/11/2018 13:43:53","F1",127,14
+943815,"Arsenal FC","Watford FC","03/11/2018 13:43:53","FK2",128,14
+943815,"Arsenal FC","Watford FC","03/11/2018 13:43:53","Ball Position",129,14
+943815,"Arsenal FC","Watford FC","03/11/2018 13:43:56","Restart",130,14
+943815,"Arsenal FC","Watford FC","03/11/2018 13:44:08","SAFE2",131,15
+943815,"Arsenal FC","Watford FC","03/11/2018 13:44:09","SAFE1",132,15
+943815,"Arsenal FC","Watford FC","03/11/2018 13:44:11","AT1",133,15
+943815,"Arsenal FC","Watford FC","03/11/2018 13:44:13","DANGER1",134,15
+943815,"Arsenal FC","Watford FC","03/11/2018 13:44:13","DAT1",135,15
+943815,"Arsenal FC","Watford FC","03/11/2018 13:44:37","Injury Break",136,15
+943815,"Arsenal FC","Watford FC","03/11/2018 13:45:46","Referee Ball",137,16
+943815,"Arsenal FC","Watford FC","03/11/2018 13:45:59","Restart",138,16
+943815,"Arsenal FC","Watford FC","03/11/2018 13:46:01","SAFE1",139,16
+943815,"Arsenal FC","Watford FC","03/11/2018 13:46:28","AT1",140,17
+943815,"Arsenal FC","Watford FC","03/11/2018 13:46:32","DANGER1",141,17
+943815,"Arsenal FC","Watford FC","03/11/2018 13:46:32","DAT1",142,17
+943815,"Arsenal FC","Watford FC","03/11/2018 13:46:48","SAFE2",143,17
+943815,"Arsenal FC","Watford FC","03/11/2018 13:46:49","GK2",144,17
+943815,"Arsenal FC","Watford FC","03/11/2018 13:47:20","Restart",145,18
+943815,"Arsenal FC","Watford FC","03/11/2018 13:47:35","Possible Free Kick",146,18
+943815,"Arsenal FC","Watford FC","03/11/2018 13:47:44","F2",148,18
+943815,"Arsenal FC","Watford FC","03/11/2018 13:47:44","FK1",149,18
+943815,"Arsenal FC","Watford FC","03/11/2018 13:47:44","DANGER1",150,18
+943815,"Arsenal FC","Watford FC","03/11/2018 13:47:44","DFK1",151,18
+943815,"Arsenal FC","Watford FC","03/11/2018 13:47:44","Ball Position",152,18
+943815,"Arsenal FC","Watford FC","03/11/2018 13:47:51","Restart",153,18
+943815,"Arsenal FC","Watford FC","03/11/2018 13:47:55","SAFE1",154,18
+943815,"Arsenal FC","Watford FC","03/11/2018 13:48:00","AT1",155,18
+943815,"Arsenal FC","Watford FC","03/11/2018 13:48:16","DANGER1",156,19
+943815,"Arsenal FC","Watford FC","03/11/2018 13:48:16","DAT1",157,19
+943815,"Arsenal FC","Watford FC","03/11/2018 13:48:29","SHB1",158,19
+943815,"Arsenal FC","Watford FC","03/11/2018 13:48:30","SAFE2",159,19
+943815,"Arsenal FC","Watford FC","03/11/2018 13:48:31","GK2",160,19
+943815,"Arsenal FC","Watford FC","03/11/2018 13:49:00","Restart",161,19
+943815,"Arsenal FC","Watford FC","03/11/2018 13:49:19","Possible Free Kick",162,20
+943815,"Arsenal FC","Watford FC","03/11/2018 13:49:22","F1",164,20
+943815,"Arsenal FC","Watford FC","03/11/2018 13:49:22","FK2",165,20
+943815,"Arsenal FC","Watford FC","03/11/2018 13:49:22","DANGER2",166,20
+943815,"Arsenal FC","Watford FC","03/11/2018 13:49:22","DFK2",167,20
+943815,"Arsenal FC","Watford FC","03/11/2018 13:49:22","Ball Position",168,20
+943815,"Arsenal FC","Watford FC","03/11/2018 13:49:54","Restart",169,20
+943815,"Arsenal FC","Watford FC","03/11/2018 13:50:02","SAFE1",170,20
+943815,"Arsenal FC","Watford FC","03/11/2018 13:50:03","GK1",171,20
+943815,"Arsenal FC","Watford FC","03/11/2018 13:50:14","Restart",172,21
+943815,"Arsenal FC","Watford FC","03/11/2018 13:50:21","POSSIBLE_TI",173,21
+943815,"Arsenal FC","Watford FC","03/11/2018 13:50:22","TI1",174,21
+943815,"Arsenal FC","Watford FC","03/11/2018 13:50:33","Restart",175,21
+943815,"Arsenal FC","Watford FC","03/11/2018 13:50:38","SAFE2",176,21
+943815,"Arsenal FC","Watford FC","03/11/2018 13:50:47","SAFE1",177,21
+943815,"Arsenal FC","Watford FC","03/11/2018 13:51:06","AT2",178,22
+943815,"Arsenal FC","Watford FC","03/11/2018 13:51:10","DANGER2",179,22
+943815,"Arsenal FC","Watford FC","03/11/2018 13:51:10","DAT2",180,22
+943815,"Arsenal FC","Watford FC","03/11/2018 13:51:12","BREAKAWAY2",181,22
+943815,"Arsenal FC","Watford FC","03/11/2018 13:51:14","DANGER2",182,22
+943815,"Arsenal FC","Watford FC","03/11/2018 13:51:30","POSSIBLE_TI",183,22
+943815,"Arsenal FC","Watford FC","03/11/2018 13:51:31","TI2",184,22
+943815,"Arsenal FC","Watford FC","03/11/2018 13:51:54","Restart",185,22
+943815,"Arsenal FC","Watford FC","03/11/2018 13:52:13","SAFE1",186,23
+943815,"Arsenal FC","Watford FC","03/11/2018 13:52:16","AT1",187,23
+943815,"Arsenal FC","Watford FC","03/11/2018 13:52:26","DANGER1",188,23
+943815,"Arsenal FC","Watford FC","03/11/2018 13:52:26","DAT1",189,23
+943815,"Arsenal FC","Watford FC","03/11/2018 13:52:34","SAFE2",190,23
+943815,"Arsenal FC","Watford FC","03/11/2018 13:52:35","GK2",191,23
+943815,"Arsenal FC","Watford FC","03/11/2018 13:52:56","Restart",192,23
+943815,"Arsenal FC","Watford FC","03/11/2018 13:53:12","SAFE1",193,24
+943815,"Arsenal FC","Watford FC","03/11/2018 13:53:27","SAFE2",194,24
+943815,"Arsenal FC","Watford FC","03/11/2018 13:53:31","AT2",195,24
+943815,"Arsenal FC","Watford FC","03/11/2018 13:53:40","DANGER2",196,24
+943815,"Arsenal FC","Watford FC","03/11/2018 13:53:40","DAT2",197,24
+943815,"Arsenal FC","Watford FC","03/11/2018 13:53:47","SAFE2",198,24
+943815,"Arsenal FC","Watford FC","03/11/2018 13:54:10","Possible Free Kick",199,25
+943815,"Arsenal FC","Watford FC","03/11/2018 13:54:17","F1",201,25
+943815,"Arsenal FC","Watford FC","03/11/2018 13:54:17","FK2",202,25
+943815,"Arsenal FC","Watford FC","03/11/2018 13:54:17","Ball Position",203,25
+943815,"Arsenal FC","Watford FC","03/11/2018 13:54:34","Restart",204,25
+943815,"Arsenal FC","Watford FC","03/11/2018 13:54:35","AT2",205,25
+943815,"Arsenal FC","Watford FC","03/11/2018 13:54:45","DANGER2",206,25
+943815,"Arsenal FC","Watford FC","03/11/2018 13:54:45","DAT2",207,25
+943815,"Arsenal FC","Watford FC","03/11/2018 13:54:59","Possible Free Kick",208,25
+943815,"Arsenal FC","Watford FC","03/11/2018 13:55:12","F1",210,26
+943815,"Arsenal FC","Watford FC","03/11/2018 13:55:12","FK2",211,26
+943815,"Arsenal FC","Watford FC","03/11/2018 13:55:12","DFK2",212,26
+943815,"Arsenal FC","Watford FC","03/11/2018 13:55:12","Ball Position",213,26
+943815,"Arsenal FC","Watford FC","03/11/2018 13:55:59","Restart",214,26
+943815,"Arsenal FC","Watford FC","03/11/2018 13:56:07","SHG2",215,27
+943815,"Arsenal FC","Watford FC","03/11/2018 13:56:09","SHB2",216,27
+943815,"Arsenal FC","Watford FC","03/11/2018 13:56:11","SAFE1",217,27
+943815,"Arsenal FC","Watford FC","03/11/2018 13:56:12","GK1",218,27
+943815,"Arsenal FC","Watford FC","03/11/2018 13:56:24","Restart",219,27
+943815,"Arsenal FC","Watford FC","03/11/2018 13:56:30","AT1",220,27
+943815,"Arsenal FC","Watford FC","03/11/2018 13:56:30","DANGER1",221,27
+943815,"Arsenal FC","Watford FC","03/11/2018 13:56:30","DAT1",222,27
+943815,"Arsenal FC","Watford FC","03/11/2018 13:56:56","SHG1",223,27
+943815,"Arsenal FC","Watford FC","03/11/2018 13:57:17","POSSIBLE_TI",224,28
+943815,"Arsenal FC","Watford FC","03/11/2018 13:57:18","TI2",225,28
+943815,"Arsenal FC","Watford FC","03/11/2018 13:57:35","Restart",226,28
+943815,"Arsenal FC","Watford FC","03/11/2018 13:57:41","SAFE1",227,28
+943815,"Arsenal FC","Watford FC","03/11/2018 13:58:04","AT1",228,28
+943815,"Arsenal FC","Watford FC","03/11/2018 13:58:15","DANGER1",229,29
+943815,"Arsenal FC","Watford FC","03/11/2018 13:58:15","DAT1",230,29
+943815,"Arsenal FC","Watford FC","03/11/2018 13:58:41","SAFE2",231,29
+943815,"Arsenal FC","Watford FC","03/11/2018 13:59:26","AT2",232,30
+943815,"Arsenal FC","Watford FC","03/11/2018 13:59:28","DANGER2",233,30
+943815,"Arsenal FC","Watford FC","03/11/2018 13:59:28","DAT2",234,30
+943815,"Arsenal FC","Watford FC","03/11/2018 13:59:33","Possible Free Kick",235,30
+943815,"Arsenal FC","Watford FC","03/11/2018 13:59:39","SAFE1",237,30
+943815,"Arsenal FC","Watford FC","03/11/2018 13:59:39","O2",238,30
+943815,"Arsenal FC","Watford FC","03/11/2018 13:59:39","FK1",239,30
+943815,"Arsenal FC","Watford FC","03/11/2018 13:59:39","Ball Position",240,30
+943815,"Arsenal FC","Watford FC","03/11/2018 13:59:44","Restart",241,30
+943815,"Arsenal FC","Watford FC","03/11/2018 13:59:50","AT1",242,30
+943815,"Arsenal FC","Watford FC","03/11/2018 14:00:07","POSSIBLE_TI",243,31
+943815,"Arsenal FC","Watford FC","03/11/2018 14:00:08","TI2",244,31
+943815,"Arsenal FC","Watford FC","03/11/2018 14:00:47","PPEN",245,31
+943815,"Arsenal FC","Watford FC","03/11/2018 14:00:47","DANGER1",246,31
+943815,"Arsenal FC","Watford FC","03/11/2018 14:00:47","PPEN1",247,31
+943815,"Arsenal FC","Watford FC","03/11/2018 14:00:51","No PEN",248,31
+943815,"Arsenal FC","Watford FC","03/11/2018 14:01:14","Restart",249,32
+943815,"Arsenal FC","Watford FC","03/11/2018 14:01:17","SAFE1",250,32
+943815,"Arsenal FC","Watford FC","03/11/2018 14:01:27","AT1",251,32
+943815,"Arsenal FC","Watford FC","03/11/2018 14:01:33","DANGER1",252,32
+943815,"Arsenal FC","Watford FC","03/11/2018 14:01:33","DAT1",253,32
+943815,"Arsenal FC","Watford FC","03/11/2018 14:01:39","SAFE2",254,32
+943815,"Arsenal FC","Watford FC","03/11/2018 14:01:40","GK2",255,32
+943815,"Arsenal FC","Watford FC","03/11/2018 14:01:52","Restart",256,32
+943815,"Arsenal FC","Watford FC","03/11/2018 14:02:05","AT2",257,33
+943815,"Arsenal FC","Watford FC","03/11/2018 14:02:05","DANGER2",258,33
+943815,"Arsenal FC","Watford FC","03/11/2018 14:02:05","DAT2",259,33
+943815,"Arsenal FC","Watford FC","03/11/2018 14:02:08","Possible Free Kick",260,33
+943815,"Arsenal FC","Watford FC","03/11/2018 14:02:15","SAFE1",262,33
+943815,"Arsenal FC","Watford FC","03/11/2018 14:02:15","O2",263,33
+943815,"Arsenal FC","Watford FC","03/11/2018 14:02:15","FK1",264,33
+943815,"Arsenal FC","Watford FC","03/11/2018 14:02:15","Ball Position",265,33
+943815,"Arsenal FC","Watford FC","03/11/2018 14:02:26","Restart",266,33
+943815,"Arsenal FC","Watford FC","03/11/2018 14:02:56","AT1",267,33
+943815,"Arsenal FC","Watford FC","03/11/2018 14:03:07","DANGER1",268,34
+943815,"Arsenal FC","Watford FC","03/11/2018 14:03:07","DAT1",269,34
+943815,"Arsenal FC","Watford FC","03/11/2018 14:03:14","Possible Free Kick",270,34
+943815,"Arsenal FC","Watford FC","03/11/2018 14:03:19","SAFE2",272,34
+943815,"Arsenal FC","Watford FC","03/11/2018 14:03:19","O1",273,34
+943815,"Arsenal FC","Watford FC","03/11/2018 14:03:19","FK2",274,34
+943815,"Arsenal FC","Watford FC","03/11/2018 14:03:19","Ball Position",275,34
+943815,"Arsenal FC","Watford FC","03/11/2018 14:03:37","Restart",276,34
+943815,"Arsenal FC","Watford FC","03/11/2018 14:03:46","Possible Free Kick",277,34
+943815,"Arsenal FC","Watford FC","03/11/2018 14:03:54","SAFE1",279,34
+943815,"Arsenal FC","Watford FC","03/11/2018 14:03:54","F2",280,34
+943815,"Arsenal FC","Watford FC","03/11/2018 14:03:54","FK1",281,34
+943815,"Arsenal FC","Watford FC","03/11/2018 14:03:54","Ball Position",282,34
+943815,"Arsenal FC","Watford FC","03/11/2018 14:03:59","Restart",283,34
+943815,"Arsenal FC","Watford FC","03/11/2018 14:04:08","AT1",284,35
+943815,"Arsenal FC","Watford FC","03/11/2018 14:04:13","DANGER1",285,35
+943815,"Arsenal FC","Watford FC","03/11/2018 14:04:13","DAT1",286,35
+943815,"Arsenal FC","Watford FC","03/11/2018 14:04:29","SAFE2",287,35
+943815,"Arsenal FC","Watford FC","03/11/2018 14:04:36","AT1",288,35
+943815,"Arsenal FC","Watford FC","03/11/2018 14:04:38","SAFE1",289,35
+943815,"Arsenal FC","Watford FC","03/11/2018 14:05:02","AT1",290,35
+943815,"Arsenal FC","Watford FC","03/11/2018 14:05:06","Possible Free Kick",291,36
+943815,"Arsenal FC","Watford FC","03/11/2018 14:05:16","F2",293,36
+943815,"Arsenal FC","Watford FC","03/11/2018 14:05:16","FK1",294,36
+943815,"Arsenal FC","Watford FC","03/11/2018 14:05:16","DANGER1",295,36
+943815,"Arsenal FC","Watford FC","03/11/2018 14:05:16","DFK1",296,36
+943815,"Arsenal FC","Watford FC","03/11/2018 14:05:16","Ball Position",297,36
+943815,"Arsenal FC","Watford FC","03/11/2018 14:05:21","Restart",298,36
+943815,"Arsenal FC","Watford FC","03/11/2018 14:05:37","POSSIBLE_TI",299,36
+943815,"Arsenal FC","Watford FC","03/11/2018 14:05:39","TI1",300,36
+943815,"Arsenal FC","Watford FC","03/11/2018 14:05:39","SAFE1",301,36
+943815,"Arsenal FC","Watford FC","03/11/2018 14:05:45","Restart",302,36
+943815,"Arsenal FC","Watford FC","03/11/2018 14:05:57","AT1",303,36
+943815,"Arsenal FC","Watford FC","03/11/2018 14:06:02","SAFE2",304,36
+943815,"Arsenal FC","Watford FC","03/11/2018 14:06:10","AT2",305,37
+943815,"Arsenal FC","Watford FC","03/11/2018 14:06:21","AT1",306,37
+943815,"Arsenal FC","Watford FC","03/11/2018 14:06:21","DANGER1",307,37
+943815,"Arsenal FC","Watford FC","03/11/2018 14:06:21","DAT1",308,37
+943815,"Arsenal FC","Watford FC","03/11/2018 14:06:52","SAFE2",309,37
+943815,"Arsenal FC","Watford FC","03/11/2018 14:06:54","AT2",310,37
+943815,"Arsenal FC","Watford FC","03/11/2018 14:06:58","DANGER2",311,37
+943815,"Arsenal FC","Watford FC","03/11/2018 14:06:58","DAT2",312,37
+943815,"Arsenal FC","Watford FC","03/11/2018 14:07:06","POSSIBLE_TI",313,38
+943815,"Arsenal FC","Watford FC","03/11/2018 14:07:07","TI2",314,38
+943815,"Arsenal FC","Watford FC","03/11/2018 14:07:34","Restart",315,38
+943815,"Arsenal FC","Watford FC","03/11/2018 14:07:39","SAFE1",316,38
+943815,"Arsenal FC","Watford FC","03/11/2018 14:07:48","AT1",317,38
+943815,"Arsenal FC","Watford FC","03/11/2018 14:07:52","SAFE2",318,38
+943815,"Arsenal FC","Watford FC","03/11/2018 14:08:20","Possible Free Kick",319,39
+943815,"Arsenal FC","Watford FC","03/11/2018 14:08:23","O1",321,39
+943815,"Arsenal FC","Watford FC","03/11/2018 14:08:23","FK2",322,39
+943815,"Arsenal FC","Watford FC","03/11/2018 14:08:23","Ball Position",323,39
+943815,"Arsenal FC","Watford FC","03/11/2018 14:08:40","Restart",324,39
+943815,"Arsenal FC","Watford FC","03/11/2018 14:08:47","AT2",325,39
+943815,"Arsenal FC","Watford FC","03/11/2018 14:09:01","SAFE2",326,39
+943815,"Arsenal FC","Watford FC","03/11/2018 14:09:09","AT2",327,40
+943815,"Arsenal FC","Watford FC","03/11/2018 14:09:13","DANGER2",328,40
+943815,"Arsenal FC","Watford FC","03/11/2018 14:09:13","DAT2",329,40
+943815,"Arsenal FC","Watford FC","03/11/2018 14:10:03","POSSIBLE_TI",330,40
+943815,"Arsenal FC","Watford FC","03/11/2018 14:10:04","TI2",331,40
+943815,"Arsenal FC","Watford FC","03/11/2018 14:10:22","Restart",332,41
+943815,"Arsenal FC","Watford FC","03/11/2018 14:10:28","PCR2",333,41
+943815,"Arsenal FC","Watford FC","03/11/2018 14:10:31","CR2",334,41
+943815,"Arsenal FC","Watford FC","03/11/2018 14:10:33","Ball Position",335,41
+943815,"Arsenal FC","Watford FC","03/11/2018 14:10:50","Restart",336,41
+943815,"Arsenal FC","Watford FC","03/11/2018 14:11:01","PCR2",337,41
+943815,"Arsenal FC","Watford FC","03/11/2018 14:11:07","CR2",338,42
+943815,"Arsenal FC","Watford FC","03/11/2018 14:11:08","Ball Position",339,42
+943815,"Arsenal FC","Watford FC","03/11/2018 14:11:19","Restart",340,42
+943815,"Arsenal FC","Watford FC","03/11/2018 14:11:49","SAFE1",341,42
+943815,"Arsenal FC","Watford FC","03/11/2018 14:11:57","AT1",342,42
+943815,"Arsenal FC","Watford FC","03/11/2018 14:12:00","DANGER1",343,42
+943815,"Arsenal FC","Watford FC","03/11/2018 14:12:00","DAT1",344,42
+943815,"Arsenal FC","Watford FC","03/11/2018 14:12:12","POSSIBLE_TI",345,43
+943815,"Arsenal FC","Watford FC","03/11/2018 14:12:13","TI1",346,43
+943815,"Arsenal FC","Watford FC","03/11/2018 14:12:17","Restart",347,43
+943815,"Arsenal FC","Watford FC","03/11/2018 14:12:33","POSSIBLE_TI",348,43
+943815,"Arsenal FC","Watford FC","03/11/2018 14:12:36","TI2",349,43
+943815,"Arsenal FC","Watford FC","03/11/2018 14:12:50","Restart",350,43
+943815,"Arsenal FC","Watford FC","03/11/2018 14:12:57","SAFE2",351,43
+943815,"Arsenal FC","Watford FC","03/11/2018 14:12:58","AT2",352,43
+943815,"Arsenal FC","Watford FC","03/11/2018 14:13:02","DANGER2",353,43
+943815,"Arsenal FC","Watford FC","03/11/2018 14:13:02","DAT2",354,43
+943815,"Arsenal FC","Watford FC","03/11/2018 14:13:07","SAFE1",355,44
+943815,"Arsenal FC","Watford FC","03/11/2018 14:13:47","POSSIBLE_TI",356,44
+943815,"Arsenal FC","Watford FC","03/11/2018 14:13:49","TI1",357,44
+943815,"Arsenal FC","Watford FC","03/11/2018 14:14:01","Restart",358,44
+943815,"Arsenal FC","Watford FC","03/11/2018 14:14:26","AT1",359,45
+943815,"Arsenal FC","Watford FC","03/11/2018 14:14:26","DANGER1",360,45
+943815,"Arsenal FC","Watford FC","03/11/2018 14:14:26","DAT1",361,45
+943815,"Arsenal FC","Watford FC","03/11/2018 14:14:30","SAFE2",362,45
+943815,"Arsenal FC","Watford FC","03/11/2018 14:14:49","AT1",363,45
+943815,"Arsenal FC","Watford FC","03/11/2018 14:14:49","DANGER1",364,45
+943815,"Arsenal FC","Watford FC","03/11/2018 14:14:49","DAT1",365,45
+943815,"Arsenal FC","Watford FC","03/11/2018 14:14:54","Possible Free Kick",366,45
+943815,"Arsenal FC","Watford FC","03/11/2018 14:14:57","SAFE2",368,45
+943815,"Arsenal FC","Watford FC","03/11/2018 14:14:57","O1",369,45
+943815,"Arsenal FC","Watford FC","03/11/2018 14:14:57","FK2",370,45
+943815,"Arsenal FC","Watford FC","03/11/2018 14:14:57","Ball Position",371,45
+943815,"Arsenal FC","Watford FC","03/11/2018 14:15:11","Extra Time",372,46
+943815,"Arsenal FC","Watford FC","03/11/2018 14:15:22","Restart",373,46
+943815,"Arsenal FC","Watford FC","03/11/2018 14:15:37","POSSIBLE_TI",374,46
+943815,"Arsenal FC","Watford FC","03/11/2018 14:15:40","TI2",375,46
+943815,"Arsenal FC","Watford FC","03/11/2018 14:15:44","Restart",376,46
+943815,"Arsenal FC","Watford FC","03/11/2018 14:15:50","Possible Free Kick",377,46
+943815,"Arsenal FC","Watford FC","03/11/2018 14:15:55","F1",379,46
+943815,"Arsenal FC","Watford FC","03/11/2018 14:15:55","FK2",380,46
+943815,"Arsenal FC","Watford FC","03/11/2018 14:15:55","DANGER2",381,46
+943815,"Arsenal FC","Watford FC","03/11/2018 14:15:55","DFK2",382,46
+943815,"Arsenal FC","Watford FC","03/11/2018 14:15:55","Ball Position",383,46
+943815,"Arsenal FC","Watford FC","03/11/2018 14:16:22","Restart",384,47
+943815,"Arsenal FC","Watford FC","03/11/2018 14:16:42","PCR2",385,47
+943815,"Arsenal FC","Watford FC","03/11/2018 14:16:47","SHG2",386,47
+943815,"Arsenal FC","Watford FC","03/11/2018 14:16:48","CR2",387,47
+943815,"Arsenal FC","Watford FC","03/11/2018 14:16:50","Ball Position",388,47
+943815,"Arsenal FC","Watford FC","03/11/2018 14:17:21","Restart",389,48
+943815,"Arsenal FC","Watford FC","03/11/2018 14:17:34","Stop RT1",390,48
+943815,"Arsenal FC","Watford FC","03/11/2018 14:17:44","CONF_PERIOD_SCORE",391,45
+943815,"Arsenal FC","Watford FC","03/11/2018 14:31:01","Players are coming out",392,45
+943815,"Arsenal FC","Watford FC","03/11/2018 14:31:57","Game about to start",393,45
+943815,"Arsenal FC","Watford FC","03/11/2018 14:32:31","Start RT2 Team 1",394,46
+943815,"Arsenal FC","Watford FC","03/11/2018 14:32:36","SAFE1",395,46
+943815,"Arsenal FC","Watford FC","03/11/2018 14:32:49","AT1",396,46
+943815,"Arsenal FC","Watford FC","03/11/2018 14:32:57","DANGER1",397,46
+943815,"Arsenal FC","Watford FC","03/11/2018 14:32:57","DAT1",398,46
+943815,"Arsenal FC","Watford FC","03/11/2018 14:32:58","POSSIBLE_TI",399,46
+943815,"Arsenal FC","Watford FC","03/11/2018 14:32:59","TI1",400,46
+943815,"Arsenal FC","Watford FC","03/11/2018 14:33:06","Restart",401,46
+943815,"Arsenal FC","Watford FC","03/11/2018 14:33:31","SHG1",402,46
+943815,"Arsenal FC","Watford FC","03/11/2018 14:33:32","SAFE2",403,47
+943815,"Arsenal FC","Watford FC","03/11/2018 14:33:51","SAFE1",404,47
+943815,"Arsenal FC","Watford FC","03/11/2018 14:33:57","AT2",405,47
+943815,"Arsenal FC","Watford FC","03/11/2018 14:33:57","DANGER2",406,47
+943815,"Arsenal FC","Watford FC","03/11/2018 14:33:57","DAT2",407,47
+943815,"Arsenal FC","Watford FC","03/11/2018 14:34:00","POSSIBLE_TI",408,47
+943815,"Arsenal FC","Watford FC","03/11/2018 14:34:01","TI2",409,47
+943815,"Arsenal FC","Watford FC","03/11/2018 14:34:23","Restart",410,47
+943815,"Arsenal FC","Watford FC","03/11/2018 14:34:32","POSSIBLE_TI",411,48
+943815,"Arsenal FC","Watford FC","03/11/2018 14:34:33","TI2",412,48
+943815,"Arsenal FC","Watford FC","03/11/2018 14:34:54","Restart",413,48
+943815,"Arsenal FC","Watford FC","03/11/2018 14:35:04","PCR2",414,48
+943815,"Arsenal FC","Watford FC","03/11/2018 14:35:09","SHB2",415,48
+943815,"Arsenal FC","Watford FC","03/11/2018 14:35:10","CR2",416,48
+943815,"Arsenal FC","Watford FC","03/11/2018 14:35:13","Ball Position",417,48
+943815,"Arsenal FC","Watford FC","03/11/2018 14:35:42","Restart",418,49
+943815,"Arsenal FC","Watford FC","03/11/2018 14:36:00","POSSIBLE_TI",419,49
+943815,"Arsenal FC","Watford FC","03/11/2018 14:36:01","TI1",420,49
+943815,"Arsenal FC","Watford FC","03/11/2018 14:36:09","Restart",421,49
+943815,"Arsenal FC","Watford FC","03/11/2018 14:36:12","POSSIBLE_TI",422,49
+943815,"Arsenal FC","Watford FC","03/11/2018 14:36:13","TI1",423,49
+943815,"Arsenal FC","Watford FC","03/11/2018 14:36:20","Restart",424,49
+943815,"Arsenal FC","Watford FC","03/11/2018 14:36:28","SAFE2",425,49
+943815,"Arsenal FC","Watford FC","03/11/2018 14:36:33","SAFE1",426,50
+943815,"Arsenal FC","Watford FC","03/11/2018 14:36:37","AT1",427,50
+943815,"Arsenal FC","Watford FC","03/11/2018 14:36:41","DANGER1",428,50
+943815,"Arsenal FC","Watford FC","03/11/2018 14:36:41","DAT1",429,50
+943815,"Arsenal FC","Watford FC","03/11/2018 14:36:48","SAFE2",430,50
+943815,"Arsenal FC","Watford FC","03/11/2018 14:36:49","GK2",431,50
+943815,"Arsenal FC","Watford FC","03/11/2018 14:37:11","Restart",432,50
+943815,"Arsenal FC","Watford FC","03/11/2018 14:37:22","AT2",433,50
+943815,"Arsenal FC","Watford FC","03/11/2018 14:37:26","DANGER2",434,50
+943815,"Arsenal FC","Watford FC","03/11/2018 14:37:26","DAT2",435,50
+943815,"Arsenal FC","Watford FC","03/11/2018 14:37:31","PCR2",436,51
+943815,"Arsenal FC","Watford FC","03/11/2018 14:37:39","CR2",437,51
+943815,"Arsenal FC","Watford FC","03/11/2018 14:37:41","Ball Position",438,51
+943815,"Arsenal FC","Watford FC","03/11/2018 14:38:04","Restart",439,51
+943815,"Arsenal FC","Watford FC","03/11/2018 14:38:24","SAFE1",440,51
+943815,"Arsenal FC","Watford FC","03/11/2018 14:38:52","AT1",441,52
+943815,"Arsenal FC","Watford FC","03/11/2018 14:39:04","SAFE2",442,52
+943815,"Arsenal FC","Watford FC","03/11/2018 14:39:08","AT2",443,52
+943815,"Arsenal FC","Watford FC","03/11/2018 14:39:08","DANGER2",444,52
+943815,"Arsenal FC","Watford FC","03/11/2018 14:39:08","DAT2",445,52
+943815,"Arsenal FC","Watford FC","03/11/2018 14:39:09","BREAKAWAY2",446,52
+943815,"Arsenal FC","Watford FC","03/11/2018 14:39:14","POSSIBLE_TI",447,52
+943815,"Arsenal FC","Watford FC","03/11/2018 14:39:15","TI2",448,52
+943815,"Arsenal FC","Watford FC","03/11/2018 14:39:17","Restart",449,52
+943815,"Arsenal FC","Watford FC","03/11/2018 14:39:24","POSSIBLE_TI",450,52
+943815,"Arsenal FC","Watford FC","03/11/2018 14:39:25","TI2",451,52
+943815,"Arsenal FC","Watford FC","03/11/2018 14:39:47","Restart",452,53
+943815,"Arsenal FC","Watford FC","03/11/2018 14:40:05","SAFE1",453,53
+943815,"Arsenal FC","Watford FC","03/11/2018 14:40:07","GK1",454,53
+943815,"Arsenal FC","Watford FC","03/11/2018 14:40:25","Restart",455,53
+943815,"Arsenal FC","Watford FC","03/11/2018 14:40:29","SAFE2",456,53
+943815,"Arsenal FC","Watford FC","03/11/2018 14:40:32","AT2",457,54
+943815,"Arsenal FC","Watford FC","03/11/2018 14:40:32","DANGER2",458,54
+943815,"Arsenal FC","Watford FC","03/11/2018 14:40:32","DAT2",459,54
+943815,"Arsenal FC","Watford FC","03/11/2018 14:40:57","POSSIBLE_TI",460,54
+943815,"Arsenal FC","Watford FC","03/11/2018 14:40:58","TI2",461,54
+943815,"Arsenal FC","Watford FC","03/11/2018 14:41:12","Restart",462,54
+943815,"Arsenal FC","Watford FC","03/11/2018 14:41:23","SAFE1",463,54
+943815,"Arsenal FC","Watford FC","03/11/2018 14:41:28","AT1",464,54
+943815,"Arsenal FC","Watford FC","03/11/2018 14:41:37","Possible Free Kick",465,55
+943815,"Arsenal FC","Watford FC","03/11/2018 14:41:47","F2",467,55
+943815,"Arsenal FC","Watford FC","03/11/2018 14:41:47","FK1",468,55
+943815,"Arsenal FC","Watford FC","03/11/2018 14:41:47","DANGER1",469,55
+943815,"Arsenal FC","Watford FC","03/11/2018 14:41:47","DFK1",470,55
+943815,"Arsenal FC","Watford FC","03/11/2018 14:41:47","Ball Position",471,55
+943815,"Arsenal FC","Watford FC","03/11/2018 14:41:49","Restart",472,55
+943815,"Arsenal FC","Watford FC","03/11/2018 14:42:21","AT2",473,55
+943815,"Arsenal FC","Watford FC","03/11/2018 14:42:21","DANGER2",474,55
+943815,"Arsenal FC","Watford FC","03/11/2018 14:42:21","DAT2",475,55
+943815,"Arsenal FC","Watford FC","03/11/2018 14:42:22","Possible Free Kick",476,55
+943815,"Arsenal FC","Watford FC","03/11/2018 14:42:23","POSSIBLE_CARDS",478,55
+943815,"Arsenal FC","Watford FC","03/11/2018 14:42:29","YC1",479,55
+943815,"Arsenal FC","Watford FC","03/11/2018 14:42:31","CONF_YC1",480,55
+943815,"Arsenal FC","Watford FC","03/11/2018 14:42:42","Scorer",481,56
+943815,"Arsenal FC","Watford FC","03/11/2018 14:42:53","F1",482,56
+943815,"Arsenal FC","Watford FC","03/11/2018 14:42:53","FK2",483,56
+943815,"Arsenal FC","Watford FC","03/11/2018 14:42:53","DFK2",484,56
+943815,"Arsenal FC","Watford FC","03/11/2018 14:42:53","Ball Position",485,56
+943815,"Arsenal FC","Watford FC","03/11/2018 14:43:08","Player_DATA_CONFIRMED",486,56
+943815,"Arsenal FC","Watford FC","03/11/2018 14:43:09","Restart",487,56
+943815,"Arsenal FC","Watford FC","03/11/2018 14:43:18","PCR2",488,56
+943815,"Arsenal FC","Watford FC","03/11/2018 14:43:29","CR2",489,56
+943815,"Arsenal FC","Watford FC","03/11/2018 14:43:36","Ball Position",490,57
+943815,"Arsenal FC","Watford FC","03/11/2018 14:44:00","Restart",491,57
+943815,"Arsenal FC","Watford FC","03/11/2018 14:44:08","SAFE1",492,57
+943815,"Arsenal FC","Watford FC","03/11/2018 14:44:09","GK1",493,57
+943815,"Arsenal FC","Watford FC","03/11/2018 14:44:29","Restart",494,57
+943815,"Arsenal FC","Watford FC","03/11/2018 14:44:35","POSSIBLE_TI",495,58
+943815,"Arsenal FC","Watford FC","03/11/2018 14:44:36","TI1",496,58
+943815,"Arsenal FC","Watford FC","03/11/2018 14:44:42","Restart",497,58
+943815,"Arsenal FC","Watford FC","03/11/2018 14:45:01","POSSIBLE_TI",498,58
+943815,"Arsenal FC","Watford FC","03/11/2018 14:45:03","TI2",499,58
+943815,"Arsenal FC","Watford FC","03/11/2018 14:45:04","SAFE2",500,58
+943815,"Arsenal FC","Watford FC","03/11/2018 14:45:11","Restart",501,58
+943815,"Arsenal FC","Watford FC","03/11/2018 14:45:21","AT2",502,58
+943815,"Arsenal FC","Watford FC","03/11/2018 14:45:27","DANGER2",503,58
+943815,"Arsenal FC","Watford FC","03/11/2018 14:45:27","DAT2",504,58
+943815,"Arsenal FC","Watford FC","03/11/2018 14:45:32","SAFE1",505,59
+943815,"Arsenal FC","Watford FC","03/11/2018 14:45:33","GK1",506,59
+943815,"Arsenal FC","Watford FC","03/11/2018 14:45:51","Restart",507,59
+943815,"Arsenal FC","Watford FC","03/11/2018 14:46:04","AT1",508,59
+943815,"Arsenal FC","Watford FC","03/11/2018 14:46:06","DANGER1",509,59
+943815,"Arsenal FC","Watford FC","03/11/2018 14:46:06","DAT1",510,59
+943815,"Arsenal FC","Watford FC","03/11/2018 14:46:12","GOAL1",511,59
+943815,"Arsenal FC","Watford FC","03/11/2018 14:46:35","Scorer",512,60
+943815,"Arsenal FC","Watford FC","03/11/2018 14:47:15","CONF_GOAL1",513,60
+943815,"Arsenal FC","Watford FC","03/11/2018 14:47:16","KO2",514,60
+943815,"Arsenal FC","Watford FC","03/11/2018 14:47:16","SAFE2",515,60
+943815,"Arsenal FC","Watford FC","03/11/2018 14:47:23","SAFE2",516,60
+943815,"Arsenal FC","Watford FC","03/11/2018 14:47:37","Player_DATA_CONFIRMED",517,61
+943815,"Arsenal FC","Watford FC","03/11/2018 14:47:40","AT2",518,61
+943815,"Arsenal FC","Watford FC","03/11/2018 14:47:46","DANGER2",519,61
+943815,"Arsenal FC","Watford FC","03/11/2018 14:47:46","DAT2",520,61
+943815,"Arsenal FC","Watford FC","03/11/2018 14:47:51","PPEN",521,61
+943815,"Arsenal FC","Watford FC","03/11/2018 14:47:51","PPEN2",522,61
+943815,"Arsenal FC","Watford FC","03/11/2018 14:47:54","POSSIBLE_CARDS",523,61
+943815,"Arsenal FC","Watford FC","03/11/2018 14:48:00","Assist",524,61
+943815,"Arsenal FC","Watford FC","03/11/2018 14:48:19","NO_Cards",525,61
+943815,"Arsenal FC","Watford FC","03/11/2018 14:48:24","PEN2",526,61
+943815,"Arsenal FC","Watford FC","03/11/2018 14:48:29","Scorer",527,61
+943815,"Arsenal FC","Watford FC","03/11/2018 14:48:43","MPEN2",528,62
+943815,"Arsenal FC","Watford FC","03/11/2018 14:48:44","Restart",529,62
+943815,"Arsenal FC","Watford FC","03/11/2018 14:48:47","POSSIBLE_TI",530,62
+943815,"Arsenal FC","Watford FC","03/11/2018 14:48:51","TI2",531,62
+943815,"Arsenal FC","Watford FC","03/11/2018 14:49:13","SUB2",532,62
+943815,"Arsenal FC","Watford FC","03/11/2018 14:49:18","Restart",533,62
+943815,"Arsenal FC","Watford FC","03/11/2018 14:49:45","POSSIBLE_TI",534,63
+943815,"Arsenal FC","Watford FC","03/11/2018 14:49:47","TI2",535,63
+943815,"Arsenal FC","Watford FC","03/11/2018 14:49:50","Restart",536,63
+943815,"Arsenal FC","Watford FC","03/11/2018 14:49:54","POSSIBLE_TI",537,63
+943815,"Arsenal FC","Watford FC","03/11/2018 14:49:55","TI1",538,63
+943815,"Arsenal FC","Watford FC","03/11/2018 14:50:04","Restart",539,63
+943815,"Arsenal FC","Watford FC","03/11/2018 14:50:11","SAFE2",540,63
+943815,"Arsenal FC","Watford FC","03/11/2018 14:50:22","SAFE1",541,63
+943815,"Arsenal FC","Watford FC","03/11/2018 14:50:23","POSSIBLE_TI",542,63
+943815,"Arsenal FC","Watford FC","03/11/2018 14:50:23","TI1",543,63
+943815,"Arsenal FC","Watford FC","03/11/2018 14:50:31","Restart",544,63
+943815,"Arsenal FC","Watford FC","03/11/2018 14:50:35","AT2",545,64
+943815,"Arsenal FC","Watford FC","03/11/2018 14:50:35","DANGER2",546,64
+943815,"Arsenal FC","Watford FC","03/11/2018 14:50:35","DAT2",547,64
+943815,"Arsenal FC","Watford FC","03/11/2018 14:50:47","SAFE1",548,64
+943815,"Arsenal FC","Watford FC","03/11/2018 14:50:51","AT1",549,64
+943815,"Arsenal FC","Watford FC","03/11/2018 14:50:51","DANGER1",550,64
+943815,"Arsenal FC","Watford FC","03/11/2018 14:50:51","DAT1",551,64
+943815,"Arsenal FC","Watford FC","03/11/2018 14:50:59","PCR1",552,64
+943815,"Arsenal FC","Watford FC","03/11/2018 14:51:02","Player_DATA_CONFIRMED",553,64
+943815,"Arsenal FC","Watford FC","03/11/2018 14:51:13","CR1",554,64
+943815,"Arsenal FC","Watford FC","03/11/2018 14:51:16","Ball Position",555,64
+943815,"Arsenal FC","Watford FC","03/11/2018 14:51:39","Restart",556,65
+943815,"Arsenal FC","Watford FC","03/11/2018 14:51:48","SHB1",557,65
+943815,"Arsenal FC","Watford FC","03/11/2018 14:51:49","SAFE2",558,65
+943815,"Arsenal FC","Watford FC","03/11/2018 14:51:50","GK2",559,65
+943815,"Arsenal FC","Watford FC","03/11/2018 14:52:05","Restart",560,65
+943815,"Arsenal FC","Watford FC","03/11/2018 14:52:10","AT1",561,65
+943815,"Arsenal FC","Watford FC","03/11/2018 14:52:16","POSSIBLE_TI",562,65
+943815,"Arsenal FC","Watford FC","03/11/2018 14:52:17","TI2",563,65
+943815,"Arsenal FC","Watford FC","03/11/2018 14:52:18","SAFE2",564,65
+943815,"Arsenal FC","Watford FC","03/11/2018 14:52:26","Restart",565,65
+943815,"Arsenal FC","Watford FC","03/11/2018 14:52:53","SAFE1",566,66
+943815,"Arsenal FC","Watford FC","03/11/2018 14:52:55","Possible Free Kick",567,66
+943815,"Arsenal FC","Watford FC","03/11/2018 14:52:59","POSSIBLE_CARDS",569,66
+943815,"Arsenal FC","Watford FC","03/11/2018 14:53:05","YC2",570,66
+943815,"Arsenal FC","Watford FC","03/11/2018 14:53:07","CONF_YC2",571,66
+943815,"Arsenal FC","Watford FC","03/11/2018 14:53:10","Scorer",572,66
+943815,"Arsenal FC","Watford FC","03/11/2018 14:53:14","F2",573,66
+943815,"Arsenal FC","Watford FC","03/11/2018 14:53:14","FK1",574,66
+943815,"Arsenal FC","Watford FC","03/11/2018 14:53:14","Ball Position",575,66
+943815,"Arsenal FC","Watford FC","03/11/2018 14:53:21","Player_DATA_CONFIRMED",576,66
+943815,"Arsenal FC","Watford FC","03/11/2018 14:53:31","SUB1",577,67
+943815,"Arsenal FC","Watford FC","03/11/2018 14:53:39","Player_DATA_CONFIRMED",578,67
+943815,"Arsenal FC","Watford FC","03/11/2018 14:53:48","SUB2",579,67
+943815,"Arsenal FC","Watford FC","03/11/2018 14:54:10","Restart",580,67
+943815,"Arsenal FC","Watford FC","03/11/2018 14:54:27","SAFE2",581,67
+943815,"Arsenal FC","Watford FC","03/11/2018 14:54:43","SAFE1",582,68
+943815,"Arsenal FC","Watford FC","03/11/2018 14:54:45","AT1",583,68
+943815,"Arsenal FC","Watford FC","03/11/2018 14:54:52","DANGER1",584,68
+943815,"Arsenal FC","Watford FC","03/11/2018 14:54:52","DAT1",585,68
+943815,"Arsenal FC","Watford FC","03/11/2018 14:54:55","PCR1",586,68
+943815,"Arsenal FC","Watford FC","03/11/2018 14:54:58","CR1",587,68
+943815,"Arsenal FC","Watford FC","03/11/2018 14:55:02","Ball Position",588,68
+943815,"Arsenal FC","Watford FC","03/11/2018 14:55:15","Restart",589,68
+943815,"Arsenal FC","Watford FC","03/11/2018 14:55:22","Possible Free Kick",590,68
+943815,"Arsenal FC","Watford FC","03/11/2018 14:55:26","SAFE2",592,68
+943815,"Arsenal FC","Watford FC","03/11/2018 14:55:26","F1",593,68
+943815,"Arsenal FC","Watford FC","03/11/2018 14:55:26","FK2",594,68
+943815,"Arsenal FC","Watford FC","03/11/2018 14:55:26","Ball Position",595,68
+943815,"Arsenal FC","Watford FC","03/11/2018 14:55:27","Player_DATA_CONFIRMED",596,68
+943815,"Arsenal FC","Watford FC","03/11/2018 14:55:43","Restart",597,69
+943815,"Arsenal FC","Watford FC","03/11/2018 14:55:53","SAFE1",598,69
+943815,"Arsenal FC","Watford FC","03/11/2018 14:55:56","AT1",599,69
+943815,"Arsenal FC","Watford FC","03/11/2018 14:55:56","DANGER1",600,69
+943815,"Arsenal FC","Watford FC","03/11/2018 14:55:56","DAT1",601,69
+943815,"Arsenal FC","Watford FC","03/11/2018 14:56:01","POSSIBLE_TI",602,69
+943815,"Arsenal FC","Watford FC","03/11/2018 14:56:02","TI2",603,69
+943815,"Arsenal FC","Watford FC","03/11/2018 14:56:09","SAFE2",604,69
+943815,"Arsenal FC","Watford FC","03/11/2018 14:56:18","Restart",605,69
+943815,"Arsenal FC","Watford FC","03/11/2018 14:56:23","POSSIBLE_TI",606,69
+943815,"Arsenal FC","Watford FC","03/11/2018 14:56:24","TI2",607,69
+943815,"Arsenal FC","Watford FC","03/11/2018 14:56:33","Restart",608,70
+943815,"Arsenal FC","Watford FC","03/11/2018 14:56:39","SAFE1",609,70
+943815,"Arsenal FC","Watford FC","03/11/2018 14:56:49","AT2",610,70
+943815,"Arsenal FC","Watford FC","03/11/2018 14:56:50","DANGER2",611,70
+943815,"Arsenal FC","Watford FC","03/11/2018 14:56:50","DAT2",612,70
+943815,"Arsenal FC","Watford FC","03/11/2018 14:56:54","POSSIBLE_TI",613,70
+943815,"Arsenal FC","Watford FC","03/11/2018 14:56:55","TI2",614,70
+943815,"Arsenal FC","Watford FC","03/11/2018 14:57:04","Restart",615,70
+943815,"Arsenal FC","Watford FC","03/11/2018 14:57:15","SAFE1",616,70
+943815,"Arsenal FC","Watford FC","03/11/2018 14:57:16","AT1",617,70
+943815,"Arsenal FC","Watford FC","03/11/2018 14:57:22","SAFE2",618,70
+943815,"Arsenal FC","Watford FC","03/11/2018 14:57:37","Possible Free Kick",619,71
+943815,"Arsenal FC","Watford FC","03/11/2018 14:57:43","F2",621,71
+943815,"Arsenal FC","Watford FC","03/11/2018 14:57:43","FK1",622,71
+943815,"Arsenal FC","Watford FC","03/11/2018 14:57:43","DANGER1",623,71
+943815,"Arsenal FC","Watford FC","03/11/2018 14:57:43","DFK1",624,71
+943815,"Arsenal FC","Watford FC","03/11/2018 14:57:43","Ball Position",625,71
+943815,"Arsenal FC","Watford FC","03/11/2018 14:57:47","Restart",626,71
+943815,"Arsenal FC","Watford FC","03/11/2018 14:57:55","SAFE2",627,71
+943815,"Arsenal FC","Watford FC","03/11/2018 14:57:59","AT2",628,71
+943815,"Arsenal FC","Watford FC","03/11/2018 14:57:59","DANGER2",629,71
+943815,"Arsenal FC","Watford FC","03/11/2018 14:57:59","DAT2",630,71
+943815,"Arsenal FC","Watford FC","03/11/2018 14:58:15","SHB2",631,71
+943815,"Arsenal FC","Watford FC","03/11/2018 14:58:16","SAFE1",632,71
+943815,"Arsenal FC","Watford FC","03/11/2018 14:58:17","GK1",633,71
+943815,"Arsenal FC","Watford FC","03/11/2018 14:58:29","Injury Break",634,71
+943815,"Arsenal FC","Watford FC","03/11/2018 14:59:41","SUB1",635,73
+943815,"Arsenal FC","Watford FC","03/11/2018 14:59:53","Restart",636,73
+943815,"Arsenal FC","Watford FC","03/11/2018 15:00:03","Player_DATA_CONFIRMED",637,73
+943815,"Arsenal FC","Watford FC","03/11/2018 15:00:08","AT1",638,73
+943815,"Arsenal FC","Watford FC","03/11/2018 15:00:15","SAFE2",639,73
+943815,"Arsenal FC","Watford FC","03/11/2018 15:00:20","AT2",640,73
+943815,"Arsenal FC","Watford FC","03/11/2018 15:00:22","DANGER2",641,73
+943815,"Arsenal FC","Watford FC","03/11/2018 15:00:22","DAT2",642,73
+943815,"Arsenal FC","Watford FC","03/11/2018 15:00:29","SAFE1",643,73
+943815,"Arsenal FC","Watford FC","03/11/2018 15:00:31","GK1",644,73
+943815,"Arsenal FC","Watford FC","03/11/2018 15:00:56","Restart",645,74
+943815,"Arsenal FC","Watford FC","03/11/2018 15:01:01","POSSIBLE_TI",646,74
+943815,"Arsenal FC","Watford FC","03/11/2018 15:01:02","TI2",647,74
+943815,"Arsenal FC","Watford FC","03/11/2018 15:01:03","SAFE2",648,74
+943815,"Arsenal FC","Watford FC","03/11/2018 15:01:07","Restart",649,74
+943815,"Arsenal FC","Watford FC","03/11/2018 15:01:16","AT2",650,74
+943815,"Arsenal FC","Watford FC","03/11/2018 15:01:16","DANGER2",651,74
+943815,"Arsenal FC","Watford FC","03/11/2018 15:01:16","DAT2",652,74
+943815,"Arsenal FC","Watford FC","03/11/2018 15:01:47","SAFE2",653,75
+943815,"Arsenal FC","Watford FC","03/11/2018 15:01:55","POSSIBLE_TI",654,75
+943815,"Arsenal FC","Watford FC","03/11/2018 15:01:56","TI1",655,75
+943815,"Arsenal FC","Watford FC","03/11/2018 15:01:57","SAFE1",656,75
+943815,"Arsenal FC","Watford FC","03/11/2018 15:02:07","Restart",657,75
+943815,"Arsenal FC","Watford FC","03/11/2018 15:02:12","POSSIBLE_TI",658,75
+943815,"Arsenal FC","Watford FC","03/11/2018 15:02:13","TI2",659,75
+943815,"Arsenal FC","Watford FC","03/11/2018 15:02:14","SAFE2",660,75
+943815,"Arsenal FC","Watford FC","03/11/2018 15:02:19","Restart",661,75
+943815,"Arsenal FC","Watford FC","03/11/2018 15:02:37","AT2",662,76
+943815,"Arsenal FC","Watford FC","03/11/2018 15:03:03","SAFE1",663,76
+943815,"Arsenal FC","Watford FC","03/11/2018 15:03:04","GK1",664,76
+943815,"Arsenal FC","Watford FC","03/11/2018 15:03:30","Restart",665,76
+943815,"Arsenal FC","Watford FC","03/11/2018 15:03:35","AT1",666,77
+943815,"Arsenal FC","Watford FC","03/11/2018 15:03:52","DANGER1",667,77
+943815,"Arsenal FC","Watford FC","03/11/2018 15:03:52","DAT1",668,77
+943815,"Arsenal FC","Watford FC","03/11/2018 15:04:02","GOAL1",669,77
+943815,"Arsenal FC","Watford FC","03/11/2018 15:04:19","Scorer",670,77
+943815,"Arsenal FC","Watford FC","03/11/2018 15:04:58","SUB1",671,78
+943815,"Arsenal FC","Watford FC","03/11/2018 15:05:10","CONF_GOAL1",672,78
+943815,"Arsenal FC","Watford FC","03/11/2018 15:05:11","KO2",673,78
+943815,"Arsenal FC","Watford FC","03/11/2018 15:05:11","SAFE2",674,78
+943815,"Arsenal FC","Watford FC","03/11/2018 15:05:15","Player_DATA_CONFIRMED",675,78
+943815,"Arsenal FC","Watford FC","03/11/2018 15:05:17","Player_DATA_CONFIRMED",676,78
+943815,"Arsenal FC","Watford FC","03/11/2018 15:05:18","SAFE1",677,78
+943815,"Arsenal FC","Watford FC","03/11/2018 15:05:31","Assist",678,78
+943815,"Arsenal FC","Watford FC","03/11/2018 15:05:35","AT2",679,79
+943815,"Arsenal FC","Watford FC","03/11/2018 15:05:44","SAFE1",680,79
+943815,"Arsenal FC","Watford FC","03/11/2018 15:05:54","AT1",681,79
+943815,"Arsenal FC","Watford FC","03/11/2018 15:06:02","SAFE2",682,79
+943815,"Arsenal FC","Watford FC","03/11/2018 15:06:07","Possible Free Kick",683,79
+943815,"Arsenal FC","Watford FC","03/11/2018 15:06:17","Injury Break",685,79
+943815,"Arsenal FC","Watford FC","03/11/2018 15:06:35","Restart",686,80
+943815,"Arsenal FC","Watford FC","03/11/2018 15:06:35","F1",687,80
+943815,"Arsenal FC","Watford FC","03/11/2018 15:06:35","FK2",688,80
+943815,"Arsenal FC","Watford FC","03/11/2018 15:06:35","Ball Position",689,80
+943815,"Arsenal FC","Watford FC","03/11/2018 15:07:08","SUB2",690,80
+943815,"Arsenal FC","Watford FC","03/11/2018 15:07:14","Restart",691,80
+943815,"Arsenal FC","Watford FC","03/11/2018 15:07:25","AT2",692,80
+943815,"Arsenal FC","Watford FC","03/11/2018 15:07:32","DANGER2",693,81
+943815,"Arsenal FC","Watford FC","03/11/2018 15:07:32","DAT2",694,81
+943815,"Arsenal FC","Watford FC","03/11/2018 15:07:33","POSSIBLE_TI",695,81
+943815,"Arsenal FC","Watford FC","03/11/2018 15:07:34","TI1",696,81
+943815,"Arsenal FC","Watford FC","03/11/2018 15:07:39","Player_DATA_CONFIRMED",697,81
+943815,"Arsenal FC","Watford FC","03/11/2018 15:07:43","Restart",698,81
+943815,"Arsenal FC","Watford FC","03/11/2018 15:08:03","SAFE1",699,81
+943815,"Arsenal FC","Watford FC","03/11/2018 15:08:03","AT1",700,81
+943815,"Arsenal FC","Watford FC","03/11/2018 15:08:05","DANGER1",701,81
+943815,"Arsenal FC","Watford FC","03/11/2018 15:08:05","DAT1",702,81
+943815,"Arsenal FC","Watford FC","03/11/2018 15:08:14","Possible Free Kick",703,81
+943815,"Arsenal FC","Watford FC","03/11/2018 15:08:21","SAFE2",705,81
+943815,"Arsenal FC","Watford FC","03/11/2018 15:08:22","O1",706,81
+943815,"Arsenal FC","Watford FC","03/11/2018 15:08:22","FK2",707,81
+943815,"Arsenal FC","Watford FC","03/11/2018 15:08:22","Ball Position",708,81
+943815,"Arsenal FC","Watford FC","03/11/2018 15:08:35","AT2",709,82
+943815,"Arsenal FC","Watford FC","03/11/2018 15:08:35","DANGER2",710,82
+943815,"Arsenal FC","Watford FC","03/11/2018 15:08:35","DAT2",711,82
+943815,"Arsenal FC","Watford FC","03/11/2018 15:08:42","Restart",712,82
+943815,"Arsenal FC","Watford FC","03/11/2018 15:08:48","SAFE1",713,82
+943815,"Arsenal FC","Watford FC","03/11/2018 15:08:51","AT1",714,82
+943815,"Arsenal FC","Watford FC","03/11/2018 15:09:02","POSSIBLE_TI",715,82
+943815,"Arsenal FC","Watford FC","03/11/2018 15:09:03","TI2",716,82
+943815,"Arsenal FC","Watford FC","03/11/2018 15:09:05","SAFE1",717,82
+943815,"Arsenal FC","Watford FC","03/11/2018 15:09:06","SAFE2",718,82
+943815,"Arsenal FC","Watford FC","03/11/2018 15:09:20","Restart",719,82
+943815,"Arsenal FC","Watford FC","03/11/2018 15:09:24","AT1",720,82
+943815,"Arsenal FC","Watford FC","03/11/2018 15:09:24","DANGER1",721,82
+943815,"Arsenal FC","Watford FC","03/11/2018 15:09:24","DAT1",722,82
+943815,"Arsenal FC","Watford FC","03/11/2018 15:09:37","POSSIBLE_TI",723,83
+943815,"Arsenal FC","Watford FC","03/11/2018 15:09:38","TI1",724,83
+943815,"Arsenal FC","Watford FC","03/11/2018 15:09:53","Restart",725,83
+943815,"Arsenal FC","Watford FC","03/11/2018 15:09:58","POSSIBLE_TI",726,83
+943815,"Arsenal FC","Watford FC","03/11/2018 15:09:59","TI2",727,83
+943815,"Arsenal FC","Watford FC","03/11/2018 15:10:04","Restart",728,83
+943815,"Arsenal FC","Watford FC","03/11/2018 15:10:10","SAFE2",729,83
+943815,"Arsenal FC","Watford FC","03/11/2018 15:10:13","POSSIBLE_TI",730,83
+943815,"Arsenal FC","Watford FC","03/11/2018 15:10:14","TI2",731,83
+943815,"Arsenal FC","Watford FC","03/11/2018 15:10:25","Restart",732,83
+943815,"Arsenal FC","Watford FC","03/11/2018 15:10:33","AT2",733,84
+943815,"Arsenal FC","Watford FC","03/11/2018 15:10:33","DANGER2",734,84
+943815,"Arsenal FC","Watford FC","03/11/2018 15:10:33","DAT2",735,84
+943815,"Arsenal FC","Watford FC","03/11/2018 15:10:34","POSSIBLE_TI",736,84
+943815,"Arsenal FC","Watford FC","03/11/2018 15:10:35","TI2",737,84
+943815,"Arsenal FC","Watford FC","03/11/2018 15:10:49","Restart",738,84
+943815,"Arsenal FC","Watford FC","03/11/2018 15:11:16","SAFE1",739,84
+943815,"Arsenal FC","Watford FC","03/11/2018 15:11:40","SAFE2",740,85
+943815,"Arsenal FC","Watford FC","03/11/2018 15:12:04","POSSIBLE_TI",741,85
+943815,"Arsenal FC","Watford FC","03/11/2018 15:12:04","TI2",742,85
+943815,"Arsenal FC","Watford FC","03/11/2018 15:12:16","Restart",743,85
+943815,"Arsenal FC","Watford FC","03/11/2018 15:12:18","AT2",744,85
+943815,"Arsenal FC","Watford FC","03/11/2018 15:12:24","SAFE1",745,85
+943815,"Arsenal FC","Watford FC","03/11/2018 15:12:27","SAFE2",746,85
+943815,"Arsenal FC","Watford FC","03/11/2018 15:12:45","SAFE1",747,86
+943815,"Arsenal FC","Watford FC","03/11/2018 15:12:59","AT1",748,86
+943815,"Arsenal FC","Watford FC","03/11/2018 15:13:01","DANGER1",749,86
+943815,"Arsenal FC","Watford FC","03/11/2018 15:13:01","DAT1",750,86
+943815,"Arsenal FC","Watford FC","03/11/2018 15:13:09","PCR1",751,86
+943815,"Arsenal FC","Watford FC","03/11/2018 15:13:11","SHG1",752,86
+943815,"Arsenal FC","Watford FC","03/11/2018 15:13:12","CR1",753,86
+943815,"Arsenal FC","Watford FC","03/11/2018 15:13:14","Ball Position",754,86
+943815,"Arsenal FC","Watford FC","03/11/2018 15:13:27","Restart",755,86
+943815,"Arsenal FC","Watford FC","03/11/2018 15:13:36","SAFE2",756,87
+943815,"Arsenal FC","Watford FC","03/11/2018 15:13:42","SAFE1",757,87
+943815,"Arsenal FC","Watford FC","03/11/2018 15:13:46","AT2",758,87
+943815,"Arsenal FC","Watford FC","03/11/2018 15:13:48","DANGER2",759,87
+943815,"Arsenal FC","Watford FC","03/11/2018 15:13:48","DAT2",760,87
+943815,"Arsenal FC","Watford FC","03/11/2018 15:13:52","POSSIBLE_TI",761,87
+943815,"Arsenal FC","Watford FC","03/11/2018 15:13:52","TI2",762,87
+943815,"Arsenal FC","Watford FC","03/11/2018 15:13:58","Restart",763,87
+943815,"Arsenal FC","Watford FC","03/11/2018 15:14:11","Possible Free Kick",764,87
+943815,"Arsenal FC","Watford FC","03/11/2018 15:14:19","F1",766,87
+943815,"Arsenal FC","Watford FC","03/11/2018 15:14:19","FK2",767,87
+943815,"Arsenal FC","Watford FC","03/11/2018 15:14:19","DFK2",768,87
+943815,"Arsenal FC","Watford FC","03/11/2018 15:14:19","Ball Position",769,87
+943815,"Arsenal FC","Watford FC","03/11/2018 15:14:39","Restart",770,88
+943815,"Arsenal FC","Watford FC","03/11/2018 15:14:56","PCR2",771,88
+943815,"Arsenal FC","Watford FC","03/11/2018 15:14:59","CR2",772,88
+943815,"Arsenal FC","Watford FC","03/11/2018 15:15:00","Ball Position",773,88
+943815,"Arsenal FC","Watford FC","03/11/2018 15:15:13","Restart",774,88
+943815,"Arsenal FC","Watford FC","03/11/2018 15:15:21","SAFE2",775,88
+943815,"Arsenal FC","Watford FC","03/11/2018 15:15:32","SAFE1",776,89
+943815,"Arsenal FC","Watford FC","03/11/2018 15:15:39","AT2",777,89
+943815,"Arsenal FC","Watford FC","03/11/2018 15:15:39","DANGER2",778,89
+943815,"Arsenal FC","Watford FC","03/11/2018 15:15:39","DAT2",779,89
+943815,"Arsenal FC","Watford FC","03/11/2018 15:15:48","BLOCKED2",780,89
+943815,"Arsenal FC","Watford FC","03/11/2018 15:15:50","SAFE1",781,89
+943815,"Arsenal FC","Watford FC","03/11/2018 15:15:58","AT1",782,89
+943815,"Arsenal FC","Watford FC","03/11/2018 15:16:02","DANGER1",783,89
+943815,"Arsenal FC","Watford FC","03/11/2018 15:16:02","DAT1",784,89
+943815,"Arsenal FC","Watford FC","03/11/2018 15:16:06","SAFE2",785,89
+943815,"Arsenal FC","Watford FC","03/11/2018 15:16:15","AT2",786,89
+943815,"Arsenal FC","Watford FC","03/11/2018 15:16:24","Possible Free Kick",787,89
+943815,"Arsenal FC","Watford FC","03/11/2018 15:16:26","F1",789,89
+943815,"Arsenal FC","Watford FC","03/11/2018 15:16:26","FK2",790,89
+943815,"Arsenal FC","Watford FC","03/11/2018 15:16:26","DANGER2",791,89
+943815,"Arsenal FC","Watford FC","03/11/2018 15:16:26","DFK2",792,89
+943815,"Arsenal FC","Watford FC","03/11/2018 15:16:26","Ball Position",793,89
+943815,"Arsenal FC","Watford FC","03/11/2018 15:16:28","Restart",794,89
+943815,"Arsenal FC","Watford FC","03/11/2018 15:16:33","SAFE1",795,90
+943815,"Arsenal FC","Watford FC","03/11/2018 15:16:38","AT2",796,90
+943815,"Arsenal FC","Watford FC","03/11/2018 15:16:42","Possible Free Kick",797,90
+943815,"Arsenal FC","Watford FC","03/11/2018 15:16:49","POSSIBLE_CARDS",799,90
+943815,"Arsenal FC","Watford FC","03/11/2018 15:16:56","YC1",800,90
+943815,"Arsenal FC","Watford FC","03/11/2018 15:16:57","CONF_YC1",801,90
+943815,"Arsenal FC","Watford FC","03/11/2018 15:17:07","Scorer",802,90
+943815,"Arsenal FC","Watford FC","03/11/2018 15:17:11","F1",803,90
+943815,"Arsenal FC","Watford FC","03/11/2018 15:17:11","FK2",804,90
+943815,"Arsenal FC","Watford FC","03/11/2018 15:17:11","DANGER2",805,90
+943815,"Arsenal FC","Watford FC","03/11/2018 15:17:11","DFK2",806,90
+943815,"Arsenal FC","Watford FC","03/11/2018 15:17:11","Ball Position",807,90
+943815,"Arsenal FC","Watford FC","03/11/2018 15:17:13","Player_DATA_CONFIRMED",808,90
+943815,"Arsenal FC","Watford FC","03/11/2018 15:17:32","Extra Time",809,91
+943815,"Arsenal FC","Watford FC","03/11/2018 15:17:43","Restart",810,91
+943815,"Arsenal FC","Watford FC","03/11/2018 15:17:51","SHB2",811,91
+943815,"Arsenal FC","Watford FC","03/11/2018 15:17:52","SAFE1",812,91
+943815,"Arsenal FC","Watford FC","03/11/2018 15:17:53","GK1",813,91
+943815,"Arsenal FC","Watford FC","03/11/2018 15:18:20","Restart",814,91
+943815,"Arsenal FC","Watford FC","03/11/2018 15:18:29","Possible Free Kick",815,91
+943815,"Arsenal FC","Watford FC","03/11/2018 15:18:33","F2",817,92
+943815,"Arsenal FC","Watford FC","03/11/2018 15:18:33","FK1",818,92
+943815,"Arsenal FC","Watford FC","03/11/2018 15:18:33","DANGER1",819,92
+943815,"Arsenal FC","Watford FC","03/11/2018 15:18:33","DFK1",820,92
+943815,"Arsenal FC","Watford FC","03/11/2018 15:18:33","Ball Position",821,92
+943815,"Arsenal FC","Watford FC","03/11/2018 15:18:47","Restart",822,92
+943815,"Arsenal FC","Watford FC","03/11/2018 15:18:54","SAFE1",823,92
+943815,"Arsenal FC","Watford FC","03/11/2018 15:18:54","AT1",824,92
+943815,"Arsenal FC","Watford FC","03/11/2018 15:18:58","DANGER1",825,92
+943815,"Arsenal FC","Watford FC","03/11/2018 15:18:58","DAT1",826,92
+943815,"Arsenal FC","Watford FC","03/11/2018 15:19:09","POSSIBLE_TI",827,92
+943815,"Arsenal FC","Watford FC","03/11/2018 15:19:12","TI1",828,92
+943815,"Arsenal FC","Watford FC","03/11/2018 15:19:16","Restart",829,92
+943815,"Arsenal FC","Watford FC","03/11/2018 15:19:23","Possible Free Kick",830,92
+943815,"Arsenal FC","Watford FC","03/11/2018 15:19:27","SAFE2",832,92
+943815,"Arsenal FC","Watford FC","03/11/2018 15:19:27","O1",833,92
+943815,"Arsenal FC","Watford FC","03/11/2018 15:19:27","FK2",834,92
+943815,"Arsenal FC","Watford FC","03/11/2018 15:19:27","Ball Position",835,92
+943815,"Arsenal FC","Watford FC","03/11/2018 15:19:40","Restart",836,93
+943815,"Arsenal FC","Watford FC","03/11/2018 15:19:48","SAFE1",837,93
+943815,"Arsenal FC","Watford FC","03/11/2018 15:19:50","AT1",838,93
+943815,"Arsenal FC","Watford FC","03/11/2018 15:19:54","Possible Free Kick",839,93
+943815,"Arsenal FC","Watford FC","03/11/2018 15:20:06","F2",841,93
+943815,"Arsenal FC","Watford FC","03/11/2018 15:20:06","FK1",842,93
+943815,"Arsenal FC","Watford FC","03/11/2018 15:20:06","DANGER1",843,93
+943815,"Arsenal FC","Watford FC","03/11/2018 15:20:06","DFK1",844,93
+943815,"Arsenal FC","Watford FC","03/11/2018 15:20:06","Ball Position",845,93
+943815,"Arsenal FC","Watford FC","03/11/2018 15:20:22","Restart",846,93
+943815,"Arsenal FC","Watford FC","03/11/2018 15:20:46","Stop RT2",847,93
+943815,"Arsenal FC","Watford FC","03/11/2018 15:20:46","Stop Game",848,93
+943815,"Arsenal FC","Watford FC","03/11/2018 15:20:50","CONF_PERIOD_SCORE",849,93

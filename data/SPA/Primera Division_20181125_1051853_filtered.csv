@@ -1,0 +1,842 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 18:40:33","Lineup changed",0,0
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 18:41:05","Transmission Online",1,0
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:04:54","Scout in Stadion",2,0
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:05:05","GCC",3,0
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:41:10","Jersey Changed",4,0
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:41:10","Jersey Changed",5,0
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:42:12","Players are coming out",6,0
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:42:30","Players lined up",7,0
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:42:44","Shake hands",8,0
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:43:10","Photo taking",9,0
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:43:40","Flip coin",10,0
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:44:42","Game about to start",11,0
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:45:09","Start RT1 Team 2",12,1
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:45:11","SAFE2",13,1
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:45:15","AT1",14,1
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:45:19","DANGER1",15,1
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:45:19","DAT1",16,1
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:45:36","SAFE1",17,1
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:45:57","SAFE2",18,1
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:46:36","AT2",19,2
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:46:38","SAFE2",20,2
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:46:45","AT1",21,2
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:46:51","DANGER1",22,2
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:46:51","DAT1",23,2
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:47:09","SAFE2",24,3
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:48:16","AT2",25,4
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:48:38","SAFE2",26,4
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:48:41","AT1",27,4
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:48:46","SAFE2",28,4
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:48:51","AT2",29,4
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:48:56","DANGER2",30,4
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:48:56","DAT2",31,4
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:49:22","SAFE1",32,5
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:49:30","AT1",33,5
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:49:33","POSSIBLE_TI",34,5
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:49:35","TI1",35,5
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:49:36","Restart",36,5
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:49:40","SAFE1",37,5
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:50:28","AT1",38,6
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:50:38","DANGER1",39,6
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:50:38","DAT1",40,6
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:50:54","SHG1",41,6
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:50:57","SAFE2",42,6
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:51:57","AT2",43,7
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:52:01","DANGER2",44,7
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:52:01","DAT2",45,7
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:52:10","SAFE1",46,8
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:52:13","AT1",47,8
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:52:15","DANGER1",48,8
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:52:15","DAT1",49,8
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:52:25","SAFE2",50,8
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:52:50","AT2",51,8
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:52:51","SAFE1",52,8
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:52:54","AT1",53,8
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:52:54","DANGER1",54,8
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:52:54","DAT1",55,8
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:52:56","SAFE2",56,8
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:53:02","AT2",57,8
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:53:10","SAFE1",58,9
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:53:32","AT1",59,9
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:53:41","SAFE2",60,9
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:53:42","POSSIBLE_TI",61,9
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:53:45","TI2",62,9
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:53:58","Restart",63,9
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:54:06","AT2",64,9
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:54:07","POSSIBLE_TI",65,9
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:54:12","TI2",66,10
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:54:23","Restart",67,10
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:54:28","DANGER2",68,10
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:54:28","DAT2",69,10
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:54:42","SAFE1",70,10
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:54:44","POSSIBLE_TI",71,10
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:54:48","TI1",72,10
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:54:49","Restart",73,10
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:55:23","AT2",74,11
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:55:27","SAFE2",75,11
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:55:58","AT2",76,11
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:56:00","DANGER2",77,11
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:56:00","DAT2",78,11
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:56:14","SHG2",79,12
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:56:21","SAFE1",80,12
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:56:37","AT1",81,12
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:56:40","SAFE2",82,12
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:57:09","SAFE2",83,13
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:57:30","Possible Free Kick",84,13
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:57:39","F1",86,13
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:57:39","FK2",87,13
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:57:39","Ball Position",88,13
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:57:43","Restart",89,13
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:57:44","SAFE2",90,13
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:57:50","AT2",91,13
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:57:54","Possible Free Kick",92,13
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:57:59","F1",94,13
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:57:59","FK2",95,13
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:57:59","DANGER2",96,13
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:57:59","DFK2",97,13
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:57:59","Ball Position",98,13
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:58:32","Restart",99,14
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:58:36","SAFE1",100,14
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:58:37","GK1",101,14
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:58:53","Restart",102,14
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:58:59","AT1",103,14
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:59:00","SAFE2",104,14
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:59:16","Possible Free Kick",105,15
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:59:18","F1",107,15
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:59:18","FK2",108,15
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:59:18","Ball Position",109,15
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:59:23","Restart",110,15
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:59:24","AT2",111,15
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:59:24","DANGER2",112,15
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:59:24","DAT2",113,15
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:59:43","SAFE1",114,15
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:59:44","AT1",115,15
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 19:59:49","SAFE2",116,15
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:00:21","AT1",117,16
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:00:22","DANGER1",118,16
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:00:22","DAT1",119,16
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:00:30","SHG1",120,16
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:00:32","SAFE2",121,16
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:00:52","AT1",122,16
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:00:53","Possible Free Kick",123,16
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:01:00","F2",125,16
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:01:00","FK1",126,16
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:01:00","DANGER1",127,16
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:01:00","DFK1",128,16
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:01:00","Ball Position",129,16
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:01:33","Restart",130,17
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:01:43","SAFE2",131,17
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:01:45","AT2",132,17
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:01:50","SAFE1",133,17
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:02:05","AT1",134,17
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:02:06","DANGER1",135,17
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:02:06","DAT1",136,17
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:02:18","PCR1",137,18
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:02:26","CR1",138,18
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:02:28","SHG1",139,18
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:02:30","Ball Position",140,18
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:02:49","Restart",141,18
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:02:58","SAFE2",142,18
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:03:01","GK2",143,18
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:03:05","Restart",144,18
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:03:17","SAFE2",145,19
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:03:45","AT2",146,19
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:03:54","DANGER2",147,19
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:03:54","DAT2",148,19
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:04:01","SAFE2",149,19
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:04:04","AT2",150,19
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:04:12","DANGER2",151,20
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:04:12","DAT2",152,20
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:04:19","SHG2",153,20
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:04:21","SAFE1",154,20
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:04:47","AT1",155,20
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:04:55","SAFE2",156,20
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:04:57","AT1",157,20
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:05:12","SAFE2",158,21
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:05:13","POSSIBLE_TI",159,21
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:05:16","TI2",160,21
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:05:21","Restart",161,21
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:05:23","AT1",162,21
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:05:23","POSSIBLE_TI",163,21
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:05:25","TI1",164,21
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:05:30","Restart",165,21
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:05:40","SAFE1",166,21
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:05:47","AT1",167,21
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:05:47","DANGER1",168,21
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:05:47","DAT1",169,21
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:05:51","SAFE2",170,21
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:06:16","AT1",171,22
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:06:17","DANGER1",172,22
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:06:17","DAT1",173,22
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:06:23","SAFE2",174,22
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:06:31","AT2",175,22
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:06:33","DANGER2",176,22
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:06:33","DAT2",177,22
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:07:00","SAFE2",178,22
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:07:13","AT2",179,23
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:07:17","DANGER2",180,23
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:07:17","DAT2",181,23
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:07:27","SAFE1",182,23
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:07:29","Possible Free Kick",183,23
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:07:31","F2",185,23
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:07:31","FK1",186,23
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:07:31","Ball Position",187,23
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:07:52","Restart",188,23
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:07:54","AT2",189,23
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:08:01","DANGER2",190,23
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:08:01","DAT2",191,23
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:08:06","SAFE1",192,23
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:08:07","AT1",193,23
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:08:08","DANGER1",194,23
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:08:08","DAT1",195,23
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:08:16","SAFE2",196,24
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:08:27","AT2",197,24
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:08:29","DANGER2",198,24
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:08:29","DAT2",199,24
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:08:36","SHG2",200,24
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:08:40","SAFE1",201,24
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:08:52","AT1",202,24
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:08:53","SAFE2",203,24
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:08:54","Possible Free Kick",204,24
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:08:59","O1",206,24
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:08:59","FK2",207,24
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:08:59","Ball Position",208,24
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:09:03","Restart",209,24
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:09:22","SAFE2",210,25
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:09:39","AT2",211,25
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:09:42","SAFE1",212,25
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:10:05","AT1",213,25
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:10:06","SAFE1",214,25
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:10:15","AT1",215,26
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:10:27","DANGER1",216,26
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:10:27","DAT1",217,26
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:10:40","SAFE2",218,26
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:10:44","AT2",219,26
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:10:54","SAFE1",220,26
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:10:55","POSSIBLE_TI",221,26
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:10:57","TI1",222,26
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:11:09","Restart",223,26
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:11:13","SAFE1",224,27
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:11:21","AT1",225,27
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:11:31","DANGER1",226,27
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:11:31","DAT1",227,27
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:11:40","SHG1",228,27
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:11:46","SAFE2",229,27
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:12:00","Possible Free Kick",230,27
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:12:02","F1",232,27
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:12:02","FK2",233,27
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:12:02","Ball Position",234,27
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:12:16","Restart",235,28
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:12:20","SAFE2",236,28
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:12:36","AT1",237,28
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:12:40","SAFE2",238,28
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:13:00","AT1",239,28
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:13:02","POSSIBLE_TI",240,28
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:13:03","TI1",241,28
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:13:07","DANGER1",242,28
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:13:07","DAT1",243,28
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:13:07","Restart",244,28
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:13:32","Possible Free Kick",245,29
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:13:34","F2",247,29
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:13:34","FK1",248,29
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:13:34","DFK1",249,29
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:13:34","Ball Position",250,29
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:14:30","Restart",251,30
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:14:37","SHB1",252,30
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:14:39","SAFE2",253,30
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:14:40","GK2",254,30
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:14:47","Restart",255,30
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:14:56","Possible Free Kick",256,30
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:14:57","F1",258,30
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:14:57","FK2",259,30
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:14:57","Ball Position",260,30
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:15:02","Restart",261,30
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:15:03","SAFE2",262,30
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:15:14","AT2",263,31
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:15:17","DANGER2",264,31
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:15:17","DAT2",265,31
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:15:21","SAFE1",266,31
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:15:23","GK1",267,31
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:15:32","Restart",268,31
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:15:36","AT2",269,31
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:15:36","DANGER2",270,31
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:15:36","DAT2",271,31
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:15:46","POSSIBLE_TI",272,31
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:15:48","TI2",273,31
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:15:51","Restart",274,31
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:16:19","SAFE2",275,32
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:16:26","AT2",276,32
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:16:31","DANGER2",277,32
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:16:31","DAT2",278,32
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:17:08","SHG2",279,32
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:17:09","SAFE1",280,33
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:17:17","POSSIBLE_TI",281,33
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:17:19","TI1",282,33
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:17:20","Restart",283,33
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:17:21","AT1",284,33
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:17:30","DANGER1",285,33
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:17:30","DAT1",286,33
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:18:09","SAFE1",287,34
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:18:37","AT1",288,34
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:18:53","DANGER1",289,34
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:18:53","DAT1",290,34
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:19:11","SAFE2",291,35
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:19:13","AT2",292,35
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:19:16","SAFE1",293,35
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:19:26","AT1",294,35
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:19:29","DANGER1",295,35
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:19:29","DAT1",296,35
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:19:35","SAFE2",297,35
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:20:05","AT2",298,35
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:20:07","DANGER2",299,35
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:20:07","DAT2",300,35
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:20:18","SAFE2",301,36
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:20:29","AT2",302,36
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:20:34","DANGER2",303,36
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:20:34","DAT2",304,36
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:20:54","SAFE1",305,36
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:20:54","Possible Free Kick",306,36
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:20:55","F2",308,36
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:20:55","FK1",309,36
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:20:56","Ball Position",310,36
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:21:26","Injury Break",311,37
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:22:28","Restart",312,38
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:22:32","AT1",313,38
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:22:40","SAFE2",314,38
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:23:04","AT2",315,38
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:23:06","DANGER2",316,38
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:23:06","DAT2",317,38
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:23:13","SAFE1",318,39
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:23:13","Possible Free Kick",319,39
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:23:19","F2",321,39
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:23:19","FK1",322,39
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:23:19","Ball Position",323,39
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:23:23","Restart",324,39
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:23:26","SAFE1",325,39
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:23:42","AT2",326,39
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:23:43","POSSIBLE_TI",327,39
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:23:47","TI2",328,39
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:23:50","Restart",329,39
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:23:53","SAFE1",330,39
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:23:56","AT1",331,39
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:23:59","DANGER1",332,39
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:23:59","DAT1",333,39
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:24:05","SHG1",334,39
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:24:07","SAFE2",335,39
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:24:28","AT1",336,40
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:24:29","POSSIBLE_TI",337,40
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:24:30","TI1",338,40
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:25:00","SUB1",339,40
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:25:12","Restart",340,41
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:25:17","SAFE2",341,41
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:25:29","POSSIBLE_TI",342,41
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:25:32","TI2",343,41
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:25:46","Restart",344,41
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:25:50","AT2",345,41
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:25:51","Possible Free Kick",346,41
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:25:52","F1",348,41
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:25:52","FK2",349,41
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:25:52","DANGER2",350,41
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:25:52","DFK2",351,41
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:25:52","Ball Position",352,41
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:26:03","Restart",353,41
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:26:04","SAFE2",354,41
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:26:28","AT2",355,42
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:26:28","DANGER2",356,42
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:26:28","DAT2",357,42
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:26:33","SAFE1",358,42
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:26:42","AT1",359,42
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:26:45","SAFE2",360,42
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:26:55","AT2",361,42
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:27:16","DANGER2",362,43
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:27:16","DAT2",363,43
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:27:43","POSSIBLE_TI",364,43
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:27:44","Player_DATA_CONFIRMED",365,43
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:27:45","TI2",366,43
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:27:55","Restart",367,43
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:28:02","SAFE1",368,43
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:28:03","Possible Free Kick",369,43
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:28:04","F2",371,43
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:28:04","FK1",372,43
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:28:04","Ball Position",373,43
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:28:13","Restart",374,44
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:28:18","SAFE2",375,44
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:28:28","AT2",376,44
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:28:47","SAFE1",377,44
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:28:57","AT1",378,44
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:28:59","DANGER1",379,44
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:28:59","DAT1",380,44
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:29:15","SAFE2",381,45
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:29:16","GK2",382,45
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:29:20","Restart",383,45
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:29:28","SAFE2",384,45
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:29:36","AT2",385,45
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:29:43","DANGER2",386,45
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:29:43","DAT2",387,45
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:29:45","SAFE2",388,45
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:30:14","AT2",389,46
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:30:15","DANGER2",390,46
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:30:15","DAT2",391,46
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:30:22","BLOCKED2",392,46
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:30:32","SAFE1",393,46
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:30:39","Extra Time",394,46
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:30:54","AT1",395,46
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:30:58","POSSIBLE_TI",396,46
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:31:02","TI1",397,46
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:31:06","Restart",398,46
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:31:09","DANGER1",399,47
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:31:09","DAT1",400,47
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:31:19","SAFE2",401,47
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:31:20","Stop RT1",402,47
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:31:26","CONF_PERIOD_SCORE",403,45
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:33:53","GCC",404,45
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:44:39","Players are coming out",405,45
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:45:56","Game about to start",406,45
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:46:22","Start RT2 Team 1",407,46
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:46:26","SAFE1",408,46
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:46:41","POSSIBLE_TI",409,46
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:46:43","TI1",410,46
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:46:46","Restart",411,46
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:47:00","SAFE2",412,46
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:47:02","Possible Free Kick",413,46
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:47:03","F1",415,46
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:47:03","FK2",416,46
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:47:03","Ball Position",417,46
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:47:12","Restart",418,46
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:47:27","AT2",419,47
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:47:32","SAFE1",420,47
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:47:34","AT1",421,47
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:47:35","DANGER1",422,47
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:47:35","DAT1",423,47
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:48:02","SAFE2",424,47
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:48:04","GK2",425,47
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:48:13","Restart",426,47
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:48:17","SAFE2",427,47
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:48:24","AT2",428,48
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:48:29","DANGER2",429,48
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:48:29","DAT2",430,48
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:48:37","SAFE1",431,48
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:48:44","Possible Free Kick",432,48
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:48:45","F2",434,48
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:48:45","FK1",435,48
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:48:45","Ball Position",436,48
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:49:11","Restart",437,48
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:49:16","AT1",438,48
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:49:26","SAFE2",439,49
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:49:34","AT2",440,49
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:49:39","DANGER2",441,49
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:49:39","DAT2",442,49
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:49:56","PCR2",443,49
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:50:06","CR2",444,49
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:50:09","Ball Position",445,49
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:50:21","Restart",446,49
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:50:32","POSSIBLE_TI",447,50
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:50:40","TI2",448,50
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:50:53","Restart",449,50
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:50:58","SAFE1",450,50
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:51:00","AT1",451,50
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:51:08","SAFE1",452,50
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:51:22","AT1",453,50
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:51:29","DANGER1",454,51
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:51:29","DAT1",455,51
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:51:39","SAFE2",456,51
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:51:41","AT1",457,51
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:51:41","DANGER1",458,51
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:51:41","DAT1",459,51
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:51:46","PCR1",460,51
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:51:51","CR1",461,51
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:51:53","SHB1",462,51
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:52:00","Ball Position",463,51
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:52:11","Restart",464,51
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:52:15","PCR1",465,51
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:52:19","CR1",466,51
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:52:21","SHG1",467,51
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:52:26","Ball Position",468,52
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:52:33","Restart",469,52
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:52:36","GOAL1",470,52
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:52:51","Scorer",471,52
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:53:15","Player_DATA_CONFIRMED",472,52
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:53:15","Assist",473,52
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:53:29","CONF_GOAL1",474,53
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:53:29","KO2",475,53
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:53:29","SAFE2",476,53
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:53:31","SAFE2",477,53
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:53:48","SAFE1",478,53
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:54:05","AT1",479,53
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:54:07","DANGER1",480,53
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:54:07","DAT1",481,53
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:54:27","GOAL1",482,54
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:54:45","Scorer",483,54
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:55:18","CONF_GOAL1",484,54
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:55:18","KO2",485,54
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:55:18","SAFE2",486,54
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:55:20","SAFE2",487,54
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:55:29","AT2",488,55
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:55:30","DANGER2",489,55
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:55:30","DAT2",490,55
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:55:39","POSSIBLE_TI",491,55
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:55:41","TI2",492,55
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:55:45","Restart",493,55
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:55:49","POSSIBLE_TI",494,55
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:55:54","TI2",495,55
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:55:54","Restart",496,55
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:56:02","Scorer",497,55
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:56:02","Player_DATA_CONFIRMED",498,55
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:56:03","SAFE1",499,55
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:56:05","GK1",500,55
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:56:24","Restart",501,56
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:56:30","SAFE2",502,56
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:56:53","AT2",503,56
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:57:00","SAFE2",504,56
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:57:27","Possible Free Kick",505,57
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:57:28","F1",507,57
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:57:28","FK2",508,57
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:57:28","Ball Position",509,57
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:57:34","Restart",510,57
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:57:48","SAFE2",511,57
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:58:06","AT2",512,57
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:58:17","SAFE1",513,57
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:58:22","AT1",514,57
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:58:24","DANGER1",515,58
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:58:24","DAT1",516,58
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:58:38","SAFE2",517,58
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:58:39","Possible Free Kick",518,58
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:58:40","F1",520,58
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:58:40","FK2",521,58
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:58:41","Ball Position",522,58
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:58:41","POSSIBLE_CARDS",523,58
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:58:52","NO_Cards",524,58
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:58:56","Restart",525,58
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:58:59","SAFE2",526,58
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:59:18","AT2",527,58
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:59:19","DANGER2",528,58
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:59:19","DAT2",529,58
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:59:20","POSSIBLE_TI",530,58
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:59:23","TI2",531,59
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:59:26","Restart",532,59
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 20:59:38","PCR2",533,59
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:00:31","CR2",534,60
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:00:32","SHB2",535,60
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:00:35","Ball Position",536,60
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:00:38","Restart",537,60
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:00:43","SHB2",538,60
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:00:46","SAFE1",539,60
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:00:46","GK1",540,60
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:01:15","SUB2",541,60
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:01:18","Restart",542,60
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:01:29","AT1",543,61
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:01:31","DANGER1",544,61
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:01:31","DAT1",545,61
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:01:39","PCR1",546,61
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:01:48","CR1",547,61
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:01:50","SHB1",548,61
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:01:56","Ball Position",549,61
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:02:09","Restart",550,61
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:02:14","Player_DATA_CONFIRMED",551,61
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:02:28","SAFE2",552,62
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:03:02","AT2",553,62
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:03:07","DANGER2",554,62
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:03:07","DAT2",555,62
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:03:21","SAFE1",556,62
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:03:43","AT1",557,63
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:03:45","DANGER1",558,63
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:03:45","DAT1",559,63
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:03:50","SAFE2",560,63
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:03:59","AT2",561,63
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:04:04","Possible Free Kick",562,63
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:04:05","F1",564,63
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:04:05","FK2",565,63
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:04:05","DANGER2",566,63
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:04:05","DFK2",567,63
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:04:05","Ball Position",568,63
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:04:33","SUB2",569,64
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:04:42","Restart",570,64
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:04:50","SAFE2",571,64
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:05:01","AT2",572,64
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:05:10","SAFE1",573,64
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:05:14","AT1",574,64
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:05:16","DANGER1",575,64
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:05:16","DAT1",576,64
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:05:17","Player_DATA_CONFIRMED",577,64
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:05:22","PCR1",578,64
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:05:37","NCR1",579,65
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:05:39","SHB1",580,65
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:05:42","SAFE2",581,65
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:05:43","GK2",582,65
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:05:48","Restart",583,65
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:05:49","SAFE2",584,65
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:06:32","AT2",585,66
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:06:33","DANGER2",586,66
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:06:33","DAT2",587,66
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:06:38","POSSIBLE_TI",588,66
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:06:41","TI2",589,66
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:06:43","Restart",590,66
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:07:04","SAFE1",591,66
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:07:05","AT1",592,66
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:07:08","DANGER1",593,66
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:07:08","DAT1",594,66
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:07:16","PCR1",595,66
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:07:32","CR1",596,67
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:07:39","Ball Position",597,67
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:08:13","SUB1",598,67
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:08:19","Restart",599,67
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:08:42","SAFE2",600,68
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:08:43","POSSIBLE_TI",601,68
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:08:50","TI2",602,68
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:09:02","Restart",603,68
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:09:04","SAFE2",604,68
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:09:05","Possible Free Kick",605,68
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:09:09","F1",607,68
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:09:09","FK2",608,68
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:09:09","Ball Position",609,68
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:09:13","Restart",610,68
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:09:14","Player_DATA_CONFIRMED",611,68
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:09:18","AT2",612,68
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:09:32","SAFE2",613,69
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:09:49","AT2",614,69
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:09:50","Possible Free Kick",615,69
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:09:51","F1",617,69
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:09:51","FK2",618,69
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:09:51","DANGER2",619,69
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:09:51","DFK2",620,69
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:09:51","Ball Position",621,69
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:10:13","SUB2",622,69
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:10:22","Restart",623,69
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:10:31","SAFE2",624,70
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:10:38","AT2",625,70
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:10:46","SAFE1",626,70
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:10:48","POSSIBLE_TI",627,70
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:10:48","TI1",628,70
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:10:54","Restart",629,70
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:11:01","AT1",630,70
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:11:03","DANGER1",631,70
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:11:03","DAT1",632,70
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:11:08","SAFE2",633,70
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:11:25","Possible Free Kick",634,71
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:11:29","F1",636,71
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:11:29","FK2",637,71
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:11:29","Ball Position",638,71
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:11:37","Restart",639,71
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:11:44","Player_DATA_CONFIRMED",640,71
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:11:50","AT2",641,71
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:11:53","DANGER2",642,71
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:11:53","DAT2",643,71
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:12:00","POSSIBLE_TI",644,71
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:12:02","TI2",645,71
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:12:03","Restart",646,71
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:12:35","SAFE1",647,72
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:12:35","Possible Free Kick",648,72
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:12:36","F2",650,72
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:12:36","FK1",651,72
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:12:36","Ball Position",652,72
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:12:47","Restart",653,72
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:12:53","SAFE2",654,72
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:13:03","AT2",655,72
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:13:04","Possible Free Kick",656,72
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:13:05","F1",658,72
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:13:05","FK2",659,72
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:13:05","DANGER2",660,72
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:13:05","DFK2",661,72
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:13:05","Ball Position",662,72
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:13:06","POSSIBLE_CARDS",663,72
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:13:11","YC1",664,72
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:13:14","CONF_YC1",665,72
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:13:21","Scorer",666,72
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:13:40","Restart",667,73
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:14:07","SAFE2",668,73
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:14:29","AT2",669,74
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:14:31","DANGER2",670,74
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:14:31","DAT2",671,74
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:14:38","SHG2",672,74
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:14:40","SAFE1",673,74
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:14:44","Player_DATA_CONFIRMED",674,74
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:14:58","AT1",675,74
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:15:03","SAFE2",676,74
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:15:04","AT2",677,74
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:15:12","DANGER2",678,74
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:15:12","DAT2",679,74
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:15:38","SAFE1",680,75
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:15:43","Possible Free Kick",681,75
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:15:44","F2",683,75
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:15:44","FK1",684,75
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:15:44","Ball Position",685,75
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:16:07","Restart",686,75
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:16:09","AT2",687,75
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:16:13","DANGER2",688,75
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:16:13","DAT2",689,75
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:16:18","PCR2",690,75
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:16:26","CR2",691,76
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:16:27","Ball Position",692,76
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:16:36","Restart",693,76
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:16:41","SHG2",694,76
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:16:45","SAFE1",695,76
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:16:50","AT1",696,76
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:16:53","DANGER1",697,76
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:16:53","DAT1",698,76
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:17:11","SAFE2",699,76
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:17:16","AT2",700,76
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:17:18","DANGER2",701,76
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:17:18","DAT2",702,76
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:17:33","SHB2",703,77
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:17:37","SAFE1",704,77
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:17:38","GK1",705,77
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:18:37","Restart",706,78
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:18:41","AT2",707,78
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:18:41","POSSIBLE_TI",708,78
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:18:44","TI2",709,78
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:18:47","Restart",710,78
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:19:01","DANGER2",711,78
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:19:01","DAT2",712,78
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:19:08","SAFE1",713,78
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:19:08","Possible Free Kick",714,78
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:19:09","F2",716,78
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:19:09","FK1",717,78
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:19:10","Ball Position",718,78
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:20:00","SUB1",719,79
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:20:12","Restart",720,79
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:20:13","AT1",721,79
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:20:18","SAFE2",722,79
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:20:19","Possible Free Kick",723,79
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:20:21","O1",725,79
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:20:21","FK2",726,79
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:20:21","Ball Position",727,79
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:20:27","Restart",728,80
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:20:36","AT2",729,80
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:20:53","SAFE1",730,80
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:20:56","AT1",731,80
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:21:12","DANGER1",732,80
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:21:12","DAT1",733,80
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:21:25","SAFE2",734,81
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:21:27","AT1",735,81
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:21:31","DANGER1",736,81
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:21:31","DAT1",737,81
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:21:43","SHB1",738,81
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:21:46","SAFE2",739,81
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:21:47","GK2",740,81
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:22:05","Restart",741,81
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:22:07","SAFE2",742,81
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:22:14","Player_DATA_CONFIRMED",743,81
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:22:20","AT2",744,81
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:22:25","Possible Free Kick",745,82
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:22:26","F1",747,82
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:22:26","FK2",748,82
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:22:26","DANGER2",749,82
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:22:26","DFK2",750,82
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:22:26","Ball Position",751,82
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:23:04","Restart",752,82
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:23:34","PCR2",753,83
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:23:42","CR2",754,83
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:23:45","Ball Position",755,83
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:23:54","Restart",756,83
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:23:59","SAFE1",757,83
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:24:03","AT1",758,83
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:24:10","SAFE1",759,83
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:24:17","AT1",760,83
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:24:19","DANGER1",761,83
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:24:19","DAT1",762,83
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:24:27","SAFE2",763,84
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:24:31","AT2",764,84
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:24:32","DANGER2",765,84
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:24:32","DAT2",766,84
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:24:42","SHB2",767,84
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:24:49","SAFE1",768,84
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:24:49","GK1",769,84
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:25:19","Restart",770,84
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:25:26","POSSIBLE_TI",771,85
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:25:28","TI1",772,85
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:25:41","Restart",773,85
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:25:46","SAFE2",774,85
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:26:07","SAFE2",775,85
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:26:32","AT2",776,86
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:26:33","DANGER2",777,86
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:26:33","DAT2",778,86
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:26:45","SAFE1",779,86
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:26:49","AT2",780,86
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:26:51","DANGER2",781,86
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:26:51","DAT2",782,86
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:26:57","SHG2",783,86
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:26:58","SAFE1",784,86
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:27:11","AT1",785,86
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:27:23","SAFE2",786,87
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:27:28","AT2",787,87
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:27:32","DANGER2",788,87
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:27:32","DAT2",789,87
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:27:44","POSSIBLE_TI",790,87
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:27:46","TI2",791,87
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:27:54","Restart",792,87
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:28:49","SAFE1",793,88
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:28:56","Possible Free Kick",794,88
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:28:59","F2",796,88
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:28:59","FK1",797,88
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:28:59","Ball Position",798,88
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:29:29","POSSIBLE_CARDS",799,89
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:29:31","YC1",800,89
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:29:36","CONF_YC1",801,89
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:29:45","Scorer",802,89
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:29:47","Restart",803,89
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:29:50","SAFE2",804,89
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:29:58","SAFE1",805,89
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:30:03","Possible Free Kick",806,89
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:30:04","F2",808,89
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:30:04","FK1",809,89
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:30:04","Ball Position",810,89
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:30:05","POSSIBLE_CARDS",811,89
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:30:10","YC2",812,89
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:30:16","CONF_YC2",813,89
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:30:24","Scorer",814,90
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:30:43","Restart",815,90
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:30:45","Player_DATA_CONFIRMED",816,90
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:30:45","Player_DATA_CONFIRMED",817,90
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:30:49","AT1",818,90
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:30:55","SAFE2",819,90
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:30:57","AT2",820,90
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:30:59","DANGER2",821,90
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:30:59","DAT2",822,90
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:31:08","GOAL2",823,90
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:31:23","Scorer",824,91
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:31:34","Extra Time",825,91
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:32:18","CONF_GOAL2",826,91
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:32:18","KO1",827,91
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:32:18","SAFE1",828,91
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:32:19","AT2",829,91
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:32:19","DANGER2",830,91
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:32:19","DAT2",831,91
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:32:23","SAFE1",832,92
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:32:30","AT1",833,92
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:32:35","DANGER1",834,92
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:32:35","DAT1",835,92
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:32:38","SAFE2",836,92
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:32:47","SAFE1",837,92
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:32:50","AT1",838,92
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:32:52","DANGER1",839,92
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:32:52","DAT1",840,92
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:32:58","SAFE2",841,92
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:33:09","AT2",842,92
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:33:11","DANGER2",843,92
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:33:11","DAT2",844,92
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:33:14","Player_DATA_CONFIRMED",845,92
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:33:14","Assist",846,92
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:33:35","SAFE1",847,93
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:33:35","Possible Free Kick",848,93
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:33:39","F2",850,93
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:33:39","FK1",851,93
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:33:39","Ball Position",852,93
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:34:15","Restart",853,93
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:34:20","SAFE2",854,93
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:34:25","AT2",855,94
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:34:25","DANGER2",856,94
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:34:25","DAT2",857,94
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:34:36","SAFE1",858,94
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:34:54","SAFE2",859,94
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:34:57","AT2",860,94
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:35:01","POSSIBLE_TI",861,94
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:35:02","TI2",862,94
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:35:08","Restart",863,94
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:35:09","SAFE2",864,94
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:35:12","AT2",865,94
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:35:12","DANGER2",866,94
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:35:12","DAT2",867,94
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:35:23","Stop RT2",868,94
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:35:23","Stop Game",869,94
+1051853,"Villarreal CF","Real Betis Balompie","11/25/2018 21:35:31","CONF_PERIOD_SCORE",870,94

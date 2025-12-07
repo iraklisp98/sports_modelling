@@ -1,0 +1,942 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 19:00:36","Lineup changed",0,0
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 19:01:10","Transmission Online",1,0
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 19:01:10","Scout in Stadion",2,0
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 19:52:22","GCC",3,0
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 19:52:54","System Message",4,0
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 19:56:11","Players are coming out",5,0
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 19:56:47","Players lined up",6,0
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 19:56:55","Jersey Changed",7,0
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 19:57:04","Jersey Changed",8,0
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 19:58:58","Photo taking",9,0
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 19:59:12","Flip coin",10,0
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 19:59:20","Game about to start",11,0
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:00:07","Start RT1 Team 2",12,1
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:00:08","SAFE2",13,1
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:00:17","AT2",14,1
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:00:18","DANGER2",15,1
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:00:18","DAT2",16,1
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:00:20","POSSIBLE_TI",17,1
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:00:26","TI2",18,1
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:00:33","Restart",19,1
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:00:40","POSSIBLE_TI",20,1
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:00:42","TI2",21,1
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:01:01","Restart",22,1
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:01:07","SAFE1",23,2
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:01:38","AT1",24,2
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:01:56","SAFE1",25,2
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:02:07","AT1",26,2
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:02:07","DANGER1",27,3
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:02:07","DAT1",28,3
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:02:10","SAFE2",29,3
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:02:19","AT2",30,3
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:02:21","DANGER2",31,3
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:02:21","DAT2",32,3
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:02:26","SAFE2",33,3
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:02:34","AT2",34,3
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:02:35","DANGER2",35,3
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:02:35","DAT2",36,3
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:02:39","SAFE1",37,3
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:02:42","AT1",38,3
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:02:43","DANGER1",39,3
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:02:43","DAT1",40,3
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:03:17","SAFE1",41,4
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:04:03","POSSIBLE_TI",42,4
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:04:04","TI2",43,4
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:04:05","SAFE2",44,4
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:04:16","Restart",45,5
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:04:21","AT2",46,5
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:04:22","DANGER2",47,5
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:04:22","DAT2",48,5
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:04:29","POSSIBLE_TI",49,5
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:04:31","TI2",50,5
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:04:38","Restart",51,5
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:04:42","SAFE2",52,5
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:04:57","AT2",53,5
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:04:58","DANGER2",54,5
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:04:58","DAT2",55,5
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:05:02","POSSIBLE_TI",56,5
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:05:04","TI1",57,5
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:05:21","Restart",58,6
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:05:23","POSSIBLE_TI",59,6
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:05:24","TI1",60,6
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:05:26","Restart",61,6
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:05:29","SAFE1",62,6
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:05:31","AT1",63,6
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:05:35","AT2",64,6
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:05:36","DANGER2",65,6
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:05:36","DAT2",66,6
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:06:10","AT1",67,7
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:06:10","DANGER1",68,7
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:06:10","DAT1",69,7
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:06:12","POSSIBLE_TI",70,7
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:06:13","TI1",71,7
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:06:31","Restart",72,7
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:06:36","SAFE1",73,7
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:07:00","AT1",74,7
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:07:00","DANGER1",75,7
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:07:00","DAT1",76,7
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:07:18","POSSIBLE_TI",77,8
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:07:20","TI2",78,8
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:07:39","CLS",79,8
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:07:42","POSSIBLE_TI",80,8
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:07:42","TI1",81,8
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:07:44","Restart",82,8
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:07:46","POSSIBLE_TI",83,8
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:07:47","TI1",84,8
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:07:53","Restart",85,8
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:08:02","SHB1",86,8
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:08:05","POSSIBLE_TI",87,8
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:08:07","TI2",88,9
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:08:24","Restart",89,9
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:08:28","POSSIBLE_TI",90,9
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:08:29","TI2",91,9
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:08:57","Restart",92,9
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:09:01","SAFE2",93,9
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:09:05","AT2",94,9
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:09:08","SAFE1",95,10
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:09:22","AT1",96,10
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:09:23","DANGER1",97,10
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:09:23","DAT1",98,10
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:09:36","POSSIBLE_TI",99,10
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:09:46","TI2",100,10
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:09:57","Restart",101,10
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:09:58","SAFE2",102,10
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:10:02","AT1",103,10
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:10:03","DANGER1",104,10
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:10:03","DAT1",105,10
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:10:08","SHB1",106,11
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:10:09","SAFE2",107,11
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:10:10","GK2",108,11
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:10:29","Restart",109,11
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:10:44","SAFE1",110,11
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:10:47","AT1",111,11
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:10:48","DANGER1",112,11
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:10:48","DAT1",113,11
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:11:11","PCR1",114,12
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:11:19","CR1",115,12
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:11:21","Ball Position",116,12
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:11:39","Restart",117,12
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:11:48","SHG1",118,12
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:11:50","SAFE2",119,12
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:12:10","SAFE1",120,13
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:12:42","POSSIBLE_TI",121,13
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:12:42","TI1",122,13
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:12:43","Restart",123,13
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:13:00","AT1",124,13
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:13:01","DANGER1",125,13
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:13:01","DAT1",126,13
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:13:13","AT2",127,14
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:13:25","DANGER2",128,14
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:13:25","DAT2",129,14
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:13:40","PCR2",130,14
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:13:54","CR2",131,14
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:14:00","Ball Position",132,14
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:14:07","Restart",133,14
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:14:15","POSSIBLE_TI",134,15
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:14:17","TI2",135,15
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:14:28","Restart",136,15
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:14:32","POSSIBLE_TI",137,15
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:14:34","TI1",138,15
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:14:47","Restart",139,15
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:14:49","SAFE1",140,15
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:14:50","AT1",141,15
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:14:53","DANGER1",142,15
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:14:53","DAT1",143,15
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:15:04","PCR1",144,15
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:15:12","CR1",145,16
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:15:16","Ball Position",146,16
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:15:40","Restart",147,16
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:15:51","SHB1",148,16
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:15:53","SAFE2",149,16
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:15:54","GK2",150,16
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:16:26","Restart",151,17
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:16:34","SAFE1",152,17
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:16:35","GK1",153,17
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:16:57","Restart",154,17
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:17:18","SAFE1",155,18
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:17:24","POSSIBLE_TI",156,18
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:17:25","TI1",157,18
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:17:26","Restart",158,18
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:17:28","AT1",159,18
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:17:34","DANGER1",160,18
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:17:34","DAT1",161,18
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:17:35","SAFE2",162,18
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:17:40","AT2",163,18
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:17:45","DANGER2",164,18
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:17:45","DAT2",165,18
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:17:48","SAFE2",166,18
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:17:54","AT2",167,18
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:17:55","DANGER2",168,18
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:17:55","DAT2",169,18
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:18:00","SAFE2",170,18
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:18:24","AT2",171,19
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:18:26","SAFE1",172,19
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:18:28","AT1",173,19
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:18:44","SAFE1",174,19
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:19:08","AT1",175,20
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:19:08","DANGER1",176,20
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:19:08","DAT1",177,20
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:19:12","POSSIBLE_TI",178,20
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:19:13","TI2",179,20
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:19:31","Restart",180,20
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:19:36","SAFE2",181,20
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:19:37","Possible Free Kick",182,20
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:19:40","F1",184,20
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:19:40","FK2",185,20
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:19:41","Ball Position",186,20
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:20:14","AT2",187,21
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:20:14","DANGER2",188,21
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:20:14","DAT2",189,21
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:20:16","Restart",190,21
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:20:19","SAFE1",191,21
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:20:27","Injury Break",192,21
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:20:43","Referee Ball",193,21
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:20:45","SAFE1",194,21
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:21:15","SAFE2",195,22
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:21:23","AT2",196,22
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:21:25","DANGER2",197,22
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:21:25","DAT2",198,22
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:21:27","SAFE1",199,22
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:21:29","AT2",200,22
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:21:29","DANGER2",201,22
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:21:29","DAT2",202,22
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:21:48","SAFE1",203,22
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:21:52","SAFE2",204,22
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:21:55","Possible Free Kick",205,22
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:22:13","POSSIBLE_CARDS",207,23
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:22:29","F1",208,23
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:22:29","FK2",209,23
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:22:29","Ball Position",210,23
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:22:30","Restart",211,23
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:22:31","AT2",212,23
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:22:55","YC1",213,23
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:23:03","CONF_YC1",214,23
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:23:03","Scorer",215,23
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:23:12","SAFE1",216,24
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:23:28","AT1",217,24
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:23:29","DANGER1",218,24
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:23:29","DAT1",219,24
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:23:40","GOAL1",220,24
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:24:54","Assist",221,25
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:25:01","CONF_GOAL1",222,25
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:25:02","Scorer",223,25
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:25:03","KO2",224,25
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:25:03","SAFE2",225,25
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:25:03","SAFE2",226,25
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:25:23","Player_DATA_CONFIRMED",227,26
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:25:24","System Message",228,26
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:25:28","AT2",229,26
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:25:31","POSSIBLE_TI",230,26
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:25:48","TI1",231,26
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:25:52","Restart",232,26
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:26:14","Start score update",233,27
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:26:16","CR2",234,27
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:26:16","DANGER2",235,27
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:26:19","Score update finished",236,27
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:26:23","System Message",237,27
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:26:25","Restart",238,27
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:26:27","SHG2",239,27
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:26:37","Possible Free Kick",240,27
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:26:44","F1",242,27
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:26:44","FK2",243,27
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:26:44","DFK2",244,27
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:26:44","Ball Position",245,27
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:27:27","Restart",246,28
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:27:29","SAFE1",247,28
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:28:03","AT1",248,28
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:28:04","SAFE2",249,28
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:28:07","Player_DATA_CONFIRMED",250,29
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:28:08","SAFE1",251,29
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:28:13","AT1",252,29
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:28:14","DANGER1",253,29
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:28:14","DAT1",254,29
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:28:21","POSSIBLE_TI",255,29
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:28:24","TI1",256,29
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:28:39","Restart",257,29
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:28:54","POSSIBLE_TI",258,29
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:28:55","TI1",259,29
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:29:01","Restart",260,29
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:29:03","SAFE1",261,29
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:29:25","POSSIBLE_TI",262,30
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:29:27","TI1",263,30
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:29:28","Restart",264,30
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:29:29","AT1",265,30
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:29:31","POSSIBLE_TI",266,30
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:29:32","TI2",267,30
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:29:38","SAFE2",268,30
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:29:48","Restart",269,30
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:29:55","SAFE1",270,30
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:29:59","AT1",271,30
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:30:02","DANGER1",272,30
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:30:02","DAT1",273,30
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:30:11","SAFE1",274,31
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:30:30","AT1",275,31
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:30:31","DANGER1",276,31
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:30:31","DAT1",277,31
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:31:09","SAFE2",278,32
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:31:34","AT2",279,32
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:31:35","DANGER2",280,32
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:31:35","DAT2",281,32
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:31:39","SAFE1",282,32
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:32:00","AT1",283,32
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:32:02","DANGER1",284,32
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:32:02","DAT1",285,32
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:32:09","SAFE2",286,33
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:32:10","Possible Free Kick",287,33
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:32:11","F1",289,33
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:32:11","FK2",290,33
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:32:12","Ball Position",291,33
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:32:14","Restart",292,33
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:32:16","SAFE1",293,33
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:32:21","AT1",294,33
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:32:21","DANGER1",295,33
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:32:21","DAT1",296,33
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:32:28","SAFE2",297,33
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:32:42","AT2",298,33
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:32:43","DANGER2",299,33
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:32:43","DAT2",300,33
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:32:48","SAFE2",301,33
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:33:19","AT2",302,34
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:33:22","SAFE2",303,34
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:33:25","AT2",304,34
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:33:26","DANGER2",305,34
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:33:26","DAT2",306,34
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:33:35","SAFE1",307,34
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:33:37","GK1",308,34
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:34:05","Restart",309,34
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:34:11","AT1",310,35
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:34:17","Possible Free Kick",311,35
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:34:22","SAFE2",313,35
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:34:22","F1",314,35
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:34:22","FK2",315,35
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:34:23","Ball Position",316,35
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:34:35","Restart",317,35
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:34:39","AT2",318,35
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:34:40","DANGER2",319,35
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:34:40","DAT2",320,35
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:34:49","SAFE1",321,35
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:35:04","AT1",322,35
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:35:05","DANGER1",323,35
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:35:05","DAT1",324,35
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:35:16","Possible Free Kick",325,36
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:35:21","F2",327,36
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:35:21","FK1",328,36
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:35:21","DFK1",329,36
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:35:21","Ball Position",330,36
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:35:43","Restart",331,36
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:35:44","DANGER1",332,36
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:35:56","SAFE2",333,36
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:36:14","AT2",334,37
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:36:17","POSSIBLE_TI",335,37
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:36:20","TI2",336,37
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:36:29","Restart",337,37
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:36:36","DANGER2",338,37
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:36:36","DAT2",339,37
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:36:38","POSSIBLE_TI",340,37
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:36:39","TI1",341,37
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:36:57","Restart",342,37
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:37:08","SAFE1",343,38
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:37:13","AT1",344,38
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:37:15","DANGER1",345,38
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:37:15","DAT1",346,38
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:37:31","SAFE2",347,38
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:37:34","AT1",348,38
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:37:34","DANGER1",349,38
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:37:34","DAT1",350,38
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:37:47","GOAL1",351,38
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:38:44","CONF_GOAL1",352,39
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:38:53","Scorer",353,39
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:38:53","KO2",354,39
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:38:53","SAFE2",355,39
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:39:22","POSSIBLE_TI",356,40
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:39:23","TI2",357,40
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:39:24","Restart",358,40
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:39:24","Player_DATA_CONFIRMED",359,40
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:39:26","AT2",360,40
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:39:52","AT2",361,40
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:39:55","DANGER2",362,40
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:39:55","DAT2",363,40
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:40:03","SAFE1",364,40
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:40:04","GK1",365,40
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:40:25","SHB2",366,41
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:40:36","Restart",367,41
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:40:43","SAFE1",368,41
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:40:46","AT2",369,41
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:40:50","SAFE1",370,41
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:40:52","POSSIBLE_TI",371,41
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:40:54","TI1",372,41
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:40:56","Restart",373,41
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:40:58","AT1",374,41
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:41:03","SAFE2",375,41
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:41:04","AT1",376,41
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:41:05","DANGER1",377,41
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:41:05","DAT1",378,41
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:41:07","BREAKAWAY1",379,42
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:41:19","SAFE1",380,42
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:41:22","POSSIBLE_TI",381,42
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:41:23","TI1",382,42
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:41:30","Restart",383,42
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:41:46","AT1",384,42
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:41:51","DANGER1",385,42
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:41:51","DAT1",386,42
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:42:16","POSSIBLE_TI",387,43
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:42:17","TI1",388,43
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:42:30","Restart",389,43
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:42:40","SAFE1",390,43
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:42:53","AT1",391,43
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:42:54","DANGER1",392,43
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:42:54","DAT1",393,43
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:43:06","SAFE2",394,43
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:43:19","POSSIBLE_TI",395,44
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:43:20","TI2",396,44
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:43:20","Restart",397,44
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:43:23","AT2",398,44
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:43:24","DANGER2",399,44
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:43:24","DAT2",400,44
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:43:35","Possible Free Kick",401,44
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:43:40","F1",403,44
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:43:40","FK2",404,44
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:43:40","DFK2",405,44
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:43:40","Ball Position",406,44
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:44:03","Restart",407,44
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:44:10","SHB2",408,45
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:44:11","SAFE1",409,45
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:44:13","GK1",410,45
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:44:44","Restart",411,45
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:44:56","SAFE2",412,45
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:44:57","POSSIBLE_TI",413,45
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:44:57","TI2",414,45
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:45:07","Restart",415,46
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:45:13","SAFE1",416,46
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:45:15","POSSIBLE_TI",417,46
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:45:16","TI1",418,46
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:45:20","Extra Time",419,46
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:45:31","Restart",420,46
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:45:33","SAFE2",421,46
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:45:34","AT2",422,46
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:45:35","SAFE1",423,46
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:45:38","AT1",424,46
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:45:41","SAFE2",425,46
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:45:52","AT2",426,46
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:45:59","SAFE1",427,46
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:46:06","SAFE2",428,46
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:46:08","AT1",429,47
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:46:19","SAFE1",430,47
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:46:24","AT1",431,47
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:46:25","DANGER1",432,47
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:46:25","DAT1",433,47
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:46:36","SHB1",434,47
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:46:38","SAFE2",435,47
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:46:39","GK2",436,47
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:47:00","Restart",437,47
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:47:04","SAFE2",438,47
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:47:05","AT2",439,47
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:47:06","DANGER2",440,47
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:47:06","DAT2",441,47
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:47:14","Stop RT1",442,47
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 20:47:21","CONF_PERIOD_SCORE",443,45
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:02:23","Players are coming out",444,45
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:02:23","Game about to start",445,45
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:02:42","SUB2",446,45
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:02:44","Start RT2 Team 1",447,46
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:02:48","SAFE1",448,46
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:02:54","Player_DATA_CONFIRMED",449,46
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:03:16","AT1",450,46
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:03:17","DANGER1",451,46
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:03:17","DAT1",452,46
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:03:31","POSSIBLE_TI",453,46
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:03:32","TI1",454,46
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:05:12","Start score update",455,48
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:05:13","Statistic confirmation",456,48
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:05:13","Score update finished",457,48
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:05:13","SAFE1",458,48
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:05:25","SAFE2",459,48
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:05:26","POSSIBLE_TI",460,48
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:05:27","TI2",461,48
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:05:51","Restart",462,49
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:05:53","System Message",463,49
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:05:59","SAFE2",464,49
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:06:03","Possible Free Kick",465,49
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:06:11","F1",467,49
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:06:11","FK2",468,49
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:06:11","Ball Position",469,49
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:06:18","System Message",470,49
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:06:25","Restart",471,49
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:06:26","AT2",472,49
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:06:27","DANGER2",473,49
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:06:27","DAT2",474,49
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:06:55","System Message",475,50
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:07:06","POSSIBLE_TI",476,50
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:07:07","TI2",477,50
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:07:08","Restart",478,50
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:07:12","SAFE2",479,50
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:07:13","AT2",480,50
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:07:15","SAFE1",481,50
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:07:26","AT1",482,50
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:07:28","DANGER1",483,50
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:07:28","DAT1",484,50
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:07:31","SAFE2",485,50
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:07:45","System Message",486,51
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:07:51","AT2",487,51
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:07:54","DANGER2",488,51
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:07:54","DAT2",489,51
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:07:56","SAFE1",490,51
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:08:14","AT1",491,51
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:08:19","SAFE2",492,51
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:08:28","AT2",493,51
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:08:29","DANGER2",494,51
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:08:29","DAT2",495,51
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:08:43","Possible Free Kick",496,51
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:08:50","F1",499,52
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:08:50","FK2",500,52
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:08:50","DFK2",501,52
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:08:50","Ball Position",502,52
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:09:08","Restart",503,52
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:09:17","SAFE1",504,52
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:09:18","AT1",505,52
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:09:19","DANGER1",506,52
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:09:19","DAT1",507,52
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:09:20","BREAKAWAY1",508,52
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:09:25","PCR1",509,52
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:09:28","CR1",510,52
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:09:31","Ball Position",511,52
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:09:33","SHG1",512,52
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:10:08","System Message",513,53
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:10:17","Restart",514,53
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:10:23","SHG1",515,53
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:10:59","POSSIBLE_CARDS",516,54
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:11:01","YC2",517,54
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:11:07","CONF_YC2",518,54
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:11:07","Scorer",519,54
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:11:11","SAFE2",520,54
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:11:12","POSSIBLE_TI",521,54
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:11:13","TI2",522,54
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:11:18","System Message",523,54
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:11:24","Restart",524,54
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:11:25","SAFE2",525,54
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:11:40","AT2",526,54
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:11:41","DANGER2",527,54
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:11:41","DAT2",528,54
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:11:47","PCR2",529,55
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:11:51","CR2",530,55
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:11:54","Ball Position",531,55
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:12:16","Restart",532,55
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:12:22","SHB2",533,55
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:12:23","SAFE1",534,55
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:12:24","GK1",535,55
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:12:45","Restart",536,56
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:13:03","SAFE1",537,56
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:13:04","AT1",538,56
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:13:07","SAFE2",539,56
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:13:08","AT2",540,56
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:13:11","SAFE1",541,56
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:13:16","AT1",542,56
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:13:20","System Message",543,56
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:13:23","POSSIBLE_TI",544,56
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:13:25","TI2",545,56
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:13:39","Restart",546,56
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:13:41","SAFE2",547,56
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:13:42","AT1",548,56
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:13:42","DANGER1",549,56
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:13:42","DAT1",550,56
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:13:44","SAFE2",551,57
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:14:00","AT2",552,57
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:14:08","SAFE1",553,57
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:14:09","POSSIBLE_TI",554,57
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:14:12","TI1",555,57
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:14:26","SAFE1",556,57
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:14:33","System Message",557,57
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:14:39","AT1",558,57
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:14:43","SAFE2",559,57
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:14:44","Possible Free Kick",560,58
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:14:47","F1",562,58
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:14:47","FK2",563,58
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:14:47","Ball Position",564,58
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:15:11","AT2",565,58
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:15:11","DANGER2",566,58
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:15:11","DAT2",567,58
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:15:14","Restart",568,58
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:15:16","SAFE1",569,58
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:15:38","AT2",570,58
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:15:39","DANGER2",571,58
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:15:39","DAT2",572,58
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:15:47","BLOCKED2",573,59
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:16:02","SAFE2",574,59
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:16:03","AT2",575,59
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:16:06","DANGER2",576,59
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:16:06","DAT2",577,59
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:16:19","SAFE1",578,59
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:16:20","GK1",579,59
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:16:53","Restart",580,60
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:16:59","Possible Free Kick",581,60
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:17:00","POSSIBLE_CARDS",583,60
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:17:10","YC2",584,60
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:17:25","CONF_YC2",585,60
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:17:25","Scorer",586,60
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:17:30","F2",587,60
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:17:30","FK1",588,60
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:17:31","DANGER1",589,60
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:17:31","DFK1",590,60
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:17:31","Ball Position",591,60
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:17:31","Restart",592,60
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:17:46","SAFE1",593,61
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:17:54","Player_DATA_CONFIRMED",594,61
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:17:58","AT1",595,61
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:17:59","DANGER1",596,61
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:17:59","DAT1",597,61
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:18:00","POSSIBLE_TI",598,61
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:18:02","TI1",599,61
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:18:30","Restart",600,61
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:18:56","POSSIBLE_TI",601,62
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:18:56","TI1",602,62
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:18:57","Restart",603,62
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:19:03","POSSIBLE_TI",604,62
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:19:08","TI1",605,62
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:19:11","Restart",606,62
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:19:21","POSSIBLE_TI",607,62
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:19:21","TI1",608,62
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:19:22","Restart",609,62
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:19:35","POSSIBLE_TI",610,62
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:19:38","TI1",611,62
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:19:53","Restart",612,63
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:20:04","SAFE2",613,63
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:20:28","AT2",614,63
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:20:31","SAFE2",615,63
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:20:35","Player_DATA_CONFIRMED",616,63
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:20:53","AT2",617,64
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:20:54","DANGER2",618,64
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:20:54","DAT2",619,64
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:20:55","SAFE1",620,64
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:20:56","GK1",621,64
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:21:25","Restart",622,64
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:21:33","Possible Free Kick",623,64
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:21:39","F2",625,64
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:21:39","FK1",626,64
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:21:39","DANGER1",627,64
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:21:39","DFK1",628,64
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:21:39","Ball Position",629,64
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:21:40","Restart",630,64
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:21:41","DANGER1",631,64
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:21:59","POSSIBLE_TI",632,65
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:22:00","TI1",633,65
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:22:02","Restart",634,65
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:22:06","SHB1",635,65
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:22:07","SAFE2",636,65
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:22:07","GK2",637,65
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:22:30","Restart",638,65
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:22:31","SAFE2",639,65
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:22:33","AT2",640,65
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:22:35","Possible Free Kick",641,65
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:22:39","SAFE1",643,65
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:22:39","F2",644,65
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:22:39","FK1",645,65
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:22:39","Ball Position",646,65
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:22:55","Restart",647,66
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:22:56","AT1",648,66
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:22:56","DANGER1",649,66
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:22:56","DAT1",650,66
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:23:15","SHB1",651,66
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:23:18","SAFE2",652,66
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:23:19","GK2",653,66
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:23:44","System Message",654,66
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:23:46","Restart",655,67
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:23:50","AT2",656,67
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:23:55","POSSIBLE_TI",657,67
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:23:56","TI2",658,67
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:24:03","Restart",659,67
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:24:05","DANGER2",660,67
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:24:05","DAT2",661,67
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:24:10","Possible Free Kick",662,67
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:24:14","SAFE1",664,67
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:24:14","F2",665,67
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:24:14","FK1",666,67
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:24:14","Ball Position",667,67
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:24:25","Danger",668,67
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:24:40","Restart",669,67
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:24:43","AT1",670,67
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:25:00","POSSIBLE_TI",671,68
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:25:01","TI2",672,68
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:25:02","Restart",673,68
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:25:05","SAFE2",674,68
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:25:16","AT2",675,68
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:25:19","SAFE1",676,68
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:25:20","AT1",677,68
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:25:27","SAFE1",678,68
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:25:37","AT1",679,68
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:25:39","DANGER1",680,68
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:25:39","DAT1",681,68
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:25:50","POSSIBLE_TI",682,69
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:25:51","TI1",683,69
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:26:15","Restart",684,69
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:26:42","SAFE1",685,69
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:26:48","AT1",686,70
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:26:53","SAFE2",687,70
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:27:02","AT1",688,70
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:27:07","SAFE1",689,70
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:27:14","System Message",690,70
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:27:17","SAFE2",691,70
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:27:25","SAFE1",692,70
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:27:35","AT1",693,70
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:27:36","DANGER1",694,70
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:27:36","DAT1",695,70
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:27:50","SHB1",696,71
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:27:52","SAFE2",697,71
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:27:53","GK2",698,71
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:28:33","SUB2",699,71
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:28:35","Restart",700,71
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:28:36","AT2",701,71
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:28:36","DANGER2",702,71
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:28:36","DAT2",703,71
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:28:41","SAFE1",704,71
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:28:44","Possible Free Kick",705,72
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:28:54","Player_DATA_CONFIRMED",707,72
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:29:04","F2",708,72
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:29:04","FK1",709,72
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:29:04","Ball Position",710,72
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:29:11","Restart",711,72
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:29:26","SAFE2",712,72
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:29:39","POSSIBLE_TI",713,72
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:29:40","TI2",714,72
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:29:50","Restart",715,73
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:29:50","AT2",716,73
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:29:51","DANGER2",717,73
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:29:51","DAT2",718,73
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:30:00","SAFE1",719,73
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:30:01","AT1",720,73
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:30:05","POSSIBLE_TI",721,73
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:30:06","TI1",722,73
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:30:25","Restart",723,73
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:30:26","AT1",724,73
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:30:27","DANGER1",725,73
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:30:27","DAT1",726,73
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:30:39","SAFE2",727,73
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:30:49","AT2",728,74
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:30:49","DANGER2",729,74
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:30:49","DAT2",730,74
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:31:21","Possible Free Kick",731,74
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:31:25","SAFE1",733,74
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:31:25","F2",734,74
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:31:25","FK1",735,74
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:31:25","Ball Position",736,74
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:31:48","Restart",737,75
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:31:49","AT1",738,75
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:31:49","DANGER1",739,75
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:31:49","DAT1",740,75
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:31:51","SAFE2",741,75
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:32:10","AT2",742,75
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:32:10","DANGER2",743,75
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:32:10","DAT2",744,75
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:32:16","SHB2",745,75
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:32:26","SAFE1",746,75
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:32:27","GK1",747,75
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:32:47","Restart",748,76
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:32:56","AT2",749,76
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:32:57","DANGER2",750,76
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:32:57","DAT2",751,76
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:33:00","POSSIBLE_TI",752,76
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:33:02","TI1",753,76
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:33:17","Restart",754,76
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:33:20","SAFE1",755,76
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:33:29","AT2",756,76
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:33:31","DANGER2",757,76
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:33:31","DAT2",758,76
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:33:57","SAFE2",759,77
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:33:58","POSSIBLE_TI",760,77
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:33:59","TI2",761,77
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:34:11","Restart",762,77
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:34:15","AT2",763,77
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:34:16","DANGER2",764,77
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:34:16","DAT2",765,77
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:34:24","PCR2",766,77
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:34:35","CR2",767,77
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:34:37","Ball Position",768,77
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:34:48","Restart",769,78
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:34:51","Possible Free Kick",770,78
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:35:01","SAFE1",772,78
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:35:01","F2",773,78
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:35:01","FK1",774,78
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:35:01","Ball Position",775,78
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:35:33","Restart",776,78
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:35:38","SAFE1",777,78
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:35:44","AT2",778,78
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:35:44","DANGER2",779,78
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:35:44","DAT2",780,78
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:35:55","SAFE1",781,79
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:35:59","AT1",782,79
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:36:00","DANGER1",783,79
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:36:00","DAT1",784,79
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:36:06","PCR1",785,79
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:36:13","CR1",786,79
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:36:14","Ball Position",787,79
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:36:42","SUB1",788,79
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:37:18","Player_DATA_CONFIRMED",789,80
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:37:47","Restart",790,81
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:38:00","SAFE2",791,81
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:38:08","AT2",792,81
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:38:08","DANGER2",793,81
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:38:08","DAT2",794,81
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:38:18","SAFE1",795,81
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:38:39","AT2",796,81
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:38:41","SAFE1",797,81
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:39:10","AT2",798,82
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:39:11","SAFE1",799,82
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:39:15","AT1",800,82
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:39:28","SAFE2",801,82
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:39:36","AT2",802,82
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:39:37","DANGER2",803,82
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:39:37","DAT2",804,82
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:39:43","POSSIBLE_TI",805,82
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:39:43","TI2",806,82
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:40:20","SUB2",807,83
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:40:26","Restart",808,83
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:40:31","SAFE1",809,83
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:40:47","AT1",810,84
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:41:06","SAFE1",811,84
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:41:09","AT2",812,84
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:41:10","DANGER2",813,84
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:41:10","DAT2",814,84
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:41:12","POSSIBLE_TI",815,84
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:41:13","TI2",816,84
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:41:40","SUB1",817,84
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:41:54","SUB_UPDATE",818,85
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:41:54","Player_DATA_CONFIRMED",819,85
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:42:07","Restart",820,85
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:42:08","AT2",821,85
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:42:09","DANGER2",822,85
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:42:09","DAT2",823,85
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:42:15","POSSIBLE_TI",824,85
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:42:16","TI2",825,85
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:42:26","Restart",826,85
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:42:28","PCR2",827,85
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:42:34","CR2",828,85
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:42:36","Ball Position",829,85
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:42:46","Player_DATA_CONFIRMED",830,86
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:42:48","Restart",831,86
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:42:56","SHG2",832,86
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:43:04","PCR2",833,86
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:43:16","CR2",834,86
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:43:17","Ball Position",835,86
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:43:23","Restart",836,86
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:43:30","SAFE1",837,86
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:43:49","SAFE2",838,87
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:43:52","SAFE1",839,87
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:43:57","POSSIBLE_TI",840,87
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:43:58","TI1",841,87
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:44:16","SUB1",842,87
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:44:36","Player_DATA_CONFIRMED",843,87
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:44:48","Restart",844,88
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:44:51","POSSIBLE_TI",845,88
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:44:52","TI1",846,88
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:45:03","Restart",847,88
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:45:04","AT1",848,88
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:45:04","DANGER1",849,88
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:45:04","DAT1",850,88
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:45:06","POSSIBLE_TI",851,88
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:45:06","TI1",852,88
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:45:08","Restart",853,88
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:45:15","SAFE1",854,88
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:45:21","Possible Free Kick",855,88
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:45:25","POSSIBLE_CARDS",857,88
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:45:31","YC2",858,88
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:45:46","CONF_YC2",859,89
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:45:46","Scorer",860,89
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:45:48","F2",861,89
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:45:48","FK1",862,89
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:45:48","Ball Position",863,89
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:45:55","Player_DATA_CONFIRMED",864,89
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:46:09","Restart",865,89
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:46:13","AT1",866,89
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:46:13","DANGER1",867,89
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:46:13","DAT1",868,89
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:46:17","SAFE2",869,89
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:46:18","POSSIBLE_TI",870,89
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:46:20","TI2",871,89
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:46:34","Restart",872,89
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:46:35","AT2",873,89
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:46:35","DANGER2",874,89
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:46:35","DAT2",875,89
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:46:55","SAFE1",876,90
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:46:56","Possible Free Kick",877,90
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:47:22","F2",879,90
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:47:22","FK1",880,90
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:47:22","Ball Position",881,90
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:47:22","Injury Break",882,90
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:47:57","Extra Time",883,91
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:49:38","System Message",884,92
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:49:39","Game suspended",885,92
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:49:55","Restart",886,93
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:49:56","AT1",887,93
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:49:57","DANGER1",888,93
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:49:57","DAT1",889,93
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:49:58","System Message",890,93
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:50:00","POSSIBLE_TI",891,93
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:50:00","TI2",892,93
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:50:03","Restart",893,93
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:50:15","AT2",894,93
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:50:16","DANGER2",895,93
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:50:16","DAT2",896,93
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:50:25","POSSIBLE_TI",897,93
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:50:26","TI2",898,93
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:50:36","Restart",899,93
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:50:53","BLOCKED2",900,94
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:50:54","POSSIBLE_TI",901,94
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:50:56","TI2",902,94
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:51:04","Injury Break",903,94
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:51:06","Restart",904,94
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:51:06","POSSIBLE_TI",905,94
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:51:07","TI2",906,94
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:51:13","Restart",907,94
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:51:30","POSSIBLE_TI",908,94
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:51:31","TI2",909,94
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:51:41","Restart",910,94
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:51:55","System Message",911,95
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:52:01","Start score update",912,95
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:52:02","CR2",913,95
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:52:04","Score update finished",914,95
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:52:05","SAFE1",915,95
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:52:14","System Message",916,95
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:52:21","POSSIBLE_TI",917,95
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:52:22","TI1",918,95
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:52:30","Restart",919,95
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:52:33","AT1",920,95
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:52:34","DANGER1",921,95
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:52:34","DAT1",922,95
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:52:51","POSSIBLE_TI",923,96
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:52:51","TI1",924,96
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:53:01","Restart",925,96
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:53:03","AT1",926,96
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:53:03","DANGER1",927,96
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:53:03","DAT1",928,96
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:53:14","SAFE2",929,96
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:53:14","AT2",930,96
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:53:14","DANGER2",931,96
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:53:14","DAT2",932,96
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:53:15","POSSIBLE_TI",933,96
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:53:16","TI2",934,96
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:53:24","Restart",935,96
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:53:33","SAFE1",936,96
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:53:34","AT1",937,96
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:53:36","DANGER1",938,96
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:53:36","DAT1",939,96
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:53:43","SHB1",940,96
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:53:45","SAFE2",941,97
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:53:49","GK2",942,97
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:53:56","Restart",943,97
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:53:57","AT2",944,97
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:53:58","DANGER2",945,97
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:53:58","DAT2",946,97
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:54:07","SAFE1",947,97
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:54:10","Possible Free Kick",948,97
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:54:13","F2",950,97
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:54:13","FK1",951,97
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:54:13","Ball Position",952,97
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:54:47","Restart",953,98
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:54:48","AT1",954,98
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:54:48","DANGER1",955,98
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:54:48","DAT1",956,98
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:54:54","POSSIBLE_TI",957,98
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:55:00","NO_TI",958,98
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:55:03","Stop RT2",959,98
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:55:03","Stop Game",960,98
+1090119,"Newcastle United FC","Burnley FC","02/26/2019 21:55:19","CONF_PERIOD_SCORE",961,97

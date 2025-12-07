@@ -1,0 +1,988 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 17:27:43","Scout in Stadion",0,0
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 17:27:45","Transmission Online",1,0
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 17:28:15","GCC",2,0
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 17:28:36","Jersey Changed",3,0
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 17:28:37","Jersey Changed",4,0
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 17:29:50","Lineup changed",5,0
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 17:55:08","Players are coming out",6,0
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 17:55:40","Players lined up",7,0
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 17:55:45","Shake hands",8,0
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 17:56:40","Flip coin",9,0
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 17:57:29","Minute of silent",10,0
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 17:58:54","Game about to start",11,0
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 17:59:59","Start RT1 Team 1",12,1
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:00:06","AT1",13,1
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:00:13","POSSIBLE_TI",14,1
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:00:13","TI1",15,1
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:00:21","Restart",16,1
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:00:23","DANGER1",17,1
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:00:23","DAT1",18,1
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:00:27","SAFE2",19,1
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:00:28","GK2",20,1
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:00:38","Restart",21,1
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:00:54","AT2",22,1
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:01:19","DANGER2",23,2
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:01:19","DAT2",24,2
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:01:47","SAFE1",25,2
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:02:11","AT1",26,3
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:02:14","POSSIBLE_TI",27,3
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:02:14","TI1",28,3
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:02:19","Restart",29,3
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:02:41","SAFE1",30,3
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:02:48","AT1",31,3
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:02:50","DANGER1",32,3
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:02:50","DAT1",33,3
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:02:54","POSSIBLE_TI",34,3
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:02:55","TI1",35,3
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:03:06","Restart",36,4
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:03:57","SHB1",37,4
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:03:57","SAFE2",38,4
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:03:58","GK2",39,4
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:04:07","Restart",40,5
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:04:30","AT2",41,5
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:04:32","DANGER2",42,5
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:04:32","DAT2",43,5
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:04:51","SAFE1",44,5
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:04:55","SAFE2",45,5
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:05:22","SAFE1",46,6
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:05:24","AT1",47,6
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:05:26","DANGER1",48,6
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:05:26","DAT1",49,6
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:05:32","Possible Free Kick",50,6
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:05:35","SAFE2",52,6
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:05:35","F1",53,6
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:05:35","FK2",54,6
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:05:35","Ball Position",55,6
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:05:49","Restart",56,6
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:06:10","POSSIBLE_TI",57,7
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:06:11","TI1",58,7
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:06:13","SAFE1",59,7
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:06:18","Restart",60,7
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:06:27","POSSIBLE_TI",61,7
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:06:28","TI1",62,7
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:06:30","Restart",63,7
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:06:30","AT1",64,7
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:06:33","DANGER1",65,7
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:06:33","DAT1",66,7
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:06:51","POSSIBLE_TI",67,7
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:06:52","TI1",68,7
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:07:00","Restart",69,8
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:07:06","POSSIBLE_TI",70,8
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:07:07","NO_TI",71,8
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:07:08","Possible Free Kick",72,8
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:07:11","SAFE2",74,8
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:07:11","O1",75,8
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:07:11","FK2",76,8
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:07:11","Ball Position",77,8
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:07:21","Restart",78,8
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:07:31","AT2",79,8
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:07:34","POSSIBLE_TI",80,8
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:07:35","TI2",81,8
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:07:40","Restart",82,8
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:08:02","POSSIBLE_TI",83,9
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:08:05","TI2",84,9
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:08:06","Restart",85,9
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:08:12","SAFE1",86,9
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:08:18","AT1",87,9
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:08:35","DANGER1",88,9
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:08:35","DAT1",89,9
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:08:40","Possible Free Kick",90,9
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:08:44","SAFE2",92,9
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:08:44","F1",93,9
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:08:44","FK2",94,9
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:08:44","Ball Position",95,9
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:08:59","Restart",96,9
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:09:22","AT1",97,10
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:09:22","DANGER1",98,10
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:09:22","DAT1",99,10
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:09:33","AT2",100,10
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:09:33","DANGER2",101,10
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:09:33","DAT2",102,10
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:09:48","PCR2",103,10
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:09:50","CR2",104,10
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:09:56","Ball Position",105,10
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:10:19","Restart",106,11
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:10:31","SAFE1",107,11
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:10:37","AT1",108,11
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:10:42","DANGER1",109,11
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:10:42","DAT1",110,11
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:10:58","Possible Free Kick",111,11
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:11:00","SAFE2",113,12
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:11:00","F1",114,12
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:11:00","FK2",115,12
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:11:00","Ball Position",116,12
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:11:24","Restart",117,12
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:11:45","AT2",118,12
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:11:45","DANGER2",119,12
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:11:45","DAT2",120,12
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:11:50","SAFE1",121,12
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:12:11","AT1",122,13
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:12:16","SAFE2",123,13
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:12:27","AT2",124,13
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:12:30","DANGER2",125,13
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:12:30","DAT2",126,13
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:12:52","GOAL2",127,13
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:13:00","CGOAL2",128,14
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:13:02","SAFE1",129,14
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:13:03","GK1",130,14
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:13:15","Restart",131,14
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:13:22","AT1",132,14
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:13:25","DANGER1",133,14
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:13:25","DAT1",134,14
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:13:35","SHW1",135,14
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:13:38","SHB1",136,14
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:13:44","SAFE2",137,14
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:13:45","GK2",138,14
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:13:47","Restart",139,14
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:14:03","POSSIBLE_TI",140,15
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:14:06","TI1",141,15
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:14:08","Restart",142,15
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:14:09","AT1",143,15
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:14:09","DANGER1",144,15
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:14:09","DAT1",145,15
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:14:15","SAFE2",146,15
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:14:16","AT2",147,15
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:14:19","POSSIBLE_TI",148,15
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:14:20","TI1",149,15
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:14:34","System Message",150,15
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:14:36","Restart",151,15
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:14:40","SAFE1",152,15
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:14:44","AT1",153,15
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:14:48","DANGER1",154,15
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:14:48","DAT1",155,15
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:14:58","POSSIBLE_TI",156,15
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:15:00","TI1",157,16
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:15:10","Restart",158,16
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:15:17","SAFE2",159,16
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:15:32","AT2",160,16
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:15:36","DANGER2",161,16
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:15:36","DAT2",162,16
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:15:49","SAFE1",163,16
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:16:22","POSSIBLE_TI",164,17
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:16:24","TI1",165,17
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:16:45","Restart",166,17
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:16:47","AT1",167,17
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:16:49","POSSIBLE_TI",168,17
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:16:50","TI1",169,17
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:16:58","Restart",170,17
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:16:59","DANGER1",171,17
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:16:59","DAT1",172,17
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:17:01","POSSIBLE_TI",173,18
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:17:02","TI1",174,18
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:17:05","Restart",175,18
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:17:09","SAFE2",176,18
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:17:22","AT2",177,18
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:17:25","POSSIBLE_TI",178,18
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:17:29","TI1",179,18
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:17:36","Restart",180,18
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:17:38","SAFE1",181,18
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:17:58","AT1",182,18
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:18:01","DANGER1",183,19
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:18:01","DAT1",184,19
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:18:05","SAFE2",185,19
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:18:40","AT2",186,19
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:18:40","DANGER2",187,19
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:18:40","DAT2",188,19
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:18:52","POSSIBLE_CARDS",189,19
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:18:56","YC2",190,19
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:19:17","CONF_YC2",191,20
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:19:28","Scorer",192,20
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:19:30","Possible Free Kick",193,20
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:19:31","SAFE1",195,20
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:19:31","F2",196,20
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:19:31","FK1",197,20
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:19:31","Ball Position",198,20
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:19:31","Restart",199,20
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:19:33","AT1",200,20
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:19:49","DANGER1",201,20
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:19:49","DAT1",202,20
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:19:49","PCR1",203,20
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:19:54","CR1",204,20
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:19:56","Ball Position",205,20
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:20:11","Restart",206,21
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:20:25","SAFE2",207,21
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:20:29","AT2",208,21
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:20:32","DANGER2",209,21
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:20:32","DAT2",210,21
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:20:52","SAFE1",211,21
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:20:54","AT1",212,21
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:20:56","DANGER1",213,21
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:20:56","DAT1",214,21
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:21:07","POSSIBLE_TI",215,22
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:21:13","Scorer",216,22
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:21:13","Player_DATA_CONFIRMED",217,22
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:21:18","TI2",218,22
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:21:35","Restart",219,22
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:22:01","SAFE1",220,23
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:22:20","AT1",221,23
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:22:23","DANGER1",222,23
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:22:23","DAT1",223,23
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:22:26","POSSIBLE_TI",224,23
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:22:27","TI2",225,23
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:22:35","Restart",226,23
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:22:39","POSSIBLE_TI",227,23
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:22:41","TI2",228,23
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:22:44","Restart",229,23
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:22:45","SAFE2",230,23
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:22:47","SAFE1",231,23
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:22:55","POSSIBLE_TI",232,23
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:22:56","TI2",233,23
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:23:00","Restart",234,24
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:23:01","AT2",235,24
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:23:16","SAFE2",236,24
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:23:20","SAFE1",237,24
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:23:21","AT1",238,24
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:23:22","DANGER1",239,24
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:23:22","DAT1",240,24
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:23:26","SAFE2",241,24
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:23:27","AT2",242,24
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:23:37","DANGER2",243,24
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:23:37","DAT2",244,24
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:23:42","SAFE1",245,24
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:23:49","AT2",246,24
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:23:51","SAFE1",247,24
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:23:54","AT1",248,24
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:23:56","DANGER1",249,24
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:23:56","DAT1",250,24
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:23:59","SAFE2",251,24
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:24:03","AT2",252,25
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:24:08","DANGER2",253,25
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:24:08","DAT2",254,25
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:24:18","SAFE1",255,25
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:24:24","AT1",256,25
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:24:28","SAFE2",257,25
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:24:48","AT2",258,25
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:24:58","DANGER2",259,25
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:24:58","DAT2",260,25
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:25:05","SAFE1",261,26
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:25:22","AT1",262,26
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:25:29","DANGER1",263,26
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:25:29","DAT1",264,26
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:25:33","POSSIBLE_TI",265,26
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:25:36","TI1",266,26
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:25:46","Restart",267,26
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:25:50","POSSIBLE_TI",268,26
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:25:52","TI2",269,26
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:25:59","Restart",270,27
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:26:07","SAFE2",271,27
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:26:16","AT2",272,27
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:26:38","DANGER2",273,27
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:26:38","DAT2",274,27
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:26:43","POSSIBLE_TI",275,27
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:26:44","TI2",276,27
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:26:49","Restart",277,27
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:27:06","SAFE1",278,28
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:27:18","AT1",279,28
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:27:18","DANGER1",280,28
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:27:18","DAT1",281,28
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:27:23","SAFE2",282,28
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:27:42","AT2",283,28
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:27:44","SAFE1",284,28
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:27:48","SAFE2",285,28
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:28:00","AT2",286,29
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:28:16","DANGER2",287,29
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:28:16","DAT2",288,29
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:28:20","SAFE1",289,29
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:28:21","GK1",290,29
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:28:39","Restart",291,29
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:29:08","AT1",292,30
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:29:13","POSSIBLE_TI",293,30
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:29:14","TI2",294,30
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:29:22","Restart",295,30
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:29:23","SAFE2",296,30
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:29:30","POSSIBLE_TI",297,30
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:29:32","TI1",298,30
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:29:42","Restart",299,30
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:29:43","SAFE1",300,30
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:29:47","SAFE2",301,30
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:29:49","AT2",302,30
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:29:51","DANGER2",303,30
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:29:51","DAT2",304,30
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:30:00","SAFE1",305,31
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:30:07","SAFE2",306,31
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:30:22","AT2",307,31
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:30:24","DANGER2",308,31
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:30:24","DAT2",309,31
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:30:30","PCR2",310,31
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:30:47","CR2",311,31
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:30:49","Ball Position",312,31
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:31:05","Restart",313,32
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:31:20","PCR2",314,32
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:31:28","CR2",315,32
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:31:30","Ball Position",316,32
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:31:48","Restart",317,32
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:31:52","GOAL2",318,32
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:32:05","Scorer",319,33
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:32:21","CONF_GOAL2",320,33
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:32:41","KO1",321,33
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:32:41","SAFE1",322,33
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:32:57","AT1",323,33
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:32:57","POSSIBLE_TI",324,33
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:32:58","TI1",325,33
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:33:13","Restart",326,34
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:33:15","DANGER1",327,34
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:33:15","DAT1",328,34
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:33:26","Player_DATA_CONFIRMED",329,34
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:33:26","Assist",330,34
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:33:41","POSSIBLE_CARDS",331,34
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:34:04","NO_Cards",332,35
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:34:05","Possible Free Kick",333,35
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:34:06","SAFE2",335,35
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:34:07","F1",336,35
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:34:07","FK2",337,35
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:34:07","Ball Position",338,35
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:34:11","Restart",339,35
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:34:25","SAFE1",340,35
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:34:30","SAFE2",341,35
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:34:32","AT2",342,35
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:34:36","SAFE1",343,35
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:35:03","AT1",344,36
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:35:10","SAFE2",345,36
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:35:10","AT2",346,36
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:35:16","SAFE1",347,36
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:35:18","AT1",348,36
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:35:20","DANGER1",349,36
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:35:20","DAT1",350,36
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:35:49","SAFE2",351,36
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:35:50","GK2",352,36
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:36:21","Restart",353,37
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:36:31","Possible Free Kick",354,37
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:36:34","F1",356,37
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:36:34","FK2",357,37
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:36:34","Ball Position",358,37
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:36:46","Restart",359,37
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:37:05","POSSIBLE_TI",360,38
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:37:07","TI2",361,38
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:37:12","Restart",362,38
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:37:13","AT2",363,38
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:37:18","DANGER2",364,38
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:37:18","DAT2",365,38
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:37:24","SAFE1",366,38
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:37:32","AT1",367,38
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:37:35","Possible Free Kick",368,38
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:37:37","F2",370,38
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:37:37","FK1",371,38
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:37:37","DANGER1",372,38
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:37:37","DFK1",373,38
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:37:37","Ball Position",374,38
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:38:00","Restart",375,39
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:38:06","SAFE2",376,39
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:38:13","Possible Free Kick",377,39
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:38:17","F1",379,39
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:38:17","FK2",380,39
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:38:17","Ball Position",381,39
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:38:24","Restart",382,39
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:38:30","AT2",383,39
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:38:43","DANGER2",384,39
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:38:43","DAT2",385,39
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:38:50","POSSIBLE_CARDS",386,39
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:39:07","YC1",387,40
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:39:10","CONF_YC1",388,40
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:39:18","Scorer",389,40
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:39:21","Possible Free Kick",390,40
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:39:23","F1",392,40
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:39:23","FK2",393,40
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:39:23","DFK2",394,40
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:39:23","Ball Position",395,40
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:40:15","Restart",396,41
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:40:21","Player_DATA_CONFIRMED",397,41
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:40:24","SHG2",398,41
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:40:27","SHG2",399,41
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:40:31","Possible Free Kick",400,41
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:40:36","SAFE1",402,41
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:40:36","F2",403,41
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:40:36","FK1",404,41
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:40:36","Ball Position",405,41
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:40:49","Restart",406,41
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:40:54","AT1",407,41
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:41:00","SAFE2",408,42
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:41:02","AT2",409,42
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:41:08","SAFE1",410,42
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:41:15","AT1",411,42
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:41:18","DANGER1",412,42
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:41:18","DAT1",413,42
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:41:22","SAFE2",414,42
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:41:50","AT2",415,42
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:41:54","Possible Free Kick",416,42
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:41:57","SAFE1",418,42
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:41:57","O2",419,42
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:41:57","FK1",420,42
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:41:57","Ball Position",421,42
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:41:58","Restart",422,42
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:42:05","AT1",423,43
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:42:09","DANGER1",424,43
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:42:09","DAT1",425,43
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:42:22","Possible Free Kick",426,43
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:42:23","SAFE2",428,43
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:42:23","F1",429,43
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:42:23","FK2",430,43
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:42:23","Ball Position",431,43
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:42:32","Restart",432,43
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:42:51","Possible Free Kick",433,43
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:42:53","SAFE1",435,43
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:42:53","O2",436,43
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:42:53","FK1",437,43
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:42:54","Ball Position",438,43
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:42:54","Restart",439,43
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:42:55","AT1",440,43
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:42:56","DANGER1",441,43
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:42:56","DAT1",442,43
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:43:02","Possible Free Kick",443,44
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:43:03","SAFE2",445,44
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:43:03","F1",446,44
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:43:03","FK2",447,44
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:43:03","Ball Position",448,44
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:43:24","Restart",449,44
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:43:35","AT2",450,44
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:43:41","SAFE1",451,44
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:43:47","SAFE2",452,44
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:43:48","POSSIBLE_TI",453,44
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:43:49","TI2",454,44
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:44:01","Restart",455,45
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:44:01","AT2",456,45
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:44:17","SAFE1",457,45
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:44:24","AT1",458,45
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:44:46","DANGER1",459,45
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:44:46","DAT1",460,45
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:44:52","SAFE2",461,45
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:44:59","AT2",462,45
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:45:06","Stop RT1",463,45
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:45:11","CONF_PERIOD_SCORE",464,45
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 18:57:41","Players are coming out",465,45
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:00:13","Game about to start",466,45
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:00:38","Start RT2 Team 2",467,46
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:00:45","AT2",468,46
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:00:54","POSSIBLE_TI",469,46
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:00:55","TI2",470,46
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:01:11","Restart",471,46
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:01:14","DANGER2",472,46
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:01:14","DAT2",473,46
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:01:18","PCR2",474,46
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:01:23","CR2",475,46
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:01:26","Ball Position",476,46
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:01:45","Restart",477,47
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:01:52","SAFE1",478,47
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:01:55","Possible Free Kick",479,47
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:01:56","F2",481,47
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:01:56","FK1",482,47
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:01:56","Ball Position",483,47
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:02:02","Restart",484,47
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:02:07","AT1",485,47
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:02:07","DANGER1",486,47
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:02:07","DAT1",487,47
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:02:17","SAFE2",488,47
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:02:18","AT2",489,47
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:02:22","SAFE1",490,47
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:02:24","AT1",491,47
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:02:42","DANGER1",492,48
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:02:42","DAT1",493,48
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:02:54","SAFE2",494,48
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:02:58","AT2",495,48
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:03:01","SAFE1",496,48
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:03:07","AT1",497,48
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:03:09","DANGER1",498,48
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:03:09","DAT1",499,48
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:03:20","SAFE2",500,48
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:03:21","GK2",501,48
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:03:33","Restart",502,48
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:03:42","Possible Free Kick",503,49
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:03:44","SAFE1",505,49
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:03:44","O2",506,49
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:03:44","FK1",507,49
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:03:45","Ball Position",508,49
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:03:49","Restart",509,49
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:03:50","AT1",510,49
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:03:52","DANGER1",511,49
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:03:52","DAT1",512,49
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:04:04","Possible Free Kick",513,49
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:04:06","SAFE2",515,49
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:04:06","F1",516,49
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:04:06","FK2",517,49
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:04:06","Ball Position",518,49
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:04:11","Restart",519,49
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:04:27","AT2",520,49
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:04:27","DANGER2",521,49
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:04:27","DAT2",522,49
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:04:36","POSSIBLE_TI",523,49
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:04:37","TI2",524,49
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:04:59","Restart",525,50
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:05:15","POSSIBLE_TI",526,50
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:05:17","TI1",527,50
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:05:20","Restart",528,50
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:05:25","POSSIBLE_TI",529,50
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:05:26","TI1",530,50
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:05:34","Restart",531,50
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:05:45","SAFE1",532,51
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:05:48","AT1",533,51
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:05:55","SAFE2",534,51
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:06:07","AT2",535,51
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:06:36","DANGER2",536,51
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:06:36","DAT2",537,51
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:06:53","Possible Free Kick",538,52
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:06:58","SAFE1",540,52
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:06:58","F2",541,52
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:06:58","FK1",542,52
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:06:58","Ball Position",543,52
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:07:16","Restart",544,52
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:07:22","SAFE2",545,52
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:07:23","POSSIBLE_TI",546,52
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:07:24","TI2",547,52
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:07:37","Restart",548,52
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:07:39","AT2",549,53
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:07:52","DANGER2",550,53
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:07:52","DAT2",551,53
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:07:56","SAFE1",552,53
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:08:04","AT2",553,53
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:08:07","DANGER2",554,53
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:08:07","DAT2",555,53
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:08:15","SAFE1",556,53
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:08:16","GK1",557,53
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:08:30","Restart",558,53
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:08:36","SAFE2",559,53
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:08:52","AT2",560,54
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:08:55","DANGER2",561,54
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:08:55","DAT2",562,54
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:08:58","SAFE1",563,54
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:09:01","AT1",564,54
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:09:06","Possible Free Kick",565,54
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:09:08","F2",567,54
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:09:08","FK1",568,54
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:09:08","DANGER1",569,54
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:09:08","DFK1",570,54
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:09:08","Ball Position",571,54
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:09:10","Restart",572,54
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:10:15","SAFE2",573,55
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:10:29","SAFE1",574,55
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:10:29","AT1",575,55
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:10:31","DANGER1",576,55
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:10:31","DAT1",577,55
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:10:37","BLOCKED1",578,55
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:10:39","PCR1",579,56
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:10:45","CR1",580,56
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:10:47","Ball Position",581,56
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:11:04","Restart",582,56
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:11:09","Possible Free Kick",583,56
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:11:10","SAFE2",585,56
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:11:10","F1",586,56
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:11:10","FK2",587,56
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:11:11","Ball Position",588,56
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:11:23","Restart",589,56
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:11:28","AT2",590,56
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:11:34","SAFE1",591,56
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:11:38","AT1",592,57
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:11:41","SAFE2",593,57
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:11:47","POSSIBLE_TI",594,57
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:11:49","TI2",595,57
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:11:54","Restart",596,57
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:12:13","AT2",597,57
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:12:20","DANGER2",598,57
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:12:20","DAT2",599,57
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:12:36","SAFE1",600,57
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:12:37","GK1",601,57
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:12:49","SUB1",602,58
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:13:01","Restart",603,58
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:13:09","AT1",604,58
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:13:28","Player_DATA_CONFIRMED",605,58
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:13:35","SAFE1",606,58
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:13:45","AT1",607,59
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:13:47","DANGER1",608,59
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:13:47","DAT1",609,59
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:14:14","SAFE2",610,59
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:14:52","AT2",611,60
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:14:56","DANGER2",612,60
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:14:56","DAT2",613,60
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:15:32","PCR2",614,60
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:15:38","CR2",615,61
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:15:43","Ball Position",616,61
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:16:03","Restart",617,61
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:16:08","SHG2",618,61
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:16:15","SAFE1",619,61
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:16:20","AT1",620,61
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:16:20","DANGER1",621,61
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:16:20","DAT1",622,61
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:16:24","SAFE2",623,61
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:16:32","AT2",624,61
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:16:36","DANGER2",625,61
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:16:36","DAT2",626,61
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:16:42","SAFE1",627,62
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:17:05","AT1",628,62
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:17:10","POSSIBLE_TI",629,62
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:17:12","TI1",630,62
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:17:16","Restart",631,62
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:17:31","DANGER1",632,62
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:17:31","DAT1",633,62
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:17:42","SAFE2",634,63
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:17:43","AT2",635,63
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:17:50","SAFE1",636,63
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:17:55","AT1",637,63
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:17:57","DANGER1",638,63
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:17:57","DAT1",639,63
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:18:02","SHB1",640,63
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:18:04","SAFE2",641,63
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:18:04","GK2",642,63
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:18:28","Restart",643,63
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:18:44","AT2",644,64
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:18:48","DANGER2",645,64
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:18:48","DAT2",646,64
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:18:57","SAFE1",647,64
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:19:13","POSSIBLE_TI",648,64
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:19:15","TI2",649,64
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:19:44","CLS",650,65
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:19:46","NO_TI",651,65
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:19:53","Referee Ball",652,65
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:20:05","Restart",653,65
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:20:05","AT1",654,65
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:20:08","DANGER1",655,65
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:20:08","DAT1",656,65
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:20:15","POSSIBLE_TI",657,65
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:20:18","TI2",658,65
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:20:26","Restart",659,65
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:20:39","SAFE1",660,66
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:20:41","CLS",661,66
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:20:41","SAFE2",662,66
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:20:43","AT2",663,66
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:21:24","DANGER2",664,66
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:21:24","DAT2",665,66
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:21:36","SHB2",666,66
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:21:38","SAFE1",667,67
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:21:39","GK1",668,67
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:21:50","Restart",669,67
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:21:57","AT1",670,67
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:22:10","POSSIBLE_TI",671,67
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:22:12","TI1",672,67
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:22:17","Restart",673,67
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:22:19","DANGER1",674,67
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:22:19","DAT1",675,67
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:22:46","POSSIBLE_TI",676,68
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:22:46","TI1",677,68
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:22:59","Injury Break",678,68
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:23:50","Restart",679,69
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:23:53","SAFE2",680,69
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:23:54","GK2",681,69
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:24:17","Restart",682,69
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:24:25","AT2",683,69
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:24:42","DANGER2",684,70
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:24:42","DAT2",685,70
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:24:47","PCR2",686,70
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:24:55","CR2",687,70
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:24:57","Ball Position",688,70
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:25:17","Restart",689,70
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:25:24","SHB2",690,70
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:25:25","SAFE1",691,70
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:25:26","GK1",692,70
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:25:37","Restart",693,70
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:25:42","SAFE2",694,71
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:25:47","SAFE1",695,71
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:25:49","AT1",696,71
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:25:51","DANGER1",697,71
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:25:51","DAT1",698,71
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:26:05","Possible Free Kick",699,71
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:26:06","SAFE2",701,71
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:26:06","F1",702,71
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:26:06","FK2",703,71
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:26:06","Ball Position",704,71
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:26:22","POSSIBLE_CARDS",705,71
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:26:28","YC1",706,71
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:26:39","CONF_YC1",707,72
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:26:44","Scorer",708,72
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:26:48","Player_DATA_CONFIRMED",709,72
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:26:49","Restart",710,72
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:26:53","AT2",711,72
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:26:55","Possible Free Kick",712,72
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:26:56","SAFE1",714,72
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:26:56","F2",715,72
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:26:56","FK1",716,72
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:26:56","Ball Position",717,72
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:27:21","SUB1",718,72
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:27:29","Player_DATA_CONFIRMED",719,72
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:27:34","Restart",720,72
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:27:46","Possible Free Kick",721,73
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:27:47","SAFE2",723,73
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:27:47","F1",724,73
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:27:47","FK2",725,73
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:27:47","Ball Position",726,73
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:28:17","Restart",727,73
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:28:18","AT2",728,73
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:28:23","DANGER2",729,73
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:28:23","DAT2",730,73
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:28:31","SAFE1",731,73
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:28:32","GK1",732,73
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:28:56","SUB2",733,74
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:29:13","Restart",734,74
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:29:17","AT1",735,74
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:29:23","SAFE2",736,74
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:29:24","AT2",737,74
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:29:28","POSSIBLE_TI",738,74
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:29:29","TI1",739,74
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:29:34","Restart",740,74
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:29:35","SAFE1",741,74
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:29:44","AT1",742,75
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:29:48","Player_DATA_CONFIRMED",743,75
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:29:55","SAFE2",744,75
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:30:04","AT2",745,75
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:30:05","DANGER2",746,75
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:30:05","DAT2",747,75
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:30:13","SHB2",748,75
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:30:14","SAFE1",749,75
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:30:15","GK1",750,75
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:30:16","Restart",751,75
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:30:24","AT1",752,75
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:30:56","DANGER1",753,76
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:30:56","DAT1",754,76
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:31:00","SAFE2",755,76
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:31:02","AT2",756,76
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:31:04","DANGER2",757,76
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:31:04","DAT2",758,76
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:31:16","Possible Free Kick",759,76
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:31:17","SAFE2",761,76
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:31:17","F1",762,76
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:31:17","FK2",763,76
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:31:17","Ball Position",764,76
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:31:19","POSSIBLE_CARDS",765,76
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:31:29","YC1",766,76
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:31:31","CONF_YC1",767,76
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:31:36","Scorer",768,76
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:31:54","Restart",769,77
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:31:54","Possible Free Kick",770,77
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:31:57","F1",772,77
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:31:57","FK2",773,77
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:31:57","DANGER2",774,77
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:31:57","DFK2",775,77
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:31:57","Ball Position",776,77
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:32:10","Restart",777,77
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:32:32","POSSIBLE_TI",778,77
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:32:33","TI1",779,77
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:32:39","Restart",780,78
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:32:40","POSSIBLE_TI",781,78
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:32:40","TI1",782,78
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:32:49","Restart",783,78
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:32:50","SAFE1",784,78
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:33:06","AT1",785,78
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:33:09","DANGER1",786,78
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:33:09","DAT1",787,78
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:33:12","SAFE2",788,78
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:33:14","AT2",789,78
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:33:16","DANGER2",790,78
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:33:16","DAT2",791,78
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:33:20","SAFE1",792,78
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:33:28","AT1",793,78
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:33:31","DANGER1",794,78
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:33:31","DAT1",795,78
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:33:36","SAFE2",796,78
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:33:52","AT2",797,79
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:33:59","Player_DATA_CONFIRMED",798,79
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:33:59","SAFE1",799,79
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:34:08","AT1",800,79
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:34:10","DANGER1",801,79
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:34:10","DAT1",802,79
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:34:12","Possible Free Kick",803,79
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:34:14","POSSIBLE_CARDS",805,79
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:34:29","YC2",806,79
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:34:42","CONF_YC2",807,80
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:34:48","Scorer",808,80
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:34:52","F2",809,80
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:34:52","FK1",810,80
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:34:52","DFK1",811,80
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:34:52","Ball Position",812,80
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:34:55","Player_DATA_CONFIRMED",813,80
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:35:05","Restart",814,80
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:35:10","SHB1",815,80
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:35:11","SAFE2",816,80
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:35:11","GK2",817,80
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:35:33","POSSIBLE_CARDS",818,80
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:35:36","YC2",819,80
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:35:38","CONF_YC2",820,80
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:35:44","Scorer",821,81
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:35:46","Restart",822,81
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:35:48","AT2",823,81
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:35:50","POSSIBLE_TI",824,81
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:35:51","TI1",825,81
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:36:01","SUB1",826,81
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:36:06","Restart",827,81
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:36:09","SAFE1",828,81
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:36:16","AT1",829,81
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:36:19","DANGER1",830,81
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:36:19","DAT1",831,81
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:36:24","Player_DATA_CONFIRMED",832,81
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:36:24","Possible Free Kick",833,81
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:36:25","Player_DATA_CONFIRMED",835,81
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:36:25","Player_DATA_CONFIRMED",836,81
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:36:26","F2",837,81
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:36:26","FK1",838,81
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:36:26","DFK1",839,81
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:36:27","Ball Position",840,81
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:37:15","Restart",841,82
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:37:23","Possible Free Kick",842,82
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:37:24","SAFE2",844,82
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:37:24","F1",845,82
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:37:24","FK2",846,82
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:37:25","Ball Position",847,82
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:37:48","Restart",848,83
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:37:54","AT2",849,83
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:37:55","POSSIBLE_TI",850,83
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:37:57","TI2",851,83
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:38:29","Restart",852,83
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:38:38","DANGER2",853,84
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:38:38","DAT2",854,84
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:38:45","SAFE1",855,84
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:38:46","GK1",856,84
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:39:12","SUB2",857,84
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:39:22","Restart",858,84
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:39:26","AT1",859,84
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:39:29","POSSIBLE_TI",860,84
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:39:30","TI2",861,84
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:39:36","Restart",862,84
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:39:37","SAFE2",863,84
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:39:50","Possible Free Kick",864,85
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:39:51","SAFE1",866,85
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:39:51","F2",867,85
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:39:51","FK1",868,85
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:39:51","Ball Position",869,85
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:39:53","Restart",870,85
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:40:20","AT1",871,85
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:40:21","Player_DATA_CONFIRMED",872,85
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:40:22","DANGER1",873,85
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:40:22","DAT1",874,85
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:40:29","SAFE2",875,85
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:40:46","Possible Free Kick",876,86
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:40:47","F1",878,86
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:40:47","FK2",879,86
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:40:47","Ball Position",880,86
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:41:07","Restart",881,86
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:41:08","AT2",882,86
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:41:13","SAFE1",883,86
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:41:16","AT1",884,86
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:41:19","POSSIBLE_TI",885,86
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:41:20","TI1",886,86
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:41:24","Restart",887,86
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:41:26","DANGER1",888,86
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:41:26","DAT1",889,86
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:41:42","SAFE2",890,87
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:41:44","POSSIBLE_CARDS",891,87
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:41:49","YC1",892,87
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:41:51","CONF_YC1",893,87
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:41:56","Scorer",894,87
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:42:04","Player_DATA_CONFIRMED",895,87
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:42:09","Possible Free Kick",896,87
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:42:10","F1",898,87
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:42:10","FK2",899,87
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:42:10","Ball Position",900,87
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:42:11","Restart",901,87
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:42:12","AT2",902,87
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:42:14","DANGER2",903,87
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:42:14","DAT2",904,87
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:42:21","POSSIBLE_TI",905,87
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:42:22","TI1",906,87
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:42:27","Restart",907,87
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:42:38","SAFE2",908,87
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:42:45","AT2",909,88
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:42:50","SAFE1",910,88
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:42:54","AT1",911,88
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:43:01","SAFE2",912,88
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:43:01","AT2",913,88
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:43:03","POSSIBLE_TI",914,88
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:43:05","TI2",915,88
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:43:16","Restart",916,88
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:43:18","DANGER2",917,88
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:43:18","DAT2",918,88
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:43:35","SAFE2",919,88
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:43:36","AT2",920,88
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:43:38","DANGER2",921,88
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:43:38","DAT2",922,88
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:43:44","SHB2",923,89
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:43:46","SAFE1",924,89
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:43:47","GK1",925,89
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:43:51","Restart",926,89
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:43:59","AT1",927,89
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:43:59","DANGER1",928,89
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:43:59","DAT1",929,89
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:44:08","SAFE2",930,89
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:44:12","AT2",931,89
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:44:14","Possible Free Kick",932,89
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:44:16","SAFE1",934,89
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:44:16","O2",935,89
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:44:16","FK1",936,89
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:44:16","Ball Position",937,89
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:44:37","SUB2",938,89
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:44:47","Player_DATA_CONFIRMED",939,90
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:44:57","Restart",940,90
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:44:58","AT1",941,90
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:44:58","DANGER1",942,90
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:44:58","DAT1",943,90
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:45:05","POSSIBLE_TI",944,90
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:45:06","TI1",945,90
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:45:13","Restart",946,90
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:45:18","SAFE2",947,90
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:45:19","GK2",948,90
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:45:42","Extra Time",949,91
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:45:44","Restart",950,91
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:45:45","AT2",951,91
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:45:46","POSSIBLE_TI",952,91
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:45:47","TI1",953,91
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:45:55","Restart",954,91
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:45:57","SAFE1",955,91
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:46:03","AT1",956,91
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:46:11","DANGER1",957,91
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:46:11","DAT1",958,91
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:46:42","SAFE2",959,92
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:46:57","AT2",960,92
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:47:01","POSSIBLE_TI",961,92
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:47:02","TI1",962,92
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:47:06","Restart",963,92
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:47:07","SAFE1",964,92
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:47:19","AT1",965,92
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:47:21","DANGER1",966,92
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:47:21","DAT1",967,92
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:47:27","SHB1",968,92
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:47:29","SAFE2",969,92
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:47:30","GK2",970,92
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:47:46","Restart",971,93
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:47:51","AT2",972,93
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:47:52","POSSIBLE_TI",973,93
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:47:53","TI1",974,93
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:48:00","Restart",975,93
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:48:01","SAFE1",976,93
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:48:12","AT1",977,93
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:48:25","POSSIBLE_TI",978,93
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:48:29","TI2",979,93
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:48:37","Restart",980,93
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:48:38","SAFE2",981,94
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:48:42","SAFE1",982,94
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:48:44","AT1",983,94
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:48:51","DANGER1",984,94
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:48:51","DAT1",985,94
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:48:54","SAFE2",986,94
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:48:57","AT2",987,94
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:49:00","POSSIBLE_TI",988,94
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:49:01","TI2",989,94
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:49:16","Restart",990,94
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:49:35","SAFE2",991,94
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:49:42","SAFE1",992,95
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:49:46","AT1",993,95
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:49:55","SAFE2",994,95
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:50:00","AT2",995,95
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:50:03","DANGER2",996,95
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:50:03","DAT2",997,95
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:50:06","SAFE1",998,95
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:50:11","AT1",999,95
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:50:17","DANGER1",1000,95
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:50:17","DAT1",1001,95
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:50:31","POSSIBLE_CARDS",1002,95
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:50:34","PRC",1003,95
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:50:39","YRC1",1004,96
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:50:41","CONF_YC_RC1",1005,96
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:50:45","Scorer",1006,96
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:50:51","Possible Free Kick",1007,96
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:50:53","SAFE2",1009,96
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:50:53","F1",1010,96
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:50:53","FK2",1011,96
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:50:53","Ball Position",1012,96
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:51:29","Restart",1013,96
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:51:30","AT2",1014,96
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:51:30","DANGER2",1015,96
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:51:30","DAT2",1016,96
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:51:36","Stop RT2",1017,96
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:51:36","Stop Game",1018,96
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:51:42","Player_DATA_CONFIRMED",1019,95
+862126,"ES Troyes AC","Montpellier HSC","09/16/2017 19:51:47","CONF_PERIOD_SCORE",1020,95

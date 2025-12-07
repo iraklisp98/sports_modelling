@@ -1,0 +1,842 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 18:55:28","Lineup changed",0,0
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 18:56:28","Transmission Online",1,0
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 19:25:18","Scout in Stadion",2,0
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 19:43:26","GCC",3,0
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 19:45:36","Jersey Changed",4,0
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 19:45:36","Jersey Changed",5,0
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 19:57:36","Players lined up",6,0
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 19:57:45","Shake hands",7,0
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 19:58:18","Flip coin",8,0
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 19:59:14","Game about to start",9,0
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:00:06","Start RT1 Team 2",10,1
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:00:11","SAFE2",11,1
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:00:38","AT2",12,1
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:00:43","DANGER2",13,1
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:00:43","DAT2",14,1
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:00:49","SAFE1",15,1
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:00:49","GK1",16,1
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:01:02","Restart",17,1
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:01:12","AT2",18,2
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:01:15","POSSIBLE_TI",19,2
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:01:18","TI2",20,2
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:01:27","Restart",21,2
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:01:44","SAFE1",22,2
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:01:50","AT1",23,2
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:01:58","DANGER1",24,2
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:01:58","DAT1",25,2
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:02:00","PCR1",26,2
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:02:08","CR1",27,3
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:02:09","Ball Position",28,3
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:02:25","Restart",29,3
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:02:31","Possible Free Kick",30,3
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:02:45","F2",32,3
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:02:45","FK1",33,3
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:02:45","DFK1",34,3
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:02:45","Ball Position",35,3
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:03:25","Restart",36,4
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:03:27","GOAL1",37,4
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:03:34","Scorer",38,4
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:04:11","CONF_GOAL1",39,5
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:04:11","KO2",40,5
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:04:11","SAFE2",41,5
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:04:17","AT2",42,5
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:04:17","DANGER2",43,5
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:04:17","DAT2",44,5
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:04:26","SAFE1",45,5
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:04:29","Player_DATA_CONFIRMED",46,5
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:04:30","AT1",47,5
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:04:36","SAFE1",48,5
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:04:57","AT1",49,5
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:05:03","SAFE2",50,5
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:05:16","AT2",51,6
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:05:50","DANGER2",52,6
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:05:50","DAT2",53,6
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:06:01","SAFE1",54,6
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:06:15","POSSIBLE_TI",55,7
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:06:22","TI1",56,7
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:06:26","Restart",57,7
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:06:29","AT1",58,7
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:06:29","DANGER1",59,7
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:06:29","DAT1",60,7
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:06:34","PCR1",61,7
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:06:50","CR1",62,7
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:06:51","Ball Position",63,7
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:07:01","Restart",64,7
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:07:13","POSSIBLE_TI",65,8
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:07:13","TI1",66,8
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:07:24","Restart",67,8
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:07:32","SAFE2",68,8
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:07:38","SAFE1",69,8
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:07:41","AT1",70,8
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:07:43","Possible Free Kick",71,8
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:07:53","SAFE2",73,8
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:07:53","O1",74,8
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:07:53","FK2",75,8
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:07:53","Ball Position",76,8
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:08:00","Restart",77,8
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:08:08","AT2",78,9
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:08:24","SAFE2",79,9
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:08:39","AT2",80,9
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:08:43","DANGER2",81,9
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:08:43","DAT2",82,9
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:08:51","SAFE1",83,9
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:08:52","GK1",84,9
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:09:05","Restart",85,9
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:09:09","AT2",86,10
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:09:09","DANGER2",87,10
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:09:09","DAT2",88,10
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:09:15","POSSIBLE_TI",89,10
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:09:22","TI2",90,10
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:09:25","Restart",91,10
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:09:46","POSSIBLE_TI",92,10
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:09:46","TI2",93,10
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:09:59","Restart",94,10
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:10:18","POSSIBLE_TI",95,11
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:10:19","TI2",96,11
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:11:34","Restart",97,12
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:11:50","POSSIBLE_TI",98,12
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:11:51","TI2",99,12
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:11:53","Restart",100,12
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:12:00","PCR2",101,12
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:12:07","CR2",102,13
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:12:08","Ball Position",103,13
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:12:24","Restart",104,13
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:12:30","GOAL2",105,13
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:12:56","Scorer",106,13
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:13:15","CONF_GOAL2",107,14
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:13:15","KO1",108,14
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:13:15","SAFE1",109,14
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:13:30","Possible Free Kick",110,14
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:13:33","Player_DATA_CONFIRMED",112,14
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:14:01","F1",113,14
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:14:01","FK2",114,14
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:14:01","DANGER2",115,14
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:14:01","DFK2",116,14
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:14:01","Ball Position",117,14
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:14:16","Restart",118,15
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:14:25","SHB2",119,15
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:14:28","SAFE1",120,15
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:14:29","GK1",121,15
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:14:38","Restart",122,15
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:14:44","AT1",123,15
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:14:49","AT2",124,15
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:14:49","DANGER2",125,15
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:14:49","DAT2",126,15
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:14:51","CLS",127,15
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:14:55","DANGER1",128,15
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:14:55","DAT1",129,15
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:15:05","SHB1",130,15
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:15:11","SAFE2",131,16
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:15:12","GK2",132,16
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:15:31","Restart",133,16
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:15:37","AT2",134,16
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:15:42","DANGER2",135,16
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:15:42","DAT2",136,16
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:15:45","POSSIBLE_CARDS",137,16
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:15:45","PRC",138,16
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:15:46","PPEN",139,16
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:15:46","PPEN2",140,16
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:16:04","PEN2",141,16
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:16:05","YC1",142,16
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:16:06","CONF_YC1",143,16
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:16:13","Scorer",144,17
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:16:16","No RC",145,17
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:17:00","Scorer",146,17
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:17:00","Player_DATA_CONFIRMED",147,17
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:17:02","Scorer",148,17
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:17:15","GOAL2",149,18
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:17:15","Scorer",150,18
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:17:30","Scorer",151,18
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:17:30","Player_DATA_CONFIRMED",152,18
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:18:02","CONF_GOAL2",153,18
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:18:02","KO1",154,18
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:18:02","SAFE1",155,18
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:18:07","AT2",156,19
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:18:14","DANGER2",157,19
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:18:14","DAT2",158,19
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:18:20","PCR2",159,19
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:18:26","CR2",160,19
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:18:27","Ball Position",161,19
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:18:28","Restart",162,19
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:18:47","SAFE1",163,19
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:18:50","POSSIBLE_CARDS",164,19
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:18:50","PRC",165,19
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:18:50","Danger",166,19
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:18:51","Possible Free Kick",167,19
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:18:56","YC2",169,19
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:19:08","CONF_YC2",170,20
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:19:14","Scorer",171,20
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:19:16","No RC",172,20
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:19:26","F2",173,20
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:19:26","FK1",174,20
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:19:26","DFK1",175,20
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:19:26","Ball Position",176,20
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:19:27","Restart",177,20
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:19:33","AT1",178,20
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:19:36","DANGER1",179,20
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:19:36","DAT1",180,20
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:19:40","POSSIBLE_CARDS",181,20
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:19:40","PRC",182,20
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:19:41","PPEN",183,20
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:19:41","PPEN1",184,20
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:19:48","No PEN",185,20
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:19:55","SAFE2",186,20
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:19:57","AT2",187,20
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:19:57","DANGER2",188,20
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:19:57","DAT2",189,20
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:20:01","No RC",190,20
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:20:01","NO_Cards",191,20
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:20:07","SAFE1",192,21
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:20:09","AT1",193,21
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:20:17","Possible Free Kick",194,21
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:20:18","SAFE2",196,21
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:20:18","F1",197,21
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:20:18","FK2",198,21
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:20:18","Ball Position",199,21
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:20:41","Restart",200,21
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:20:49","AT2",201,21
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:20:56","POSSIBLE_TI",202,21
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:20:57","TI1",203,21
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:21:13","Restart",204,22
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:21:40","SAFE1",205,22
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:21:43","AT2",206,22
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:21:43","DANGER2",207,22
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:21:43","DAT2",208,22
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:21:45","SAFE1",209,22
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:21:53","AT2",210,22
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:21:57","Scorer",211,22
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:21:57","Player_DATA_CONFIRMED",212,22
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:22:25","DANGER2",213,23
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:22:25","DAT2",214,23
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:22:38","Possible Free Kick",215,23
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:22:39","F1",217,23
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:22:39","FK2",218,23
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:22:39","DFK2",219,23
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:22:39","Ball Position",220,23
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:23:03","Restart",221,23
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:23:11","SAFE1",222,24
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:23:12","AT1",223,24
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:23:22","Possible Free Kick",224,24
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:23:23","No Free Kick",226,24
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:23:24","POSSIBLE_TI",227,24
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:23:25","TI1",228,24
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:23:40","Restart",229,24
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:23:41","POSSIBLE_TI",230,24
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:23:42","TI1",231,24
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:23:44","Restart",232,24
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:23:46","DANGER1",233,24
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:23:46","DAT1",234,24
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:23:51","PCR1",235,24
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:23:56","CR1",236,24
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:23:57","Ball Position",237,24
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:24:09","Restart",238,25
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:24:21","SAFE1",239,25
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:24:23","AT1",240,25
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:24:38","DANGER1",241,25
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:24:38","DAT1",242,25
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:24:52","Possible Free Kick",243,25
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:24:54","SAFE1",245,25
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:24:54","F2",246,25
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:24:54","FK1",247,25
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:24:54","Ball Position",248,25
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:25:05","Restart",249,25
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:25:15","AT1",250,26
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:25:17","DANGER1",251,26
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:25:17","DAT1",252,26
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:25:28","SHG1",253,26
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:25:28","SAFE2",254,26
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:25:40","AT2",255,26
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:25:48","POSSIBLE_TI",256,26
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:26:04","TI2",257,26
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:26:13","Restart",258,27
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:26:13","SAFE2",259,27
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:26:26","Possible Free Kick",260,27
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:26:30","SAFE1",262,27
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:26:30","F2",263,27
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:26:30","FK1",264,27
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:26:30","Ball Position",265,27
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:26:44","Restart",266,27
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:26:57","AT1",267,27
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:27:00","DANGER1",268,27
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:27:00","DAT1",269,27
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:27:07","BLOCKED1",270,28
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:27:12","POSSIBLE_TI",271,28
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:27:13","TI1",272,28
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:27:27","Restart",273,28
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:27:34","POSSIBLE_TI",274,28
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:27:35","TI2",275,28
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:27:47","Restart",276,28
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:28:03","PCR1",277,28
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:28:11","CR1",278,29
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:28:12","Ball Position",279,29
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:28:33","Restart",280,29
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:28:40","SAFE1",281,29
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:28:44","AT1",282,29
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:28:44","DANGER1",283,29
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:28:44","DAT1",284,29
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:28:52","PCR1",285,29
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:28:54","SHG1",286,29
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:29:03","CR1",287,29
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:29:05","Ball Position",288,29
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:29:14","Restart",289,30
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:29:22","POSSIBLE_TI",290,30
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:29:24","TI1",291,30
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:29:27","Restart",292,30
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:30:00","POSSIBLE_TI",293,30
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:30:01","TI1",294,30
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:30:03","Restart",295,30
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:30:12","SAFE2",296,31
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:30:12","POSSIBLE_TI",297,31
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:30:15","TI2",298,31
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:30:31","Restart",299,31
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:30:37","AT1",300,31
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:30:47","DANGER1",301,31
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:30:47","DAT1",302,31
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:30:55","PCR1",303,31
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:30:58","CR1",304,31
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:30:59","Ball Position",305,31
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:31:20","Restart",306,32
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:31:36","GOAL1",307,32
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:32:43","CGOAL1",308,33
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:32:44","Possible Free Kick",309,33
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:32:46","SAFE2",311,33
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:32:46","O1",312,33
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:32:46","FK2",313,33
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:32:46","Ball Position",314,33
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:32:51","Restart",315,33
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:32:53","AT2",316,33
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:33:03","DANGER2",317,33
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:33:03","DAT2",318,33
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:33:09","POSSIBLE_TI",319,34
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:33:18","TI2",320,34
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:33:18","Restart",321,34
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:33:24","SAFE1",322,34
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:33:39","POSSIBLE_TI",323,34
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:33:40","TI2",324,34
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:33:52","Restart",325,34
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:34:03","Possible Free Kick",326,34
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:34:04","SAFE2",328,34
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:34:04","F1",329,34
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:34:04","FK2",330,34
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:34:04","Ball Position",331,34
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:34:27","Injury Break",332,35
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:35:38","Restart",333,36
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:36:09","AT1",334,37
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:36:09","DANGER1",335,37
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:36:09","DAT1",336,37
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:36:27","GOAL1",337,37
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:37:46","Scorer",338,38
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:38:14","CONF_GOAL1",339,39
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:38:14","KO2",340,39
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:38:14","SAFE2",341,39
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:38:21","AT2",342,39
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:38:30","Player_DATA_CONFIRMED",343,39
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:38:35","AT1",344,39
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:38:35","DANGER1",345,39
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:38:35","DAT1",346,39
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:38:45","SAFE2",347,39
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:38:45","POSSIBLE_TI",348,39
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:38:46","TI2",349,39
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:39:14","Assist",350,40
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:39:20","Injury Break",351,40
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:40:38","Restart",352,41
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:40:44","SAFE1",353,41
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:40:59","AT1",354,41
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:41:06","AT2",355,41
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:41:06","DANGER2",356,41
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:41:06","DAT2",357,41
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:41:17","BLOCKED2",358,42
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:41:20","POSSIBLE_TI",359,42
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:41:20","TI2",360,42
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:41:26","Restart",361,42
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:41:53","Possible Free Kick",362,42
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:42:07","SAFE1",364,43
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:42:07","O2",365,43
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:42:07","FK1",366,43
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:42:07","Ball Position",367,43
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:42:14","Restart",368,43
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:42:20","AT1",369,43
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:42:22","DANGER1",370,43
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:42:22","DAT1",371,43
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:42:32","SAFE2",372,43
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:42:38","AT2",373,43
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:42:42","DANGER2",374,43
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:42:42","DAT2",375,43
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:43:00","Possible Free Kick",376,43
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:43:31","SAFE1",378,44
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:43:31","F2",379,44
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:43:31","FK1",380,44
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:43:32","Ball Position",381,44
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:43:39","Restart",382,44
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:43:42","AT1",383,44
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:43:42","DANGER1",384,44
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:43:42","DAT1",385,44
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:43:58","SHG1",386,44
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:44:06","Possible Free Kick",387,45
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:44:08","SAFE2",389,45
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:44:08","F1",390,45
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:44:08","FK2",391,45
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:44:08","Ball Position",392,45
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:44:43","Restart",393,45
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:44:53","AT2",394,45
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:44:58","SAFE2",395,45
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:45:06","AT2",396,45
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:45:11","Extra Time",397,46
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:45:13","DANGER2",398,46
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:45:13","DAT2",399,46
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:45:14","CLS",400,46
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:45:17","AT1",401,46
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:45:17","DANGER1",402,46
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:45:17","DAT1",403,46
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:45:26","POSSIBLE_TI",404,46
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:45:31","TI1",405,46
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:45:33","Restart",406,46
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:45:40","POSSIBLE_TI",407,46
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:45:44","Assist",408,46
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:45:51","TI2",409,46
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:45:55","Restart",410,46
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:46:00","SAFE2",411,46
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:46:06","Possible Free Kick",412,46
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:46:09","F1",414,47
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:46:09","FK2",415,47
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:46:09","Ball Position",416,47
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:46:24","Restart",417,47
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:46:32","AT2",418,47
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:46:32","DANGER2",419,47
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:46:32","DAT2",420,47
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:46:39","SAFE1",421,47
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:46:55","AT2",422,47
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:46:59","SAFE1",423,47
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:47:20","AT1",424,48
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:47:31","DANGER1",425,48
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:47:31","DAT1",426,48
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:47:34","POSSIBLE_TI",427,48
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:47:35","TI2",428,48
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:47:55","Restart",429,48
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:48:02","CLS",430,48
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:48:06","Restart",431,48
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:48:11","Stop RT1",432,48
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:48:14","CONF_PERIOD_SCORE",433,45
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 20:59:46","Players are coming out",434,45
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:01:41","Game about to start",435,45
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:02:49","Start RT2 Team 1",436,46
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:03:10","AT2",437,46
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:03:15","DANGER2",438,46
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:03:15","DAT2",439,46
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:03:23","SAFE1",440,46
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:03:25","AT1",441,46
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:03:27","DANGER1",442,46
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:03:27","DAT1",443,46
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:03:44","SAFE2",444,46
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:03:44","AT2",445,46
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:03:47","POSSIBLE_TI",446,46
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:03:48","TI2",447,46
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:03:57","Restart",448,47
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:04:13","SAFE2",449,47
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:04:22","AT2",450,47
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:04:25","DANGER2",451,47
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:04:25","DAT2",452,47
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:04:29","POSSIBLE_TI",453,47
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:04:30","TI2",454,47
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:04:32","Restart",455,47
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:04:38","SAFE1",456,47
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:04:42","AT1",457,47
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:04:42","DANGER1",458,47
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:04:42","DAT1",459,47
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:04:56","SHG1",460,48
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:05:18","SAFE2",461,48
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:05:25","POSSIBLE_TI",462,48
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:05:26","TI2",463,48
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:05:30","CLS",464,48
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:05:32","TI1",465,48
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:05:35","Restart",466,48
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:05:43","AT1",467,48
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:06:01","POSSIBLE_TI",468,49
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:06:03","TI1",469,49
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:06:10","Restart",470,49
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:06:30","DANGER1",471,49
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:06:30","DAT1",472,49
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:06:39","SAFE2",473,49
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:06:40","GK2",474,49
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:07:02","Restart",475,50
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:07:09","Possible Free Kick",476,50
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:07:13","SAFE1",478,50
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:07:13","F2",479,50
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:07:13","FK1",480,50
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:07:13","Ball Position",481,50
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:07:18","Restart",482,50
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:07:30","AT1",483,50
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:07:39","DANGER1",484,50
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:07:39","DAT1",485,50
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:07:44","SAFE2",486,50
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:07:55","AT2",487,51
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:08:17","POSSIBLE_TI",488,51
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:08:32","TI2",489,51
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:08:33","Restart",490,51
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:08:45","DANGER2",491,51
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:08:45","DAT2",492,51
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:08:59","SAFE1",493,52
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:09:00","GK1",494,52
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:09:16","Restart",495,52
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:09:26","POSSIBLE_TI",496,52
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:09:30","TI1",497,52
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:09:32","Restart",498,52
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:09:38","AT1",499,52
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:09:44","DANGER1",500,52
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:09:44","DAT1",501,52
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:09:51","SAFE2",502,53
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:10:01","AT1",503,53
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:10:08","DANGER1",504,53
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:10:08","DAT1",505,53
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:10:15","BLOCKED1",506,53
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:10:30","POSSIBLE_TI",507,53
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:10:34","TI1",508,53
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:10:38","Restart",509,53
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:10:58","Possible Free Kick",510,54
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:11:05","SAFE2",512,54
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:11:05","O1",513,54
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:11:05","FK2",514,54
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:11:05","Ball Position",515,54
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:11:07","Restart",516,54
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:11:24","AT2",517,54
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:11:29","DANGER2",518,54
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:11:29","DAT2",519,54
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:11:33","PCR2",520,54
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:11:38","CR2",521,54
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:11:40","Ball Position",522,54
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:12:07","Restart",523,55
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:12:16","SHG2",524,55
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:12:18","SAFE1",525,55
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:12:20","AT1",526,55
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:12:24","DANGER1",527,55
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:12:24","DAT1",528,55
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:12:46","SAFE2",529,55
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:12:53","AT2",530,56
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:12:57","DANGER2",531,56
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:12:57","DAT2",532,56
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:13:39","POSSIBLE_TI",533,56
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:13:45","TI1",534,56
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:13:45","Restart",535,56
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:14:14","SAFE1",536,57
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:14:16","SAFE2",537,57
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:14:26","AT2",538,57
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:14:30","Possible Free Kick",539,57
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:14:41","SAFE1",541,57
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:14:42","O2",542,57
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:14:42","FK1",543,57
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:14:42","Ball Position",544,57
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:14:43","Restart",545,57
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:14:57","AT1",546,58
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:15:28","SAFE2",547,58
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:15:43","AT1",548,58
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:15:47","SAFE1",549,58
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:15:56","AT1",550,59
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:15:58","DANGER1",551,59
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:15:58","DAT1",552,59
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:16:14","SHG1",553,59
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:16:14","SAFE2",554,59
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:16:26","AT2",555,59
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:16:29","DANGER2",556,59
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:16:29","DAT2",557,59
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:16:41","SAFE1",558,59
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:16:57","AT1",559,60
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:17:02","DANGER1",560,60
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:17:02","DAT1",561,60
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:17:17","SAFE2",562,60
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:17:18","GK2",563,60
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:17:36","Restart",564,60
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:17:48","AT1",565,60
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:17:48","DANGER1",566,60
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:17:48","DAT1",567,60
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:17:53","SAFE2",568,61
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:17:58","SAFE1",569,61
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:18:00","POSSIBLE_TI",570,61
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:18:03","TI1",571,61
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:18:13","SUB1",572,61
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:18:32","Player_DATA_CONFIRMED",573,61
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:18:36","Restart",574,61
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:18:41","AT2",575,61
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:18:42","POSSIBLE_TI",576,61
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:18:50","TI2",577,62
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:19:01","Restart",578,62
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:19:09","DANGER2",579,62
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:19:09","DAT2",580,62
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:19:21","Possible Free Kick",581,62
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:19:35","F2",583,62
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:19:35","FK1",584,62
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:19:35","DFK1",585,62
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:19:36","Ball Position",586,62
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:19:47","Restart",587,62
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:20:01","SAFE2",588,63
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:20:06","AT2",589,63
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:20:06","DANGER2",590,63
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:20:06","DAT2",591,63
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:20:47","SAFE2",592,63
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:20:52","AT2",593,64
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:21:02","POSSIBLE_TI",594,64
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:21:12","TI2",595,64
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:21:19","Restart",596,64
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:21:31","DANGER2",597,64
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:21:31","DAT2",598,64
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:22:13","SAFE2",599,65
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:22:17","AT2",600,65
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:22:31","Possible Free Kick",601,65
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:22:45","F1",603,65
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:22:45","FK2",604,65
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:22:45","DANGER2",605,65
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:22:45","DFK2",606,65
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:22:45","Ball Position",607,65
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:23:12","Restart",608,66
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:23:24","SHB2",609,66
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:23:24","SAFE1",610,66
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:23:25","GK1",611,66
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:23:38","Restart",612,66
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:23:42","POSSIBLE_TI",613,66
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:23:52","TI1",614,67
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:23:52","Restart",615,67
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:23:57","AT1",616,67
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:24:08","POSSIBLE_TI",617,67
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:24:19","TI1",618,67
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:24:20","Restart",619,67
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:24:33","AT2",620,67
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:24:33","DANGER2",621,67
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:24:33","DAT2",622,67
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:24:44","PCR2",623,67
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:24:55","CR2",624,68
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:25:00","Ball Position",625,68
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:25:05","Restart",626,68
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:25:17","SHG2",627,68
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:25:17","SAFE1",628,68
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:25:30","AT2",629,68
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:25:56","AT1",630,69
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:25:56","DANGER1",631,69
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:25:56","DAT1",632,69
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:26:07","SAFE2",633,69
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:26:08","GK2",634,69
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:26:27","Restart",635,69
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:26:32","AT2",636,69
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:26:41","Possible Free Kick",637,69
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:26:47","SAFE2",639,69
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:26:47","O1",640,69
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:26:47","FK2",641,69
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:26:47","Ball Position",642,69
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:26:47","Restart",643,69
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:26:56","AT2",644,70
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:26:57","DANGER2",645,70
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:26:57","DAT2",646,70
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:27:02","SAFE1",647,70
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:27:18","AT1",648,70
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:27:29","DANGER1",649,70
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:27:29","DAT1",650,70
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:27:32","SAFE2",651,70
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:27:37","AT2",652,70
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:27:40","DANGER2",653,70
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:27:40","DAT2",654,70
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:27:51","POSSIBLE_TI",655,71
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:27:53","TI2",656,71
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:27:55","Restart",657,71
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:28:30","POSSIBLE_CARDS",658,71
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:28:31","PRC",659,71
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:28:32","Possible Free Kick",660,71
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:28:49","YC1",662,71
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:28:58","CONF_YC1",663,72
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:29:01","Scorer",664,72
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:29:03","No RC",665,72
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:29:05","F1",666,72
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:29:05","FK2",667,72
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:29:05","DFK2",668,72
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:29:05","Ball Position",669,72
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:29:16","Scorer",670,72
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:29:17","Player_DATA_CONFIRMED",671,72
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:29:42","Restart",672,72
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:29:52","SHW2",673,73
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:29:56","SAFE1",674,73
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:29:57","GK1",675,73
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:30:05","SUB1",676,73
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:30:26","Restart",677,73
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:30:32","Player_DATA_CONFIRMED",678,73
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:30:33","POSSIBLE_TI",679,73
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:30:34","TI1",680,73
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:30:42","Restart",681,73
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:30:44","AT1",682,73
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:30:47","DANGER1",683,73
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:30:47","DAT1",684,73
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:30:54","POSSIBLE_TI",685,74
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:30:54","TI1",686,74
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:31:10","Restart",687,74
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:31:15","POSSIBLE_TI",688,74
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:31:15","TI1",689,74
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:31:29","SUB1",690,74
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:31:44","Restart",691,74
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:31:45","Player_DATA_CONFIRMED",692,74
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:32:16","SAFE2",693,75
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:32:16","AT2",694,75
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:32:31","AT1",695,75
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:32:31","DANGER1",696,75
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:32:31","DAT1",697,75
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:32:40","PCR1",698,75
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:32:48","CR1",699,75
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:32:51","Ball Position",700,76
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:32:58","Restart",701,76
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:33:03","POSSIBLE_TI",702,76
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:33:04","TI1",703,76
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:33:08","Restart",704,76
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:33:15","POSSIBLE_TI",705,76
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:33:16","TI2",706,76
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:33:28","Restart",707,76
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:33:37","SAFE2",708,76
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:33:44","AT1",709,76
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:33:44","DANGER1",710,76
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:33:44","DAT1",711,76
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:34:26","GOAL1",712,77
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:34:47","Scorer",713,77
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:35:32","CONF_GOAL1",714,78
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:35:32","KO2",715,78
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:35:32","SAFE2",716,78
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:35:40","SUB2",717,78
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:35:42","Player_DATA_CONFIRMED",718,78
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:35:44","AT2",719,78
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:36:01","DANGER2",720,79
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:36:01","DAT2",721,79
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:36:13","Assist",722,79
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:36:14","PCR2",723,79
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:36:16","SHB2",724,79
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:36:19","CR2",725,79
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:36:22","Ball Position",726,79
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:36:30","Restart",727,79
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:36:36","SAFE2",728,79
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:36:44","Player_DATA_CONFIRMED",729,79
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:36:47","AT1",730,79
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:37:08","DANGER1",731,80
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:37:08","DAT1",732,80
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:37:20","POSSIBLE_CARDS",733,80
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:37:20","PRC",734,80
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:37:20","PPEN",735,80
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:37:20","PPEN1",736,80
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:37:27","YC1",737,80
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:37:28","CONF_YC1",738,80
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:37:40","Scorer",739,80
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:37:43","No RC",740,80
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:37:59","No PEN",741,81
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:38:04","Possible Free Kick",742,81
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:38:05","SAFE2",744,81
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:38:05","F1",745,81
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:38:05","FK2",746,81
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:38:05","Ball Position",747,81
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:38:15","SUB2",748,81
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:38:18","Player_DATA_CONFIRMED",749,81
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:38:23","SUB2",750,81
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:38:33","Restart",751,81
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:38:38","AT2",752,81
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:38:41","DANGER2",753,81
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:38:41","DAT2",754,81
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:38:48","Player_DATA_CONFIRMED",755,81
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:38:48","SAFE1",756,81
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:38:49","GK1",757,82
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:38:49","Player_DATA_CONFIRMED",758,82
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:39:17","Restart",759,82
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:39:29","AT1",760,82
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:39:41","POSSIBLE_TI",761,82
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:39:41","TI2",762,82
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:39:44","Restart",763,82
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:39:51","AT2",764,83
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:39:51","DANGER2",765,83
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:39:51","DAT2",766,83
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:40:08","POSSIBLE_TI",767,83
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:40:09","TI1",768,83
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:40:26","Restart",769,83
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:40:33","SAFE2",770,83
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:40:43","Possible Free Kick",771,83
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:40:46","F1",773,83
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:40:46","FK2",774,83
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:40:46","Ball Position",775,83
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:40:50","Restart",776,84
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:40:52","AT2",777,84
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:41:02","DANGER2",778,84
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:41:02","DAT2",779,84
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:41:11","SHB2",780,84
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:41:14","SAFE1",781,84
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:41:15","GK1",782,84
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:41:39","Restart",783,84
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:41:43","AT1",784,84
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:41:45","DANGER1",785,84
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:41:45","DAT1",786,84
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:41:52","SAFE2",787,85
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:41:53","AT2",788,85
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:42:10","DANGER2",789,85
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:42:10","DAT2",790,85
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:42:19","SAFE2",791,85
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:42:31","AT2",792,85
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:42:32","DANGER2",793,85
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:42:32","DAT2",794,85
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:42:39","POSSIBLE_TI",795,85
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:42:40","TI1",796,85
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:43:01","Restart",797,86
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:43:30","SAFE1",798,86
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:43:31","GK1",799,86
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:43:51","Restart",800,87
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:44:05","SAFE2",801,87
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:44:17","AT2",802,87
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:44:45","DANGER2",803,87
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:44:45","DAT2",804,87
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:45:07","SHG2",805,88
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:45:08","SAFE1",806,88
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:45:29","AT2",807,88
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:45:33","Possible Free Kick",808,88
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:45:35","SAFE2",810,88
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:45:35","F1",811,88
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:45:35","FK2",812,88
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:45:36","Ball Position",813,88
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:45:38","Restart",814,88
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:45:43","AT2",815,88
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:45:57","DANGER2",816,89
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:45:57","DAT2",817,89
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:46:13","SAFE1",818,89
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:46:14","GK1",819,89
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:46:44","Restart",820,89
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:46:49","AT1",821,90
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:46:56","POSSIBLE_TI",822,90
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:47:04","TI2",823,90
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:47:08","Restart",824,90
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:47:26","DANGER1",825,90
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:47:26","DAT1",826,90
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:47:36","POSSIBLE_TI",827,90
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:47:37","TI1",828,90
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:47:47","Restart",829,90
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:47:55","SAFE2",830,91
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:47:56","GK2",831,91
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:47:59","Extra Time",832,91
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:48:03","Restart",833,91
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:48:06","AT2",834,91
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:48:32","AT1",835,91
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:48:32","DANGER1",836,91
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:48:32","DAT1",837,91
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:48:35","GOAL1",838,91
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:49:26","POSSIBLE_CARDS",839,92
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:49:27","YC1",840,92
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:49:29","CONF_YC1",841,92
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:49:34","Scorer",842,92
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:49:39","Scorer",843,92
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:49:44","Player_DATA_CONFIRMED",844,92
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:49:44","Assist",845,92
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:49:44","Player_DATA_CONFIRMED",846,92
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:49:55","CONF_GOAL1",847,93
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:49:56","KO2",848,93
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:49:56","SAFE2",849,93
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:49:58","AT2",850,93
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:49:58","DANGER2",851,93
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:49:58","DAT2",852,93
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:50:15","SAFE1",853,93
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:50:16","POSSIBLE_TI",854,93
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:50:19","TI1",855,93
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:50:36","CLS",856,93
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:50:36","NO_TI",857,93
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:50:37","Possible Free Kick",858,93
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:50:38","F2",860,93
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:50:38","FK1",861,93
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:50:38","Ball Position",862,93
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:50:40","Restart",863,93
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:50:53","Stop RT2",864,93
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:50:53","Stop Game",865,93
+1071002,"Rayo Vallecano","RC Celta de Vigo","01/11/2019 21:50:57","CONF_PERIOD_SCORE",866,93

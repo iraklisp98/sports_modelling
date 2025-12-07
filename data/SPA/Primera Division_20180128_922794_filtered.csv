@@ -1,0 +1,916 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+922794,"Sevilla FC","Getafe CF","01/28/2018 16:31:13","Lineup changed",0,0
+922794,"Sevilla FC","Getafe CF","01/28/2018 16:31:35","Transmission Online",1,0
+922794,"Sevilla FC","Getafe CF","01/28/2018 16:31:35","Scout in Stadion",2,0
+922794,"Sevilla FC","Getafe CF","01/28/2018 16:55:41","GCC",3,0
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:17:53","GCC",4,0
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:23:23","Jersey Changed",5,0
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:23:23","Jersey Changed",6,0
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:25:30","Players are coming out",7,0
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:25:30","Players lined up",8,0
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:26:04","GCC",9,0
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:26:08","Shake hands",10,0
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:27:35","Flip coin",11,0
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:28:42","Game about to start",12,0
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:29:41","Start RT1 Team 1",13,1
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:29:42","SAFE1",14,1
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:30:08","Possible Free Kick",15,1
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:30:09","F2",17,1
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:30:09","FK1",18,1
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:30:09","DANGER1",19,1
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:30:09","DFK1",20,1
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:30:09","Ball Position",21,1
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:30:15","Restart",22,1
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:30:32","SAFE2",23,1
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:30:34","AT2",24,1
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:30:34","DANGER2",25,1
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:30:34","DAT2",26,1
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:30:37","SAFE1",27,1
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:30:53","AT1",28,2
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:30:54","DANGER1",29,2
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:30:54","DAT1",30,2
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:31:02","SAFE2",31,2
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:31:03","GK2",32,2
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:31:26","Restart",33,2
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:31:33","SAFE1",34,2
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:31:36","AT1",35,2
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:31:39","DANGER1",36,2
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:31:39","DAT1",37,2
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:31:44","POSSIBLE_TI",38,3
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:31:47","TI1",39,3
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:31:52","Restart",40,3
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:32:17","POSSIBLE_TI",41,3
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:32:18","TI1",42,3
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:32:20","Restart",43,3
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:32:31","SAFE1",44,3
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:32:52","AT1",45,4
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:32:55","DANGER1",46,4
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:32:55","DAT1",47,4
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:33:10","SAFE2",48,4
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:33:13","AT2",49,4
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:33:27","DANGER2",50,4
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:33:27","DAT2",51,4
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:33:34","SAFE1",52,4
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:34:00","AT1",53,5
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:34:02","DANGER1",54,5
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:34:02","DAT1",55,5
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:34:07","SAFE2",56,5
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:34:09","AT2",57,5
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:34:12","DANGER2",58,5
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:34:12","DAT2",59,5
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:34:19","SAFE1",60,5
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:34:22","AT1",61,5
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:34:23","DANGER1",62,5
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:34:23","DAT1",63,5
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:34:31","POSSIBLE_TI",64,5
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:34:32","TI1",65,5
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:34:40","Restart",66,5
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:35:02","POSSIBLE_TI",67,6
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:35:03","TI2",68,6
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:35:17","Restart",69,6
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:35:18","SAFE2",70,6
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:35:23","SAFE1",71,6
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:35:48","AT1",72,7
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:35:54","DANGER1",73,7
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:35:54","DAT1",74,7
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:36:10","SAFE2",75,7
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:36:16","Possible Free Kick",76,7
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:36:17","SAFE1",78,7
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:36:18","F2",79,7
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:36:18","FK1",80,7
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:36:18","Ball Position",81,7
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:36:19","Restart",82,7
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:36:25","SAFE2",83,7
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:36:29","SAFE1",84,7
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:36:37","POSSIBLE_TI",85,7
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:36:38","TI1",86,7
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:36:41","Restart",87,7
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:37:08","AT1",88,8
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:37:11","DANGER1",89,8
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:37:11","DAT1",90,8
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:37:46","SAFE2",91,9
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:37:59","AT2",92,9
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:38:02","DANGER2",93,9
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:38:02","DAT2",94,9
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:38:08","Possible Free Kick",95,9
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:38:15","SAFE1",98,9
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:38:15","F2",99,9
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:38:15","FK1",100,9
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:38:15","Ball Position",101,9
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:38:16","Restart",102,9
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:38:33","SAFE2",103,9
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:38:36","AT2",104,9
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:38:36","DANGER2",105,9
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:38:36","DAT2",106,9
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:38:42","Possible Free Kick",107,10
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:38:50","SAFE1",109,10
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:38:50","F2",110,10
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:38:50","FK1",111,10
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:38:50","Ball Position",112,10
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:38:53","Restart",113,10
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:39:13","AT1",114,10
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:39:16","DANGER1",115,10
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:39:16","DAT1",116,10
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:40:36","SAFE2",117,11
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:40:48","SAFE1",118,12
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:41:13","AT1",119,12
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:41:16","DANGER1",120,12
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:41:16","DAT1",121,12
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:41:21","SAFE2",122,12
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:41:42","AT2",123,13
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:41:45","DANGER2",124,13
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:41:45","DAT2",125,13
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:41:56","POSSIBLE_TI",126,13
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:41:58","TI2",127,13
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:42:04","Restart",128,13
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:42:08","SAFE2",129,13
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:42:22","AT2",130,13
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:42:22","DANGER2",131,13
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:42:22","DAT2",132,13
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:42:42","SAFE1",133,14
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:42:49","AT1",134,14
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:42:51","DANGER1",135,14
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:42:51","DAT1",136,14
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:43:24","SAFE2",137,14
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:43:36","SAFE1",138,14
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:43:39","AT1",139,14
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:43:39","DANGER1",140,14
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:43:39","DAT1",141,14
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:44:12","SAFE2",142,15
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:44:13","GK2",143,15
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:44:36","Restart",144,15
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:44:44","SAFE1",145,16
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:44:56","SAFE2",146,16
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:44:57","AT2",147,16
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:45:00","DANGER2",148,16
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:45:00","DAT2",149,16
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:45:07","Possible Free Kick",150,16
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:45:08","F1",152,16
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:45:08","FK2",153,16
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:45:08","DFK2",154,16
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:45:08","Ball Position",155,16
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:45:39","Restart",156,16
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:45:46","PCR2",157,17
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:45:47","CR2",158,17
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:45:48","Ball Position",159,17
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:46:14","Restart",160,17
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:46:25","Possible Free Kick",161,17
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:46:26","SAFE1",163,17
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:46:26","F2",164,17
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:46:26","FK1",165,17
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:46:26","Ball Position",166,17
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:46:42","Restart",167,18
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:46:59","AT1",168,18
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:47:02","DANGER1",169,18
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:47:02","DAT1",170,18
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:47:11","POSSIBLE_TI",171,18
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:47:12","TI1",172,18
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:47:14","Restart",173,18
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:47:21","SAFE2",174,18
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:47:43","Possible Free Kick",175,19
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:47:44","SAFE1",177,19
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:47:44","F2",178,19
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:47:44","FK1",179,19
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:47:44","Ball Position",180,19
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:47:49","Restart",181,19
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:47:59","AT1",182,19
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:48:01","DANGER1",183,19
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:48:01","DAT1",184,19
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:48:12","SAFE2",185,19
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:48:15","AT2",186,19
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:48:16","DANGER2",187,19
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:48:16","DAT2",188,19
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:48:26","SAFE1",189,19
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:48:35","SAFE2",190,19
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:48:38","Possible Free Kick",191,19
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:48:40","F1",193,19
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:48:40","FK2",194,19
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:48:40","DANGER2",195,19
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:48:40","DFK2",196,19
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:48:40","Ball Position",197,19
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:49:11","Restart",198,20
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:49:20","SAFE1",199,20
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:49:27","SAFE2",200,20
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:49:45","AT2",201,21
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:49:48","Possible Free Kick",202,21
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:49:52","F1",204,21
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:49:52","FK2",205,21
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:49:52","DANGER2",206,21
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:49:52","DFK2",207,21
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:49:52","Ball Position",208,21
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:50:26","Restart",209,21
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:50:35","POSSIBLE_TI",210,21
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:50:36","TI1",211,21
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:50:46","Restart",212,22
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:50:57","SAFE1",213,22
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:51:03","AT1",214,22
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:51:32","DANGER1",215,22
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:51:32","DAT1",216,22
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:51:54","Possible Free Kick",217,23
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:51:58","F2",219,23
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:51:58","FK1",220,23
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:51:58","DFK1",221,23
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:51:58","Ball Position",222,23
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:52:47","Restart",223,24
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:52:51","BLOCKED1",224,24
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:52:54","POSSIBLE_TI",225,24
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:52:54","TI1",226,24
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:52:56","Restart",227,24
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:53:02","POSSIBLE_TI",228,24
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:53:02","TI1",229,24
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:53:20","Restart",230,24
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:53:31","SAFE2",231,24
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:53:33","AT2",232,24
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:53:34","DANGER2",233,24
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:53:34","DAT2",234,24
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:53:44","PCR2",235,25
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:53:45","CR2",236,25
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:53:47","SHG2",237,25
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:53:50","Ball Position",238,25
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:54:15","Restart",239,25
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:54:27","SAFE1",240,25
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:54:27","GK1",241,25
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:54:29","Restart",242,25
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:54:46","AT1",243,26
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:54:47","DANGER1",244,26
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:54:47","DAT1",245,26
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:54:57","SAFE2",246,26
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:55:00","Possible Free Kick",247,26
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:55:08","F1",249,26
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:55:08","FK2",250,26
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:55:08","DANGER2",251,26
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:55:08","DFK2",252,26
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:55:08","Ball Position",253,26
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:55:26","Restart",254,26
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:55:38","SAFE1",255,26
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:55:43","AT1",256,27
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:55:46","DANGER1",257,27
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:55:46","DAT1",258,27
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:56:00","SHB1",259,27
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:56:01","SAFE2",260,27
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:56:02","GK2",261,27
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:56:18","Restart",262,27
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:56:25","AT2",263,27
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:56:33","POSSIBLE_TI",264,27
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:56:34","TI2",265,27
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:56:44","Restart",266,28
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:56:53","DANGER2",267,28
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:56:53","DAT2",268,28
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:57:02","SHB2",269,28
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:57:03","SAFE1",270,28
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:57:04","GK1",271,28
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:57:11","Restart",272,28
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:57:39","AT1",273,28
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:57:46","DANGER1",274,29
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:57:46","DAT1",275,29
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:58:00","SAFE1",276,29
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:58:07","AT1",277,29
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:58:12","SAFE2",278,29
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:58:32","AT2",279,29
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:58:32","DANGER2",280,29
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:58:32","DAT2",281,29
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:58:39","SAFE1",282,29
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:58:42","AT1",283,30
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:58:43","DANGER1",284,30
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:58:43","DAT1",285,30
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:59:09","PCR1",286,30
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:59:11","CR1",287,30
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:59:12","SHG1",288,30
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:59:13","SHG1",289,30
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:59:15","Ball Position",290,30
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:59:24","Restart",291,30
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:59:45","Possible Free Kick",292,31
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:59:48","SAFE2",294,31
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:59:48","O1",295,31
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:59:48","FK2",296,31
+922794,"Sevilla FC","Getafe CF","01/28/2018 17:59:49","Ball Position",297,31
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:00:20","Restart",298,31
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:00:33","AT2",299,31
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:00:37","SAFE1",300,31
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:00:39","AT1",301,31
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:00:43","POSSIBLE_TI",302,32
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:00:45","TI1",303,32
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:00:47","Restart",304,32
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:00:47","DANGER1",305,32
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:00:47","DAT1",306,32
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:00:56","POSSIBLE_TI",307,32
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:00:57","TI1",308,32
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:01:31","Injury Break",309,32
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:01:53","Restart",310,33
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:02:22","SAFE2",311,33
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:02:23","GK2",312,33
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:02:52","Restart",313,34
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:03:06","POSSIBLE_TI",314,34
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:03:07","TI1",315,34
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:03:08","Restart",316,34
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:03:09","SAFE1",317,34
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:03:17","AT1",318,34
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:03:19","DANGER1",319,34
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:03:19","DAT1",320,34
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:03:34","POSSIBLE_TI",321,34
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:03:35","TI1",322,34
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:03:37","Restart",323,34
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:03:48","SAFE2",324,35
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:03:50","AT2",325,35
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:03:51","DANGER2",326,35
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:03:51","DAT2",327,35
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:04:02","SAFE1",328,35
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:04:08","AT1",329,35
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:04:11","DANGER1",330,35
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:04:11","DAT1",331,35
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:04:22","Possible Free Kick",332,35
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:04:23","SAFE2",334,35
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:04:23","F1",335,35
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:04:23","FK2",336,35
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:04:24","Ball Position",337,35
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:04:52","Restart",338,36
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:04:57","AT2",339,36
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:05:01","SAFE1",340,36
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:05:03","AT1",341,36
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:05:03","DANGER1",342,36
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:05:03","DAT1",343,36
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:05:15","POSSIBLE_TI",344,36
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:05:15","TI1",345,36
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:05:17","Restart",346,36
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:05:33","POSSIBLE_TI",347,36
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:05:34","TI1",348,36
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:05:35","Restart",349,36
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:06:14","POSSIBLE_TI",350,37
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:06:14","TI2",351,37
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:06:34","Restart",352,37
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:06:41","POSSIBLE_TI",353,37
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:06:42","TI2",354,38
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:06:49","Restart",355,38
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:07:00","SAFE2",356,38
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:07:05","SAFE1",357,38
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:07:09","AT1",358,38
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:07:09","DANGER1",359,38
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:07:09","DAT1",360,38
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:07:09","POSSIBLE_TI",361,38
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:07:11","TI1",362,38
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:07:14","Restart",363,38
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:07:37","SAFE2",364,38
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:07:38","GK2",365,38
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:08:12","SUB2",366,39
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:08:23","Restart",367,39
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:08:36","SAFE1",368,39
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:08:38","AT1",369,39
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:08:38","DANGER1",370,39
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:08:38","DAT1",371,39
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:08:44","Possible Free Kick",372,40
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:08:50","SAFE2",374,40
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:08:50","F1",375,40
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:08:50","FK2",376,40
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:08:50","Ball Position",377,40
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:09:07","Restart",378,40
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:09:24","SAFE1",379,40
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:09:38","AT1",380,40
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:09:38","DANGER1",381,40
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:09:38","DAT1",382,40
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:09:48","SHB1",383,41
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:09:48","SAFE2",384,41
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:09:49","GK2",385,41
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:10:08","Restart",386,41
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:10:11","Player_DATA_CONFIRMED",387,41
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:10:16","Possible Free Kick",388,41
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:10:18","F1",390,41
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:10:18","FK2",391,41
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:10:18","Ball Position",392,41
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:10:30","Restart",393,41
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:10:43","SAFE1",394,42
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:10:50","SAFE2",395,42
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:10:52","AT2",396,42
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:11:02","DANGER2",397,42
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:11:02","DAT2",398,42
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:11:07","POSSIBLE_TI",399,42
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:11:08","TI1",400,42
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:11:09","Restart",401,42
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:11:11","SAFE1",402,42
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:11:27","AT1",403,42
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:11:30","DANGER1",404,42
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:11:30","DAT1",405,42
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:12:01","POSSIBLE_TI",406,43
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:12:02","TI1",407,43
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:12:03","Restart",408,43
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:12:32","SAFE2",409,43
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:13:05","SAFE1",410,44
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:13:07","AT1",411,44
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:13:09","DANGER1",412,44
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:13:09","DAT1",413,44
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:13:15","SAFE2",414,44
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:13:21","AT2",415,44
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:13:22","DANGER2",416,44
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:13:22","DAT2",417,44
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:13:32","PCR2",418,44
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:13:32","CR2",419,44
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:13:34","Ball Position",420,44
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:14:09","Restart",421,45
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:14:26","SAFE1",422,45
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:14:27","GK1",423,45
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:14:31","Restart",424,45
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:14:49","Extra Time",425,46
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:15:06","AT1",426,46
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:15:11","DANGER1",427,46
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:15:11","DAT1",428,46
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:15:23","SAFE2",429,46
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:15:24","GK2",430,46
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:15:41","CLS",431,46
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:15:45","Stop RT1",432,46
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:15:49","CONF_PERIOD_SCORE",433,45
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:29:09","Players are coming out",434,45
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:30:02","Game about to start",435,45
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:30:43","Start RT2 Team 2",436,46
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:30:44","SAFE2",437,46
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:30:49","POSSIBLE_TI",438,46
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:30:50","TI1",439,46
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:30:52","Restart",440,46
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:30:53","SAFE1",441,46
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:31:15","AT1",442,46
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:31:19","DANGER1",443,46
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:31:19","DAT1",444,46
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:31:25","POSSIBLE_TI",445,46
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:31:26","TI1",446,46
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:31:34","Restart",447,46
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:31:47","SAFE2",448,47
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:31:52","AT2",449,47
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:31:53","DANGER2",450,47
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:31:53","DAT2",451,47
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:32:12","SAFE1",452,47
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:32:13","GK1",453,47
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:32:22","Restart",454,47
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:32:30","SAFE2",455,47
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:32:33","AT2",456,47
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:32:42","POSSIBLE_TI",457,47
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:32:43","TI1",458,47
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:32:44","Restart",459,48
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:32:45","SAFE1",460,48
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:32:54","AT1",461,48
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:32:58","DANGER1",462,48
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:32:58","DAT1",463,48
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:33:18","SAFE2",464,48
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:33:29","AT2",465,48
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:33:29","DANGER2",466,48
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:33:29","DAT2",467,48
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:33:36","SAFE1",468,48
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:33:51","AT1",469,49
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:34:03","DANGER1",470,49
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:34:03","DAT1",471,49
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:34:10","POSSIBLE_TI",472,49
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:34:11","TI2",473,49
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:34:29","Restart",474,49
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:34:57","SAFE2",475,50
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:35:02","SAFE1",476,50
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:35:05","AT1",477,50
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:35:09","POSSIBLE_TI",478,50
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:35:10","TI2",479,50
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:35:23","Restart",480,50
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:35:29","SAFE2",481,50
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:35:34","SAFE1",482,50
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:35:45","AT1",483,51
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:35:47","DANGER1",484,51
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:35:47","DAT1",485,51
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:35:54","SAFE2",486,51
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:35:55","GK2",487,51
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:36:17","Restart",488,51
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:36:22","AT2",489,51
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:36:26","DANGER2",490,51
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:36:26","DAT2",491,51
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:36:31","SAFE2",492,51
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:36:37","SAFE1",493,51
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:36:40","AT1",494,51
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:36:40","DANGER1",495,51
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:36:40","DAT1",496,51
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:36:48","SHB1",497,52
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:36:51","SAFE2",498,52
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:36:52","GK2",499,52
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:37:09","Restart",500,52
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:37:15","SAFE1",501,52
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:37:17","AT1",502,52
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:37:19","DANGER1",503,52
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:37:19","DAT1",504,52
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:37:24","SAFE2",505,52
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:37:27","AT2",506,52
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:37:29","DANGER2",507,52
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:37:29","DAT2",508,52
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:37:37","POSSIBLE_TI",509,52
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:37:37","TI2",510,52
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:37:39","Restart",511,52
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:37:45","SAFE1",512,53
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:37:50","AT1",513,53
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:37:52","DANGER1",514,53
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:37:52","DAT1",515,53
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:38:35","POSSIBLE_TI",516,53
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:38:36","TI1",517,53
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:38:37","Restart",518,53
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:39:05","SAFE2",519,54
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:39:13","SAFE1",520,54
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:39:15","AT1",521,54
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:39:23","POSSIBLE_TI",522,54
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:39:24","TI2",523,54
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:39:40","Restart",524,54
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:39:46","DANGER1",525,55
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:39:46","DAT1",526,55
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:39:51","Possible Free Kick",527,55
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:39:54","F2",529,55
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:39:54","FK1",530,55
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:39:54","DFK1",531,55
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:39:54","Ball Position",532,55
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:39:55","Restart",533,55
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:40:02","PCR1",534,55
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:40:02","CR1",535,55
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:40:03","Ball Position",536,55
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:40:20","Restart",537,55
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:40:26","SAFE2",538,55
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:40:28","AT2",539,55
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:40:28","DANGER2",540,55
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:40:28","DAT2",541,55
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:40:37","SAFE1",542,55
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:40:57","AT1",543,56
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:41:01","DANGER1",544,56
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:41:01","DAT1",545,56
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:41:10","Possible Free Kick",546,56
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:41:17","SAFE2",548,56
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:41:17","O1",549,56
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:41:17","FK2",550,56
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:41:17","Ball Position",551,56
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:41:32","SUB1",552,56
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:41:44","Restart",553,57
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:41:49","AT2",554,57
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:41:49","DANGER2",555,57
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:41:49","DAT2",556,57
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:41:57","SAFE1",557,57
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:42:00","AT1",558,57
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:42:02","DANGER1",559,57
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:42:02","DAT1",560,57
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:42:14","SHB1",561,57
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:42:15","SAFE2",562,57
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:42:16","GK2",563,57
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:42:38","Restart",564,57
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:42:41","Player_DATA_CONFIRMED",565,57
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:42:48","SAFE1",566,58
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:42:52","AT1",567,58
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:42:54","DANGER1",568,58
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:42:54","DAT1",569,58
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:43:07","SHB1",570,58
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:43:08","SAFE2",571,58
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:43:09","GK2",572,58
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:43:35","Restart",573,58
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:43:41","POSSIBLE_TI",574,58
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:43:43","TI1",575,58
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:43:45","Restart",576,59
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:43:45","SAFE1",577,59
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:43:47","AT1",578,59
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:43:51","Possible Free Kick",579,59
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:43:53","F2",581,59
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:43:53","FK1",582,59
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:43:53","DANGER1",583,59
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:43:53","DFK1",584,59
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:43:53","Ball Position",585,59
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:44:25","Restart",586,59
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:44:31","SHB1",587,59
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:44:32","SAFE2",588,59
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:44:32","GK2",589,59
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:45:18","SUB2",590,60
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:45:20","Restart",591,60
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:45:27","SAFE1",592,60
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:46:00","AT1",593,61
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:46:00","DANGER1",594,61
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:46:00","DAT1",595,61
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:46:24","PCR1",596,61
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:46:25","CR1",597,61
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:46:26","Ball Position",598,61
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:46:37","Restart",599,61
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:46:49","SAFE2",600,62
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:46:52","AT2",601,62
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:46:56","SAFE1",602,62
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:46:58","AT1",603,62
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:46:59","DANGER1",604,62
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:46:59","DAT1",605,62
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:47:09","SHB1",606,62
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:47:10","SAFE2",607,62
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:47:10","GK2",608,62
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:47:35","Restart",609,62
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:47:40","SAFE1",610,62
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:47:40","Player_DATA_CONFIRMED",611,62
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:47:47","AT1",612,63
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:47:49","DANGER1",613,63
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:47:49","DAT1",614,63
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:47:58","POSSIBLE_TI",615,63
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:47:59","TI1",616,63
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:48:00","Restart",617,63
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:48:30","SAFE2",618,63
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:48:32","AT2",619,63
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:48:33","DANGER2",620,63
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:48:33","DAT2",621,63
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:48:40","SAFE1",622,63
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:48:47","SAFE2",623,64
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:48:49","AT2",624,64
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:48:51","DANGER2",625,64
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:48:51","DAT2",626,64
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:49:14","SAFE1",627,64
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:49:23","Possible Free Kick",628,64
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:49:26","POSSIBLE_CARDS",630,64
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:49:30","YC2",631,64
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:49:34","CONF_YC2",632,64
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:49:37","Scorer",633,64
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:49:43","F2",634,65
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:49:43","FK1",635,65
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:49:43","DANGER1",636,65
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:49:43","DFK1",637,65
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:49:43","Ball Position",638,65
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:49:55","Restart",639,65
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:50:46","POSSIBLE_TI",640,66
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:50:47","TI1",641,66
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:50:47","Restart",642,66
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:51:09","POSSIBLE_TI",643,66
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:51:10","TI1",644,66
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:51:12","Restart",645,66
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:51:41","Possible Free Kick",646,66
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:51:43","SAFE2",648,66
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:51:43","O1",649,66
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:51:43","FK2",650,66
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:51:43","Ball Position",651,66
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:51:59","Restart",652,67
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:52:02","AT2",653,67
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:52:02","DANGER2",654,67
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:52:02","DAT2",655,67
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:52:06","SAFE1",656,67
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:52:18","AT1",657,67
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:52:23","DANGER1",658,67
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:52:23","DAT1",659,67
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:52:47","SAFE2",660,68
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:52:53","Possible Free Kick",661,68
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:52:55","SAFE1",663,68
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:52:55","F2",664,68
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:52:55","FK1",665,68
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:52:55","Ball Position",666,68
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:53:08","SUB1",667,68
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:53:13","Restart",668,68
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:53:19","SAFE2",669,68
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:53:34","SAFE1",670,68
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:53:50","AT1",671,69
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:53:52","DANGER1",672,69
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:53:52","DAT1",673,69
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:53:58","Possible Free Kick",674,69
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:54:06","POSSIBLE_CARDS",676,69
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:54:08","YC2",677,69
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:54:11","CONF_YC2",678,69
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:54:17","Scorer",679,69
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:54:20","F2",680,69
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:54:20","FK1",681,69
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:54:20","DFK1",682,69
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:54:20","Ball Position",683,69
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:54:56","Restart",684,70
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:55:00","SHG1",685,70
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:55:07","SHB1",686,70
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:55:08","SAFE2",687,70
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:55:08","GK2",688,70
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:55:27","Restart",689,70
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:55:36","AT2",690,70
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:55:36","DANGER2",691,70
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:55:36","DAT2",692,70
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:55:52","SHG2",693,71
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:55:56","SAFE1",694,71
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:55:59","AT1",695,71
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:56:02","DANGER1",696,71
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:56:02","DAT1",697,71
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:56:11","Player_DATA_CONFIRMED",698,71
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:56:14","POSSIBLE_TI",699,71
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:56:15","TI1",700,71
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:56:20","Restart",701,71
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:56:41","POSSIBLE_TI",702,71
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:56:42","TI1",703,71
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:56:43","Player_DATA_CONFIRMED",704,71
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:56:43","Player_DATA_CONFIRMED",705,71
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:56:44","Player_DATA_CONFIRMED",706,72
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:56:49","Restart",707,72
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:57:05","GOAL1",708,72
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:57:20","Scorer",709,72
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:57:54","CONF_GOAL1",710,73
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:58:12","KO2",711,73
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:58:12","SAFE2",712,73
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:58:39","AT2",713,73
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:58:42","POSSIBLE_TI",714,73
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:58:44","TI2",715,74
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:58:48","Restart",716,74
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:58:50","DANGER2",717,74
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:58:50","DAT2",718,74
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:59:14","SAFE1",719,74
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:59:16","AT1",720,74
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:59:18","DANGER1",721,74
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:59:18","DAT1",722,74
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:59:22","Possible Free Kick",723,74
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:59:25","F2",725,74
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:59:25","FK1",726,74
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:59:25","DFK1",727,74
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:59:26","Ball Position",728,74
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:59:31","POSSIBLE_CARDS",729,74
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:59:33","YC2",730,74
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:59:39","CONF_YC2",731,74
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:59:40","Player_DATA_CONFIRMED",732,74
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:59:40","Assist",733,74
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:59:42","Scorer",734,74
+922794,"Sevilla FC","Getafe CF","01/28/2018 18:59:48","Player_DATA_CONFIRMED",735,75
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:00:06","Restart",736,75
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:00:15","SHB1",737,75
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:00:15","SAFE2",738,75
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:00:16","GK2",739,75
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:00:28","SUB2",740,75
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:00:45","Restart",741,76
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:00:59","SAFE1",742,76
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:01:01","AT1",743,76
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:01:02","DANGER1",744,76
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:01:02","DAT1",745,76
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:01:09","SAFE2",746,76
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:01:21","Possible Free Kick",747,76
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:01:23","F1",749,76
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:01:23","FK2",750,76
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:01:23","DANGER2",751,76
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:01:23","DFK2",752,76
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:01:23","Ball Position",753,76
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:01:29","POSSIBLE_CARDS",754,76
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:01:31","YC1",755,76
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:01:34","CONF_YC1",756,76
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:01:42","Scorer",757,76
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:01:54","Restart",758,77
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:02:06","SAFE1",759,77
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:02:08","AT1",760,77
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:02:08","DANGER1",761,77
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:02:08","DAT1",762,77
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:02:11","Player_DATA_CONFIRMED",763,77
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:02:12","SAFE2",764,77
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:02:23","AT2",765,77
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:02:26","DANGER2",766,77
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:02:26","DAT2",767,77
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:03:20","SAFE1",768,78
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:03:20","GK1",769,78
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:03:52","Restart",770,79
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:04:01","AT1",771,79
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:04:05","SAFE2",772,79
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:04:15","AT2",773,79
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:04:42","Player_DATA_CONFIRMED",774,79
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:04:49","DANGER2",775,80
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:04:49","DAT2",776,80
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:05:01","SHB2",777,80
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:05:02","SAFE1",778,80
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:05:03","GK1",779,80
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:05:27","Restart",780,80
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:05:35","AT1",781,80
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:05:35","DANGER1",782,80
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:05:35","DAT1",783,80
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:05:47","POSSIBLE_TI",784,81
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:05:48","TI1",785,81
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:06:20","SUB1",786,81
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:06:27","Restart",787,81
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:06:34","Possible Free Kick",788,81
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:06:36","SAFE2",790,81
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:06:36","F1",791,81
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:06:36","FK2",792,81
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:06:36","Ball Position",793,81
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:06:40","Restart",794,81
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:06:55","POSSIBLE_TI",795,82
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:06:56","TI1",796,82
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:07:06","Restart",797,82
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:07:11","Possible Free Kick",798,82
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:07:16","F1",800,82
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:07:16","FK2",801,82
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:07:16","DANGER2",802,82
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:07:16","DFK2",803,82
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:07:16","Ball Position",804,82
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:07:30","Restart",805,82
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:07:42","POSSIBLE_TI",806,82
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:07:44","TI2",807,83
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:07:45","Restart",808,83
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:07:56","SAFE1",809,83
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:07:58","AT1",810,83
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:07:59","DANGER1",811,83
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:07:59","DAT1",812,83
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:08:21","SAFE2",813,83
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:08:27","AT2",814,83
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:08:34","DANGER2",815,83
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:08:34","DAT2",816,83
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:08:41","Player_DATA_CONFIRMED",817,83
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:08:59","SHB2",818,84
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:09:00","SAFE1",819,84
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:09:01","GK1",820,84
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:09:29","Restart",821,84
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:09:34","POSSIBLE_TI",822,84
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:09:36","TI1",823,84
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:09:46","Restart",824,85
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:09:50","AT1",825,85
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:09:55","DANGER1",826,85
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:09:55","DAT1",827,85
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:10:28","SHW1",828,85
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:10:50","SAFE1",829,86
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:10:59","AT1",830,86
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:11:02","POSSIBLE_TI",831,86
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:11:03","TI1",832,86
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:11:17","Restart",833,86
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:11:21","DANGER1",834,86
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:11:21","DAT1",835,86
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:11:24","Possible Free Kick",836,86
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:11:26","SAFE2",838,86
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:11:26","O1",839,86
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:11:26","FK2",840,86
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:11:26","Ball Position",841,86
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:11:34","AT2",842,86
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:11:34","DANGER2",843,86
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:11:34","DAT2",844,86
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:11:40","Restart",845,86
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:11:45","POSSIBLE_TI",846,87
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:11:47","TI2",847,87
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:11:50","Restart",848,87
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:12:06","SAFE1",849,87
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:12:08","AT1",850,87
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:12:10","DANGER1",851,87
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:12:10","DAT1",852,87
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:12:24","Possible Free Kick",853,87
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:12:30","SAFE2",855,87
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:12:30","F1",856,87
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:12:30","FK2",857,87
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:12:31","Ball Position",858,87
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:12:42","Restart",859,87
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:12:58","AT2",860,88
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:13:03","DANGER2",861,88
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:13:03","DAT2",862,88
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:13:14","SAFE1",863,88
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:13:16","AT1",864,88
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:13:17","DANGER1",865,88
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:13:17","DAT1",866,88
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:13:51","SAFE2",867,89
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:13:57","Possible Free Kick",868,89
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:13:59","F1",870,89
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:13:59","FK2",871,89
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:13:59","DANGER2",872,89
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:13:59","DFK2",873,89
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:13:59","Ball Position",874,89
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:14:11","Restart",875,89
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:14:25","PCR2",876,89
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:14:25","CR2",877,89
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:14:26","Ball Position",878,89
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:14:35","Restart",879,89
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:14:40","Possible Free Kick",880,89
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:14:46","Injury Break",882,90
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:14:49","SAFE1",883,90
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:14:49","Restart",884,90
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:14:49","F2",885,90
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:14:49","FK1",886,90
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:14:49","Ball Position",887,90
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:16:00","Extra Time",888,91
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:16:12","Restart",889,91
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:16:19","AT1",890,91
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:16:19","DANGER1",891,91
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:16:19","DAT1",892,91
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:16:24","SAFE2",893,91
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:16:39","AT2",894,91
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:16:39","DANGER2",895,91
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:16:39","DAT2",896,91
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:16:50","SAFE1",897,92
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:16:53","Possible Free Kick",898,92
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:16:55","F2",900,92
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:16:55","FK1",901,92
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:16:55","DANGER1",902,92
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:16:55","DFK1",903,92
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:16:55","Ball Position",904,92
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:17:12","Restart",905,92
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:17:20","SAFE2",906,92
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:17:45","AT2",907,93
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:17:45","DANGER2",908,93
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:17:45","DAT2",909,93
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:17:48","GOAL2",910,93
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:18:00","POSSIBLE_CARDS",911,93
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:18:05","YC1",912,93
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:18:07","CONF_YC1",913,93
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:18:08","Scorer",914,93
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:19:00","CONF_GOAL2",915,94
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:19:06","Scorer",916,94
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:19:06","KO1",917,94
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:19:06","SAFE1",918,94
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:19:11","Scorer",919,94
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:19:11","Player_DATA_CONFIRMED",920,94
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:19:14","AT1",921,94
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:19:14","DANGER1",922,94
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:19:14","DAT1",923,94
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:19:33","SAFE2",924,94
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:19:41","Scorer",925,94
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:19:41","Player_DATA_CONFIRMED",926,94
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:19:41","Assist",927,94
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:19:54","Stop RT2",928,94
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:19:54","Stop Game",929,94
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:19:59","CONF_PERIOD_SCORE",930,94
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:20:07","System Message",931,94
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:23:13","System Message",932,94
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:27:43","System Message",933,94
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:28:17","CLS",934,94
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:28:19","CLS",935,103
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:28:25","Start score update",936,103
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:28:26","YC1",937,103
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:28:29","CONF_YC1",938,103
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:28:29","Scorer",939,103
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:28:31","Score update finished",940,103
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:28:48","Stop RT2",941,103
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:28:48","Stop Game",942,103
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:28:58","CONF_PERIOD_SCORE",943,103
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:29:34","System Message",944,103
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:31:07","Scorer",945,103
+922794,"Sevilla FC","Getafe CF","01/28/2018 19:31:07","Player_DATA_CONFIRMED",946,103

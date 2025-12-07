@@ -1,0 +1,921 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:04:48","Scout in Stadion",0,0
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:05:25","Transmission Online",1,0
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:05:45","GCC",2,0
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:16:20","Lineup changed",3,0
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:21:03","Lineup changed",4,0
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:28:38","GCC",5,0
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:29:51","Jersey Changed",6,0
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:29:51","Jersey Changed",7,0
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:43:08","Players are coming out",8,0
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:43:15","National anthem singing",9,0
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:43:36","Players lined up",10,0
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:43:52","Shake hands",11,0
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:44:29","Photo taking",12,0
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:45:11","Flip coin",13,0
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:45:54","Minute of silent",14,0
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:46:06","System Message",15,0
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:47:06","Game about to start",16,0
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:47:33","Start RT1 Team 2",17,1
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:47:35","SAFE2",18,1
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:47:51","SAFE1",19,1
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:48:21","AT1",20,1
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:48:27","SAFE1",21,1
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:48:35","AT1",22,2
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:48:48","DANGER1",23,2
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:48:48","DAT1",24,2
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:49:25","PCR1",25,2
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:49:27","NCR1",26,2
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:49:28","GOAL1",27,2
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:50:14","CONF_GOAL1",28,3
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:50:16","Scorer",29,3
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:50:17","KO2",30,3
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:50:17","SAFE2",31,3
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:50:17","SAFE2",32,3
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:50:27","Scorer",33,3
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:50:27","Player_DATA_CONFIRMED",34,3
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:50:30","SAFE1",35,3
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:50:52","SAFE2",36,4
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:51:02","AT2",37,4
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:51:04","DANGER2",38,4
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:51:04","DAT2",39,4
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:51:06","SAFE1",40,4
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:51:17","AT2",41,4
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:51:17","DANGER2",42,4
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:51:17","DAT2",43,4
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:51:21","PCR2",44,4
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:51:26","CR2",45,4
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:51:27","Ball Position",46,4
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:51:52","Restart",47,5
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:51:57","PCR2",48,5
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:52:01","NCR2",49,5
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:52:01","Assist",50,5
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:52:02","SHB2",51,5
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:52:04","SAFE1",52,5
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:52:05","GK1",53,5
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:52:05","Restart",54,5
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:52:06","SAFE1",55,5
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:52:42","AT2",56,6
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:52:42","POSSIBLE_TI",57,6
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:52:43","TI2",58,6
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:52:56","Restart",59,6
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:52:58","DANGER2",60,6
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:52:58","DAT2",61,6
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:53:02","SAFE1",62,6
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:53:03","Possible Free Kick",63,6
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:53:06","O2",65,6
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:53:06","FK1",66,6
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:53:06","Ball Position",67,6
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:53:10","Restart",68,6
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:53:11","SAFE1",69,6
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:53:35","AT1",70,7
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:53:37","DANGER1",71,7
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:53:37","DAT1",72,7
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:53:40","POSSIBLE_TI",73,7
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:53:40","TI2",74,7
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:54:00","Restart",75,7
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:54:02","SAFE2",76,7
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:54:13","SAFE1",77,7
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:54:14","POSSIBLE_TI",78,7
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:54:14","TI1",79,7
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:54:24","Restart",80,7
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:54:25","AT1",81,7
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:54:28","DANGER1",82,7
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:54:28","DAT1",83,7
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:54:40","SAFE1",84,8
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:54:43","AT1",85,8
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:54:46","SAFE1",86,8
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:54:52","AT1",87,8
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:54:52","DANGER1",88,8
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:54:52","DAT1",89,8
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:54:54","POSSIBLE_TI",90,8
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:54:59","TI1",91,8
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:55:07","Restart",92,8
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:55:33","SAFE1",93,9
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:55:40","AT1",94,9
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:55:40","DANGER1",95,9
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:55:40","DAT1",96,9
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:55:42","POSSIBLE_TI",97,9
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:55:42","TI1",98,9
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:55:46","Restart",99,9
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:55:56","SAFE1",100,9
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:56:06","AT1",101,9
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:56:06","DANGER1",102,9
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:56:06","DAT1",103,9
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:56:08","SAFE2",104,9
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:56:17","SAFE1",105,9
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:56:44","SAFE1",106,10
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:57:04","AT1",107,10
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:57:06","DANGER1",108,10
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:57:06","DAT1",109,10
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:57:17","PPEN",110,10
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:57:17","PPEN1",111,10
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:57:28","No PEN",112,10
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:57:30","SAFE2",113,10
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:57:30","GK2",114,10
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:57:47","Restart",115,11
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:57:55","AT2",116,11
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:57:58","SAFE1",117,11
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:58:01","AT1",118,11
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:58:11","SAFE2",119,11
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:58:22","AT2",120,11
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:58:22","DANGER2",121,11
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:58:22","DAT2",122,11
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:58:31","SAFE1",123,11
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:58:44","AT2",124,12
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:58:45","POSSIBLE_TI",125,12
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:58:45","TI2",126,12
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:58:49","Restart",127,12
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:58:49","SAFE2",128,12
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:59:17","SAFE1",129,12
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:59:29","AT1",130,12
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:59:47","SAFE1",131,13
+878419,"FC Barcelona","Malaga CF","10/21/2017 18:59:56","AT1",132,13
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:00:00","DANGER1",133,13
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:00:00","DAT1",134,13
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:00:13","SAFE2",135,13
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:00:14","Possible Free Kick",136,13
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:00:15","F1",138,13
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:00:15","FK2",139,13
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:00:16","Ball Position",140,13
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:00:24","GCC",141,13
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:00:27","Restart",142,13
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:00:29","SAFE2",143,13
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:00:39","AT2",144,14
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:00:40","POSSIBLE_TI",145,14
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:00:41","TI1",146,14
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:00:44","Restart",147,14
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:00:44","SAFE1",148,14
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:00:48","Possible Free Kick",149,14
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:00:50","F2",151,14
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:00:50","FK1",152,14
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:00:50","Ball Position",153,14
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:00:53","Restart",154,14
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:00:53","SAFE1",155,14
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:00:58","AT1",156,14
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:01:00","DANGER1",157,14
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:01:00","DAT1",158,14
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:01:25","SAFE2",159,14
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:01:26","GK2",160,14
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:01:53","Restart",161,15
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:01:58","AT2",162,15
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:02:03","SAFE2",163,15
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:02:11","SAFE1",164,15
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:02:38","AT1",165,16
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:02:38","DANGER1",166,16
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:02:38","DAT1",167,16
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:02:48","SAFE1",168,16
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:03:00","AT1",169,16
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:03:02","SAFE1",170,16
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:03:10","AT1",171,16
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:03:28","DANGER1",172,16
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:03:28","DAT1",173,16
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:04:00","SAFE1",174,17
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:04:04","AT1",175,17
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:04:12","DANGER1",176,17
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:04:12","DAT1",177,17
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:04:18","SAFE2",178,17
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:04:20","AT2",179,17
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:04:23","DANGER2",180,17
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:04:23","DAT2",181,17
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:04:26","PCR2",182,17
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:04:31","CR2",183,17
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:04:32","SHB2",184,17
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:04:35","Ball Position",185,18
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:05:03","Restart",186,18
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:05:13","SAFE1",187,18
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:05:13","Possible Free Kick",188,18
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:05:16","O2",190,18
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:05:16","FK1",191,18
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:05:16","Ball Position",192,18
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:05:20","Restart",193,18
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:05:20","SAFE1",194,18
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:05:24","CLS",195,18
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:05:34","SAFE1",196,19
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:05:42","AT2",197,19
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:05:51","SAFE1",198,19
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:05:51","POSSIBLE_TI",199,19
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:05:52","TI1",200,19
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:05:55","Restart",201,19
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:05:56","SAFE1",202,19
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:06:13","Possible Free Kick",203,19
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:06:15","F2",205,19
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:06:15","FK1",206,19
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:06:15","Ball Position",207,19
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:06:19","Restart",208,19
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:06:20","SAFE1",209,19
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:06:22","Possible Free Kick",210,19
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:06:23","F2",212,19
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:06:23","FK1",213,19
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:06:23","Ball Position",214,19
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:06:28","Restart",215,19
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:06:29","AT1",216,19
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:06:41","DANGER1",217,20
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:06:41","DAT1",218,20
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:06:43","Possible Free Kick",219,20
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:06:46","POSSIBLE_CARDS",221,20
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:06:55","F2",222,20
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:06:55","FK1",223,20
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:06:55","DFK1",224,20
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:06:55","Ball Position",225,20
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:07:17","NO_Cards",226,20
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:07:17","Restart",227,20
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:07:29","SAFE1",228,20
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:07:38","AT1",229,21
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:07:42","Possible Free Kick",230,21
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:07:44","POSSIBLE_CARDS",232,21
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:07:45","YC2",233,21
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:08:01","CONF_YC2",234,21
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:08:03","Scorer",235,21
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:08:06","F2",236,21
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:08:06","FK1",237,21
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:08:06","DANGER1",238,21
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:08:06","DFK1",239,21
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:08:06","Ball Position",240,21
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:08:12","Restart",241,21
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:08:13","SAFE1",242,21
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:08:16","Scorer",243,21
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:08:16","Player_DATA_CONFIRMED",244,21
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:08:36","AT1",245,22
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:08:51","DANGER1",246,22
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:08:51","DAT1",247,22
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:09:02","PCR1",248,22
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:09:07","CR1",249,22
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:09:09","Ball Position",250,22
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:09:29","Restart",251,22
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:09:36","POSSIBLE_TI",252,23
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:09:38","TI1",253,23
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:09:42","Restart",254,23
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:09:42","SAFE1",255,23
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:10:03","AT1",256,23
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:10:11","SAFE1",257,23
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:10:19","AT1",258,23
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:10:25","SAFE2",259,23
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:10:43","AT1",260,24
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:10:45","SAFE1",261,24
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:10:53","AT1",262,24
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:10:57","SAFE1",263,24
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:11:08","AT1",264,24
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:11:13","DANGER1",265,24
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:11:13","DAT1",266,24
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:11:14","SAFE2",267,24
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:11:20","Possible Free Kick",268,24
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:11:22","F1",270,24
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:11:22","FK2",271,24
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:11:23","Ball Position",272,24
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:11:31","Restart",273,24
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:11:33","SAFE2",274,24
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:11:39","AT2",275,25
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:11:40","POSSIBLE_TI",276,25
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:11:40","TI2",277,25
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:11:58","Restart",278,25
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:12:02","SAFE1",279,25
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:12:19","Possible Free Kick",280,25
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:12:22","No Free Kick",282,25
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:12:23","AT2",283,25
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:12:25","DANGER2",284,25
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:12:25","DAT2",285,25
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:12:29","SAFE1",286,25
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:12:34","AT1",287,26
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:12:35","DANGER1",288,26
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:12:35","DAT1",289,26
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:12:41","PPEN",290,26
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:12:41","PPEN1",291,26
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:12:44","POSSIBLE_CARDS",292,26
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:12:45","PRC",293,26
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:12:47","YC2",294,26
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:13:02","CONF_YC2",295,26
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:13:04","Scorer",296,26
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:13:06","No RC",297,26
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:13:10","No PEN",298,26
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:13:11","Possible Free Kick",299,26
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:13:14","F2",301,26
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:13:14","FK1",302,26
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:13:14","DFK1",303,26
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:13:15","Ball Position",304,26
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:14:00","POSSIBLE_CARDS",305,27
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:14:15","NO_Cards",306,27
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:14:19","POSSIBLE_CARDS",307,27
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:14:26","Restart",308,27
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:14:30","BLOCKED1",309,27
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:14:30","NO_Cards",310,27
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:14:38","Scorer",311,28
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:14:38","Player_DATA_CONFIRMED",312,28
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:14:57","SAFE2",313,28
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:14:57","GK2",314,28
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:15:21","Restart",315,28
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:15:25","SAFE2",316,28
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:15:30","SAFE1",317,28
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:15:51","AT1",318,29
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:15:58","SAFE1",319,29
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:16:01","AT1",320,29
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:16:06","DANGER1",321,29
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:16:06","DAT1",322,29
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:16:21","SAFE2",323,29
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:16:25","AT2",324,29
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:16:30","DANGER2",325,29
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:16:30","DAT2",326,29
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:16:40","SHB2",327,30
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:16:42","SAFE1",328,30
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:16:43","GK1",329,30
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:16:58","Restart",330,30
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:17:04","SAFE1",331,30
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:17:06","AT1",332,30
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:17:06","DANGER1",333,30
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:17:06","DAT1",334,30
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:17:12","SAFE2",335,30
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:17:29","SAFE1",336,30
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:17:41","AT1",337,31
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:17:48","SAFE2",338,31
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:18:12","AT2",339,31
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:18:20","DANGER2",340,31
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:18:20","DAT2",341,31
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:18:34","SAFE2",342,32
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:18:41","AT2",343,32
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:18:45","SAFE1",344,32
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:19:20","AT1",345,32
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:19:22","DANGER1",346,32
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:19:22","DAT1",347,32
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:20:03","SAFE2",348,33
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:20:04","Possible Free Kick",349,33
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:20:11","F1",351,33
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:20:11","FK2",352,33
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:20:11","Ball Position",353,33
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:20:42","Restart",354,34
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:20:43","SAFE2",355,34
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:20:52","AT2",356,34
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:20:56","DANGER2",357,34
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:20:56","DAT2",358,34
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:20:57","SAFE1",359,34
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:20:59","Possible Free Kick",360,34
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:21:03","O2",362,34
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:21:03","FK1",363,34
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:21:03","Ball Position",364,34
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:21:03","Restart",365,34
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:21:04","SAFE1",366,34
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:21:18","AT1",367,34
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:21:32","SAFE2",368,34
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:21:40","AT2",369,35
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:21:42","POSSIBLE_TI",370,35
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:21:43","TI2",371,35
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:21:58","Restart",372,35
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:22:06","SAFE1",373,35
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:22:09","SAFE2",374,35
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:22:25","AT2",375,35
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:22:30","SAFE2",376,35
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:22:49","SAFE1",377,36
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:22:56","SAFE2",378,36
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:23:08","AT2",379,36
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:23:31","DANGER2",380,36
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:23:31","DAT2",381,36
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:23:37","SAFE1",382,37
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:23:40","AT1",383,37
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:23:42","DANGER1",384,37
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:23:42","DAT1",385,37
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:23:51","SAFE1",386,37
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:24:00","AT1",387,37
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:24:01","DANGER1",388,37
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:24:01","DAT1",389,37
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:24:10","SAFE2",390,37
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:24:29","AT2",391,37
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:24:33","DANGER2",392,37
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:24:33","DAT2",393,37
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:24:46","SAFE1",394,38
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:24:52","AT1",395,38
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:24:57","SAFE2",396,38
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:25:18","SAFE1",397,38
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:25:24","SAFE2",398,38
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:25:25","AT2",399,38
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:25:30","SAFE1",400,38
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:25:35","AT1",401,39
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:25:36","DANGER1",402,39
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:25:36","DAT1",403,39
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:26:08","SAFE2",404,39
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:26:09","POSSIBLE_TI",405,39
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:26:10","TI2",406,39
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:26:10","POSSIBLE_CARDS",407,39
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:26:12","YC2",408,39
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:26:33","CONF_YC2",409,39
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:26:40","Scorer",410,40
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:26:48","Scorer",411,40
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:26:49","Player_DATA_CONFIRMED",412,40
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:26:55","Restart",413,40
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:26:58","AT2",414,40
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:27:01","SAFE1",415,40
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:27:32","AT1",416,40
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:27:32","DANGER1",417,40
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:27:32","DAT1",418,40
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:27:36","SAFE2",419,41
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:27:49","AT2",420,41
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:28:08","DANGER2",421,41
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:28:08","DAT2",422,41
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:28:21","SAFE1",423,41
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:28:26","AT1",424,41
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:28:49","DANGER1",425,42
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:28:49","DAT1",426,42
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:28:58","SAFE2",427,42
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:28:59","GK2",428,42
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:29:20","Restart",429,42
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:29:25","Possible Free Kick",430,42
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:29:27","F1",432,42
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:29:27","FK2",433,42
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:29:27","Ball Position",434,42
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:29:29","Restart",435,42
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:29:30","SAFE2",436,42
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:29:43","SAFE1",437,43
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:29:44","POSSIBLE_TI",438,43
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:29:46","TI1",439,43
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:29:51","Restart",440,43
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:29:56","POSSIBLE_TI",441,43
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:29:57","TI2",442,43
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:30:03","Restart",443,43
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:30:04","SAFE2",444,43
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:30:08","AT2",445,43
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:30:10","DANGER2",446,43
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:30:10","DAT2",447,43
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:30:31","POSSIBLE_TI",448,43
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:30:33","TI2",449,43
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:30:49","Restart",450,44
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:31:25","SAFE1",451,44
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:31:29","AT1",452,44
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:31:33","DANGER1",453,44
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:31:33","DAT1",454,44
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:31:47","POSSIBLE_TI",455,45
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:31:48","TI1",456,45
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:31:53","Restart",457,45
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:32:09","POSSIBLE_TI",458,45
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:33:01","TI2",459,46
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:33:03","Restart",460,46
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:33:04","SAFE2",461,46
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:33:11","Extra Time",462,46
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:33:11","Stop RT1",463,46
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:33:24","CONF_PERIOD_SCORE",464,45
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:47:08","Players are coming out",465,45
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:48:40","SUB2",466,45
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:48:43","Game about to start",467,45
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:48:59","Start RT2 Team 1",468,46
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:49:00","SAFE1",469,46
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:49:12","AT1",470,46
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:49:16","DANGER1",471,46
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:49:16","DAT1",472,46
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:49:53","POSSIBLE_TI",473,46
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:49:53","TI2",474,46
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:50:08","Restart",475,47
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:50:13","SAFE2",476,47
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:50:15","AT2",477,47
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:50:16","SAFE1",478,47
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:50:25","SUB_UPDATE",479,47
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:50:25","Player_DATA_CONFIRMED",480,47
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:50:40","AT1",481,47
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:50:47","SAFE2",482,47
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:50:51","System Message",483,47
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:50:52","AT2",484,47
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:51:00","SAFE2",485,48
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:51:06","AT2",486,48
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:51:09","DANGER2",487,48
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:51:09","DAT2",488,48
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:51:16","SAFE1",489,48
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:51:25","AT1",490,48
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:51:33","DANGER1",491,48
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:51:33","DAT1",492,48
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:51:38","SAFE2",493,48
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:51:45","AT2",494,48
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:51:47","DANGER2",495,48
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:51:47","DAT2",496,48
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:51:53","System Message",497,48
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:52:02","POSSIBLE_TI",498,49
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:52:05","TI1",499,49
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:52:07","Restart",500,49
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:52:09","SAFE1",501,49
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:52:13","SAFE2",502,49
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:52:14","POSSIBLE_TI",503,49
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:52:16","TI2",504,49
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:52:33","Restart",505,49
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:52:38","AT2",506,49
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:52:39","Possible Free Kick",507,49
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:52:41","F1",509,49
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:52:41","FK2",510,49
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:52:41","DANGER2",511,49
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:52:41","DFK2",512,49
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:52:41","Ball Position",513,49
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:52:52","Restart",514,49
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:53:15","POSSIBLE_TI",515,50
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:53:16","TI2",516,50
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:53:25","Restart",517,50
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:53:46","PCR2",518,50
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:53:49","CR2",519,50
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:53:50","Ball Position",520,50
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:54:06","Restart",521,51
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:54:27","SAFE1",522,51
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:54:31","AT2",523,51
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:54:32","DANGER2",524,51
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:54:32","DAT2",525,51
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:54:37","SHG2",526,51
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:54:39","SAFE1",527,51
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:55:03","AT1",528,52
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:55:07","DANGER1",529,52
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:55:07","DAT1",530,52
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:55:24","SAFE2",531,52
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:55:25","Possible Free Kick",532,52
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:55:27","F1",534,52
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:55:27","FK2",535,52
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:55:27","Ball Position",536,52
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:55:58","Restart",537,52
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:56:02","AT1",538,53
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:56:02","POSSIBLE_TI",539,53
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:56:03","TI1",540,53
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:56:05","Restart",541,53
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:56:09","SAFE1",542,53
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:56:15","AT1",543,53
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:56:26","DANGER1",544,53
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:56:26","DAT1",545,53
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:56:32","SAFE2",546,53
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:56:43","AT1",547,53
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:56:48","DANGER1",548,53
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:56:48","DAT1",549,53
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:56:55","PCR1",550,53
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:56:58","CR1",551,53
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:57:01","SHG1",552,54
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:57:02","Ball Position",553,54
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:57:11","Restart",554,54
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:57:21","SHG1",555,54
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:57:22","SAFE2",556,54
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:57:30","AT2",557,54
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:57:34","SAFE1",558,54
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:57:43","AT1",559,54
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:57:43","Possible Free Kick",560,54
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:57:53","SAFE1",562,54
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:57:53","F2",563,54
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:57:53","FK1",564,54
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:57:53","Ball Position",565,54
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:57:54","Restart",566,54
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:57:55","SAFE1",567,54
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:57:57","AT1",568,54
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:58:00","DANGER1",569,55
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:58:00","DAT1",570,55
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:58:10","SAFE2",571,55
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:58:10","Possible Free Kick",572,55
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:58:12","POSSIBLE_CARDS",574,55
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:58:19","F1",575,55
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:58:19","FK2",576,55
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:58:19","Ball Position",577,55
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:58:21","Restart",578,55
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:58:21","NO_Cards",579,55
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:58:25","SAFE1",580,55
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:58:29","AT1",581,55
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:58:32","SAFE2",582,55
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:58:33","AT2",583,55
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:58:38","DANGER2",584,55
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:58:38","DAT2",585,55
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:58:42","SAFE1",586,55
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:58:46","POSSIBLE_TI",587,55
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:58:47","TI1",588,55
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:59:07","Restart",589,56
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:59:08","AT1",590,56
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:59:18","SAFE1",591,56
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:59:25","AT1",592,56
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:59:30","SAFE1",593,56
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:59:34","AT1",594,56
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:59:35","DANGER1",595,56
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:59:35","DAT1",596,56
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:59:40","GOAL1",597,56
+878419,"FC Barcelona","Malaga CF","10/21/2017 19:59:50","Scorer",598,56
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:00:17","CONF_GOAL1",599,57
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:00:33","KO2",600,57
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:00:33","SAFE2",601,57
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:00:33","Player_DATA_CONFIRMED",602,57
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:00:34","SAFE2",603,57
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:01:01","SAFE2",604,58
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:01:09","AT2",605,58
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:01:13","DANGER2",606,58
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:01:13","DAT2",607,58
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:01:16","SAFE1",608,58
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:01:43","AT1",609,58
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:01:46","SAFE1",610,58
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:01:52","AT1",611,58
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:02:01","SAFE1",612,59
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:02:08","AT1",613,59
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:02:17","SAFE1",614,59
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:02:27","AT1",615,59
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:02:30","Possible Free Kick",616,59
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:02:31","F2",618,59
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:02:31","FK1",619,59
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:02:32","DANGER1",620,59
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:02:32","DFK1",621,59
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:02:32","Ball Position",622,59
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:02:45","Restart",623,59
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:02:55","Possible Free Kick",624,59
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:03:05","F2",626,60
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:03:05","FK1",627,60
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:03:05","DFK1",628,60
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:03:05","Ball Position",629,60
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:03:13","Restart",630,60
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:03:39","SHB1",631,60
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:03:43","SAFE2",632,60
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:03:44","GK2",633,60
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:04:06","Restart",634,61
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:04:14","AT1",635,61
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:04:23","SAFE2",636,61
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:04:29","AT2",637,61
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:04:33","Possible Free Kick",638,61
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:04:39","F1",640,61
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:04:39","FK2",641,61
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:04:39","DANGER2",642,61
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:04:39","DFK2",643,61
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:04:39","Ball Position",644,61
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:05:08","Restart",645,62
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:05:22","SAFE1",646,62
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:05:22","Possible Free Kick",647,62
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:05:24","F2",649,62
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:05:24","FK1",650,62
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:05:24","Ball Position",651,62
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:05:39","Restart",652,62
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:05:40","SAFE1",653,62
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:05:52","AT2",654,62
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:05:54","DANGER2",655,62
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:05:54","DAT2",656,62
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:06:18","SAFE2",657,63
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:06:23","AT2",658,63
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:06:30","DANGER2",659,63
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:06:30","DAT2",660,63
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:06:43","SAFE2",661,63
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:06:58","AT2",662,63
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:06:58","DANGER2",663,63
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:06:58","DAT2",664,63
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:07:01","SAFE1",665,64
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:07:02","Possible Free Kick",666,64
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:07:08","O2",668,64
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:07:08","FK1",669,64
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:07:09","Ball Position",670,64
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:07:14","Restart",671,64
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:07:15","SAFE1",672,64
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:07:23","AT1",673,64
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:07:24","SAFE1",674,64
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:07:28","AT1",675,64
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:07:35","SAFE1",676,64
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:07:41","AT1",677,64
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:08:13","DANGER1",678,65
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:08:13","DAT1",679,65
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:08:25","SAFE2",680,65
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:08:29","AT2",681,65
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:08:35","POSSIBLE_TI",682,65
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:08:36","TI1",683,65
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:08:41","Restart",684,65
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:08:42","SAFE1",685,65
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:08:49","AT1",686,65
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:08:56","DANGER1",687,65
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:08:56","DAT1",688,65
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:09:05","SAFE1",689,66
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:09:21","AT1",690,66
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:09:38","Possible Free Kick",691,66
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:09:47","SAFE1",693,66
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:09:47","F2",694,66
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:09:47","FK1",695,66
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:09:47","Ball Position",696,66
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:09:48","Restart",697,66
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:09:49","SAFE1",698,66
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:09:53","AT1",699,66
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:10:02","DANGER1",700,67
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:10:02","DAT1",701,67
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:10:06","SAFE2",702,67
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:10:09","AT2",703,67
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:10:17","DANGER2",704,67
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:10:17","DAT2",705,67
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:10:24","PPEN",706,67
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:10:24","PPEN2",707,67
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:10:30","No PEN",708,67
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:10:33","BLOCKED2",709,67
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:10:38","SAFE1",710,67
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:10:43","POSSIBLE_TI",711,67
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:10:44","TI2",712,67
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:10:56","SUB2",713,67
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:11:05","Injury Break",714,68
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:11:15","POSSIBLE_CARDS",715,68
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:12:02","NO_Cards",716,69
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:12:05","Restart",717,69
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:12:08","SUB_UPDATE",718,69
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:12:09","Player_DATA_CONFIRMED",719,69
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:12:11","SAFE1",720,69
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:12:34","AT1",721,69
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:12:52","DANGER1",722,69
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:12:52","DAT1",723,69
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:13:10","SAFE2",724,70
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:13:14","SAFE1",725,70
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:13:26","AT1",726,70
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:13:32","Assist",727,70
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:13:45","SAFE2",728,70
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:13:54","AT2",729,70
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:13:55","DANGER2",730,70
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:13:55","DAT2",731,70
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:14:15","SAFE2",732,71
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:14:20","AT2",733,71
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:14:31","POSSIBLE_TI",734,71
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:14:32","TI2",735,71
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:14:54","SUB1",736,71
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:15:14","SUB2",737,72
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:15:23","DANGER2",738,72
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:15:23","DAT2",739,72
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:15:23","Restart",740,72
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:15:24","Player_DATA_CONFIRMED",741,72
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:15:25","Player_DATA_CONFIRMED",742,72
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:15:53","PCR2",743,72
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:15:59","NCR2",744,73
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:16:01","SHB2",745,73
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:16:02","SAFE1",746,73
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:16:03","GK1",747,73
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:16:06","Restart",748,73
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:16:07","SAFE1",749,73
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:16:20","AT2",750,73
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:16:24","DANGER2",751,73
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:16:24","DAT2",752,73
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:16:51","SAFE1",753,73
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:16:55","AT1",754,73
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:16:56","DANGER1",755,73
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:16:56","DAT1",756,73
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:17:07","SHB1",757,74
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:17:09","SAFE2",758,74
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:17:10","GK2",759,74
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:17:11","Restart",760,74
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:17:12","SAFE2",761,74
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:17:23","AT2",762,74
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:17:23","DANGER2",763,74
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:17:23","DAT2",764,74
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:17:26","Possible Free Kick",765,74
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:17:27","POSSIBLE_CARDS",767,74
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:17:28","YC1",768,74
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:17:52","CONF_YC1",769,74
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:17:53","Scorer",770,74
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:18:02","Scorer",771,75
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:18:02","Player_DATA_CONFIRMED",772,75
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:18:03","F1",773,75
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:18:03","FK2",774,75
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:18:03","DFK2",775,75
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:18:03","Ball Position",776,75
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:18:17","Restart",777,75
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:18:21","SHB2",778,75
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:18:24","SAFE1",779,75
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:18:24","GK1",780,75
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:18:28","Restart",781,75
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:18:30","SAFE1",782,75
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:18:32","AT1",783,75
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:18:35","POSSIBLE_TI",784,75
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:18:36","TI1",785,75
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:18:56","SUB1",786,75
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:19:11","Player_DATA_CONFIRMED",787,76
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:19:17","Restart",788,76
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:19:18","SAFE1",789,76
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:19:34","AT1",790,76
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:19:43","SAFE1",791,76
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:20:05","AT1",792,77
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:20:14","DANGER1",793,77
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:20:14","DAT1",794,77
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:20:19","SAFE2",795,77
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:20:36","SAFE1",796,77
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:20:37","POSSIBLE_TI",797,77
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:20:38","TI1",798,77
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:20:39","Restart",799,77
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:20:41","SAFE1",800,77
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:21:10","SAFE1",801,78
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:21:19","AT1",802,78
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:21:31","DANGER1",803,78
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:21:31","DAT1",804,78
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:21:51","POSSIBLE_TI",805,78
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:21:53","TI1",806,78
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:21:55","Restart",807,78
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:22:20","POSSIBLE_TI",808,79
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:22:22","TI2",809,79
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:22:26","Restart",810,79
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:22:49","SAFE2",811,79
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:22:55","AT1",812,79
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:22:59","DANGER1",813,80
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:22:59","DAT1",814,80
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:23:14","SAFE2",815,80
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:23:21","SAFE1",816,80
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:23:47","AT1",817,80
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:23:50","DANGER1",818,80
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:23:50","DAT1",819,80
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:23:59","SAFE2",820,81
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:24:12","AT2",821,81
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:24:22","DANGER2",822,81
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:24:22","DAT2",823,81
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:24:33","SHG2",824,81
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:24:35","SAFE1",825,81
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:24:59","SAFE1",826,82
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:25:11","AT1",827,82
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:25:15","SAFE1",828,82
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:25:21","AT1",829,82
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:25:25","DANGER1",830,82
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:25:25","DAT1",831,82
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:25:28","POSSIBLE_TI",832,82
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:25:30","TI1",833,82
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:25:31","POSSIBLE_CARDS",834,82
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:25:31","PRC",835,82
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:25:36","YC2",836,82
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:26:02","CONF_YC2",837,83
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:26:07","Scorer",838,83
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:26:12","No RC",839,83
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:26:18","SUB1",840,83
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:26:19","Restart",841,83
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:26:48","SAFE1",842,83
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:26:56","AT1",843,83
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:27:00","DANGER1",844,84
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:27:00","DAT1",845,84
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:27:02","SUB_UPDATE",846,84
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:27:02","Player_DATA_CONFIRMED",847,84
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:27:09","SHB1",848,84
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:27:11","SAFE2",849,84
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:27:12","GK2",850,84
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:27:29","Restart",851,84
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:27:36","AT1",852,84
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:27:37","DANGER1",853,84
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:27:37","DAT1",854,84
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:27:40","SAFE2",855,84
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:27:47","SAFE1",856,84
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:28:13","AT1",857,85
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:28:14","DANGER1",858,85
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:28:14","DAT1",859,85
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:28:23","BLOCKED1",860,85
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:28:51","SHB1",861,85
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:28:55","SAFE2",862,85
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:28:56","GK2",863,85
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:29:16","Restart",864,86
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:29:25","POSSIBLE_TI",865,86
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:29:26","TI1",866,86
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:29:29","Restart",867,86
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:29:29","SAFE1",868,86
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:29:49","AT1",869,86
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:29:59","SAFE1",870,87
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:30:02","Scorer",871,87
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:30:02","Player_DATA_CONFIRMED",872,87
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:30:03","AT1",873,87
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:30:11","SAFE2",874,87
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:30:14","AT1",875,87
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:30:16","DANGER1",876,87
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:30:16","DAT1",877,87
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:30:39","PCR1",878,87
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:30:45","CR1",879,87
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:30:46","Ball Position",880,87
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:31:03","Restart",881,88
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:31:17","SAFE1",882,88
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:31:41","AT1",883,88
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:31:45","DANGER1",884,88
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:31:45","DAT1",885,88
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:31:58","PCR1",886,88
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:31:59","CR1",887,89
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:32:01","SHG1",888,89
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:32:02","Ball Position",889,89
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:32:31","Restart",890,89
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:32:48","GOAL1",891,89
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:32:58","CGOAL1",892,89
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:33:02","SAFE2",893,90
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:33:05","Possible Free Kick",894,90
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:33:11","O1",896,90
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:33:11","FK2",897,90
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:33:11","Ball Position",898,90
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:33:14","Restart",899,90
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:33:21","SAFE2",900,90
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:33:24","AT2",901,90
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:33:36","DANGER2",902,90
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:33:36","DAT2",903,90
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:33:43","SHG2",904,90
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:33:45","SAFE1",905,90
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:34:06","SAFE2",906,91
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:34:09","Extra Time",907,91
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:34:12","AT2",908,91
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:34:17","DANGER2",909,91
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:34:17","DAT2",910,91
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:34:26","SHG2",911,91
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:34:28","SAFE1",912,91
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:34:35","AT1",913,91
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:34:38","DANGER1",914,91
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:34:38","DAT1",915,91
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:34:45","SAFE2",916,91
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:34:45","Possible Free Kick",917,91
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:34:48","O1",919,91
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:34:48","FK2",920,91
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:34:48","Ball Position",921,91
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:35:05","Restart",922,92
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:35:09","SAFE2",923,92
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:35:19","AT1",924,92
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:35:21","SAFE2",925,92
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:35:21","Possible Free Kick",926,92
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:35:23","F1",928,92
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:35:23","FK2",929,92
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:35:23","Ball Position",930,92
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:35:34","Restart",931,92
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:35:36","AT2",932,92
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:35:41","DANGER2",933,92
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:35:41","DAT2",934,92
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:36:14","SAFE1",935,93
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:36:16","AT2",936,93
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:36:16","DANGER2",937,93
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:36:16","DAT2",938,93
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:36:24","BLOCKED2",939,93
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:36:25","SAFE1",940,93
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:36:31","AT1",941,93
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:36:38","SAFE2",942,93
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:36:47","AT2",943,93
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:36:54","SAFE2",944,93
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:37:02","Stop RT2",945,93
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:37:02","Stop Game",946,93
+878419,"FC Barcelona","Malaga CF","10/21/2017 20:37:11","CONF_PERIOD_SCORE",947,93

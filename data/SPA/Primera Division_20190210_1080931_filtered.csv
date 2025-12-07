@@ -1,0 +1,965 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 18:40:26","Lineup changed",0,0
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 18:40:55","Transmission Online",1,0
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:10:07","Scout in Stadion",2,0
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:10:50","GCC",3,0
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:40:37","GCC",4,0
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:42:30","Jersey Changed",5,0
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:42:30","Jersey Changed",6,0
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:43:13","Players are coming out",7,0
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:43:21","Players lined up",8,0
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:44:41","Shake hands",9,0
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:44:50","Flip coin",10,0
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:44:53","Photo taking",11,0
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:45:00","Game about to start",12,0
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:46:01","System Message",13,0
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:46:16","Start RT1 Team 1",14,1
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:46:20","AT1",15,1
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:46:20","DANGER1",16,1
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:46:20","DAT1",17,1
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:46:32","POSSIBLE_TI",18,1
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:46:34","TI1",19,1
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:46:40","Restart",20,1
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:46:47","Possible Free Kick",21,1
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:46:52","SAFE2",23,1
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:46:52","F1",24,1
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:46:52","FK2",25,1
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:46:52","Ball Position",26,1
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:47:03","Restart",27,1
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:47:05","AT2",28,1
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:47:08","SAFE1",29,1
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:47:09","AT1",30,1
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:47:17","Possible Free Kick",31,2
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:47:22","SAFE2",33,2
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:47:22","F1",34,2
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:47:22","FK2",35,2
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:47:22","Ball Position",36,2
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:47:24","Restart",37,2
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:47:53","AT1",38,2
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:47:57","DANGER1",39,2
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:47:57","DAT1",40,2
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:48:21","PCR1",41,3
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:48:26","CR1",42,3
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:48:27","Ball Position",43,3
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:48:50","Restart",44,3
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:49:19","SAFE1",45,4
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:49:43","AT1",46,4
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:49:53","SAFE1",47,4
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:50:03","AT2",48,4
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:50:03","DANGER2",49,4
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:50:03","DAT2",50,4
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:50:05","SAFE1",51,4
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:50:06","AT1",52,4
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:50:12","SAFE2",53,4
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:50:44","AT2",54,5
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:50:47","DANGER2",55,5
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:50:47","DAT2",56,5
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:51:00","SAFE1",57,5
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:51:02","SAFE2",58,5
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:51:23","AT2",59,6
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:51:29","DANGER2",60,6
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:51:29","DAT2",61,6
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:51:39","POSSIBLE_TI",62,6
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:51:41","TI1",63,6
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:51:56","Restart",64,6
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:51:57","SAFE1",65,6
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:52:04","AT1",66,6
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:52:08","SAFE1",67,6
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:52:13","AT1",68,6
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:52:13","DANGER1",69,6
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:52:13","DAT1",70,6
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:52:19","SHB1",71,7
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:52:20","SAFE2",72,7
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:52:21","GK2",73,7
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:52:25","Restart",74,7
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:52:34","AT2",75,7
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:52:39","DANGER2",76,7
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:52:39","DAT2",77,7
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:53:07","SAFE1",78,7
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:53:08","GK1",79,7
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:53:33","Restart",80,8
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:53:36","AT1",81,8
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:53:38","DANGER1",82,8
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:53:38","DAT1",83,8
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:53:45","SAFE2",84,8
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:53:50","Possible Free Kick",85,8
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:53:57","F1",87,8
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:53:57","FK2",88,8
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:53:57","DANGER2",89,8
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:53:57","DFK2",90,8
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:53:57","Ball Position",91,8
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:54:03","Restart",92,8
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:54:07","SAFE2",93,8
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:54:17","AT2",94,9
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:54:17","DANGER2",95,9
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:54:17","DAT2",96,9
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:54:23","PCR2",97,9
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:54:27","CR2",98,9
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:54:28","Ball Position",99,9
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:54:45","Restart",100,9
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:54:58","SAFE1",101,9
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:55:27","AT1",102,10
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:55:29","SAFE2",103,10
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:55:47","AT2",104,10
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:55:50","SAFE2",105,10
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:55:56","AT2",106,10
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:56:00","SAFE2",107,10
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:56:16","AT2",108,11
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:56:20","DANGER2",109,11
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:56:20","DAT2",110,11
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:56:34","SAFE2",111,11
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:56:38","AT2",112,11
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:56:54","SAFE2",113,11
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:57:01","SAFE1",114,11
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:57:02","AT1",115,11
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:57:04","DANGER1",116,11
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:57:04","DAT1",117,11
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:57:07","PCR1",118,11
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:57:13","NCR1",119,11
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:57:15","SHB1",120,11
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:57:16","SAFE2",121,11
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:57:16","GK2",122,12
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:57:21","Restart",123,12
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:57:26","AT2",124,12
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:57:31","DANGER2",125,12
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:57:31","DAT2",126,12
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:57:45","Possible Free Kick",127,12
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:57:59","F1",129,12
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:57:59","FK2",130,12
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:57:59","DFK2",131,12
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:57:59","Ball Position",132,12
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:58:31","Restart",133,13
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:58:36","Possible Free Kick",134,13
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:58:39","SAFE1",136,13
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:58:39","O2",137,13
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:58:39","FK1",138,13
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:58:39","Ball Position",139,13
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:59:01","Restart",140,13
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:59:07","AT1",141,13
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:59:10","Possible Free Kick",142,13
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:59:13","F2",144,13
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:59:13","FK1",145,13
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:59:13","DANGER1",146,13
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:59:13","DFK1",147,13
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:59:13","Ball Position",148,13
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:59:13","Restart",149,13
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:59:17","SAFE1",150,14
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:59:19","AT1",151,14
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:59:21","DANGER1",152,14
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:59:21","DAT1",153,14
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:59:31","POSSIBLE_TI",154,14
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:59:33","TI1",155,14
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:59:37","Restart",156,14
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:59:47","SAFE2",157,14
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:59:58","POSSIBLE_TI",158,14
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 19:59:59","TI1",159,14
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:00:12","Restart",160,14
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:00:12","AT1",161,14
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:00:14","DANGER1",162,14
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:00:14","DAT1",163,14
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:00:21","SAFE2",164,15
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:00:23","SAFE1",165,15
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:00:41","AT1",166,15
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:00:41","DANGER1",167,15
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:00:41","DAT1",168,15
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:00:48","Possible Free Kick",169,15
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:00:52","SAFE2",171,15
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:00:52","O1",172,15
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:00:52","FK2",173,15
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:00:52","Ball Position",174,15
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:01:05","Restart",175,15
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:01:19","AT1",176,16
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:01:19","DANGER1",177,16
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:01:19","DAT1",178,16
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:01:23","SAFE2",179,16
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:01:27","SAFE1",180,16
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:01:47","AT2",181,16
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:01:47","DANGER2",182,16
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:01:47","DAT2",183,16
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:01:52","SAFE1",184,16
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:01:53","GK1",185,16
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:02:16","Restart",186,17
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:02:18","AT1",187,17
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:02:20","DANGER1",188,17
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:02:20","DAT1",189,17
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:02:31","PCR1",190,17
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:02:34","CR1",191,17
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:02:39","SHG1",192,17
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:02:39","Ball Position",193,17
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:03:05","Restart",194,17
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:03:08","PCR1",195,17
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:03:11","CR1",196,17
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:03:23","Ball Position",197,18
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:03:39","Restart",198,18
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:03:52","BLOCKED1",199,18
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:03:55","SAFE1",200,18
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:04:00","AT1",201,18
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:04:00","DANGER1",202,18
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:04:00","DAT1",203,18
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:04:03","SAFE2",204,18
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:04:15","AT2",205,18
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:04:21","DANGER2",206,19
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:04:21","DAT2",207,19
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:04:34","PCR2",208,19
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:04:43","CR2",209,19
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:04:44","Ball Position",210,19
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:04:59","Restart",211,19
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:05:15","POSSIBLE_TI",212,19
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:05:17","TI1",213,20
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:05:40","Restart",214,20
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:05:49","SAFE1",215,20
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:05:50","AT1",216,20
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:05:50","DANGER1",217,20
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:05:50","DAT1",218,20
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:05:56","SAFE2",219,20
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:06:10","AT2",220,20
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:06:13","DANGER2",221,20
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:06:13","DAT2",222,20
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:06:17","SAFE2",223,21
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:06:21","AT2",224,21
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:06:36","SAFE1",225,21
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:06:54","AT2",226,21
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:06:54","DANGER2",227,21
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:06:54","DAT2",228,21
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:07:10","SAFE1",229,21
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:07:14","AT1",230,21
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:07:16","DANGER1",231,21
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:07:16","DAT1",232,21
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:07:23","SAFE2",233,22
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:07:33","AT2",234,22
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:07:39","DANGER2",235,22
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:07:39","DAT2",236,22
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:07:53","SHB2",237,22
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:07:53","SAFE1",238,22
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:07:54","GK1",239,22
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:08:06","Restart",240,22
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:08:12","AT1",241,22
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:08:15","DANGER1",242,22
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:08:15","DAT1",243,22
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:08:29","Possible Free Kick",244,23
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:08:31","SAFE2",246,23
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:08:31","F1",247,23
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:08:31","FK2",248,23
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:08:31","Ball Position",249,23
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:08:55","Restart",250,23
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:09:00","AT2",251,23
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:09:02","DANGER2",252,23
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:09:02","DAT2",253,23
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:09:13","SAFE1",254,23
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:09:14","GK1",255,23
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:09:24","CLS",256,24
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:09:26","Possible Free Kick",257,24
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:09:29","O2",259,24
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:09:29","FK1",260,24
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:09:29","Ball Position",261,24
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:09:40","Restart",262,24
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:09:43","AT1",263,24
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:09:46","SAFE2",264,24
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:09:53","AT1",265,24
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:09:53","DANGER1",266,24
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:09:53","DAT1",267,24
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:10:07","SHG1",268,24
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:10:08","SAFE2",269,24
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:10:23","Possible Free Kick",270,25
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:10:28","F1",272,25
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:10:28","FK2",273,25
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:10:28","Ball Position",274,25
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:10:42","Restart",275,25
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:10:47","AT2",276,25
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:10:49","DANGER2",277,25
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:10:49","DAT2",278,25
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:10:58","SAFE1",279,25
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:11:00","AT1",280,25
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:11:00","DANGER1",281,25
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:11:00","DAT1",282,25
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:11:04","SAFE2",283,25
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:11:17","AT2",284,26
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:11:19","DANGER2",285,26
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:11:19","DAT2",286,26
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:11:26","Possible Free Kick",287,26
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:11:30","SAFE1",289,26
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:11:30","O2",290,26
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:11:30","FK1",291,26
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:11:30","Ball Position",292,26
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:11:59","Restart",293,26
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:12:00","AT1",294,26
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:12:00","DANGER1",295,26
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:12:00","DAT1",296,26
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:12:03","POSSIBLE_TI",297,26
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:12:05","TI1",298,26
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:12:13","Restart",299,26
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:12:21","PCR1",300,27
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:12:23","CR1",301,27
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:12:25","SHB1",302,27
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:12:25","Ball Position",303,27
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:12:50","Restart",304,27
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:13:03","Possible Free Kick",305,27
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:13:05","POSSIBLE_CARDS",307,27
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:13:25","NO_Cards",308,28
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:13:26","F2",309,28
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:13:26","FK1",310,28
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:13:26","DFK1",311,28
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:13:26","Ball Position",312,28
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:13:56","Restart",313,28
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:14:00","PCR1",314,28
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:14:05","CR1",315,28
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:14:24","Ball Position",316,29
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:14:28","Restart",317,29
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:14:42","SAFE2",318,29
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:14:42","GK2",319,29
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:14:53","Restart",320,29
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:15:01","AT2",321,29
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:15:04","SAFE1",322,29
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:15:10","AT1",323,29
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:15:15","SAFE2",324,29
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:15:35","AT2",325,30
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:15:37","DANGER2",326,30
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:15:37","DAT2",327,30
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:15:46","SAFE2",328,30
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:15:50","AT2",329,30
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:16:11","DANGER2",330,30
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:16:11","DAT2",331,30
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:16:20","SAFE2",332,31
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:16:32","SAFE1",333,31
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:16:33","AT1",334,31
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:16:40","SAFE2",335,31
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:16:56","AT2",336,31
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:16:57","DANGER2",337,31
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:16:57","DAT2",338,31
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:17:01","POSSIBLE_TI",339,31
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:17:03","TI1",340,31
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:17:16","Restart",341,32
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:17:20","SAFE1",342,32
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:17:26","AT1",343,32
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:17:28","DANGER1",344,32
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:17:28","DAT1",345,32
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:17:34","POSSIBLE_TI",346,32
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:17:36","TI1",347,32
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:17:57","Restart",348,32
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:18:11","POSSIBLE_TI",349,32
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:18:14","TI2",350,32
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:18:23","Restart",351,33
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:18:33","SAFE1",352,33
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:18:45","AT1",353,33
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:18:49","Possible Free Kick",354,33
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:18:55","F2",356,33
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:18:55","FK1",357,33
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:18:55","DANGER1",358,33
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:18:55","DFK1",359,33
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:18:55","Ball Position",360,33
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:19:22","Restart",361,34
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:19:27","SAFE2",362,34
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:19:42","SAFE1",363,34
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:19:58","POSSIBLE_TI",364,34
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:20:00","TI1",365,34
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:20:02","Restart",366,34
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:20:11","AT1",367,34
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:20:17","DANGER1",368,35
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:20:17","DAT1",369,35
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:20:32","Possible Free Kick",370,35
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:20:35","SAFE2",372,35
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:20:35","F1",373,35
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:20:35","FK2",374,35
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:20:35","Ball Position",375,35
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:21:00","Restart",376,35
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:21:16","AT2",377,36
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:21:16","DANGER2",378,36
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:21:16","DAT2",379,36
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:21:23","SAFE1",380,36
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:21:26","SAFE2",381,36
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:21:35","AT2",382,36
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:21:51","DANGER2",383,36
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:21:51","DAT2",384,36
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:22:07","SAFE2",385,36
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:22:24","AT2",386,37
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:22:26","DANGER2",387,37
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:22:26","DAT2",388,37
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:22:34","PCR2",389,37
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:22:37","CR2",390,37
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:22:39","SHG2",391,37
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:22:40","Ball Position",392,37
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:23:01","Restart",393,37
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:23:16","SAFE2",394,38
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:23:41","AT2",395,38
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:23:42","DANGER2",396,38
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:23:42","DAT2",397,38
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:24:01","SAFE1",398,38
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:24:12","AT2",399,38
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:24:15","DANGER2",400,38
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:24:15","DAT2",401,38
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:24:19","SAFE1",402,39
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:24:24","POSSIBLE_TI",403,39
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:24:25","TI1",404,39
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:24:32","Restart",405,39
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:24:41","AT1",406,39
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:24:44","DANGER1",407,39
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:24:44","DAT1",408,39
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:24:55","Possible Free Kick",409,39
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:25:02","SAFE2",411,39
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:25:02","F1",412,39
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:25:02","FK2",413,39
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:25:02","Ball Position",414,39
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:25:16","Restart",415,39
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:25:29","AT2",416,40
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:25:31","DANGER2",417,40
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:25:31","DAT2",418,40
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:25:36","Possible Free Kick",419,40
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:25:38","SAFE1",421,40
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:25:38","F2",422,40
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:25:38","FK1",423,40
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:25:38","Ball Position",424,40
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:25:50","Restart",425,40
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:25:51","AT1",426,40
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:25:51","DANGER1",427,40
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:25:51","DAT1",428,40
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:25:57","SAFE1",429,40
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:26:00","AT1",430,40
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:26:03","DANGER1",431,40
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:26:03","DAT1",432,40
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:26:23","PCR1",433,41
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:26:30","NCR1",434,41
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:26:32","SHB1",435,41
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:26:32","SAFE2",436,41
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:26:33","GK2",437,41
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:26:34","Restart",438,41
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:27:00","AT2",439,41
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:27:12","DANGER2",440,41
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:27:12","DAT2",441,41
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:27:35","BLOCKED2",442,42
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:27:38","POSSIBLE_TI",443,42
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:27:40","TI2",444,42
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:27:42","Restart",445,42
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:27:56","SAFE2",446,42
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:28:09","AT2",447,42
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:28:11","DANGER2",448,42
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:28:11","DAT2",449,42
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:28:20","SAFE1",450,43
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:28:25","Possible Free Kick",451,43
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:28:27","F2",453,43
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:28:27","FK1",454,43
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:28:27","DANGER1",455,43
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:28:27","DFK1",456,43
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:28:27","Ball Position",457,43
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:28:32","POSSIBLE_CARDS",458,43
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:28:48","NO_Cards",459,43
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:29:08","Restart",460,43
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:29:14","SAFE2",461,43
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:29:28","AT1",462,44
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:29:28","DANGER1",463,44
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:29:28","DAT1",464,44
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:29:34","SAFE2",465,44
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:29:36","AT2",466,44
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:29:45","DANGER2",467,44
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:29:45","DAT2",468,44
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:29:59","POSSIBLE_TI",469,44
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:30:01","TI2",470,44
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:30:10","Restart",471,44
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:30:30","PCR2",472,45
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:30:33","CR2",473,45
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:30:35","Ball Position",474,45
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:30:51","Restart",475,45
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:31:02","POSSIBLE_TI",476,45
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:31:03","TI2",477,45
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:31:04","Restart",478,45
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:31:22","BLOCKED2",479,46
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:31:27","Stop RT1",480,46
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:31:30","CONF_PERIOD_SCORE",481,45
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:45:10","Players are coming out",482,45
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:45:39","Game about to start",483,45
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:46:32","Start RT2 Team 2",484,46
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:46:41","AT2",485,46
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:46:43","DANGER2",486,46
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:46:43","DAT2",487,46
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:46:53","POSSIBLE_TI",488,46
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:46:55","TI2",489,46
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:46:58","Restart",490,46
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:47:02","POSSIBLE_TI",491,46
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:47:04","TI2",492,46
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:47:07","Restart",493,46
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:47:16","SAFE1",494,46
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:47:28","SAFE2",495,46
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:47:31","Possible Free Kick",496,46
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:47:45","F1",498,47
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:47:45","FK2",499,47
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:47:45","DANGER2",500,47
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:47:45","DFK2",501,47
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:47:45","Ball Position",502,47
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:47:45","Restart",503,47
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:47:52","SAFE2",504,47
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:48:03","AT2",505,47
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:48:13","DANGER2",506,47
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:48:13","DAT2",507,47
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:48:25","SAFE1",508,47
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:48:46","POSSIBLE_TI",509,48
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:48:48","TI2",510,48
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:48:51","Restart",511,48
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:48:52","SAFE2",512,48
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:48:57","AT2",513,48
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:48:59","DANGER2",514,48
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:48:59","DAT2",515,48
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:49:17","SAFE2",516,48
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:49:25","AT2",517,48
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:49:28","DANGER2",518,48
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:49:28","DAT2",519,48
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:49:31","Possible Free Kick",520,48
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:49:35","F1",522,49
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:49:35","FK2",523,49
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:49:35","DFK2",524,49
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:49:35","Ball Position",525,49
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:50:10","Restart",526,49
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:50:17","BLOCKED2",527,49
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:50:22","POSSIBLE_TI",528,49
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:50:24","TI2",529,49
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:50:35","Restart",530,50
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:50:35","SAFE2",531,50
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:51:01","AT2",532,50
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:51:06","DANGER2",533,50
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:51:06","DAT2",534,50
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:51:26","SAFE1",535,50
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:51:30","SAFE2",536,50
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:51:33","AT2",537,51
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:51:35","DANGER2",538,51
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:51:35","DAT2",539,51
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:51:57","Possible Free Kick",540,51
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:52:00","POSSIBLE_CARDS",542,51
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:52:23","NO_Cards",543,51
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:52:25","F1",544,51
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:52:25","FK2",545,51
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:52:25","DFK2",546,51
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:52:25","Ball Position",547,51
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:52:45","Restart",548,52
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:52:54","SAFE2",549,52
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:53:03","AT2",550,52
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:53:09","DANGER2",551,52
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:53:09","DAT2",552,52
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:53:13","Possible Free Kick",553,52
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:53:14","POSSIBLE_CARDS",555,52
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:53:16","YC1",556,52
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:53:26","CONF_YC1",557,52
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:53:32","Scorer",558,53
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:53:35","F1",559,53
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:53:35","FK2",560,53
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:53:35","DFK2",561,53
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:53:35","Ball Position",562,53
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:53:39","Scorer",563,53
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:53:39","Player_DATA_CONFIRMED",564,53
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:54:22","Restart",565,53
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:54:27","SHB2",566,53
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:54:27","SAFE1",567,53
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:54:28","GK1",568,53
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:54:50","Restart",569,54
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:54:53","AT1",570,54
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:54:58","DANGER1",571,54
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:54:58","DAT1",572,54
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:55:05","SAFE2",573,54
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:55:08","AT2",574,54
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:55:10","DANGER2",575,54
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:55:10","DAT2",576,54
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:55:28","SHB2",577,54
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:55:29","SAFE1",578,54
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:55:30","GK1",579,54
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:55:56","Restart",580,55
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:55:57","AT1",581,55
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:56:08","SAFE1",582,55
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:56:19","AT1",583,55
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:56:36","Referee Ball",584,56
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:56:38","Injury Break",585,56
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:57:30","SUB1",586,56
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:57:42","Restart",587,57
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:57:42","SAFE2",588,57
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:58:03","AT2",589,57
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:58:16","SAFE1",590,57
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:58:19","AT1",591,57
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:58:21","SAFE2",592,57
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:58:28","Player_DATA_CONFIRMED",593,57
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:58:33","AT2",594,58
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:58:35","DANGER2",595,58
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:58:35","DAT2",596,58
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:58:43","Possible Free Kick",597,58
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:58:46","SAFE1",599,58
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:58:46","F2",600,58
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:58:46","FK1",601,58
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:58:46","Ball Position",602,58
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:58:59","Restart",603,58
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:59:08","AT1",604,58
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:59:16","SAFE2",605,58
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:59:27","AT1",606,58
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:59:27","DANGER1",607,58
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:59:27","DAT1",608,58
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:59:32","SAFE2",609,59
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:59:38","AT2",610,59
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:59:39","DANGER2",611,59
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 20:59:39","DAT2",612,59
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:00:20","SAFE1",613,59
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:00:39","AT1",614,60
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:00:39","DANGER1",615,60
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:00:39","DAT1",616,60
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:00:42","SAFE2",617,60
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:00:45","SAFE1",618,60
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:00:49","SAFE2",619,60
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:00:54","AT2",620,60
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:00:57","Possible Free Kick",621,60
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:01:00","F1",623,60
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:01:00","FK2",624,60
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:01:00","DANGER2",625,60
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:01:00","DFK2",626,60
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:01:00","Ball Position",627,60
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:01:01","Restart",628,60
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:01:12","SAFE1",629,60
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:01:17","SAFE2",630,60
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:01:18","AT2",631,60
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:01:22","Possible Free Kick",632,60
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:01:24","F1",634,60
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:01:24","FK2",635,60
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:01:24","DANGER2",636,60
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:01:24","DFK2",637,60
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:01:24","Ball Position",638,60
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:01:30","Restart",639,60
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:01:43","SAFE1",640,61
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:01:45","Possible Free Kick",641,61
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:01:48","F1",643,61
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:01:48","FK2",644,61
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:01:48","DANGER2",645,61
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:01:48","DFK2",646,61
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:01:48","Ball Position",647,61
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:01:59","POSSIBLE_CARDS",648,61
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:02:23","NO_Cards",649,61
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:02:23","Restart",650,61
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:02:37","POSSIBLE_TI",651,62
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:02:39","TI2",652,62
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:03:13","SUB1",653,62
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:03:24","Restart",654,62
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:03:25","Player_DATA_CONFIRMED",655,62
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:03:56","POSSIBLE_TI",656,63
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:03:58","TI2",657,63
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:04:22","SUB2",658,63
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:04:33","Restart",659,64
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:04:44","Player_DATA_CONFIRMED",660,64
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:05:05","SAFE1",661,64
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:05:08","AT1",662,64
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:05:11","SAFE2",663,64
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:05:16","AT2",664,64
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:05:21","DANGER2",665,64
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:05:21","DAT2",666,64
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:05:33","SAFE1",667,65
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:05:35","AT1",668,65
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:05:39","DANGER1",669,65
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:05:39","DAT1",670,65
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:05:49","SHB1",671,65
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:05:50","SAFE2",672,65
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:05:50","GK2",673,65
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:05:53","Restart",674,65
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:06:14","AT2",675,65
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:06:21","DANGER2",676,65
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:06:21","DAT2",677,65
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:07:02","SAFE1",678,66
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:07:02","GK1",679,66
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:07:36","Restart",680,67
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:07:37","AT1",681,67
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:07:41","DANGER1",682,67
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:07:41","DAT1",683,67
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:08:11","POSSIBLE_TI",684,67
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:08:15","TI2",685,67
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:08:20","Restart",686,67
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:08:23","SAFE2",687,67
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:08:30","AT2",688,67
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:08:40","DANGER2",689,68
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:08:40","DAT2",690,68
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:09:12","SAFE2",691,68
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:09:25","AT2",692,68
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:09:29","Possible Free Kick",693,68
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:09:30","POSSIBLE_CARDS",695,68
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:09:35","YC1",696,69
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:09:42","CONF_YC1",697,69
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:09:48","Scorer",698,69
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:09:50","F1",699,69
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:09:50","FK2",700,69
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:09:50","DANGER2",701,69
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:09:50","DFK2",702,69
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:09:50","Ball Position",703,69
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:09:51","Restart",704,69
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:10:11","SAFE1",705,69
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:10:15","POSSIBLE_TI",706,69
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:10:15","TI2",707,69
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:10:21","Restart",708,69
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:10:23","SAFE2",709,69
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:10:31","AT2",710,69
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:10:34","DANGER2",711,70
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:10:34","DAT2",712,70
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:10:39","Possible Free Kick",713,70
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:10:47","F1",715,70
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:10:47","FK2",716,70
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:10:47","DFK2",717,70
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:10:47","Ball Position",718,70
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:10:48","Restart",719,70
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:10:57","BLOCKED2",720,70
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:11:08","SAFE1",721,70
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:11:11","AT1",722,70
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:11:32","SAFE2",723,71
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:11:33","AT2",724,71
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:11:36","SAFE1",725,71
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:11:42","AT1",726,71
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:11:48","DANGER1",727,71
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:11:48","DAT1",728,71
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:11:59","Player_DATA_CONFIRMED",729,71
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:12:13","SAFE2",730,71
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:12:21","AT2",731,71
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:12:24","DANGER2",732,71
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:12:24","DAT2",733,71
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:12:41","SAFE1",734,72
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:12:45","AT1",735,72
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:12:49","DANGER1",736,72
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:12:49","DAT1",737,72
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:12:50","Possible Free Kick",738,72
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:12:52","POSSIBLE_CARDS",740,72
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:12:53","YC2",741,72
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:12:54","CONF_YC2",742,72
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:12:59","Scorer",743,72
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:13:02","F2",744,72
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:13:02","FK1",745,72
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:13:02","DFK1",746,72
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:13:02","Ball Position",747,72
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:13:40","Player_DATA_CONFIRMED",748,73
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:13:45","Restart",749,73
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:13:50","Possible Free Kick",750,73
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:13:53","SAFE2",752,73
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:13:53","O1",753,73
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:13:53","FK2",754,73
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:13:53","Ball Position",755,73
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:14:05","Restart",756,73
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:14:15","AT2",757,73
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:14:16","SAFE2",758,73
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:14:19","AT2",759,73
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:14:28","DANGER2",760,73
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:14:28","DAT2",761,73
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:14:35","SHB2",762,74
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:14:35","SAFE1",763,74
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:14:36","GK1",764,74
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:15:05","Restart",765,74
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:15:08","AT1",766,74
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:15:14","SAFE2",767,74
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:15:22","AT2",768,74
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:15:30","Possible Free Kick",769,74
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:15:34","SAFE2",771,75
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:15:34","F1",772,75
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:15:34","FK2",773,75
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:15:34","Ball Position",774,75
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:15:36","POSSIBLE_CARDS",775,75
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:15:47","NO_Cards",776,75
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:15:55","SUB2",777,75
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:16:00","Restart",778,75
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:16:13","Player_DATA_CONFIRMED",779,75
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:16:15","AT2",780,75
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:16:25","Possible Free Kick",781,75
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:16:27","F1",783,75
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:16:27","FK2",784,75
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:16:27","DANGER2",785,75
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:16:27","DFK2",786,75
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:16:27","Ball Position",787,75
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:16:42","Restart",788,76
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:16:45","SAFE2",789,76
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:16:56","AT2",790,76
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:16:59","DANGER2",791,76
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:16:59","DAT2",792,76
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:17:01","SAFE1",793,76
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:17:03","AT1",794,76
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:17:03","DANGER1",795,76
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:17:03","DAT1",796,76
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:17:09","SAFE2",797,76
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:17:15","AT1",798,76
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:17:15","DANGER1",799,76
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:17:15","DAT1",800,76
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:17:17","SAFE2",801,76
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:17:23","SAFE1",802,76
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:17:37","POSSIBLE_TI",803,77
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:17:38","TI2",804,77
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:17:41","Restart",805,77
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:17:42","SAFE2",806,77
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:17:45","AT2",807,77
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:17:50","DANGER2",808,77
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:17:50","DAT2",809,77
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:18:14","SAFE1",810,77
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:18:16","SAFE2",811,77
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:18:21","AT2",812,77
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:18:35","DANGER2",813,78
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:18:35","DAT2",814,78
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:18:44","SAFE1",815,78
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:18:48","AT1",816,78
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:18:51","DANGER1",817,78
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:18:51","DAT1",818,78
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:18:57","Possible Free Kick",819,78
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:19:00","POSSIBLE_CARDS",821,78
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:19:03","YC2",822,78
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:19:09","CONF_YC2",823,78
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:19:11","Scorer",824,78
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:19:13","F2",825,78
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:19:13","FK1",826,78
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:19:13","DFK1",827,78
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:19:13","Ball Position",828,78
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:19:27","Player_DATA_CONFIRMED",829,78
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:19:56","Restart",830,79
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:20:00","PCR1",831,79
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:20:05","NCR1",832,79
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:20:06","SHB1",833,79
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:20:07","SAFE2",834,79
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:20:08","GK2",835,79
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:20:15","Injury Break",836,79
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:22:03","Restart",837,81
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:22:08","POSSIBLE_TI",838,81
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:22:11","TI1",839,81
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:22:16","Restart",840,81
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:22:20","SAFE1",841,81
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:22:25","AT1",842,81
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:22:30","DANGER1",843,81
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:22:30","DAT1",844,81
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:22:36","SHG1",845,82
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:22:41","SHB1",846,82
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:22:42","SAFE2",847,82
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:22:42","GK2",848,82
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:22:59","Restart",849,82
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:23:01","AT2",850,82
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:23:07","SAFE1",851,82
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:23:27","AT1",852,82
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:23:38","DANGER1",853,83
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:23:38","DAT1",854,83
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:23:49","SHG1",855,83
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:23:50","SAFE2",856,83
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:24:07","AT2",857,83
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:24:16","DANGER2",858,83
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:24:16","DAT2",859,83
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:24:23","SAFE1",860,83
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:24:24","AT1",861,83
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:24:34","DANGER1",862,84
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:24:34","DAT1",863,84
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:24:36","Possible Free Kick",864,84
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:24:37","SAFE2",866,84
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:24:37","F1",867,84
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:24:37","FK2",868,84
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:24:37","Ball Position",869,84
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:24:38","Restart",870,84
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:24:51","AT2",871,84
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:24:55","DANGER2",872,84
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:24:55","DAT2",873,84
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:25:23","POSSIBLE_TI",874,84
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:25:26","TI2",875,84
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:25:34","Restart",876,85
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:25:43","Possible Free Kick",877,85
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:25:46","SAFE1",879,85
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:25:46","F2",880,85
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:25:46","FK1",881,85
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:25:46","Ball Position",882,85
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:26:13","Restart",883,85
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:26:14","AT1",884,85
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:26:14","DANGER1",885,85
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:26:14","DAT1",886,85
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:26:35","SAFE1",887,86
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:26:40","AT1",888,86
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:26:40","DANGER1",889,86
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:26:40","DAT1",890,86
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:26:43","SAFE2",891,86
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:26:54","AT2",892,86
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:26:54","DANGER2",893,86
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:26:54","DAT2",894,86
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:26:56","SAFE1",895,86
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:27:06","AT1",896,86
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:27:07","DANGER1",897,86
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:27:07","DAT1",898,86
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:27:15","SHG1",899,86
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:27:16","SAFE2",900,86
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:27:35","AT2",901,87
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:27:35","DANGER2",902,87
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:27:35","DAT2",903,87
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:28:14","POSSIBLE_TI",904,87
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:28:18","TI2",905,87
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:28:31","SUB2",906,87
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:28:41","Restart",907,88
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:28:43","SAFE2",908,88
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:28:50","AT2",909,88
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:28:57","DANGER2",910,88
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:28:57","DAT2",911,88
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:29:01","SAFE1",912,88
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:29:03","Possible Free Kick",913,88
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:29:06","F1",915,88
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:29:06","FK2",916,88
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:29:06","DANGER2",917,88
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:29:06","DFK2",918,88
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:29:06","Ball Position",919,88
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:29:32","Player_DATA_CONFIRMED",920,89
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:29:35","Restart",921,89
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:29:43","Possible Free Kick",922,89
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:29:48","SAFE1",924,89
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:29:48","O2",925,89
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:29:48","FK1",926,89
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:29:48","Ball Position",927,89
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:30:33","SUB1",928,90
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:31:00","Restart",929,90
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:31:03","AT1",930,90
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:31:20","DANGER1",931,90
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:31:20","DAT1",932,90
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:31:25","PCR1",933,90
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:31:28","CR1",934,90
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:31:30","Ball Position",935,90
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:31:36","Extra Time",936,91
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:31:55","Restart",937,91
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:31:59","Player_DATA_CONFIRMED",938,91
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:32:00","SAFE2",939,91
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:32:04","AT2",940,91
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:32:04","DANGER2",941,91
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:32:04","DAT2",942,91
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:32:08","Possible Free Kick",943,91
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:32:09","POSSIBLE_CARDS",945,91
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:32:11","PRC",946,91
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:33:16","YRC1",947,92
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:33:17","CONF_YC_RC1",948,92
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:33:27","Scorer",949,92
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:33:29","YC1",950,92
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:33:30","CONF_YC1",951,92
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:33:34","Scorer",952,93
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:33:42","F1",953,93
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:33:42","FK2",954,93
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:33:42","DFK2",955,93
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:33:42","Ball Position",956,93
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:33:44","Restart",957,93
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:33:49","SAFE1",958,93
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:33:55","System Message",959,93
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:33:58","Scorer",960,93
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:33:58","Player_DATA_CONFIRMED",961,93
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:33:58","Player_DATA_CONFIRMED",962,93
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:34:06","AT1",963,93
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:34:06","DANGER1",964,93
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:34:06","DAT1",965,93
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:34:12","SAFE2",966,93
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:34:17","AT2",967,93
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:34:23","DANGER2",968,93
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:34:23","DAT2",969,93
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:34:38","SHG2",970,94
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:34:39","SAFE1",971,94
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:34:56","AT2",972,94
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:34:56","DANGER2",973,94
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:34:56","DAT2",974,94
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:35:02","Possible Free Kick",975,94
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:35:09","SAFE1",977,94
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:35:09","F2",978,94
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:35:09","FK1",979,94
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:35:09","Ball Position",980,94
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:35:09","System Message",981,94
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:35:20","AT1",982,94
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:35:20","DANGER1",983,94
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:35:20","DAT1",984,94
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:35:37","Restart",985,95
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:36:00","Possible Free Kick",986,95
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:36:02","SAFE2",988,95
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:36:02","F1",989,95
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:36:02","FK2",990,95
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:36:02","Ball Position",991,95
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:36:10","Restart",992,95
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:36:21","AT2",993,95
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:36:24","DANGER2",994,95
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:36:24","DAT2",995,95
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:36:39","PCR2",996,96
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:36:48","POSSIBLE_CARDS",997,96
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:37:24","NO_Cards",998,96
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:37:26","NCR2",999,96
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:37:33","Stop RT2",1000,96
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:37:33","Stop Game",1001,96
+1080931,"Athletic Club Bilbao","FC Barcelona","02/10/2019 21:37:36","CONF_PERIOD_SCORE",1002,96

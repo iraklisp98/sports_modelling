@@ -1,0 +1,968 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 15:06:44","Transmission Online",0,0
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 15:06:44","Scout in Stadion",1,0
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 15:06:48","Lineup changed",2,0
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 15:38:38","GCC",3,0
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 15:55:35","Players are coming out",4,0
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 15:55:47","Players lined up",5,0
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 15:56:04","Jersey Changed",6,0
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 15:56:04","Jersey Changed",7,0
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 15:56:08","Shake hands",8,0
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 15:57:12","Flip coin",9,0
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 15:58:28","Minute of silent",10,0
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 15:59:18","Game about to start",11,0
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:00:10","Start RT1 Team 1",12,1
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:00:11","SAFE1",13,1
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:00:13","AT1",14,1
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:00:20","SAFE2",15,1
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:00:21","AT2",16,1
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:00:22","DANGER2",17,1
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:00:22","DAT2",18,1
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:00:44","SAFE2",19,1
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:00:52","AT2",20,1
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:00:53","SAFE1",21,1
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:01:04","AT1",22,1
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:01:24","DANGER1",23,2
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:01:24","DAT1",24,2
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:01:46","SAFE1",25,2
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:01:53","AT1",26,2
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:01:55","DANGER1",27,2
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:01:55","DAT1",28,2
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:02:00","POSSIBLE_TI",29,2
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:02:01","TI1",30,2
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:02:03","Restart",31,2
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:02:14","Possible Free Kick",32,3
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:02:18","SAFE2",34,3
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:02:18","O1",35,3
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:02:18","FK2",36,3
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:02:18","Ball Position",37,3
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:02:44","Restart",38,3
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:02:49","SAFE1",39,3
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:03:00","SAFE1",40,3
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:03:06","AT1",41,3
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:03:07","DANGER1",42,3
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:03:07","DAT1",43,3
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:03:22","POSSIBLE_TI",44,4
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:03:23","TI2",45,4
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:03:27","Restart",46,4
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:03:45","SAFE2",47,4
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:03:46","AT2",48,4
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:03:47","SAFE1",49,4
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:03:48","GK1",50,4
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:03:55","Restart",51,4
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:04:10","SAFE1",52,5
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:04:21","Possible Free Kick",53,5
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:04:23","F2",55,5
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:04:23","FK1",56,5
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:04:23","Ball Position",57,5
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:04:24","Restart",58,5
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:04:30","AT1",59,5
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:04:31","DANGER1",60,5
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:04:31","DAT1",61,5
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:04:41","GOAL1",62,5
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:04:49","Scorer",63,5
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:05:07","CONF_GOAL1",64,5
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:05:27","KO2",65,6
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:05:27","SAFE2",66,6
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:05:30","SAFE2",67,6
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:05:46","SAFE1",68,6
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:05:59","SAFE1",69,6
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:06:05","AT1",70,6
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:06:06","DANGER1",71,6
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:06:06","DAT1",72,6
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:06:25","Possible Free Kick",73,7
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:06:30","SAFE2",75,7
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:06:30","O1",76,7
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:06:30","FK2",77,7
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:06:30","Ball Position",78,7
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:06:32","Restart",79,7
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:06:53","POSSIBLE_TI",80,7
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:06:53","TI2",81,7
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:06:58","Restart",82,7
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:07:08","SAFE1",83,7
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:07:09","GK1",84,7
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:07:09","Restart",85,7
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:07:24","Player_DATA_CONFIRMED",86,8
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:07:26","AT2",87,8
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:07:26","DANGER2",88,8
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:07:26","DAT2",89,8
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:07:31","SAFE1",90,8
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:07:44","POSSIBLE_TI",91,8
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:07:45","TI2",92,8
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:07:50","Injury Break",93,8
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:08:36","Restart",94,9
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:08:37","SAFE1",95,9
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:08:54","SAFE1",96,9
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:09:09","Possible Free Kick",97,9
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:09:11","F2",100,10
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:09:11","FK1",101,10
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:09:11","Ball Position",102,10
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:09:19","Restart",103,10
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:09:25","AT2",104,10
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:09:25","DANGER2",105,10
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:09:25","DAT2",106,10
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:09:30","SAFE1",107,10
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:09:39","SAFE2",108,10
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:09:40","AT2",109,10
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:09:41","DANGER2",110,10
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:09:41","DAT2",111,10
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:09:46","SAFE1",112,10
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:09:49","AT1",113,10
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:09:51","DANGER1",114,10
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:09:51","DAT1",115,10
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:09:58","POSSIBLE_TI",116,10
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:09:59","TI2",117,10
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:10:05","Restart",118,10
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:10:26","SAFE1",119,11
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:10:27","AT1",120,11
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:10:28","DANGER1",121,11
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:10:28","DAT1",122,11
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:10:50","SAFE2",123,11
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:10:51","AT2",124,11
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:10:53","DANGER2",125,11
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:10:53","DAT2",126,11
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:11:00","SHW2",127,11
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:11:01","SAFE1",128,11
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:11:15","AT1",129,12
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:11:16","DANGER1",130,12
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:11:16","DAT1",131,12
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:11:36","SHB1",132,12
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:11:36","SAFE2",133,12
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:11:37","GK2",134,12
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:11:46","Restart",135,12
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:12:08","Possible Free Kick",136,12
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:12:13","SAFE1",138,13
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:12:13","O2",139,13
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:12:13","FK1",140,13
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:12:13","Ball Position",141,13
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:12:15","Restart",142,13
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:12:16","AT1",143,13
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:12:32","SAFE1",144,13
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:12:40","AT1",145,13
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:12:41","DANGER1",146,13
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:12:41","DAT1",147,13
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:13:01","SAFE2",148,13
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:13:19","AT1",149,14
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:13:26","DANGER1",150,14
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:13:26","DAT1",151,14
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:13:34","Possible Free Kick",152,14
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:13:36","F2",154,14
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:13:36","FK1",155,14
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:13:36","DFK1",156,14
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:13:36","Ball Position",157,14
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:13:38","Restart",158,14
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:14:12","SAFE2",159,15
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:14:22","AT2",160,15
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:14:22","DANGER2",161,15
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:14:22","DAT2",162,15
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:14:31","SAFE1",163,15
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:14:40","AT2",164,15
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:14:40","DANGER2",165,15
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:14:40","DAT2",166,15
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:14:46","SAFE1",167,15
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:14:51","AT1",168,15
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:14:53","DANGER1",169,15
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:14:53","DAT1",170,15
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:14:59","Possible Free Kick",171,15
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:15:01","SAFE2",173,15
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:15:01","O1",174,15
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:15:01","FK2",175,15
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:15:01","Ball Position",176,15
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:15:07","Restart",177,15
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:15:28","SAFE2",178,16
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:15:34","AT2",179,16
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:15:35","DANGER2",180,16
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:15:35","DAT2",181,16
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:15:42","SHG2",182,16
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:15:43","SAFE1",183,16
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:16:03","AT1",184,16
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:16:04","DANGER1",185,16
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:16:04","DAT1",186,16
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:16:13","SAFE2",187,17
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:16:15","AT2",188,17
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:16:19","DANGER2",189,17
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:16:19","DAT2",190,17
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:16:24","Possible Free Kick",191,17
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:16:25","F1",193,17
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:16:25","FK2",194,17
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:16:25","DFK2",195,17
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:16:25","Ball Position",196,17
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:16:57","Restart",197,17
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:17:06","SAFE1",198,17
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:17:14","POSSIBLE_TI",199,18
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:17:14","TI1",200,18
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:17:20","Restart",201,18
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:17:29","AT1",202,18
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:17:30","DANGER1",203,18
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:17:30","DAT1",204,18
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:18:07","Possible Free Kick",205,18
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:18:09","SAFE2",207,18
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:18:09","F1",208,18
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:18:09","FK2",209,18
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:18:09","Ball Position",210,18
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:18:26","Restart",211,19
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:18:42","POSSIBLE_TI",212,19
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:18:43","TI2",213,19
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:18:54","Restart",214,19
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:19:03","AT2",215,19
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:19:09","SAFE1",216,19
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:19:15","AT1",217,20
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:19:17","DANGER1",218,20
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:19:17","DAT1",219,20
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:19:30","POSSIBLE_TI",220,20
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:19:32","TI1",221,20
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:19:32","Restart",222,20
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:19:36","SAFE1",223,20
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:19:45","AT1",224,20
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:19:47","DANGER1",225,20
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:19:47","DAT1",226,20
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:20:03","GOAL1",227,20
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:20:11","Scorer",228,21
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:20:47","CONF_GOAL1",229,21
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:20:51","KO2",230,21
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:20:51","SAFE2",231,21
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:21:07","SAFE1",232,21
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:21:21","AT1",233,22
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:21:27","DANGER1",234,22
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:21:27","DAT1",235,22
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:21:33","SAFE1",236,22
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:21:34","AT1",237,22
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:21:38","DANGER1",238,22
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:21:38","DAT1",239,22
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:21:46","SAFE2",240,22
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:21:51","AT1",241,22
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:21:52","DANGER1",242,22
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:21:52","DAT1",243,22
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:22:05","SAFE2",244,22
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:22:11","AT2",245,23
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:22:27","DANGER2",246,23
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:22:27","DAT2",247,23
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:22:29","SAFE1",248,23
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:22:30","GK1",249,23
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:22:34","Restart",250,23
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:22:45","AT1",251,23
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:22:53","DANGER1",252,23
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:22:53","DAT1",253,23
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:22:53","Player_DATA_CONFIRMED",254,23
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:22:53","Assist",255,23
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:23:07","SAFE2",256,23
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:23:08","GK2",257,23
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:23:29","Danger",258,24
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:23:29","Scout offline",259,24
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:23:47","Transmission Online",260,24
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:23:47","Start score update",261,24
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:23:47","Statistic confirmation",262,24
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:23:47","Score update finished",263,24
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:23:49","SAFE1",264,24
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:23:54","Restart",265,24
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:23:54","AT1",266,24
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:23:57","DANGER1",267,24
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:23:57","DAT1",268,24
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:24:13","SAFE2",269,25
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:24:18","POSSIBLE_TI",270,25
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:24:18","TI1",271,25
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:24:22","Restart",272,25
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:24:24","AT1",273,25
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:24:27","DANGER1",274,25
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:24:27","DAT1",275,25
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:24:56","SAFE2",276,25
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:24:57","GK2",277,25
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:25:08","Restart",278,25
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:25:28","SAFE1",279,26
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:25:29","AT1",280,26
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:25:30","DANGER1",281,26
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:25:30","DAT1",282,26
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:25:54","SAFE1",283,26
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:26:01","AT1",284,26
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:26:07","DANGER1",285,26
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:26:07","DAT1",286,26
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:26:17","SAFE2",287,27
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:26:26","POSSIBLE_TI",288,27
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:26:27","TI1",289,27
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:26:31","Restart",290,27
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:26:42","AT1",291,27
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:26:44","DANGER1",292,27
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:26:44","DAT1",293,27
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:26:57","POSSIBLE_TI",294,27
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:26:58","TI2",295,27
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:27:16","Restart",296,28
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:27:57","GOAL1",297,28
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:28:03","Scorer",298,28
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:28:25","CONF_GOAL1",299,29
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:28:51","KO2",300,29
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:28:51","SAFE2",301,29
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:28:54","SAFE2",302,29
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:29:03","AT2",303,29
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:29:04","DANGER2",304,29
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:29:04","DAT2",305,29
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:29:12","SAFE1",306,30
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:29:14","AT1",307,30
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:29:25","DANGER1",308,30
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:29:25","DAT1",309,30
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:29:33","PCR1",310,30
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:29:42","SHB1",311,30
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:29:43","NCR1",312,30
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:29:43","SAFE2",313,30
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:29:44","GK2",314,30
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:29:58","Restart",315,30
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:30:11","SAFE2",316,31
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:30:16","AT1",317,31
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:30:21","DANGER1",318,31
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:30:21","DAT1",319,31
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:30:31","Possible Free Kick",320,31
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:30:33","F2",322,31
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:30:33","FK1",323,31
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:30:33","DFK1",324,31
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:30:33","Ball Position",325,31
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:30:49","Restart",326,31
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:30:54","Player_DATA_CONFIRMED",327,31
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:30:54","Assist",328,31
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:30:56","CLS",329,31
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:31:16","Restart",330,32
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:31:22","SAFE1",331,32
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:31:36","Possible Free Kick",332,32
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:31:38","F2",334,32
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:31:38","FK1",335,32
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:31:38","DANGER1",336,32
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:31:38","DFK1",337,32
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:31:38","Ball Position",338,32
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:31:48","Restart",339,32
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:32:39","SHB1",340,33
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:32:39","SAFE2",341,33
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:32:40","GK2",342,33
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:33:02","Danger",343,33
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:33:02","Scout offline",344,33
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:33:15","Transmission Online",345,34
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:33:15","Start score update",346,34
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:33:15","Statistic confirmation",347,34
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:33:15","Score update finished",348,34
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:33:15","SAFE1",349,34
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:33:16","Restart",350,34
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:33:16","AT1",351,34
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:33:18","DANGER1",352,34
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:33:18","DAT1",353,34
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:33:44","SAFE2",354,34
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:33:45","GK2",355,34
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:33:59","Restart",356,34
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:34:13","SAFE2",357,35
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:34:14","POSSIBLE_TI",358,35
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:34:14","TI2",359,35
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:34:17","Restart",360,35
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:34:26","SAFE1",361,35
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:34:27","AT1",362,35
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:34:37","DANGER1",363,35
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:34:37","DAT1",364,35
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:34:50","SAFE2",365,35
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:34:51","GK2",366,35
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:35:11","Restart",367,36
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:35:32","SAFE2",368,36
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:35:55","SAFE1",369,36
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:35:57","POSSIBLE_TI",370,36
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:35:57","TI1",371,36
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:36:04","Restart",372,36
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:36:06","SAFE2",373,36
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:36:18","AT2",374,37
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:36:19","DANGER2",375,37
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:36:19","DAT2",376,37
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:36:25","SAFE1",377,37
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:36:35","AT1",378,37
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:36:57","DANGER1",379,37
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:36:57","DAT1",380,37
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:36:58","SAFE2",381,37
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:36:59","AT2",382,37
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:37:11","DANGER2",383,38
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:37:11","DAT2",384,38
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:37:31","POSSIBLE_TI",385,38
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:37:40","TI2",386,38
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:37:42","Restart",387,38
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:37:49","PCR2",388,38
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:37:55","POSSIBLE_CARDS",389,38
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:38:15","NO_Cards",390,39
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:38:17","CR2",391,39
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:38:18","Ball Position",392,39
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:38:32","Restart",393,39
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:38:41","SAFE2",394,39
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:38:54","AT2",395,39
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:38:55","DANGER2",396,39
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:38:55","DAT2",397,39
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:39:05","SAFE1",398,39
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:39:07","AT1",399,39
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:39:08","DANGER1",400,39
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:39:08","DAT1",401,39
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:39:18","Possible Free Kick",402,40
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:39:19","POSSIBLE_CARDS",404,40
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:39:20","YC2",405,40
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:39:21","CONF_YC2",406,40
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:39:23","Scorer",407,40
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:39:27","F2",408,40
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:39:27","FK1",409,40
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:39:27","DFK1",410,40
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:39:27","Ball Position",411,40
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:40:09","Restart",412,40
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:40:16","SHB1",413,41
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:40:18","SAFE2",414,41
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:40:18","GK2",415,41
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:40:34","Restart",416,41
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:40:49","AT2",417,41
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:40:51","POSSIBLE_TI",418,41
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:40:51","TI2",419,41
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:40:52","Restart",420,41
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:41:05","Possible Free Kick",421,41
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:41:07","SAFE1",423,41
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:41:07","F2",424,41
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:41:07","FK1",425,41
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:41:07","Ball Position",426,41
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:41:20","Restart",427,42
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:41:24","Scorer",428,42
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:41:24","Player_DATA_CONFIRMED",429,42
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:41:28","AT1",430,42
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:41:29","SAFE2",431,42
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:41:30","AT2",432,42
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:41:32","DANGER2",433,42
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:41:32","DAT2",434,42
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:41:51","SAFE1",435,42
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:41:58","AT1",436,42
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:41:59","DANGER1",437,42
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:41:59","DAT1",438,42
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:42:09","PCR1",439,42
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:42:11","SHG1",440,43
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:42:11","CR1",441,43
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:42:12","Ball Position",442,43
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:42:25","Restart",443,43
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:42:34","Possible Free Kick",444,43
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:42:36","SAFE2",446,43
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:42:36","O1",447,43
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:42:36","FK2",448,43
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:42:36","Ball Position",449,43
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:42:55","Restart",450,43
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:43:12","SAFE1",451,44
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:43:18","Possible Free Kick",452,44
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:43:19","POSSIBLE_CARDS",454,44
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:43:27","NO_Cards",455,44
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:43:28","SAFE2",456,44
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:43:28","F1",457,44
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:43:28","FK2",458,44
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:43:28","Ball Position",459,44
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:43:33","Restart",460,44
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:43:48","SAFE2",461,44
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:43:54","AT2",462,44
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:43:55","DANGER2",463,44
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:43:55","DAT2",464,44
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:44:11","SAFE1",465,45
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:44:19","AT1",466,45
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:44:23","DANGER1",467,45
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:44:23","DAT1",468,45
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:44:39","GOAL1",469,45
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:44:46","CGOAL1",470,45
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:44:48","Possible Free Kick",471,45
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:44:50","SAFE2",473,45
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:44:50","O1",474,45
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:44:50","FK2",475,45
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:44:50","Ball Position",476,45
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:44:58","Restart",477,45
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:45:09","POSSIBLE_TI",478,45
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:45:10","TI1",479,46
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:45:17","Extra Time",480,46
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:45:17","Restart",481,46
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:45:18","SAFE1",482,46
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:45:26","AT1",483,46
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:45:36","DANGER1",484,46
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:45:36","DAT1",485,46
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:45:57","GOAL1",486,46
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:46:16","Scorer",487,47
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:46:17","CONF_GOAL1",488,47
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:46:25","Stop RT1",489,47
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:46:32","CONF_PERIOD_SCORE",490,45
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:47:54","Player_DATA_CONFIRMED",491,45
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 16:47:55","Assist",492,45
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:00:02","Players are coming out",493,45
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:01:11","Game about to start",494,45
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:01:36","Start RT2 Team 2",495,46
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:01:37","SAFE2",496,46
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:01:49","AT2",497,46
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:01:49","DANGER2",498,46
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:01:49","DAT2",499,46
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:02:09","SAFE1",500,46
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:02:09","AT1",501,46
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:02:14","DANGER1",502,46
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:02:14","DAT1",503,46
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:02:16","SAFE2",504,46
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:02:23","AT2",505,46
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:02:37","SAFE2",506,47
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:02:43","SAFE1",507,47
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:03:03","POSSIBLE_TI",508,47
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:03:06","TI1",509,47
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:03:15","Restart",510,47
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:03:23","AT1",511,47
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:03:24","DANGER1",512,47
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:03:24","DAT1",513,47
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:03:25","SAFE2",514,47
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:03:36","SAFE2",515,48
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:03:47","SAFE2",516,48
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:04:07","Danger",517,48
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:04:07","Scout offline",518,48
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:04:28","Transmission Online",519,48
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:04:28","Start score update",520,48
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:04:29","Statistic confirmation",521,48
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:04:29","Score update finished",522,48
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:04:30","AT1",523,48
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:04:44","DANGER1",524,49
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:04:44","DAT1",525,49
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:04:49","POSSIBLE_TI",526,49
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:04:50","TI1",527,49
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:04:55","Restart",528,49
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:05:02","Possible Free Kick",529,49
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:05:06","SAFE2",531,49
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:05:06","F1",532,49
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:05:06","FK2",533,49
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:05:06","Ball Position",534,49
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:05:07","Restart",535,49
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:05:13","SAFE2",536,49
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:05:21","AT1",537,49
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:05:23","DANGER1",538,49
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:05:23","DAT1",539,49
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:05:30","SAFE2",540,49
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:05:44","AT2",541,50
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:05:46","DANGER2",542,50
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:05:46","DAT2",543,50
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:05:57","SAFE1",544,50
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:05:58","GK1",545,50
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:06:06","Restart",546,50
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:06:10","CLS",547,50
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:06:20","Restart",548,50
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:06:26","AT1",549,50
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:06:30","Possible Free Kick",550,50
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:06:31","SAFE1",552,50
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:06:31","F2",553,50
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:06:31","FK1",554,50
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:06:31","Ball Position",555,50
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:06:32","Restart",556,50
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:06:36","AT1",557,51
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:06:36","DANGER1",558,51
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:06:36","DAT1",559,51
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:06:57","Scout offline",560,51
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:07:16","Transmission Online",561,51
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:07:16","Start score update",562,51
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:07:16","Statistic confirmation",563,51
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:07:16","Score update finished",564,51
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:07:17","SHB1",565,51
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:07:17","SAFE2",566,51
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:07:17","GK2",567,51
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:07:17","Restart",568,51
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:07:25","POSSIBLE_TI",569,51
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:07:26","TI2",570,51
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:07:27","Restart",571,51
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:07:42","AT2",572,52
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:07:43","DANGER2",573,52
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:07:43","DAT2",574,52
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:07:54","SAFE2",575,52
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:08:03","POSSIBLE_TI",576,52
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:08:04","TI1",577,52
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:08:05","Restart",578,52
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:08:06","AT1",579,52
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:08:07","DANGER1",580,52
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:08:07","DAT1",581,52
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:08:27","PCR1",582,52
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:08:33","CR1",583,52
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:08:34","Ball Position",584,52
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:08:53","Restart",585,53
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:09:21","PCR1",586,53
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:09:28","CR1",587,53
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:09:29","Ball Position",588,53
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:09:40","Restart",589,54
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:09:44","PCR1",590,54
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:09:48","CR1",591,54
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:09:49","Ball Position",592,54
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:09:52","Restart",593,54
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:10:17","Possible Free Kick",594,54
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:10:18","SAFE2",596,54
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:10:18","F1",597,54
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:10:18","FK2",598,54
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:10:19","Ball Position",599,54
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:10:23","Restart",600,54
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:10:30","SAFE2",601,54
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:10:36","AT2",602,55
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:10:37","DANGER2",603,55
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:10:37","DAT2",604,55
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:10:42","SAFE1",605,55
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:10:53","AT1",606,55
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:10:54","DANGER1",607,55
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:10:54","DAT1",608,55
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:11:19","POSSIBLE_TI",609,55
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:11:21","TI1",610,55
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:11:22","CLS",611,55
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:11:23","TI2",612,55
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:11:24","Restart",613,55
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:11:25","SAFE2",614,55
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:11:34","SAFE2",615,55
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:11:34","AT2",616,55
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:11:36","DANGER2",617,55
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:11:36","DAT2",618,55
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:11:45","POSSIBLE_TI",619,56
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:11:48","TI2",620,56
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:11:50","Restart",621,56
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:12:12","SAFE2",622,56
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:12:19","AT2",623,56
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:12:20","DANGER2",624,56
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:12:20","DAT2",625,56
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:12:26","PCR2",626,56
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:12:27","SHB2",627,56
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:12:37","NCR2",628,57
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:12:38","SAFE1",629,57
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:12:39","GK1",630,57
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:12:49","Restart",631,57
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:12:57","AT1",632,57
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:13:00","DANGER1",633,57
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:13:00","DAT1",634,57
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:13:01","POSSIBLE_TI",635,57
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:13:03","TI1",636,57
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:13:05","Restart",637,57
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:13:18","SAFE2",638,57
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:13:22","AT2",639,57
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:13:23","DANGER2",640,57
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:13:23","DAT2",641,57
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:13:35","SAFE1",642,57
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:13:49","AT1",643,58
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:13:50","DANGER1",644,58
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:13:50","DAT1",645,58
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:14:07","SAFE2",646,58
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:14:18","POSSIBLE_TI",647,58
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:14:19","TI1",648,58
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:14:20","Restart",649,58
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:14:29","AT1",650,58
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:14:34","DANGER1",651,58
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:14:34","DAT1",652,58
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:14:46","SHG1",653,59
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:14:50","POSSIBLE_TI",654,59
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:14:51","TI1",655,59
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:14:55","Restart",656,59
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:15:39","SAFE2",657,60
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:15:56","AT2",658,60
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:15:58","DANGER2",659,60
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:15:58","DAT2",660,60
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:16:21","SAFE2",661,60
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:16:25","SAFE2",662,60
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:16:27","AT2",663,60
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:16:27","DANGER2",664,60
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:16:27","DAT2",665,60
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:16:32","Possible Free Kick",666,60
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:16:34","F1",668,60
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:16:34","FK2",669,60
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:16:34","DFK2",670,60
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:16:34","Ball Position",671,60
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:16:35","Restart",672,60
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:16:51","SAFE1",673,61
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:16:53","AT1",674,61
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:16:54","DANGER1",675,61
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:16:54","DAT1",676,61
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:17:14","SAFE1",677,61
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:17:21","AT1",678,61
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:17:22","DANGER1",679,61
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:17:22","DAT1",680,61
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:17:28","SAFE2",681,61
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:17:36","SAFE1",682,62
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:17:40","AT1",683,62
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:17:41","DANGER1",684,62
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:17:41","DAT1",685,62
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:17:47","SAFE2",686,62
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:18:07","AT2",687,62
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:18:08","DANGER2",688,62
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:18:08","DAT2",689,62
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:18:22","SAFE1",690,62
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:18:27","AT1",691,62
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:18:28","DANGER1",692,62
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:18:28","DAT1",693,62
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:18:38","SAFE2",694,63
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:19:02","SAFE2",695,63
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:19:03","AT2",696,63
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:19:03","DANGER2",697,63
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:19:03","DAT2",698,63
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:19:26","Possible Free Kick",699,63
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:19:31","SAFE1",701,63
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:19:31","O2",702,63
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:19:31","FK1",703,63
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:19:31","Ball Position",704,63
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:19:39","SUB1",705,64
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:19:59","SUB2",706,64
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:20:14","Restart",707,64
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:20:19","AT1",708,64
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:20:30","DANGER1",709,64
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:20:30","DAT1",710,64
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:20:53","Player_DATA_CONFIRMED",711,65
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:20:55","SHG1",712,65
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:20:56","SAFE2",713,65
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:21:14","SAFE2",714,65
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:21:24","SAFE2",715,65
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:21:42","AT2",716,66
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:21:48","DANGER2",717,66
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:21:48","DAT2",718,66
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:21:54","Player_DATA_CONFIRMED",719,66
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:22:00","SHB2",720,66
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:22:01","SAFE1",721,66
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:22:03","GK1",722,66
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:22:12","Restart",723,66
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:22:15","SAFE1",724,66
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:22:17","AT1",725,66
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:22:18","DANGER1",726,66
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:22:18","DAT1",727,66
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:22:44","SAFE2",728,67
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:22:52","SAFE1",729,67
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:22:57","AT1",730,67
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:23:00","DANGER1",731,67
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:23:00","DAT1",732,67
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:23:05","SAFE2",733,67
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:23:15","AT2",734,67
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:23:16","DANGER2",735,67
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:23:16","DAT2",736,67
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:23:36","Possible Free Kick",737,68
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:23:38","F1",739,68
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:23:38","FK2",740,68
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:23:38","DFK2",741,68
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:23:38","Ball Position",742,68
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:23:45","Restart",743,68
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:23:50","SAFE2",744,68
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:23:58","AT2",745,68
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:23:59","DANGER2",746,68
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:23:59","DAT2",747,68
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:24:12","Possible Free Kick",748,68
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:24:15","SAFE1",751,68
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:24:15","F2",752,68
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:24:15","FK1",753,68
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:24:16","Ball Position",754,68
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:24:17","Restart",755,68
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:24:21","AT1",756,68
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:24:24","DANGER1",757,68
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:24:24","DAT1",758,68
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:24:42","SHG1",759,69
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:24:43","SAFE2",760,69
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:24:45","AT1",761,69
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:24:47","DANGER1",762,69
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:24:47","DAT1",763,69
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:24:58","Possible Free Kick",764,69
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:25:00","F2",766,69
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:25:00","FK1",767,69
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:25:00","DFK1",768,69
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:25:00","Ball Position",769,69
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:25:04","Restart",770,69
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:25:06","SHB1",771,69
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:25:07","SAFE2",772,69
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:25:08","GK2",773,69
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:25:34","Restart",774,69
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:25:45","AT1",775,70
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:25:48","DANGER1",776,70
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:25:48","DAT1",777,70
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:26:10","SAFE2",778,70
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:26:15","Possible Free Kick",779,70
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:26:17","F1",781,70
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:26:17","FK2",782,70
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:26:17","Ball Position",783,70
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:26:30","SUB1",784,70
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:26:59","SUB1",785,71
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:27:26","Restart",786,71
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:27:38","POSSIBLE_TI",787,72
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:27:39","TI1",788,72
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:27:41","Restart",789,72
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:27:42","AT1",790,72
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:27:46","DANGER1",791,72
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:27:46","DAT1",792,72
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:27:52","SAFE2",793,72
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:28:10","SAFE1",794,72
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:28:20","AT1",795,72
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:28:21","DANGER1",796,72
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:28:21","DAT1",797,72
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:28:26","SAFE2",798,72
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:28:27","GK2",799,72
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:28:42","Restart",800,73
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:28:47","CLS",801,73
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:28:51","Restart",802,73
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:29:04","POSSIBLE_TI",803,73
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:29:05","TI1",804,73
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:29:06","Restart",805,73
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:29:12","AT1",806,73
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:29:13","DANGER1",807,73
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:29:13","DAT1",808,73
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:29:24","SAFE2",809,73
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:29:25","AT2",810,73
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:29:27","DANGER2",811,73
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:29:27","DAT2",812,73
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:29:29","SAFE1",813,73
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:29:32","AT1",814,73
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:29:33","DANGER1",815,73
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:29:33","DAT1",816,73
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:29:41","PCR1",817,74
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:29:45","CR1",818,74
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:29:47","Ball Position",819,74
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:30:11","Restart",820,74
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:30:18","SHB1",821,74
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:30:19","SAFE2",822,74
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:30:19","GK2",823,74
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:30:35","Restart",824,74
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:30:46","SAFE1",825,75
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:30:50","AT1",826,75
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:30:51","DANGER1",827,75
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:30:51","DAT1",828,75
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:31:01","PCR1",829,75
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:31:03","SHG1",830,75
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:31:07","CR1",831,75
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:31:09","Ball Position",832,75
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:31:14","Restart",833,75
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:31:20","PCR1",834,75
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:31:23","SHG1",835,75
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:31:25","CR1",836,75
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:31:25","Ball Position",837,75
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:31:48","Restart",838,76
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:32:13","POSSIBLE_TI",839,76
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:32:14","TI1",840,76
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:32:16","Restart",841,76
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:32:23","SAFE1",842,76
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:32:28","AT1",843,76
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:32:29","DANGER1",844,76
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:32:29","DAT1",845,76
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:32:34","SAFE2",846,76
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:32:35","POSSIBLE_TI",847,76
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:32:36","TI2",848,77
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:32:42","Restart",849,77
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:32:53","SAFE1",850,77
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:33:05","AT1",851,77
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:33:11","DANGER1",852,77
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:33:11","DAT1",853,77
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:33:12","POSSIBLE_TI",854,77
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:33:14","TI2",855,77
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:33:19","Restart",856,77
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:33:30","Possible Free Kick",857,77
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:33:33","F1",859,77
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:33:33","FK2",860,77
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:33:33","DFK2",861,77
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:33:33","Ball Position",862,77
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:33:35","Restart",863,77
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:33:44","SAFE2",864,78
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:33:56","AT2",865,78
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:33:57","DANGER2",866,78
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:33:57","DAT2",867,78
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:34:02","SAFE1",868,78
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:34:07","AT2",869,78
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:34:08","DANGER2",870,78
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:34:08","DAT2",871,78
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:34:13","POSSIBLE_TI",872,78
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:34:14","TI2",873,78
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:34:18","Restart",874,78
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:34:27","Player_DATA_CONFIRMED",875,78
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:34:31","SAFE2",876,78
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:34:46","SAFE2",877,79
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:34:58","SAFE2",878,79
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:35:00","AT2",879,79
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:35:01","DANGER2",880,79
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:35:01","DAT2",881,79
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:35:06","SAFE1",882,79
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:35:14","AT1",883,79
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:35:15","DANGER1",884,79
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:35:15","DAT1",885,79
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:35:25","PCR1",886,79
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:35:30","CR1",887,79
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:35:31","Ball Position",888,79
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:35:47","Restart",889,80
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:35:48","Player_DATA_CONFIRMED",890,80
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:36:30","Possible Free Kick",891,80
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:36:32","SAFE2",893,80
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:36:32","F1",894,80
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:36:32","FK2",895,80
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:36:32","Ball Position",896,80
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:36:34","Restart",897,80
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:36:35","AT2",898,80
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:36:36","DANGER2",899,81
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:36:36","DAT2",900,81
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:36:57","SAFE1",901,81
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:37:13","AT1",902,81
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:37:16","DANGER1",903,81
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:37:16","DAT1",904,81
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:37:19","PCR1",905,81
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:37:21","CR1",906,81
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:37:22","Ball Position",907,81
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:37:48","Restart",908,82
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:37:52","GOAL1",909,82
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:38:05","Scorer",910,82
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:38:24","CONF_GOAL1",911,82
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:38:44","KO2",912,83
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:38:44","SAFE2",913,83
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:38:51","AT2",914,83
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:38:53","SAFE2",915,83
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:38:59","SAFE1",916,83
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:39:04","AT2",917,83
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:39:05","DANGER2",918,83
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:39:05","DAT2",919,83
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:39:15","SHG2",920,83
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:39:16","SAFE1",921,83
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:39:24","Player_DATA_CONFIRMED",922,83
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:39:24","Assist",923,83
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:39:30","AT1",924,83
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:39:31","Possible Free Kick",925,83
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:39:34","SAFE2",927,83
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:39:34","O1",928,83
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:39:34","FK2",929,83
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:39:34","Ball Position",930,83
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:39:36","Restart",931,84
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:39:48","AT2",932,84
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:39:48","DANGER2",933,84
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:39:48","DAT2",934,84
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:40:50","SAFE1",935,85
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:40:56","SAFE2",936,85
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:40:59","AT2",937,85
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:41:00","DANGER2",938,85
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:41:00","DAT2",939,85
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:41:16","PCR2",940,85
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:41:18","CR2",941,85
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:41:20","Ball Position",942,85
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:41:44","SUB2",943,86
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:41:55","Restart",944,86
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:42:06","POSSIBLE_TI",945,86
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:42:07","TI2",946,86
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:42:08","Restart",947,86
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:42:22","POSSIBLE_TI",948,86
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:42:23","TI2",949,86
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:42:30","Restart",950,86
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:42:47","SAFE1",951,87
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:42:48","GK1",952,87
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:42:52","Restart",953,87
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:42:54","AT1",954,87
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:42:55","DANGER1",955,87
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:42:55","DAT1",956,87
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:43:09","SAFE2",957,87
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:43:11","AT2",958,87
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:43:14","DANGER2",959,87
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:43:14","DAT2",960,87
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:43:34","POSSIBLE_TI",961,87
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:43:35","TI1",962,87
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:43:42","Restart",963,88
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:43:43","SAFE1",964,88
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:43:51","AT1",965,88
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:43:55","DANGER1",966,88
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:43:55","DAT1",967,88
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:44:24","Player_DATA_CONFIRMED",968,88
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:44:27","SAFE2",969,88
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:44:29","AT2",970,88
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:44:31","DANGER2",971,88
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:44:31","DAT2",972,88
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:44:39","SHG2",973,89
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:44:41","SAFE1",974,89
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:44:47","AT1",975,89
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:44:48","DANGER1",976,89
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:44:48","DAT1",977,89
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:45:03","SHG1",978,89
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:45:04","SAFE2",979,89
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:45:19","SAFE2",980,89
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:45:34","AT2",981,89
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:45:35","DANGER2",982,89
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:45:35","DAT2",983,89
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:45:46","SAFE2",984,90
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:45:52","AT2",985,90
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:45:53","DANGER2",986,90
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:45:53","DAT2",987,90
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:46:00","SAFE2",988,90
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:46:18","SAFE2",989,90
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:46:20","AT2",990,90
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:46:21","DANGER2",991,90
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:46:21","DAT2",992,90
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:46:34","SAFE1",993,90
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:46:40","Stop RT2",994,90
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:46:40","Stop Game",995,90
+942885,"Paris Saint-Germain FC","FC Metz","03/10/2018 17:46:48","CONF_PERIOD_SCORE",996,90

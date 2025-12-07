@@ -1,0 +1,964 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 15:05:51","Transmission Online",0,0
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 15:05:51","Scout in Stadion",1,0
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 15:06:43","Lineup changed",2,0
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 15:50:49","GCC",3,0
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 15:50:56","GCC",4,0
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 15:58:17","Players are coming out",5,0
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 15:58:25","Players lined up",6,0
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 15:58:50","Jersey Changed",7,0
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 15:58:51","Jersey Changed",8,0
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 15:58:58","Shake hands",9,0
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 15:59:44","Flip coin",10,0
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:00:36","Game about to start",11,0
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:01:01","GCC",12,0
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:01:12","System Message",13,0
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:01:23","Start RT1 Team 1",14,1
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:01:25","SAFE1",15,1
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:02:09","SAFE2",16,1
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:02:19","SAFE1",17,1
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:02:22","Possible Free Kick",18,1
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:02:24","F2",20,2
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:02:24","FK1",21,2
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:02:24","Ball Position",22,2
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:02:30","Restart",23,2
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:03:01","SAFE1",24,2
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:03:14","AT1",25,2
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:03:16","DANGER1",26,2
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:03:16","DAT1",27,2
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:03:18","POSSIBLE_TI",28,2
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:03:19","TI1",29,2
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:03:20","Restart",30,2
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:03:48","SAFE1",31,3
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:04:01","AT1",32,3
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:04:02","DANGER1",33,3
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:04:02","DAT1",34,3
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:04:07","SAFE2",35,3
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:04:09","GK2",36,3
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:04:28","Restart",37,4
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:04:39","POSSIBLE_TI",38,4
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:04:41","TI1",39,4
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:04:42","Restart",40,4
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:05:07","AT1",41,4
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:05:41","SAFE2",42,5
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:05:45","AT1",43,5
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:05:47","POSSIBLE_TI",44,5
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:05:47","TI1",45,5
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:05:48","Restart",46,5
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:05:56","SAFE2",47,5
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:06:07","AT1",48,5
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:06:09","DANGER1",49,5
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:06:09","DAT1",50,5
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:06:14","BREAKAWAY1",51,5
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:06:16","PCR1",52,5
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:06:22","SHB1",53,5
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:06:23","NCR1",54,6
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:06:26","SAFE2",55,6
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:06:26","GK2",56,6
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:06:38","Restart",57,6
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:06:51","SAFE1",58,6
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:06:57","AT1",59,6
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:07:17","SAFE2",60,6
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:07:33","SAFE1",61,7
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:07:35","POSSIBLE_TI",62,7
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:07:36","TI1",63,7
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:07:41","Restart",64,7
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:07:51","SAFE1",65,7
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:08:00","AT1",66,7
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:08:02","DANGER1",67,7
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:08:02","DAT1",68,7
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:08:08","SHB1",69,7
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:08:09","SAFE2",70,7
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:08:10","GK2",71,7
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:08:31","Restart",72,8
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:08:38","AT2",73,8
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:08:39","DANGER2",74,8
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:08:39","DAT2",75,8
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:08:42","SAFE1",76,8
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:09:03","AT1",77,8
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:09:04","DANGER1",78,8
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:09:04","DAT1",79,8
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:09:19","SAFE2",80,8
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:09:25","AT2",81,9
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:09:27","DANGER2",82,9
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:09:27","DAT2",83,9
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:09:29","PCR2",84,9
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:09:31","CR2",85,9
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:09:32","Ball Position",86,9
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:09:58","Restart",87,9
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:10:08","SAFE2",88,9
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:10:15","POSSIBLE_TI",89,9
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:10:15","TI2",90,9
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:10:22","Restart",91,9
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:10:23","POSSIBLE_TI",92,10
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:10:24","TI2",93,10
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:10:25","Restart",94,10
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:10:32","SAFE1",95,10
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:10:39","AT1",96,10
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:10:56","SAFE2",97,10
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:11:06","SAFE1",98,10
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:11:26","AT1",99,11
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:11:28","DANGER1",100,11
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:11:28","DAT1",101,11
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:11:49","Possible Free Kick",102,11
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:11:51","F2",104,11
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:11:51","FK1",105,11
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:11:51","DFK1",106,11
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:11:51","Ball Position",107,11
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:13:06","Restart",108,12
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:13:11","SHG1",109,12
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:13:12","SAFE2",110,12
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:13:26","SAFE1",111,13
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:13:35","AT2",112,13
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:13:41","DANGER2",113,13
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:13:41","DAT2",114,13
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:13:49","SAFE1",115,13
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:13:59","AT1",116,13
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:14:29","DANGER1",117,14
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:14:29","DAT1",118,14
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:15:04","SAFE2",119,14
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:15:24","AT2",120,15
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:15:25","DANGER2",121,15
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:15:25","DAT2",122,15
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:15:29","SAFE1",123,15
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:15:49","SAFE2",124,15
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:15:54","AT2",125,15
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:15:54","DANGER2",126,15
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:15:54","DAT2",127,15
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:16:15","PCR2",128,15
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:16:15","CR2",129,15
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:16:17","Ball Position",130,15
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:16:44","Restart",131,16
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:17:01","CLS",132,16
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:17:19","Restart",133,16
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:17:28","SHB2",134,17
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:17:28","SAFE1",135,17
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:17:29","GK1",136,17
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:17:37","Restart",137,17
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:17:53","AT1",138,17
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:18:02","DANGER1",139,17
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:18:02","DAT1",140,17
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:18:09","PCR1",141,17
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:18:13","SHG1",142,17
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:18:14","CR1",143,17
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:18:16","Ball Position",144,17
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:18:26","Restart",145,18
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:18:31","POSSIBLE_TI",146,18
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:18:31","TI1",147,18
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:18:32","Restart",148,18
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:19:01","POSSIBLE_TI",149,18
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:19:02","TI1",150,18
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:19:04","Restart",151,18
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:19:26","POSSIBLE_TI",152,19
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:19:27","TI1",153,19
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:19:32","Restart",154,19
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:19:54","SAFE2",155,19
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:20:04","SAFE1",156,19
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:20:05","AT1",157,19
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:20:12","Possible Free Kick",158,19
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:20:14","SAFE2",160,19
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:20:14","O1",161,19
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:20:14","FK2",162,19
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:20:14","Ball Position",163,19
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:20:16","POSSIBLE_CARDS",164,19
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:20:16","PRC",165,19
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:20:16","Danger",166,19
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:20:18","No RC",167,19
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:20:19","Restart",168,19
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:20:23","NO_Cards",169,19
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:20:39","Possible Free Kick",170,20
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:20:44","No Free Kick",172,20
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:20:46","AT2",173,20
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:20:52","POSSIBLE_TI",174,20
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:20:53","TI1",175,20
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:20:54","Restart",176,20
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:20:59","DANGER2",177,20
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:20:59","DAT2",178,20
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:21:00","SHB2",179,20
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:21:02","SAFE1",180,20
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:21:03","GK1",181,20
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:21:04","Restart",182,20
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:21:09","AT1",183,20
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:21:17","DANGER1",184,20
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:21:17","DAT1",185,20
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:21:34","SAFE2",186,21
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:21:43","AT2",187,21
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:21:44","DANGER2",188,21
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:21:44","DAT2",189,21
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:21:56","SAFE1",190,21
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:22:02","AT1",191,21
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:22:05","SAFE2",192,21
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:22:12","AT2",193,21
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:22:14","DANGER2",194,21
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:22:14","DAT2",195,21
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:22:18","Possible Free Kick",196,21
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:22:20","F1",198,21
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:22:20","FK2",199,21
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:22:20","DFK2",200,21
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:22:20","Ball Position",201,21
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:23:08","Restart",202,22
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:23:14","SAFE1",203,22
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:23:28","SAFE1",204,23
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:23:39","Possible Free Kick",205,23
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:23:40","F2",207,23
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:23:40","FK1",208,23
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:23:40","Ball Position",209,23
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:23:42","Restart",210,23
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:23:52","POSSIBLE_TI",211,23
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:23:53","TI2",212,23
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:23:59","Restart",213,23
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:24:11","AT2",214,23
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:24:11","DANGER2",215,23
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:24:11","DAT2",216,23
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:24:19","PCR2",217,23
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:24:23","SHB2",218,23
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:24:24","NCR2",219,24
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:24:25","SAFE1",220,24
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:24:25","GK1",221,24
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:24:35","Restart",222,24
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:24:44","SAFE1",223,24
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:24:46","AT1",224,24
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:25:14","SAFE1",225,24
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:25:17","AT1",226,24
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:25:29","Possible Free Kick",227,25
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:25:30","F2",229,25
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:25:30","FK1",230,25
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:25:30","DANGER1",231,25
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:25:30","DFK1",232,25
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:25:30","Ball Position",233,25
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:25:32","Restart",234,25
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:25:40","SAFE2",235,25
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:25:42","GK2",236,25
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:25:57","Restart",237,25
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:26:12","AT2",238,25
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:26:13","DANGER2",239,25
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:26:13","DAT2",240,25
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:26:15","SAFE1",241,25
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:26:33","AT1",242,26
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:26:34","DANGER1",243,26
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:26:34","DAT1",244,26
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:26:50","SAFE2",245,26
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:26:52","AT2",246,26
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:26:53","DANGER2",247,26
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:26:53","DAT2",248,26
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:26:57","POSSIBLE_TI",249,26
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:26:58","TI1",250,26
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:26:59","Restart",251,26
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:27:10","AT1",252,26
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:27:10","DANGER1",253,26
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:27:10","DAT1",254,26
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:27:19","POSSIBLE_TI",255,26
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:27:20","TI1",256,26
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:27:25","Restart",257,27
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:27:37","PCR1",258,27
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:27:40","SHB1",259,27
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:27:42","CR1",260,27
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:27:44","Ball Position",261,27
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:28:01","Restart",262,27
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:28:07","PCR1",263,27
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:28:09","CR1",264,27
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:28:10","Ball Position",265,27
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:28:21","Restart",266,27
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:28:29","SHB1",267,28
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:28:30","SAFE2",268,28
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:28:30","GK2",269,28
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:28:46","Restart",270,28
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:29:06","SAFE1",271,28
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:29:13","AT1",272,28
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:29:16","DANGER1",273,28
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:29:16","DAT1",274,28
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:29:19","SAFE1",275,28
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:29:30","AT1",276,29
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:29:55","DANGER1",277,29
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:29:55","DAT1",278,29
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:30:10","SAFE1",279,29
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:30:26","AT1",280,30
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:30:27","DANGER1",281,30
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:30:27","DAT1",282,30
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:30:59","SAFE2",283,30
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:31:08","AT2",284,30
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:31:09","DANGER2",285,30
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:31:09","DAT2",286,30
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:31:16","BLOCKED2",287,30
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:31:17","SAFE1",288,30
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:31:19","AT1",289,30
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:31:20","DANGER1",290,30
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:31:20","DAT1",291,30
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:31:21","BREAKAWAY1",292,30
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:31:30","SAFE2",293,31
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:31:44","AT1",294,31
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:31:46","DANGER1",295,31
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:31:46","DAT1",296,31
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:31:53","BLOCKED1",297,31
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:32:06","PCR1",298,31
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:32:08","SHB1",299,31
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:32:09","CR1",300,31
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:32:15","Ball Position",301,31
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:32:38","Restart",302,32
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:33:00","SAFE2",303,32
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:33:01","POSSIBLE_TI",304,32
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:33:03","TI2",305,32
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:33:12","Restart",306,32
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:33:22","Possible Free Kick",307,32
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:33:24","F2",309,33
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:33:24","FK1",310,33
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:33:24","DANGER1",311,33
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:33:24","DFK1",312,33
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:33:24","Ball Position",313,33
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:33:25","Restart",314,33
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:33:49","SHB1",315,33
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:33:51","SAFE2",316,33
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:33:51","GK2",317,33
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:34:08","Restart",318,33
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:34:27","POSSIBLE_TI",319,34
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:34:29","TI1",320,34
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:34:31","Restart",321,34
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:34:37","SAFE2",322,34
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:34:39","AT2",323,34
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:34:42","DANGER2",324,34
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:34:42","DAT2",325,34
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:34:47","SAFE1",326,34
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:34:53","Possible Free Kick",327,34
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:34:55","F2",329,34
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:34:55","FK1",330,34
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:34:55","Ball Position",331,34
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:34:56","Restart",332,34
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:35:05","AT1",333,34
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:35:06","DANGER1",334,34
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:35:06","DAT1",335,34
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:35:13","POSSIBLE_TI",336,34
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:35:14","TI1",337,34
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:35:16","Restart",338,34
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:35:50","POSSIBLE_TI",339,35
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:35:51","TI1",340,35
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:35:54","Restart",341,35
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:36:00","POSSIBLE_TI",342,35
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:36:01","TI1",343,35
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:36:03","Restart",344,35
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:36:23","Possible Free Kick",345,36
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:36:28","POSSIBLE_CARDS",347,36
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:36:51","NO_Cards",348,36
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:36:52","F2",349,36
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:36:52","FK1",350,36
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:36:52","DFK1",351,36
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:36:52","Ball Position",352,36
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:37:06","Restart",353,36
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:37:18","SAFE2",354,36
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:37:33","POSSIBLE_TI",355,37
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:37:34","TI2",356,37
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:37:36","Restart",357,37
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:37:40","CLS",358,37
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:37:48","Restart",359,37
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:37:50","AT2",360,37
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:37:51","DANGER2",361,37
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:37:51","DAT2",362,37
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:37:56","SAFE1",363,37
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:37:59","AT1",364,37
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:38:05","DANGER1",365,37
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:38:05","DAT1",366,37
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:38:07","SAFE2",367,37
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:38:35","AT1",368,38
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:38:36","DANGER1",369,38
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:38:36","DAT1",370,38
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:38:43","GOAL1",371,38
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:38:55","Scorer",372,38
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:39:16","CONF_GOAL1",373,38
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:39:37","KO2",374,39
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:39:37","SAFE2",375,39
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:39:39","SAFE2",376,39
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:39:42","Player_DATA_CONFIRMED",377,39
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:39:55","Possible Free Kick",378,39
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:39:57","F1",380,39
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:39:57","FK2",381,39
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:39:58","DANGER2",382,39
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:39:58","DFK2",383,39
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:39:58","Ball Position",384,39
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:40:06","Assist",385,39
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:40:24","Restart",386,40
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:40:27","SAFE1",387,40
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:40:38","AT1",388,40
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:40:39","DANGER1",389,40
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:40:39","DAT1",390,40
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:40:45","SAFE2",391,40
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:41:10","SAFE1",392,40
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:41:22","SAFE1",393,40
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:41:41","AT1",394,41
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:41:42","DANGER1",395,41
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:41:42","DAT1",396,41
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:42:00","PCR1",397,41
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:42:01","SHG1",398,41
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:42:02","CR1",399,41
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:42:04","Ball Position",400,41
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:42:23","Restart",401,42
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:42:29","GOAL1",402,42
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:42:54","Scorer",403,42
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:42:56","CONF_GOAL1",404,42
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:43:07","Player_DATA_CONFIRMED",405,42
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:43:21","KO2",406,42
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:43:21","SAFE2",407,42
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:43:22","SAFE2",408,42
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:43:37","SAFE2",409,43
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:43:39","Possible Free Kick",410,43
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:43:42","SAFE1",412,43
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:43:42","O2",413,43
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:43:42","FK1",414,43
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:43:42","Ball Position",415,43
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:43:44","Restart",416,43
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:44:02","SAFE1",417,43
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:44:08","Assist",418,43
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:44:11","AT1",419,43
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:44:12","DANGER1",420,43
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:44:12","DAT1",421,43
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:44:14","SAFE2",422,43
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:44:22","Possible Free Kick",423,43
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:44:24","F1",425,44
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:44:24","FK2",426,44
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:44:24","DANGER2",427,44
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:44:24","DFK2",428,44
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:44:24","Ball Position",429,44
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:44:41","Restart",430,44
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:44:52","POSSIBLE_TI",431,44
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:44:52","TI2",432,44
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:44:58","Restart",433,44
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:45:04","SAFE1",434,44
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:45:07","AT1",435,44
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:45:18","SAFE1",436,44
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:45:23","AT1",437,45
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:45:31","DANGER1",438,45
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:45:31","DAT1",439,45
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:46:04","Possible Free Kick",440,45
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:46:05","F2",442,45
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:46:05","FK1",443,45
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:46:05","DFK1",444,45
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:46:05","Ball Position",445,45
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:46:08","Restart",446,45
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:46:32","Stop RT1",447,45
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 16:46:38","CONF_PERIOD_SCORE",448,45
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:00:34","Players are coming out",449,45
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:02:12","Game about to start",450,45
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:02:23","SUB2",451,45
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:02:30","Player_DATA_CONFIRMED",452,45
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:02:34","Start RT2 Team 2",453,46
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:02:37","SAFE2",454,46
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:02:45","CLS",455,46
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:02:45","CLS",456,45
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:02:56","Start RT2 Team 2",457,46
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:03:02","AT2",458,46
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:03:03","POSSIBLE_TI",459,46
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:03:04","TI2",460,46
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:03:05","Restart",461,46
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:03:11","SAFE1",462,46
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:03:38","SAFE1",463,46
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:03:44","AT1",464,46
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:03:56","SAFE1",465,46
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:04:10","AT1",466,47
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:04:13","DANGER1",467,47
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:04:13","DAT1",468,47
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:04:15","SAFE2",469,47
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:04:33","AT1",470,47
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:04:38","DANGER1",471,47
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:04:38","DAT1",472,47
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:04:48","Possible Free Kick",473,47
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:04:50","F2",475,47
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:04:50","FK1",476,47
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:04:50","DFK1",477,47
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:04:50","Ball Position",478,47
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:05:15","POSSIBLE_CARDS",479,48
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:05:15","PRC",480,48
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:05:52","YC1",481,48
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:05:54","CONF_YC1",482,48
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:06:00","Scorer",483,49
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:06:02","YC2",484,49
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:06:03","CONF_YC2",485,49
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:06:04","Player_DATA_CONFIRMED",486,49
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:06:07","Scorer",487,49
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:06:13","No RC",488,49
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:06:25","Scorer",489,49
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:06:25","Player_DATA_CONFIRMED",490,49
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:06:58","Restart",491,50
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:07:05","SHB1",492,50
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:07:06","SAFE2",493,50
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:07:06","GK2",494,50
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:07:12","Restart",495,50
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:07:22","AT2",496,50
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:07:24","DANGER2",497,50
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:07:24","DAT2",498,50
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:07:30","SHB2",499,50
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:07:31","SAFE1",500,50
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:07:32","GK1",501,50
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:07:38","Restart",502,50
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:07:51","SAFE1",503,50
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:08:06","AT1",504,51
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:08:30","POSSIBLE_TI",505,51
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:08:31","TI1",506,51
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:08:39","Restart",507,51
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:08:43","SAFE2",508,51
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:08:48","AT2",509,51
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:08:49","DANGER2",510,51
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:08:49","DAT2",511,51
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:08:54","Possible Free Kick",512,51
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:08:59","SAFE1",514,52
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:08:59","O2",515,52
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:08:59","FK1",516,52
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:08:59","Ball Position",517,52
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:09:11","Restart",518,52
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:09:21","AT1",519,52
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:09:22","DANGER1",520,52
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:09:22","DAT1",521,52
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:09:26","SAFE2",522,52
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:09:31","AT1",523,52
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:09:32","DANGER1",524,52
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:09:32","DAT1",525,52
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:09:43","SAFE2",526,52
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:09:49","AT2",527,52
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:09:49","DANGER2",528,52
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:09:49","DAT2",529,52
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:10:00","SHB2",530,53
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:10:01","SAFE1",531,53
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:10:02","GK1",532,53
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:10:10","Restart",533,53
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:10:31","AT1",534,53
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:10:33","DANGER1",535,53
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:10:33","DAT1",536,53
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:10:44","SHG1",537,53
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:10:46","SAFE2",538,53
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:10:53","AT1",539,53
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:10:54","DANGER1",540,53
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:10:54","DAT1",541,53
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:11:01","SAFE2",542,54
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:11:11","SAFE1",543,54
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:11:18","AT1",544,54
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:11:19","DANGER1",545,54
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:11:19","DAT1",546,54
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:11:37","SAFE2",547,54
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:11:41","AT2",548,54
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:11:42","DANGER2",549,54
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:11:42","DAT2",550,54
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:11:57","Possible Free Kick",551,55
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:11:58","SAFE1",553,55
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:11:58","F2",554,55
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:11:58","FK1",555,55
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:11:58","Ball Position",556,55
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:12:04","Restart",557,55
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:12:14","SAFE1",558,55
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:12:23","AT1",559,55
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:12:33","DANGER1",560,55
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:12:33","DAT1",561,55
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:12:38","SAFE2",562,55
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:12:44","SAFE1",563,55
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:13:04","SAFE1",564,56
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:13:22","AT2",565,56
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:13:22","DANGER2",566,56
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:13:22","DAT2",567,56
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:13:36","POSSIBLE_TI",568,56
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:13:37","TI2",569,56
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:13:38","Restart",570,56
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:13:44","SAFE1",571,56
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:14:08","AT1",572,57
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:14:10","DANGER1",573,57
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:14:10","DAT1",574,57
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:14:12","SAFE2",575,57
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:14:24","POSSIBLE_TI",576,57
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:14:25","TI2",577,57
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:14:32","Restart",578,57
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:14:37","POSSIBLE_TI",579,57
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:14:38","TI1",580,57
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:14:48","Restart",581,57
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:15:00","AT1",582,58
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:15:00","DANGER1",583,58
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:15:00","DAT1",584,58
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:15:15","SAFE1",585,58
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:15:16","AT1",586,58
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:15:19","DANGER1",587,58
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:15:19","DAT1",588,58
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:15:39","SAFE2",589,58
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:15:47","Possible Free Kick",590,58
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:15:48","F1",592,58
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:15:48","FK2",593,58
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:15:48","Ball Position",594,58
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:16:30","SUB2",595,59
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:16:33","Player_DATA_CONFIRMED",596,59
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:16:34","Restart",597,59
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:16:42","POSSIBLE_TI",598,59
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:16:47","TI2",599,59
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:16:48","Restart",600,59
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:16:56","SAFE1",601,60
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:17:08","AT2",602,60
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:17:08","DANGER2",603,60
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:17:08","DAT2",604,60
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:17:13","GOAL2",605,60
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:17:47","CONF_GOAL2",606,60
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:17:49","Scorer",607,60
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:17:49","KO1",608,60
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:17:49","SAFE1",609,60
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:17:54","SAFE1",610,60
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:18:15","Scorer",611,61
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:18:16","Player_DATA_CONFIRMED",612,61
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:18:19","AT1",613,61
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:18:24","DANGER1",614,61
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:18:24","DAT1",615,61
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:18:32","Possible Free Kick",616,61
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:18:34","F2",618,61
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:18:34","FK1",619,61
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:18:34","DFK1",620,61
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:18:34","Ball Position",621,61
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:18:48","Restart",622,61
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:18:54","SAFE2",623,61
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:18:57","AT2",624,62
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:18:58","DANGER2",625,62
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:18:58","DAT2",626,62
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:19:06","Assist",627,62
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:19:12","SAFE1",628,62
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:19:13","GK1",629,62
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:19:23","Restart",630,62
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:19:35","SAFE1",631,62
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:19:36","AT1",632,62
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:19:47","DANGER1",633,62
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:19:47","DAT1",634,62
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:19:57","SAFE1",635,63
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:20:06","AT1",636,63
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:20:12","DANGER1",637,63
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:20:12","DAT1",638,63
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:20:19","Possible Free Kick",639,63
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:20:21","F2",641,63
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:20:21","FK1",642,63
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:20:21","DFK1",643,63
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:20:21","Ball Position",644,63
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:20:31","POSSIBLE_CARDS",645,63
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:20:32","YC2",646,63
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:20:33","CONF_YC2",647,63
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:20:34","Scorer",648,63
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:20:50","Scorer",649,63
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:20:50","Player_DATA_CONFIRMED",650,63
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:21:39","Restart",651,64
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:21:42","BLOCKED1",652,64
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:21:53","SAFE2",653,64
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:22:00","AT1",654,65
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:22:05","Possible Free Kick",655,65
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:22:06","POSSIBLE_CARDS",657,65
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:22:07","YC2",658,65
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:22:08","CONF_YC2",659,65
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:22:09","Scorer",660,65
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:22:12","F2",661,65
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:22:12","FK1",662,65
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:22:12","DANGER1",663,65
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:22:12","DFK1",664,65
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:22:12","Ball Position",665,65
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:22:28","Scorer",666,65
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:22:28","Player_DATA_CONFIRMED",667,65
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:22:39","Restart",668,65
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:22:54","GOAL1",669,65
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:23:05","CONF_GOAL1",670,66
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:23:31","Scorer",671,66
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:23:51","KO2",672,66
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:23:51","SAFE2",673,66
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:24:06","SAFE1",674,67
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:24:11","Player_DATA_CONFIRMED",675,67
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:24:26","Possible Free Kick",676,67
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:24:27","F2",678,67
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:24:27","FK1",679,67
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:24:27","Ball Position",680,67
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:24:27","Restart",681,67
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:24:34","AT1",682,67
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:24:35","DANGER1",683,67
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:24:35","DAT1",684,67
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:24:37","Assist",685,67
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:24:55","SAFE1",686,67
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:24:56","AT1",687,68
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:24:58","DANGER1",688,68
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:24:58","DAT1",689,68
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:25:03","Possible Free Kick",690,68
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:25:06","SAFE2",692,68
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:25:06","F1",693,68
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:25:06","FK2",694,68
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:25:06","Ball Position",695,68
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:25:13","Restart",696,68
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:25:23","SAFE1",697,68
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:25:43","AT2",698,68
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:25:44","DANGER2",699,68
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:25:44","DAT2",700,68
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:25:47","SAFE1",701,68
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:25:49","AT1",702,68
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:25:55","DANGER1",703,68
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:25:55","DAT1",704,68
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:26:01","SAFE2",705,69
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:26:12","AT2",706,69
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:26:13","DANGER2",707,69
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:26:13","DAT2",708,69
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:26:16","SAFE1",709,69
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:26:25","AT1",710,69
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:26:26","DANGER1",711,69
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:26:26","DAT1",712,69
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:26:53","SAFE2",713,69
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:26:54","Possible Free Kick",714,69
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:26:56","F1",716,69
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:26:56","FK2",717,69
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:26:56","Ball Position",718,69
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:27:07","SUB2",719,70
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:27:36","Restart",720,70
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:27:38","Player_DATA_CONFIRMED",721,70
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:27:51","SAFE1",722,70
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:27:55","AT1",723,70
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:28:10","DANGER1",724,71
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:28:10","DAT1",725,71
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:28:28","PCR1",726,71
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:28:32","NCR1",727,71
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:28:32","SAFE2",728,71
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:28:33","GK2",729,71
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:28:38","Restart",730,71
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:28:46","POSSIBLE_TI",731,71
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:28:47","TI2",732,71
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:28:48","Restart",733,71
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:28:56","AT2",734,71
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:28:56","DANGER2",735,72
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:28:56","DAT2",736,72
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:29:03","SAFE1",737,72
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:29:13","SAFE2",738,72
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:29:14","AT2",739,72
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:29:21","SAFE1",740,72
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:29:22","AT1",741,72
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:29:22","DANGER1",742,72
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:29:22","DAT1",743,72
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:29:23","BREAKAWAY1",744,72
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:29:38","Possible Free Kick",745,72
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:29:41","SAFE2",747,72
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:29:41","F1",748,72
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:29:41","FK2",749,72
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:29:41","Ball Position",750,72
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:29:50","Restart",751,72
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:29:51","SAFE2",752,72
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:29:58","AT2",753,73
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:29:59","DANGER2",754,73
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:29:59","DAT2",755,73
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:30:07","SAFE1",756,73
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:30:09","AT1",757,73
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:30:12","DANGER1",758,73
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:30:12","DAT1",759,73
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:30:25","PCR1",760,73
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:30:31","SHB1",761,73
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:30:33","CR1",762,73
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:30:34","Ball Position",763,73
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:30:52","Restart",764,73
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:31:07","SAFE2",765,74
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:31:15","Possible Free Kick",766,74
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:31:23","POSSIBLE_CARDS",768,74
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:31:24","YC1",769,74
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:31:25","CONF_YC1",770,74
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:31:38","Scorer",771,74
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:31:40","F1",772,74
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:31:40","FK2",773,74
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:31:40","DANGER2",774,74
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:31:40","DFK2",775,74
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:31:40","Ball Position",776,74
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:31:41","Scorer",777,74
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:31:42","Player_DATA_CONFIRMED",778,74
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:31:51","Restart",779,74
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:32:19","SAFE1",780,75
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:32:23","GK1",781,75
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:32:34","Restart",782,75
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:32:46","SAFE2",783,75
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:32:55","AT2",784,75
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:32:55","DANGER2",785,75
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:32:55","DAT2",786,75
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:33:06","SAFE1",787,76
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:33:21","AT1",788,76
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:33:35","DANGER1",789,76
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:33:35","DAT1",790,76
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:33:41","SAFE1",791,76
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:33:43","POSSIBLE_TI",792,76
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:33:45","TI1",793,76
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:33:45","Restart",794,76
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:33:48","Possible Free Kick",795,76
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:33:50","F2",797,76
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:33:50","FK1",798,76
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:33:50","Ball Position",799,76
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:33:56","Restart",800,77
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:33:58","CLS",801,77
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:34:00","Restart",802,77
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:34:16","AT2",803,77
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:34:17","DANGER2",804,77
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:34:17","DAT2",805,77
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:34:22","Possible Free Kick",806,77
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:34:23","F1",808,77
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:34:23","FK2",809,77
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:34:23","DFK2",810,77
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:34:23","Ball Position",811,77
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:35:07","Restart",812,78
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:35:10","SAFE1",813,78
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:35:15","AT1",814,78
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:35:23","SAFE2",815,78
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:35:26","AT2",816,78
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:35:26","DANGER2",817,78
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:35:26","DAT2",818,78
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:35:29","SAFE1",819,78
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:35:31","AT2",820,78
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:35:31","DANGER2",821,78
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:35:31","DAT2",822,78
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:35:36","SAFE1",823,78
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:35:39","AT1",824,78
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:35:45","DANGER1",825,78
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:35:45","DAT1",826,78
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:35:46","BREAKAWAY1",827,78
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:35:52","SHG1",828,78
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:35:53","SAFE2",829,78
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:36:00","AT1",830,79
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:36:01","DANGER1",831,79
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:36:01","DAT1",832,79
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:36:13","GOAL1",833,79
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:36:28","Scorer",834,79
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:36:40","Player_DATA_CONFIRMED",835,79
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:36:50","CONF_GOAL1",836,79
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:37:01","SUB1",837,80
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:37:21","SUB1",838,80
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:37:36","KO2",839,80
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:37:36","SAFE2",840,80
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:37:38","SAFE2",841,80
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:37:52","AT2",842,80
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:37:53","DANGER2",843,80
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:37:53","DAT2",844,80
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:37:59","SAFE1",845,81
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:38:00","GK1",846,81
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:38:05","Restart",847,81
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:38:08","SAFE1",848,81
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:38:17","AT1",849,81
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:38:24","Player_DATA_CONFIRMED",850,81
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:38:24","Player_DATA_CONFIRMED",851,81
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:38:24","DANGER1",852,81
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:38:24","DAT1",853,81
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:38:25","Possible Free Kick",854,81
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:38:27","F2",856,81
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:38:27","FK1",857,81
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:38:27","DFK1",858,81
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:38:27","Ball Position",859,81
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:38:30","Restart",860,81
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:38:42","Possible Free Kick",861,81
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:38:48","F2",863,81
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:38:48","FK1",864,81
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:38:48","DFK1",865,81
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:38:48","Ball Position",866,81
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:38:53","POSSIBLE_CARDS",867,81
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:38:53","PRC",868,81
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:39:04","No RC",869,82
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:39:05","NO_Cards",870,82
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:39:38","Restart",871,82
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:39:45","POSSIBLE_TI",872,82
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:39:46","TI2",873,82
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:39:58","Restart",874,83
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:40:08","POSSIBLE_TI",875,83
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:40:09","TI2",876,83
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:40:12","Restart",877,83
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:40:13","SAFE2",878,83
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:40:17","AT2",879,83
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:40:18","DANGER2",880,83
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:40:18","DAT2",881,83
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:40:23","POSSIBLE_TI",882,83
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:40:24","TI2",883,83
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:40:32","Restart",884,83
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:40:40","SAFE1",885,83
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:40:40","AT1",886,83
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:40:50","SAFE1",887,83
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:40:51","GK1",888,83
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:41:08","Restart",889,84
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:41:09","AT1",890,84
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:41:30","DANGER1",891,84
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:41:30","DAT1",892,84
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:42:05","PCR1",893,85
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:42:10","CR1",894,85
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:42:11","Ball Position",895,85
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:42:22","Restart",896,85
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:42:33","PCR1",897,85
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:42:34","SHG1",898,85
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:42:36","CR1",899,85
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:42:38","Ball Position",900,85
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:42:56","Restart",901,85
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:42:59","SAFE2",902,86
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:43:00","GK2",903,86
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:43:22","SUB1",904,86
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:43:24","Player_DATA_CONFIRMED",905,86
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:43:26","Restart",906,86
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:43:36","AT2",907,86
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:43:37","DANGER2",908,86
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:43:37","DAT2",909,86
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:43:48","SAFE1",910,86
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:43:49","GK1",911,86
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:44:00","Restart",912,87
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:44:14","SAFE1",913,87
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:44:16","AT1",914,87
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:44:17","DANGER1",915,87
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:44:17","DAT1",916,87
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:44:25","SAFE2",917,87
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:44:34","AT2",918,87
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:44:35","SAFE1",919,87
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:44:35","GK1",920,87
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:44:44","Restart",921,87
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:44:49","SAFE1",922,87
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:45:00","AT1",923,88
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:45:06","SAFE2",924,88
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:45:18","POSSIBLE_TI",925,88
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:45:19","TI2",926,88
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:45:20","Restart",927,88
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:45:26","SAFE1",928,88
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:45:32","AT1",929,88
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:45:44","DANGER1",930,88
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:45:44","DAT1",931,88
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:45:55","PCR1",932,88
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:45:56","SHG1",933,89
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:45:57","CR1",934,89
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:45:59","Ball Position",935,89
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:46:04","Restart",936,89
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:46:14","SHB1",937,89
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:46:16","SAFE2",938,89
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:46:16","GK2",939,89
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:46:23","Restart",940,89
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:46:38","AT1",941,89
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:46:39","DANGER1",942,89
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:46:39","DAT1",943,89
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:46:49","SHG1",944,89
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:46:58","SAFE2",945,90
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:47:09","AT2",946,90
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:47:10","DANGER2",947,90
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:47:10","DAT2",948,90
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:47:13","Possible Free Kick",949,90
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:47:16","SAFE1",951,90
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:47:16","O2",952,90
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:47:16","FK1",953,90
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:47:16","Ball Position",954,90
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:47:24","CLS",955,90
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:47:26","No Free Kick",956,90
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:47:28","POSSIBLE_TI",957,90
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:47:30","TI1",958,90
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:47:31","Restart",959,90
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:47:39","Extra Time",960,90
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:47:41","AT1",961,90
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:47:42","DANGER1",962,90
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:47:42","DAT1",963,90
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:47:48","SAFE2",964,90
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:48:02","POSSIBLE_TI",965,91
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:48:03","TI2",966,91
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:48:04","Restart",967,91
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:48:14","Possible Free Kick",968,91
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:48:16","F2",970,91
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:48:16","FK1",971,91
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:48:16","DANGER1",972,91
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:48:16","DFK1",973,91
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:48:16","Ball Position",974,91
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:48:21","Restart",975,91
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:48:27","SAFE2",976,91
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:48:28","AT2",977,91
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:48:29","DANGER2",978,91
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:48:29","DAT2",979,91
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:48:49","SHB2",980,91
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:48:50","SAFE1",981,91
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:48:51","GK1",982,91
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:49:02","Restart",983,92
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:49:06","AT1",984,92
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:49:09","DANGER1",985,92
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:49:09","DAT1",986,92
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:49:14","SAFE2",987,92
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:49:22","AT2",988,92
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:49:23","DANGER2",989,92
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:49:23","DAT2",990,92
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:49:31","SAFE1",991,92
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:49:38","Stop RT2",992,92
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:49:38","Stop Game",993,92
+892998,"Paris Saint-Germain FC","FC Nantes","11/18/2017 17:49:50","CONF_PERIOD_SCORE",994,91

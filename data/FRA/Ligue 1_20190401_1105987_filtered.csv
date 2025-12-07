@@ -1,0 +1,920 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 17:40:28","Lineup changed",0,0
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 17:41:00","Transmission Online",1,0
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 17:41:00","Scout in Stadion",2,0
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 17:45:40","Lineup changed",3,0
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 17:55:49","GCC",4,0
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:21:48","GCC",5,0
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:27:09","Players are coming out",6,0
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:27:28","Players lined up",7,0
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:27:44","Shake hands",8,0
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:28:05","Jersey Changed",9,0
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:28:05","Jersey Changed",10,0
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:28:25","Flip coin",11,0
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:29:41","Game about to start",12,0
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:30:03","Start RT1 Team 2",13,1
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:30:16","SAFE2",14,1
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:30:25","AT2",15,1
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:30:28","DANGER2",16,1
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:30:28","DAT2",17,1
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:30:30","PCR2",18,1
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:30:33","NCR2",19,1
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:30:35","SAFE1",20,1
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:30:35","GK1",21,1
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:30:47","Restart",22,1
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:31:03","AT1",23,1
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:31:11","POSSIBLE_TI",24,2
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:31:11","TI2",25,2
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:31:12","Restart",26,2
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:31:27","POSSIBLE_TI",27,2
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:31:29","TI1",28,2
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:31:32","Restart",29,2
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:31:38","SAFE1",30,2
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:31:49","AT2",31,2
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:31:50","DANGER2",32,2
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:31:50","DAT2",33,2
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:31:55","GOAL2",34,2
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:32:19","Scorer",35,3
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:32:42","CONF_GOAL2",36,3
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:32:42","KO1",37,3
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:32:42","SAFE1",38,3
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:33:09","AT1",39,4
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:33:14","DANGER1",40,4
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:33:14","DAT1",41,4
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:33:19","SHG1",42,4
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:33:25","Player_DATA_CONFIRMED",43,4
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:33:55","SHG1",44,4
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:33:57","SHB1",45,4
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:34:18","Possible Free Kick",46,5
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:34:21","SAFE2",48,5
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:34:21","O1",49,5
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:34:21","FK2",50,5
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:34:21","Ball Position",51,5
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:34:21","Restart",52,5
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:34:23","AT1",53,5
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:34:29","SAFE2",54,5
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:34:30","AT2",55,5
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:34:31","DANGER2",56,5
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:34:31","DAT2",57,5
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:35:16","SAFE2",58,6
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:35:21","Assist",59,6
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:35:25","POSSIBLE_CARDS",60,6
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:35:56","YC1",61,6
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:35:57","CONF_YC1",62,6
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:36:01","Scorer",63,6
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:36:03","Injury Break",64,6
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:36:21","Player_DATA_CONFIRMED",65,7
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:36:39","Restart",66,7
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:36:40","Possible Free Kick",67,7
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:36:41","F1",69,7
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:36:41","FK2",70,7
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:36:41","DANGER2",71,7
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:36:41","DFK2",72,7
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:36:41","Ball Position",73,7
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:36:55","Restart",74,7
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:37:06","SAFE1",75,8
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:37:07","GK1",76,8
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:37:09","Restart",77,8
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:37:21","POSSIBLE_TI",78,8
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:37:22","TI2",79,8
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:37:30","Restart",80,8
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:37:36","AT2",81,8
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:37:41","POSSIBLE_TI",82,8
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:37:41","TI2",83,8
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:37:55","Restart",84,8
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:38:01","SAFE1",85,8
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:38:02","AT1",86,8
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:38:09","SAFE2",87,9
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:38:24","Injury Break",88,9
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:39:17","POSSIBLE_TI",89,10
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:39:18","Restart",90,10
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:39:18","TI1",91,10
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:39:19","Restart",92,10
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:39:35","AT1",93,10
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:39:50","DANGER1",94,10
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:39:50","DAT1",95,10
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:40:05","POSSIBLE_TI",96,11
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:40:09","TI2",97,11
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:40:13","Restart",98,11
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:40:21","POSSIBLE_TI",99,11
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:40:29","TI1",100,11
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:40:31","Restart",101,11
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:40:36","POSSIBLE_TI",102,11
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:40:36","TI1",103,11
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:40:44","Restart",104,11
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:41:10","SAFE2",105,12
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:41:10","GK2",106,12
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:41:31","Restart",107,12
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:41:38","POSSIBLE_TI",108,12
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:41:39","TI2",109,12
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:41:52","Restart",110,12
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:41:53","AT2",111,12
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:41:57","POSSIBLE_TI",112,12
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:41:58","TI2",113,12
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:42:02","Restart",114,12
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:42:07","POSSIBLE_TI",115,13
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:42:10","TI1",116,13
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:42:11","Restart",117,13
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:42:15","SAFE1",118,13
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:42:15","AT1",119,13
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:42:35","SAFE2",120,13
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:42:35","GK2",121,13
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:42:45","Restart",122,13
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:42:53","AT2",123,13
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:42:59","DANGER2",124,13
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:42:59","DAT2",125,13
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:43:14","Possible Free Kick",126,14
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:43:16","SAFE1",128,14
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:43:16","F2",129,14
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:43:16","FK1",130,14
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:43:16","Ball Position",131,14
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:43:17","Restart",132,14
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:43:35","AT1",133,14
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:43:54","Possible Free Kick",134,14
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:44:00","SAFE2",136,14
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:44:00","F1",137,14
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:44:00","FK2",138,14
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:44:00","Ball Position",139,14
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:44:12","Restart",140,15
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:44:14","AT2",141,15
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:44:20","SAFE1",142,15
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:44:20","GK1",143,15
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:44:25","Restart",144,15
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:44:35","AT1",145,15
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:44:38","DANGER1",146,15
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:44:38","DAT1",147,15
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:44:49","SAFE2",148,15
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:44:50","AT2",149,15
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:45:12","DANGER2",150,16
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:45:12","DAT2",151,16
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:45:24","SHG2",152,16
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:45:26","Possible Free Kick",153,16
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:45:29","SAFE1",155,16
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:45:29","O2",156,16
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:45:29","FK1",157,16
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:45:29","Ball Position",158,16
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:45:36","Restart",159,16
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:45:52","AT1",160,16
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:46:02","SAFE1",161,16
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:46:09","AT1",162,17
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:46:30","POSSIBLE_TI",163,17
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:46:33","TI2",164,17
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:46:38","Restart",165,17
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:46:46","SAFE1",166,17
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:46:54","AT1",167,17
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:47:12","DANGER1",168,18
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:47:12","DAT1",169,18
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:47:17","SHG1",170,18
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:47:21","POSSIBLE_TI",171,18
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:47:22","TI1",172,18
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:47:25","Restart",173,18
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:47:43","POSSIBLE_TI",174,18
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:47:43","TI1",175,18
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:47:56","Restart",176,18
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:47:59","POSSIBLE_TI",177,18
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:48:00","TI1",178,18
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:48:03","Restart",179,19
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:48:20","SAFE2",180,19
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:48:20","AT2",181,19
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:48:30","POSSIBLE_CARDS",182,19
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:48:51","Injury Break",183,19
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:49:25","NO_Cards",184,20
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:49:25","Possible Free Kick",185,20
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:49:26","SAFE1",187,20
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:49:26","Restart",188,20
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:49:26","F2",189,20
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:49:26","FK1",190,20
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:49:26","Ball Position",191,20
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:49:27","Restart",192,20
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:49:41","AT2",193,20
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:49:43","DANGER2",194,20
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:49:43","DAT2",195,20
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:49:49","SAFE1",196,20
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:49:49","GK1",197,20
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:49:54","Restart",198,20
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:50:10","POSSIBLE_TI",199,21
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:50:11","TI1",200,21
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:50:12","Restart",201,21
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:50:21","AT1",202,21
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:50:28","SAFE2",203,21
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:50:29","GK2",204,21
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:50:57","Restart",205,21
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:51:04","POSSIBLE_TI",206,22
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:51:04","TI1",207,22
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:51:09","Restart",208,22
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:51:34","AT2",209,22
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:51:37","DANGER2",210,22
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:51:37","DAT2",211,22
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:51:45","POSSIBLE_TI",212,22
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:51:46","TI2",213,22
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:51:48","Restart",214,22
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:51:56","POSSIBLE_TI",215,22
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:51:57","TI2",216,22
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:51:58","Restart",217,22
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:52:02","SAFE2",218,22
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:52:10","AT2",219,23
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:52:20","SAFE2",220,23
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:52:35","AT2",221,23
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:52:35","DANGER2",222,23
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:52:35","DAT2",223,23
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:52:39","Possible Free Kick",224,23
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:52:41","SAFE1",226,23
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:52:41","O2",227,23
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:52:41","FK1",228,23
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:52:42","Ball Position",229,23
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:52:46","Restart",230,23
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:53:04","AT1",231,24
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:53:13","SAFE2",232,24
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:53:13","GK2",233,24
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:53:23","Restart",234,24
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:53:35","AT1",235,24
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:53:35","DANGER1",236,24
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:53:35","DAT1",237,24
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:53:39","GOAL1",238,24
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:53:48","POSSIBLE_CARDS",239,24
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:53:55","YC2",240,24
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:54:09","CONF_YC2",241,25
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:54:22","Scorer",242,25
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:54:29","Scorer",243,25
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:54:37","CONF_GOAL1",244,25
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:54:37","KO2",245,25
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:54:37","SAFE2",246,25
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:54:57","POSSIBLE_TI",247,25
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:54:58","TI1",248,25
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:55:00","Restart",249,25
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:55:17","SAFE1",250,26
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:55:25","AT1",251,26
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:55:40","SAFE2",252,26
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:55:43","AT2",253,26
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:55:48","SAFE1",254,26
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:55:48","AT1",255,26
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:55:55","POSSIBLE_TI",256,26
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:55:56","TI1",257,26
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:56:07","Restart",258,27
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:56:21","SAFE1",259,27
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:56:22","Player_DATA_CONFIRMED",260,27
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:56:22","Scorer",261,27
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:56:22","Player_DATA_CONFIRMED",262,27
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:56:34","AT1",263,27
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:56:35","DANGER1",264,27
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:56:35","DAT1",265,27
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:56:41","POSSIBLE_TI",266,27
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:56:42","TI1",267,27
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:56:48","Restart",268,27
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:56:53","PCR1",269,27
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:56:56","CR1",270,27
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:56:57","Ball Position",271,27
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:57:32","Restart",272,28
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:57:47","PCR1",273,28
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:57:56","SHG1",274,28
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:58:00","CR1",275,28
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:58:01","Ball Position",276,28
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:58:09","Restart",277,29
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:58:15","SHB1",278,29
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:58:20","SAFE2",279,29
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:58:20","GK2",280,29
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:58:33","Restart",281,29
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:58:47","AT2",282,29
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:58:51","DANGER2",283,29
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:58:51","DAT2",284,29
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:58:56","PCR2",285,29
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:59:00","SHB2",286,29
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:59:10","CR2",287,30
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:59:11","Ball Position",288,30
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:59:34","Restart",289,30
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:59:41","SHG2",290,30
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:59:51","SAFE1",291,30
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:59:51","AT1",292,30
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:59:55","POSSIBLE_TI",293,30
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 18:59:55","TI1",294,30
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:00:10","Restart",295,31
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:00:11","DANGER1",296,31
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:00:11","DAT1",297,31
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:00:41","Possible Free Kick",298,31
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:00:44","SAFE2",300,31
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:00:44","O1",301,31
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:00:44","FK2",302,31
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:00:44","Ball Position",303,31
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:01:01","Restart",304,31
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:01:10","POSSIBLE_TI",305,32
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:01:11","TI1",306,32
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:01:12","Restart",307,32
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:01:16","SAFE1",308,32
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:01:27","AT1",309,32
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:01:32","DANGER1",310,32
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:01:32","DAT1",311,32
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:01:35","POSSIBLE_CARDS",312,32
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:01:47","Injury Break",313,32
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:02:28","NO_Cards",314,33
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:02:31","Restart",315,33
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:02:31","Possible Free Kick",316,33
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:02:32","SAFE2",318,33
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:02:32","F1",319,33
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:02:32","FK2",320,33
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:02:32","Ball Position",321,33
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:02:53","Restart",322,33
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:02:59","AT2",323,33
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:03:04","SAFE1",324,34
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:03:05","GK1",325,34
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:03:07","Restart",326,34
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:03:53","AT1",327,34
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:03:55","DANGER1",328,34
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:03:55","DAT1",329,34
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:04:05","SHG1",330,35
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:04:07","SAFE2",331,35
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:04:28","AT1",332,35
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:04:38","DANGER1",333,35
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:04:38","DAT1",334,35
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:04:38","PCR1",335,35
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:04:47","CR1",336,35
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:04:49","Ball Position",337,35
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:05:01","Restart",338,35
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:05:17","SAFE1",339,36
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:05:36","AT1",340,36
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:05:40","DANGER1",341,36
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:05:40","DAT1",342,36
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:05:54","Possible Free Kick",343,36
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:05:56","SAFE2",345,36
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:05:56","O1",346,36
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:05:56","FK2",347,36
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:05:56","Ball Position",348,36
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:06:15","Restart",349,37
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:06:21","AT2",350,37
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:06:29","SAFE1",351,37
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:06:40","AT1",352,37
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:06:53","SAFE1",353,37
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:07:05","AT2",354,38
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:07:21","SAFE1",355,38
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:07:21","AT1",356,38
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:07:21","DANGER1",357,38
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:07:21","DAT1",358,38
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:07:35","SHB1",359,38
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:07:53","Injury Break",360,38
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:10:02","Restart",361,40
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:10:03","SAFE2",362,41
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:10:04","GK2",363,41
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:10:17","Restart",364,41
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:10:29","AT1",365,41
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:10:30","DANGER1",366,41
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:10:30","DAT1",367,41
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:10:35","SHG1",368,41
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:10:58","SHB1",369,41
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:11:02","SAFE2",370,41
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:11:02","GK2",371,41
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:11:16","SUB2",372,42
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:11:25","Restart",373,42
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:11:33","AT2",374,42
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:11:38","SAFE1",375,42
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:11:45","AT1",376,42
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:11:57","DANGER1",377,42
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:11:57","DAT1",378,42
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:12:03","POSSIBLE_TI",379,42
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:12:04","TI2",380,43
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:12:07","Restart",381,43
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:13:00","POSSIBLE_TI",382,43
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:13:01","TI2",383,43
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:13:02","Restart",384,43
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:13:03","SAFE1",385,43
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:13:39","AT1",386,44
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:13:39","DANGER1",387,44
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:13:39","DAT1",388,44
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:13:50","SAFE2",389,44
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:13:51","GK2",390,44
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:13:57","Restart",391,44
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:14:06","AT2",392,45
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:14:16","DANGER2",393,45
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:14:16","DAT2",394,45
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:14:18","BLOCKED2",395,45
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:14:31","SAFE1",396,45
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:14:32","GK1",397,45
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:14:37","Restart",398,45
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:14:43","AT1",399,45
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:15:00","Extra Time",400,45
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:15:11","SAFE2",401,46
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:15:11","AT2",402,46
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:15:14","DANGER2",403,46
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:15:14","DAT2",404,46
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:15:32","SHG2",405,46
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:15:47","POSSIBLE_TI",406,46
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:15:49","TI2",407,46
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:15:51","Restart",408,46
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:16:00","POSSIBLE_TI",409,46
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:16:02","TI2",410,46
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:16:03","Restart",411,47
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:16:13","POSSIBLE_TI",412,47
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:16:14","TI2",413,47
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:16:16","Restart",414,47
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:16:27","Possible Free Kick",415,47
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:16:28","SAFE1",417,47
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:16:28","F2",418,47
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:16:28","FK1",419,47
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:16:28","Ball Position",420,47
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:16:29","Restart",421,47
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:16:41","AT1",422,47
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:16:49","POSSIBLE_TI",423,47
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:16:50","TI2",424,47
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:17:04","Restart",425,48
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:17:16","SAFE1",426,48
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:17:16","AT1",427,48
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:17:18","DANGER1",428,48
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:17:18","DAT1",429,48
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:17:42","SAFE1",430,48
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:17:43","Player_DATA_CONFIRMED",431,48
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:18:07","AT2",432,49
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:18:08","DANGER2",433,49
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:18:08","DAT2",434,49
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:18:14","SHG2",435,49
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:18:22","SAFE1",436,49
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:18:46","AT1",437,49
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:18:53","POSSIBLE_TI",438,49
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:18:56","TI2",439,49
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:18:58","Restart",440,49
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:19:04","POSSIBLE_TI",441,50
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:19:09","TI2",442,50
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:19:23","Restart",443,50
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:19:37","SAFE2",444,50
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:19:37","AT2",445,50
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:19:47","SAFE1",446,50
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:19:47","AT1",447,50
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:19:48","DANGER1",448,50
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:19:48","DAT1",449,50
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:19:52","SHG1",450,50
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:20:02","BLOCKED1",451,50
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:20:14","Stop RT1",452,51
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:20:21","CONF_PERIOD_SCORE",453,45
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:34:56","Players are coming out",454,45
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:35:39","Game about to start",455,45
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:36:09","Start RT2 Team 1",456,46
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:36:38","AT1",457,46
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:36:41","POSSIBLE_TI",458,46
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:36:42","TI2",459,46
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:36:54","Restart",460,46
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:37:08","DANGER1",461,46
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:37:08","DAT1",462,46
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:37:16","POSSIBLE_TI",463,47
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:37:16","TI2",464,47
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:37:20","Restart",465,47
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:37:34","SAFE2",466,47
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:37:34","AT2",467,47
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:37:46","SAFE1",468,47
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:37:46","GK1",469,47
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:37:47","Restart",470,47
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:38:38","AT1",471,48
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:38:44","SAFE1",472,48
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:38:48","AT2",473,48
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:38:50","DANGER2",474,48
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:38:50","DAT2",475,48
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:39:14","SHB2",476,49
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:39:17","SAFE1",477,49
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:39:17","GK1",478,49
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:39:25","Restart",479,49
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:39:44","AT1",480,49
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:39:46","DANGER1",481,49
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:39:46","DAT1",482,49
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:40:10","PCR1",483,50
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:40:14","SHG1",484,50
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:40:26","CR1",485,50
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:40:27","Ball Position",486,50
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:40:39","Restart",487,50
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:40:54","POSSIBLE_TI",488,50
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:40:55","TI1",489,50
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:40:56","Restart",490,50
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:41:10","SAFE2",491,51
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:41:10","GK2",492,51
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:41:26","Restart",493,51
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:41:37","SAFE1",494,51
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:41:48","SAFE2",495,51
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:41:56","AT1",496,51
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:41:59","DANGER1",497,51
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:41:59","DAT1",498,51
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:42:21","SAFE1",499,52
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:42:30","POSSIBLE_TI",500,52
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:42:32","TI1",501,52
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:42:38","Restart",502,52
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:43:01","POSSIBLE_TI",503,52
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:43:02","TI2",504,52
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:43:05","Restart",505,52
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:43:16","AT1",506,53
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:43:20","SAFE2",507,53
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:43:22","AT2",508,53
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:43:30","DANGER2",509,53
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:43:30","DAT2",510,53
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:43:33","SAFE1",511,53
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:43:37","AT1",512,53
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:43:39","DANGER1",513,53
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:43:39","DAT1",514,53
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:44:07","SAFE2",515,53
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:44:18","AT2",516,54
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:44:24","Possible Free Kick",517,54
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:44:26","SAFE1",519,54
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:44:26","F2",520,54
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:44:26","FK1",521,54
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:44:26","Ball Position",522,54
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:44:27","Restart",523,54
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:45:03","SAFE2",524,54
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:45:13","AT2",525,55
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:45:14","DANGER2",526,55
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:45:14","DAT2",527,55
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:45:24","POSSIBLE_CARDS",528,55
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:45:46","Injury Break",529,55
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:45:49","Injury Break",530,55
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:46:31","YC2",531,56
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:46:32","CONF_YC2",532,56
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:46:36","Scorer",533,56
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:46:53","Player_DATA_CONFIRMED",534,56
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:47:00","Restart",535,56
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:47:01","Possible Free Kick",536,56
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:47:01","SAFE1",538,56
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:47:01","F2",539,56
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:47:01","FK1",540,56
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:47:02","Ball Position",541,56
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:47:04","Restart",542,56
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:47:25","AT1",543,57
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:47:40","POSSIBLE_TI",544,57
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:47:42","TI1",545,57
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:47:50","Restart",546,57
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:47:59","POSSIBLE_TI",547,57
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:48:00","TI1",548,57
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:48:02","Restart",549,57
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:48:09","POSSIBLE_TI",550,57
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:48:14","TI2",551,58
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:48:18","SAFE2",552,58
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:48:19","Restart",553,58
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:48:19","AT2",554,58
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:48:46","POSSIBLE_TI",555,58
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:48:47","TI2",556,58
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:48:49","Restart",557,58
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:49:03","DANGER2",558,58
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:49:03","DAT2",559,58
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:50:09","POSSIBLE_TI",560,60
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:50:11","TI1",561,60
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:50:12","Restart",562,60
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:50:21","SAFE2",563,60
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:50:22","GK2",564,60
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:50:42","Restart",565,60
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:50:51","POSSIBLE_TI",566,60
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:50:52","TI1",567,60
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:51:04","Restart",568,60
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:51:07","AT1",569,60
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:51:10","POSSIBLE_TI",570,61
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:51:11","TI1",571,61
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:51:14","Restart",572,61
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:51:22","SAFE1",573,61
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:51:37","AT2",574,61
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:51:43","DANGER2",575,61
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:51:43","DAT2",576,61
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:51:46","PCR2",577,61
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:51:49","SHG2",578,61
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:51:55","CR2",579,61
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:51:56","Ball Position",580,61
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:52:22","Restart",581,62
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:52:27","PCR2",582,62
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:52:31","CR2",583,62
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:52:32","Ball Position",584,62
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:52:42","Restart",585,62
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:52:51","SAFE1",586,62
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:52:51","AT1",587,62
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:52:54","DANGER1",588,62
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:52:54","DAT1",589,62
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:53:01","POSSIBLE_TI",590,62
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:53:02","TI1",591,62
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:53:11","Restart",592,63
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:53:29","POSSIBLE_TI",593,63
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:53:29","TI1",594,63
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:53:37","Restart",595,63
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:53:38","SAFE1",596,63
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:53:47","AT2",597,63
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:53:49","DANGER2",598,63
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:53:49","DAT2",599,63
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:53:55","PCR2",600,63
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:53:58","SHG2",601,63
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:54:10","CR2",602,64
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:54:18","Ball Position",603,64
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:54:38","Restart",604,64
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:54:41","SHW2",605,64
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:54:48","POSSIBLE_TI",606,64
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:54:54","TI1",607,64
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:54:55","Restart",608,64
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:55:29","SAFE1",609,65
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:55:29","AT1",610,65
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:55:46","SAFE2",611,65
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:55:52","AT2",612,65
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:56:00","POSSIBLE_TI",613,65
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:56:01","TI2",614,65
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:56:02","Restart",615,65
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:56:20","SUB1",616,66
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:56:45","POSSIBLE_TI",617,66
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:56:46","TI2",618,66
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:56:49","Restart",619,66
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:56:51","Player_DATA_CONFIRMED",620,66
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:56:59","POSSIBLE_TI",621,66
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:57:00","TI1",622,66
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:57:01","Restart",623,66
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:57:03","DANGER2",624,66
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:57:03","DAT2",625,66
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:57:15","SAFE1",626,67
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:57:16","AT1",627,67
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:57:20","POSSIBLE_TI",628,67
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:57:21","TI1",629,67
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:57:31","Restart",630,67
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:57:55","DANGER1",631,67
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:57:55","DAT1",632,67
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:58:11","SAFE2",633,68
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:58:11","GK2",634,68
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:58:22","Restart",635,68
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:58:26","AT2",636,68
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:58:54","SAFE1",637,68
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:58:55","AT1",638,68
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:59:04","Possible Free Kick",639,68
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:59:07","SAFE2",641,68
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:59:07","O1",642,68
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:59:07","FK2",643,68
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:59:08","Ball Position",644,68
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:59:16","Restart",645,69
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:59:26","AT2",646,69
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:59:33","DANGER2",647,69
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:59:33","DAT2",648,69
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:59:35","PCR2",649,69
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 19:59:55","Injury Break",650,69
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:00:03","Injury Break",651,69
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:00:19","Restart",652,70
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:00:20","CR2",653,70
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:00:21","Ball Position",654,70
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:01:30","Restart",655,71
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:01:43","POSSIBLE_TI",656,71
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:01:44","TI1",657,71
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:02:09","SUB2",658,71
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:02:20","Restart",659,72
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:02:31","SAFE1",660,72
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:02:31","AT1",661,72
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:02:41","Possible Free Kick",662,72
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:02:42","SAFE2",664,72
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:02:42","F1",665,72
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:02:42","FK2",666,72
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:02:42","Ball Position",667,72
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:02:43","Restart",668,72
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:02:55","AT2",669,72
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:02:59","SAFE2",670,72
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:03:13","AT2",671,73
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:03:16","DANGER2",672,73
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:03:16","DAT2",673,73
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:03:21","Player_DATA_CONFIRMED",674,73
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:03:39","SAFE1",675,73
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:03:45","AT1",676,73
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:03:47","DANGER1",677,73
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:03:47","DAT1",678,73
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:03:55","PCR1",679,73
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:04:00","SHB1",680,73
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:04:06","CR1",681,73
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:04:07","Ball Position",682,73
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:04:18","SUB1",683,74
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:04:29","Player_DATA_CONFIRMED",684,74
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:04:36","Restart",685,74
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:04:56","POSSIBLE_TI",686,74
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:04:57","TI1",687,74
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:04:58","Restart",688,74
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:05:21","Possible Free Kick",689,75
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:05:22","SAFE2",691,75
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:05:22","F1",692,75
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:05:22","FK2",693,75
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:05:22","Ball Position",694,75
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:05:37","Restart",695,75
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:05:44","SAFE1",696,75
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:06:18","AT1",697,76
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:06:21","DANGER1",698,76
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:06:21","DAT1",699,76
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:06:35","SAFE2",700,76
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:06:35","AT2",701,76
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:06:37","DANGER2",702,76
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:06:37","DAT2",703,76
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:06:46","SHB2",704,76
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:06:48","SAFE1",705,76
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:06:49","GK1",706,76
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:06:49","Restart",707,76
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:06:53","AT1",708,76
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:06:58","DANGER1",709,76
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:06:58","DAT1",710,76
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:07:47","POSSIBLE_TI",711,77
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:07:47","TI1",712,77
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:07:52","Restart",713,77
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:08:11","SAFE2",714,78
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:08:12","GK2",715,78
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:08:29","Restart",716,78
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:08:38","AT1",717,78
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:08:41","DANGER1",718,78
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:08:41","DAT1",719,78
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:09:00","SAFE2",720,78
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:09:00","AT2",721,78
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:09:03","DANGER2",722,78
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:09:03","DAT2",723,78
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:09:24","POSSIBLE_TI",724,79
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:09:28","TI2",725,79
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:09:36","Restart",726,79
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:09:45","POSSIBLE_TI",727,79
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:09:46","TI1",728,79
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:09:46","Restart",729,79
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:09:52","SAFE1",730,79
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:09:55","AT1",731,79
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:10:02","DANGER1",732,79
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:10:02","DAT1",733,79
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:10:09","GOAL1",734,79
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:12:46","POSSIBLE_CARDS",735,82
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:12:54","PRC",736,82
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:13:51","Assist",737,83
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:14:05","YRC2",738,83
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:14:07","CONF_YC_RC2",739,83
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:14:09","Scorer",740,84
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:14:13","CONF_GOAL1",741,84
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:14:13","Scorer",742,84
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:14:13","KO2",743,84
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:14:13","SAFE2",744,84
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:14:21","Scorer",745,84
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:14:21","Player_DATA_CONFIRMED",746,84
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:14:40","SUB1",747,84
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:14:50","System Message",748,84
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:14:51","SUB_UPDATE",749,84
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:14:51","Player_DATA_CONFIRMED",750,84
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:14:58","CYC/RC2",751,84
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:15:00","POSSIBLE_CARDS",752,84
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:15:01","YC2",753,84
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:15:11","System Message",754,85
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:15:24","Start score update",755,85
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:15:24","Statistic confirmation",756,85
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:15:24","Score update finished",757,85
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:15:48","Possible Free Kick",758,85
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:15:49","SAFE2",760,85
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:15:49","Restart",761,85
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:15:49","F1",762,85
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:15:49","FK2",763,85
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:15:49","Ball Position",764,85
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:16:06","SUB2",765,85
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:16:09","NO_Cards",766,85
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:16:11","Restart",767,86
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:16:14","AT2",768,86
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:16:14","DANGER2",769,86
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:16:14","DAT2",770,86
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:16:27","POSSIBLE_CARDS",771,86
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:16:51","Player_DATA_CONFIRMED",772,86
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:16:55","System Message",773,86
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:16:59","NO_Cards",774,86
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:17:02","Possible Free Kick",775,86
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:17:03","F2",777,86
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:17:03","FK1",778,86
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:17:03","DANGER1",779,86
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:17:03","DFK1",780,86
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:17:03","Ball Position",781,86
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:17:05","POSSIBLE_CARDS",782,86
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:17:06","YC1",783,86
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:17:06","Restart",784,86
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:17:07","CONF_YC1",785,86
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:17:12","POSSIBLE_TI",786,87
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:17:12","TI1",787,87
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:17:21","System Message",788,87
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:17:23","Start score update",789,87
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:17:23","Statistic confirmation",790,87
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:17:23","Score update finished",791,87
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:17:26","System Message",792,87
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:17:29","Restart",793,87
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:17:29","AT1",794,87
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:17:37","AT2",795,87
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:17:37","DANGER2",796,87
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:17:37","DAT2",797,87
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:17:57","POSSIBLE_TI",798,87
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:18:00","TI1",799,87
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:18:14","Restart",800,88
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:18:25","SAFE1",801,88
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:18:25","AT1",802,88
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:18:29","DANGER1",803,88
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:18:29","DAT1",804,88
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:18:38","SAFE2",805,88
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:18:39","GK2",806,88
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:18:42","Restart",807,88
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:18:54","AT1",808,88
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:18:58","DANGER1",809,88
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:18:58","DAT1",810,88
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:19:11","SAFE2",811,89
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:19:11","GK2",812,89
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:19:15","CONF_YC2",813,89
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:19:18","Restart",814,89
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:19:26","AT2",815,89
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:19:27","DANGER2",816,89
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:19:27","DAT2",817,89
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:19:37","SAFE1",818,89
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:19:38","AT1",819,89
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:19:38","DANGER1",820,89
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:19:38","DAT1",821,89
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:19:49","SAFE2",822,89
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:19:52","AT2",823,89
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:19:56","Time Correction",824,89
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:20:02","DANGER2",825,89
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:20:02","DAT2",826,89
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:20:08","SAFE1",827,89
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:20:10","AT1",828,90
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:20:17","SAFE2",829,90
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:20:17","AT2",830,90
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:20:19","DANGER2",831,90
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:20:19","DAT2",832,90
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:20:26","PCR2",833,90
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:20:27","SHG2",834,90
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:20:41","CR2",835,90
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:20:42","Ball Position",836,90
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:20:59","Extra Time",837,90
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:21:01","Restart",838,90
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:21:09","Time Correction",839,91
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:21:21","SAFE1",840,91
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:21:22","AT1",841,91
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:21:24","DANGER1",842,91
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:21:24","DAT1",843,91
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:21:24","Scorer",844,91
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:21:24","Player_DATA_CONFIRMED",845,91
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:21:32","POSSIBLE_CARDS",846,91
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:21:33","PRC",847,91
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:21:34","Scorer",848,91
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:21:35","Player_DATA_CONFIRMED",849,91
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:21:53","YC1",850,91
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:21:54","CONF_YC1",851,91
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:22:03","YC2",852,91
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:22:05","CONF_YC2",853,91
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:22:17","No RC",854,92
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:22:21","Injury Break",855,92
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:22:24","Injury Break",856,92
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:23:11","Restart",857,93
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:23:11","Possible Free Kick",858,93
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:23:13","SAFE2",860,93
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:23:13","F1",861,93
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:23:13","FK2",862,93
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:23:13","Ball Position",863,93
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:23:19","Restart",864,93
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:23:20","AT2",865,93
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:23:20","DANGER2",866,93
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:23:20","DAT2",867,93
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:23:28","SAFE1",868,93
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:23:29","AT1",869,93
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:23:32","DANGER1",870,93
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:23:32","DAT1",871,93
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:23:38","SAFE2",872,93
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:23:38","GK2",873,93
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:23:46","Restart",874,93
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:23:54","POSSIBLE_TI",875,93
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:23:55","TI2",876,93
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:23:57","Restart",877,93
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:23:57","AT2",878,93
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:24:06","POSSIBLE_TI",879,93
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:24:06","TI2",880,93
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:24:07","Restart",881,93
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:24:08","DANGER2",882,93
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:24:08","DAT2",883,93
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:24:31","POSSIBLE_TI",884,94
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:24:31","TI1",885,94
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:24:33","Restart",886,94
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:24:48","Possible Free Kick",887,94
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:24:49","SAFE1",889,94
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:24:49","F2",890,94
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:24:49","FK1",891,94
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:24:49","Ball Position",892,94
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:24:50","Restart",893,94
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:24:56","Possible Free Kick",894,94
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:25:02","F2",896,94
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:25:02","FK1",897,94
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:25:02","Ball Position",898,94
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:25:18","Restart",899,95
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:25:19","AT1",900,95
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:25:19","DANGER1",901,95
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:25:19","DAT1",902,95
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:25:29","Scorer",903,95
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:25:30","SAFE2",904,95
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:25:30","Player_DATA_CONFIRMED",905,95
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:25:30","GK2",906,95
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:25:31","Restart",907,95
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:25:36","Scorer",908,95
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:25:36","Player_DATA_CONFIRMED",909,95
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:25:52","POSSIBLE_TI",910,95
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:25:52","TI1",911,95
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:25:53","Restart",912,95
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:25:54","AT1",913,95
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:26:01","SAFE2",914,95
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:26:01","AT2",915,95
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:26:03","DANGER2",916,95
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:26:03","DAT2",917,95
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:26:10","PCR2",918,96
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:26:20","CR2",919,96
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:26:22","Ball Position",920,96
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:26:36","Restart",921,96
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:26:49","POSSIBLE_TI",922,96
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:26:50","TI1",923,96
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:26:51","Restart",924,96
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:26:52","AT1",925,96
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:26:52","DANGER1",926,96
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:26:52","DAT1",927,96
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:27:01","Possible Free Kick",928,96
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:27:13","SAFE2",930,97
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:27:13","O1",931,97
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:27:13","FK2",932,97
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:27:13","Ball Position",933,97
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:27:18","AT2",934,97
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:27:18","DANGER2",935,97
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:27:18","DAT2",936,97
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:27:23","Restart",937,97
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:27:31","Stop RT2",938,97
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:27:31","Stop Game",939,97
+1105987,"AS Saint Etienne","Nimes Olympique","04/01/2019 20:27:39","CONF_PERIOD_SCORE",940,96

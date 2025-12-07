@@ -1,0 +1,919 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 19:01:34","Scout in Stadion",0,0
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 19:01:39","Transmission Online",1,0
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 19:06:17","Lineup changed",2,0
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 19:50:43","GCC",3,0
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 19:58:11","Players are coming out",4,0
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 19:58:25","Players lined up",5,0
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 19:58:51","Shake hands",6,0
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 19:59:36","Jersey Changed",7,0
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 19:59:36","Jersey Changed",8,0
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 19:59:37","Flip coin",9,0
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:01:02","System Message",10,0
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:01:28","Game about to start",11,0
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:02:03","Start RT1 Team 2",12,1
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:02:06","AT2",13,1
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:02:15","SAFE1",14,1
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:02:15","AT1",15,1
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:02:17","POSSIBLE_CARDS",16,1
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:02:23","Possible Free Kick",17,1
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:02:41","F2",19,1
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:02:41","FK1",20,1
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:02:41","DANGER1",21,1
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:02:41","DFK1",22,1
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:02:41","Ball Position",23,1
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:02:46","NO_Cards",24,1
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:02:47","Restart",25,1
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:02:56","SAFE2",26,1
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:02:58","AT2",27,1
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:03:01","DANGER2",28,1
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:03:01","DAT2",29,1
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:03:26","SAFE1",30,2
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:03:55","AT1",31,2
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:04:17","SAFE2",32,3
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:04:24","AT2",33,3
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:04:31","SAFE1",34,3
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:04:40","AT1",35,3
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:04:58","DANGER1",36,3
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:04:58","DAT1",37,3
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:05:05","SHB1",38,4
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:05:29","POSSIBLE_CARDS",39,4
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:05:37","YC1",40,4
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:06:15","CONF_YC1",41,5
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:06:20","Scorer",42,5
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:06:22","Possible Free Kick",43,5
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:06:24","SAFE2",45,5
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:06:24","F1",46,5
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:06:24","FK2",47,5
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:06:24","Ball Position",48,5
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:06:26","Restart",49,5
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:06:26","AT2",50,5
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:06:28","DANGER2",51,5
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:06:28","DAT2",52,5
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:06:36","POSSIBLE_CARDS",53,5
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:06:39","Player_DATA_CONFIRMED",54,5
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:06:56","NO_Cards",55,5
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:06:57","Possible Free Kick",56,5
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:07:03","SAFE2",58,5
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:07:03","F1",59,5
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:07:03","FK2",60,5
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:07:03","Ball Position",61,5
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:07:03","Restart",62,6
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:07:04","AT2",63,6
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:07:10","DANGER2",64,6
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:07:10","DAT2",65,6
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:07:17","POSSIBLE_TI",66,6
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:07:18","TI2",67,6
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:07:22","Restart",68,6
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:07:46","PCR2",69,6
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:07:59","CR2",70,6
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:08:00","Ball Position",71,6
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:08:00","Restart",72,6
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:08:06","PCR2",73,7
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:08:12","NCR2",74,7
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:08:13","SAFE1",75,7
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:08:13","GK1",76,7
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:08:17","Restart",77,7
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:09:13","AT1",78,8
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:09:56","SAFE2",79,8
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:09:58","AT2",80,8
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:10:00","POSSIBLE_TI",81,8
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:10:01","TI1",82,8
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:10:03","Restart",83,9
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:10:09","SAFE1",84,9
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:10:28","Possible Free Kick",85,9
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:10:29","F2",87,9
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:10:29","FK1",88,9
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:10:30","Ball Position",89,9
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:10:30","Restart",90,9
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:10:36","AT1",91,9
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:10:45","POSSIBLE_CARDS",92,9
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:10:51","Possible Free Kick",93,9
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:11:06","F2",95,10
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:11:06","FK1",96,10
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:11:06","DANGER1",97,10
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:11:06","DFK1",98,10
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:11:06","Ball Position",99,10
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:11:28","NO_Cards",100,10
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:11:29","Restart",101,10
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:12:09","SAFE2",102,11
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:12:13","AT2",103,11
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:12:15","DANGER2",104,11
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:12:15","DAT2",105,11
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:12:28","SHG2",106,11
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:12:35","SHG2",107,11
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:12:38","GOAL2",108,11
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:12:55","Scorer",109,11
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:13:30","CONF_GOAL2",110,12
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:13:36","KO1",111,12
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:13:36","SAFE1",112,12
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:13:43","AT1",113,12
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:13:50","DANGER1",114,12
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:13:50","DAT1",115,12
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:14:06","POSSIBLE_TI",116,13
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:14:07","TI1",117,13
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:14:09","Restart",118,13
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:14:15","Player_DATA_CONFIRMED",119,13
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:14:17","POSSIBLE_CARDS",120,13
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:14:27","POSSIBLE_TI",121,13
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:14:28","TI2",122,13
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:14:31","NO_Cards",123,13
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:14:43","Restart",124,13
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:15:00","POSSIBLE_TI",125,13
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:15:00","TI2",126,13
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:15:07","Assist",127,14
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:15:12","Restart",128,14
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:15:13","SAFE2",129,14
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:15:15","AT2",130,14
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:15:17","SAFE1",131,14
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:15:18","AT1",132,14
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:15:20","DANGER1",133,14
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:15:20","DAT1",134,14
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:15:29","SAFE2",135,14
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:15:31","AT2",136,14
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:15:34","SAFE1",137,14
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:15:37","AT1",138,14
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:15:45","POSSIBLE_TI",139,14
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:15:47","TI1",140,14
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:15:49","Restart",141,14
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:16:05","Possible Free Kick",142,15
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:16:07","F2",144,15
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:16:07","FK1",145,15
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:16:07","DANGER1",146,15
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:16:07","DFK1",147,15
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:16:07","Ball Position",148,15
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:16:08","Restart",149,15
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:16:26","SAFE2",150,15
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:16:27","AT2",151,15
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:16:40","SAFE1",152,15
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:16:52","POSSIBLE_TI",153,15
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:16:53","TI2",154,15
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:16:55","POSSIBLE_CARDS",155,15
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:17:12","NO_Cards",156,16
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:17:12","Restart",157,16
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:17:33","POSSIBLE_TI",158,16
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:17:34","TI1",159,16
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:17:36","Restart",160,16
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:17:53","AT1",161,16
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:18:11","POSSIBLE_TI",162,17
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:18:12","TI2",163,17
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:18:24","Restart",164,17
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:18:27","POSSIBLE_TI",165,17
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:18:28","TI2",166,17
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:18:34","Restart",167,17
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:19:09","DANGER1",168,18
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:19:09","DAT1",169,18
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:19:25","POSSIBLE_TI",170,18
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:19:26","TI1",171,18
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:19:28","Restart",172,18
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:19:46","SAFE2",173,18
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:19:57","AT2",174,18
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:20:04","POSSIBLE_TI",175,19
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:20:06","TI1",176,19
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:20:10","Restart",177,19
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:20:22","Possible Free Kick",178,19
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:20:24","SAFE1",180,19
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:20:24","F2",181,19
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:20:24","FK1",182,19
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:20:24","Ball Position",183,19
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:20:32","Restart",184,19
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:20:39","AT1",185,19
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:20:42","POSSIBLE_TI",186,19
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:20:43","TI2",187,19
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:21:03","Restart",188,19
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:21:12","SAFE2",189,20
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:21:13","POSSIBLE_TI",190,20
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:21:13","TI2",191,20
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:21:22","Restart",192,20
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:21:22","AT2",193,20
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:21:24","DANGER2",194,20
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:21:24","DAT2",195,20
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:21:32","SAFE1",196,20
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:21:53","AT1",197,20
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:21:56","DANGER1",198,20
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:21:56","DAT1",199,20
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:22:05","POSSIBLE_TI",200,21
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:22:06","TI1",201,21
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:22:11","Restart",202,21
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:22:19","POSSIBLE_CARDS",203,21
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:22:22","Possible Free Kick",204,21
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:22:43","F2",206,21
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:22:43","FK1",207,21
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:22:43","DFK1",208,21
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:22:43","Ball Position",209,21
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:23:11","NO_Cards",210,22
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:23:11","Restart",211,22
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:23:34","PCR1",212,22
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:23:37","SHB1",213,22
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:23:42","NCR1",214,22
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:23:42","SAFE2",215,22
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:23:43","GK2",216,22
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:23:57","Restart",217,22
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:23:59","AT2",218,22
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:24:14","Possible Free Kick",219,23
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:24:20","F1",221,23
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:24:20","FK2",222,23
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:24:20","DANGER2",223,23
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:24:20","DFK2",224,23
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:24:20","Ball Position",225,23
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:24:33","Restart",226,23
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:24:39","Possible Free Kick",227,23
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:24:45","SAFE1",229,23
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:24:45","O2",230,23
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:24:45","FK1",231,23
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:24:45","Ball Position",232,23
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:24:51","Restart",233,23
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:25:04","AT1",234,24
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:25:06","DANGER1",235,24
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:25:06","DAT1",236,24
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:25:09","SAFE2",237,24
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:25:20","AT2",238,24
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:25:25","POSSIBLE_TI",239,24
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:25:26","TI2",240,24
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:25:34","Restart",241,24
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:25:39","DANGER2",242,24
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:25:39","DAT2",243,24
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:26:04","Possible Free Kick",244,25
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:26:05","SAFE1",246,25
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:26:05","F2",247,25
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:26:05","FK1",248,25
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:26:05","Ball Position",249,25
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:26:06","Restart",250,25
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:26:09","AT1",251,25
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:26:17","DANGER1",252,25
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:26:17","DAT1",253,25
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:26:26","PCR1",254,25
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:26:30","NCR1",255,25
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:26:31","POSSIBLE_TI",256,25
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:26:32","TI1",257,25
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:26:33","Restart",258,25
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:27:18","SHB1",259,26
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:27:57","POSSIBLE_TI",260,26
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:27:58","TI1",261,26
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:28:00","Restart",262,26
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:28:42","SAFE2",263,27
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:28:45","AT2",264,27
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:28:51","DANGER2",265,27
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:28:51","DAT2",266,27
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:29:05","SAFE1",267,28
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:29:07","AT1",268,28
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:29:16","POSSIBLE_TI",269,28
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:29:16","TI1",270,28
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:29:19","Restart",271,28
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:29:29","DANGER1",272,28
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:29:29","DAT1",273,28
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:29:44","SAFE2",274,28
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:29:45","GK2",275,28
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:30:05","Restart",276,29
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:30:08","AT2",277,29
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:30:13","DANGER2",278,29
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:30:13","DAT2",279,29
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:30:18","SHG2",280,29
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:30:21","PCR2",281,29
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:30:25","SHG2",282,29
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:30:33","CR2",283,29
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:30:43","Ball Position",284,29
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:30:44","Restart",285,29
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:30:49","SAFE1",286,29
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:30:53","AT1",287,29
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:30:58","SAFE2",288,29
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:30:59","AT2",289,29
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:31:03","DANGER2",290,30
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:31:03","DAT2",291,30
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:31:09","SHG2",292,30
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:31:16","SAFE1",293,30
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:31:20","AT1",294,30
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:32:14","DANGER1",295,31
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:32:14","DAT1",296,31
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:32:21","SAFE2",297,31
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:32:24","AT2",298,31
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:32:31","SAFE1",299,31
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:32:43","AT1",300,31
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:32:57","POSSIBLE_CARDS",301,31
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:33:02","Possible Free Kick",302,31
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:33:03","F2",304,32
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:33:03","FK1",305,32
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:33:03","DANGER1",306,32
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:33:03","DFK1",307,32
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:33:03","Ball Position",308,32
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:33:33","NO_Cards",309,32
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:33:34","Restart",310,32
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:33:39","PCR1",311,32
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:33:43","SHB1",312,32
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:34:00","NCR1",313,32
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:34:01","SAFE2",314,32
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:34:01","GK2",315,32
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:34:08","Restart",316,33
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:34:09","AT2",317,33
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:34:14","POSSIBLE_TI",318,33
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:34:16","TI2",319,33
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:34:24","Restart",320,33
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:34:28","POSSIBLE_TI",321,33
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:34:29","TI1",322,33
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:34:40","Restart",323,33
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:34:51","SAFE1",324,33
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:34:52","AT1",325,33
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:34:56","POSSIBLE_TI",326,33
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:34:56","TI1",327,33
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:35:03","Restart",328,33
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:35:08","DANGER1",329,34
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:35:08","DAT1",330,34
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:35:38","PCR1",331,34
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:35:42","SHB1",332,34
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:35:49","NCR1",333,34
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:35:50","SAFE2",334,34
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:35:50","GK2",335,34
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:36:04","Restart",336,35
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:36:06","AT2",337,35
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:36:09","SAFE1",338,35
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:36:11","AT1",339,35
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:36:17","POSSIBLE_CARDS",340,35
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:36:26","YC2",341,35
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:36:36","CONF_YC2",342,35
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:36:41","Scorer",343,35
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:36:42","Possible Free Kick",344,35
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:36:45","F2",346,35
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:36:45","FK1",347,35
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:36:46","DANGER1",348,35
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:36:46","DFK1",349,35
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:36:46","Ball Position",350,35
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:37:01","Restart",351,35
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:37:07","Player_DATA_CONFIRMED",352,36
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:37:22","SAFE2",353,36
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:37:24","AT2",354,36
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:37:28","DANGER2",355,36
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:37:28","DAT2",356,36
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:37:41","SAFE1",357,36
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:37:48","AT1",358,36
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:38:00","DANGER1",359,36
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:38:00","DAT1",360,36
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:38:32","PCR1",361,37
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:38:57","CR1",362,37
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:39:01","Ball Position",363,37
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:39:03","Injury Break",364,37
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:40:00","Restart",365,38
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:40:09","SAFE2",366,39
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:40:12","AT2",367,39
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:40:15","POSSIBLE_TI",368,39
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:40:16","TI1",369,39
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:40:17","Restart",370,39
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:40:19","SAFE1",371,39
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:40:21","AT1",372,39
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:40:30","DANGER1",373,39
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:40:30","DAT1",374,39
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:40:36","POSSIBLE_CARDS",375,39
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:40:43","YC2",376,39
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:40:58","CONF_YC2",377,39
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:41:20","Scorer",378,40
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:41:22","Possible Free Kick",379,40
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:41:25","Scorer",381,40
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:41:25","Player_DATA_CONFIRMED",382,40
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:41:36","F2",383,40
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:41:36","FK1",384,40
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:41:36","DFK1",385,40
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:41:36","Ball Position",386,40
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:42:53","Restart",387,41
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:43:00","SHB1",388,41
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:43:39","POSSIBLE_TI",389,42
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:43:39","TI1",390,42
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:43:41","Restart",391,42
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:43:55","POSSIBLE_TI",392,42
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:43:56","TI1",393,42
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:43:58","Restart",394,42
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:45:07","POSSIBLE_CARDS",395,44
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:45:13","Possible Free Kick",396,44
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:45:22","F2",398,44
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:45:22","FK1",399,44
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:45:22","DFK1",400,44
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:45:22","Ball Position",401,44
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:45:45","NO_Cards",402,44
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:45:45","Restart",403,44
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:45:53","PCR1",404,44
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:46:03","CR1",405,44
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:46:09","Ball Position",406,45
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:46:11","Restart",407,45
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:46:16","PCR1",408,45
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:46:21","SHG1",409,45
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:46:34","CR1",410,45
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:46:36","Ball Position",411,45
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:46:38","Restart",412,45
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:46:43","PCR1",413,45
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:46:54","NCR1",414,45
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:46:55","SAFE2",415,45
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:46:56","GK2",416,45
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:47:07","Restart",417,46
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:47:08","AT2",418,46
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:47:21","SAFE1",419,46
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:47:23","AT1",420,46
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:47:25","DANGER1",421,46
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:47:25","DAT1",422,46
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:47:32","POSSIBLE_TI",423,46
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:47:32","TI1",424,46
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:47:41","Restart",425,46
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:47:47","Extra Time",426,46
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:47:48","POSSIBLE_TI",427,46
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:47:49","TI1",428,46
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:47:52","Restart",429,46
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:48:00","SAFE2",430,46
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:48:00","AT2",431,46
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:48:03","DANGER2",432,46
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:48:03","DAT2",433,46
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:48:18","Stop RT1",434,46
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 20:48:26","CONF_PERIOD_SCORE",435,45
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:02:02","Players are coming out",436,45
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:04:20","SUB2",437,45
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:04:38","Player_DATA_CONFIRMED",438,45
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:04:43","Game about to start",439,45
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:05:01","Start RT2 Team 1",440,46
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:05:22","AT1",441,46
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:05:32","POSSIBLE_CARDS",442,46
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:05:36","Possible Free Kick",443,46
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:05:39","F2",445,46
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:05:39","FK1",446,46
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:05:39","DANGER1",447,46
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:05:39","DFK1",448,46
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:05:39","Ball Position",449,46
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:05:39","NO_Cards",450,46
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:05:40","Restart",451,46
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:06:20","POSSIBLE_CARDS",452,47
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:06:25","Possible Free Kick",453,47
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:06:33","F2",455,47
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:06:33","FK1",456,47
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:06:33","DFK1",457,47
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:06:33","Ball Position",458,47
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:06:53","NO_Cards",459,47
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:06:53","Restart",460,47
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:07:14","POSSIBLE_TI",461,48
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:07:15","TI2",462,48
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:07:26","Restart",463,48
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:08:19","Possible Free Kick",464,49
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:08:32","SAFE2",466,49
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:08:32","O1",467,49
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:08:32","FK2",468,49
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:08:32","Ball Position",469,49
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:08:37","Restart",470,49
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:08:40","AT2",471,49
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:08:45","DANGER2",472,49
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:08:45","DAT2",473,49
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:08:52","SAFE1",474,49
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:09:04","AT1",475,50
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:09:21","POSSIBLE_TI",476,50
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:09:23","TI1",477,50
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:09:25","Restart",478,50
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:09:51","DANGER1",479,50
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:09:51","DAT1",480,50
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:10:16","POSSIBLE_TI",481,51
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:10:21","TI1",482,51
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:10:21","Restart",483,51
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:10:28","Possible Free Kick",484,51
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:10:35","SAFE2",486,51
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:10:35","F1",487,51
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:10:35","FK2",488,51
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:10:35","Ball Position",489,51
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:10:46","Restart",490,51
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:10:48","AT2",491,51
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:11:02","SAFE1",492,52
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:11:02","AT1",493,52
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:11:04","SAFE2",494,52
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:11:05","AT2",495,52
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:11:07","POSSIBLE_TI",496,52
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:11:09","TI1",497,52
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:11:10","Restart",498,52
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:11:12","SAFE1",499,52
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:11:15","AT1",500,52
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:11:19","SAFE2",501,52
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:11:22","AT2",502,52
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:11:24","SAFE1",503,52
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:11:26","AT1",504,52
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:11:28","DANGER1",505,52
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:11:28","DAT1",506,52
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:11:31","POSSIBLE_TI",507,52
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:11:31","TI1",508,52
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:11:39","Restart",509,52
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:12:01","POSSIBLE_TI",510,52
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:12:01","TI1",511,53
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:12:03","Restart",512,53
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:12:18","SAFE2",513,53
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:12:24","AT2",514,53
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:12:27","DANGER2",515,53
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:12:27","DAT2",516,53
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:12:32","POSSIBLE_TI",517,53
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:12:33","TI1",518,53
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:12:36","Restart",519,53
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:12:43","SAFE1",520,53
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:13:00","AT1",521,53
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:13:14","DANGER1",522,54
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:13:14","DAT1",523,54
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:13:20","PCR1",524,54
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:13:31","CR1",525,54
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:13:34","Ball Position",526,54
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:13:42","Restart",527,54
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:13:51","SAFE2",528,54
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:13:53","AT2",529,54
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:13:55","DANGER2",530,54
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:13:55","DAT2",531,54
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:14:02","POSSIBLE_CARDS",532,55
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:14:13","YC1",533,55
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:14:44","CONF_YC1",534,55
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:14:49","Scorer",535,55
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:14:51","Possible Free Kick",536,55
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:14:52","F1",538,55
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:14:52","FK2",539,55
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:14:52","DFK2",540,55
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:14:52","Ball Position",541,55
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:15:07","Player_DATA_CONFIRMED",542,56
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:15:41","POSSIBLE_CARDS",543,56
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:15:44","Restart",544,56
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:15:46","PCR2",545,56
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:15:52","SHG2",546,56
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:15:54","NO_Cards",547,56
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:16:04","CR2",548,57
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:16:06","Ball Position",549,57
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:16:14","Restart",550,57
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:16:22","PCR2",551,57
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:16:29","SHB2",552,57
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:16:32","NCR2",553,57
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:16:33","SAFE1",554,57
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:16:33","GK1",555,57
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:16:34","Restart",556,57
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:16:50","AT1",557,57
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:16:55","DANGER1",558,57
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:16:55","DAT1",559,57
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:17:03","PCR1",560,58
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:17:11","CR1",561,58
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:17:19","Ball Position",562,58
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:17:20","Restart",563,58
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:17:30","PCR1",564,58
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:17:34","SHB1",565,58
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:17:43","NCR1",566,58
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:17:44","SAFE2",567,58
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:17:45","GK2",568,58
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:17:52","Restart",569,58
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:17:54","AT2",570,58
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:18:16","SAFE1",571,59
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:18:16","AT1",572,59
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:18:41","DANGER1",573,59
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:18:41","DAT1",574,59
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:19:13","SAFE2",575,60
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:19:14","AT2",576,60
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:19:23","SAFE1",577,60
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:19:24","AT1",578,60
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:19:43","DANGER1",579,60
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:19:43","DAT1",580,60
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:19:50","PCR1",581,60
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:20:02","CR1",582,61
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:20:03","Ball Position",583,61
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:20:11","Restart",584,61
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:20:28","POSSIBLE_CARDS",585,61
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:20:31","Possible Free Kick",586,61
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:20:43","F2",588,61
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:20:43","FK1",589,61
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:20:43","DFK1",590,61
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:20:43","Ball Position",591,61
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:20:48","NO_Cards",592,61
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:20:49","Restart",593,61
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:21:07","SAFE2",594,62
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:21:07","GK2",595,62
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:21:12","Restart",596,62
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:21:14","AT2",597,62
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:21:35","SAFE1",598,62
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:21:37","AT1",599,62
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:21:50","DANGER1",600,62
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:21:50","DAT1",601,62
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:22:02","SHG1",602,63
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:22:05","SHG1",603,63
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:22:30","POSSIBLE_TI",604,63
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:22:30","TI1",605,63
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:22:33","Restart",606,63
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:22:48","PCR1",607,63
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:23:03","SHB1",608,64
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:23:05","NCR1",609,64
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:23:06","SAFE2",610,64
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:23:06","GK2",611,64
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:23:18","Restart",612,64
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:23:20","AT2",613,64
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:23:24","SAFE1",614,64
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:23:25","AT1",615,64
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:23:28","DANGER1",616,64
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:23:28","DAT1",617,64
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:23:36","SHG1",618,64
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:23:44","SAFE2",619,64
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:23:53","AT2",620,64
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:24:06","SAFE1",621,65
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:24:14","AT1",622,65
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:24:17","DANGER1",623,65
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:24:17","DAT1",624,65
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:24:23","PCR1",625,65
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:24:30","NCR1",626,65
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:24:30","SAFE2",627,65
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:24:31","GK2",628,65
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:24:49","SUB1",629,65
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:25:13","SUB1",630,66
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:25:14","Restart",631,66
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:25:16","AT2",632,66
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:25:28","POSSIBLE_TI",633,66
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:25:29","TI1",634,66
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:25:31","Restart",635,66
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:25:35","SAFE1",636,66
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:25:41","AT1",637,66
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:25:44","DANGER1",638,66
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:25:44","DAT1",639,66
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:25:55","SAFE2",640,66
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:25:55","GK2",641,66
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:26:09","Restart",642,67
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:26:11","AT2",643,67
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:26:23","POSSIBLE_CARDS",644,67
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:26:29","Possible Free Kick",645,67
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:26:31","F2",647,67
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:26:31","FK1",648,67
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:26:31","DANGER1",649,67
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:26:31","DFK1",650,67
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:26:31","Ball Position",651,67
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:26:33","NO_Cards",652,67
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:26:33","Restart",653,67
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:26:45","Player_DATA_CONFIRMED",654,67
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:26:52","POSSIBLE_TI",655,67
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:26:54","TI1",656,67
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:26:54","Restart",657,67
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:27:08","SAFE2",658,68
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:27:08","AT2",659,68
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:27:14","SAFE1",660,68
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:27:20","AT1",661,68
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:27:24","DANGER1",662,68
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:27:24","DAT1",663,68
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:27:30","Player_DATA_CONFIRMED",664,68
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:28:03","POSSIBLE_TI",665,69
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:28:04","TI1",666,69
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:28:06","Restart",667,69
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:28:23","SAFE2",668,69
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:28:36","AT2",669,69
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:28:44","DANGER2",670,69
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:28:44","DAT2",671,69
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:28:48","POSSIBLE_CARDS",672,69
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:28:55","YC1",673,69
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:29:09","CONF_YC1",674,70
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:29:15","Scorer",675,70
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:29:16","Possible Free Kick",676,70
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:29:17","F1",678,70
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:29:17","FK2",679,70
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:29:17","DFK2",680,70
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:29:17","Ball Position",681,70
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:29:26","Player_DATA_CONFIRMED",682,70
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:29:38","Restart",683,70
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:29:58","SAFE1",684,70
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:30:12","AT1",685,71
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:30:30","SAFE2",686,71
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:30:31","AT2",687,71
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:30:43","SAFE1",688,71
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:30:53","AT1",689,71
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:30:58","DANGER1",690,71
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:30:58","DAT1",691,71
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:31:01","PCR1",692,71
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:31:12","SHB1",693,72
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:31:15","NCR1",694,72
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:31:16","SAFE2",695,72
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:31:16","GK2",696,72
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:31:22","Restart",697,72
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:31:24","AT2",698,72
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:31:34","SAFE1",699,72
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:31:35","AT1",700,72
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:31:37","DANGER1",701,72
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:31:37","DAT1",702,72
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:31:52","POSSIBLE_CARDS",703,72
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:32:05","NO_Cards",704,73
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:32:05","Possible Free Kick",705,73
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:32:08","SAFE2",707,73
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:32:08","F1",708,73
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:32:08","FK2",709,73
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:32:08","Ball Position",710,73
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:32:21","Restart",711,73
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:32:23","AT2",712,73
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:32:25","POSSIBLE_TI",713,73
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:32:26","TI1",714,73
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:32:27","Restart",715,73
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:32:32","SAFE1",716,73
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:33:02","AT1",717,74
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:33:25","DANGER1",718,74
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:33:25","DAT1",719,74
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:33:30","POSSIBLE_TI",720,74
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:33:30","TI1",721,74
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:33:33","Restart",722,74
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:33:50","SAFE2",723,74
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:33:54","AT2",724,74
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:33:56","DANGER2",725,74
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:33:56","DAT2",726,74
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:34:04","SHG2",727,75
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:34:06","PCR2",728,75
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:34:35","CR2",729,75
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:34:36","Ball Position",730,75
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:34:38","Restart",731,75
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:34:47","SAFE1",732,75
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:34:58","AT1",733,75
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:35:15","DANGER1",734,76
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:35:15","DAT1",735,76
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:35:31","POSSIBLE_CARDS",736,76
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:36:04","Injury Break",737,77
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:36:54","NO_Cards",738,77
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:36:58","Referee Ball",739,77
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:36:58","Restart",740,77
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:37:03","PCR1",741,78
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:37:11","NCR1",742,78
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:37:11","SAFE2",743,78
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:37:12","GK2",744,78
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:37:23","Restart",745,78
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:37:25","AT2",746,78
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:37:40","SAFE1",747,78
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:37:43","AT1",748,78
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:37:49","DANGER1",749,78
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:37:49","DAT1",750,78
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:37:51","POSSIBLE_CARDS",751,78
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:38:27","Possible Free Kick",752,79
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:38:29","F2",754,79
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:38:29","FK1",755,79
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:38:29","DFK1",756,79
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:38:29","Ball Position",757,79
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:38:37","NO_Cards",758,79
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:38:38","Restart",759,79
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:38:43","PPEN",760,79
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:38:43","PPEN1",761,79
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:38:49","No PEN",762,79
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:38:53","POSSIBLE_CARDS",763,79
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:39:07","POSSIBLE_TI",764,80
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:39:08","TI1",765,80
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:39:09","Restart",766,80
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:39:10","NO_Cards",767,80
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:39:13","PCR1",768,80
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:39:22","SHB1",769,80
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:39:28","NCR1",770,80
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:39:28","SAFE2",771,80
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:39:29","GK2",772,80
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:39:50","SUB1",773,80
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:39:52","Restart",774,80
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:39:53","AT2",775,80
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:39:59","POSSIBLE_TI",776,80
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:40:01","TI1",777,81
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:40:03","Restart",778,81
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:40:09","SAFE1",779,81
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:40:11","AT1",780,81
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:40:22","POSSIBLE_TI",781,81
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:40:24","TI2",782,81
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:40:37","Restart",783,81
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:40:39","SAFE2",784,81
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:40:40","AT2",785,81
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:40:44","DANGER2",786,81
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:40:44","DAT2",787,81
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:40:51","SAFE1",788,81
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:40:51","GK1",789,81
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:40:52","Restart",790,81
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:41:12","AT1",791,82
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:41:25","DANGER1",792,82
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:41:25","DAT1",793,82
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:41:30","POSSIBLE_TI",794,82
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:41:31","TI1",795,82
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:41:33","Restart",796,82
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:41:46","SAFE2",797,82
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:41:47","AT2",798,82
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:41:51","DANGER2",799,82
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:41:51","DAT2",800,82
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:42:03","SAFE1",801,83
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:42:07","AT1",802,83
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:42:13","DANGER1",803,83
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:42:13","DAT1",804,83
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:42:26","PCR1",805,83
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:42:32","SUB_UPDATE",806,83
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:42:32","SHB1",807,83
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:42:32","Player_DATA_CONFIRMED",808,83
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:42:33","NCR1",809,83
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:42:33","SAFE2",810,83
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:42:34","GK2",811,83
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:42:45","Restart",812,83
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:42:47","AT2",813,83
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:42:50","POSSIBLE_TI",814,83
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:42:51","TI2",815,83
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:43:02","Restart",816,84
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:43:10","SAFE1",817,84
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:43:15","AT1",818,84
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:43:28","DANGER1",819,84
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:43:28","DAT1",820,84
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:43:38","SAFE2",821,84
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:43:42","AT2",822,84
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:43:53","POSSIBLE_TI",823,84
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:43:55","TI2",824,84
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:44:02","Restart",825,85
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:44:09","POSSIBLE_CARDS",826,85
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:44:20","Possible Free Kick",827,85
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:44:22","F2",829,85
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:44:22","FK1",830,85
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:44:22","DANGER1",831,85
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:44:22","DFK1",832,85
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:44:22","Ball Position",833,85
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:44:33","NO_Cards",834,85
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:44:33","Restart",835,85
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:45:11","SAFE2",836,86
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:45:12","GK2",837,86
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:45:26","Restart",838,86
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:45:27","AT2",839,86
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:45:50","SAFE1",840,86
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:46:07","AT1",841,87
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:46:10","SAFE2",842,87
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:46:10","AT2",843,87
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:46:14","DANGER2",844,87
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:46:14","DAT2",845,87
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:46:28","SAFE1",846,87
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:46:30","AT1",847,87
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:46:33","DANGER1",848,87
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:46:33","DAT1",849,87
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:46:34","POSSIBLE_CARDS",850,87
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:46:43","YC2",851,87
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:46:49","CONF_YC2",852,87
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:46:52","Scorer",853,87
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:46:54","Possible Free Kick",854,87
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:46:59","F2",856,87
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:46:59","FK1",857,87
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:46:59","DFK1",858,87
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:46:59","Ball Position",859,87
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:47:03","Player_DATA_CONFIRMED",860,88
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:47:07","Restart",861,88
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:47:16","SHB1",862,88
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:47:49","PCR1",863,88
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:47:52","SHB1",864,88
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:48:01","NCR1",865,89
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:48:02","SAFE2",866,89
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:48:03","GK2",867,89
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:48:17","Restart",868,89
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:48:20","AT2",869,89
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:48:29","Possible Free Kick",870,89
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:48:31","SAFE1",872,89
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:48:31","F2",873,89
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:48:31","FK1",874,89
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:48:31","Ball Position",875,89
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:48:32","Restart",876,89
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:48:33","AT1",877,89
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:48:35","DANGER1",878,89
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:48:35","DAT1",879,89
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:48:39","PCR1",880,89
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:48:45","CR1",881,89
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:48:47","Ball Position",882,89
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:48:55","Restart",883,89
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:49:18","Possible Free Kick",884,90
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:49:25","SAFE2",886,90
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:49:26","F1",887,90
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:49:26","FK2",888,90
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:49:26","Ball Position",889,90
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:49:47","SUB2",890,90
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:49:54","Player_DATA_CONFIRMED",891,90
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:49:55","Restart",892,90
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:49:57","AT2",893,90
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:50:06","SAFE1",894,91
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:50:06","AT1",895,91
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:50:16","POSSIBLE_CARDS",896,91
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:50:38","NO_Cards",897,91
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:50:42","Referee Ball",898,91
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:50:47","Extra Time",899,91
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:50:51","Restart",900,91
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:50:53","DANGER1",901,91
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:50:53","DAT1",902,91
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:51:02","SAFE2",903,92
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:51:03","AT2",904,92
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:51:09","DANGER2",905,92
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:51:09","DAT2",906,92
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:51:17","SAFE1",907,92
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:51:19","AT1",908,92
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:51:25","DANGER1",909,92
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:51:25","DAT1",910,92
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:51:28","POSSIBLE_TI",911,92
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:51:29","TI1",912,92
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:51:31","Restart",913,92
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:52:11","POSSIBLE_TI",914,93
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:52:12","TI1",915,93
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:52:27","Injury Break",916,93
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:52:39","Extra Time",917,93
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:53:28","Restart",918,94
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:53:46","PCR1",919,94
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:54:05","CR1",920,95
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:54:07","Ball Position",921,95
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:54:13","Restart",922,95
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:54:21","GOAL1",923,95
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:54:40","POSSIBLE_CARDS",924,95
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:54:44","YRC2",925,95
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:54:53","Scorer",926,95
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:54:53","Player_DATA_CONFIRMED",927,95
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:54:55","CONF_YC_RC2",928,95
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:55:03","Scorer",929,96
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:55:18","Scorer",930,96
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:55:21","CONF_GOAL1",931,96
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:56:22","KO2",932,97
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:56:22","SAFE2",933,97
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:56:25","AT2",934,97
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:56:27","Player_DATA_CONFIRMED",935,97
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:56:30","POSSIBLE_TI",936,97
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:56:33","TI1",937,97
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:56:36","Restart",938,97
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:56:39","SAFE1",939,97
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:56:42","AT1",940,97
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:56:44","POSSIBLE_TI",941,97
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:56:45","TI2",942,97
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:57:07","Restart",943,98
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:57:14","Stop RT2",944,98
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:57:14","Stop Game",945,98
+939221,"Olympique de Marseille","FC Nantes","03/04/2018 21:57:28","CONF_PERIOD_SCORE",946,97

@@ -1,0 +1,854 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+965175,"Leicester City FC","Southampton FC","04/19/2018 17:45:20","Scout in Stadion",0,0
+965175,"Leicester City FC","Southampton FC","04/19/2018 17:45:30","Transmission Online",1,0
+965175,"Leicester City FC","Southampton FC","04/19/2018 17:45:32","Lineup changed",2,0
+965175,"Leicester City FC","Southampton FC","04/19/2018 17:45:39","GCC",3,0
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:40:53","GCC",4,0
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:41:08","Players are coming out",5,0
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:41:29","Players lined up",6,0
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:41:44","Shake hands",7,0
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:42:32","Jersey Changed",8,0
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:42:33","Jersey Changed",9,0
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:43:59","Photo taking",10,0
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:44:08","Flip coin",11,0
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:44:30","Game about to start",12,0
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:45:02","Start RT1 Team 1",13,1
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:45:04","CLS",14,0
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:45:13","Start RT1 Team 1",15,1
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:45:17","AT1",16,1
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:45:19","POSSIBLE_TI",17,1
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:45:20","TI2",18,1
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:45:32","Restart",19,1
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:45:33","SAFE2",20,1
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:45:34","AT2",21,1
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:45:36","POSSIBLE_TI",22,1
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:45:38","TI2",23,1
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:45:46","Restart",24,1
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:45:47","DANGER2",25,1
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:45:47","DAT2",26,1
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:45:50","POSSIBLE_TI",27,1
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:45:50","TI2",28,1
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:45:56","Restart",29,1
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:46:01","System Message",30,1
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:46:05","SAFE1",31,1
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:46:08","POSSIBLE_TI",32,1
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:46:08","TI1",33,1
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:46:14","CLS",34,2
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:46:17","TI2",35,2
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:46:26","Restart",36,2
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:46:29","AT2",37,2
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:46:40","DANGER2",38,2
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:46:40","DAT2",39,2
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:46:41","Possible Free Kick",40,2
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:46:46","F1",42,2
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:46:46","FK2",43,2
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:46:46","DFK2",44,2
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:46:46","Ball Position",45,2
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:47:43","Restart",46,3
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:47:54","SAFE2",47,3
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:48:03","AT2",48,3
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:48:09","SAFE2",49,3
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:48:23","SAFE1",50,4
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:48:24","AT1",51,4
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:48:27","DANGER1",52,4
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:48:27","DAT1",53,4
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:48:31","PCR1",54,4
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:48:33","CR1",55,4
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:48:34","Ball Position",56,4
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:48:54","Restart",57,4
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:49:23","SAFE2",58,5
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:49:30","AT2",59,5
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:49:32","POSSIBLE_TI",60,5
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:49:34","TI1",61,5
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:49:37","SAFE1",62,5
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:49:41","Restart",63,5
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:49:50","AT1",64,5
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:49:54","POSSIBLE_TI",65,5
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:49:55","TI1",66,5
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:50:07","Restart",67,5
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:50:13","SAFE1",68,5
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:50:22","AT1",69,6
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:50:23","DANGER1",70,6
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:50:23","DAT1",71,6
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:50:40","POSSIBLE_TI",72,6
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:50:42","TI2",73,6
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:50:43","SAFE2",74,6
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:50:52","Restart",75,6
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:50:54","AT2",76,6
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:50:56","POSSIBLE_TI",77,6
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:50:57","TI2",78,6
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:50:57","DANGER2",79,6
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:50:57","DAT2",80,6
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:51:09","Restart",81,6
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:51:31","SAFE1",82,7
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:51:33","AT1",83,7
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:51:44","DANGER1",84,7
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:51:44","DAT1",85,7
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:51:49","SHG1",86,7
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:51:50","SAFE2",87,7
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:52:04","POSSIBLE_TI",88,7
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:52:07","TI2",89,7
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:52:24","Restart",90,8
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:52:27","POSSIBLE_TI",91,8
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:52:28","TI2",92,8
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:52:36","Restart",93,8
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:52:36","AT2",94,8
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:52:40","DANGER2",95,8
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:52:40","DAT2",96,8
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:52:57","Possible Free Kick",97,8
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:52:58","SAFE1",99,8
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:52:58","F2",100,8
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:52:58","FK1",101,8
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:52:58","Ball Position",102,8
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:53:24","Restart",103,9
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:53:34","AT1",104,9
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:53:39","DANGER1",105,9
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:53:39","DAT1",106,9
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:53:45","SAFE2",107,9
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:53:45","AT2",108,9
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:53:48","DANGER2",109,9
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:53:48","DAT2",110,9
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:53:54","SAFE1",111,9
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:53:56","SAFE2",112,9
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:54:01","POSSIBLE_TI",113,9
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:54:01","TI1",114,9
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:54:02","SAFE1",115,9
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:54:20","Restart",116,10
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:54:31","AT1",117,10
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:54:40","POSSIBLE_TI",118,10
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:54:41","TI2",119,10
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:54:42","SAFE2",120,10
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:54:55","Restart",121,10
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:54:59","AT2",122,10
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:55:11","DANGER2",123,10
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:55:11","DAT2",124,10
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:55:17","POSSIBLE_TI",125,11
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:55:17","TI2",126,11
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:55:21","Restart",127,11
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:55:24","SAFE2",128,11
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:55:33","AT2",129,11
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:55:37","SAFE1",130,11
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:55:50","AT1",131,11
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:55:52","DANGER1",132,11
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:55:52","DAT1",133,11
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:56:01","PCR1",134,11
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:56:03","NCR1",135,11
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:56:05","SAFE2",136,11
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:56:06","GK2",137,11
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:56:32","Restart",138,12
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:56:51","AT2",139,12
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:56:54","DANGER2",140,12
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:56:54","DAT2",141,12
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:57:07","Possible Free Kick",142,12
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:57:09","SAFE1",144,12
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:57:09","F2",145,12
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:57:09","FK1",146,12
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:57:09","Ball Position",147,12
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:57:41","Restart",148,13
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:57:41","AT1",149,13
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:58:01","SAFE1",150,13
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:58:38","SAFE2",151,14
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:58:42","SAFE1",152,14
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:58:53","AT1",153,14
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:59:06","DANGER1",154,14
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:59:06","DAT1",155,14
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:59:26","POSSIBLE_TI",156,15
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:59:27","TI1",157,15
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:59:39","Restart",158,15
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:59:56","BLOCKED1",159,15
+965175,"Leicester City FC","Southampton FC","04/19/2018 18:59:59","PCR1",160,15
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:00:02","NCR1",161,15
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:00:07","SHB1",162,15
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:00:22","SAFE2",163,16
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:00:24","GK2",164,16
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:00:33","Restart",165,16
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:00:40","AT2",166,16
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:00:41","DANGER2",167,16
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:00:41","DAT2",168,16
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:00:44","POSSIBLE_TI",169,16
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:00:46","TI2",170,16
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:00:46","Restart",171,16
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:00:50","POSSIBLE_TI",172,16
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:00:51","TI2",173,16
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:01:04","Restart",174,16
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:01:17","SAFE1",175,17
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:01:17","AT1",176,17
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:01:18","DANGER1",177,17
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:01:18","DAT1",178,17
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:01:30","BLOCKED1",179,17
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:01:53","SAFE2",180,17
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:01:59","AT2",181,17
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:02:07","CLS",182,17
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:02:29","AT2",183,18
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:02:42","SAFE2",184,18
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:02:52","AT2",185,18
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:02:54","DANGER2",186,18
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:02:54","DAT2",187,18
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:03:04","PCR2",188,18
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:03:10","NCR2",189,18
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:03:11","SHB2",190,18
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:03:18","SAFE1",191,19
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:03:19","GK1",192,19
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:03:33","Restart",193,19
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:03:38","SAFE2",194,19
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:03:39","AT2",195,19
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:03:42","DANGER2",196,19
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:03:42","DAT2",197,19
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:04:07","PCR2",198,19
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:04:09","NCR2",199,19
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:04:10","POSSIBLE_TI",200,19
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:04:10","TI2",201,19
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:04:27","Restart",202,20
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:04:30","POSSIBLE_TI",203,20
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:04:31","TI2",204,20
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:04:48","Restart",205,20
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:05:13","SAFE1",206,21
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:05:33","AT1",207,21
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:05:36","DANGER1",208,21
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:05:36","DAT1",209,21
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:05:47","SAFE2",210,21
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:05:57","SAFE1",211,21
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:06:04","AT1",212,21
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:06:04","DANGER1",213,21
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:06:04","DAT1",214,21
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:06:21","Possible Free Kick",215,22
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:06:26","SAFE2",217,22
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:06:26","F1",218,22
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:06:26","FK2",219,22
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:06:26","Ball Position",220,22
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:06:57","Restart",221,22
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:06:59","AT2",222,22
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:07:06","SAFE1",223,22
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:07:07","AT1",224,22
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:07:08","DANGER1",225,22
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:07:08","DAT1",226,22
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:07:16","SAFE2",227,23
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:07:28","SAFE1",228,23
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:07:56","AT1",229,23
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:08:05","DANGER1",230,23
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:08:05","DAT1",231,23
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:08:13","SAFE2",232,23
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:08:14","GK2",233,24
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:08:27","Restart",234,24
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:08:31","AT2",235,24
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:08:33","DANGER2",236,24
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:08:33","DAT2",237,24
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:08:38","POSSIBLE_TI",238,24
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:08:39","TI2",239,24
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:09:01","Restart",240,24
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:09:06","POSSIBLE_TI",241,24
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:09:11","TI2",242,24
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:09:20","Restart",243,25
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:09:51","POSSIBLE_TI",244,25
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:09:52","TI1",245,25
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:10:08","Restart",246,25
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:10:16","POSSIBLE_TI",247,26
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:10:17","TI1",248,26
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:10:18","SAFE1",249,26
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:10:23","Restart",250,26
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:10:32","AT1",251,26
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:10:40","POSSIBLE_TI",252,26
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:10:41","TI1",253,26
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:10:47","Restart",254,26
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:10:57","DANGER1",255,26
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:10:57","DAT1",256,26
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:11:01","PCR1",257,26
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:11:03","CR1",258,26
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:11:06","Ball Position",259,26
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:11:29","Restart",260,27
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:11:35","SAFE2",261,27
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:11:46","SAFE1",262,27
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:11:58","AT1",263,27
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:12:19","DANGER1",264,28
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:12:19","DAT1",265,28
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:12:26","BLOCKED1",266,28
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:12:28","POSSIBLE_TI",267,28
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:12:29","TI1",268,28
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:12:40","Restart",269,28
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:12:52","SAFE1",270,28
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:13:09","AT1",271,28
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:13:22","DANGER1",272,29
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:13:22","DAT1",273,29
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:13:28","POSSIBLE_TI",274,29
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:13:29","TI1",275,29
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:13:44","Restart",276,29
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:14:08","Possible Free Kick",277,29
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:14:10","SAFE2",279,29
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:14:10","F1",280,29
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:14:10","FK2",281,29
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:14:10","Ball Position",282,29
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:14:15","Restart",283,30
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:14:19","Possible Free Kick",284,30
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:14:20","F1",286,30
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:14:20","FK2",287,30
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:14:20","DANGER2",288,30
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:14:20","DFK2",289,30
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:14:20","Ball Position",290,30
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:14:49","POSSIBLE_CARDS",291,30
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:14:51","NO_Cards",292,30
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:14:51","Restart",293,30
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:14:55","POSSIBLE_TI",294,30
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:14:59","TI2",295,30
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:15:11","Restart",296,30
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:15:21","SAFE1",297,31
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:15:22","GK1",298,31
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:15:45","Restart",299,31
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:15:57","AT2",300,31
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:15:58","DANGER2",301,31
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:15:58","DAT2",302,31
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:16:02","SAFE1",303,31
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:16:10","AT1",304,31
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:16:20","POSSIBLE_TI",305,32
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:16:22","TI2",306,32
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:16:30","SAFE2",307,32
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:16:42","Restart",308,32
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:16:47","AT2",309,32
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:16:48","DANGER2",310,32
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:16:48","DAT2",311,32
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:17:01","POSSIBLE_TI",312,32
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:17:02","TI2",313,32
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:17:35","POSSIBLE_TI",314,33
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:17:37","Restart",315,33
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:17:38","TI1",316,33
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:17:52","Restart",317,33
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:18:01","SAFE1",318,33
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:18:01","AT1",319,33
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:18:03","DANGER1",320,33
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:18:03","DAT1",321,33
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:18:12","SAFE2",322,33
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:18:16","GK2",323,34
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:18:43","Restart",324,34
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:18:50","AT2",325,34
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:18:53","SAFE1",326,34
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:19:07","SAFE2",327,34
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:19:19","SAFE1",328,35
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:19:25","AT1",329,35
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:19:28","DANGER1",330,35
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:19:28","DAT1",331,35
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:20:05","SAFE2",332,35
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:20:27","AT2",333,36
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:20:31","DANGER2",334,36
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:20:31","DAT2",335,36
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:20:45","PCR2",336,36
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:20:47","CR2",337,36
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:20:48","Ball Position",338,36
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:21:19","Restart",339,37
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:21:33","SHG2",340,37
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:21:34","SAFE1",341,37
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:21:51","AT1",342,37
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:21:54","DANGER1",343,37
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:21:54","DAT1",344,37
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:22:00","POSSIBLE_TI",345,37
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:22:02","TI1",346,37
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:22:06","Restart",347,37
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:22:12","SHG1",348,37
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:22:16","SAFE2",349,38
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:22:32","AT2",350,38
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:22:35","DANGER2",351,38
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:22:35","DAT2",352,38
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:23:10","SAFE1",353,38
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:23:17","POSSIBLE_TI",354,39
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:23:19","TI2",355,39
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:23:21","AT2",356,39
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:23:21","DANGER2",357,39
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:23:21","DAT2",358,39
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:23:38","Restart",359,39
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:24:20","SHB2",360,40
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:24:23","SAFE1",361,40
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:24:24","GK1",362,40
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:24:51","Restart",363,40
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:25:00","SAFE2",364,40
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:25:13","AT2",365,40
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:25:17","DANGER2",366,41
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:25:17","DAT2",367,41
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:25:39","SAFE2",368,41
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:25:43","AT2",369,41
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:25:46","DANGER2",370,41
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:25:46","DAT2",371,41
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:25:53","POSSIBLE_TI",372,41
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:25:54","TI2",373,41
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:26:07","Restart",374,41
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:26:16","POSSIBLE_TI",375,42
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:26:17","TI2",376,42
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:26:30","Restart",377,42
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:26:46","PCR2",378,42
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:26:49","NCR2",379,42
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:26:51","SAFE1",380,42
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:26:52","GK1",381,42
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:27:22","Restart",382,43
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:27:40","SAFE2",383,43
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:27:40","AT2",384,43
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:27:42","DANGER2",385,43
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:27:42","DAT2",386,43
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:27:50","SHG2",387,43
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:27:50","SAFE1",388,43
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:27:54","SAFE2",389,43
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:27:54","AT2",390,43
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:27:57","DANGER2",391,43
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:27:57","DAT2",392,43
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:28:16","Possible Free Kick",393,44
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:28:18","F1",395,44
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:28:18","FK2",396,44
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:28:18","DFK2",397,44
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:28:18","Ball Position",398,44
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:28:39","Restart",399,44
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:28:46","POSSIBLE_TI",400,44
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:28:46","TI1",401,44
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:29:01","Restart",402,44
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:29:04","SAFE1",403,44
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:29:07","AT1",404,44
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:29:12","DANGER1",405,44
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:29:12","DAT1",406,44
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:29:19","Possible Free Kick",407,45
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:29:20","SAFE2",409,45
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:29:20","F1",410,45
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:29:20","FK2",411,45
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:29:20","Ball Position",412,45
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:29:43","Restart",413,45
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:29:51","AT2",414,45
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:29:53","Possible Free Kick",415,45
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:29:57","SAFE1",418,45
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:29:57","F2",419,45
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:29:57","FK1",420,45
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:29:57","Ball Position",421,45
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:29:59","Restart",422,45
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:30:08","SAFE2",423,45
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:30:10","SAFE1",424,45
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:30:13","AT1",425,45
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:30:20","Stop RT1",426,45
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:30:29","CONF_PERIOD_SCORE",427,45
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:43:36","Players are coming out",428,45
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:45:00","Game about to start",429,45
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:45:29","Start RT2 Team 2",430,46
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:45:36","AT2",431,46
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:45:39","DANGER2",432,46
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:45:39","DAT2",433,46
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:45:58","Possible Free Kick",434,46
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:46:01","SAFE1",436,46
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:46:01","O2",437,46
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:46:01","FK1",438,46
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:46:01","Ball Position",439,46
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:46:07","Restart",440,46
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:46:38","POSSIBLE_TI",441,47
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:46:39","TI2",442,47
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:46:40","SAFE2",443,47
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:46:52","Restart",444,47
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:47:03","AT2",445,47
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:47:16","SAFE2",446,47
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:47:21","AT2",447,47
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:47:22","DANGER2",448,47
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:47:22","DAT2",449,47
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:47:25","Possible Free Kick",450,47
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:47:29","SAFE1",452,47
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:47:29","O2",453,47
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:47:29","FK1",454,47
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:47:29","Ball Position",455,47
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:47:51","Restart",456,48
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:47:54","AT1",457,48
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:48:00","POSSIBLE_TI",458,48
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:48:03","TI1",459,48
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:48:14","Restart",460,48
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:48:17","SAFE1",461,48
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:48:24","AT1",462,48
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:48:30","Possible Free Kick",463,49
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:48:31","SAFE2",465,49
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:48:31","F1",466,49
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:48:31","FK2",467,49
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:48:31","Ball Position",468,49
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:48:42","Restart",469,49
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:49:02","SAFE1",470,49
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:49:15","AT1",471,49
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:49:31","DANGER1",472,50
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:49:31","DAT1",473,50
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:49:42","SAFE2",474,50
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:49:42","GK2",475,50
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:50:00","Restart",476,50
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:50:15","SAFE1",477,50
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:50:17","POSSIBLE_TI",478,50
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:50:20","TI2",479,50
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:50:20","SAFE2",480,50
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:50:23","Restart",481,50
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:50:30","AT2",482,51
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:50:36","Possible Free Kick",483,51
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:50:37","SAFE1",485,51
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:50:37","F2",486,51
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:50:37","FK1",487,51
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:50:37","Ball Position",488,51
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:50:48","Restart",489,51
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:51:00","Possible Free Kick",490,51
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:51:02","SAFE2",492,51
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:51:02","F1",493,51
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:51:02","FK2",494,51
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:51:02","Ball Position",495,51
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:51:13","POSSIBLE_CARDS",496,51
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:51:14","NO_Cards",497,51
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:51:15","Restart",498,51
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:51:17","AT2",499,51
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:51:18","SAFE1",500,51
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:51:18","AT1",501,51
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:51:19","DANGER1",502,51
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:51:19","DAT1",503,51
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:51:34","SAFE2",504,52
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:51:35","AT2",505,52
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:51:38","POSSIBLE_TI",506,52
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:51:39","TI2",507,52
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:51:52","Injury Break",508,52
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:52:53","Restart",509,53
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:53:02","SAFE2",510,53
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:53:25","AT2",511,53
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:53:28","DANGER2",512,53
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:53:28","DAT2",513,53
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:53:34","SAFE1",514,54
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:53:35","GK1",515,54
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:54:00","Restart",516,54
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:54:14","AT2",517,54
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:54:15","POSSIBLE_TI",518,54
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:54:18","TI2",519,54
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:54:18","DANGER2",520,54
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:54:18","DAT2",521,54
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:54:19","Restart",522,54
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:54:22","POSSIBLE_TI",523,54
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:54:23","TI2",524,54
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:54:38","Restart",525,55
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:54:52","SAFE1",526,55
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:54:58","AT1",527,55
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:55:12","SAFE2",528,55
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:55:15","AT2",529,55
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:55:24","CLS",530,55
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:55:41","AT2",531,56
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:55:42","DANGER2",532,56
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:55:42","DAT2",533,56
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:55:49","SAFE1",534,56
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:55:49","AT1",535,56
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:55:53","DANGER1",536,56
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:55:53","DAT1",537,56
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:55:55","POSSIBLE_TI",538,56
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:56:00","TI2",539,56
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:56:11","Restart",540,56
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:56:20","SAFE2",541,56
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:56:27","AT2",542,56
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:56:31","POSSIBLE_TI",543,57
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:56:32","TI2",544,57
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:56:34","DANGER2",545,57
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:56:34","DAT2",546,57
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:56:35","Restart",547,57
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:56:42","POSSIBLE_TI",548,57
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:56:46","TI2",549,57
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:56:47","Restart",550,57
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:57:05","PCR2",551,57
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:57:08","CR2",552,57
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:57:11","SHG2",553,57
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:57:23","Ball Position",554,57
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:57:39","Restart",555,58
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:57:46","SHB2",556,58
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:57:50","SAFE1",557,58
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:57:51","GK1",558,58
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:58:02","SUB2",559,58
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:58:30","Restart",560,59
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:58:37","AT1",561,59
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:58:38","DANGER1",562,59
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:58:38","DAT1",563,59
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:59:04","SAFE2",564,59
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:59:06","SAFE1",565,59
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:59:09","AT1",566,59
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:59:10","DANGER1",567,59
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:59:10","DAT1",568,59
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:59:20","Player_DATA_CONFIRMED",569,59
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:59:28","POSSIBLE_TI",570,59
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:59:29","TI2",571,59
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:59:55","Restart",572,60
+965175,"Leicester City FC","Southampton FC","04/19/2018 19:59:58","POSSIBLE_TI",573,60
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:00:09","NO_TI",574,60
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:00:39","SAFE2",575,61
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:00:39","AT2",576,61
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:00:42","SAFE1",577,61
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:00:56","AT1",578,61
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:01:18","Possible Free Kick",579,61
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:01:21","SAFE2",581,61
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:01:21","O1",582,61
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:01:21","FK2",583,61
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:01:21","Ball Position",584,61
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:01:47","Restart",585,62
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:01:48","AT2",586,62
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:01:54","DANGER2",587,62
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:01:54","DAT2",588,62
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:02:01","POSSIBLE_TI",589,62
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:02:02","TI1",590,62
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:02:14","Restart",591,62
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:02:18","POSSIBLE_TI",592,62
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:02:19","TI1",593,62
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:02:21","SAFE1",594,62
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:02:30","Restart",595,63
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:02:33","SAFE2",596,63
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:02:44","SAFE1",597,63
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:02:50","AT1",598,63
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:02:50","DANGER1",599,63
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:02:50","DAT1",600,63
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:03:22","POSSIBLE_TI",601,63
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:03:23","TI1",602,63
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:03:28","Restart",603,63
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:03:39","POSSIBLE_TI",604,64
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:03:40","TI1",605,64
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:03:52","SAFE1",606,64
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:03:55","Restart",607,64
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:04:08","Possible Free Kick",608,64
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:04:10","F2",610,64
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:04:10","FK1",611,64
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:04:10","Ball Position",612,64
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:04:15","Restart",613,64
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:04:21","AT1",614,64
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:04:28","POSSIBLE_TI",615,64
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:04:29","TI2",616,64
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:04:41","Restart",617,65
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:04:46","Possible Free Kick",618,65
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:04:52","SAFE2",620,65
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:04:52","F1",621,65
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:04:52","FK2",622,65
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:04:52","Ball Position",623,65
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:04:58","Restart",624,65
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:05:09","AT2",625,65
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:05:12","DANGER2",626,65
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:05:12","DAT2",627,65
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:05:21","SAFE1",628,65
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:05:27","AT1",629,65
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:05:28","DANGER1",630,65
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:05:28","DAT1",631,65
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:05:34","PCR1",632,66
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:05:52","NCR1",633,66
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:05:52","Possible Free Kick",634,66
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:05:57","SAFE2",636,66
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:05:57","O1",637,66
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:05:57","FK2",638,66
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:05:57","Ball Position",639,66
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:06:09","Restart",640,66
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:06:11","AT2",641,66
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:06:12","DANGER2",642,66
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:06:12","DAT2",643,66
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:06:20","SAFE1",644,66
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:06:21","Time Correction",645,66
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:06:22","AT1",646,66
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:06:22","DANGER1",647,66
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:06:22","DAT1",648,66
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:07:37","SAFE1",649,68
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:07:46","AT1",650,68
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:07:49","DANGER1",651,68
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:07:49","DAT1",652,68
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:08:04","SAFE2",653,68
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:08:05","AT2",654,68
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:08:14","Possible Free Kick",655,68
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:08:17","SAFE1",657,68
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:08:17","F2",658,68
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:08:17","FK1",659,68
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:08:17","Ball Position",660,68
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:08:48","Restart",661,69
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:08:54","AT1",662,69
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:08:54","DANGER1",663,69
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:08:54","DAT1",664,69
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:08:58","PCR1",665,69
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:09:00","CR1",666,69
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:09:01","Ball Position",667,69
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:09:08","Restart",668,69
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:09:12","CLS",669,69
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:09:24","Restart",670,69
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:09:33","POSSIBLE_TI",671,70
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:09:36","TI1",672,70
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:09:51","Restart",673,70
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:09:56","SAFE2",674,70
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:09:59","POSSIBLE_TI",675,70
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:09:59","TI1",676,70
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:10:00","SAFE1",677,70
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:10:03","Restart",678,70
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:10:11","AT1",679,70
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:10:11","DANGER1",680,70
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:10:11","DAT1",681,70
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:10:14","PCR1",682,70
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:10:17","CR1",683,70
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:10:18","SHG1",684,70
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:10:25","Ball Position",685,70
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:11:13","Restart",686,71
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:11:23","SAFE2",687,71
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:11:23","GK2",688,71
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:11:46","Restart",689,72
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:11:51","POSSIBLE_TI",690,72
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:11:52","TI1",691,72
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:11:52","SAFE1",692,72
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:12:00","Restart",693,72
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:12:06","Possible Free Kick",694,72
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:12:07","F2",696,72
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:12:07","FK1",697,72
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:12:07","Ball Position",698,72
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:12:18","Restart",699,72
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:12:36","AT1",700,73
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:12:42","SAFE2",701,73
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:12:42","AT2",702,73
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:12:45","DANGER2",703,73
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:12:45","DAT2",704,73
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:12:47","Possible Free Kick",705,73
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:12:49","F1",707,73
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:12:49","FK2",708,73
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:12:49","DFK2",709,73
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:12:49","Ball Position",710,73
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:13:10","SUB2",711,73
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:13:36","Restart",712,74
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:13:50","POSSIBLE_TI",713,74
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:13:53","TI2",714,74
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:14:00","Restart",715,74
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:14:16","PCR2",716,74
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:14:18","CR2",717,74
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:14:19","Ball Position",718,74
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:14:47","Restart",719,75
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:14:50","Player_DATA_CONFIRMED",720,75
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:15:06","Possible Free Kick",721,75
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:15:09","SAFE1",723,75
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:15:09","F2",724,75
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:15:09","FK1",725,75
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:15:09","Ball Position",726,75
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:15:27","SUB1",727,75
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:15:55","Restart",728,76
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:16:05","AT1",729,76
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:16:06","DANGER1",730,76
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:16:06","DAT1",731,76
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:16:10","SAFE2",732,76
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:16:22","SAFE1",733,76
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:16:48","Player_DATA_CONFIRMED",734,77
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:16:49","AT1",735,77
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:16:52","DANGER1",736,77
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:16:52","DAT1",737,77
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:17:01","PCR1",738,77
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:17:03","NCR1",739,77
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:17:03","POSSIBLE_TI",740,77
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:17:04","TI1",741,77
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:17:15","Restart",742,77
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:17:20","PCR1",743,77
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:17:23","CR1",744,77
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:17:24","Ball Position",745,77
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:17:44","Restart",746,78
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:17:51","POSSIBLE_TI",747,78
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:17:52","TI1",748,78
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:18:10","Restart",749,78
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:18:13","POSSIBLE_TI",750,78
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:18:14","TI2",751,78
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:18:27","Restart",752,78
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:18:32","POSSIBLE_TI",753,79
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:18:35","TI2",754,79
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:18:37","SAFE2",755,79
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:18:41","Restart",756,79
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:18:45","SAFE1",757,79
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:18:46","AT1",758,79
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:18:50","DANGER1",759,79
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:18:50","DAT1",760,79
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:18:53","SAFE2",761,79
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:19:19","Possible Free Kick",762,79
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:19:25","F2",764,79
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:19:25","FK1",765,79
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:19:25","DANGER1",766,79
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:19:25","DFK1",767,79
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:19:25","Ball Position",768,79
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:19:59","POSSIBLE_CARDS",769,80
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:20:15","NO_Cards",770,80
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:20:21","Restart",771,80
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:20:26","SAFE2",772,80
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:20:26","GK2",773,80
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:20:50","Restart",774,81
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:21:06","SAFE1",775,81
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:21:11","AT1",776,81
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:21:17","DANGER1",777,81
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:21:17","DAT1",778,81
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:21:23","PCR1",779,81
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:21:26","NCR1",780,81
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:21:43","SAFE2",781,82
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:21:43","GK2",782,82
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:21:51","Restart",783,82
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:21:56","SAFE1",784,82
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:22:01","SAFE2",785,82
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:22:04","SAFE1",786,82
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:22:04","AT1",787,82
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:22:06","DANGER1",788,82
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:22:06","DAT1",789,82
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:22:14","PCR1",790,82
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:22:17","CR1",791,82
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:22:18","Ball Position",792,82
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:22:48","Restart",793,83
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:23:00","PCR1",794,83
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:23:03","CR1",795,83
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:23:08","Ball Position",796,83
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:23:09","Restart",797,83
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:23:23","SAFE1",798,83
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:23:43","AT1",799,84
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:23:47","DANGER1",800,84
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:23:47","DAT1",801,84
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:24:00","PCR1",802,84
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:24:03","CR1",803,84
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:24:05","Ball Position",804,84
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:24:22","Restart",805,84
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:25:18","PCR1",806,85
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:25:20","CR1",807,85
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:25:28","Ball Position",808,85
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:25:36","Restart",809,86
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:26:06","SAFE1",810,86
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:26:18","AT1",811,86
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:26:31","DANGER1",812,87
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:26:31","DAT1",813,87
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:26:34","Possible Free Kick",814,87
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:26:38","F2",816,87
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:26:38","FK1",817,87
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:26:38","DFK1",818,87
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:26:38","Ball Position",819,87
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:27:06","Restart",820,87
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:27:13","Possible Free Kick",821,87
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:27:16","SAFE2",823,87
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:27:16","O1",824,87
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:27:16","FK2",825,87
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:27:16","Ball Position",826,87
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:27:43","SUB2",827,88
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:27:53","Restart",828,88
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:27:59","SAFE1",829,88
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:28:00","AT1",830,88
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:28:05","DANGER1",831,88
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:28:05","DAT1",832,88
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:28:17","SAFE2",833,88
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:28:19","Player_DATA_CONFIRMED",834,88
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:28:34","AT2",835,89
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:28:35","DANGER2",836,89
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:28:35","DAT2",837,89
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:29:07","POSSIBLE_TI",838,89
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:29:10","TI2",839,89
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:29:15","CLS",840,89
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:29:18","TI1",841,89
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:29:20","Restart",842,89
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:29:42","SHG2",843,90
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:29:44","SAFE1",844,90
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:30:11","AT1",845,90
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:30:16","DANGER1",846,90
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:30:16","DAT1",847,90
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:30:41","POSSIBLE_TI",848,91
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:30:43","TI1",849,91
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:30:46","Extra Time",850,91
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:30:59","SUB1",851,91
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:31:12","SUB1",852,91
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:31:20","Restart",853,91
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:31:32","POSSIBLE_TI",854,92
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:31:33","TI1",855,92
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:31:52","Restart",856,92
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:32:12","SAFE2",857,92
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:32:16","SAFE1",858,92
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:32:21","AT1",859,92
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:32:27","DANGER1",860,92
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:32:27","DAT1",861,92
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:32:47","PCR1",862,93
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:32:49","CR1",863,93
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:32:52","SHB1",864,93
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:32:53","Ball Position",865,93
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:33:04","Restart",866,93
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:33:15","PCR1",867,93
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:33:17","CR1",868,93
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:33:18","Player_DATA_CONFIRMED",869,93
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:33:18","Ball Position",870,93
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:33:32","Restart",871,94
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:33:37","Player_DATA_CONFIRMED",872,94
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:33:45","SAFE2",873,94
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:34:03","GK2",874,94
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:34:08","Restart",875,94
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:34:13","Stop RT2",876,94
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:34:13","Stop Game",877,94
+965175,"Leicester City FC","Southampton FC","04/19/2018 20:34:21","CONF_PERIOD_SCORE",878,93

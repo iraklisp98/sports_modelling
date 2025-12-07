@@ -1,0 +1,790 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 12:11:54","Lineup changed",0,0
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 12:14:40","Scout in Stadion",1,0
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 12:14:43","Transmission Online",2,0
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 12:14:53","GCC",3,0
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 12:44:33","GCC",4,0
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 12:50:11","GCC",5,0
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 12:56:14","Players are coming out",6,0
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 12:56:29","Players lined up",7,0
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 12:56:47","Shake hands",8,0
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 12:57:11","Jersey Changed",9,0
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 12:57:11","Jersey Changed",10,0
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 12:57:19","Flip coin",11,0
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 12:59:22","Game about to start",12,0
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:00:03","Start RT1 Team 2",13,1
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:00:06","CLS",14,0
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:00:11","Start RT1 Team 2",15,1
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:00:41","AT1",16,1
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:00:52","DANGER1",17,1
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:00:52","DAT1",18,1
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:00:56","GOAL1",19,1
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:01:08","Scorer",20,1
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:01:43","CONF_GOAL1",21,2
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:01:52","KO2",22,2
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:01:52","SAFE2",23,2
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:02:17","POSSIBLE_TI",24,3
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:02:19","TI1",25,3
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:02:22","Player_DATA_CONFIRMED",26,3
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:02:22","Assist",27,3
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:02:32","Restart",28,3
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:02:45","Possible Free Kick",29,3
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:02:47","SAFE1",31,3
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:02:47","F2",32,3
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:02:47","FK1",33,3
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:02:47","Ball Position",34,3
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:02:48","Restart",35,3
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:02:59","AT2",36,3
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:03:06","SAFE1",37,3
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:03:07","AT1",38,3
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:03:19","POSSIBLE_CARDS",39,4
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:03:51","NO_Cards",40,4
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:03:52","Possible Free Kick",41,4
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:03:54","F2",43,4
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:03:54","FK1",44,4
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:03:54","DANGER1",45,4
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:03:54","DFK1",46,4
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:03:54","Ball Position",47,4
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:04:09","Restart",48,4
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:04:16","Possible Free Kick",49,5
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:04:17","SAFE2",51,5
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:04:17","F1",52,5
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:04:17","FK2",53,5
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:04:17","Ball Position",54,5
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:04:29","Restart",55,5
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:04:35","POSSIBLE_CARDS",56,5
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:04:43","YC2",57,5
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:04:55","CONF_YC2",58,5
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:04:59","Scorer",59,5
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:05:02","Possible Free Kick",60,5
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:05:02","SAFE1",62,5
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:05:02","F2",63,5
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:05:02","FK1",64,5
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:05:02","Ball Position",65,5
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:05:03","Restart",66,5
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:05:07","AT1",67,5
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:05:13","DANGER1",68,6
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:05:13","DAT1",69,6
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:05:17","POSSIBLE_TI",70,6
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:05:18","TI2",71,6
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:05:29","Restart",72,6
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:05:47","Player_DATA_CONFIRMED",73,6
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:05:54","Possible Free Kick",74,6
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:05:57","F1",76,6
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:05:57","FK2",77,6
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:05:57","DFK2",78,6
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:05:57","Ball Position",79,6
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:06:02","Restart",80,6
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:06:22","PPEN",81,7
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:06:22","PPEN1",82,7
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:06:45","POSSIBLE_CARDS",83,7
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:07:26","PRC",84,8
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:08:01","YC1",85,8
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:08:03","CONF_YC1",86,8
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:08:14","Scorer",87,9
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:08:22","No RC",88,9
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:08:25","PEN2",89,9
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:08:25","DANGER2",90,9
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:08:44","Scorer",91,9
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:08:53","GOAL2",92,9
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:08:53","Scorer",93,9
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:09:30","CONF_GOAL2",94,10
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:09:32","KO1",95,10
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:09:32","SAFE1",96,10
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:09:49","Player_DATA_CONFIRMED",97,10
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:09:53","AT2",98,10
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:10:07","Possible Free Kick",99,10
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:10:10","SAFE1",101,10
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:10:10","O2",102,10
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:10:10","FK1",103,10
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:10:10","Ball Position",104,10
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:10:17","Player_DATA_CONFIRMED",105,11
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:10:18","Restart",106,11
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:10:31","AT1",107,11
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:10:34","DANGER1",108,11
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:10:34","DAT1",109,11
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:10:43","POSSIBLE_CARDS",110,11
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:10:49","YC2",111,11
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:10:53","CONF_YC2",112,11
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:10:56","Scorer",113,11
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:11:14","Possible Free Kick",114,12
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:11:15","F2",116,12
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:11:15","FK1",117,12
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:11:15","DFK1",118,12
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:11:15","Ball Position",119,12
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:11:46","Player_DATA_CONFIRMED",120,12
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:11:52","Restart",121,12
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:12:26","Possible Free Kick",122,13
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:12:27","SAFE1",124,13
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:12:27","F2",125,13
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:12:27","FK1",126,13
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:12:27","Ball Position",127,13
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:12:29","Restart",128,13
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:12:38","AT1",129,13
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:12:41","DANGER1",130,13
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:12:41","DAT1",131,13
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:12:48","SAFE2",132,13
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:13:17","SAFE1",133,14
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:13:17","GK1",134,14
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:13:24","Restart",135,14
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:13:39","AT2",136,14
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:13:40","POSSIBLE_TI",137,14
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:13:40","TI2",138,14
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:13:43","Restart",139,14
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:13:43","DANGER2",140,14
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:13:43","DAT2",141,14
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:14:06","SHW2",142,14
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:14:16","SAFE1",143,15
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:14:17","AT1",144,15
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:14:27","DANGER1",145,15
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:14:27","DAT1",146,15
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:14:32","POSSIBLE_CARDS",147,15
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:15:00","NO_Cards",148,15
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:15:01","Possible Free Kick",149,15
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:15:02","F2",151,15
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:15:02","FK1",152,15
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:15:02","DFK1",153,15
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:15:02","Ball Position",154,15
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:15:19","Restart",155,16
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:15:44","POSSIBLE_TI",156,16
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:15:45","TI1",157,16
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:15:46","Restart",158,16
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:16:09","SAFE2",159,16
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:16:27","AT2",160,17
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:16:28","DANGER2",161,17
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:16:28","DAT2",162,17
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:16:45","SHB2",163,17
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:16:47","SAFE1",164,17
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:16:48","GK1",165,17
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:16:58","Restart",166,17
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:17:12","AT1",167,18
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:17:28","SAFE1",168,18
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:17:46","AT2",169,18
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:17:52","DANGER2",170,18
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:17:52","DAT2",171,18
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:18:04","SAFE1",172,18
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:18:10","AT2",173,18
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:18:12","DANGER2",174,19
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:18:12","DAT2",175,19
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:18:24","Possible Free Kick",176,19
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:18:30","SAFE1",178,19
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:18:30","F2",179,19
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:18:30","FK1",180,19
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:18:30","Ball Position",181,19
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:18:50","Restart",182,19
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:18:54","AT1",183,19
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:19:15","SAFE2",184,20
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:19:16","AT2",185,20
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:19:17","DANGER2",186,20
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:19:17","DAT2",187,20
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:19:28","SHG2",188,20
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:19:30","SAFE1",189,20
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:19:50","AT1",190,20
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:20:08","SAFE2",191,20
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:20:16","SAFE1",192,21
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:20:26","AT2",193,21
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:20:28","DANGER2",194,21
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:20:28","DAT2",195,21
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:20:35","SHW2",196,21
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:20:46","POSSIBLE_TI",197,21
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:20:46","TI2",198,21
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:20:49","Restart",199,21
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:20:50","SAFE2",200,21
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:21:42","SAFE1",201,22
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:22:11","AT1",202,23
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:22:12","DANGER1",203,23
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:22:12","DAT1",204,23
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:22:25","SHB1",205,23
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:22:33","SAFE2",206,23
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:22:33","GK2",207,23
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:22:39","Restart",208,23
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:23:11","AT2",209,24
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:23:12","DANGER2",210,24
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:23:12","DAT2",211,24
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:23:45","Possible Free Kick",212,24
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:23:49","SAFE1",214,24
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:23:49","F2",215,24
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:23:49","FK1",216,24
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:23:49","Ball Position",217,24
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:23:59","Restart",218,24
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:24:12","AT2",219,25
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:24:12","DANGER2",220,25
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:24:12","DAT2",221,25
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:24:17","SHB2",222,25
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:24:21","SAFE1",223,25
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:24:48","SAFE2",224,25
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:25:00","AT2",225,25
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:25:26","DANGER2",226,26
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:25:26","DAT2",227,26
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:25:35","SAFE1",228,26
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:25:45","AT1",229,26
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:25:48","DANGER1",230,26
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:25:48","DAT1",231,26
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:26:28","PCR1",232,27
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:26:42","SHB1",233,27
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:26:44","NCR1",234,27
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:26:48","Possible Free Kick",235,27
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:26:49","SAFE2",237,27
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:26:49","F1",238,27
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:26:49","FK2",239,27
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:26:50","Ball Position",240,27
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:26:51","Restart",241,27
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:27:13","AT2",242,28
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:27:22","DANGER2",243,28
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:27:22","DAT2",244,28
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:27:47","SAFE1",245,28
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:28:14","AT1",246,29
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:28:20","POSSIBLE_TI",247,29
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:28:21","TI1",248,29
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:28:27","Restart",249,29
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:28:28","DANGER1",250,29
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:28:28","DAT1",251,29
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:28:46","SAFE2",252,29
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:28:46","AT2",253,29
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:28:49","POSSIBLE_TI",254,29
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:28:50","TI2",255,29
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:28:52","Restart",256,29
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:29:10","POSSIBLE_CARDS",257,29
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:29:28","NO_Cards",258,30
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:29:32","Possible Free Kick",259,30
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:29:33","F1",261,30
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:29:33","FK2",262,30
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:29:33","DANGER2",263,30
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:29:33","DFK2",264,30
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:29:33","Ball Position",265,30
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:29:34","Restart",266,30
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:30:02","SAFE1",267,30
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:30:09","AT1",268,30
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:30:27","SAFE1",269,31
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:30:37","AT1",270,31
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:30:45","DANGER1",271,31
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:30:45","DAT1",272,31
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:30:50","POSSIBLE_TI",273,31
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:30:50","TI1",274,31
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:31:05","Restart",275,31
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:31:29","POSSIBLE_TI",276,32
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:31:30","TI2",277,32
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:31:44","Restart",278,32
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:31:54","SAFE2",279,32
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:31:54","AT2",280,32
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:31:58","POSSIBLE_TI",281,32
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:31:58","TI2",282,32
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:32:14","Restart",283,33
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:32:15","DANGER2",284,33
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:32:15","DAT2",285,33
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:32:24","POSSIBLE_TI",286,33
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:32:25","TI2",287,33
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:32:33","Restart",288,33
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:32:45","SHG2",289,33
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:32:47","SAFE1",290,33
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:32:57","POSSIBLE_CARDS",291,33
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:33:43","YC1",292,34
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:33:46","CONF_YC1",293,34
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:33:50","Scorer",294,34
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:33:56","Injury Break",295,34
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:34:14","Player_DATA_CONFIRMED",296,35
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:34:38","Possible Free Kick",297,35
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:34:40","SAFE2",299,35
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:34:40","Restart",300,35
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:34:40","F1",301,35
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:34:40","FK2",302,35
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:34:40","Ball Position",303,35
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:34:41","Restart",304,35
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:34:51","AT1",305,35
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:34:53","POSSIBLE_TI",306,35
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:34:56","TI2",307,35
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:35:08","Restart",308,35
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:35:14","SAFE2",309,36
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:35:14","AT2",310,36
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:35:16","DANGER2",311,36
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:35:16","DAT2",312,36
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:35:45","SHB2",313,36
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:35:54","SAFE1",314,36
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:35:54","GK1",315,36
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:36:06","Restart",316,36
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:36:15","AT1",317,37
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:36:21","POSSIBLE_TI",318,37
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:36:22","TI1",319,37
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:36:23","Restart",320,37
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:36:25","SAFE1",321,37
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:36:30","AT1",322,37
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:36:38","DANGER1",323,37
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:36:38","DAT1",324,37
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:36:49","POSSIBLE_CARDS",325,37
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:36:51","PRC",326,37
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:37:20","No RC",327,38
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:37:22","NO_Cards",328,38
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:37:24","Possible Free Kick",329,38
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:37:25","SAFE2",331,38
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:37:25","F1",332,38
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:37:25","FK2",333,38
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:37:25","Ball Position",334,38
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:37:34","Restart",335,38
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:37:35","AT2",336,38
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:37:35","DANGER2",337,38
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:37:35","DAT2",338,38
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:37:42","SAFE1",339,38
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:37:43","GK1",340,38
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:38:00","Restart",341,38
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:38:07","AT1",342,38
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:38:08","DANGER1",343,38
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:38:08","DAT1",344,38
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:38:22","SAFE2",345,39
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:38:22","AT2",346,39
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:38:23","POSSIBLE_TI",347,39
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:38:24","TI2",348,39
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:38:37","Restart",349,39
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:38:44","SAFE2",350,39
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:38:53","AT2",351,39
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:38:59","SAFE1",352,39
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:39:28","AT1",353,40
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:39:41","Possible Free Kick",354,40
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:39:45","F2",356,40
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:39:45","FK1",357,40
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:39:45","DANGER1",358,40
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:39:45","DFK1",359,40
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:39:45","Ball Position",360,40
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:39:55","Restart",361,40
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:40:06","POSSIBLE_TI",362,40
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:40:06","TI1",363,40
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:40:07","Restart",364,40
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:40:15","SAFE1",365,41
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:40:30","AT1",366,41
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:40:31","DANGER1",367,41
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:40:31","DAT1",368,41
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:40:37","SHG1",369,41
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:40:40","SAFE2",370,41
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:40:56","SAFE1",371,41
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:41:07","AT1",372,41
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:41:09","DANGER1",373,41
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:41:09","DAT1",374,41
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:41:15","POSSIBLE_TI",375,42
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:41:16","TI1",376,42
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:41:26","Restart",377,42
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:41:44","SAFE2",378,42
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:41:45","GK2",379,42
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:42:06","Restart",380,42
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:42:33","Possible Free Kick",381,43
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:42:34","SAFE1",383,43
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:42:35","F2",384,43
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:42:35","FK1",385,43
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:42:35","Ball Position",386,43
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:42:35","Restart",387,43
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:42:37","AT1",388,43
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:42:59","POSSIBLE_CARDS",389,43
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:43:08","NO_Cards",390,43
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:43:09","Possible Free Kick",391,43
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:43:11","F2",393,44
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:43:11","FK1",394,44
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:43:11","DANGER1",395,44
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:43:11","DFK1",396,44
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:43:11","Ball Position",397,44
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:43:12","Restart",398,44
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:43:38","SAFE1",399,44
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:43:45","AT1",400,44
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:43:50","SAFE2",401,44
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:43:54","AT2",402,44
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:44:21","DANGER2",403,45
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:44:21","DAT2",404,45
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:44:29","SAFE1",405,45
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:44:32","AT1",406,45
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:44:45","SAFE2",407,45
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:44:50","SAFE1",408,45
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:44:55","AT2",409,45
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:44:56","DANGER2",410,45
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:44:56","DAT2",411,45
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:45:02","PCR2",412,45
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:45:15","CR2",413,46
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:45:16","Ball Position",414,46
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:45:23","Extra Time",415,46
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:45:29","Restart",416,46
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:45:36","SHB2",417,46
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:45:38","SAFE1",418,46
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:45:38","GK1",419,46
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:45:55","Restart",420,46
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:46:06","AT2",421,46
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:46:10","DANGER2",422,46
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:46:10","DAT2",423,46
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:46:25","SAFE1",424,47
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:46:28","Stop RT1",425,47
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 13:46:40","CONF_PERIOD_SCORE",426,45
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:00:47","Players are coming out",427,45
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:02:22","Game about to start",428,45
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:02:37","SUB1",429,45
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:02:54","Start RT2 Team 1",430,46
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:03:11","SAFE1",431,46
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:03:14","Player_DATA_CONFIRMED",432,46
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:03:32","AT1",433,46
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:03:46","AT2",434,46
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:03:46","DANGER2",435,46
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:03:46","DAT2",436,46
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:03:48","AT1",437,46
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:03:48","DANGER1",438,46
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:03:48","DAT1",439,46
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:03:49","CLS",440,46
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:03:50","CLS",441,46
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:03:51","DANGER1",442,46
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:03:51","DAT1",443,46
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:04:15","PPEN",444,47
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:04:15","PPEN1",445,47
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:04:23","No PEN",446,47
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:04:33","Injury Break",447,47
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:05:03","POSSIBLE_CARDS",448,48
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:05:51","PRC",449,48
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:06:08","YRC1",450,49
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:06:52","CYC_RC1",451,49
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:06:55","RC1",452,50
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:06:57","CONF_RC1",453,50
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:07:01","Scorer",454,50
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:07:16","Player_DATA_CONFIRMED",455,50
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:07:21","System Message",456,50
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:07:38","Injury Break",457,50
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:08:40","SUB1",458,51
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:08:45","Player_DATA_CONFIRMED",459,51
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:09:00","SAFE2",460,52
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:09:00","Restart",461,52
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:09:00","AT2",462,52
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:09:23","POSSIBLE_TI",463,52
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:09:25","TI2",464,52
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:09:25","Restart",465,52
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:09:29","SAFE2",466,52
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:09:34","System Message",467,52
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:10:01","AT2",468,53
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:10:39","SAFE2",469,53
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:10:45","AT2",470,53
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:10:50","SAFE1",471,53
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:10:52","AT1",472,53
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:11:23","DANGER1",473,54
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:11:23","DAT1",474,54
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:11:44","Possible Free Kick",475,54
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:11:47","SAFE2",477,54
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:11:47","O1",478,54
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:11:47","FK2",479,54
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:11:47","Ball Position",480,54
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:11:56","Restart",481,55
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:12:24","SAFE1",482,55
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:12:28","AT1",483,55
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:12:32","SAFE2",484,55
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:12:50","SAFE1",485,55
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:13:16","SAFE2",486,56
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:13:18","AT2",487,56
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:13:20","DANGER2",488,56
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:13:20","DAT2",489,56
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:13:41","SAFE2",490,56
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:13:54","Time Correction",491,57
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:13:55","AT2",492,57
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:14:02","POSSIBLE_TI",493,57
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:14:03","TI2",494,57
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:14:04","Restart",495,57
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:14:06","DANGER2",496,57
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:14:06","DAT2",497,57
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:14:16","POSSIBLE_TI",498,57
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:14:18","TI1",499,57
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:14:25","Restart",500,57
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:14:54","SAFE1",501,57
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:14:54","GK1",502,58
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:15:25","Restart",503,58
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:15:34","AT1",504,58
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:15:38","DANGER1",505,58
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:15:38","DAT1",506,58
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:15:51","POSSIBLE_TI",507,58
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:15:52","TI1",508,58
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:15:54","Restart",509,59
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:16:10","AT2",510,59
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:16:10","DANGER2",511,59
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:16:10","DAT2",512,59
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:16:20","SHB2",513,59
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:16:21","SAFE1",514,59
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:16:22","GK1",515,59
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:16:59","Restart",516,60
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:17:13","POSSIBLE_CARDS",517,60
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:17:16","NO_Cards",518,60
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:17:17","Possible Free Kick",519,60
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:17:18","F2",521,60
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:17:18","FK1",522,60
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:17:18","DANGER1",523,60
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:17:18","DFK1",524,60
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:17:18","Ball Position",525,60
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:17:19","Restart",526,60
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:17:28","POSSIBLE_TI",527,60
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:17:31","TI2",528,60
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:17:37","Restart",529,60
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:17:46","SAFE2",530,60
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:17:47","AT2",531,60
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:17:48","DANGER2",532,60
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:17:48","DAT2",533,60
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:17:55","PCR2",534,61
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:18:12","CR2",535,61
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:18:13","Ball Position",536,61
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:18:22","Restart",537,61
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:18:42","SAFE2",538,61
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:19:12","POSSIBLE_CARDS",539,62
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:19:39","PRC",540,62
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:19:39","Danger",541,62
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:19:49","YC1",542,62
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:19:52","CONF_YC1",543,62
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:19:57","Scorer",544,63
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:20:00","No RC",545,63
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:20:02","Possible Free Kick",546,63
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:20:03","F1",548,63
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:20:03","FK2",549,63
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:20:03","DFK2",550,63
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:20:03","Ball Position",551,63
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:20:04","Restart",552,63
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:20:08","AT2",553,63
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:20:08","DANGER2",554,63
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:20:08","DAT2",555,63
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:20:21","SHW2",556,63
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:20:32","SAFE1",557,63
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:20:33","GK1",558,63
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:20:45","Restart",559,63
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:20:48","Player_DATA_CONFIRMED",560,63
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:20:53","SAFE2",561,63
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:20:59","AT2",562,64
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:21:02","DANGER2",563,64
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:21:02","DAT2",564,64
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:21:15","SAFE1",565,64
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:21:16","AT1",566,64
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:21:17","DANGER1",567,64
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:21:17","DAT1",568,64
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:21:28","SAFE2",569,64
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:21:47","AT2",570,64
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:21:58","SAFE1",571,65
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:21:59","AT1",572,65
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:22:01","DANGER1",573,65
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:22:01","DAT1",574,65
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:22:19","POSSIBLE_TI",575,65
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:22:20","TI1",576,65
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:22:25","Restart",577,65
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:23:06","SAFE2",578,66
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:23:17","AT2",579,66
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:23:28","POSSIBLE_TI",580,66
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:23:28","TI1",581,66
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:23:46","SUB2",582,66
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:24:09","Restart",583,67
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:24:27","Player_DATA_CONFIRMED",584,67
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:24:28","SAFE2",585,67
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:24:54","POSSIBLE_TI",586,68
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:24:55","TI2",587,68
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:24:56","Restart",588,68
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:25:07","AT2",589,68
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:25:09","DANGER2",590,68
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:25:09","DAT2",591,68
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:25:20","POSSIBLE_TI",592,68
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:25:22","TI2",593,68
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:25:33","Restart",594,68
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:25:51","SAFE1",595,68
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:25:52","AT1",596,68
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:25:53","DANGER1",597,68
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:25:53","DAT1",598,68
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:26:01","POSSIBLE_TI",599,69
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:26:01","TI2",600,69
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:26:02","Restart",601,69
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:26:03","SAFE2",602,69
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:26:35","SAFE1",603,69
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:26:56","AT1",604,70
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:27:04","DANGER1",605,70
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:27:04","DAT1",606,70
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:27:41","SAFE2",607,70
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:27:42","AT2",608,70
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:27:48","Possible Free Kick",609,70
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:27:51","SAFE1",611,70
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:27:51","F2",612,70
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:27:51","FK1",613,70
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:27:51","Ball Position",614,70
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:28:03","Restart",615,71
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:28:10","AT1",616,71
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:28:20","POSSIBLE_TI",617,71
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:28:21","TI1",618,71
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:28:29","Restart",619,71
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:28:55","DANGER1",620,72
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:28:55","DAT1",621,72
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:29:00","POSSIBLE_TI",622,72
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:29:00","TI1",623,72
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:29:21","Restart",624,72
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:29:49","POSSIBLE_TI",625,72
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:29:50","TI1",626,72
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:30:02","SUB2",627,73
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:30:09","Restart",628,73
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:30:35","SAFE2",629,73
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:30:49","Player_DATA_CONFIRMED",630,73
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:30:56","SAFE1",631,74
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:31:09","Possible Free Kick",632,74
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:31:10","F2",634,74
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:31:10","FK1",635,74
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:31:10","Ball Position",636,74
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:31:11","Restart",637,74
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:31:29","SAFE2",638,74
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:31:41","AT2",639,74
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:31:48","SAFE1",640,74
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:31:59","Possible Free Kick",641,75
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:32:01","SAFE2",643,75
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:32:01","O1",644,75
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:32:01","FK2",645,75
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:32:01","Ball Position",646,75
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:32:04","Restart",647,75
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:32:15","AT2",648,75
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:32:15","DANGER2",649,75
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:32:15","DAT2",650,75
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:32:27","SAFE1",651,75
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:32:37","SAFE2",652,75
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:32:41","AT2",653,75
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:32:49","DANGER2",654,75
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:32:49","DAT2",655,75
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:33:15","SHG2",656,76
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:33:17","SAFE1",657,76
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:33:54","POSSIBLE_TI",658,76
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:33:56","TI1",659,77
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:33:58","Restart",660,77
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:34:03","AT2",661,77
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:34:03","DANGER2",662,77
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:34:03","DAT2",663,77
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:34:15","POSSIBLE_CARDS",664,77
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:34:53","NO_Cards",665,77
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:34:56","Possible Free Kick",666,78
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:34:57","SAFE1",668,78
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:34:57","F2",669,78
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:34:57","FK1",670,78
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:34:57","Ball Position",671,78
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:35:27","Restart",672,78
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:35:39","SAFE2",673,78
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:35:53","AT2",674,78
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:36:00","DANGER2",675,79
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:36:00","DAT2",676,79
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:36:10","POSSIBLE_CARDS",677,79
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:36:24","NO_Cards",678,79
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:36:26","SHG2",679,79
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:36:27","SHG2",680,79
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:36:30","Possible Free Kick",681,79
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:36:31","SAFE1",683,79
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:36:31","F2",684,79
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:36:31","FK1",685,79
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:36:31","Ball Position",686,79
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:36:33","Restart",687,79
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:36:40","AT2",688,79
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:36:52","SAFE1",689,79
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:36:56","SAFE2",690,80
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:37:11","AT2",691,80
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:37:14","DANGER2",692,80
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:37:14","DAT2",693,80
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:37:14","PCR2",694,80
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:37:22","CR2",695,80
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:37:24","Ball Position",696,80
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:37:42","Restart",697,80
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:37:52","SAFE1",698,80
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:37:53","AT1",699,80
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:37:54","DANGER1",700,81
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:37:54","DAT1",701,81
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:38:07","SAFE2",702,81
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:38:09","AT2",703,81
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:38:22","DANGER2",704,81
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:38:22","DAT2",705,81
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:38:31","SAFE1",706,81
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:38:32","GK1",707,81
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:38:36","Restart",708,81
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:39:08","AT1",709,82
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:39:10","DANGER1",710,82
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:39:10","DAT1",711,82
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:39:30","SAFE2",712,82
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:39:31","AT2",713,82
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:39:34","DANGER2",714,82
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:39:34","DAT2",715,82
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:39:43","SHG2",716,82
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:39:53","SAFE1",717,82
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:39:54","AT1",718,82
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:39:55","DANGER1",719,83
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:39:55","DAT1",720,83
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:40:06","SHG1",721,83
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:40:10","SAFE2",722,83
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:40:15","AT2",723,83
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:40:28","SAFE1",724,83
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:40:31","POSSIBLE_CARDS",725,83
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:40:34","PRC",726,83
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:40:34","Danger",727,83
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:40:45","RC2",728,83
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:40:54","CONF_RC2",729,84
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:40:58","Scorer",730,84
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:41:20","Player_DATA_CONFIRMED",731,84
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:42:04","SUB2",732,85
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:42:08","Possible Free Kick",733,85
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:42:09","F2",735,85
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:42:09","FK1",736,85
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:42:09","DFK1",737,85
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:42:09","Ball Position",738,85
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:42:17","Restart",739,85
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:42:35","AT1",740,85
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:42:55","Possible Free Kick",741,86
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:43:10","F2",743,86
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:43:10","FK1",744,86
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:43:10","DFK1",745,86
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:43:10","Ball Position",746,86
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:43:22","Restart",747,86
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:43:26","SHG1",748,86
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:43:30","SAFE2",749,86
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:43:47","AT2",750,86
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:43:49","SAFE1",751,86
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:43:50","Player_DATA_CONFIRMED",752,86
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:44:01","AT2",753,87
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:44:06","DANGER2",754,87
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:44:06","DAT2",755,87
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:44:29","SAFE1",756,87
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:44:29","AT1",757,87
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:44:32","DANGER1",758,87
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:44:32","DAT1",759,87
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:44:41","SHG1",760,87
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:44:47","SAFE2",761,87
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:45:01","SAFE1",762,88
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:45:15","AT1",763,88
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:45:26","DANGER1",764,88
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:45:26","DAT1",765,88
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:45:33","SAFE2",766,88
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:45:37","AT2",767,88
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:45:39","POSSIBLE_TI",768,88
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:45:40","TI1",769,88
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:45:44","Restart",770,88
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:45:53","SAFE1",771,88
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:45:54","AT1",772,89
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:46:03","Possible Free Kick",773,89
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:46:05","F2",775,89
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:46:05","FK1",776,89
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:46:05","DANGER1",777,89
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:46:05","DFK1",778,89
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:46:05","Ball Position",779,89
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:46:22","Restart",780,89
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:46:28","SAFE2",781,89
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:46:43","AT2",782,89
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:46:48","SAFE1",783,89
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:46:48","AT1",784,89
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:46:56","DANGER1",785,90
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:46:56","DAT1",786,90
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:47:02","PCR1",787,90
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:47:06","SHG1",788,90
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:47:12","CR1",789,90
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:47:13","Ball Position",790,90
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:47:38","Restart",791,90
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:47:56","SHB1",792,91
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:48:00","Extra Time",793,91
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:48:05","SAFE2",794,91
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:48:06","GK2",795,91
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:48:18","Restart",796,91
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:48:50","AT2",797,91
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:48:51","DANGER2",798,91
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:48:51","DAT2",799,91
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:49:23","SAFE2",800,92
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:49:44","AT2",801,92
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:49:48","DANGER2",802,92
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:49:48","DAT2",803,92
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:49:57","POSSIBLE_TI",804,93
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:50:01","TI2",805,93
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:50:14","Restart",806,93
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:50:22","SAFE1",807,93
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:50:23","AT1",808,93
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:50:25","DANGER1",809,93
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:50:25","DAT1",810,93
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:50:38","SAFE2",811,93
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:50:47","AT1",812,93
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:50:47","DANGER1",813,93
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:50:47","DAT1",814,93
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:51:10","Stop RT2",815,93
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:51:10","Stop Game",816,93
+859009,"AS Saint Etienne","Angers SCO","09/10/2017 14:51:14","CONF_PERIOD_SCORE",817,93

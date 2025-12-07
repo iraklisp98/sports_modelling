@@ -1,0 +1,831 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 17:59:25","Transmission Online",0,0
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 17:59:42","GCC",1,0
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 18:10:34","Lineup changed",2,0
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 18:11:09","Scout in Stadion",3,0
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 18:50:58","GCC",4,0
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 18:55:54","Jersey Changed",5,0
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 18:55:55","Jersey Changed",6,0
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 18:56:07","Players are coming out",7,0
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 18:56:19","Players lined up",8,0
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 18:56:43","Shake hands",9,0
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 18:57:11","Flip coin",10,0
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 18:58:39","Minute of silent",11,0
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 18:59:41","Game about to start",12,0
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:00:02","Start RT1 Team 2",13,1
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:00:04","SAFE2",14,1
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:00:07","AT2",15,1
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:00:15","Possible Free Kick",16,1
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:00:18","F1",18,1
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:00:18","FK2",19,1
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:00:18","DANGER2",20,1
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:00:18","DFK2",21,1
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:00:18","Ball Position",22,1
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:00:48","Restart",23,1
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:00:54","SHG2",24,1
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:00:56","SAFE1",25,1
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:01:07","AT1",26,2
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:01:14","SAFE2",27,2
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:01:22","POSSIBLE_TI",28,2
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:01:23","TI2",29,2
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:01:25","Restart",30,2
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:02:04","AT1",31,3
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:02:26","SAFE2",32,3
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:02:38","AT1",33,3
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:02:57","DANGER1",34,3
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:02:57","DAT1",35,3
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:03:05","SHB1",36,4
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:03:07","SAFE2",37,4
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:03:08","GK2",38,4
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:03:11","Restart",39,4
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:03:17","AT2",40,4
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:03:19","DANGER2",41,4
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:03:19","DAT2",42,4
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:03:27","SAFE1",43,4
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:03:35","AT2",44,4
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:03:37","DANGER2",45,4
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:03:37","DAT2",46,4
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:03:57","SHB2",47,4
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:03:59","SAFE1",48,4
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:03:59","GK1",49,4
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:04:23","Restart",50,5
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:04:30","AT1",51,5
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:04:43","SAFE2",52,5
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:04:50","AT2",53,5
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:04:54","POSSIBLE_TI",54,5
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:04:56","TI2",55,5
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:05:02","Restart",56,5
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:05:28","AT1",57,6
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:05:28","DANGER1",58,6
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:05:28","DAT1",59,6
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:05:33","Possible Free Kick",60,6
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:05:34","POSSIBLE_CARDS",62,6
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:05:57","NO_Cards",63,6
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:06:00","F2",64,6
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:06:00","FK1",65,6
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:06:00","DFK1",66,6
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:06:00","Ball Position",67,6
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:06:48","Restart",68,7
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:06:54","PCR1",69,7
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:06:57","CR1",70,7
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:07:00","SHG1",71,7
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:07:04","Ball Position",72,8
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:07:15","Restart",73,8
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:07:24","SHB1",74,8
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:07:25","SAFE2",75,8
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:07:26","GK2",76,8
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:07:34","Restart",77,8
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:07:48","SAFE1",78,8
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:07:53","AT1",79,8
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:07:57","DANGER1",80,8
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:07:57","DAT1",81,8
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:08:07","SAFE2",82,9
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:08:10","POSSIBLE_TI",83,9
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:08:11","TI2",84,9
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:08:29","Restart",85,9
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:08:41","AT1",86,9
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:08:49","DANGER1",87,9
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:08:49","DAT1",88,9
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:08:59","SAFE2",89,9
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:09:06","AT2",90,10
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:09:11","Possible Free Kick",91,10
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:09:14","POSSIBLE_CARDS",93,10
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:09:33","NO_Cards",94,10
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:09:35","SAFE1",95,10
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:09:35","F2",96,10
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:09:35","FK1",97,10
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:09:35","Ball Position",98,10
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:09:46","Restart",99,10
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:09:54","AT2",100,10
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:10:09","SAFE1",101,11
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:10:22","AT1",102,11
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:10:31","SAFE1",103,11
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:10:37","Possible Free Kick",104,11
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:10:42","FK1",106,11
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:10:42","Ball Position",107,11
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:10:44","Restart",108,11
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:10:56","AT1",109,11
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:10:56","DANGER1",110,11
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:10:56","DAT1",111,11
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:11:10","SAFE1",112,12
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:11:27","AT1",113,12
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:11:29","DANGER1",114,12
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:11:29","DAT1",115,12
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:11:35","SAFE2",116,12
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:11:42","AT2",117,12
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:11:45","DANGER2",118,12
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:11:45","DAT2",119,12
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:11:48","Possible Free Kick",120,12
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:11:50","POSSIBLE_CARDS",122,12
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:11:59","YC2",123,12
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:12:02","CONF_YC2",124,12
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:12:08","Scorer",125,13
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:12:14","Player_DATA_CONFIRMED",127,13
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:12:15","SAFE1",128,13
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:12:15","F2",129,13
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:12:15","FK1",130,13
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:12:15","Ball Position",131,13
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:12:34","Restart",132,13
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:12:44","AT2",133,13
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:13:25","SAFE1",134,14
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:13:29","SAFE2",135,14
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:13:44","AT2",136,14
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:13:52","DANGER2",137,14
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:13:52","DAT2",138,14
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:14:02","SAFE1",139,14
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:14:13","AT1",140,15
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:14:16","DANGER1",141,15
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:14:16","DAT1",142,15
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:14:26","BLOCKED1",143,15
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:14:30","SAFE2",144,15
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:14:48","SAFE1",145,15
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:15:08","AT1",146,16
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:15:10","DANGER1",147,16
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:15:10","DAT1",148,16
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:15:42","SAFE2",149,16
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:15:55","Possible Free Kick",150,16
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:16:14","F1",152,17
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:16:14","FK2",153,17
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:16:14","Ball Position",154,17
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:16:21","Restart",155,17
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:16:34","AT1",156,17
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:16:34","DANGER1",157,17
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:16:34","DAT1",158,17
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:16:35","POSSIBLE_TI",159,17
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:16:36","TI1",160,17
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:16:38","Restart",161,17
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:16:53","SAFE2",162,17
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:16:57","AT2",163,17
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:16:59","DANGER2",164,17
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:16:59","DAT2",165,17
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:17:08","SAFE1",166,18
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:17:18","POSSIBLE_TI",167,18
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:17:20","TI2",168,18
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:17:45","Restart",169,18
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:17:55","AT1",170,18
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:18:04","SAFE2",171,19
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:18:06","AT2",172,19
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:18:10","DANGER2",173,19
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:18:10","DAT2",174,19
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:18:27","SAFE1",175,19
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:18:28","POSSIBLE_TI",176,19
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:18:30","TI1",177,19
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:18:41","Restart",178,19
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:18:59","AT1",179,19
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:18:59","DANGER1",180,19
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:18:59","DAT1",181,19
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:19:09","POSSIBLE_TI",182,20
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:19:10","TI1",183,20
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:19:11","Restart",184,20
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:19:17","POSSIBLE_TI",185,20
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:19:18","TI1",186,20
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:19:28","Restart",187,20
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:19:32","Possible Free Kick",188,20
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:19:33","SAFE2",190,20
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:19:33","F1",191,20
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:19:33","FK2",192,20
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:19:33","Ball Position",193,20
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:19:54","Restart",194,20
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:19:59","POSSIBLE_TI",195,20
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:20:00","TI1",196,20
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:20:08","Restart",197,21
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:20:11","AT1",198,21
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:20:11","POSSIBLE_TI",199,21
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:20:12","TI1",200,21
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:20:28","Restart",201,21
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:20:32","DANGER1",202,21
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:20:32","DAT1",203,21
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:20:33","POSSIBLE_TI",204,21
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:20:33","TI1",205,21
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:20:41","Restart",206,21
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:20:53","POSSIBLE_TI",207,21
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:20:54","TI1",208,21
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:20:59","Restart",209,21
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:21:17","SAFE2",210,22
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:21:34","AT2",211,22
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:21:40","DANGER2",212,22
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:21:40","DAT2",213,22
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:21:47","SHB2",214,22
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:21:49","SAFE1",215,22
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:21:50","GK1",216,22
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:22:09","Restart",217,23
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:22:16","AT2",218,23
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:22:20","Possible Free Kick",219,23
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:22:22","SAFE1",221,23
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:22:22","F2",222,23
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:22:22","FK1",223,23
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:22:22","Ball Position",224,23
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:22:24","Restart",225,23
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:22:31","Possible Free Kick",226,23
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:22:34","SAFE2",228,23
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:22:34","F1",229,23
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:22:34","FK2",230,23
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:22:34","Ball Position",231,23
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:22:36","Restart",232,23
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:23:03","AT2",233,24
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:23:20","DANGER2",234,24
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:23:20","DAT2",235,24
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:23:35","BLOCKED2",236,24
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:23:39","SAFE1",237,24
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:23:41","AT1",238,24
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:23:43","DANGER1",239,24
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:23:43","DAT1",240,24
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:23:56","SHB1",241,24
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:23:58","SAFE2",242,24
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:23:59","GK2",243,24
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:24:15","Restart",244,25
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:24:32","AT2",245,25
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:24:37","SAFE1",246,25
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:24:44","SAFE2",247,25
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:25:02","AT2",248,25
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:25:22","SAFE1",249,26
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:25:30","Possible Free Kick",250,26
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:25:34","SAFE2",252,26
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:25:34","O1",253,26
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:25:34","FK2",254,26
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:25:34","Ball Position",255,26
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:25:47","Restart",256,26
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:26:05","AT2",257,27
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:26:27","SAFE1",258,27
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:26:30","AT1",259,27
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:26:34","DANGER1",260,27
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:26:34","DAT1",261,27
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:26:54","SAFE1",262,27
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:27:46","AT2",263,28
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:27:50","Possible Free Kick",264,28
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:27:55","F1",266,28
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:27:55","FK2",267,28
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:27:56","DANGER2",268,28
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:27:56","DFK2",269,28
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:27:56","Ball Position",270,28
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:28:11","Restart",271,29
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:28:21","POSSIBLE_TI",272,29
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:28:28","TI2",273,29
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:28:34","Restart",274,29
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:29:06","SAFE1",275,30
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:29:08","GK1",276,30
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:29:26","Restart",277,30
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:29:32","AT1",278,30
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:29:38","AT2",279,30
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:29:38","DANGER2",280,30
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:29:38","DAT2",281,30
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:29:41","SAFE1",282,30
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:29:55","AT1",283,30
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:29:55","DANGER1",284,30
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:29:55","DAT1",285,30
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:29:57","POSSIBLE_TI",286,30
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:30:01","TI2",287,30
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:30:14","Restart",288,31
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:30:22","SAFE2",289,31
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:30:25","SAFE1",290,31
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:30:31","AT1",291,31
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:30:31","DANGER1",292,31
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:30:31","DAT1",293,31
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:30:38","SAFE2",294,31
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:31:00","AT2",295,31
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:31:12","DANGER2",296,32
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:31:12","DAT2",297,32
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:31:33","SAFE1",298,32
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:31:55","AT1",299,32
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:32:00","SAFE2",300,32
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:32:12","AT2",301,33
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:32:16","SAFE1",302,33
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:32:17","AT1",303,33
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:32:22","DANGER1",304,33
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:32:22","DAT1",305,33
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:32:35","SAFE2",306,33
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:32:54","AT2",307,33
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:33:06","SAFE1",308,34
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:33:28","AT1",309,34
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:33:32","DANGER1",310,34
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:33:32","DAT1",311,34
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:33:45","SAFE2",312,34
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:34:08","AT2",313,35
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:34:24","SAFE1",314,35
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:34:25","AT1",315,35
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:34:27","DANGER1",316,35
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:34:27","DAT1",317,35
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:34:36","SHB1",318,35
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:34:39","SAFE2",319,35
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:34:40","GK2",320,35
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:34:44","Restart",321,35
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:35:03","AT2",322,36
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:35:13","SAFE1",323,36
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:35:22","AT1",324,36
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:35:25","DANGER1",325,36
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:35:25","DAT1",326,36
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:35:30","SAFE2",327,36
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:35:47","AT2",328,36
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:36:03","DANGER2",329,37
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:36:03","DAT2",330,37
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:36:21","SAFE1",331,37
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:36:51","AT1",332,37
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:37:01","SAFE2",333,37
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:37:07","Possible Free Kick",334,38
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:37:10","F2",336,38
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:37:10","FK1",337,38
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:37:10","DANGER1",338,38
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:37:10","DFK1",339,38
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:37:10","Ball Position",340,38
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:37:16","POSSIBLE_CARDS",341,38
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:37:26","NO_Cards",342,38
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:37:37","Restart",343,38
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:37:52","SAFE1",344,38
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:37:57","AT1",345,38
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:38:01","DANGER1",346,38
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:38:01","DAT1",347,38
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:38:20","Possible Free Kick",348,39
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:38:26","SAFE2",350,39
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:38:26","F1",351,39
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:38:26","FK2",352,39
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:38:26","Ball Position",353,39
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:38:48","Restart",354,39
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:38:51","AT2",355,39
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:38:53","DANGER2",356,39
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:38:53","DAT2",357,39
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:38:59","SAFE1",358,39
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:39:00","AT2",359,39
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:39:19","DANGER2",360,40
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:39:19","DAT2",361,40
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:39:36","SAFE1",362,40
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:39:42","AT1",363,40
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:39:47","SAFE2",364,40
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:40:00","AT2",365,40
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:40:15","DANGER2",366,41
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:40:15","DAT2",367,41
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:40:19","SAFE1",368,41
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:40:20","GK1",369,41
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:40:22","CLS",370,41
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:40:23","POSSIBLE_TI",371,41
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:40:25","TI1",372,41
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:40:37","Restart",373,41
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:40:42","AT1",374,41
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:40:47","Possible Free Kick",375,41
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:40:49","SAFE2",377,41
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:40:49","F1",378,41
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:40:49","FK2",379,41
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:40:49","Ball Position",380,41
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:40:50","Restart",381,41
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:40:53","AT2",382,41
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:41:19","SAFE1",383,42
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:41:21","SAFE2",384,42
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:41:29","AT2",385,42
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:41:32","DANGER2",386,42
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:41:32","DAT2",387,42
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:41:38","SAFE1",388,42
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:41:50","AT1",389,42
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:41:54","DANGER1",390,42
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:41:54","DAT1",391,42
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:42:01","POSSIBLE_TI",392,42
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:42:01","TI1",393,42
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:42:07","Restart",394,43
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:42:08","SAFE1",395,43
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:42:11","AT1",396,43
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:42:37","DANGER1",397,43
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:42:37","DAT1",398,43
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:42:49","BLOCKED1",399,43
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:42:56","SAFE2",400,43
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:43:05","POSSIBLE_TI",401,44
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:43:06","TI2",402,44
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:43:16","Restart",403,44
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:43:43","AT2",404,44
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:43:47","DANGER2",405,44
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:43:47","DAT2",406,44
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:43:51","POSSIBLE_TI",407,44
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:43:53","TI2",408,44
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:43:55","Restart",409,44
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:44:21","SAFE2",410,45
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:44:29","AT2",411,45
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:44:37","DANGER2",412,45
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:44:37","DAT2",413,45
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:44:37","POSSIBLE_TI",414,45
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:44:38","TI2",415,45
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:44:42","Restart",416,45
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:44:49","SAFE1",417,45
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:44:52","AT1",418,45
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:44:53","DANGER1",419,45
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:44:53","DAT1",420,45
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:44:59","PCR1",421,45
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:45:02","CR1",422,45
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:45:05","Ball Position",423,46
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:45:10","Extra Time",424,46
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:45:38","Restart",425,46
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:45:45","Stop RT1",426,46
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:45:52","CONF_PERIOD_SCORE",427,45
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:58:18","GCC",428,45
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 19:59:45","Players are coming out",429,45
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:00:51","Game about to start",430,45
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:01:32","Start RT2 Team 1",431,46
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:01:34","SAFE1",432,46
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:01:43","AT1",433,46
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:01:49","POSSIBLE_TI",434,46
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:01:49","TI1",435,46
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:02:00","Restart",436,46
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:02:06","Possible Free Kick",437,46
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:02:07","SAFE2",439,46
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:02:07","F1",440,46
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:02:07","FK2",441,46
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:02:07","Ball Position",442,46
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:02:09","Restart",443,46
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:02:32","AT2",444,46
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:02:52","DANGER2",445,47
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:02:52","DAT2",446,47
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:03:02","Possible Free Kick",447,47
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:03:06","POSSIBLE_CARDS",449,47
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:03:25","NO_Cards",450,47
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:03:26","SAFE1",451,47
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:03:26","F2",452,47
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:03:26","FK1",453,47
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:03:26","Ball Position",454,47
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:03:40","Restart",455,48
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:03:59","AT1",456,48
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:04:03","Possible Free Kick",457,48
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:04:14","F2",459,48
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:04:14","FK1",460,48
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:04:14","DANGER1",461,48
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:04:14","DFK1",462,48
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:04:14","Ball Position",463,48
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:04:44","Restart",464,49
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:04:50","SAFE1",465,49
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:05:03","AT1",466,49
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:05:06","DANGER1",467,49
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:05:06","DAT1",468,49
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:05:23","SAFE2",469,49
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:05:29","SAFE1",470,49
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:05:31","Possible Free Kick",471,49
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:05:32","POSSIBLE_CARDS",473,49
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:05:40","YC2",474,50
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:05:42","CONF_YC2",475,50
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:05:51","Scorer",476,50
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:05:57","F2",477,50
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:05:57","FK1",478,50
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:05:57","DANGER1",479,50
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:05:57","DFK1",480,50
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:05:57","Ball Position",481,50
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:06:02","Restart",482,50
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:06:09","POSSIBLE_TI",483,50
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:06:10","TI1",484,50
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:06:16","Restart",485,50
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:06:32","POSSIBLE_TI",486,50
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:06:34","TI1",487,51
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:06:44","Restart",488,51
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:06:44","Player_DATA_CONFIRMED",489,51
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:06:53","SAFE2",490,51
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:06:56","SAFE1",491,51
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:06:57","POSSIBLE_TI",492,51
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:06:57","TI1",493,51
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:07:15","Restart",494,51
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:07:17","AT1",495,51
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:07:17","DANGER1",496,51
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:07:17","DAT1",497,51
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:07:21","Possible Free Kick",498,51
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:07:23","SAFE2",500,51
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:07:23","F1",501,51
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:07:23","FK2",502,51
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:07:23","Ball Position",503,51
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:07:37","Restart",504,52
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:07:44","AT2",505,52
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:08:02","Injury Break",506,52
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:09:11","SUB2",507,53
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:09:27","Referee Ball",508,53
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:09:28","Restart",509,53
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:09:30","SAFE2",510,53
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:10:01","SAFE1",511,54
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:10:17","Referee Ball",512,54
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:10:22","Restart",513,54
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:10:42","GCC",514,55
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:11:09","AT1",515,55
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:11:09","DANGER1",516,55
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:11:09","DAT1",517,55
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:11:13","SAFE2",518,55
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:11:14","Player_DATA_CONFIRMED",519,55
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:11:34","AT2",520,56
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:11:42","DANGER2",521,56
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:11:42","DAT2",522,56
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:12:02","SHG2",523,56
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:12:05","SAFE1",524,56
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:12:36","AT1",525,57
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:12:40","DANGER1",526,57
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:12:40","DAT1",527,57
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:13:09","SAFE2",528,57
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:13:19","Possible Free Kick",529,57
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:13:21","SAFE1",531,57
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:13:21","F2",532,57
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:13:21","FK1",533,57
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:13:21","Ball Position",534,57
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:13:23","Restart",535,57
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:13:48","SAFE2",536,58
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:14:12","AT2",537,58
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:14:12","DANGER2",538,58
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:14:12","DAT2",539,58
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:14:17","SAFE1",540,58
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:14:18","AT1",541,58
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:14:21","DANGER1",542,58
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:14:21","DAT1",543,58
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:14:29","SAFE2",544,58
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:14:31","GK2",545,58
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:14:35","Restart",546,59
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:14:59","SAFE1",547,59
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:15:04","Possible Free Kick",548,59
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:15:09","SAFE2",550,59
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:15:09","FK2",551,59
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:15:09","Ball Position",552,59
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:15:11","Restart",553,59
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:15:18","AT2",554,59
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:15:23","DANGER2",555,59
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:15:23","DAT2",556,59
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:15:28","POSSIBLE_TI",557,59
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:15:28","TI2",558,59
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:15:40","Restart",559,60
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:15:50","SAFE2",560,60
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:16:14","AT2",561,60
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:16:27","SAFE1",562,60
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:16:45","SAFE2",563,61
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:16:55","AT2",564,61
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:17:14","DANGER2",565,61
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:17:14","DAT2",566,61
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:17:21","SAFE1",567,61
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:17:24","AT1",568,61
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:17:28","DANGER1",569,61
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:17:28","DAT1",570,61
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:17:32","SAFE2",571,61
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:17:44","AT2",572,62
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:17:50","Possible Free Kick",573,62
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:17:56","F1",575,62
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:17:56","FK2",576,62
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:17:56","DANGER2",577,62
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:17:56","DFK2",578,62
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:17:56","Ball Position",579,62
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:18:17","Restart",580,62
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:18:25","POSSIBLE_TI",581,62
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:18:25","TI2",582,62
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:18:36","Restart",583,63
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:18:53","SAFE2",584,63
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:19:01","AT2",585,63
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:19:18","DANGER2",586,63
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:19:18","DAT2",587,63
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:19:24","SAFE2",588,63
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:19:35","AT2",589,64
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:19:35","DANGER2",590,64
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:19:35","DAT2",591,64
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:19:37","SAFE1",592,64
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:19:40","AT2",593,64
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:19:47","DANGER2",594,64
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:19:47","DAT2",595,64
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:20:01","Possible Free Kick",596,64
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:20:04","SAFE2",598,64
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:20:04","O1",599,64
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:20:04","FK2",600,64
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:20:04","Ball Position",601,64
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:20:18","Restart",602,64
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:20:27","SAFE1",603,64
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:20:44","POSSIBLE_TI",604,65
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:20:45","TI1",605,65
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:20:54","Restart",606,65
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:21:00","Possible Free Kick",607,65
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:21:07","SAFE2",609,65
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:21:07","F1",610,65
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:21:07","FK2",611,65
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:21:07","Ball Position",612,65
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:21:12","Restart",613,65
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:21:37","AT2",614,66
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:21:58","SAFE1",615,66
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:21:59","POSSIBLE_TI",616,66
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:22:00","TI1",617,66
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:22:05","Restart",618,66
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:22:19","AT2",619,66
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:22:36","SAFE2",620,67
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:23:04","AT2",621,67
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:23:08","Possible Free Kick",622,67
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:23:10","SAFE1",624,67
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:23:10","O2",625,67
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:23:10","FK1",626,67
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:23:10","Ball Position",627,67
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:23:28","Restart",628,67
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:23:41","SAFE2",629,68
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:23:52","AT2",630,68
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:23:52","DANGER2",631,68
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:23:52","DAT2",632,68
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:24:03","SAFE1",633,68
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:24:17","AT1",634,68
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:24:35","DANGER1",635,69
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:24:35","DAT1",636,69
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:24:51","PCR1",637,69
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:24:53","CR1",638,69
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:24:54","Ball Position",639,69
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:25:03","Restart",640,69
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:25:07","PCR1",641,69
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:25:09","CR1",642,69
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:25:12","Ball Position",643,69
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:25:28","Restart",644,69
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:25:31","GOAL1",645,69
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:25:44","Scorer",646,70
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:26:26","CONF_GOAL1",647,70
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:26:26","Scorer",648,70
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:26:26","KO2",649,70
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:26:26","SAFE2",650,70
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:26:29","AT2",651,70
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:26:35","POSSIBLE_TI",652,71
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:26:35","TI2",653,71
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:26:42","Restart",654,71
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:26:44","Player_DATA_CONFIRMED",655,71
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:26:44","Assist",656,71
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:27:02","Possible Free Kick",657,71
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:27:14","F1",659,71
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:27:14","FK2",660,71
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:27:14","DANGER2",661,71
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:27:14","DFK2",662,71
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:27:14","Ball Position",663,71
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:27:35","Restart",664,72
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:27:41","PCR2",665,72
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:27:45","CR2",666,72
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:27:47","SHG2",667,72
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:27:49","Ball Position",668,72
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:28:04","Restart",669,72
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:28:25","SAFE1",670,72
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:28:27","GK1",671,72
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:28:53","Restart",672,73
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:29:01","AT1",673,73
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:29:03","Possible Free Kick",674,73
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:29:19","F2",676,73
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:29:19","FK1",677,73
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:29:19","DANGER1",678,73
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:29:19","DFK1",679,73
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:29:19","Ball Position",680,73
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:29:32","Restart",681,73
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:29:38","SAFE2",682,74
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:29:48","SAFE1",683,74
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:29:53","AT1",684,74
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:30:09","SAFE1",685,74
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:30:16","AT1",686,74
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:30:21","DANGER1",687,74
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:30:21","DAT1",688,74
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:30:26","SAFE2",689,74
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:30:40","AT2",690,75
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:30:48","DANGER2",691,75
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:30:48","DAT2",692,75
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:31:17","PCR2",693,75
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:31:21","CR2",694,75
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:31:23","SHB2",695,75
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:31:25","Ball Position",696,75
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:31:41","Restart",697,76
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:31:49","SAFE1",698,76
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:31:50","GK1",699,76
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:32:03","SUB2",700,76
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:32:34","SUB1",701,77
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:33:07","SUB1",702,77
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:33:14","Player_DATA_CONFIRMED",703,77
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:33:22","Restart",704,77
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:33:31","Possible Free Kick",705,77
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:33:36","F2",707,78
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:33:36","FK1",708,78
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:33:36","DANGER1",709,78
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:33:36","DFK1",710,78
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:33:36","Ball Position",711,78
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:33:52","Restart",712,78
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:34:08","PCR1",713,78
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:34:12","CR1",714,78
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:34:15","SHG1",715,78
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:34:16","Ball Position",716,78
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:34:41","Restart",717,79
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:34:48","SAFE1",718,79
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:34:57","AT1",719,79
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:35:08","DANGER1",720,79
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:35:08","DAT1",721,79
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:35:12","SAFE2",722,79
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:35:51","AT2",723,80
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:36:17","DANGER2",724,80
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:36:17","DAT2",725,80
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:36:20","POSSIBLE_TI",726,80
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:36:22","TI2",727,80
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:36:25","Restart",728,80
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:36:36","SAFE2",729,81
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:36:41","GCC",730,81
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:36:42","SUB_UPDATE",731,81
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:36:42","Player_DATA_CONFIRMED",732,81
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:36:44","AT2",733,81
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:36:44","DANGER2",734,81
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:36:44","DAT2",735,81
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:36:48","POSSIBLE_TI",736,81
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:36:49","TI1",737,81
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:36:59","Restart",738,81
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:37:04","POSSIBLE_TI",739,81
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:37:04","TI2",740,81
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:37:07","SUB_UPDATE",741,81
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:37:07","Player_DATA_CONFIRMED",742,81
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:37:08","Restart",743,81
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:37:29","SHB2",744,81
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:37:32","SAFE1",745,82
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:37:35","GK1",746,82
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:38:07","SUB2",747,82
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:38:24","Restart",748,82
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:38:31","SAFE2",749,82
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:38:34","AT2",750,83
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:38:40","SAFE1",751,83
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:38:44","Player_DATA_CONFIRMED",752,83
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:38:52","AT1",753,83
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:38:56","SAFE2",754,83
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:39:25","AT2",755,83
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:39:28","SAFE1",756,83
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:39:30","SAFE2",757,83
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:39:33","SAFE2",758,84
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:39:33","AT2",759,84
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:39:41","DANGER2",760,84
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:39:41","DAT2",761,84
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:39:52","SAFE1",762,84
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:40:01","AT1",763,84
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:40:01","DANGER1",764,84
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:40:01","DAT1",765,84
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:40:13","POSSIBLE_TI",766,84
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:40:14","TI1",767,84
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:40:34","Restart",768,85
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:40:42","SAFE2",769,85
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:40:43","GK2",770,85
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:40:51","Restart",771,85
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:40:57","AT2",772,85
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:41:15","DANGER2",773,85
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:41:15","DAT2",774,85
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:41:33","SAFE1",775,86
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:41:39","Possible Free Kick",776,86
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:41:53","SUB1",778,86
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:42:18","No Free Kick",779,86
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:42:20","POSSIBLE_TI",780,86
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:42:21","TI1",781,86
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:42:22","Restart",782,86
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:42:26","SAFE2",783,86
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:42:42","AT2",784,87
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:42:44","Player_DATA_CONFIRMED",785,87
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:42:59","SAFE1",786,87
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:43:05","SAFE2",787,87
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:43:11","AT2",788,87
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:43:20","DANGER2",789,87
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:43:20","DAT2",790,87
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:43:30","SAFE1",791,87
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:43:36","AT1",792,88
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:43:43","Possible Free Kick",793,88
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:43:58","F2",795,88
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:43:58","FK1",796,88
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:43:58","DANGER1",797,88
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:43:58","DFK1",798,88
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:43:58","Ball Position",799,88
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:44:15","Restart",800,88
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:44:27","SHB1",801,88
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:44:28","SAFE2",802,88
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:44:28","GK2",803,88
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:44:31","Restart",804,88
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:44:45","AT1",805,89
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:45:05","SAFE2",806,89
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:45:10","AT1",807,89
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:45:28","SAFE2",808,89
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:45:35","Possible Free Kick",809,90
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:45:37","POSSIBLE_CARDS",811,90
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:45:50","NO_Cards",812,90
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:45:56","F1",813,90
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:45:56","FK2",814,90
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:45:56","DANGER2",815,90
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:45:56","DFK2",816,90
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:45:56","Ball Position",817,90
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:46:05","Restart",818,90
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:46:16","SAFE1",819,90
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:46:22","Extra Time",820,90
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:46:24","AT1",821,90
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:46:27","DANGER1",822,90
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:46:27","DAT1",823,90
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:46:32","SAFE2",824,90
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:46:42","AT2",825,91
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:46:47","DANGER2",826,91
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:46:47","DAT2",827,91
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:47:01","POSSIBLE_CARDS",828,91
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:47:05","YC1",829,91
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:47:08","CONF_YC1",830,91
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:47:17","Scorer",831,91
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:47:23","Possible Free Kick",832,91
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:47:25","F1",834,91
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:47:25","FK2",835,91
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:47:25","DFK2",836,91
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:47:25","Ball Position",837,91
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:47:27","Restart",838,91
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:47:41","PCR2",839,92
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:47:43","CR2",840,92
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:47:50","Ball Position",841,92
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:47:56","Restart",842,92
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:48:22","PCR2",843,92
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:48:26","NCR2",844,92
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:48:29","SHB2",845,92
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:48:30","SAFE1",846,92
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:48:31","GK1",847,92
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:48:51","Restart",848,93
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:49:02","AT1",849,93
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:49:15","Player_DATA_CONFIRMED",850,93
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:49:16","DANGER1",851,93
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:49:16","DAT1",852,93
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:49:20","POSSIBLE_TI",853,93
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:49:21","TI2",854,93
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:49:24","Restart",855,93
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:49:28","POSSIBLE_TI",856,93
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:49:30","TI1",857,93
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:49:36","CLS",858,94
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:49:41","NO_TI",859,94
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:49:48","Stop RT2",860,94
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:49:48","Stop Game",861,94
+1043732,"Angers SCO","Montpellier HSC","11/10/2018 20:50:01","CONF_PERIOD_SCORE",862,93

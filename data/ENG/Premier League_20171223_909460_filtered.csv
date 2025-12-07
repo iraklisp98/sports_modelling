@@ -1,0 +1,933 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+909460,"Leicester City FC","Manchester United FC","12/23/2017 18:38:39","Transmission Online",0,0
+909460,"Leicester City FC","Manchester United FC","12/23/2017 18:38:48","GCC",1,0
+909460,"Leicester City FC","Manchester United FC","12/23/2017 18:45:51","Lineup changed",2,0
+909460,"Leicester City FC","Manchester United FC","12/23/2017 18:46:04","Scout in Stadion",3,0
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:41:18","Jersey Changed",4,0
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:41:18","Jersey Changed",5,0
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:41:48","Players are coming out",6,0
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:42:08","Players lined up",7,0
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:42:25","Shake hands",8,0
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:44:29","Photo taking",9,0
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:44:35","System Message",10,0
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:44:46","Flip coin",11,0
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:45:03","Game about to start",12,0
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:45:42","Start RT1 Team 2",13,1
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:45:55","SAFE1",14,1
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:45:58","AT1",15,1
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:46:00","DANGER1",16,1
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:46:00","DAT1",17,1
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:46:09","SAFE2",18,1
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:46:12","AT2",19,1
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:46:16","DANGER2",20,1
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:46:16","DAT2",21,1
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:46:25","BLOCKED2",22,1
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:46:27","PCR2",23,1
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:46:29","CR2",24,1
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:46:31","SHB2",25,1
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:46:33","Ball Position",26,1
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:46:48","Restart",27,2
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:47:08","PCR2",28,2
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:47:10","NCR2",29,2
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:47:11","SHB2",30,2
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:47:14","SAFE1",31,2
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:47:15","GK1",32,2
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:47:34","Restart",33,2
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:47:40","AT1",34,2
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:47:51","POSSIBLE_TI",35,3
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:47:52","TI1",36,3
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:47:58","Restart",37,3
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:48:00","SAFE1",38,3
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:48:06","AT1",39,3
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:48:11","SAFE2",40,3
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:48:12","GK2",41,3
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:48:21","Restart",42,3
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:48:34","POSSIBLE_TI",43,3
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:48:35","TI1",44,3
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:48:35","SAFE1",45,3
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:48:42","Restart",46,3
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:48:59","AT1",47,4
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:49:16","DANGER1",48,4
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:49:16","DAT1",49,4
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:49:30","SAFE2",50,4
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:49:35","Possible Free Kick",51,4
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:49:36","F1",53,4
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:49:36","FK2",54,4
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:49:36","Ball Position",55,4
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:49:37","Restart",56,4
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:49:37","AT2",57,4
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:49:51","DANGER2",58,5
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:49:51","DAT2",59,5
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:49:56","PCR2",60,5
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:49:57","CR2",61,5
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:49:58","SHG2",62,5
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:50:11","Ball Position",63,5
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:50:22","Restart",64,5
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:50:38","SAFE1",65,5
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:50:38","AT1",66,5
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:50:39","DANGER1",67,5
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:50:39","DAT1",68,5
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:50:45","POSSIBLE_TI",69,6
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:50:46","TI1",70,6
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:50:54","Restart",71,6
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:51:01","PCR1",72,6
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:51:05","CR1",73,6
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:51:12","Ball Position",74,6
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:51:25","Restart",75,6
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:51:39","SAFE2",76,6
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:51:42","AT2",77,6
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:51:51","CLS",78,7
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:52:08","AT2",79,7
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:52:17","SAFE1",80,7
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:52:39","AT1",81,7
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:52:42","SAFE2",82,7
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:52:42","AT2",83,8
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:52:50","DANGER2",84,8
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:52:50","DAT2",85,8
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:53:06","BLOCKED2",86,8
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:53:11","SHG2",87,8
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:53:13","SAFE1",88,8
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:53:36","AT1",89,8
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:53:56","DANGER1",90,9
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:53:56","DAT1",91,9
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:54:00","SHB1",92,9
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:54:03","SAFE2",93,9
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:54:04","GK2",94,9
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:54:25","Restart",95,9
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:54:31","AT2",96,9
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:54:35","DANGER2",97,9
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:54:35","DAT2",98,9
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:54:44","SHB2",99,10
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:54:48","SAFE1",100,10
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:54:49","GK1",101,10
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:55:14","Restart",102,10
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:55:19","SAFE2",103,10
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:55:21","AT2",104,10
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:55:22","DANGER2",105,10
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:55:22","DAT2",106,10
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:56:15","SAFE1",107,11
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:56:23","AT1",108,11
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:56:23","DANGER1",109,11
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:56:23","DAT1",110,11
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:56:26","SAFE2",111,11
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:56:35","AT2",112,11
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:56:38","DANGER2",113,11
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:56:38","DAT2",114,11
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:56:43","PCR2",115,12
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:56:44","CR2",116,12
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:56:45","Ball Position",117,12
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:57:12","Restart",118,12
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:57:19","POSSIBLE_TI",119,12
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:57:20","TI2",120,12
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:57:35","Restart",121,12
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:57:40","POSSIBLE_TI",122,12
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:57:42","TI2",123,12
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:57:51","Restart",124,13
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:58:21","SAFE1",125,13
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:58:22","AT1",126,13
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:58:26","DANGER1",127,13
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:58:26","DAT1",128,13
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:58:46","BLOCKED1",129,14
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:58:49","SAFE2",130,14
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:58:56","AT2",131,14
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:58:58","DANGER2",132,14
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:58:58","DAT2",133,14
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:59:01","POSSIBLE_TI",134,14
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:59:03","TI2",135,14
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:59:08","Restart",136,14
+909460,"Leicester City FC","Manchester United FC","12/23/2017 19:59:55","PCR2",137,15
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:00:01","CR2",138,15
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:00:05","Ball Position",139,15
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:00:25","Restart",140,15
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:00:31","SAFE1",141,15
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:00:31","AT1",142,15
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:00:35","DANGER1",143,15
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:00:35","DAT1",144,15
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:00:40","PCR1",145,15
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:00:42","CR1",146,15
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:00:44","Ball Position",147,16
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:01:14","Restart",148,16
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:01:25","SAFE2",149,16
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:01:30","AT2",150,16
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:01:36","SAFE2",151,16
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:02:00","AT2",152,17
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:02:02","DANGER2",153,17
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:02:02","DAT2",154,17
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:02:06","POSSIBLE_TI",155,17
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:02:08","NO_TI",156,17
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:02:08","Possible Free Kick",157,17
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:02:11","SAFE1",159,17
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:02:11","O2",160,17
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:02:11","FK1",161,17
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:02:12","Ball Position",162,17
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:02:33","Restart",163,17
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:02:36","AT1",164,17
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:02:47","SAFE1",165,18
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:03:05","POSSIBLE_TI",166,18
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:03:08","TI2",167,18
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:03:09","SAFE2",168,18
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:03:16","Restart",169,18
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:03:37","AT2",170,18
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:03:38","DANGER2",171,18
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:03:38","DAT2",172,18
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:03:50","PCR2",173,19
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:03:53","NCR2",174,19
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:03:59","SHB2",175,19
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:04:03","SAFE1",176,19
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:04:03","GK1",177,19
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:04:23","Restart",178,19
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:04:34","AT1",179,19
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:04:38","DANGER1",180,19
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:04:38","DAT1",181,19
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:04:53","Possible Free Kick",182,20
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:04:54","SAFE2",184,20
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:04:54","F1",185,20
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:04:54","FK2",186,20
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:04:54","Ball Position",187,20
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:05:19","Restart",188,20
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:05:25","POSSIBLE_TI",189,20
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:05:26","TI1",190,20
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:05:29","SAFE1",191,20
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:05:45","Restart",192,21
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:05:45","AT1",193,21
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:05:50","POSSIBLE_TI",194,21
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:05:51","TI1",195,21
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:05:52","DANGER1",196,21
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:05:52","DAT1",197,21
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:06:00","Restart",198,21
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:06:03","SAFE1",199,21
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:06:42","AT1",200,21
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:06:45","POSSIBLE_TI",201,22
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:06:45","TI1",202,22
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:06:46","DANGER1",203,22
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:06:46","DAT1",204,22
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:06:53","Restart",205,22
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:07:23","SAFE2",206,22
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:07:50","AT2",207,23
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:07:52","DANGER2",208,23
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:07:52","DAT2",209,23
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:08:02","SHG2",210,23
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:08:04","SAFE1",211,23
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:08:13","POSSIBLE_TI",212,23
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:08:14","TI2",213,23
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:08:36","Restart",214,23
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:08:38","SAFE1",215,23
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:08:57","AT1",216,24
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:09:05","Possible Free Kick",217,24
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:09:14","F2",219,24
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:09:14","FK1",220,24
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:09:14","DANGER1",221,24
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:09:14","DFK1",222,24
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:09:14","Ball Position",223,24
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:09:16","Restart",224,24
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:09:28","SAFE1",225,24
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:10:08","SAFE2",226,25
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:10:16","SAFE1",227,25
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:10:39","SAFE2",228,25
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:10:40","SAFE1",229,25
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:10:42","AT1",230,25
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:10:45","DANGER1",231,26
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:10:45","DAT1",232,26
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:10:54","SHG1",233,26
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:10:56","SAFE2",234,26
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:11:00","AT2",235,26
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:11:06","DANGER2",236,26
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:11:06","DAT2",237,26
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:11:40","SAFE1",238,26
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:11:41","AT1",239,26
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:11:41","DANGER1",240,26
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:11:41","DAT1",241,26
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:11:49","GOAL1",242,27
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:12:07","Scorer",243,27
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:12:18","CONF_GOAL1",244,27
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:12:46","KO2",245,28
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:12:46","SAFE2",246,28
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:13:12","AT2",247,28
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:13:15","DANGER2",248,28
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:13:15","DAT2",249,28
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:13:21","PCR2",250,28
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:13:23","Player_DATA_CONFIRMED",251,28
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:13:23","Assist",252,28
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:13:25","NCR2",253,28
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:13:26","SAFE1",254,28
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:13:26","GK1",255,28
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:13:58","Restart",256,29
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:14:03","SAFE2",257,29
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:14:12","AT2",258,29
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:14:15","DANGER2",259,29
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:14:15","DAT2",260,29
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:14:26","POSSIBLE_TI",261,29
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:14:30","TI1",262,29
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:14:48","Restart",263,30
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:15:32","SHB2",264,30
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:15:37","SAFE1",265,30
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:15:37","GK1",266,30
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:16:04","Restart",267,31
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:16:15","SAFE2",268,31
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:16:15","AT2",269,31
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:16:18","DANGER2",270,31
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:16:18","DAT2",271,31
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:16:31","SAFE1",272,31
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:16:32","AT1",273,31
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:16:34","DANGER1",274,31
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:16:34","DAT1",275,31
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:16:37","SAFE2",276,31
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:16:40","AT2",277,31
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:16:43","DANGER2",278,32
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:16:43","DAT2",279,32
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:16:51","PCR2",280,32
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:16:53","CR2",281,32
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:16:54","Ball Position",282,32
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:17:12","Restart",283,32
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:17:37","SAFE1",284,32
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:17:47","SAFE2",285,33
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:18:00","Possible Free Kick",286,33
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:18:05","F1",288,33
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:18:05","FK2",289,33
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:18:05","Ball Position",290,33
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:18:10","Restart",291,33
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:18:17","AT2",292,33
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:18:20","DANGER2",293,33
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:18:20","DAT2",294,33
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:18:29","PCR2",295,33
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:18:32","CR2",296,33
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:18:35","Ball Position",297,33
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:18:49","Time Correction",298,34
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:18:55","Restart",299,34
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:19:02","Possible Free Kick",300,34
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:19:03","POSSIBLE_CARDS",302,34
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:19:05","PRC",303,34
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:19:12","YC2",304,34
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:19:21","CONF_YC2",305,34
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:19:29","Scorer",306,34
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:19:32","No RC",307,34
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:19:35","SAFE1",309,34
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:19:35","F2",310,34
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:19:35","FK1",311,34
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:19:35","Ball Position",312,34
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:19:50","Restart",313,35
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:19:51","AT1",314,35
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:20:08","SAFE2",315,35
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:20:09","AT2",316,35
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:20:11","DANGER2",317,35
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:20:11","DAT2",318,35
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:20:15","SHB2",319,35
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:20:17","SAFE1",320,35
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:20:18","GK1",321,35
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:20:47","Restart",322,36
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:20:51","Possible Free Kick",323,36
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:20:53","Player_DATA_CONFIRMED",325,36
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:20:55","SAFE2",326,36
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:20:55","F1",327,36
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:20:55","FK2",328,36
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:20:55","Ball Position",329,36
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:21:03","Restart",330,36
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:21:14","AT2",331,36
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:21:15","DANGER2",332,36
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:21:15","DAT2",333,36
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:21:34","Possible Free Kick",334,36
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:21:43","SAFE1",336,37
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:21:43","F2",337,37
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:21:43","FK1",338,37
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:21:43","Ball Position",339,37
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:21:59","Restart",340,37
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:22:00","AT1",341,37
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:22:12","SAFE2",342,37
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:22:13","GK2",343,37
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:22:24","Restart",344,37
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:22:36","AT1",345,37
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:22:36","DANGER1",346,37
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:22:36","DAT1",347,37
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:22:43","Possible Free Kick",348,38
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:22:58","F2",350,38
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:22:58","FK1",351,38
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:22:58","DFK1",352,38
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:22:58","Ball Position",353,38
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:23:19","Restart",354,38
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:23:39","SAFE1",355,38
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:23:52","SAFE2",356,39
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:24:02","SAFE1",357,39
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:24:32","SAFE2",358,39
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:24:33","AT2",359,39
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:24:35","DANGER2",360,39
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:24:35","DAT2",361,39
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:24:47","GOAL2",362,40
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:25:10","CONF_GOAL2",363,40
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:25:18","Scorer",364,40
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:25:18","KO1",365,40
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:25:18","SAFE1",366,40
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:25:21","AT1",367,40
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:25:32","POSSIBLE_TI",368,40
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:25:33","TI1",369,40
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:25:37","Restart",370,40
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:25:52","Assist",371,41
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:25:58","POSSIBLE_TI",372,41
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:25:59","TI2",373,41
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:26:06","Restart",374,41
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:26:15","SAFE2",375,41
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:26:16","AT2",376,41
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:26:18","SAFE1",377,41
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:26:50","Scorer",378,42
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:26:50","AT1",379,42
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:26:50","Player_DATA_CONFIRMED",380,42
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:26:53","POSSIBLE_TI",381,42
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:26:53","TI1",382,42
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:26:58","Restart",383,42
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:27:10","DANGER1",384,42
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:27:10","DAT1",385,42
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:27:17","PCR1",386,42
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:27:18","CR1",387,42
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:27:19","Ball Position",388,42
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:27:43","Restart",389,43
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:27:50","BLOCKED1",390,43
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:27:52","SAFE2",391,43
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:27:53","AT2",392,43
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:27:55","DANGER2",393,43
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:27:55","DAT2",394,43
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:28:16","SAFE1",395,43
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:28:26","AT1",396,43
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:28:33","Possible Free Kick",397,43
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:28:39","F2",399,43
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:28:39","FK1",400,43
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:28:39","DANGER1",401,43
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:28:39","DFK1",402,43
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:28:39","Ball Position",403,43
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:29:16","Restart",404,44
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:29:24","SHG1",405,44
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:29:35","SAFE2",406,44
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:29:39","AT2",407,44
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:29:40","DANGER2",408,44
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:29:40","DAT2",409,44
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:29:53","SAFE1",410,45
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:29:55","AT1",411,45
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:29:58","DANGER1",412,45
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:29:58","DAT1",413,45
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:30:16","POSSIBLE_TI",414,45
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:30:17","TI1",415,45
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:30:24","Restart",416,45
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:30:42","POSSIBLE_TI",417,45
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:30:46","TI2",418,46
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:30:51","Extra Time",419,46
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:30:58","Restart",420,46
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:31:01","SAFE2",421,46
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:31:14","SAFE1",422,46
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:31:21","SAFE2",423,46
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:31:28","Possible Free Kick",424,46
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:31:31","F1",426,46
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:31:31","FK2",427,46
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:31:31","Ball Position",428,46
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:31:39","Restart",429,46
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:31:41","AT2",430,46
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:31:45","SAFE1",431,47
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:31:49","AT1",432,47
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:31:54","SAFE2",433,47
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:32:08","AT2",434,47
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:32:19","DANGER2",435,47
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:32:19","DAT2",436,47
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:32:27","Possible Free Kick",437,47
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:32:33","SAFE1",439,47
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:32:33","F2",440,47
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:32:33","FK1",441,47
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:32:33","Ball Position",442,47
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:32:54","Restart",443,48
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:32:59","Stop RT1",444,48
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:33:09","CONF_PERIOD_SCORE",445,45
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:47:16","Players are coming out",446,45
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:48:04","Game about to start",447,45
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:48:33","Start RT2 Team 1",448,46
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:48:39","AT1",449,46
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:48:56","DANGER1",450,46
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:48:56","DAT1",451,46
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:49:13","PCR1",452,46
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:49:30","NCR1",453,46
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:49:30","SAFE2",454,46
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:49:31","GK2",455,46
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:49:41","Restart",456,47
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:49:47","AT1",457,47
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:49:48","DANGER1",458,47
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:49:48","DAT1",459,47
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:49:58","Possible Free Kick",460,47
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:50:01","POSSIBLE_CARDS",462,47
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:50:04","YC2",463,47
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:50:20","CONF_YC2",464,47
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:50:24","Scorer",465,47
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:50:30","F2",466,47
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:50:30","FK1",467,47
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:50:30","DFK1",468,47
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:50:30","Ball Position",469,47
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:50:42","Restart",470,48
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:51:12","POSSIBLE_TI",471,48
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:51:17","TI2",472,48
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:51:33","Restart",473,48
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:51:42","POSSIBLE_TI",474,49
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:51:45","TI1",475,49
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:51:49","Restart",476,49
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:51:50","SAFE1",477,49
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:51:52","Player_DATA_CONFIRMED",478,49
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:51:56","AT1",479,49
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:51:59","DANGER1",480,49
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:51:59","DAT1",481,49
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:52:01","POSSIBLE_TI",482,49
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:52:05","TI2",483,49
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:52:13","Restart",484,49
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:52:32","SAFE2",485,49
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:52:34","CLS",486,50
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:52:34","SAFE1",487,50
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:53:23","AT1",488,50
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:53:28","SAFE2",489,50
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:53:30","Possible Free Kick",490,50
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:53:42","F1",492,51
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:53:42","FK2",493,51
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:53:42","DANGER2",494,51
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:53:42","DFK2",495,51
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:53:42","Ball Position",496,51
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:53:50","Restart",497,51
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:54:01","SAFE1",498,51
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:54:06","AT2",499,51
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:54:14","DANGER2",500,51
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:54:14","DAT2",501,51
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:54:20","SAFE1",502,51
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:54:21","AT1",503,51
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:54:25","SAFE2",504,51
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:54:26","AT2",505,51
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:54:42","DANGER2",506,52
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:54:42","DAT2",507,52
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:54:58","SAFE2",508,52
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:55:09","AT2",509,52
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:55:10","DANGER2",510,52
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:55:10","DAT2",511,52
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:55:23","SHG2",512,52
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:55:25","SAFE1",513,52
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:55:46","AT1",514,53
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:55:49","DANGER1",515,53
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:55:49","DAT1",516,53
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:56:00","SHG1",517,53
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:56:14","BLOCKED1",518,53
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:56:18","SAFE2",519,53
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:56:19","AT2",520,53
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:56:21","Possible Free Kick",521,53
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:56:23","No Free Kick",523,53
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:56:25","DANGER2",524,53
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:56:25","DAT2",525,53
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:56:31","SHB2",526,53
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:56:33","POSSIBLE_CARDS",527,53
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:56:37","YC1",528,54
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:56:42","CONF_YC1",529,54
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:57:01","Scorer",530,54
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:57:07","SAFE1",531,54
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:57:07","GK1",532,54
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:57:11","Injury Break",533,54
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:57:21","Scorer",534,54
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:57:22","Player_DATA_CONFIRMED",535,54
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:58:46","Restart",536,56
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:58:53","SAFE2",537,56
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:58:56","AT2",538,56
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:58:58","DANGER2",539,56
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:58:58","DAT2",540,56
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:59:07","SAFE1",541,56
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:59:22","AT1",542,56
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:59:25","POSSIBLE_TI",543,56
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:59:25","TI2",544,56
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:59:43","Restart",545,57
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:59:44","SAFE2",546,57
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:59:44","AT2",547,57
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:59:52","POSSIBLE_TI",548,57
+909460,"Leicester City FC","Manchester United FC","12/23/2017 20:59:53","TI1",549,57
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:00:14","SUB1",550,57
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:00:28","Restart",551,57
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:00:35","DANGER2",552,58
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:00:35","DAT2",553,58
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:00:50","SAFE1",554,58
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:00:55","Player_DATA_CONFIRMED",555,58
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:01:37","AT1",556,59
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:01:45","DANGER1",557,59
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:01:45","DAT1",558,59
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:01:54","SAFE2",559,59
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:02:00","AT2",560,59
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:02:04","Possible Free Kick",561,59
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:02:06","F1",563,59
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:02:06","FK2",564,59
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:02:06","DANGER2",565,59
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:02:06","DFK2",566,59
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:02:06","Ball Position",567,59
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:02:19","Restart",568,59
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:02:28","Possible Free Kick",569,59
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:02:29","POSSIBLE_CARDS",571,59
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:02:40","F1",572,60
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:02:40","FK2",573,60
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:02:40","DFK2",574,60
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:02:40","Ball Position",575,60
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:03:15","NO_Cards",576,60
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:03:24","Restart",577,60
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:03:27","GOAL2",578,60
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:03:36","Scorer",579,61
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:03:56","CONF_GOAL2",580,61
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:04:32","KO1",581,61
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:04:32","SAFE1",582,61
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:04:36","AT1",583,62
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:04:39","DANGER1",584,62
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:04:39","DAT1",585,62
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:05:05","Scorer",586,62
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:05:06","Player_DATA_CONFIRMED",587,62
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:05:35","SAFE2",588,63
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:05:42","SAFE1",589,63
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:05:45","AT1",590,63
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:05:52","DANGER1",591,63
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:05:52","DAT1",592,63
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:05:55","SAFE2",593,63
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:05:58","AT2",594,63
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:06:01","DANGER2",595,63
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:06:01","DAT2",596,63
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:06:03","Possible Free Kick",597,63
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:06:06","F1",599,63
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:06:06","FK2",600,63
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:06:06","DFK2",601,63
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:06:06","Ball Position",602,63
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:06:15","Restart",603,63
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:06:32","SAFE1",604,63
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:06:35","AT1",605,64
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:06:38","DANGER1",606,64
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:06:38","DAT1",607,64
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:06:56","BLOCKED1",608,64
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:07:03","SAFE2",609,64
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:07:53","POSSIBLE_TI",610,65
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:07:54","TI2",611,65
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:08:10","Restart",612,65
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:08:13","SAFE1",613,65
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:08:22","AT1",614,65
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:08:56","DANGER1",615,66
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:08:56","DAT1",616,66
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:09:07","Possible Free Kick",617,66
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:09:10","POSSIBLE_CARDS",619,66
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:09:41","NO_Cards",620,67
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:09:44","SAFE2",621,67
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:09:44","F1",622,67
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:09:44","FK2",623,67
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:09:44","Ball Position",624,67
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:09:56","SUB1",625,67
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:10:15","Restart",626,67
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:10:20","SAFE1",627,67
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:10:20","AT1",628,67
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:10:21","DANGER1",629,67
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:10:21","DAT1",630,67
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:10:22","Player_DATA_CONFIRMED",631,67
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:10:44","POSSIBLE_TI",632,68
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:10:46","TI2",633,68
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:11:03","Restart",634,68
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:11:21","SAFE2",635,68
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:11:22","AT2",636,68
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:11:23","DANGER2",637,68
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:11:23","DAT2",638,68
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:11:38","SAFE1",639,69
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:11:43","AT1",640,69
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:11:45","DANGER1",641,69
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:11:45","DAT1",642,69
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:11:52","SAFE2",643,69
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:11:53","AT2",644,69
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:11:55","Possible Free Kick",645,69
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:11:55","POSSIBLE_CARDS",647,69
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:11:56","PRC",648,69
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:11:56","Danger",649,69
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:11:59","YC1",650,69
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:12:03","CONF_YC1",651,69
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:12:14","Scorer",652,69
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:12:17","No RC",653,69
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:12:22","F1",654,69
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:12:22","FK2",655,69
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:12:22","DFK2",656,69
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:12:22","Ball Position",657,69
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:12:39","Restart",658,70
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:12:50","Possible Free Kick",659,70
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:12:53","SAFE1",661,70
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:12:53","O2",662,70
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:12:53","FK1",663,70
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:12:53","Ball Position",664,70
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:13:04","Restart",665,70
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:13:05","AT1",666,70
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:13:09","POSSIBLE_TI",667,70
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:13:10","TI2",668,70
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:13:25","SUB2",669,70
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:13:52","Player_DATA_CONFIRMED",670,71
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:14:02","Restart",671,71
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:14:07","POSSIBLE_TI",672,71
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:14:08","TI2",673,71
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:14:19","Restart",674,71
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:14:22","POSSIBLE_TI",675,71
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:14:25","TI1",676,71
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:14:34","Restart",677,72
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:14:39","DANGER1",678,72
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:14:39","DAT1",679,72
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:14:47","SAFE2",680,72
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:14:47","AT2",681,72
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:14:48","DANGER2",682,72
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:14:48","DAT2",683,72
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:14:55","GOAL2",684,72
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:14:58","CGOAL2",685,72
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:15:01","PCR2",686,72
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:15:04","NCR2",687,72
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:15:06","SHW2",688,72
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:15:10","SHB2",689,72
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:15:12","SAFE1",690,72
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:15:13","GK1",691,72
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:15:16","System Message",692,72
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:15:20","Restart",693,72
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:15:26","AT1",694,72
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:15:29","DANGER1",695,72
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:15:29","DAT1",696,72
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:15:38","POSSIBLE_TI",697,73
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:15:42","TI2",698,73
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:15:52","Player_DATA_CONFIRMED",699,73
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:15:57","Restart",700,73
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:16:14","SAFE2",701,73
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:16:14","AT2",702,73
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:16:17","Possible Free Kick",703,73
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:16:18","POSSIBLE_CARDS",705,73
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:16:18","PRC",706,73
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:16:18","Danger",707,73
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:16:24","YRC1",708,73
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:16:38","CONF_YC_RC1",709,74
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:16:42","Scorer",710,74
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:16:48","F1",711,74
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:16:48","FK2",712,74
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:16:48","DFK2",713,74
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:16:48","Ball Position",714,74
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:16:59","Restart",715,74
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:17:10","SAFE1",716,74
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:17:12","AT1",717,74
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:17:28","POSSIBLE_TI",718,74
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:17:29","TI1",719,74
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:17:36","Restart",720,75
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:17:41","DANGER1",721,75
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:17:41","DAT1",722,75
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:17:57","POSSIBLE_TI",723,75
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:17:57","TI1",724,75
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:18:13","Restart",725,75
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:18:21","Possible Free Kick",726,75
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:18:24","SAFE2",728,75
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:18:24","F1",729,75
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:18:24","FK2",730,75
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:18:24","Ball Position",731,75
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:18:36","SUB2",732,76
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:18:51","Player_DATA_CONFIRMED",733,76
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:19:12","Restart",734,76
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:19:19","SAFE1",735,76
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:19:21","AT1",736,76
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:19:26","SAFE2",737,76
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:19:27","AT2",738,76
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:19:32","POSSIBLE_TI",739,76
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:19:33","TI2",740,76
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:19:51","Restart",741,77
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:19:58","Possible Free Kick",742,77
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:20:06","F1",744,77
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:20:06","FK2",745,77
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:20:06","DANGER2",746,77
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:20:06","DFK2",747,77
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:20:06","Ball Position",748,77
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:20:09","Restart",749,77
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:20:20","Possible Free Kick",750,77
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:20:24","SAFE1",752,77
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:20:24","O2",753,77
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:20:24","FK1",754,77
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:20:24","Ball Position",755,77
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:20:37","Restart",756,78
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:20:42","AT1",757,78
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:20:55","POSSIBLE_TI",758,78
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:20:57","TI2",759,78
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:21:02","SAFE2",760,78
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:21:13","Restart",761,78
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:21:25","AT2",762,78
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:21:27","DANGER2",763,78
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:21:27","DAT2",764,78
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:21:34","BLOCKED2",765,79
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:21:48","SAFE1",766,79
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:21:49","AT1",767,79
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:21:52","Player_DATA_CONFIRMED",768,79
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:21:56","POSSIBLE_TI",769,79
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:21:58","TI1",770,79
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:21:59","Restart",771,79
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:22:10","DANGER1",772,79
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:22:10","DAT1",773,79
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:22:37","SAFE2",774,80
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:22:38","AT2",775,80
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:22:38","DANGER2",776,80
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:22:38","DAT2",777,80
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:22:43","BREAKAWAY2",778,80
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:22:48","PPEN",779,80
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:22:48","PPEN2",780,80
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:22:55","No PEN",781,80
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:23:03","SAFE1",782,80
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:23:03","GK1",783,80
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:23:19","SUB1",784,80
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:23:40","Restart",785,81
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:23:48","SAFE2",786,81
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:23:51","Player_DATA_CONFIRMED",787,81
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:23:57","SAFE1",788,81
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:24:05","AT1",789,81
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:24:06","DANGER1",790,81
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:24:06","DAT1",791,81
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:24:16","Possible Free Kick",792,81
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:24:18","POSSIBLE_CARDS",794,81
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:24:23","YC1",795,81
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:24:30","CONF_YC1",796,81
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:24:45","Scorer",797,82
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:24:50","SAFE2",799,82
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:24:50","F1",800,82
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:24:50","FK2",801,82
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:24:51","Ball Position",802,82
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:24:58","Restart",803,82
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:25:01","AT2",804,82
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:25:01","DANGER2",805,82
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:25:01","DAT2",806,82
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:25:06","Possible Free Kick",807,82
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:25:11","SAFE1",809,82
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:25:11","O2",810,82
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:25:11","FK1",811,82
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:25:11","Ball Position",812,82
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:25:22","SUB2",813,82
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:25:34","Player_DATA_CONFIRMED",814,83
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:25:34","Player_DATA_CONFIRMED",815,83
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:25:37","Player_DATA_CONFIRMED",816,83
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:26:04","Restart",817,83
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:26:06","AT1",818,83
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:26:10","POSSIBLE_TI",819,83
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:26:13","TI1",820,83
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:26:26","DANGER1",821,83
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:26:26","DAT1",822,83
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:26:30","Restart",823,83
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:26:41","SAFE2",824,84
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:26:42","AT2",825,84
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:26:43","DANGER2",826,84
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:26:43","DAT2",827,84
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:26:48","SAFE1",828,84
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:26:50","AT1",829,84
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:26:51","DANGER1",830,84
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:26:51","DAT1",831,84
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:26:55","Possible Free Kick",832,84
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:26:58","SAFE2",834,84
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:26:58","F1",835,84
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:26:58","FK2",836,84
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:26:58","Ball Position",837,84
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:27:00","POSSIBLE_CARDS",838,84
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:27:11","NO_Cards",839,84
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:27:28","Restart",840,84
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:27:36","SAFE1",841,85
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:27:41","SAFE2",842,85
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:27:46","AT2",843,85
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:27:50","Possible Free Kick",844,85
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:27:52","F1",846,85
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:27:52","FK2",847,85
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:27:53","DANGER2",848,85
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:27:53","DFK2",849,85
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:27:53","Ball Position",850,85
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:28:07","Restart",851,85
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:28:10","SAFE1",852,85
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:28:10","AT1",853,85
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:28:14","Possible Free Kick",854,85
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:28:17","No Free Kick",856,85
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:28:22","DANGER1",857,85
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:28:22","DAT1",858,85
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:28:25","POSSIBLE_TI",859,85
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:28:27","TI2",860,85
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:28:41","Restart",861,86
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:28:46","SAFE2",862,86
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:28:47","AT2",863,86
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:28:48","DANGER2",864,86
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:28:48","DAT2",865,86
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:29:00","POSSIBLE_TI",866,86
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:29:02","TI2",867,86
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:29:37","Restart",868,87
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:29:48","POSSIBLE_TI",869,87
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:29:53","TI2",870,87
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:29:57","Restart",871,87
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:30:19","PCR2",872,87
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:30:22","NCR2",873,87
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:30:23","SAFE1",874,87
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:30:24","GK1",875,87
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:30:43","Restart",876,88
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:30:50","AT1",877,88
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:30:51","DANGER1",878,88
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:30:51","DAT1",879,88
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:31:07","SAFE2",880,88
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:31:26","AT2",881,88
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:31:26","DANGER2",882,88
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:31:26","DAT2",883,88
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:31:32","SAFE1",884,88
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:31:39","SAFE2",885,89
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:31:39","AT2",886,89
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:31:45","DANGER2",887,89
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:31:45","DAT2",888,89
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:31:50","Possible Free Kick",889,89
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:31:51","SAFE1",891,89
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:31:51","F2",892,89
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:31:51","FK1",893,89
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:31:51","Ball Position",894,89
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:31:54","Restart",895,89
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:32:00","AT1",896,89
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:32:27","DANGER1",897,89
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:32:27","DAT1",898,89
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:32:31","PCR1",899,89
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:32:35","CR1",900,90
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:32:36","Ball Position",901,90
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:32:55","Restart",902,90
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:33:04","PCR1",903,90
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:33:07","NCR1",904,90
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:33:09","SHB1",905,90
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:33:12","SAFE2",906,90
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:33:12","GK2",907,90
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:33:39","Extra Time",908,91
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:33:42","Restart",909,91
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:33:43","SAFE1",910,91
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:33:49","AT1",911,91
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:33:50","DANGER1",912,91
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:33:50","DAT1",913,91
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:33:58","Possible Free Kick",914,91
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:34:00","SAFE2",916,91
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:34:00","F1",917,91
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:34:00","FK2",918,91
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:34:00","Ball Position",919,91
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:34:01","Restart",920,91
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:34:02","AT2",921,91
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:34:02","DANGER2",922,91
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:34:02","DAT2",923,91
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:34:16","SAFE1",924,91
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:34:20","POSSIBLE_TI",925,91
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:34:22","TI1",926,91
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:34:30","Restart",927,91
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:34:35","AT1",928,92
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:34:36","DANGER1",929,92
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:34:36","DAT1",930,92
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:34:45","POSSIBLE_TI",931,92
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:34:46","TI1",932,92
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:34:52","Restart",933,92
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:35:09","SAFE2",934,92
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:35:10","AT2",935,92
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:35:13","DANGER2",936,92
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:35:13","DAT2",937,92
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:35:19","SAFE1",938,92
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:35:25","AT1",939,92
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:35:28","DANGER1",940,92
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:35:28","DAT1",941,92
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:35:36","SAFE2",942,93
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:35:36","AT2",943,93
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:35:37","DANGER2",944,93
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:35:37","DAT2",945,93
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:35:50","Possible Free Kick",946,93
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:35:53","SAFE1",948,93
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:35:53","O2",949,93
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:35:53","FK1",950,93
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:35:53","Ball Position",951,93
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:36:15","Injury Break",952,93
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:37:12","Restart",953,94
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:37:14","AT1",954,94
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:37:15","DANGER1",955,94
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:37:15","DAT1",956,94
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:37:30","GOAL1",957,94
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:38:04","Scorer",958,95
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:38:10","CONF_GOAL1",959,95
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:38:43","KO2",960,96
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:38:43","SAFE2",961,96
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:38:49","Stop RT2",962,96
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:38:49","Stop Game",963,96
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:39:02","CONF_PERIOD_SCORE",964,95
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:40:22","Player_DATA_CONFIRMED",965,95
+909460,"Leicester City FC","Manchester United FC","12/23/2017 21:40:22","Assist",966,95

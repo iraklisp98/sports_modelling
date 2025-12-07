@@ -1,0 +1,840 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 15:00:30","Scout in Stadion",0,0
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 15:00:38","Transmission Online",1,0
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 15:10:40","Lineup changed",2,0
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 15:15:48","Lineup changed",3,0
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 15:46:03","GCC",4,0
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:01:09","System Message",5,0
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:03:23","Players are coming out",6,0
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:03:54","Jersey Changed",7,0
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:03:54","Jersey Changed",8,0
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:03:55","Players lined up",9,0
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:04:07","Shake hands",10,0
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:04:43","Flip coin",11,0
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:06:06","Game about to start",12,0
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:06:33","Start RT1 Team 1",13,1
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:06:55","AT1",14,1
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:07:14","DANGER1",15,1
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:07:14","DAT1",16,1
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:07:23","POSSIBLE_TI",17,1
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:07:23","TI1",18,1
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:07:40","Restart",19,2
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:08:07","PCR1",20,2
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:08:14","SHB1",21,2
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:08:28","NCR1",22,2
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:08:29","SAFE2",23,2
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:08:30","GK2",24,2
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:08:42","Restart",25,3
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:09:01","POSSIBLE_TI",26,3
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:09:02","TI1",27,3
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:09:10","Restart",28,3
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:09:11","AT2",29,3
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:09:17","SAFE1",30,3
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:09:26","AT1",31,3
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:09:28","SAFE2",32,3
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:09:34","AT2",33,4
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:10:00","SAFE1",34,4
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:10:02","AT1",35,4
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:10:10","DANGER1",36,4
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:10:10","DAT1",37,4
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:10:22","GOAL1",38,4
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:11:54","Scorer",39,6
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:12:36","CONF_GOAL1",40,7
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:12:37","KO2",41,7
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:12:37","SAFE2",42,7
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:12:46","AT1",43,7
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:12:53","Player_DATA_CONFIRMED",44,7
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:12:53","Assist",45,7
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:13:24","SAFE2",46,7
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:13:25","AT2",47,7
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:13:37","POSSIBLE_CARDS",48,8
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:14:10","Possible Free Kick",49,8
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:14:11","F1",51,8
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:14:11","FK2",52,8
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:14:11","DANGER2",53,8
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:14:11","DFK2",54,8
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:14:11","Ball Position",55,8
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:14:40","Restart",56,9
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:14:40","NO_Cards",57,9
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:14:45","PCR2",58,9
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:14:48","SHB2",59,9
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:14:50","NCR2",60,9
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:14:51","SAFE1",61,9
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:14:51","GK1",62,9
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:14:52","Restart",63,9
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:15:20","AT1",64,9
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:15:29","Possible Free Kick",65,9
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:15:29","SAFE2",67,9
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:15:29","F1",68,9
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:15:29","FK2",69,9
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:15:30","Ball Position",70,9
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:15:30","Restart",71,9
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:15:41","AT2",72,10
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:15:43","SAFE1",73,10
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:15:45","AT1",74,10
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:15:48","DANGER1",75,10
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:15:48","DAT1",76,10
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:16:16","SAFE2",77,10
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:16:16","GK2",78,10
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:16:29","Restart",79,10
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:16:32","AT2",80,10
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:16:51","DANGER2",81,11
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:16:51","DAT2",82,11
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:16:58","SAFE1",83,11
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:17:02","AT1",84,11
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:17:04","POSSIBLE_TI",85,11
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:17:07","TI2",86,11
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:17:14","Restart",87,11
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:17:22","DANGER1",88,11
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:17:22","DAT1",89,11
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:17:26","SHG1",90,11
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:18:18","Possible Free Kick",91,12
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:18:20","SAFE2",93,12
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:18:20","O1",94,12
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:18:20","FK2",95,12
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:18:20","Ball Position",96,12
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:18:30","Restart",97,12
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:18:46","POSSIBLE_TI",98,13
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:18:48","TI2",99,13
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:18:48","Restart",100,13
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:19:10","POSSIBLE_TI",101,13
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:19:10","TI1",102,13
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:19:12","Restart",103,13
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:19:14","AT1",104,13
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:20:05","DANGER1",105,14
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:20:05","DAT1",106,14
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:20:18","POSSIBLE_TI",107,14
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:20:18","TI1",108,14
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:20:20","Restart",109,14
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:20:36","SAFE2",110,15
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:20:37","GK2",111,15
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:20:41","Restart",112,15
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:20:48","AT2",113,15
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:21:18","SAFE1",114,15
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:21:34","AT1",115,16
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:21:46","DANGER1",116,16
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:21:46","DAT1",117,16
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:21:51","GOAL1",118,16
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:21:55","Scorer",119,16
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:22:45","CONF_GOAL1",120,17
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:22:45","KO2",121,17
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:22:45","SAFE2",122,17
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:23:06","AT2",123,17
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:23:08","POSSIBLE_TI",124,17
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:23:09","TI1",125,17
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:23:10","Restart",126,17
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:23:16","SAFE1",127,17
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:23:22","Player_DATA_CONFIRMED",128,17
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:23:27","AT1",129,17
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:23:29","DANGER1",130,17
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:23:29","DAT1",131,17
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:23:34","SAFE2",132,18
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:23:37","AT1",133,18
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:23:40","DANGER1",134,18
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:23:40","DAT1",135,18
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:23:46","SAFE2",136,18
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:23:46","GK2",137,18
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:24:07","Restart",138,18
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:24:08","AT2",139,18
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:24:21","SAFE1",140,18
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:24:37","AT1",141,19
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:24:38","SAFE2",142,19
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:24:40","AT2",143,19
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:24:42","DANGER2",144,19
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:24:42","DAT2",145,19
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:24:43","POSSIBLE_CARDS",146,19
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:24:48","Possible Free Kick",147,19
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:24:48","F1",149,19
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:24:48","FK2",150,19
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:24:48","DFK2",151,19
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:24:49","Ball Position",152,19
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:25:41","NO_Cards",153,20
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:25:42","Restart",154,20
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:25:46","POSSIBLE_TI",155,20
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:25:47","TI2",156,20
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:25:58","Restart",157,20
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:26:20","SAFE1",158,20
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:26:27","AT1",159,20
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:26:36","SAFE2",160,21
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:27:00","AT2",161,21
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:27:19","POSSIBLE_TI",162,21
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:27:20","TI1",163,21
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:27:24","Restart",164,21
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:27:32","DANGER2",165,21
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:27:32","DAT2",166,21
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:27:44","PCR2",167,22
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:27:50","SHB2",168,22
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:28:01","CR2",169,22
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:28:02","Ball Position",170,22
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:28:09","Restart",171,22
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:28:25","Possible Free Kick",172,22
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:28:26","SAFE1",174,22
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:28:26","F2",175,22
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:28:26","FK1",176,22
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:28:26","Ball Position",177,22
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:28:26","Restart",178,22
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:28:37","AT2",179,23
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:28:39","DANGER2",180,23
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:28:39","DAT2",181,23
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:28:40","POSSIBLE_CARDS",182,23
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:28:46","YC1",183,23
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:28:47","CONF_YC1",184,23
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:28:54","Scorer",185,23
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:28:56","Possible Free Kick",186,23
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:29:06","F1",188,23
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:29:06","FK2",189,23
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:29:06","DFK2",190,23
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:29:06","Ball Position",191,23
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:29:21","Player_DATA_CONFIRMED",192,23
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:29:36","Restart",193,24
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:29:45","Possible Free Kick",194,24
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:29:52","SAFE1",196,24
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:29:52","F2",197,24
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:29:52","FK1",198,24
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:29:52","Ball Position",199,24
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:29:53","Restart",200,24
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:30:10","AT1",201,24
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:30:16","SAFE2",202,24
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:30:17","AT2",203,24
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:30:27","SAFE1",204,24
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:30:49","AT1",205,25
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:30:57","DANGER1",206,25
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:30:57","DAT1",207,25
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:31:53","SAFE2",208,26
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:31:54","AT2",209,26
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:31:58","POSSIBLE_CARDS",210,26
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:32:10","YC1",211,26
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:32:31","CONF_YC1",212,26
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:32:35","Scorer",213,27
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:32:37","Possible Free Kick",214,27
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:32:38","F1",216,27
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:32:38","FK2",217,27
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:32:38","DANGER2",218,27
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:32:38","DFK2",219,27
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:32:38","Ball Position",220,27
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:32:52","Player_DATA_CONFIRMED",221,27
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:32:52","Restart",222,27
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:33:15","Possible Free Kick",223,27
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:33:16","SAFE1",225,27
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:33:16","F2",226,27
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:33:16","FK1",227,27
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:33:16","Ball Position",228,27
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:33:21","Restart",229,27
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:33:29","AT1",230,27
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:33:34","DANGER1",231,28
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:33:34","DAT1",232,28
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:33:46","SAFE2",233,28
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:34:05","AT2",234,28
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:34:09","DANGER2",235,28
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:34:09","DAT2",236,28
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:34:13","PCR2",237,28
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:34:15","SHB2",238,28
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:34:32","CR2",239,28
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:34:33","Ball Position",240,29
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:34:34","Restart",241,29
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:34:40","SAFE1",242,29
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:34:44","AT1",243,29
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:34:46","DANGER1",244,29
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:34:46","DAT1",245,29
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:34:54","SAFE2",246,29
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:35:02","AT1",247,29
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:35:06","DANGER1",248,29
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:35:06","DAT1",249,29
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:35:26","SAFE2",250,29
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:35:27","AT2",251,29
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:35:28","DANGER2",252,29
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:35:28","DAT2",253,29
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:35:34","PCR2",254,30
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:35:45","SHB2",255,30
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:35:47","NCR2",256,30
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:35:48","SAFE1",257,30
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:35:48","GK1",258,30
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:35:49","Restart",259,30
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:36:12","AT1",260,30
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:36:18","SAFE2",261,30
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:36:20","AT2",262,30
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:36:44","DANGER2",263,31
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:36:44","DAT2",264,31
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:37:19","Possible Free Kick",265,31
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:37:25","F1",267,31
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:37:25","FK2",268,31
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:37:25","DFK2",269,31
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:37:25","Ball Position",270,31
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:37:42","Restart",271,32
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:37:58","SHG2",272,32
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:38:11","SAFE1",273,32
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:38:42","POSSIBLE_TI",274,33
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:38:44","TI1",275,33
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:39:39","PPEN",276,34
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:39:39","DANGER2",277,34
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:39:39","PPEN2",278,34
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:40:32","POSSIBLE_CARDS",279,34
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:41:01","Restart",280,35
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:41:01","PEN2",281,35
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:41:34","NO_Cards",282,36
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:41:48","GOAL2",283,36
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:41:48","Scorer",284,36
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:42:21","CONF_GOAL2",285,36
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:42:21","KO1",286,36
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:42:21","SAFE1",287,36
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:42:29","AT1",288,36
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:42:52","POSSIBLE_TI",289,37
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:42:52","Scorer",290,37
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:42:52","Player_DATA_CONFIRMED",291,37
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:42:52","TI1",292,37
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:43:04","Restart",293,37
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:43:05","DANGER1",294,37
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:43:05","DAT1",295,37
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:43:58","POSSIBLE_CARDS",296,38
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:44:04","Possible Free Kick",297,38
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:44:05","F2",299,38
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:44:05","FK1",300,38
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:44:05","DFK1",301,38
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:44:05","Ball Position",302,38
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:44:05","Restart",303,38
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:44:06","NO_Cards",304,38
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:44:15","SAFE2",305,38
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:44:16","GK2",306,38
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:44:29","Restart",307,38
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:44:30","AT2",308,38
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:44:41","POSSIBLE_TI",309,39
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:44:43","TI2",310,39
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:44:45","Restart",311,39
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:45:17","SAFE1",312,39
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:45:18","AT1",313,39
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:45:20","SAFE2",314,39
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:45:22","AT2",315,39
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:45:26","DANGER2",316,39
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:45:26","DAT2",317,39
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:45:31","SHB2",318,39
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:45:35","SAFE1",319,40
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:45:36","GK1",320,40
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:45:43","Restart",321,40
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:46:02","AT1",322,40
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:46:08","SAFE2",323,40
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:46:09","AT2",324,40
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:46:12","POSSIBLE_CARDS",325,40
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:46:17","DANGER2",326,40
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:46:17","DAT2",327,40
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:46:20","PCR2",328,40
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:46:33","YC1",329,40
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:46:47","CONF_YC1",330,41
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:46:50","Scorer",331,41
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:46:53","Player_DATA_CONFIRMED",332,41
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:47:05","CR2",333,41
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:47:06","Ball Position",334,41
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:47:09","Restart",335,41
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:47:28","POSSIBLE_TI",336,41
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:47:35","TI2",337,42
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:47:52","Restart",338,42
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:47:53","SAFE1",339,42
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:48:21","AT1",340,42
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:48:27","SAFE2",341,42
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:48:29","AT2",342,42
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:48:44","Possible Free Kick",343,43
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:48:48","SAFE1",345,43
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:48:48","F2",346,43
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:48:48","FK1",347,43
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:48:48","Ball Position",348,43
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:48:53","Restart",349,43
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:48:58","AT1",350,43
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:49:07","DANGER1",351,43
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:49:07","DAT1",352,43
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:49:47","SAFE2",353,44
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:49:49","AT2",354,44
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:49:51","DANGER2",355,44
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:49:51","DAT2",356,44
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:49:59","SAFE1",357,44
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:50:03","AT1",358,44
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:50:11","DANGER1",359,44
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:50:11","DAT1",360,44
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:50:34","SAFE2",361,45
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:51:12","AT1",362,45
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:51:12","POSSIBLE_TI",363,45
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:51:15","TI1",364,45
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:51:17","Restart",365,45
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:51:41","SAFE2",366,46
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:51:41","AT2",367,46
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:51:50","SAFE1",368,46
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:51:53","AT1",369,46
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:51:54","DANGER1",370,46
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:51:54","DAT1",371,46
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:52:06","Extra Time",372,46
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:52:07","POSSIBLE_TI",373,46
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:52:08","TI1",374,46
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:52:14","Extra Time",375,46
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:52:15","Restart",376,46
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:52:19","POSSIBLE_TI",377,46
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:52:21","TI2",378,46
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:52:28","Restart",379,46
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:52:34","POSSIBLE_TI",380,47
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:52:35","TI1",381,47
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:52:40","Restart",382,47
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:53:03","SHB1",383,47
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:53:06","SAFE2",384,47
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:53:06","GK2",385,47
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:53:23","Restart",386,47
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:53:23","AT2",387,47
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:53:31","DANGER2",388,47
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:53:31","DAT2",389,47
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:53:37","PCR2",390,48
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:53:59","CR2",391,48
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:54:00","Ball Position",392,48
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:54:03","Restart",393,48
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:54:15","POSSIBLE_TI",394,48
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:54:17","TI1",395,48
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:54:31","Restart",396,48
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:54:41","Stop RT1",397,48
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 16:54:56","CONF_PERIOD_SCORE",398,45
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:08:50","Players are coming out",399,45
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:10:01","Game about to start",400,45
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:10:16","Start RT2 Team 2",401,46
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:10:31","AT2",402,46
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:10:53","DANGER2",403,46
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:10:53","DAT2",404,46
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:11:08","POSSIBLE_CARDS",405,46
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:11:10","Possible Free Kick",406,46
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:11:11","F1",408,46
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:11:11","FK2",409,46
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:11:11","DFK2",410,46
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:11:11","Ball Position",411,46
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:11:37","NO_Cards",412,47
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:11:44","Restart",413,47
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:11:51","POSSIBLE_TI",414,47
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:11:51","TI1",415,47
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:12:03","Restart",416,47
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:12:36","SAFE1",417,48
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:12:38","AT1",418,48
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:12:48","AT2",419,48
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:12:48","DANGER2",420,48
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:12:48","DAT2",421,48
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:12:54","POSSIBLE_CARDS",422,48
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:13:20","NO_Cards",423,49
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:13:21","Possible Free Kick",424,49
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:13:22","SAFE1",426,49
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:13:22","F2",427,49
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:13:22","FK1",428,49
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:13:22","Ball Position",429,49
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:13:22","Restart",430,49
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:13:43","AT2",431,49
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:13:45","DANGER2",432,49
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:13:45","DAT2",433,49
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:13:54","PCR2",434,49
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:13:55","SHB2",435,49
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:14:04","NCR2",436,49
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:14:04","SAFE1",437,49
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:14:05","GK1",438,49
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:14:11","Restart",439,49
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:14:29","AT1",440,50
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:14:40","POSSIBLE_TI",441,50
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:14:41","TI2",442,50
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:14:48","Restart",443,50
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:15:16","SAFE2",444,51
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:15:17","AT2",445,51
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:15:20","DANGER2",446,51
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:15:20","DAT2",447,51
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:15:27","POSSIBLE_TI",448,51
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:15:29","TI1",449,51
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:15:44","Restart",450,51
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:15:48","SAFE1",451,51
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:15:52","POSSIBLE_TI",452,51
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:15:53","TI1",453,51
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:16:06","Restart",454,51
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:16:06","AT1",455,51
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:16:13","POSSIBLE_TI",456,51
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:16:13","TI2",457,51
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:16:36","Restart",458,52
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:17:13","DANGER1",459,52
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:17:13","DAT1",460,52
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:17:16","PCR1",461,53
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:17:34","CR1",462,53
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:17:38","Ball Position",463,53
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:17:38","Restart",464,53
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:17:43","SHG1",465,53
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:17:46","SAFE2",466,53
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:17:56","AT2",467,53
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:18:08","DANGER2",468,53
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:18:08","DAT2",469,53
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:18:24","SHG2",470,54
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:18:28","SAFE1",471,54
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:18:44","AT1",472,54
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:18:47","DANGER1",473,54
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:18:47","DAT1",474,54
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:19:04","SAFE2",475,54
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:19:05","AT2",476,54
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:19:06","Possible Free Kick",477,54
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:19:07","F1",479,54
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:19:07","FK2",480,54
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:19:07","DANGER2",481,54
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:19:07","DFK2",482,54
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:19:07","Ball Position",483,54
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:19:07","Restart",484,54
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:19:24","PCR2",485,55
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:19:28","NCR2",486,55
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:19:30","SAFE1",487,55
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:19:33","AT1",488,55
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:19:39","DANGER1",489,55
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:19:39","DAT1",490,55
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:20:07","Possible Free Kick",491,55
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:20:10","SAFE2",493,55
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:20:10","F1",494,55
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:20:10","FK2",495,55
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:20:10","Ball Position",496,55
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:20:28","SUB1",497,56
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:20:30","Restart",498,56
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:20:31","AT2",499,56
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:20:50","POSSIBLE_TI",500,56
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:20:51","TI2",501,56
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:20:51","Player_DATA_CONFIRMED",502,56
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:21:06","Restart",503,56
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:21:25","SAFE1",504,57
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:21:28","AT1",505,57
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:21:35","SAFE2",506,57
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:21:40","AT2",507,57
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:21:47","POSSIBLE_TI",508,57
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:21:50","TI2",509,57
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:21:51","Restart",510,57
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:22:07","DANGER2",511,57
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:22:07","DAT2",512,57
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:22:12","SAFE1",513,57
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:22:16","AT1",514,58
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:22:31","DANGER1",515,58
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:22:31","DAT1",516,58
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:22:46","POSSIBLE_CARDS",517,58
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:22:51","YC2",518,58
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:22:53","CONF_YC2",519,58
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:22:56","Scorer",520,58
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:22:58","Possible Free Kick",521,58
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:23:05","F2",523,58
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:23:05","FK1",524,58
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:23:05","DFK1",525,58
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:23:05","Ball Position",526,58
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:23:21","Player_DATA_CONFIRMED",527,59
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:23:35","Restart",528,59
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:23:58","POSSIBLE_CARDS",529,59
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:24:06","NO_Cards",530,59
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:24:07","Possible Free Kick",531,59
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:24:08","SAFE2",533,59
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:24:08","F1",534,59
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:24:08","FK2",535,59
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:24:08","Ball Position",536,59
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:24:22","Restart",537,60
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:24:30","AT2",538,60
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:24:47","DANGER2",539,60
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:24:47","DAT2",540,60
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:25:04","SAFE1",541,60
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:25:23","POSSIBLE_TI",542,61
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:25:24","TI1",543,61
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:25:47","SUB2",544,61
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:26:05","Restart",545,61
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:26:10","AT2",546,61
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:26:10","POSSIBLE_TI",547,61
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:26:12","TI2",548,61
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:26:16","Restart",549,61
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:26:31","Possible Free Kick",550,62
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:26:33","SAFE1",552,62
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:26:33","F2",553,62
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:26:33","FK1",554,62
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:26:33","Ball Position",555,62
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:26:37","Restart",556,62
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:26:48","AT1",557,62
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:26:53","POSSIBLE_TI",558,62
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:26:54","TI1",559,62
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:26:58","Restart",560,62
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:27:27","DANGER1",561,63
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:27:27","DAT1",562,63
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:27:36","Possible Free Kick",563,63
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:27:38","SAFE2",565,63
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:27:38","F1",566,63
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:27:38","FK2",567,63
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:27:38","Ball Position",568,63
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:27:45","Restart",569,63
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:27:52","Player_DATA_CONFIRMED",570,63
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:28:07","AT2",571,63
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:28:17","DANGER2",572,64
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:28:17","DAT2",573,64
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:28:32","SAFE1",574,64
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:28:44","AT2",575,64
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:28:48","DANGER2",576,64
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:28:48","DAT2",577,64
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:29:11","POSSIBLE_CARDS",578,64
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:29:14","Possible Free Kick",579,64
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:29:26","F1",581,65
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:29:26","FK2",582,65
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:29:26","DFK2",583,65
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:29:26","Ball Position",584,65
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:30:28","NO_Cards",585,66
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:30:33","Restart",586,66
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:30:37","SHB2",587,66
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:30:41","POSSIBLE_CARDS",588,66
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:30:47","NO_Cards",589,66
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:30:47","SAFE1",590,66
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:30:48","GK1",591,66
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:30:49","Restart",592,66
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:31:06","AT1",593,66
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:31:11","DANGER1",594,66
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:31:11","DAT1",595,66
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:31:19","POSSIBLE_CARDS",596,67
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:31:27","PRC",597,67
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:31:53","Injury Break",598,67
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:32:41","No RC",599,68
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:32:42","NO_Cards",600,68
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:32:45","Possible Free Kick",601,68
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:32:46","SAFE2",603,68
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:32:46","Restart",604,68
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:32:46","F1",605,68
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:32:46","FK2",606,68
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:32:46","Ball Position",607,68
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:33:01","Restart",608,68
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:33:02","AT2",609,68
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:33:13","POSSIBLE_TI",610,68
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:33:13","TI1",611,68
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:33:29","Restart",612,69
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:33:30","SAFE1",613,69
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:33:33","AT1",614,69
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:33:41","Possible Free Kick",615,69
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:33:47","F2",617,69
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:33:47","FK1",618,69
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:33:47","DANGER1",619,69
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:33:47","DFK1",620,69
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:33:47","Ball Position",621,69
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:34:00","Restart",622,69
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:34:18","SAFE2",623,70
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:34:23","AT2",624,70
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:34:24","POSSIBLE_TI",625,70
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:34:25","TI2",626,70
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:34:26","Restart",627,70
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:34:44","POSSIBLE_TI",628,70
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:34:45","TI1",629,70
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:34:51","Restart",630,70
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:35:01","SAFE1",631,70
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:35:05","AT1",632,70
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:35:14","SAFE2",633,70
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:35:27","AT2",634,71
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:35:28","Possible Free Kick",635,71
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:35:30","F1",637,71
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:35:30","FK2",638,71
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:35:30","DANGER2",639,71
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:35:30","DFK2",640,71
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:35:30","Ball Position",641,71
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:35:30","Restart",642,71
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:36:05","SAFE1",643,71
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:36:06","AT1",644,71
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:36:30","POSSIBLE_TI",645,72
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:36:43","TI2",646,72
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:37:12","SUB1",647,72
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:37:29","Restart",648,73
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:37:41","SAFE2",649,73
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:37:44","AT2",650,73
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:37:49","DANGER2",651,73
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:37:49","DAT2",652,73
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:37:51","Player_DATA_CONFIRMED",653,73
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:37:57","POSSIBLE_TI",654,73
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:37:58","TI2",655,73
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:38:31","SUB2",656,74
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:38:33","Restart",657,74
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:39:07","SAFE1",658,74
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:39:12","AT1",659,74
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:39:16","SAFE2",660,75
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:39:18","AT2",661,75
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:39:27","POSSIBLE_TI",662,75
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:39:27","TI2",663,75
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:39:29","Restart",664,75
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:39:38","SAFE1",665,75
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:39:47","AT1",666,75
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:39:49","SAFE2",667,75
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:39:51","Player_DATA_CONFIRMED",668,75
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:39:52","AT2",669,75
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:39:56","DANGER2",670,75
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:39:56","DAT2",671,75
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:40:14","PPEN",672,75
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:40:14","PPEN2",673,75
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:40:16","POSSIBLE_CARDS",674,75
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:40:16","PRC",675,75
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:41:02","No RC",676,76
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:41:07","PEN2",677,76
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:41:08","NO_Cards",678,76
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:41:14","Scorer",679,76
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:41:20","GOAL2",680,77
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:41:20","Scorer",681,77
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:42:06","CONF_GOAL2",682,77
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:42:06","KO1",683,77
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:42:06","SAFE1",684,77
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:42:18","AT1",685,78
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:42:22","DANGER1",686,78
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:42:22","DAT1",687,78
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:42:25","PCR1",688,78
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:42:37","CR1",689,78
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:42:38","Ball Position",690,78
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:42:42","Restart",691,78
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:42:51","POSSIBLE_CARDS",692,78
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:42:51","Player_DATA_CONFIRMED",693,78
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:42:53","PRC",694,78
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:42:59","YRC1",695,78
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:43:12","Injury Break",696,78
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:43:32","CONF_YC_RC1",697,79
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:43:49","Scorer",698,79
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:43:51","Player_DATA_CONFIRMED",699,79
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:43:59","Possible Free Kick",700,79
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:44:03","SAFE2",702,79
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:44:03","Restart",703,79
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:44:04","F1",704,79
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:44:04","FK2",705,79
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:44:04","Ball Position",706,79
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:44:41","Restart",707,80
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:44:48","AT2",708,80
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:44:52","DANGER2",709,80
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:44:52","DAT2",710,80
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:45:26","POSSIBLE_TI",711,81
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:45:27","TI2",712,81
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:45:36","Restart",713,81
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:45:53","SAFE1",714,81
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:45:58","AT1",715,81
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:46:01","DANGER1",716,81
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:46:01","DAT1",717,81
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:46:08","PCR1",718,81
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:46:21","System Message",719,82
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:46:27","NCR1",720,82
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:46:33","SAFE2",721,82
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:46:34","GK2",722,82
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:46:49","SUB1",723,82
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:46:50","Restart",724,82
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:46:52","AT2",725,82
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:46:59","DANGER2",726,82
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:46:59","DAT2",727,82
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:47:04","SHB2",728,82
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:47:06","SAFE1",729,82
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:47:07","GK1",730,82
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:47:09","Restart",731,82
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:47:18","AT1",732,83
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:47:20","DANGER1",733,83
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:47:20","DAT1",734,83
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:47:21","Player_DATA_CONFIRMED",735,83
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:47:25","POSSIBLE_TI",736,83
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:47:27","TI1",737,83
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:47:28","Restart",738,83
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:47:53","POSSIBLE_TI",739,83
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:47:53","TI1",740,83
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:47:54","Restart",741,83
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:48:02","POSSIBLE_CARDS",742,83
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:48:20","NO_Cards",743,84
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:48:20","Possible Free Kick",744,84
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:48:22","SAFE2",746,84
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:48:22","F1",747,84
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:48:22","FK2",748,84
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:48:22","Ball Position",749,84
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:48:23","Restart",750,84
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:48:36","AT2",751,84
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:48:41","System Message",752,84
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:48:52","System Message",753,84
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:48:53","SAFE1",754,84
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:48:55","AT1",755,84
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:48:57","DANGER1",756,84
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:48:57","DAT1",757,84
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:49:27","Possible Free Kick",758,85
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:49:29","SAFE2",760,85
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:49:29","O1",761,85
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:49:29","FK2",762,85
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:49:29","Ball Position",763,85
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:49:41","Restart",764,85
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:49:48","AT2",765,85
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:50:08","DANGER2",766,85
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:50:08","DAT2",767,85
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:50:12","PCR2",768,85
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:50:29","CR2",769,86
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:50:30","Ball Position",770,86
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:50:37","Restart",771,86
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:50:44","SHG2",772,86
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:50:47","SAFE1",773,86
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:50:52","AT1",774,86
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:50:55","DANGER1",775,86
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:50:55","DAT1",776,86
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:51:00","PCR1",777,86
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:51:02","SHG1",778,86
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:51:13","CR1",779,86
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:51:14","Ball Position",780,86
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:51:28","Restart",781,87
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:51:31","PCR1",782,87
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:51:36","SHB1",783,87
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:51:48","NCR1",784,87
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:51:49","SAFE2",785,87
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:51:50","GK2",786,87
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:51:52","Restart",787,87
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:51:56","AT2",788,87
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:51:59","DANGER2",789,87
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:51:59","DAT2",790,87
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:52:13","SAFE1",791,87
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:52:21","AT1",792,88
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:52:29","DANGER1",793,88
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:52:29","DAT1",794,88
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:52:33","POSSIBLE_CARDS",795,88
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:52:49","NO_Cards",796,88
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:52:52","SAFE2",797,88
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:52:57","AT2",798,88
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:53:00","DANGER2",799,88
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:53:00","DAT2",800,88
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:53:14","SAFE1",801,88
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:53:14","AT1",802,88
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:53:16","DANGER1",803,89
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:53:16","DAT1",804,89
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:53:23","SAFE2",805,89
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:53:39","POSSIBLE_TI",806,89
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:53:43","TI2",807,89
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:53:49","Restart",808,89
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:53:53","AT2",809,89
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:54:21","DANGER2",810,90
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:54:21","DAT2",811,90
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:54:46","POSSIBLE_TI",812,90
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:54:49","TI1",813,90
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:54:58","Restart",814,90
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:55:18","Extra Time",815,91
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:55:29","PCR2",816,91
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:55:43","CR2",817,91
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:55:44","Ball Position",818,91
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:55:46","Restart",819,91
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:55:51","SHW2",820,91
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:56:06","SAFE1",821,91
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:56:19","AT1",822,92
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:56:25","DANGER1",823,92
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:56:25","DAT1",824,92
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:56:41","SAFE2",825,92
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:56:49","AT2",826,92
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:56:52","DANGER2",827,92
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:56:52","DAT2",828,92
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:56:56","PCR2",829,92
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:57:19","CR2",830,93
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:57:21","Ball Position",831,93
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:57:29","Restart",832,93
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:57:48","POSSIBLE_TI",833,93
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:57:50","TI2",834,93
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:57:50","Restart",835,93
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:57:55","SHB2",836,93
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:57:58","SAFE1",837,93
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:57:58","GK1",838,93
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:58:03","Restart",839,93
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:58:07","AT1",840,93
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:58:18","POSSIBLE_TI",841,94
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:58:28","TI2",842,94
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:58:29","Restart",843,94
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:58:41","SAFE2",844,94
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:58:41","AT2",845,94
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:58:42","POSSIBLE_TI",846,94
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:58:43","TI2",847,94
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:58:50","Restart",848,94
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:58:56","POSSIBLE_TI",849,94
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:58:57","TI1",850,94
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:59:02","Restart",851,94
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:59:06","SAFE1",852,94
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:59:07","AT1",853,94
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:59:25","DANGER1",854,95
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:59:25","DAT1",855,95
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:59:50","SAFE2",856,95
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:59:51","AT2",857,95
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:59:55","POSSIBLE_TI",858,95
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 17:59:57","TI2",859,95
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 18:00:01","Restart",860,95
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 18:00:14","DANGER2",861,95
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 18:00:14","DAT2",862,95
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 18:00:27","Stop RT2",863,95
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 18:00:27","Stop Game",864,95
+1105983,"Olympique de Marseille","Angers SCO","03/30/2019 18:00:38","CONF_PERIOD_SCORE",865,95

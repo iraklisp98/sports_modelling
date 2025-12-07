@@ -1,0 +1,885 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 19:10:27","Lineup changed",0,0
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 19:10:51","Transmission Online",1,0
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 19:10:51","Scout in Stadion",2,0
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 19:16:55","GCC",3,0
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 19:49:46","GCC",4,0
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 19:59:58","Players are coming out",5,0
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:00:22","Players lined up",6,0
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:00:36","Shake hands",7,0
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:01:14","System Message",8,0
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:01:20","Jersey Changed",9,0
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:01:20","Jersey Changed",10,0
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:01:27","Flip coin",11,0
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:03:05","Game about to start",12,0
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:03:15","Start RT1 Team 1",13,1
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:03:23","SAFE2",14,1
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:03:43","Start score update",15,1
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:03:43","Statistic confirmation",16,1
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:03:43","Score update finished",17,1
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:03:49","SAFE1",18,1
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:04:18","AT1",19,2
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:04:47","POSSIBLE_CARDS",20,2
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:05:03","NO_Cards",21,2
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:05:04","Possible Free Kick",22,2
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:05:05","SAFE2",24,2
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:05:05","F1",25,2
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:05:05","FK2",26,2
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:05:05","Ball Position",27,2
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:05:14","Restart",28,2
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:05:35","AT1",29,3
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:05:38","DANGER1",30,3
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:05:38","DAT1",31,3
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:05:52","SAFE2",32,3
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:05:52","AT2",33,3
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:06:06","DANGER2",34,3
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:06:06","DAT2",35,3
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:06:50","SAFE1",36,4
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:07:06","AT1",37,4
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:07:30","SAFE2",38,5
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:07:32","AT2",39,5
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:07:35","DANGER2",40,5
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:07:35","DAT2",41,5
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:08:00","POSSIBLE_TI",42,5
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:08:02","TI2",43,5
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:08:03","Restart",44,5
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:08:11","POSSIBLE_TI",45,5
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:08:11","TI2",46,5
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:08:12","Restart",47,5
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:08:21","POSSIBLE_TI",48,6
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:08:27","TI1",49,6
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:08:28","Restart",50,6
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:08:31","SAFE1",51,6
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:09:23","AT1",52,7
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:09:24","DANGER1",53,7
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:09:24","DAT1",54,7
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:09:42","System Message",55,7
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:09:43","Possible Free Kick",56,7
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:09:47","Adjust Game Clock",58,7
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:09:50","SAFE2",59,7
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:09:51","O1",60,7
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:09:51","FK2",61,7
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:09:51","Ball Position",62,7
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:09:54","Restart",63,7
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:10:09","POSSIBLE_TI",64,7
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:10:10","TI2",65,7
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:10:10","Restart",66,8
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:10:25","Possible Free Kick",67,8
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:10:26","F1",69,8
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:10:26","FK2",70,8
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:10:26","Ball Position",71,8
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:10:27","Restart",72,8
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:10:31","AT2",73,8
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:10:43","Possible Free Kick",74,8
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:10:44","SAFE2",76,8
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:10:44","F1",77,8
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:10:44","FK2",78,8
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:10:44","Ball Position",79,8
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:10:49","Restart",80,8
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:10:55","AT2",81,8
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:11:04","SAFE2",82,8
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:11:08","AT2",83,8
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:11:12","DANGER2",84,9
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:11:12","DAT2",85,9
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:11:17","Possible Free Kick",86,9
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:11:19","SAFE1",88,9
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:11:19","O2",89,9
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:11:19","FK1",90,9
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:11:19","Ball Position",91,9
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:11:46","Restart",92,9
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:11:54","AT1",93,9
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:11:56","DANGER1",94,9
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:11:56","DAT1",95,9
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:12:05","SAFE2",96,9
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:12:06","AT2",97,9
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:12:20","DANGER2",98,10
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:12:20","DAT2",99,10
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:12:27","SAFE1",100,10
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:12:27","AT1",101,10
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:12:29","DANGER1",102,10
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:12:29","DAT1",103,10
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:12:36","POSSIBLE_TI",104,10
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:12:38","TI1",105,10
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:12:39","Restart",106,10
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:12:56","SAFE2",107,10
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:13:14","POSSIBLE_TI",108,11
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:13:16","TI2",109,11
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:13:25","Restart",110,11
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:13:25","AT2",111,11
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:13:31","POSSIBLE_TI",112,11
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:13:32","TI2",113,11
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:13:35","Restart",114,11
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:13:46","POSSIBLE_TI",115,11
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:13:47","TI2",116,11
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:13:48","Restart",117,11
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:13:58","SAFE1",118,11
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:13:58","AT1",119,11
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:14:02","DANGER1",120,11
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:14:02","DAT1",121,11
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:14:13","SHG1",122,12
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:14:14","SAFE2",123,12
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:14:17","AT2",124,12
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:14:18","DANGER2",125,12
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:14:18","DAT2",126,12
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:14:21","PCR2",127,12
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:14:29","SHG2",128,12
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:14:37","CR2",129,12
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:14:39","Ball Position",130,12
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:14:47","Restart",131,12
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:14:51","SAFE1",132,12
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:15:20","AT1",133,13
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:15:23","DANGER1",134,13
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:15:23","DAT1",135,13
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:15:28","SHG1",136,13
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:15:33","SAFE2",137,13
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:15:43","AT2",138,13
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:15:46","SAFE1",139,13
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:16:09","AT1",140,13
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:16:11","DANGER1",141,14
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:16:11","DAT1",142,14
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:16:19","SAFE2",143,14
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:16:19","GK2",144,14
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:16:34","Restart",145,14
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:16:50","AT2",146,14
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:16:57","DANGER2",147,14
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:16:57","DAT2",148,14
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:17:06","PCR2",149,14
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:17:14","CR2",150,15
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:17:15","Ball Position",151,15
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:17:28","Restart",152,15
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:17:53","SAFE1",153,15
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:17:54","GK1",154,15
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:17:56","Restart",155,15
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:18:11","AT1",156,16
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:18:12","DANGER1",157,16
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:18:12","DAT1",158,16
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:18:29","SAFE2",159,16
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:18:30","AT2",160,16
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:18:39","SAFE1",161,16
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:18:39","GK1",162,16
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:19:09","Restart",163,16
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:19:17","AT2",164,17
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:19:19","DANGER2",165,17
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:19:19","DAT2",166,17
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:20:07","Possible Free Kick",167,17
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:20:12","SAFE1",169,18
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:20:12","O2",170,18
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:20:12","FK1",171,18
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:20:12","Ball Position",172,18
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:20:45","POSSIBLE_CARDS",173,18
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:20:58","Injury Break",174,18
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:22:30","YC2",175,20
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:22:31","CONF_YC2",176,20
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:22:36","Scorer",177,20
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:22:50","Restart",178,20
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:23:21","AT1",179,21
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:23:24","DANGER1",180,21
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:23:24","DAT1",181,21
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:23:30","GOAL1",182,21
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:23:44","Player_DATA_CONFIRMED",183,21
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:23:54","Scorer",184,21
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:24:42","CONF_GOAL1",185,22
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:24:42","KO2",186,22
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:24:42","SAFE2",187,22
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:24:55","SAFE1",188,22
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:25:11","AT1",189,23
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:25:14","DANGER1",190,23
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:25:14","DAT1",191,23
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:25:24","SAFE2",192,23
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:25:24","GK2",193,23
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:25:33","Restart",194,23
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:25:37","AT1",195,23
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:25:37","DANGER1",196,23
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:25:37","DAT1",197,23
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:25:58","SAFE1",198,23
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:26:01","AT1",199,23
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:26:14","Player_DATA_CONFIRMED",200,24
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:26:14","Assist",201,24
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:26:18","SAFE2",202,24
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:26:19","AT2",203,24
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:26:40","SAFE1",204,24
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:26:53","AT2",205,24
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:27:10","Possible Free Kick",206,24
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:27:18","SAFE1",208,25
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:27:18","O2",209,25
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:27:18","FK1",210,25
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:27:18","Ball Position",211,25
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:27:35","Restart",212,25
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:27:43","AT1",213,25
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:27:46","POSSIBLE_TI",214,25
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:27:47","TI1",215,25
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:28:01","Restart",216,25
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:28:01","DANGER1",217,25
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:28:01","DAT1",218,25
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:28:11","POSSIBLE_TI",219,26
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:28:12","TI2",220,26
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:28:19","Restart",221,26
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:28:24","SAFE2",222,26
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:28:47","AT2",223,26
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:28:50","DANGER2",224,26
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:28:50","DAT2",225,26
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:29:29","SAFE1",226,27
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:29:29","GK1",227,27
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:29:47","Restart",228,27
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:29:57","SAFE2",229,27
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:30:07","Possible Free Kick",230,27
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:30:24","SAFE1",232,28
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:30:24","O2",233,28
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:30:24","FK1",234,28
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:30:24","Ball Position",235,28
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:30:29","Restart",236,28
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:30:40","AT1",237,28
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:30:50","SAFE2",238,28
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:30:51","AT2",239,28
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:30:52","DANGER2",240,28
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:30:52","DAT2",241,28
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:31:06","SHB2",242,28
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:31:08","SAFE1",243,28
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:31:09","GK1",244,28
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:31:21","Restart",245,29
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:31:39","AT2",246,29
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:31:57","DANGER2",247,29
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:31:57","DAT2",248,29
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:32:12","POSSIBLE_TI",249,30
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:32:24","TI1",250,30
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:32:28","Restart",251,30
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:32:38","POSSIBLE_TI",252,30
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:32:39","TI2",253,30
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:32:42","Restart",254,30
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:32:42","SAFE2",255,30
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:32:53","AT2",256,30
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:33:06","SAFE1",257,30
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:33:25","SAFE2",258,31
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:33:30","AT2",259,31
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:33:34","DANGER2",260,31
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:33:34","DAT2",261,31
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:33:45","SAFE1",262,31
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:34:20","SAFE2",263,32
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:34:32","AT2",264,32
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:34:37","DANGER2",265,32
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:34:37","DAT2",266,32
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:35:21","POSSIBLE_TI",267,33
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:35:22","TI1",268,33
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:35:39","Restart",269,33
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:35:46","SAFE2",270,33
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:36:04","POSSIBLE_TI",271,33
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:36:05","TI1",272,33
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:36:13","Restart",273,34
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:36:18","AT2",274,34
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:36:19","POSSIBLE_TI",275,34
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:36:25","TI2",276,34
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:36:33","Restart",277,34
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:36:39","SAFE2",278,34
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:36:46","AT2",279,34
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:36:48","DANGER2",280,34
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:36:48","DAT2",281,34
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:36:51","BLOCKED2",282,34
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:36:56","SHG2",283,34
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:36:58","SAFE1",284,34
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:37:19","POSSIBLE_TI",285,35
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:37:29","TI2",286,35
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:37:31","Restart",287,35
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:37:37","AT2",288,35
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:37:40","POSSIBLE_TI",289,35
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:37:41","TI2",290,35
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:37:45","Restart",291,35
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:38:04","DANGER2",292,35
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:38:04","DAT2",293,35
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:38:13","SAFE1",294,36
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:38:13","AT1",295,36
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:38:23","POSSIBLE_TI",296,36
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:38:24","TI2",297,36
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:38:25","Restart",298,36
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:38:25","SAFE2",299,36
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:38:31","AT2",300,36
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:38:34","DANGER2",301,36
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:38:34","DAT2",302,36
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:38:51","SHB2",303,36
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:39:00","SAFE1",304,36
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:39:00","GK1",305,36
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:39:15","Restart",306,37
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:39:16","AT2",307,37
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:39:34","POSSIBLE_TI",308,37
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:39:34","TI2",309,37
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:39:36","Restart",310,37
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:40:00","SAFE1",311,37
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:40:00","AT1",312,37
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:40:05","DANGER1",313,37
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:40:05","DAT1",314,37
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:40:10","SAFE2",315,38
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:40:11","AT2",316,38
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:40:17","SAFE1",317,38
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:40:19","AT1",318,38
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:40:23","DANGER1",319,38
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:40:23","DAT1",320,38
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:40:37","SAFE2",321,38
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:40:37","AT2",322,38
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:40:50","POSSIBLE_CARDS",323,38
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:41:30","NO_Cards",324,39
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:41:34","Possible Free Kick",325,39
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:41:36","F1",327,39
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:41:36","FK2",328,39
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:41:36","DANGER2",329,39
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:41:36","DFK2",330,39
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:41:36","Ball Position",331,39
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:41:53","Restart",332,39
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:42:17","SAFE1",333,40
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:42:18","GK1",334,40
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:42:39","Restart",335,40
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:42:51","SAFE2",336,40
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:43:02","AT2",337,40
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:43:04","DANGER2",338,40
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:43:04","DAT2",339,40
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:43:19","Possible Free Kick",340,41
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:43:26","SAFE1",342,41
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:43:26","F2",343,41
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:43:26","FK1",344,41
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:43:26","Ball Position",345,41
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:43:49","Restart",346,41
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:43:56","AT1",347,41
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:44:04","POSSIBLE_TI",348,41
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:44:05","TI1",349,41
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:44:06","Restart",350,41
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:44:07","DANGER1",351,41
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:44:07","DAT1",352,41
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:44:11","SHG1",353,42
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:44:13","SAFE2",354,42
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:44:20","AT1",355,42
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:44:25","DANGER1",356,42
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:44:25","DAT1",357,42
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:44:30","PCR1",358,42
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:44:31","SHG1",359,42
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:44:38","CR1",360,42
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:44:39","Ball Position",361,42
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:45:09","Restart",362,42
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:45:23","SHG1",363,43
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:45:24","SAFE2",364,43
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:45:34","POSSIBLE_CARDS",365,43
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:45:42","YC1",366,43
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:45:43","CONF_YC1",367,43
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:45:51","Scorer",368,43
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:46:03","Injury Break",369,43
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:46:43","Player_DATA_CONFIRMED",370,44
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:46:49","Restart",371,44
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:46:50","Possible Free Kick",372,44
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:46:51","F1",374,44
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:46:51","FK2",375,44
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:46:51","Ball Position",376,44
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:46:55","Restart",377,44
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:47:01","AT2",378,44
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:47:09","Possible Free Kick",379,44
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:47:18","F1",381,45
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:47:18","FK2",382,45
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:47:18","DANGER2",383,45
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:47:18","DFK2",384,45
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:47:18","Ball Position",385,45
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:47:46","Restart",386,45
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:48:13","POSSIBLE_TI",387,46
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:48:39","Extra Time",388,46
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:48:46","TI2",389,46
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:48:47","Restart",390,46
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:48:52","SAFE2",391,46
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:48:59","SAFE1",392,46
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:49:23","AT1",393,47
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:49:29","POSSIBLE_TI",394,47
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:49:33","TI1",395,47
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:49:45","Restart",396,47
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:50:07","SAFE2",397,47
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:50:14","AT2",398,48
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:50:21","SAFE2",399,48
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:50:28","AT2",400,48
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:50:35","SAFE1",401,48
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:50:35","AT1",402,48
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:50:38","DANGER1",403,48
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:50:38","DAT1",404,48
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:50:51","POSSIBLE_TI",405,48
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:50:52","TI1",406,48
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:50:53","Restart",407,48
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:51:14","Stop RT1",408,48
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 20:51:21","CONF_PERIOD_SCORE",409,45
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:07:21","Players are coming out",410,45
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:09:07","Game about to start",411,45
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:09:38","Start RT2 Team 2",412,46
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:09:52","AT2",413,46
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:10:20","DANGER2",414,46
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:10:20","DAT2",415,46
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:10:28","PCR2",416,46
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:10:34","SHG2",417,46
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:10:38","CR2",418,46
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:10:39","Ball Position",419,47
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:10:45","Restart",420,47
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:10:55","POSSIBLE_TI",421,47
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:10:55","TI1",422,47
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:11:09","Restart",423,47
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:11:46","Possible Free Kick",424,48
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:12:06","F1",426,48
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:12:06","FK2",427,48
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:12:06","DFK2",428,48
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:12:06","Ball Position",429,48
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:12:29","Restart",430,48
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:12:38","POSSIBLE_TI",431,49
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:12:39","TI1",432,49
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:12:53","Restart",433,49
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:13:18","Possible Free Kick",434,49
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:13:21","SAFE1",436,49
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:13:21","F2",437,49
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:13:21","FK1",438,49
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:13:21","Ball Position",439,49
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:13:29","Restart",440,49
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:13:51","AT1",441,50
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:13:58","DANGER1",442,50
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:13:58","DAT1",443,50
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:14:09","SAFE2",444,50
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:14:10","GK2",445,50
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:14:13","Restart",446,50
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:14:38","AT1",447,51
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:14:40","DANGER1",448,51
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:14:40","DAT1",449,51
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:14:58","POSSIBLE_TI",450,51
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:15:05","TI1",451,51
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:15:10","Restart",452,51
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:15:15","POSSIBLE_TI",453,51
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:15:21","TI2",454,51
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:15:22","Restart",455,51
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:15:25","SAFE2",456,51
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:15:38","AT2",457,52
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:15:41","DANGER2",458,52
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:15:41","DAT2",459,52
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:16:04","Possible Free Kick",460,52
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:16:09","SAFE1",462,52
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:16:09","O2",463,52
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:16:09","FK1",464,52
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:16:09","Ball Position",465,52
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:16:10","Restart",466,52
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:16:23","AT1",467,52
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:16:34","DANGER1",468,52
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:16:34","DAT1",469,52
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:16:43","Possible Free Kick",470,53
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:16:44","SAFE2",472,53
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:16:44","F1",473,53
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:16:44","FK2",474,53
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:16:44","Ball Position",475,53
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:16:46","Restart",476,53
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:16:54","AT2",477,53
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:16:56","SAFE1",478,53
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:17:18","POSSIBLE_TI",479,53
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:17:19","TI1",480,53
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:17:27","Restart",481,53
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:17:28","AT1",482,53
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:17:40","POSSIBLE_TI",483,54
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:17:42","TI2",484,54
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:17:46","AT2",485,54
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:17:46","DANGER2",486,54
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:17:46","DAT2",487,54
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:17:47","Restart",488,54
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:18:06","SAFE1",489,54
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:18:06","AT1",490,54
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:18:07","DANGER1",491,54
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:18:07","DAT1",492,54
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:18:12","SHB1",493,54
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:18:15","SAFE2",494,54
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:18:15","GK2",495,54
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:18:17","Restart",496,54
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:18:29","AT2",497,54
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:18:39","DANGER2",498,55
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:18:39","DAT2",499,55
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:19:07","POSSIBLE_TI",500,55
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:19:09","TI1",501,55
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:19:18","Restart",502,55
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:19:26","POSSIBLE_TI",503,55
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:19:31","TI1",504,55
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:19:31","Restart",505,55
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:19:33","SAFE1",506,55
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:19:33","AT1",507,55
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:19:34","DANGER1",508,55
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:19:34","DAT1",509,55
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:20:07","Possible Free Kick",510,56
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:20:08","SAFE2",512,56
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:20:08","F1",513,56
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:20:08","FK2",514,56
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:20:08","Ball Position",515,56
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:20:19","Restart",516,56
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:20:29","AT2",517,56
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:20:33","DANGER2",518,56
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:20:33","DAT2",519,56
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:20:36","PCR2",520,56
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:20:46","NCR2",521,57
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:20:50","SAFE1",522,57
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:20:50","GK1",523,57
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:21:05","Restart",524,57
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:21:10","AT2",525,57
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:21:11","POSSIBLE_TI",526,57
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:21:15","TI2",527,57
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:21:16","Restart",528,57
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:21:31","POSSIBLE_TI",529,57
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:21:32","TI1",530,57
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:21:39","Restart",531,58
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:21:44","POSSIBLE_TI",532,58
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:21:45","TI2",533,58
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:21:47","Restart",534,58
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:21:59","Possible Free Kick",535,58
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:22:01","F1",537,58
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:22:01","FK2",538,58
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:22:01","DANGER2",539,58
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:22:01","DFK2",540,58
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:22:01","Ball Position",541,58
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:22:23","SUB2",542,58
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:22:25","Restart",543,58
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:22:33","SAFE2",544,58
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:22:43","AT2",545,59
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:23:05","SAFE1",546,59
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:23:14","Player_DATA_CONFIRMED",547,59
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:23:21","AT1",548,59
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:23:22","DANGER1",549,59
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:23:22","DAT1",550,59
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:23:31","SHB1",551,59
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:23:35","SAFE2",552,59
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:23:35","GK2",553,59
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:23:44","Restart",554,60
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:24:01","AT2",555,60
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:24:04","DANGER2",556,60
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:24:04","DAT2",557,60
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:24:12","SAFE1",558,60
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:24:13","AT1",559,60
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:24:16","DANGER1",560,60
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:24:16","DAT1",561,60
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:24:21","SAFE2",562,60
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:24:36","AT2",563,60
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:24:49","DANGER2",564,61
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:24:49","DAT2",565,61
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:25:26","SAFE1",566,61
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:25:27","AT1",567,61
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:25:32","DANGER1",568,61
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:25:32","DAT1",569,61
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:25:47","PCR1",570,62
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:25:50","SHG1",571,62
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:25:51","SHG1",572,62
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:26:00","SHB1",573,62
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:26:15","NCR1",574,62
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:26:16","Possible Free Kick",575,62
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:26:18","SAFE2",577,62
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:26:18","F1",578,62
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:26:18","FK2",579,62
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:26:18","Ball Position",580,62
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:26:18","Restart",581,62
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:26:28","AT2",582,62
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:26:35","POSSIBLE_TI",583,62
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:26:37","TI1",584,62
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:26:48","Restart",585,63
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:26:58","POSSIBLE_TI",586,63
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:26:59","TI2",587,63
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:27:06","Restart",588,63
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:27:11","DANGER2",589,63
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:27:11","DAT2",590,63
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:27:41","PPEN",591,64
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:27:41","PPEN2",592,64
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:27:57","PEN2",593,64
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:28:17","Scorer",594,64
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:29:15","GOAL2",595,65
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:29:16","Scorer",596,65
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:29:20","POSSIBLE_CARDS",597,65
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:29:21","YC1",598,65
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:29:22","CONF_YC1",599,65
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:29:28","Scorer",600,65
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:29:46","CONF_GOAL2",601,66
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:29:46","KO1",602,66
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:29:46","SAFE1",603,66
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:29:49","AT2",604,66
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:29:49","DANGER2",605,66
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:29:49","DAT2",606,66
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:29:51","SHG2",607,66
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:29:52","SHG2",608,66
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:29:54","BLOCKED2",609,66
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:29:59","SAFE1",610,66
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:29:59","AT1",611,66
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:30:05","Possible Free Kick",612,66
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:30:14","SAFE2",614,66
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:30:14","O1",615,66
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:30:14","FK2",616,66
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:30:14","Ball Position",617,66
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:30:22","Restart",618,66
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:30:32","AT2",619,66
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:30:33","DANGER2",620,66
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:30:33","DAT2",621,66
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:30:36","SAFE1",622,66
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:30:49","AT1",623,67
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:30:49","DANGER1",624,67
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:30:49","DAT1",625,67
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:30:58","POSSIBLE_CARDS",626,67
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:31:18","Scorer",627,67
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:31:18","Player_DATA_CONFIRMED",628,67
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:31:26","Player_DATA_CONFIRMED",629,67
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:31:43","NO_Cards",630,68
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:31:43","Possible Free Kick",631,68
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:31:44","SAFE2",633,68
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:31:44","F1",634,68
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:31:44","FK2",635,68
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:31:44","Ball Position",636,68
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:31:53","Restart",637,68
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:31:58","POSSIBLE_CARDS",638,68
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:32:53","Injury Break",639,69
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:33:52","NO_Cards",640,70
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:33:54","Restart",641,70
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:33:57","Possible Free Kick",642,70
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:34:03","F1",644,70
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:34:03","FK2",645,70
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:34:03","Ball Position",646,70
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:34:03","Restart",647,70
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:34:26","AT1",648,70
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:34:29","DANGER1",649,70
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:34:29","DAT1",650,70
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:34:36","POSSIBLE_CARDS",651,70
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:34:46","YC2",652,71
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:34:47","CONF_YC2",653,71
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:34:50","Scorer",654,71
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:35:02","POSSIBLE_TI",655,71
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:35:03","TI2",656,71
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:35:05","Restart",657,71
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:35:13","POSSIBLE_TI",658,71
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:35:14","TI2",659,71
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:35:16","Player_DATA_CONFIRMED",660,71
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:35:19","Restart",661,71
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:35:31","Possible Free Kick",662,71
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:35:35","F1",664,71
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:35:35","FK2",665,71
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:35:35","DFK2",666,71
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:35:36","Ball Position",667,71
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:35:36","Restart",668,71
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:35:37","SAFE2",669,71
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:35:45","AT2",670,72
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:35:58","POSSIBLE_TI",671,72
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:36:00","TI1",672,72
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:36:16","SUB1",673,72
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:36:30","Restart",674,72
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:36:43","DANGER2",675,73
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:36:43","DAT2",676,73
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:37:16","SAFE1",677,73
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:37:16","AT1",678,73
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:37:25","SAFE2",679,73
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:37:25","AT2",680,73
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:37:27","DANGER2",681,73
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:37:27","DAT2",682,73
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:37:30","SAFE1",683,73
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:37:30","AT1",684,73
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:37:46","SAFE2",685,74
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:37:46","AT2",686,74
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:37:47","DANGER2",687,74
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:37:47","DAT2",688,74
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:37:52","PCR2",689,74
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:37:55","SHG2",690,74
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:38:04","CR2",691,74
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:38:05","Ball Position",692,74
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:38:10","Restart",693,74
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:38:14","Player_DATA_CONFIRMED",694,74
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:38:53","Possible Free Kick",695,75
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:38:54","SAFE1",697,75
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:38:54","F2",698,75
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:38:54","FK1",699,75
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:38:54","Ball Position",700,75
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:39:10","Restart",701,75
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:39:28","Possible Free Kick",702,75
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:39:38","F2",704,76
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:39:38","FK1",705,76
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:39:38","Ball Position",706,76
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:39:42","Restart",707,76
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:39:54","POSSIBLE_TI",708,76
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:39:55","TI2",709,76
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:39:56","Restart",710,76
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:40:02","AT2",711,76
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:40:08","SAFE1",712,76
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:40:19","AT1",713,76
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:40:20","DANGER1",714,76
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:40:20","DAT1",715,76
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:40:26","Possible Free Kick",716,76
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:40:33","SAFE2",718,76
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:40:33","O1",719,76
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:40:33","FK2",720,76
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:40:33","Ball Position",721,76
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:40:34","Restart",722,76
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:40:40","AT2",723,77
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:40:41","DANGER2",724,77
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:40:41","DAT2",725,77
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:40:54","POSSIBLE_TI",726,77
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:40:54","TI2",727,77
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:40:56","Restart",728,77
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:41:22","SHB2",729,77
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:41:29","SAFE1",730,77
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:41:29","GK1",731,77
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:41:38","Restart",732,78
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:41:49","SAFE2",733,78
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:42:18","AT2",734,78
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:42:25","DANGER2",735,78
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:42:25","DAT2",736,78
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:42:41","SAFE1",737,79
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:43:02","Possible Free Kick",738,79
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:43:03","F2",740,79
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:43:03","FK1",741,79
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:43:03","Ball Position",742,79
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:43:05","Restart",743,79
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:43:28","AT2",744,79
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:43:28","DANGER2",745,79
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:43:28","DAT2",746,79
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:44:15","SUB2",747,80
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:44:16","Possible Free Kick",748,80
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:44:20","SAFE1",750,80
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:44:20","F2",751,80
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:44:20","FK1",752,80
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:44:20","Ball Position",753,80
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:44:20","Restart",754,80
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:44:29","AT1",755,80
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:44:34","POSSIBLE_TI",756,80
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:44:35","TI2",757,80
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:45:10","SUB1",758,81
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:45:13","Restart",759,81
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:45:20","SAFE2",760,81
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:45:20","AT2",761,81
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:45:29","SAFE1",762,81
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:45:48","AT2",763,82
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:45:51","DANGER2",764,82
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:45:51","DAT2",765,82
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:46:09","SHB2",766,82
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:46:14","Player_DATA_CONFIRMED",767,82
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:46:14","Player_DATA_CONFIRMED",768,82
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:46:17","SAFE1",769,82
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:46:17","GK1",770,82
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:46:21","Restart",771,82
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:46:31","Possible Free Kick",772,82
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:46:33","SAFE2",774,82
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:46:33","F1",775,82
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:46:33","FK2",776,82
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:46:33","Ball Position",777,82
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:46:50","Restart",778,83
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:47:12","Possible Free Kick",779,83
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:47:13","F1",781,83
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:47:13","FK2",782,83
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:47:13","DANGER2",783,83
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:47:13","DFK2",784,83
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:47:13","Ball Position",785,83
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:47:14","Restart",786,83
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:47:41","POSSIBLE_TI",787,84
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:47:43","TI1",788,84
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:47:43","Restart",789,84
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:47:45","SAFE1",790,84
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:47:55","POSSIBLE_TI",791,84
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:47:56","TI1",792,84
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:48:11","Restart",793,84
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:48:24","POSSIBLE_TI",794,84
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:48:25","TI1",795,84
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:48:26","Restart",796,84
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:48:28","AT1",797,84
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:48:35","DANGER1",798,84
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:48:35","DAT1",799,84
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:48:47","PCR1",800,85
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:48:51","CR1",801,85
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:48:52","Ball Position",802,85
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:49:11","Restart",803,85
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:49:19","BLOCKED1",804,85
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:49:36","SAFE2",805,85
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:49:36","AT2",806,85
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:49:44","SAFE1",807,86
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:49:44","AT1",808,86
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:49:45","DANGER1",809,86
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:49:45","DAT1",810,86
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:50:03","SAFE2",811,86
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:50:04","AT2",812,86
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:50:08","DANGER2",813,86
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:50:08","DAT2",814,86
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:50:15","SHG2",815,86
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:50:19","POSSIBLE_TI",816,86
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:50:21","TI2",817,86
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:50:39","SUB2",818,87
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:50:52","Restart",819,87
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:51:07","BLOCKED2",820,87
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:51:33","SAFE1",821,87
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:51:36","AT1",822,87
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:51:40","DANGER1",823,88
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:51:40","DAT1",824,88
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:51:50","BLOCKED1",825,88
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:51:59","SAFE2",826,88
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:52:00","AT2",827,88
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:52:07","DANGER2",828,88
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:52:07","DAT2",829,88
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:52:13","SHG2",830,88
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:52:16","SAFE1",831,88
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:52:26","AT1",832,88
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:52:28","DANGER1",833,88
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:52:28","DAT1",834,88
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:52:41","SHG1",835,89
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:52:42","SHG1",836,89
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:52:56","SAFE2",837,89
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:52:56","AT2",838,89
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:53:01","DANGER2",839,89
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:53:01","DAT2",840,89
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:53:09","SHB2",841,89
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:53:13","Player_DATA_CONFIRMED",842,89
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:53:17","SAFE1",843,89
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:53:17","GK1",844,89
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:53:57","SUB1",845,90
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:54:12","Restart",846,90
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:54:25","AT2",847,90
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:54:26","DANGER2",848,90
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:54:26","DAT2",849,90
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:54:33","SHB2",850,90
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:54:34","BLOCKED2",851,90
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:54:43","SHB2",852,91
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:54:53","Extra Time",853,91
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:54:55","SAFE1",854,91
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:54:55","GK1",855,91
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:55:06","Restart",856,91
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:55:18","SAFE2",857,91
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:55:27","AT1",858,91
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:55:32","DANGER1",859,91
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:55:32","DAT1",860,91
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:55:35","PCR1",861,91
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:55:42","CR1",862,92
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:55:43","Ball Position",863,92
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:55:59","Restart",864,92
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:56:06","PCR1",865,92
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:56:08","CR1",866,92
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:56:09","Ball Position",867,92
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:56:14","Player_DATA_CONFIRMED",868,92
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:56:15","Restart",869,92
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:56:44","BLOCKED1",870,93
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:56:56","SAFE2",871,93
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:57:07","Possible Free Kick",872,93
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:57:08","F1",874,93
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:57:08","FK2",875,93
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:57:08","Ball Position",876,93
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:57:09","Restart",877,93
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:57:11","AT2",878,93
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:57:17","DANGER2",879,93
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:57:17","DAT2",880,93
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:57:30","SAFE1",881,93
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:57:31","AT1",882,93
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:57:38","DANGER1",883,94
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:57:38","DAT1",884,94
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:57:51","SAFE1",885,94
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:58:00","AT1",886,94
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:58:17","SAFE1",887,94
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:58:27","Possible Free Kick",888,94
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:58:29","F1",890,94
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:58:29","FK2",891,94
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:58:29","DANGER2",892,94
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:58:29","DFK2",893,94
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:58:29","Ball Position",894,94
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:58:30","Restart",895,94
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:58:54","SHB2",896,95
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:58:57","Possible Free Kick",897,95
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:59:02","No Free Kick",899,95
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:59:02","SAFE1",900,95
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:59:03","GK1",901,95
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:59:03","Restart",902,95
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:59:04","AT2",903,95
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:59:04","DANGER2",904,95
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:59:04","DAT2",905,95
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:59:10","GOAL2",906,95
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 21:59:45","Scorer",907,96
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 22:00:45","CONF_GOAL2",908,97
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 22:00:45","KO1",909,97
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 22:00:45","SAFE1",910,97
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 22:00:45","Player_DATA_CONFIRMED",911,97
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 22:00:45","Assist",912,97
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 22:00:46","AT1",913,97
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 22:01:17","Stop RT2",914,97
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 22:01:17","Stop Game",915,97
+1074026,"AS Saint Etienne","Olympique Lyonnais","01/20/2019 22:01:37","CONF_PERIOD_SCORE",916,96

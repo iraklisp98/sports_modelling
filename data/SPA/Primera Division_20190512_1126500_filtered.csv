@@ -1,0 +1,998 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1126500,"Villarreal CF","SD Eibar","05/12/2019 15:20:34","Lineup changed",0,0
+1126500,"Villarreal CF","SD Eibar","05/12/2019 15:21:24","Transmission Online",1,0
+1126500,"Villarreal CF","SD Eibar","05/12/2019 15:41:52","Scout in Stadion",2,0
+1126500,"Villarreal CF","SD Eibar","05/12/2019 15:42:17","GCC",3,0
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:23:52","Jersey Changed",4,0
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:23:52","Jersey Changed",5,0
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:24:07","GCC",6,0
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:24:11","Players are coming out",7,0
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:24:32","Players lined up",8,0
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:24:38","Shake hands",9,0
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:25:14","Photo taking",10,0
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:25:53","Flip coin",11,0
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:26:38","Game about to start",12,0
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:30:04","Start RT1 Team 1",13,1
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:30:04","SAFE1",14,1
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:30:08","AT1",15,1
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:30:11","DANGER1",16,1
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:30:11","DAT1",17,1
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:30:15","POSSIBLE_TI",18,1
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:30:15","TI1",19,1
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:30:17","Restart",20,1
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:30:28","BLOCKED1",21,1
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:30:30","SAFE1",22,1
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:30:35","AT1",23,1
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:30:39","DANGER1",24,1
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:30:39","DAT1",25,1
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:30:48","SAFE2",26,1
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:30:49","GK2",27,1
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:31:59","Restart",28,2
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:32:02","AT2",29,2
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:32:14","POSSIBLE_TI",30,3
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:32:15","TI1",31,3
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:32:20","Restart",32,3
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:32:21","SAFE1",33,3
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:32:22","AT1",34,3
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:32:25","SAFE2",35,3
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:32:25","AT2",36,3
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:32:30","DANGER2",37,3
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:32:30","DAT2",38,3
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:32:34","POSSIBLE_TI",39,3
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:32:35","TI2",40,3
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:32:46","Restart",41,3
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:33:10","SAFE2",42,4
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:33:13","AT2",43,4
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:33:16","DANGER2",44,4
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:33:16","DAT2",45,4
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:33:23","POSSIBLE_TI",46,4
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:33:24","TI1",47,4
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:33:36","Restart",48,4
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:33:38","SAFE1",49,4
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:33:39","AT1",50,4
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:33:41","SAFE2",51,4
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:33:42","AT2",52,4
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:33:43","DANGER2",53,4
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:33:43","DAT2",54,4
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:33:48","SAFE1",55,4
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:33:49","GK1",56,4
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:33:56","Restart",57,4
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:34:04","CLS",58,4
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:34:07","Restart",59,5
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:34:17","AT1",60,5
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:34:18","DANGER1",61,5
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:34:18","DAT1",62,5
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:34:23","SAFE2",63,5
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:34:23","AT2",64,5
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:34:26","SAFE1",65,5
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:34:38","AT1",66,5
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:34:41","DANGER1",67,5
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:34:41","DAT1",68,5
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:34:45","SAFE2",69,5
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:34:49","AT1",70,5
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:34:50","POSSIBLE_TI",71,5
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:34:51","TI1",72,5
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:34:53","Restart",73,5
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:34:59","SAFE2",74,5
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:35:13","AT2",75,6
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:35:18","SAFE1",76,6
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:35:18","AT1",77,6
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:35:20","DANGER1",78,6
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:35:20","DAT1",79,6
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:35:28","SAFE1",80,6
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:35:29","POSSIBLE_TI",81,6
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:35:30","TI1",82,6
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:35:31","Restart",83,6
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:35:42","AT1",84,6
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:35:44","DANGER1",85,6
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:35:44","DAT1",86,6
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:35:50","PCR1",87,6
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:35:56","BLOCKED1",88,6
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:36:08","CR1",89,7
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:36:09","Ball Position",90,7
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:36:16","Restart",91,7
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:36:25","SHB1",92,7
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:36:26","SAFE2",93,7
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:36:26","GK2",94,7
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:36:54","Restart",95,7
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:36:54","AT2",96,7
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:37:24","DANGER2",97,8
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:37:24","DAT2",98,8
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:37:25","POSSIBLE_TI",99,8
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:37:26","TI2",100,8
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:37:34","Restart",101,8
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:37:40","SAFE1",102,8
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:37:40","GK1",103,8
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:37:50","Restart",104,8
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:37:55","AT1",105,8
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:38:04","SAFE1",106,9
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:38:22","AT1",107,9
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:38:24","DANGER1",108,9
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:38:24","DAT1",109,9
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:38:30","Possible Free Kick",110,9
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:38:34","SAFE2",112,9
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:38:34","O1",113,9
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:38:34","FK2",114,9
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:38:34","Ball Position",115,9
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:38:56","Restart",116,9
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:38:58","AT2",117,9
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:39:02","DANGER2",118,9
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:39:02","DAT2",119,9
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:39:04","SAFE1",120,9
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:39:08","AT1",121,10
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:39:15","SAFE2",122,10
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:39:25","AT2",123,10
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:39:28","DANGER2",124,10
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:39:28","DAT2",125,10
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:39:48","PCR2",126,10
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:40:06","CR2",127,11
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:40:07","Ball Position",128,11
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:40:18","Restart",129,11
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:40:25","SAFE1",130,11
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:40:32","AT1",131,11
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:40:36","DANGER1",132,11
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:40:36","DAT1",133,11
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:40:45","PCR1",134,11
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:40:48","SHG1",135,11
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:41:02","CR1",136,11
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:41:03","Ball Position",137,11
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:41:12","Restart",138,12
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:41:26","Possible Free Kick",139,12
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:41:27","SAFE2",141,12
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:41:27","F1",142,12
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:41:27","FK2",143,12
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:41:27","Ball Position",144,12
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:41:59","Restart",145,12
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:42:00","AT2",146,12
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:42:06","DANGER2",147,13
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:42:06","DAT2",148,13
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:42:16","Possible Free Kick",149,13
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:42:18","SAFE1",151,13
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:42:19","O2",152,13
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:42:19","FK1",153,13
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:42:19","Ball Position",154,13
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:42:24","AT1",155,13
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:42:24","DANGER1",156,13
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:42:24","DAT1",157,13
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:42:24","Restart",158,13
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:42:30","POSSIBLE_TI",159,13
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:42:30","TI2",160,13
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:42:41","Restart",161,13
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:42:45","SAFE2",162,13
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:42:46","POSSIBLE_TI",163,13
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:42:46","TI2",164,13
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:42:50","Restart",165,13
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:43:03","SAFE2",166,13
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:43:06","AT2",167,14
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:43:25","SAFE2",168,14
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:43:29","AT2",169,14
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:43:33","DANGER2",170,14
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:43:33","DAT2",171,14
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:43:44","Possible Free Kick",172,14
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:43:45","SAFE1",174,14
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:43:45","F2",175,14
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:43:45","FK1",176,14
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:43:45","Ball Position",177,14
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:43:58","Restart",178,14
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:44:04","AT1",179,15
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:44:12","SAFE2",180,15
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:44:29","AT2",181,15
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:44:36","SAFE1",182,15
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:44:36","AT1",183,15
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:44:38","DANGER1",184,15
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:44:38","DAT1",185,15
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:44:41","SAFE2",186,15
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:44:46","POSSIBLE_TI",187,15
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:44:47","TI2",188,15
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:44:57","Restart",189,15
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:45:02","SAFE1",190,15
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:45:03","POSSIBLE_TI",191,15
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:45:04","TI1",192,16
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:45:12","Restart",193,16
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:45:14","AT1",194,16
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:45:19","DANGER1",195,16
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:45:19","DAT1",196,16
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:45:22","Possible Free Kick",197,16
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:45:24","SAFE2",199,16
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:45:24","O1",200,16
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:45:24","FK2",201,16
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:45:24","Ball Position",202,16
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:45:49","AT2",203,16
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:45:49","DANGER2",204,16
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:45:49","DAT2",205,16
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:45:49","Restart",206,16
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:45:57","SAFE1",207,16
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:45:57","GK1",208,16
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:46:08","Restart",209,17
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:46:12","AT2",210,17
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:46:16","SAFE1",211,17
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:46:17","GK1",212,17
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:46:35","Restart",213,17
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:46:42","AT1",214,17
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:46:47","DANGER1",215,17
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:46:47","DAT1",216,17
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:46:54","SAFE2",217,17
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:47:00","AT1",218,17
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:47:02","DANGER1",219,17
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:47:02","DAT1",220,17
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:47:10","SHB1",221,18
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:47:11","SAFE2",222,18
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:47:12","GK2",223,18
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:47:47","Restart",224,18
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:47:49","AT2",225,18
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:47:54","Possible Free Kick",226,18
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:47:55","SAFE1",228,18
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:47:55","F2",229,18
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:47:55","FK1",230,18
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:47:55","Ball Position",231,18
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:48:06","Restart",232,19
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:48:07","AT1",233,19
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:48:12","SAFE2",234,19
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:48:27","AT2",235,19
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:48:43","SAFE2",236,19
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:48:54","SAFE1",237,19
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:48:57","AT1",238,19
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:49:01","DANGER1",239,19
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:49:01","DAT1",240,19
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:49:05","SAFE2",241,20
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:49:12","AT2",242,20
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:49:15","DANGER2",243,20
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:49:15","DAT2",244,20
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:49:23","POSSIBLE_TI",245,20
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:49:24","TI1",246,20
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:49:40","Restart",247,20
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:49:43","SAFE1",248,20
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:49:45","AT2",249,20
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:49:48","DANGER2",250,20
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:49:48","DAT2",251,20
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:49:50","Possible Free Kick",252,20
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:49:51","SAFE1",254,20
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:49:51","F2",255,20
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:49:51","FK1",256,20
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:49:51","Ball Position",257,20
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:50:06","Restart",258,21
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:50:15","SAFE1",259,21
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:50:18","AT1",260,21
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:50:20","DANGER1",261,21
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:50:20","DAT1",262,21
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:50:24","SAFE2",263,21
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:50:36","AT2",264,21
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:50:41","DANGER2",265,21
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:50:41","DAT2",266,21
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:50:52","SAFE1",267,21
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:50:55","AT1",268,21
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:50:56","DANGER1",269,21
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:50:56","DAT1",270,21
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:50:57","BREAKAWAY1",271,21
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:51:05","SHB1",272,22
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:51:06","SAFE2",273,22
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:51:06","GK2",274,22
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:51:50","Restart",275,22
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:51:54","AT2",276,22
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:52:02","Possible Free Kick",277,22
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:52:03","F1",279,22
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:52:03","FK2",280,22
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:52:03","DANGER2",281,22
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:52:03","DFK2",282,22
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:52:03","Ball Position",283,22
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:52:18","Restart",284,23
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:52:36","POSSIBLE_TI",285,23
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:52:37","TI2",286,23
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:52:42","Restart",287,23
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:52:47","SAFE1",288,23
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:52:52","AT1",289,23
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:52:54","SAFE2",290,23
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:52:55","AT2",291,23
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:52:58","DANGER2",292,23
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:52:58","DAT2",293,23
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:53:01","POSSIBLE_TI",294,23
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:53:01","TI2",295,23
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:53:20","Restart",296,24
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:53:44","SAFE2",297,24
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:53:48","AT2",298,24
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:53:51","SAFE1",299,24
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:53:52","AT1",300,24
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:53:56","POSSIBLE_TI",301,24
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:53:56","TI2",302,24
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:54:08","Restart",303,25
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:54:13","SAFE2",304,25
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:54:19","AT2",305,25
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:54:37","DANGER2",306,25
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:54:37","DAT2",307,25
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:54:45","Possible Free Kick",308,25
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:54:54","SAFE1",310,25
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:54:54","F2",311,25
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:54:54","FK1",312,25
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:54:54","Ball Position",313,25
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:55:11","Restart",314,26
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:55:12","AT1",315,26
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:55:19","POSSIBLE_TI",316,26
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:55:20","TI1",317,26
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:55:33","Restart",318,26
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:55:38","Possible Free Kick",319,26
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:55:39","SAFE2",321,26
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:55:39","F1",322,26
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:55:39","FK2",323,26
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:55:39","Ball Position",324,26
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:56:03","AT2",325,26
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:56:03","DANGER2",326,26
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:56:03","DAT2",327,26
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:56:04","Restart",328,26
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:56:13","SAFE1",329,27
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:56:14","AT1",330,27
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:56:16","POSSIBLE_TI",331,27
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:56:16","TI1",332,27
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:56:28","Restart",333,27
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:56:33","SAFE1",334,27
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:56:39","AT1",335,27
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:56:41","DANGER1",336,27
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:56:41","DAT1",337,27
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:56:53","SAFE2",338,27
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:56:58","Possible Free Kick",339,27
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:56:59","F1",341,27
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:56:59","FK2",342,27
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:56:59","Ball Position",343,27
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:57:28","AT2",344,28
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:57:28","DANGER2",345,28
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:57:28","DAT2",346,28
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:57:29","Restart",347,28
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:57:40","SAFE1",348,28
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:57:42","AT1",349,28
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:57:47","SAFE2",350,28
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:57:49","AT2",351,28
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:57:52","SAFE1",352,28
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:58:01","AT2",353,28
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:58:06","SAFE2",354,29
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:58:15","AT2",355,29
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:58:22","POSSIBLE_TI",356,29
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:58:24","TI2",357,29
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:58:34","Restart",358,29
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:58:42","DANGER2",359,29
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:58:42","DAT2",360,29
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:58:47","POSSIBLE_TI",361,29
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:58:47","TI2",362,29
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:58:53","Restart",363,29
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:59:05","SAFE2",364,30
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:59:08","AT2",365,30
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:59:19","SAFE2",366,30
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:59:24","AT2",367,30
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:59:28","SAFE1",368,30
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:59:28","GK1",369,30
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:59:32","Restart",370,30
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:59:41","AT1",371,30
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:59:45","DANGER1",372,30
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:59:45","DAT1",373,30
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:59:53","SAFE2",374,30
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:59:54","AT2",375,30
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:59:56","DANGER2",376,30
+1126500,"Villarreal CF","SD Eibar","05/12/2019 16:59:56","DAT2",377,30
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:00:08","Possible Free Kick",378,31
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:00:09","SAFE1",380,31
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:00:09","F2",381,31
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:00:09","FK1",382,31
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:00:10","Ball Position",383,31
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:00:26","Restart",384,31
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:00:36","AT1",385,31
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:00:44","SAFE1",386,31
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:00:47","AT1",387,31
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:00:49","SAFE2",388,31
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:01:01","AT2",389,31
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:01:27","SAFE2",390,32
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:01:34","AT2",391,32
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:01:43","Possible Free Kick",392,32
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:01:46","SAFE1",394,32
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:01:46","O2",395,32
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:01:46","FK1",396,32
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:01:46","Ball Position",397,32
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:01:50","Restart",398,32
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:01:59","AT1",399,32
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:02:11","SAFE1",400,33
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:02:23","AT1",401,33
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:02:29","SAFE2",402,33
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:02:29","AT2",403,33
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:02:35","Possible Free Kick",404,33
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:02:45","SAFE2",406,33
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:02:45","F1",407,33
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:02:45","FK2",408,33
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:02:45","Ball Position",409,33
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:03:05","Restart",410,34
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:03:07","SAFE2",411,34
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:03:09","AT2",412,34
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:03:14","DANGER2",413,34
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:03:14","DAT2",414,34
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:03:15","POSSIBLE_TI",415,34
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:03:15","TI2",416,34
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:03:27","Restart",417,34
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:03:51","SAFE2",418,34
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:03:54","AT2",419,34
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:03:58","SAFE2",420,34
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:04:04","AT2",421,35
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:04:22","DANGER2",422,35
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:04:22","DAT2",423,35
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:04:29","SAFE1",424,35
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:04:29","AT1",425,35
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:04:36","POSSIBLE_TI",426,35
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:04:37","TI1",427,35
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:04:47","Restart",428,35
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:04:50","SAFE1",429,35
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:05:09","AT1",430,36
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:05:20","DANGER1",431,36
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:05:20","DAT1",432,36
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:05:52","PCR1",433,36
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:06:03","CR1",434,36
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:06:05","Ball Position",435,37
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:06:23","Restart",436,37
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:06:40","SAFE2",437,37
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:06:53","AT2",438,37
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:07:23","SAFE2",439,38
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:07:30","AT2",440,38
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:07:41","DANGER2",441,38
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:07:41","DAT2",442,38
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:07:52","SAFE1",443,38
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:07:53","GK1",444,38
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:08:27","Restart",445,39
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:08:30","AT1",446,39
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:08:45","DANGER1",447,39
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:08:45","DAT1",448,39
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:09:06","SHB1",449,40
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:09:06","SAFE2",450,40
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:09:07","GK2",451,40
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:09:26","Restart",452,40
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:09:27","AT2",453,40
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:09:33","SAFE2",454,40
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:09:45","AT2",455,40
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:10:04","Possible Free Kick",456,40
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:10:06","F1",458,41
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:10:06","FK2",459,41
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:10:06","DANGER2",460,41
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:10:06","DFK2",461,41
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:10:06","Ball Position",462,41
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:10:15","Restart",463,41
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:10:16","SAFE2",464,41
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:10:23","AT2",465,41
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:10:30","Possible Free Kick",466,41
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:10:33","SAFE1",468,41
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:10:33","O2",469,41
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:10:33","FK1",470,41
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:10:33","Ball Position",471,41
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:10:38","Restart",472,41
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:10:46","SAFE1",473,41
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:10:49","AT1",474,41
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:11:00","DANGER1",475,41
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:11:00","DAT1",476,41
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:11:09","PCR1",477,42
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:11:28","SHB1",478,42
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:11:29","CR1",479,42
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:11:30","Ball Position",480,42
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:11:40","Restart",481,42
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:11:49","SAFE2",482,42
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:12:01","AT2",483,42
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:12:06","SAFE1",484,43
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:12:23","AT1",485,43
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:12:27","DANGER1",486,43
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:12:27","DAT1",487,43
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:12:30","Possible Free Kick",488,43
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:12:32","SAFE2",490,43
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:12:32","O1",491,43
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:12:32","FK2",492,43
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:12:32","Ball Position",493,43
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:12:51","AT2",494,43
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:12:51","DANGER2",495,43
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:12:51","DAT2",496,43
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:12:52","Restart",497,43
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:13:04","POSSIBLE_TI",498,44
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:13:05","TI1",499,44
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:13:24","Restart",500,44
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:13:35","Possible Free Kick",501,44
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:13:36","SAFE1",503,44
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:13:36","F2",504,44
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:13:36","FK1",505,44
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:13:36","Ball Position",506,44
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:13:40","Restart",507,44
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:13:46","SAFE1",508,44
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:14:01","AT1",509,44
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:14:04","Possible Free Kick",510,45
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:14:07","SAFE1",512,45
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:14:07","F2",513,45
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:14:07","FK1",514,45
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:14:07","Ball Position",515,45
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:14:11","Restart",516,45
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:14:14","AT1",517,45
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:14:18","DANGER1",518,45
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:14:18","DAT1",519,45
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:14:36","SAFE2",520,45
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:14:44","POSSIBLE_TI",521,45
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:14:45","TI2",522,45
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:14:57","Restart",523,45
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:15:02","AT1",524,45
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:15:07","POSSIBLE_TI",525,46
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:15:08","TI2",526,46
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:15:10","Restart",527,46
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:15:22","Possible Free Kick",528,46
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:15:25","SAFE1",530,46
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:15:25","F2",531,46
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:15:25","FK1",532,46
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:15:25","Ball Position",533,46
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:15:30","Extra Time",534,46
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:15:45","Restart",535,46
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:15:46","AT2",536,46
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:15:51","SAFE1",537,46
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:15:52","AT1",538,46
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:15:58","DANGER1",539,46
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:15:58","DAT1",540,46
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:16:01","SAFE2",541,46
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:16:07","Stop RT1",542,46
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:16:13","CONF_PERIOD_SCORE",543,45
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:31:51","Players are coming out",544,45
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:33:04","Game about to start",545,45
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:35:04","Start RT2 Team 2",546,46
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:35:04","SAFE2",547,46
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:35:09","AT2",548,46
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:35:24","SAFE1",549,46
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:35:39","AT1",550,46
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:35:42","DANGER1",551,46
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:35:42","DAT1",552,46
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:35:56","SAFE1",553,46
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:35:59","AT1",554,46
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:36:05","SAFE1",555,47
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:36:13","AT1",556,47
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:36:16","SAFE2",557,47
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:36:30","AT2",558,47
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:36:38","POSSIBLE_TI",559,47
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:36:39","TI1",560,47
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:36:46","Injury Break",561,47
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:37:32","Restart",562,48
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:37:34","SAFE2",563,48
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:37:35","POSSIBLE_TI",564,48
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:37:37","TI2",565,48
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:37:47","Restart",566,48
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:37:47","AT2",567,48
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:37:59","Possible Free Kick",568,48
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:38:00","SAFE1",570,48
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:38:00","F2",571,48
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:38:00","FK1",572,48
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:38:00","Ball Position",573,48
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:38:14","Restart",574,49
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:38:17","AT1",575,49
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:38:25","SAFE2",576,49
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:38:26","AT2",577,49
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:38:31","POSSIBLE_TI",578,49
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:38:32","TI2",579,49
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:38:45","Restart",580,49
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:38:49","DANGER2",581,49
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:38:49","DAT2",582,49
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:38:53","POSSIBLE_TI",583,49
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:38:54","TI1",584,49
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:39:04","Restart",585,50
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:39:34","SHB2",586,50
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:39:34","SAFE1",587,50
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:39:35","GK1",588,50
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:39:42","Restart",589,50
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:39:49","SAFE2",590,50
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:39:52","AT2",591,50
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:39:59","DANGER2",592,50
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:39:59","DAT2",593,50
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:40:18","POSSIBLE_TI",594,51
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:40:19","TI1",595,51
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:40:37","Restart",596,51
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:40:41","SAFE1",597,51
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:40:42","POSSIBLE_TI",598,51
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:40:42","TI1",599,51
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:40:50","Restart",600,51
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:40:59","AT1",601,51
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:41:19","SAFE2",602,52
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:41:23","AT2",603,52
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:41:25","DANGER2",604,52
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:41:25","DAT2",605,52
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:41:49","SAFE1",606,52
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:41:57","AT1",607,52
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:42:01","Possible Free Kick",608,52
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:42:03","F2",610,52
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:42:03","FK1",611,52
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:42:03","DANGER1",612,52
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:42:03","DFK1",613,52
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:42:03","Ball Position",614,52
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:42:19","Restart",615,53
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:42:29","PCR1",616,53
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:42:39","CR1",617,53
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:42:40","Ball Position",618,53
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:42:55","Restart",619,53
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:43:02","SHB1",620,53
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:43:03","SAFE2",621,53
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:43:03","GK2",622,53
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:43:25","Restart",623,54
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:43:27","AT2",624,54
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:43:35","SAFE1",625,54
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:43:35","AT1",626,54
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:43:39","POSSIBLE_TI",627,54
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:43:39","TI1",628,54
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:43:55","Restart",629,54
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:44:00","DANGER1",630,54
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:44:00","DAT1",631,54
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:44:16","PCR1",632,55
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:44:25","NCR1",633,55
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:44:27","SHB1",634,55
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:44:28","SAFE2",635,55
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:44:29","GK2",636,55
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:44:46","Restart",637,55
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:44:47","AT2",638,55
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:44:59","SAFE1",639,55
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:45:05","POSSIBLE_TI",640,56
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:45:06","TI1",641,56
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:45:11","Restart",642,56
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:45:12","SAFE1",643,56
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:45:25","AT1",644,56
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:45:26","DANGER1",645,56
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:45:26","DAT1",646,56
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:45:29","Possible Free Kick",647,56
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:45:31","SAFE2",649,56
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:45:31","O1",650,56
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:45:31","FK2",651,56
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:45:32","Ball Position",652,56
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:45:52","AT2",653,56
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:45:52","DANGER2",654,56
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:45:52","DAT2",655,56
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:45:53","Restart",656,56
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:46:01","SAFE2",657,56
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:46:04","AT2",658,57
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:46:08","SAFE1",659,57
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:46:08","AT1",660,57
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:46:13","DANGER1",661,57
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:46:13","DAT1",662,57
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:46:24","SAFE2",663,57
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:46:35","SAFE1",664,57
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:46:37","POSSIBLE_TI",665,57
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:46:38","TI1",666,57
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:46:45","Restart",667,57
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:46:49","AT1",668,57
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:46:51","DANGER1",669,57
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:46:51","DAT1",670,57
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:47:07","SAFE2",671,58
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:47:24","AT2",672,58
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:47:32","SAFE1",673,58
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:47:32","AT1",674,58
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:47:35","DANGER1",675,58
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:47:35","DAT1",676,58
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:47:38","POSSIBLE_TI",677,58
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:47:39","TI1",678,58
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:47:52","Restart",679,58
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:47:59","Possible Free Kick",680,58
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:48:01","SAFE2",682,58
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:48:01","O1",683,58
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:48:01","FK2",684,58
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:48:01","Ball Position",685,58
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:48:35","SUB2",686,59
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:48:41","AT2",687,59
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:48:41","DANGER2",688,59
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:48:41","DAT2",689,59
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:48:41","Restart",690,59
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:48:47","SAFE1",691,59
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:48:51","Player_DATA_CONFIRMED",692,59
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:48:52","AT1",693,59
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:48:56","DANGER1",694,59
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:48:56","DAT1",695,59
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:49:05","GOAL1",696,60
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:49:16","Scorer",697,60
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:50:19","CONF_GOAL1",698,61
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:50:19","KO2",699,61
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:50:19","SAFE2",700,61
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:50:20","SAFE2",701,61
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:50:25","AT2",702,61
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:50:31","POSSIBLE_TI",703,61
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:50:33","TI2",704,61
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:50:50","Restart",705,61
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:50:51","Player_DATA_CONFIRMED",706,61
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:50:56","DANGER2",707,61
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:50:56","DAT2",708,61
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:51:00","Possible Free Kick",709,61
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:51:03","SAFE1",711,61
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:51:03","F2",712,61
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:51:03","FK1",713,61
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:51:03","Ball Position",714,61
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:51:30","AT1",715,62
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:51:30","DANGER1",716,62
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:51:30","DAT1",717,62
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:51:30","Restart",718,62
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:51:38","POSSIBLE_TI",719,62
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:51:39","TI2",720,62
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:51:48","Restart",721,62
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:51:51","SAFE2",722,62
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:51:55","AT2",723,62
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:52:12","DANGER2",724,63
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:52:12","DAT2",725,63
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:52:18","POSSIBLE_TI",726,63
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:52:18","TI2",727,63
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:52:20","Restart",728,63
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:52:48","SAFE1",729,63
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:53:04","AT1",730,64
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:53:10","POSSIBLE_TI",731,64
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:53:15","POSSIBLE_CARDS",732,64
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:53:21","YC2",733,64
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:53:24","CONF_YC2",734,64
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:53:33","Scorer",735,64
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:53:51","NO_TI",736,64
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:53:51","Player_DATA_CONFIRMED",737,64
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:53:51","Possible Free Kick",738,64
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:54:04","F2",740,65
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:54:04","FK1",741,65
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:54:04","DANGER1",742,65
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:54:04","DFK1",743,65
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:54:04","Ball Position",744,65
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:54:30","Restart",745,65
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:54:33","SAFE1",746,65
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:54:39","AT1",747,65
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:54:44","SAFE1",748,65
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:54:51","SAFE2",749,65
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:54:51","POSSIBLE_TI",750,65
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:54:53","TI2",751,65
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:54:54","Restart",752,65
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:54:55","AT2",753,65
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:55:00","SAFE2",754,65
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:55:09","AT2",755,66
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:55:14","SAFE1",756,66
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:55:34","AT1",757,66
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:55:38","Possible Free Kick",758,66
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:55:41","F2",760,66
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:55:41","FK1",761,66
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:55:41","DANGER1",762,66
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:55:41","DFK1",763,66
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:55:41","Ball Position",764,66
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:55:58","Restart",765,66
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:56:13","SAFE1",766,67
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:56:14","AT1",767,67
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:56:15","DANGER1",768,67
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:56:15","DAT1",769,67
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:56:19","POSSIBLE_TI",770,67
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:56:21","TI1",771,67
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:56:54","Restart",772,67
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:57:01","SAFE2",773,67
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:57:06","AT2",774,68
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:57:09","DANGER2",775,68
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:57:09","DAT2",776,68
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:57:21","PCR2",777,68
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:57:30","BLOCKED2",778,68
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:57:36","CR2",779,68
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:57:38","Ball Position",780,68
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:57:48","Restart",781,68
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:57:51","GOAL2",782,68
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:58:03","CGOAL2",783,68
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:58:05","Possible Free Kick",784,69
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:58:07","SAFE1",786,69
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:58:07","O2",787,69
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:58:07","FK1",788,69
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:58:07","Ball Position",789,69
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:58:37","Restart",790,69
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:58:40","AT1",791,69
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:58:45","Possible Free Kick",792,69
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:58:46","SAFE2",794,69
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:58:46","F1",795,69
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:58:46","FK2",796,69
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:58:46","Ball Position",797,69
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:59:10","SUB2",798,70
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:59:15","Restart",799,70
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:59:22","AT2",800,70
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:59:27","DANGER2",801,70
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:59:27","DAT2",802,70
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:59:40","SAFE1",803,70
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:59:42","AT1",804,70
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:59:46","DANGER1",805,70
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:59:46","DAT1",806,70
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:59:51","Player_DATA_CONFIRMED",807,70
+1126500,"Villarreal CF","SD Eibar","05/12/2019 17:59:57","SAFE2",808,70
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:00:07","AT2",809,71
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:00:08","POSSIBLE_TI",810,71
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:00:09","TI2",811,71
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:00:25","Restart",812,71
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:00:30","SAFE2",813,71
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:00:35","AT2",814,71
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:00:39","DANGER2",815,71
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:00:39","DAT2",816,71
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:00:45","SAFE1",817,71
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:00:57","SAFE1",818,71
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:00:59","POSSIBLE_TI",819,71
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:01:01","TI1",820,71
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:01:24","Restart",821,72
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:01:29","AT1",822,72
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:01:32","DANGER1",823,72
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:01:32","DAT1",824,72
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:01:34","SAFE2",825,72
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:01:53","AT2",826,72
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:02:13","DANGER2",827,73
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:02:13","DAT2",828,73
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:02:20","Possible Free Kick",829,73
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:02:30","SAFE1",831,73
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:02:30","F2",832,73
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:02:30","FK1",833,73
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:02:30","Ball Position",834,73
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:03:44","SUB1",835,74
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:03:59","Restart",836,74
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:04:02","AT1",837,74
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:04:10","Possible Free Kick",838,75
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:04:11","SAFE2",840,75
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:04:11","F1",841,75
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:04:11","FK2",842,75
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:04:11","Ball Position",843,75
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:04:19","Restart",844,75
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:04:22","AT2",845,75
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:04:26","SAFE2",846,75
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:04:44","AT1",847,75
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:04:53","DANGER1",848,75
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:04:53","DAT1",849,75
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:05:01","SAFE2",850,75
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:05:06","AT2",851,76
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:05:10","DANGER2",852,76
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:05:10","DAT2",853,76
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:05:21","Possible Free Kick",854,76
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:05:27","POSSIBLE_CARDS",856,76
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:05:28","YC1",857,76
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:05:33","CONF_YC1",858,76
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:05:39","Scorer",859,76
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:05:43","F1",860,76
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:05:43","FK2",861,76
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:05:43","DFK2",862,76
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:05:43","Ball Position",863,76
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:05:52","Player_DATA_CONFIRMED",864,76
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:05:52","Player_DATA_CONFIRMED",865,76
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:06:29","Restart",866,77
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:06:36","SAFE1",867,77
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:06:36","GK1",868,77
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:07:11","Restart",869,78
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:07:14","AT1",870,78
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:07:23","SAFE2",871,78
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:07:24","AT2",872,78
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:07:24","POSSIBLE_TI",873,78
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:07:25","TI2",874,78
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:07:34","Restart",875,78
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:07:40","SAFE2",876,78
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:08:04","SAFE2",877,79
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:08:15","SAFE2",878,79
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:08:20","AT2",879,79
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:08:25","SAFE1",880,79
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:08:26","GK1",881,79
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:08:52","Restart",882,79
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:08:56","AT1",883,79
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:08:59","SAFE2",884,79
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:09:00","AT2",885,79
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:09:09","DANGER2",886,80
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:09:09","DAT2",887,80
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:09:17","PCR2",888,80
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:09:30","CR2",889,80
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:09:32","Ball Position",890,80
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:09:40","Restart",891,80
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:09:44","SHB2",892,80
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:09:47","SAFE1",893,80
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:09:47","GK1",894,80
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:10:20","Restart",895,81
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:10:25","SAFE1",896,81
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:10:31","AT2",897,81
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:10:37","SAFE1",898,81
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:10:37","AT1",899,81
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:10:47","SAFE1",900,81
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:10:48","AT1",901,81
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:10:52","POSSIBLE_TI",902,81
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:10:53","TI2",903,81
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:10:54","Restart",904,81
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:10:55","SAFE2",905,81
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:11:15","SUB2",906,82
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:11:25","AT2",907,82
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:11:29","DANGER2",908,82
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:11:29","DAT2",909,82
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:11:36","POSSIBLE_TI",910,82
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:11:37","TI1",911,82
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:11:50","Player_DATA_CONFIRMED",912,82
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:12:01","Restart",913,82
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:12:40","SAFE2",914,83
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:12:42","AT2",915,83
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:12:46","DANGER2",916,83
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:12:46","DAT2",917,83
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:13:10","GOAL2",918,84
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:13:23","Scorer",919,84
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:14:38","CGOAL2",920,85
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:14:56","Possible Free Kick",921,85
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:14:58","SAFE1",923,85
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:14:58","O2",924,85
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:14:58","FK1",925,85
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:14:58","Ball Position",926,85
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:15:02","Restart",927,85
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:15:09","AT1",928,86
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:15:11","POSSIBLE_TI",929,86
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:15:13","TI2",930,86
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:15:22","Restart",931,86
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:15:25","DANGER1",932,86
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:15:25","DAT1",933,86
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:15:31","SAFE2",934,86
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:15:45","AT2",935,86
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:15:50","DANGER2",936,86
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:15:50","DAT2",937,86
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:16:39","Possible Free Kick",938,87
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:16:40","SAFE1",940,87
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:16:40","F2",941,87
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:16:40","FK1",942,87
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:16:40","Ball Position",943,87
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:17:18","SUB1",944,88
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:17:59","Restart",945,88
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:18:02","AT1",946,88
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:18:06","DANGER1",947,89
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:18:06","DAT1",948,89
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:18:13","SAFE2",949,89
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:18:16","AT2",950,89
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:18:21","Player_DATA_CONFIRMED",951,89
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:18:28","SAFE1",952,89
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:18:36","AT1",953,89
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:18:44","SAFE2",954,89
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:18:55","AT2",955,89
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:19:09","SAFE2",956,90
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:19:13","AT2",957,90
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:19:13","DANGER2",958,90
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:19:13","DAT2",959,90
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:19:32","SAFE1",960,90
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:19:33","AT1",961,90
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:19:38","SAFE2",962,90
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:19:39","AT2",963,90
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:19:43","SAFE2",964,90
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:19:57","SAFE2",965,90
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:20:05","AT2",966,91
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:20:18","Possible Free Kick",967,91
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:20:19","F1",969,91
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:20:19","FK2",970,91
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:20:19","DANGER2",971,91
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:20:19","DFK2",972,91
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:20:19","Ball Position",973,91
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:20:49","Extra Time",974,91
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:20:51","SUB1",975,91
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:21:03","Extra Time",976,91
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:21:13","Restart",977,92
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:21:16","SAFE1",978,92
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:21:21","Player_DATA_CONFIRMED",979,92
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:21:21","Possible Free Kick",980,92
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:21:23","No Free Kick",982,92
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:21:24","Possible Free Kick",983,92
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:21:26","O2",985,92
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:21:26","FK1",986,92
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:21:26","Ball Position",987,92
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:21:58","Restart",988,92
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:22:00","AT1",989,92
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:22:02","POSSIBLE_TI",990,92
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:22:03","TI2",991,92
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:22:17","Restart",992,93
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:22:18","SAFE2",993,93
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:22:23","AT2",994,93
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:22:26","DANGER2",995,93
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:22:26","DAT2",996,93
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:22:32","SAFE1",997,93
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:22:49","AT1",998,93
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:23:01","POSSIBLE_TI",999,93
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:23:02","TI2",1000,93
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:23:05","POSSIBLE_CARDS",1001,94
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:23:14","YC1",1002,94
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:23:16","CONF_YC1",1003,94
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:23:19","Scorer",1004,94
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:23:20","YC2",1005,94
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:23:22","CONF_YC2",1006,94
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:23:30","Scorer",1007,94
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:23:47","Restart",1008,94
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:23:48","SAFE2",1009,94
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:23:51","Player_DATA_CONFIRMED",1010,94
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:23:51","Player_DATA_CONFIRMED",1011,94
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:23:52","Scorer",1012,94
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:23:55","AT2",1013,94
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:24:09","POSSIBLE_TI",1014,95
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:24:09","TI2",1015,95
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:24:20","Restart",1016,95
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:24:21","SAFE2",1017,95
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:24:32","SAFE2",1018,95
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:24:45","AT1",1019,95
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:24:46","DANGER1",1020,95
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:24:46","DAT1",1021,95
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:24:55","Possible Free Kick",1022,95
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:25:02","POSSIBLE_CARDS",1024,95
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:25:13","YC1",1025,96
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:25:13","CONF_YC1",1026,96
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:25:14","Scorer",1027,96
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:25:15","No Free Kick",1028,96
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:25:18","Stop RT2",1029,96
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:25:18","Stop Game",1030,96
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:25:27","CONF_PERIOD_SCORE",1031,95
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:26:02","Scorer",1032,95
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:26:35","Scorer",1033,95
+1126500,"Villarreal CF","SD Eibar","05/12/2019 18:26:35","Player_DATA_CONFIRMED",1034,95

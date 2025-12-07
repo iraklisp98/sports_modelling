@@ -1,0 +1,968 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 10:48:25","Scout in Stadion",0,0
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 10:49:27","Transmission Online",1,0
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 10:51:12","Lineup changed",2,0
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:07:03","GCC",3,0
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:07:16","Jersey Changed",4,0
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:07:16","Jersey Changed",5,0
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:26:10","Players are coming out",6,0
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:26:34","Players lined up",7,0
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:26:46","Shake hands",8,0
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:27:16","Flip coin",9,0
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:28:03","GCC",10,0
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:29:01","Minute of silent",11,0
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:30:02","Game about to start",12,0
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:30:27","Start RT1 Team 2",13,1
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:30:30","SAFE2",14,1
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:30:35","AT2",15,1
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:30:42","DANGER2",16,1
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:30:42","DAT2",17,1
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:30:47","POSSIBLE_TI",18,1
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:30:53","TI2",19,1
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:31:01","Injury Break",20,1
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:32:11","Restart",21,2
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:32:20","SHG2",22,2
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:32:22","SAFE1",23,2
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:32:37","AT2",24,3
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:32:39","DANGER2",25,3
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:32:39","DAT2",26,3
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:32:50","Possible Free Kick",27,3
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:32:56","F1",29,3
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:32:56","FK2",30,3
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:32:56","DFK2",31,3
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:32:56","Ball Position",32,3
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:33:36","Restart",33,4
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:33:40","PCR2",34,4
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:33:44","SHB2",35,4
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:33:52","CR2",36,4
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:33:53","Ball Position",37,4
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:34:01","Restart",38,4
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:34:04","PCR2",39,4
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:34:14","CR2",40,4
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:34:15","Ball Position",41,4
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:34:23","Restart",42,4
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:34:40","SAFE1",43,5
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:35:00","AT1",44,5
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:35:05","SAFE1",45,5
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:35:07","AT1",46,5
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:35:10","DANGER1",47,5
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:35:10","DAT1",48,5
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:35:22","SAFE1",49,5
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:35:33","Injury Break",50,6
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:35:38","POSSIBLE_CARDS",51,6
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:36:30","NO_Cards",52,7
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:36:48","Referee Ball",53,7
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:36:52","Restart",54,7
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:37:03","AT1",55,7
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:37:05","POSSIBLE_TI",56,7
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:37:10","TI2",57,7
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:37:12","Restart",58,7
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:37:23","SAFE2",59,7
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:37:28","AT2",60,8
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:37:32","POSSIBLE_TI",61,8
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:37:33","TI2",62,8
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:37:41","Restart",63,8
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:37:45","DANGER2",64,8
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:37:45","DAT2",65,8
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:37:49","SAFE1",66,8
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:38:02","AT1",67,8
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:38:04","SAFE2",68,8
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:38:27","Possible Free Kick",69,8
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:38:37","POSSIBLE_CARDS",71,9
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:39:04","NO_Cards",72,9
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:39:07","F1",73,9
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:39:07","FK2",74,9
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:39:07","Ball Position",75,9
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:39:18","Restart",76,9
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:39:24","AT2",77,9
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:39:26","DANGER2",78,9
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:39:26","DAT2",79,9
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:39:45","SAFE2",80,10
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:39:57","AT2",81,10
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:40:03","Possible Free Kick",82,10
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:40:04","POSSIBLE_CARDS",84,10
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:40:08","YC1",85,10
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:40:10","CONF_YC1",86,10
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:40:15","Scorer",87,10
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:40:38","F1",88,11
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:40:38","FK2",89,11
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:40:39","Ball Position",90,11
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:40:39","DANGER2",91,11
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:40:39","DFK2",92,11
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:40:51","Restart",93,11
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:40:58","PCR2",94,11
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:41:05","SHG2",95,11
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:41:14","CR2",96,11
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:41:15","Ball Position",97,11
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:41:17","Restart",98,11
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:41:24","SAFE1",99,11
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:41:25","AT1",100,11
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:41:29","POSSIBLE_TI",101,12
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:41:32","TI1",102,12
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:41:34","Restart",103,12
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:41:35","DANGER1",104,12
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:41:35","DAT1",105,12
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:41:44","Player_DATA_CONFIRMED",106,12
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:41:44","SAFE2",107,12
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:41:50","AT2",108,12
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:41:50","POSSIBLE_TI",109,12
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:41:51","TI1",110,12
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:42:05","Restart",111,12
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:42:07","SAFE1",112,12
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:42:16","AT1",113,12
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:42:18","SAFE1",114,12
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:42:21","AT1",115,12
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:42:25","DANGER1",116,12
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:42:25","DAT1",117,12
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:42:29","POSSIBLE_TI",118,13
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:42:30","TI1",119,13
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:42:34","Restart",120,13
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:42:41","SAFE2",121,13
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:42:49","AT1",122,13
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:42:53","Possible Free Kick",123,13
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:42:55","POSSIBLE_CARDS",125,13
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:42:56","YC2",126,13
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:42:58","CONF_YC2",127,13
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:43:13","Scorer",128,13
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:43:20","F2",129,13
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:43:20","FK1",130,13
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:43:20","Ball Position",131,13
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:43:20","DANGER1",132,13
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:43:20","DFK1",133,13
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:43:28","Player_DATA_CONFIRMED",134,14
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:43:36","Restart",135,14
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:43:39","PCR1",136,14
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:43:46","NCR1",137,14
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:43:47","SAFE2",138,14
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:43:48","GK2",139,14
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:43:57","Restart",140,14
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:44:06","AT2",141,14
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:44:07","SAFE1",142,14
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:44:11","AT1",143,14
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:44:14","SAFE1",144,14
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:44:15","AT1",145,14
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:44:17","SAFE1",146,14
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:44:25","AT1",147,14
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:44:28","SAFE2",148,15
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:44:29","AT2",149,15
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:44:31","SAFE1",150,15
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:44:32","AT1",151,15
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:44:51","SAFE1",152,15
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:44:56","AT1",153,15
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:44:57","SAFE2",154,15
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:44:59","AT2",155,15
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:45:02","DANGER2",156,15
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:45:02","DAT2",157,15
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:45:13","SAFE1",158,15
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:45:20","AT2",159,15
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:45:26","DANGER2",160,15
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:45:26","DAT2",161,15
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:45:47","POSSIBLE_TI",162,16
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:45:49","TI2",163,16
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:46:02","Restart",164,16
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:46:05","POSSIBLE_TI",165,16
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:46:06","TI2",166,16
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:46:16","Restart",167,16
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:46:40","SAFE1",168,17
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:46:47","AT1",169,17
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:46:50","SAFE2",170,17
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:47:00","AT2",171,17
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:47:04","SAFE1",172,17
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:47:11","AT1",173,17
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:47:14","SAFE2",174,17
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:47:34","AT2",175,18
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:47:37","SAFE1",176,18
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:47:45","AT1",177,18
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:47:47","DANGER1",178,18
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:47:47","DAT1",179,18
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:47:52","PCR1",180,18
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:47:56","SHG1",181,18
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:48:10","NCR1",182,18
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:48:11","Possible Free Kick",183,18
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:48:18","SAFE2",185,18
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:48:18","O1",186,18
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:48:18","FK2",187,18
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:48:18","Ball Position",188,18
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:48:23","Restart",189,18
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:48:43","AT2",190,19
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:48:47","DANGER2",191,19
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:48:47","DAT2",192,19
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:48:49","SAFE1",193,19
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:49:19","AT1",194,19
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:49:21","POSSIBLE_TI",195,19
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:49:22","TI2",196,19
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:49:30","Restart",197,20
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:49:35","SAFE2",198,20
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:49:50","AT2",199,20
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:50:03","DANGER2",200,20
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:50:03","DAT2",201,20
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:50:08","POSSIBLE_TI",202,20
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:50:11","TI1",203,20
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:50:26","Restart",204,20
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:50:39","SAFE1",205,21
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:50:43","AT1",206,21
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:50:56","DANGER1",207,21
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:50:56","DAT1",208,21
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:50:57","SAFE2",209,21
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:51:11","AT2",210,21
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:51:13","SAFE2",211,21
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:51:21","AT2",212,21
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:51:25","POSSIBLE_TI",213,21
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:51:27","TI2",214,21
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:51:37","Restart",215,22
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:51:42","SAFE1",216,22
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:51:46","AT2",217,22
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:51:49","DANGER2",218,22
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:51:49","DAT2",219,22
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:51:55","PCR2",220,22
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:52:01","SHB2",221,22
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:52:11","CR2",222,22
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:52:13","Ball Position",223,22
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:52:24","Restart",224,22
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:52:33","SAFE1",225,23
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:52:36","AT1",226,23
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:52:44","DANGER1",227,23
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:52:44","DAT1",228,23
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:52:54","SAFE1",229,23
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:52:59","AT1",230,23
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:53:02","DANGER1",231,23
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:53:02","DAT1",232,23
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:53:20","SAFE1",233,23
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:53:22","AT1",234,23
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:53:24","DANGER1",235,23
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:53:24","DAT1",236,23
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:53:32","POSSIBLE_TI",237,24
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:53:44","TI2",238,24
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:53:50","Restart",239,24
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:54:02","SAFE2",240,24
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:54:03","AT2",241,24
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:54:08","SAFE1",242,24
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:54:26","AT1",243,24
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:54:30","SAFE1",244,25
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:54:34","AT1",245,25
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:54:38","SAFE1",246,25
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:54:51","AT1",247,25
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:54:56","DANGER1",248,25
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:54:56","DAT1",249,25
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:55:08","BLOCKED1",250,25
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:55:12","SAFE1",251,25
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:55:16","AT1",252,25
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:55:21","SAFE1",253,25
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:55:23","AT1",254,25
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:55:32","DANGER1",255,26
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:55:32","DAT1",256,26
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:55:58","SAFE2",257,26
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:56:15","AT2",258,26
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:56:21","Possible Free Kick",259,26
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:56:28","SAFE1",261,27
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:56:28","O2",262,27
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:56:28","FK1",263,27
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:56:28","Ball Position",264,27
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:56:29","Restart",265,27
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:56:46","AT1",266,27
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:56:52","SAFE1",267,27
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:56:58","AT1",268,27
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:57:02","DANGER1",269,27
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:57:02","DAT1",270,27
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:57:04","Possible Free Kick",271,27
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:57:32","F2",273,28
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:57:32","FK1",274,28
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:57:32","DFK1",275,28
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:57:32","Ball Position",276,28
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:57:52","Restart",277,28
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:57:56","PCR1",278,28
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:58:01","SHB1",279,28
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:58:08","NCR1",280,28
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:58:09","SAFE2",281,28
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:58:10","GK2",282,28
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:58:21","Restart",283,28
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:58:24","AT2",284,28
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:58:30","DANGER2",285,29
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:58:30","DAT2",286,29
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:58:37","POSSIBLE_TI",287,29
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:58:38","TI2",288,29
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:58:49","Restart",289,29
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:58:53","POSSIBLE_TI",290,29
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:58:54","TI2",291,29
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:59:00","Restart",292,29
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:59:23","BLOCKED2",293,29
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:59:48","SAFE1",294,30
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 11:59:56","AT2",295,30
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:00:00","POSSIBLE_TI",296,30
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:00:01","TI1",297,30
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:00:34","Restart",298,31
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:00:39","SAFE2",299,31
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:00:53","AT2",300,31
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:00:56","DANGER2",301,31
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:00:56","DAT2",302,31
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:01:01","SAFE1",303,31
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:01:02","GK1",304,31
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:01:18","Restart",305,31
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:01:21","AT1",306,31
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:01:30","DANGER1",307,32
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:01:30","DAT1",308,32
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:01:38","SAFE1",309,32
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:01:43","AT1",310,32
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:01:50","DANGER1",311,32
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:01:50","DAT1",312,32
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:02:07","SAFE2",313,32
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:02:09","AT2",314,32
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:02:11","DANGER2",315,32
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:02:11","DAT2",316,32
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:02:27","Possible Free Kick",317,32
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:02:44","SAFE1",319,33
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:02:44","O2",320,33
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:02:44","FK1",321,33
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:02:44","Ball Position",322,33
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:02:45","Restart",323,33
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:03:07","AT1",324,33
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:03:13","DANGER1",325,33
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:03:13","DAT1",326,33
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:03:39","Possible Free Kick",327,34
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:03:59","SAFE2",329,34
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:03:59","F1",330,34
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:03:59","FK2",331,34
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:03:59","Ball Position",332,34
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:04:10","Restart",333,34
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:04:12","AT1",334,34
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:04:14","DANGER1",335,34
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:04:14","DAT1",336,34
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:04:17","PCR1",337,34
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:04:24","CR1",338,34
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:04:26","Ball Position",339,34
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:04:50","Restart",340,35
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:05:01","SHG1",341,35
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:05:16","POSSIBLE_TI",342,35
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:05:17","TI2",343,35
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:05:36","Restart",344,36
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:05:38","SAFE2",345,36
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:05:39","AT2",346,36
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:05:40","SAFE2",347,36
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:05:42","SAFE1",348,36
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:05:46","AT1",349,36
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:05:51","SAFE1",350,36
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:05:54","AT1",351,36
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:05:55","SAFE1",352,36
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:06:00","AT1",353,36
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:06:08","DANGER1",354,36
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:06:08","DAT1",355,36
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:06:10","SAFE2",356,36
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:06:21","AT1",357,36
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:06:30","SAFE1",358,37
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:06:31","POSSIBLE_TI",359,37
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:06:32","TI1",360,37
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:06:36","Restart",361,37
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:06:45","AT1",362,37
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:06:49","SAFE2",363,37
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:06:55","AT2",364,37
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:06:58","SAFE1",365,37
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:07:00","AT1",366,37
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:07:02","DANGER1",367,37
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:07:02","DAT1",368,37
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:07:09","SHG1",369,37
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:07:12","POSSIBLE_TI",370,37
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:07:13","TI1",371,37
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:07:15","Restart",372,37
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:07:37","PCR1",373,38
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:07:46","NCR1",374,38
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:07:47","POSSIBLE_TI",375,38
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:07:48","TI1",376,38
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:07:49","Restart",377,38
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:08:02","SAFE1",378,38
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:08:08","AT1",379,38
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:08:17","SAFE1",380,38
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:08:18","AT1",381,38
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:08:27","DANGER1",382,38
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:08:27","DAT1",383,38
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:08:31","SAFE2",384,39
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:08:36","AT2",385,39
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:08:44","DANGER2",386,39
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:08:44","DAT2",387,39
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:08:58","Possible Free Kick",388,39
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:09:10","SAFE1",390,39
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:09:10","F2",391,39
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:09:10","FK1",392,39
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:09:10","Ball Position",393,39
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:09:11","Restart",394,39
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:09:29","AT1",395,40
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:09:31","DANGER1",396,40
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:09:31","DAT1",397,40
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:09:35","PCR1",398,40
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:09:45","CR1",399,40
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:09:47","Ball Position",400,40
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:09:48","Restart",401,40
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:09:52","SAFE2",402,40
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:09:57","AT2",403,40
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:09:59","System Message",404,40
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:10:03","DANGER2",405,40
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:10:03","DAT2",406,40
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:10:03","SAFE1",407,40
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:10:06","System Message",408,40
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:10:09","AT1",409,40
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:10:10","SAFE2",410,40
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:10:13","AT2",411,40
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:10:19","SAFE2",412,40
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:10:45","AT1",413,41
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:10:48","DANGER1",414,41
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:10:48","DAT1",415,41
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:10:58","System Message",416,41
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:10:59","System Message",417,41
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:11:13","SHB1",418,41
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:11:25","SAFE2",419,41
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:11:26","GK2",420,41
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:11:38","Restart",421,42
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:11:40","AT2",422,42
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:11:44","SAFE2",423,42
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:11:52","AT2",424,42
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:12:03","SAFE2",425,42
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:12:28","AT2",426,43
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:12:29","SAFE2",427,43
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:12:34","AT2",428,43
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:12:38","Possible Free Kick",429,43
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:12:43","SAFE1",431,43
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:12:43","F2",432,43
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:12:43","FK1",433,43
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:12:43","Ball Position",434,43
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:12:59","Restart",435,43
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:13:02","AT1",436,43
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:13:04","SAFE1",437,43
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:13:10","AT1",438,43
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:13:17","SAFE2",439,43
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:13:19","AT2",440,43
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:13:26","DANGER2",441,43
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:13:26","DAT2",442,43
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:13:34","PCR2",443,44
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:13:51","CR2",444,44
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:13:52","Ball Position",445,44
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:14:01","Restart",446,44
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:14:10","SAFE2",447,44
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:14:13","AT2",448,44
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:14:18","DANGER2",449,44
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:14:18","DAT2",450,44
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:14:24","SAFE1",451,44
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:14:54","AT1",452,45
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:14:57","DANGER1",453,45
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:14:57","DAT1",454,45
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:15:04","SAFE1",455,45
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:15:15","AT1",456,45
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:15:17","DANGER1",457,45
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:15:17","DAT1",458,45
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:15:21","SAFE2",459,45
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:15:24","AT2",460,45
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:15:28","SAFE1",461,46
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:15:33","Extra Time",462,46
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:15:35","AT1",463,46
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:15:42","SAFE1",464,46
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:15:45","AT1",465,46
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:15:49","DANGER1",466,46
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:15:49","DAT1",467,46
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:15:57","SAFE1",468,46
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:16:03","AT1",469,46
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:16:07","SAFE1",470,46
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:16:12","AT1",471,46
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:16:13","DANGER1",472,46
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:16:13","DAT1",473,46
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:16:27","SHG1",474,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:16:32","SAFE2",475,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:16:35","AT2",476,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:16:35","SAFE1",477,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:16:44","AT1",478,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:16:48","SAFE1",479,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:16:49","AT1",480,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:16:52","DANGER1",481,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:16:52","DAT1",482,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:16:59","POSSIBLE_TI",483,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:17:01","TI2",484,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:17:14","Restart",485,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:17:19","Possible Free Kick",486,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:17:22","SAFE2",488,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:17:22","F1",489,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:17:22","FK2",490,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:17:22","Ball Position",491,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:17:33","CLS",492,48
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:17:36","No Free Kick",493,48
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:17:40","Stop RT1",494,48
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:17:48","CONF_PERIOD_SCORE",495,45
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:32:12","Players are coming out",496,45
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:32:52","System Message",497,45
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:32:58","SUB1",498,45
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:33:02","Game about to start",499,45
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:33:14","Player_DATA_CONFIRMED",500,45
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:33:25","System Message",501,45
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:33:46","Start RT2 Team 1",502,46
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:33:47","SAFE1",503,46
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:33:51","AT1",504,46
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:34:02","SAFE1",505,46
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:34:09","AT1",506,46
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:34:11","DANGER1",507,46
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:34:11","DAT1",508,46
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:34:22","SAFE2",509,46
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:34:23","GK2",510,46
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:34:31","Restart",511,46
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:34:33","AT2",512,46
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:34:48","Possible Free Kick",513,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:34:54","SAFE1",515,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:34:54","F2",516,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:34:54","FK1",517,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:34:54","Ball Position",518,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:34:57","Restart",519,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:35:07","Possible Free Kick",520,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:35:13","F2",522,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:35:13","FK1",523,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:35:13","Ball Position",524,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:35:17","Restart",525,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:35:25","AT1",526,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:35:26","SAFE1",527,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:35:28","AT1",528,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:35:35","DANGER1",529,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:35:35","DAT1",530,47
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:36:22","SAFE2",531,48
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:36:23","GK2",532,48
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:36:32","Restart",533,48
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:36:34","AT2",534,48
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:36:38","SAFE2",535,48
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:36:42","AT2",536,48
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:36:52","SAFE2",537,49
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:36:54","AT2",538,49
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:36:55","SAFE1",539,49
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:37:00","AT1",540,49
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:37:17","SAFE1",541,49
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:37:23","AT1",542,49
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:37:27","DANGER1",543,49
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:37:27","DAT1",544,49
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:37:33","POSSIBLE_TI",545,49
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:37:34","TI1",546,49
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:37:47","Restart",547,50
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:37:59","SAFE2",548,50
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:38:07","AT2",549,50
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:38:12","DANGER2",550,50
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:38:12","DAT2",551,50
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:38:15","POSSIBLE_TI",552,50
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:38:16","TI2",553,50
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:38:33","Restart",554,50
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:38:41","SAFE1",555,50
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:38:53","AT1",556,51
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:39:02","DANGER1",557,51
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:39:02","DAT1",558,51
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:39:12","PCR1",559,51
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:39:32","CR1",560,51
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:39:34","Ball Position",561,51
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:39:41","Restart",562,51
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:39:45","SAFE2",563,51
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:39:54","AT2",564,52
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:40:05","DANGER2",565,52
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:40:05","DAT2",566,52
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:40:10","PCR2",567,52
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:40:28","CR2",568,52
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:40:29","Ball Position",569,52
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:40:37","Restart",570,52
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:40:48","POSSIBLE_TI",571,53
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:40:52","NO_TI",572,53
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:40:53","PCR2",573,53
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:41:08","CR2",574,53
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:41:09","Ball Position",575,53
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:41:13","Restart",576,53
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:41:21","SAFE2",577,53
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:41:32","AT2",578,53
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:41:40","SAFE2",579,53
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:41:42","AT2",580,53
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:41:44","SAFE2",581,53
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:41:46","AT2",582,53
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:42:03","DANGER2",583,54
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:42:03","DAT2",584,54
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:42:07","SHB2",585,54
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:42:10","SAFE1",586,54
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:42:11","GK1",587,54
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:42:12","Restart",588,54
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:42:20","AT1",589,54
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:42:24","SAFE2",590,54
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:42:30","AT2",591,54
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:42:33","SAFE2",592,54
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:42:33","AT1",593,54
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:42:35","DANGER1",594,54
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:42:35","DAT1",595,54
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:42:39","SHG1",596,54
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:42:43","Possible Free Kick",597,54
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:43:03","SAFE2",599,55
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:43:03","O1",600,55
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:43:03","FK2",601,55
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:43:03","Ball Position",602,55
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:43:14","Restart",603,55
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:43:16","AT2",604,55
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:43:19","DANGER2",605,55
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:43:19","DAT2",606,55
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:43:22","Possible Free Kick",607,55
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:43:29","POSSIBLE_CARDS",609,55
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:43:32","YC1",610,55
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:43:35","CONF_YC1",611,55
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:43:54","Scorer",612,56
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:44:15","Player_DATA_CONFIRMED",613,56
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:44:23","F1",614,56
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:44:23","FK2",615,56
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:44:23","DFK2",616,56
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:44:23","Ball Position",617,56
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:45:27","Restart",618,57
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:45:34","SHB2",619,57
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:45:36","PCR2",620,57
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:45:43","CR2",621,57
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:45:45","Ball Position",622,57
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:45:49","Restart",623,58
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:45:58","SHG2",624,58
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:45:59","SAFE1",625,58
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:46:01","AT1",626,58
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:46:07","POSSIBLE_TI",627,58
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:46:09","TI2",628,58
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:46:10","SAFE2",629,58
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:46:17","Restart",630,58
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:46:18","AT2",631,58
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:46:21","SAFE2",632,58
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:46:24","Possible Free Kick",633,58
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:46:32","F1",635,58
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:46:32","FK2",636,58
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:46:32","Ball Position",637,58
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:46:32","Restart",638,58
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:46:38","AT2",639,58
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:46:40","DANGER2",640,58
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:46:40","DAT2",641,58
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:46:51","GOAL2",642,59
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:47:33","Scorer",643,59
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:47:44","Player_DATA_CONFIRMED",644,59
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:49:54","SUB1",645,62
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:49:56","CONF_GOAL2",646,62
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:49:56","KO1",647,62
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:49:56","SAFE1",648,62
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:50:07","AT1",649,62
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:50:09","DANGER1",650,62
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:50:09","DAT1",651,62
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:50:15","SAFE2",652,62
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:50:16","Player_DATA_CONFIRMED",653,62
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:50:18","AT1",654,62
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:50:22","DANGER1",655,62
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:50:22","DAT1",656,62
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:50:27","PCR1",657,62
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:50:45","CR1",658,62
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:50:47","Ball Position",659,63
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:50:49","Restart",660,63
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:50:57","SAFE1",661,63
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:51:12","AT1",662,63
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:51:15","DANGER1",663,63
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:51:15","DAT1",664,63
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:51:20","PCR1",665,63
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:51:24","SHG1",666,63
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:51:28","SHG1",667,63
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:51:35","CR1",668,63
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:51:37","Ball Position",669,63
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:51:38","Restart",670,63
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:51:43","SAFE2",671,63
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:51:45","AT2",672,63
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:51:47","SAFE1",673,64
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:52:14","AT1",674,64
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:52:17","DANGER1",675,64
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:52:17","DAT1",676,64
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:52:19","Possible Free Kick",677,64
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:52:20","POSSIBLE_CARDS",679,64
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:52:24","YC2",680,64
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:52:27","CONF_YC2",681,64
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:52:38","Scorer",682,64
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:52:44","F2",683,64
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:52:44","FK1",684,64
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:52:44","DFK1",685,64
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:52:44","Ball Position",686,64
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:53:02","Restart",687,65
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:53:19","Player_DATA_CONFIRMED",688,65
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:53:35","POSSIBLE_TI",689,65
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:53:37","TI2",690,65
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:53:58","Restart",691,66
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:54:01","SAFE1",692,66
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:54:11","AT1",693,66
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:54:16","POSSIBLE_TI",694,66
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:54:17","TI1",695,66
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:54:25","DANGER1",696,66
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:54:25","DAT1",697,66
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:54:26","Restart",698,66
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:54:32","POSSIBLE_TI",699,66
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:54:33","TI1",700,66
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:54:34","Restart",701,66
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:54:38","PCR1",702,66
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:54:43","CR1",703,66
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:54:44","Ball Position",704,66
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:54:46","Restart",705,66
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:54:52","SAFE2",706,67
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:54:55","POSSIBLE_TI",707,67
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:54:59","TI1",708,67
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:55:02","AT1",709,67
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:55:03","Restart",710,67
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:55:15","SAFE1",711,67
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:55:24","AT1",712,67
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:55:24","DANGER1",713,67
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:55:24","DAT1",714,67
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:55:33","SAFE2",715,67
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:55:42","AT2",716,67
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:55:50","DANGER2",717,68
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:55:50","DAT2",718,68
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:55:55","SAFE1",719,68
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:56:01","AT1",720,68
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:56:04","DANGER1",721,68
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:56:04","DAT1",722,68
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:56:12","POSSIBLE_TI",723,68
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:56:16","TI1",724,68
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:56:32","SUB2",725,68
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:56:36","Restart",726,68
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:56:54","SAFE1",727,69
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:57:02","AT1",728,69
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:57:05","DANGER1",729,69
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:57:05","DAT1",730,69
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:57:15","Possible Free Kick",731,69
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:57:19","Player_DATA_CONFIRMED",733,69
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:57:30","SAFE2",734,69
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:57:30","F1",735,69
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:57:30","FK2",736,69
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:57:30","Ball Position",737,69
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:57:31","Restart",738,69
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:57:39","AT2",739,69
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:57:43","SAFE1",740,69
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:57:44","AT1",741,69
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:57:52","POSSIBLE_TI",742,70
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:57:53","TI1",743,70
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:57:59","Restart",744,70
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:58:03","DANGER1",745,70
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:58:03","DAT1",746,70
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:58:06","PCR1",747,70
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:58:20","CR1",748,70
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:58:21","Ball Position",749,70
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:58:23","Restart",750,70
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:59:03","SAFE2",751,71
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:59:04","AT2",752,71
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:59:08","DANGER2",753,71
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:59:08","DAT2",754,71
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:59:20","BLOCKED2",755,71
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:59:24","SAFE1",756,71
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:59:26","AT2",757,71
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:59:38","DANGER2",758,71
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 12:59:38","DAT2",759,71
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:00:03","SAFE2",760,72
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:00:11","AT1",761,72
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:00:38","SAFE1",762,72
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:01:01","AT1",763,73
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:01:07","SAFE2",764,73
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:01:12","AT2",765,73
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:01:14","SAFE1",766,73
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:01:18","AT1",767,73
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:01:23","DANGER1",768,73
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:01:23","DAT1",769,73
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:01:47","POSSIBLE_TI",770,74
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:01:48","TI1",771,74
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:01:52","Restart",772,74
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:02:05","POSSIBLE_TI",773,74
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:02:06","TI1",774,74
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:02:18","Restart",775,74
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:02:21","POSSIBLE_TI",776,74
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:02:23","TI2",777,74
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:02:58","SUB2",778,75
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:03:01","Restart",779,75
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:03:13","Player_DATA_CONFIRMED",780,75
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:03:19","SAFE2",781,75
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:03:22","AT2",782,75
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:03:26","DANGER2",783,75
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:03:26","DAT2",784,75
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:04:06","SAFE2",785,76
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:04:16","AT2",786,76
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:04:28","DANGER2",787,76
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:04:28","DAT2",788,76
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:04:37","SAFE1",789,76
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:04:48","AT1",790,77
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:04:51","SAFE1",791,77
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:05:00","AT1",792,77
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:05:02","DANGER1",793,77
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:05:02","DAT1",794,77
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:05:06","POSSIBLE_TI",795,77
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:05:06","TI1",796,77
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:05:13","Restart",797,77
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:05:51","SHB1",798,78
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:05:58","SAFE2",799,78
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:05:59","GK2",800,78
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:06:15","Restart",801,78
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:06:17","AT2",802,78
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:06:23","DANGER2",803,78
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:06:23","DAT2",804,78
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:06:39","SAFE1",805,78
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:06:48","AT1",806,79
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:06:52","SAFE2",807,79
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:06:58","AT2",808,79
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:07:00","Possible Free Kick",809,79
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:07:36","SAFE2",811,79
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:07:36","F1",812,79
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:07:36","FK2",813,79
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:07:36","Ball Position",814,79
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:07:56","Restart",815,80
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:07:57","AT2",816,80
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:07:59","DANGER2",817,80
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:07:59","DAT2",818,80
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:08:02","SAFE1",819,80
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:08:10","AT1",820,80
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:08:20","DANGER1",821,80
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:08:20","DAT1",822,80
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:08:33","SAFE1",823,80
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:08:38","AT1",824,80
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:08:42","DANGER1",825,80
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:08:42","DAT1",826,80
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:08:51","SHG1",827,81
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:08:55","SAFE1",828,81
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:08:57","POSSIBLE_TI",829,81
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:08:58","TI2",830,81
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:08:59","AT2",831,81
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:09:20","SUB2",832,81
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:09:31","Restart",833,81
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:09:36","SAFE1",834,81
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:09:43","Player_DATA_CONFIRMED",835,81
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:09:50","AT1",836,82
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:09:54","SAFE1",837,82
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:10:02","AT1",838,82
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:10:15","POSSIBLE_TI",839,82
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:10:29","TI2",840,82
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:10:39","Restart",841,82
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:10:44","POSSIBLE_TI",842,82
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:10:45","TI2",843,82
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:10:58","AT2",844,83
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:11:00","Restart",845,83
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:11:03","POSSIBLE_TI",846,83
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:11:04","TI2",847,83
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:11:11","Restart",848,83
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:11:13","DANGER2",849,83
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:11:13","DAT2",850,83
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:11:23","Possible Free Kick",851,83
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:11:30","SAFE1",853,83
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:11:30","F2",854,83
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:11:30","FK1",855,83
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:11:30","Ball Position",856,83
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:11:34","Restart",857,83
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:11:36","AT1",858,83
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:11:39","DANGER1",859,83
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:11:39","DAT1",860,83
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:11:43","POSSIBLE_TI",861,83
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:11:46","TI1",862,83
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:11:55","Restart",863,84
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:12:07","SHB1",864,84
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:12:23","SAFE2",865,84
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:12:23","GK2",866,84
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:12:51","SUB1",867,85
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:13:04","Restart",868,85
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:13:05","AT2",869,85
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:13:11","SAFE1",870,85
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:13:13","AT1",871,85
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:13:16","DANGER1",872,85
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:13:16","DAT1",873,85
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:13:19","Player_DATA_CONFIRMED",874,85
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:13:21","POSSIBLE_TI",875,85
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:13:23","TI1",876,85
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:13:26","Restart",877,85
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:13:48","POSSIBLE_TI",878,86
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:14:11","TI1",879,86
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:14:12","Restart",880,86
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:14:14","SAFE1",881,86
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:14:15","AT1",882,86
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:14:40","Possible Free Kick",883,86
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:14:45","F2",885,86
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:14:45","FK1",886,86
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:14:45","Ball Position",887,86
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:14:45","DANGER1",888,86
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:14:45","DFK1",889,86
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:14:46","Restart",890,86
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:14:54","SAFE1",891,87
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:14:56","AT1",892,87
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:15:01","SAFE2",893,87
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:15:03","AT2",894,87
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:15:06","DANGER2",895,87
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:15:06","DAT2",896,87
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:15:15","SHB2",897,87
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:15:20","SAFE1",898,87
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:15:21","GK1",899,87
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:15:23","Restart",900,87
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:15:38","AT1",901,87
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:15:41","DANGER1",902,87
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:15:41","DAT1",903,87
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:15:51","POSSIBLE_TI",904,88
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:15:52","TI1",905,88
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:15:55","Restart",906,88
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:16:03","SAFE2",907,88
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:16:04","AT2",908,88
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:16:14","Possible Free Kick",909,88
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:16:36","F1",911,88
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:16:36","FK2",912,88
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:16:36","Ball Position",913,88
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:16:36","DANGER2",914,88
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:16:36","DFK2",915,88
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:16:41","Restart",916,88
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:16:48","SAFE2",917,89
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:16:49","AT2",918,89
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:16:51","SAFE1",919,89
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:16:53","AT1",920,89
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:16:57","SAFE2",921,89
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:17:12","AT2",922,89
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:17:14","DANGER2",923,89
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:17:14","DAT2",924,89
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:17:35","PCR2",925,89
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:17:39","NCR2",926,89
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:17:40","SAFE1",927,89
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:17:41","GK1",928,89
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:17:42","Restart",929,89
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:17:52","AT1",930,90
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:17:56","DANGER1",931,90
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:17:56","DAT1",932,90
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:18:04","SHB1",933,90
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:18:12","SAFE2",934,90
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:18:13","GK2",935,90
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:18:30","Restart",936,90
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:18:32","AT2",937,90
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:18:36","SAFE1",938,90
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:18:42","Extra Time",939,90
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:19:07","AT1",940,91
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:19:08","SAFE1",941,91
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:19:14","AT1",942,91
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:19:17","DANGER1",943,91
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:19:17","DAT1",944,91
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:19:26","SHG1",945,91
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:19:27","SAFE2",946,91
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:19:36","AT2",947,91
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:19:39","DANGER2",948,91
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:19:39","DAT2",949,91
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:19:44","Possible Free Kick",950,91
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:19:47","SAFE1",952,92
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:19:47","F2",953,92
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:19:47","FK1",954,92
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:19:47","Ball Position",955,92
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:19:48","Restart",956,92
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:19:53","AT1",957,92
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:19:56","SAFE1",958,92
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:19:57","System Message",959,92
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:19:57","POSSIBLE_TI",960,92
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:20:01","TI1",961,92
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:20:05","Restart",962,92
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:20:06","POSSIBLE_TI",963,92
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:20:10","TI2",964,92
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:20:19","Restart",965,92
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:20:20","AT2",966,92
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:20:25","SAFE1",967,92
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:20:39","AT1",968,92
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:20:39","DANGER1",969,92
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:20:39","DAT1",970,92
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:21:05","SAFE1",971,93
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:21:13","AT1",972,93
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:21:35","DANGER1",973,93
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:21:35","DAT1",974,93
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:21:47","System Message",975,94
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:21:49","SAFE1",976,94
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:21:59","AT2",977,94
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:21:59","DANGER2",978,94
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:21:59","DAT2",979,94
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:22:00","System Message",980,94
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:22:11","POSSIBLE_TI",981,94
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:22:13","System Message",982,94
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:22:17","TI2",983,94
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:22:19","Restart",984,94
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:22:28","POSSIBLE_TI",985,94
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:22:30","TI1",986,94
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:22:31","Restart",987,94
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:22:48","Stop RT2",988,94
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:22:48","Stop Game",989,94
+1180607,"Olympique Lyonnais","FC Nantes","09/28/2019 13:23:10","CONF_PERIOD_SCORE",990,94

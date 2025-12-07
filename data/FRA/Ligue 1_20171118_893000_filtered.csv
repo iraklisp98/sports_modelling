@@ -1,0 +1,887 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+893000,"Toulouse FC","FC Metz","11/18/2017 18:15:11","Scout in Stadion",0,0
+893000,"Toulouse FC","FC Metz","11/18/2017 18:15:15","Transmission Online",1,0
+893000,"Toulouse FC","FC Metz","11/18/2017 18:15:40","GCC",2,0
+893000,"Toulouse FC","FC Metz","11/18/2017 18:16:16","Lineup changed",3,0
+893000,"Toulouse FC","FC Metz","11/18/2017 18:58:18","Players are coming out",4,0
+893000,"Toulouse FC","FC Metz","11/18/2017 18:58:38","Players lined up",5,0
+893000,"Toulouse FC","FC Metz","11/18/2017 18:59:13","Jersey Changed",6,0
+893000,"Toulouse FC","FC Metz","11/18/2017 18:59:13","Jersey Changed",7,0
+893000,"Toulouse FC","FC Metz","11/18/2017 18:59:19","Shake hands",8,0
+893000,"Toulouse FC","FC Metz","11/18/2017 18:59:46","Flip coin",9,0
+893000,"Toulouse FC","FC Metz","11/18/2017 19:00:48","Game about to start",10,0
+893000,"Toulouse FC","FC Metz","11/18/2017 19:00:56","Lineup changed",11,0
+893000,"Toulouse FC","FC Metz","11/18/2017 19:01:10","Start RT1 Team 1",12,1
+893000,"Toulouse FC","FC Metz","11/18/2017 19:01:25","SAFE2",13,1
+893000,"Toulouse FC","FC Metz","11/18/2017 19:01:28","AT2",14,1
+893000,"Toulouse FC","FC Metz","11/18/2017 19:01:44","Possible Free Kick",15,1
+893000,"Toulouse FC","FC Metz","11/18/2017 19:01:48","F1",17,1
+893000,"Toulouse FC","FC Metz","11/18/2017 19:01:48","FK2",18,1
+893000,"Toulouse FC","FC Metz","11/18/2017 19:01:48","DANGER2",19,1
+893000,"Toulouse FC","FC Metz","11/18/2017 19:01:48","DFK2",20,1
+893000,"Toulouse FC","FC Metz","11/18/2017 19:01:48","Ball Position",21,1
+893000,"Toulouse FC","FC Metz","11/18/2017 19:02:23","Restart",22,2
+893000,"Toulouse FC","FC Metz","11/18/2017 19:02:26","PCR2",23,2
+893000,"Toulouse FC","FC Metz","11/18/2017 19:02:34","CR2",24,2
+893000,"Toulouse FC","FC Metz","11/18/2017 19:02:35","Ball Position",25,2
+893000,"Toulouse FC","FC Metz","11/18/2017 19:03:02","Restart",26,2
+893000,"Toulouse FC","FC Metz","11/18/2017 19:03:09","POSSIBLE_TI",27,2
+893000,"Toulouse FC","FC Metz","11/18/2017 19:03:11","TI2",28,3
+893000,"Toulouse FC","FC Metz","11/18/2017 19:03:26","Restart",29,3
+893000,"Toulouse FC","FC Metz","11/18/2017 19:03:31","SHB2",30,3
+893000,"Toulouse FC","FC Metz","11/18/2017 19:03:33","SAFE1",31,3
+893000,"Toulouse FC","FC Metz","11/18/2017 19:03:34","GK1",32,3
+893000,"Toulouse FC","FC Metz","11/18/2017 19:03:50","Restart",33,3
+893000,"Toulouse FC","FC Metz","11/18/2017 19:04:01","AT1",34,3
+893000,"Toulouse FC","FC Metz","11/18/2017 19:04:02","DANGER1",35,3
+893000,"Toulouse FC","FC Metz","11/18/2017 19:04:02","DAT1",36,3
+893000,"Toulouse FC","FC Metz","11/18/2017 19:04:14","SAFE2",37,4
+893000,"Toulouse FC","FC Metz","11/18/2017 19:04:23","POSSIBLE_TI",38,4
+893000,"Toulouse FC","FC Metz","11/18/2017 19:04:25","TI2",39,4
+893000,"Toulouse FC","FC Metz","11/18/2017 19:04:25","Restart",40,4
+893000,"Toulouse FC","FC Metz","11/18/2017 19:04:31","AT2",41,4
+893000,"Toulouse FC","FC Metz","11/18/2017 19:04:33","DANGER2",42,4
+893000,"Toulouse FC","FC Metz","11/18/2017 19:04:33","DAT2",43,4
+893000,"Toulouse FC","FC Metz","11/18/2017 19:04:38","SHB2",44,4
+893000,"Toulouse FC","FC Metz","11/18/2017 19:04:41","SAFE1",45,4
+893000,"Toulouse FC","FC Metz","11/18/2017 19:04:43","GK1",46,4
+893000,"Toulouse FC","FC Metz","11/18/2017 19:04:57","Restart",47,4
+893000,"Toulouse FC","FC Metz","11/18/2017 19:05:18","AT1",48,5
+893000,"Toulouse FC","FC Metz","11/18/2017 19:05:32","DANGER1",49,5
+893000,"Toulouse FC","FC Metz","11/18/2017 19:05:32","DAT1",50,5
+893000,"Toulouse FC","FC Metz","11/18/2017 19:05:38","PCR1",51,5
+893000,"Toulouse FC","FC Metz","11/18/2017 19:05:46","CR1",52,5
+893000,"Toulouse FC","FC Metz","11/18/2017 19:05:47","Ball Position",53,5
+893000,"Toulouse FC","FC Metz","11/18/2017 19:05:59","Restart",54,5
+893000,"Toulouse FC","FC Metz","11/18/2017 19:06:01","Lineup changed",55,5
+893000,"Toulouse FC","FC Metz","11/18/2017 19:06:10","SAFE2",56,5
+893000,"Toulouse FC","FC Metz","11/18/2017 19:06:14","AT1",57,6
+893000,"Toulouse FC","FC Metz","11/18/2017 19:06:15","DANGER1",58,6
+893000,"Toulouse FC","FC Metz","11/18/2017 19:06:15","DAT1",59,6
+893000,"Toulouse FC","FC Metz","11/18/2017 19:06:19","SAFE2",60,6
+893000,"Toulouse FC","FC Metz","11/18/2017 19:06:36","SAFE1",61,6
+893000,"Toulouse FC","FC Metz","11/18/2017 19:06:47","AT1",62,6
+893000,"Toulouse FC","FC Metz","11/18/2017 19:06:48","DANGER1",63,6
+893000,"Toulouse FC","FC Metz","11/18/2017 19:06:48","DAT1",64,6
+893000,"Toulouse FC","FC Metz","11/18/2017 19:07:06","SAFE2",65,6
+893000,"Toulouse FC","FC Metz","11/18/2017 19:07:10","AT2",66,6
+893000,"Toulouse FC","FC Metz","11/18/2017 19:07:14","SAFE1",67,7
+893000,"Toulouse FC","FC Metz","11/18/2017 19:07:15","Possible Free Kick",68,7
+893000,"Toulouse FC","FC Metz","11/18/2017 19:07:20","O2",70,7
+893000,"Toulouse FC","FC Metz","11/18/2017 19:07:20","FK1",71,7
+893000,"Toulouse FC","FC Metz","11/18/2017 19:07:20","Ball Position",72,7
+893000,"Toulouse FC","FC Metz","11/18/2017 19:07:24","Restart",73,7
+893000,"Toulouse FC","FC Metz","11/18/2017 19:07:36","AT1",74,7
+893000,"Toulouse FC","FC Metz","11/18/2017 19:07:51","DANGER1",75,7
+893000,"Toulouse FC","FC Metz","11/18/2017 19:07:51","DAT1",76,7
+893000,"Toulouse FC","FC Metz","11/18/2017 19:08:00","SHB1",77,7
+893000,"Toulouse FC","FC Metz","11/18/2017 19:08:04","SAFE2",78,7
+893000,"Toulouse FC","FC Metz","11/18/2017 19:08:05","GK2",79,7
+893000,"Toulouse FC","FC Metz","11/18/2017 19:08:19","Restart",80,8
+893000,"Toulouse FC","FC Metz","11/18/2017 19:08:28","Possible Free Kick",81,8
+893000,"Toulouse FC","FC Metz","11/18/2017 19:08:37","F1",83,8
+893000,"Toulouse FC","FC Metz","11/18/2017 19:08:37","FK2",84,8
+893000,"Toulouse FC","FC Metz","11/18/2017 19:08:37","DANGER2",85,8
+893000,"Toulouse FC","FC Metz","11/18/2017 19:08:37","DFK2",86,8
+893000,"Toulouse FC","FC Metz","11/18/2017 19:08:37","Ball Position",87,8
+893000,"Toulouse FC","FC Metz","11/18/2017 19:08:48","Restart",88,8
+893000,"Toulouse FC","FC Metz","11/18/2017 19:09:02","PCR2",89,8
+893000,"Toulouse FC","FC Metz","11/18/2017 19:09:05","CR2",90,8
+893000,"Toulouse FC","FC Metz","11/18/2017 19:09:11","SHB2",91,9
+893000,"Toulouse FC","FC Metz","11/18/2017 19:09:14","Ball Position",92,9
+893000,"Toulouse FC","FC Metz","11/18/2017 19:09:20","Restart",93,9
+893000,"Toulouse FC","FC Metz","11/18/2017 19:09:26","SHG2",94,9
+893000,"Toulouse FC","FC Metz","11/18/2017 19:09:45","SAFE1",95,9
+893000,"Toulouse FC","FC Metz","11/18/2017 19:09:51","AT1",96,9
+893000,"Toulouse FC","FC Metz","11/18/2017 19:10:06","SAFE2",97,9
+893000,"Toulouse FC","FC Metz","11/18/2017 19:10:17","AT1",98,10
+893000,"Toulouse FC","FC Metz","11/18/2017 19:10:22","Possible Free Kick",99,10
+893000,"Toulouse FC","FC Metz","11/18/2017 19:10:32","F2",101,10
+893000,"Toulouse FC","FC Metz","11/18/2017 19:10:32","FK1",102,10
+893000,"Toulouse FC","FC Metz","11/18/2017 19:10:32","DANGER1",103,10
+893000,"Toulouse FC","FC Metz","11/18/2017 19:10:32","DFK1",104,10
+893000,"Toulouse FC","FC Metz","11/18/2017 19:10:32","Ball Position",105,10
+893000,"Toulouse FC","FC Metz","11/18/2017 19:11:10","Restart",106,10
+893000,"Toulouse FC","FC Metz","11/18/2017 19:11:16","SHB1",107,11
+893000,"Toulouse FC","FC Metz","11/18/2017 19:11:19","SAFE2",108,11
+893000,"Toulouse FC","FC Metz","11/18/2017 19:11:20","GK2",109,11
+893000,"Toulouse FC","FC Metz","11/18/2017 19:11:36","Restart",110,11
+893000,"Toulouse FC","FC Metz","11/18/2017 19:11:42","POSSIBLE_TI",111,11
+893000,"Toulouse FC","FC Metz","11/18/2017 19:11:44","TI1",112,11
+893000,"Toulouse FC","FC Metz","11/18/2017 19:11:48","Restart",113,11
+893000,"Toulouse FC","FC Metz","11/18/2017 19:11:53","AT1",114,11
+893000,"Toulouse FC","FC Metz","11/18/2017 19:11:54","DANGER1",115,11
+893000,"Toulouse FC","FC Metz","11/18/2017 19:11:54","DAT1",116,11
+893000,"Toulouse FC","FC Metz","11/18/2017 19:11:55","SAFE2",117,11
+893000,"Toulouse FC","FC Metz","11/18/2017 19:12:05","AT2",118,11
+893000,"Toulouse FC","FC Metz","11/18/2017 19:12:12","DANGER2",119,12
+893000,"Toulouse FC","FC Metz","11/18/2017 19:12:12","DAT2",120,12
+893000,"Toulouse FC","FC Metz","11/18/2017 19:12:14","Possible Free Kick",121,12
+893000,"Toulouse FC","FC Metz","11/18/2017 19:12:19","F1",123,12
+893000,"Toulouse FC","FC Metz","11/18/2017 19:12:19","FK2",124,12
+893000,"Toulouse FC","FC Metz","11/18/2017 19:12:19","DFK2",125,12
+893000,"Toulouse FC","FC Metz","11/18/2017 19:12:19","Ball Position",126,12
+893000,"Toulouse FC","FC Metz","11/18/2017 19:13:04","Restart",127,12
+893000,"Toulouse FC","FC Metz","11/18/2017 19:13:20","POSSIBLE_TI",128,13
+893000,"Toulouse FC","FC Metz","11/18/2017 19:13:21","TI1",129,13
+893000,"Toulouse FC","FC Metz","11/18/2017 19:13:27","Restart",130,13
+893000,"Toulouse FC","FC Metz","11/18/2017 19:13:31","SAFE1",131,13
+893000,"Toulouse FC","FC Metz","11/18/2017 19:13:33","POSSIBLE_TI",132,13
+893000,"Toulouse FC","FC Metz","11/18/2017 19:13:35","TI1",133,13
+893000,"Toulouse FC","FC Metz","11/18/2017 19:13:43","Restart",134,13
+893000,"Toulouse FC","FC Metz","11/18/2017 19:13:44","AT1",135,13
+893000,"Toulouse FC","FC Metz","11/18/2017 19:13:45","DANGER1",136,13
+893000,"Toulouse FC","FC Metz","11/18/2017 19:13:45","DAT1",137,13
+893000,"Toulouse FC","FC Metz","11/18/2017 19:13:49","PCR1",138,13
+893000,"Toulouse FC","FC Metz","11/18/2017 19:13:55","CR1",139,13
+893000,"Toulouse FC","FC Metz","11/18/2017 19:13:58","Ball Position",140,13
+893000,"Toulouse FC","FC Metz","11/18/2017 19:14:15","Restart",141,14
+893000,"Toulouse FC","FC Metz","11/18/2017 19:14:21","SHB1",142,14
+893000,"Toulouse FC","FC Metz","11/18/2017 19:14:22","SAFE2",143,14
+893000,"Toulouse FC","FC Metz","11/18/2017 19:14:24","GK2",144,14
+893000,"Toulouse FC","FC Metz","11/18/2017 19:14:44","Restart",145,14
+893000,"Toulouse FC","FC Metz","11/18/2017 19:14:47","POSSIBLE_TI",146,14
+893000,"Toulouse FC","FC Metz","11/18/2017 19:14:48","TI2",147,14
+893000,"Toulouse FC","FC Metz","11/18/2017 19:15:00","Restart",148,14
+893000,"Toulouse FC","FC Metz","11/18/2017 19:15:22","AT1",149,15
+893000,"Toulouse FC","FC Metz","11/18/2017 19:15:23","DANGER1",150,15
+893000,"Toulouse FC","FC Metz","11/18/2017 19:15:23","DAT1",151,15
+893000,"Toulouse FC","FC Metz","11/18/2017 19:15:30","SAFE2",152,15
+893000,"Toulouse FC","FC Metz","11/18/2017 19:15:42","POSSIBLE_TI",153,15
+893000,"Toulouse FC","FC Metz","11/18/2017 19:15:43","TI2",154,15
+893000,"Toulouse FC","FC Metz","11/18/2017 19:15:49","Restart",155,15
+893000,"Toulouse FC","FC Metz","11/18/2017 19:15:58","POSSIBLE_TI",156,15
+893000,"Toulouse FC","FC Metz","11/18/2017 19:15:59","TI1",157,15
+893000,"Toulouse FC","FC Metz","11/18/2017 19:16:01","Restart",158,15
+893000,"Toulouse FC","FC Metz","11/18/2017 19:16:07","AT1",159,15
+893000,"Toulouse FC","FC Metz","11/18/2017 19:16:09","DANGER1",160,15
+893000,"Toulouse FC","FC Metz","11/18/2017 19:16:09","DAT1",161,15
+893000,"Toulouse FC","FC Metz","11/18/2017 19:16:12","POSSIBLE_TI",162,16
+893000,"Toulouse FC","FC Metz","11/18/2017 19:16:14","TI1",163,16
+893000,"Toulouse FC","FC Metz","11/18/2017 19:16:18","Restart",164,16
+893000,"Toulouse FC","FC Metz","11/18/2017 19:16:27","SAFE2",165,16
+893000,"Toulouse FC","FC Metz","11/18/2017 19:16:30","POSSIBLE_TI",166,16
+893000,"Toulouse FC","FC Metz","11/18/2017 19:16:31","TI2",167,16
+893000,"Toulouse FC","FC Metz","11/18/2017 19:16:41","Restart",168,16
+893000,"Toulouse FC","FC Metz","11/18/2017 19:16:44","AT2",169,16
+893000,"Toulouse FC","FC Metz","11/18/2017 19:16:45","DANGER2",170,16
+893000,"Toulouse FC","FC Metz","11/18/2017 19:16:45","DAT2",171,16
+893000,"Toulouse FC","FC Metz","11/18/2017 19:16:56","SAFE1",172,16
+893000,"Toulouse FC","FC Metz","11/18/2017 19:16:56","AT1",173,16
+893000,"Toulouse FC","FC Metz","11/18/2017 19:16:59","POSSIBLE_CARDS",174,16
+893000,"Toulouse FC","FC Metz","11/18/2017 19:17:00","PRC",175,16
+893000,"Toulouse FC","FC Metz","11/18/2017 19:17:00","Danger",176,16
+893000,"Toulouse FC","FC Metz","11/18/2017 19:17:23","No RC",177,17
+893000,"Toulouse FC","FC Metz","11/18/2017 19:17:26","YC2",178,17
+893000,"Toulouse FC","FC Metz","11/18/2017 19:17:30","CONF_YC2",179,17
+893000,"Toulouse FC","FC Metz","11/18/2017 19:17:33","Scorer",180,17
+893000,"Toulouse FC","FC Metz","11/18/2017 19:17:35","Possible Free Kick",181,17
+893000,"Toulouse FC","FC Metz","11/18/2017 19:17:40","F2",183,17
+893000,"Toulouse FC","FC Metz","11/18/2017 19:17:40","FK1",184,17
+893000,"Toulouse FC","FC Metz","11/18/2017 19:17:40","DFK1",185,17
+893000,"Toulouse FC","FC Metz","11/18/2017 19:17:40","Ball Position",186,17
+893000,"Toulouse FC","FC Metz","11/18/2017 19:17:54","Scorer",187,17
+893000,"Toulouse FC","FC Metz","11/18/2017 19:17:54","Player_DATA_CONFIRMED",188,17
+893000,"Toulouse FC","FC Metz","11/18/2017 19:18:02","Restart",189,17
+893000,"Toulouse FC","FC Metz","11/18/2017 19:18:09","POSSIBLE_TI",190,17
+893000,"Toulouse FC","FC Metz","11/18/2017 19:18:11","TI1",191,18
+893000,"Toulouse FC","FC Metz","11/18/2017 19:18:15","Restart",192,18
+893000,"Toulouse FC","FC Metz","11/18/2017 19:18:29","SAFE2",193,18
+893000,"Toulouse FC","FC Metz","11/18/2017 19:18:29","AT2",194,18
+893000,"Toulouse FC","FC Metz","11/18/2017 19:18:30","DANGER2",195,18
+893000,"Toulouse FC","FC Metz","11/18/2017 19:18:30","DAT2",196,18
+893000,"Toulouse FC","FC Metz","11/18/2017 19:18:57","SAFE1",197,18
+893000,"Toulouse FC","FC Metz","11/18/2017 19:18:59","POSSIBLE_TI",198,18
+893000,"Toulouse FC","FC Metz","11/18/2017 19:19:00","TI1",199,18
+893000,"Toulouse FC","FC Metz","11/18/2017 19:19:02","Restart",200,18
+893000,"Toulouse FC","FC Metz","11/18/2017 19:19:17","AT1",201,19
+893000,"Toulouse FC","FC Metz","11/18/2017 19:19:39","POSSIBLE_TI",202,19
+893000,"Toulouse FC","FC Metz","11/18/2017 19:19:39","TI2",203,19
+893000,"Toulouse FC","FC Metz","11/18/2017 19:19:46","Restart",204,19
+893000,"Toulouse FC","FC Metz","11/18/2017 19:19:56","SAFE2",205,19
+893000,"Toulouse FC","FC Metz","11/18/2017 19:19:58","AT2",206,19
+893000,"Toulouse FC","FC Metz","11/18/2017 19:20:03","DANGER2",207,19
+893000,"Toulouse FC","FC Metz","11/18/2017 19:20:03","DAT2",208,19
+893000,"Toulouse FC","FC Metz","11/18/2017 19:20:10","SHG2",209,20
+893000,"Toulouse FC","FC Metz","11/18/2017 19:20:12","SAFE1",210,20
+893000,"Toulouse FC","FC Metz","11/18/2017 19:20:42","AT2",211,20
+893000,"Toulouse FC","FC Metz","11/18/2017 19:20:44","DANGER2",212,20
+893000,"Toulouse FC","FC Metz","11/18/2017 19:20:44","DAT2",213,20
+893000,"Toulouse FC","FC Metz","11/18/2017 19:20:57","SAFE1",214,20
+893000,"Toulouse FC","FC Metz","11/18/2017 19:21:05","SAFE2",215,20
+893000,"Toulouse FC","FC Metz","11/18/2017 19:21:34","SAFE1",216,21
+893000,"Toulouse FC","FC Metz","11/18/2017 19:21:40","AT1",217,21
+893000,"Toulouse FC","FC Metz","11/18/2017 19:21:43","DANGER1",218,21
+893000,"Toulouse FC","FC Metz","11/18/2017 19:21:43","DAT1",219,21
+893000,"Toulouse FC","FC Metz","11/18/2017 19:22:05","Possible Free Kick",220,21
+893000,"Toulouse FC","FC Metz","11/18/2017 19:22:09","F2",222,21
+893000,"Toulouse FC","FC Metz","11/18/2017 19:22:09","FK1",223,21
+893000,"Toulouse FC","FC Metz","11/18/2017 19:22:09","DFK1",224,21
+893000,"Toulouse FC","FC Metz","11/18/2017 19:22:09","Ball Position",225,21
+893000,"Toulouse FC","FC Metz","11/18/2017 19:22:21","POSSIBLE_CARDS",226,22
+893000,"Toulouse FC","FC Metz","11/18/2017 19:22:45","Injury Break",227,22
+893000,"Toulouse FC","FC Metz","11/18/2017 19:23:34","PRC",228,23
+893000,"Toulouse FC","FC Metz","11/18/2017 19:23:45","RC2",229,23
+893000,"Toulouse FC","FC Metz","11/18/2017 19:23:49","CONF_RC2",230,23
+893000,"Toulouse FC","FC Metz","11/18/2017 19:23:51","Scorer",231,23
+893000,"Toulouse FC","FC Metz","11/18/2017 19:24:23","Restart",232,24
+893000,"Toulouse FC","FC Metz","11/18/2017 19:24:43","SAFE1",233,24
+893000,"Toulouse FC","FC Metz","11/18/2017 19:24:45","System Message",234,24
+893000,"Toulouse FC","FC Metz","11/18/2017 19:25:03","SAFE2",235,24
+893000,"Toulouse FC","FC Metz","11/18/2017 19:25:04","AT1",236,24
+893000,"Toulouse FC","FC Metz","11/18/2017 19:25:06","DANGER1",237,24
+893000,"Toulouse FC","FC Metz","11/18/2017 19:25:06","DAT1",238,24
+893000,"Toulouse FC","FC Metz","11/18/2017 19:25:26","SAFE1",239,25
+893000,"Toulouse FC","FC Metz","11/18/2017 19:25:31","AT1",240,25
+893000,"Toulouse FC","FC Metz","11/18/2017 19:25:32","DANGER1",241,25
+893000,"Toulouse FC","FC Metz","11/18/2017 19:25:32","DAT1",242,25
+893000,"Toulouse FC","FC Metz","11/18/2017 19:25:41","Scorer",243,25
+893000,"Toulouse FC","FC Metz","11/18/2017 19:25:41","Player_DATA_CONFIRMED",244,25
+893000,"Toulouse FC","FC Metz","11/18/2017 19:26:02","POSSIBLE_TI",245,25
+893000,"Toulouse FC","FC Metz","11/18/2017 19:26:03","TI1",246,25
+893000,"Toulouse FC","FC Metz","11/18/2017 19:26:08","Restart",247,25
+893000,"Toulouse FC","FC Metz","11/18/2017 19:26:37","SAFE2",248,26
+893000,"Toulouse FC","FC Metz","11/18/2017 19:26:41","SAFE1",249,26
+893000,"Toulouse FC","FC Metz","11/18/2017 19:26:49","AT1",250,26
+893000,"Toulouse FC","FC Metz","11/18/2017 19:27:00","DANGER1",251,26
+893000,"Toulouse FC","FC Metz","11/18/2017 19:27:00","DAT1",252,26
+893000,"Toulouse FC","FC Metz","11/18/2017 19:27:28","SHB1",253,27
+893000,"Toulouse FC","FC Metz","11/18/2017 19:27:35","SAFE2",254,27
+893000,"Toulouse FC","FC Metz","11/18/2017 19:27:36","GK2",255,27
+893000,"Toulouse FC","FC Metz","11/18/2017 19:27:48","Restart",256,27
+893000,"Toulouse FC","FC Metz","11/18/2017 19:28:17","Possible Free Kick",257,28
+893000,"Toulouse FC","FC Metz","11/18/2017 19:28:19","F1",259,28
+893000,"Toulouse FC","FC Metz","11/18/2017 19:28:19","FK2",260,28
+893000,"Toulouse FC","FC Metz","11/18/2017 19:28:19","DANGER2",261,28
+893000,"Toulouse FC","FC Metz","11/18/2017 19:28:19","DFK2",262,28
+893000,"Toulouse FC","FC Metz","11/18/2017 19:28:19","Ball Position",263,28
+893000,"Toulouse FC","FC Metz","11/18/2017 19:28:32","Restart",264,28
+893000,"Toulouse FC","FC Metz","11/18/2017 19:28:51","SAFE1",265,28
+893000,"Toulouse FC","FC Metz","11/18/2017 19:28:52","AT1",266,28
+893000,"Toulouse FC","FC Metz","11/18/2017 19:28:55","DANGER1",267,28
+893000,"Toulouse FC","FC Metz","11/18/2017 19:28:55","DAT1",268,28
+893000,"Toulouse FC","FC Metz","11/18/2017 19:28:59","SAFE2",269,28
+893000,"Toulouse FC","FC Metz","11/18/2017 19:29:20","AT2",270,29
+893000,"Toulouse FC","FC Metz","11/18/2017 19:29:31","SAFE2",271,29
+893000,"Toulouse FC","FC Metz","11/18/2017 19:29:37","SAFE1",272,29
+893000,"Toulouse FC","FC Metz","11/18/2017 19:29:49","AT1",273,29
+893000,"Toulouse FC","FC Metz","11/18/2017 19:30:00","SAFE1",274,29
+893000,"Toulouse FC","FC Metz","11/18/2017 19:30:11","AT1",275,30
+893000,"Toulouse FC","FC Metz","11/18/2017 19:30:24","DANGER1",276,30
+893000,"Toulouse FC","FC Metz","11/18/2017 19:30:24","DAT1",277,30
+893000,"Toulouse FC","FC Metz","11/18/2017 19:30:51","SAFE2",278,30
+893000,"Toulouse FC","FC Metz","11/18/2017 19:31:19","SAFE1",279,31
+893000,"Toulouse FC","FC Metz","11/18/2017 19:31:30","AT1",280,31
+893000,"Toulouse FC","FC Metz","11/18/2017 19:31:35","DANGER1",281,31
+893000,"Toulouse FC","FC Metz","11/18/2017 19:31:35","DAT1",282,31
+893000,"Toulouse FC","FC Metz","11/18/2017 19:31:46","SAFE2",283,31
+893000,"Toulouse FC","FC Metz","11/18/2017 19:32:01","AT2",284,31
+893000,"Toulouse FC","FC Metz","11/18/2017 19:32:03","DANGER2",285,31
+893000,"Toulouse FC","FC Metz","11/18/2017 19:32:03","DAT2",286,31
+893000,"Toulouse FC","FC Metz","11/18/2017 19:32:15","SAFE1",287,32
+893000,"Toulouse FC","FC Metz","11/18/2017 19:32:33","AT1",288,32
+893000,"Toulouse FC","FC Metz","11/18/2017 19:32:45","DANGER1",289,32
+893000,"Toulouse FC","FC Metz","11/18/2017 19:32:45","DAT1",290,32
+893000,"Toulouse FC","FC Metz","11/18/2017 19:32:53","SAFE2",291,32
+893000,"Toulouse FC","FC Metz","11/18/2017 19:33:02","POSSIBLE_TI",292,32
+893000,"Toulouse FC","FC Metz","11/18/2017 19:33:04","TI1",293,32
+893000,"Toulouse FC","FC Metz","11/18/2017 19:33:05","Restart",294,32
+893000,"Toulouse FC","FC Metz","11/18/2017 19:33:08","SAFE2",295,32
+893000,"Toulouse FC","FC Metz","11/18/2017 19:33:14","AT2",296,33
+893000,"Toulouse FC","FC Metz","11/18/2017 19:33:21","POSSIBLE_TI",297,33
+893000,"Toulouse FC","FC Metz","11/18/2017 19:33:22","TI1",298,33
+893000,"Toulouse FC","FC Metz","11/18/2017 19:33:26","Restart",299,33
+893000,"Toulouse FC","FC Metz","11/18/2017 19:33:32","SAFE1",300,33
+893000,"Toulouse FC","FC Metz","11/18/2017 19:33:35","AT1",301,33
+893000,"Toulouse FC","FC Metz","11/18/2017 19:33:38","DANGER1",302,33
+893000,"Toulouse FC","FC Metz","11/18/2017 19:33:38","DAT1",303,33
+893000,"Toulouse FC","FC Metz","11/18/2017 19:33:46","SHB1",304,33
+893000,"Toulouse FC","FC Metz","11/18/2017 19:33:49","SAFE2",305,33
+893000,"Toulouse FC","FC Metz","11/18/2017 19:33:51","GK2",306,33
+893000,"Toulouse FC","FC Metz","11/18/2017 19:34:11","Restart",307,34
+893000,"Toulouse FC","FC Metz","11/18/2017 19:34:32","AT2",308,34
+893000,"Toulouse FC","FC Metz","11/18/2017 19:34:34","DANGER2",309,34
+893000,"Toulouse FC","FC Metz","11/18/2017 19:34:34","DAT2",310,34
+893000,"Toulouse FC","FC Metz","11/18/2017 19:34:37","SAFE1",311,34
+893000,"Toulouse FC","FC Metz","11/18/2017 19:34:38","Possible Free Kick",312,34
+893000,"Toulouse FC","FC Metz","11/18/2017 19:34:44","O2",314,34
+893000,"Toulouse FC","FC Metz","11/18/2017 19:34:44","FK1",315,34
+893000,"Toulouse FC","FC Metz","11/18/2017 19:34:44","Ball Position",316,34
+893000,"Toulouse FC","FC Metz","11/18/2017 19:34:48","Restart",317,34
+893000,"Toulouse FC","FC Metz","11/18/2017 19:35:02","AT1",318,34
+893000,"Toulouse FC","FC Metz","11/18/2017 19:35:04","DANGER1",319,34
+893000,"Toulouse FC","FC Metz","11/18/2017 19:35:04","DAT1",320,34
+893000,"Toulouse FC","FC Metz","11/18/2017 19:35:27","POSSIBLE_TI",321,35
+893000,"Toulouse FC","FC Metz","11/18/2017 19:35:29","TI1",322,35
+893000,"Toulouse FC","FC Metz","11/18/2017 19:35:36","Restart",323,35
+893000,"Toulouse FC","FC Metz","11/18/2017 19:35:55","SAFE2",324,35
+893000,"Toulouse FC","FC Metz","11/18/2017 19:36:20","Possible Free Kick",325,36
+893000,"Toulouse FC","FC Metz","11/18/2017 19:36:25","F1",327,36
+893000,"Toulouse FC","FC Metz","11/18/2017 19:36:25","FK2",328,36
+893000,"Toulouse FC","FC Metz","11/18/2017 19:36:25","DANGER2",329,36
+893000,"Toulouse FC","FC Metz","11/18/2017 19:36:25","DFK2",330,36
+893000,"Toulouse FC","FC Metz","11/18/2017 19:36:25","Ball Position",331,36
+893000,"Toulouse FC","FC Metz","11/18/2017 19:36:53","Restart",332,36
+893000,"Toulouse FC","FC Metz","11/18/2017 19:37:00","SAFE1",333,36
+893000,"Toulouse FC","FC Metz","11/18/2017 19:37:09","AT1",334,36
+893000,"Toulouse FC","FC Metz","11/18/2017 19:37:11","DANGER1",335,37
+893000,"Toulouse FC","FC Metz","11/18/2017 19:37:11","DAT1",336,37
+893000,"Toulouse FC","FC Metz","11/18/2017 19:37:22","SHB1",337,37
+893000,"Toulouse FC","FC Metz","11/18/2017 19:37:23","PCR1",338,37
+893000,"Toulouse FC","FC Metz","11/18/2017 19:37:31","CR1",339,37
+893000,"Toulouse FC","FC Metz","11/18/2017 19:37:35","Ball Position",340,37
+893000,"Toulouse FC","FC Metz","11/18/2017 19:37:44","Restart",341,37
+893000,"Toulouse FC","FC Metz","11/18/2017 19:37:53","SHG1",342,37
+893000,"Toulouse FC","FC Metz","11/18/2017 19:38:02","SHB1",343,37
+893000,"Toulouse FC","FC Metz","11/18/2017 19:38:03","SAFE2",344,37
+893000,"Toulouse FC","FC Metz","11/18/2017 19:38:06","GK2",345,37
+893000,"Toulouse FC","FC Metz","11/18/2017 19:38:17","Restart",346,38
+893000,"Toulouse FC","FC Metz","11/18/2017 19:38:27","POSSIBLE_TI",347,38
+893000,"Toulouse FC","FC Metz","11/18/2017 19:38:28","TI1",348,38
+893000,"Toulouse FC","FC Metz","11/18/2017 19:38:49","Restart",349,38
+893000,"Toulouse FC","FC Metz","11/18/2017 19:38:56","AT1",350,38
+893000,"Toulouse FC","FC Metz","11/18/2017 19:39:17","POSSIBLE_CARDS",351,39
+893000,"Toulouse FC","FC Metz","11/18/2017 19:39:23","YC1",352,39
+893000,"Toulouse FC","FC Metz","11/18/2017 19:39:24","CONF_YC1",353,39
+893000,"Toulouse FC","FC Metz","11/18/2017 19:39:26","Scorer",354,39
+893000,"Toulouse FC","FC Metz","11/18/2017 19:39:30","SAFE2",355,39
+893000,"Toulouse FC","FC Metz","11/18/2017 19:39:32","Possible Free Kick",356,39
+893000,"Toulouse FC","FC Metz","11/18/2017 19:39:34","F1",358,39
+893000,"Toulouse FC","FC Metz","11/18/2017 19:39:34","FK2",359,39
+893000,"Toulouse FC","FC Metz","11/18/2017 19:39:34","Ball Position",360,39
+893000,"Toulouse FC","FC Metz","11/18/2017 19:39:40","Injury Break",361,39
+893000,"Toulouse FC","FC Metz","11/18/2017 19:40:07","Scorer",362,39
+893000,"Toulouse FC","FC Metz","11/18/2017 19:40:07","Player_DATA_CONFIRMED",363,39
+893000,"Toulouse FC","FC Metz","11/18/2017 19:41:10","Restart",364,40
+893000,"Toulouse FC","FC Metz","11/18/2017 19:41:12","System Message",365,41
+893000,"Toulouse FC","FC Metz","11/18/2017 19:41:16","Possible Free Kick",366,41
+893000,"Toulouse FC","FC Metz","11/18/2017 19:41:25","F1",368,41
+893000,"Toulouse FC","FC Metz","11/18/2017 19:41:25","FK2",369,41
+893000,"Toulouse FC","FC Metz","11/18/2017 19:41:25","DANGER2",370,41
+893000,"Toulouse FC","FC Metz","11/18/2017 19:41:25","DFK2",371,41
+893000,"Toulouse FC","FC Metz","11/18/2017 19:41:25","Ball Position",372,41
+893000,"Toulouse FC","FC Metz","11/18/2017 19:41:47","Restart",373,41
+893000,"Toulouse FC","FC Metz","11/18/2017 19:41:57","POSSIBLE_CARDS",374,41
+893000,"Toulouse FC","FC Metz","11/18/2017 19:41:59","YC2",375,41
+893000,"Toulouse FC","FC Metz","11/18/2017 19:42:01","CONF_YC2",376,41
+893000,"Toulouse FC","FC Metz","11/18/2017 19:42:03","Scorer",377,41
+893000,"Toulouse FC","FC Metz","11/18/2017 19:42:07","SAFE1",378,41
+893000,"Toulouse FC","FC Metz","11/18/2017 19:42:08","Possible Free Kick",379,41
+893000,"Toulouse FC","FC Metz","11/18/2017 19:42:12","F2",381,42
+893000,"Toulouse FC","FC Metz","11/18/2017 19:42:12","FK1",382,42
+893000,"Toulouse FC","FC Metz","11/18/2017 19:42:12","Ball Position",383,42
+893000,"Toulouse FC","FC Metz","11/18/2017 19:42:13","Restart",384,42
+893000,"Toulouse FC","FC Metz","11/18/2017 19:42:15","AT1",385,42
+893000,"Toulouse FC","FC Metz","11/18/2017 19:42:27","DANGER1",386,42
+893000,"Toulouse FC","FC Metz","11/18/2017 19:42:27","DAT1",387,42
+893000,"Toulouse FC","FC Metz","11/18/2017 19:42:49","SAFE1",388,42
+893000,"Toulouse FC","FC Metz","11/18/2017 19:42:57","AT1",389,42
+893000,"Toulouse FC","FC Metz","11/18/2017 19:43:01","DANGER1",390,42
+893000,"Toulouse FC","FC Metz","11/18/2017 19:43:01","DAT1",391,42
+893000,"Toulouse FC","FC Metz","11/18/2017 19:43:07","Scorer",392,42
+893000,"Toulouse FC","FC Metz","11/18/2017 19:43:07","Player_DATA_CONFIRMED",393,42
+893000,"Toulouse FC","FC Metz","11/18/2017 19:43:09","SHB1",394,42
+893000,"Toulouse FC","FC Metz","11/18/2017 19:43:10","SAFE2",395,42
+893000,"Toulouse FC","FC Metz","11/18/2017 19:43:12","GK2",396,43
+893000,"Toulouse FC","FC Metz","11/18/2017 19:43:30","Restart",397,43
+893000,"Toulouse FC","FC Metz","11/18/2017 19:43:49","AT2",398,43
+893000,"Toulouse FC","FC Metz","11/18/2017 19:43:51","DANGER2",399,43
+893000,"Toulouse FC","FC Metz","11/18/2017 19:43:51","DAT2",400,43
+893000,"Toulouse FC","FC Metz","11/18/2017 19:43:57","SAFE1",401,43
+893000,"Toulouse FC","FC Metz","11/18/2017 19:44:01","AT1",402,43
+893000,"Toulouse FC","FC Metz","11/18/2017 19:44:06","DANGER1",403,43
+893000,"Toulouse FC","FC Metz","11/18/2017 19:44:06","DAT1",404,43
+893000,"Toulouse FC","FC Metz","11/18/2017 19:44:49","SAFE2",405,44
+893000,"Toulouse FC","FC Metz","11/18/2017 19:44:53","GK2",406,44
+893000,"Toulouse FC","FC Metz","11/18/2017 19:45:12","Restart",407,45
+893000,"Toulouse FC","FC Metz","11/18/2017 19:45:21","Possible Free Kick",408,45
+893000,"Toulouse FC","FC Metz","11/18/2017 19:45:23","F1",410,45
+893000,"Toulouse FC","FC Metz","11/18/2017 19:45:23","FK2",411,45
+893000,"Toulouse FC","FC Metz","11/18/2017 19:45:23","DANGER2",412,45
+893000,"Toulouse FC","FC Metz","11/18/2017 19:45:23","DFK2",413,45
+893000,"Toulouse FC","FC Metz","11/18/2017 19:45:23","Ball Position",414,45
+893000,"Toulouse FC","FC Metz","11/18/2017 19:45:34","Restart",415,45
+893000,"Toulouse FC","FC Metz","11/18/2017 19:45:59","SAFE1",416,45
+893000,"Toulouse FC","FC Metz","11/18/2017 19:46:13","AT1",417,46
+893000,"Toulouse FC","FC Metz","11/18/2017 19:46:22","DANGER1",418,46
+893000,"Toulouse FC","FC Metz","11/18/2017 19:46:22","DAT1",419,46
+893000,"Toulouse FC","FC Metz","11/18/2017 19:46:42","SAFE2",420,46
+893000,"Toulouse FC","FC Metz","11/18/2017 19:46:53","Extra Time",421,46
+893000,"Toulouse FC","FC Metz","11/18/2017 19:46:55","SAFE1",422,46
+893000,"Toulouse FC","FC Metz","11/18/2017 19:47:02","Possible Free Kick",423,46
+893000,"Toulouse FC","FC Metz","11/18/2017 19:47:06","F2",425,46
+893000,"Toulouse FC","FC Metz","11/18/2017 19:47:06","FK1",426,46
+893000,"Toulouse FC","FC Metz","11/18/2017 19:47:06","DANGER1",427,46
+893000,"Toulouse FC","FC Metz","11/18/2017 19:47:06","DFK1",428,46
+893000,"Toulouse FC","FC Metz","11/18/2017 19:47:06","Ball Position",429,46
+893000,"Toulouse FC","FC Metz","11/18/2017 19:47:23","Restart",430,47
+893000,"Toulouse FC","FC Metz","11/18/2017 19:47:41","POSSIBLE_TI",431,47
+893000,"Toulouse FC","FC Metz","11/18/2017 19:47:43","TI2",432,47
+893000,"Toulouse FC","FC Metz","11/18/2017 19:47:45","Restart",433,47
+893000,"Toulouse FC","FC Metz","11/18/2017 19:47:52","SAFE2",434,47
+893000,"Toulouse FC","FC Metz","11/18/2017 19:47:55","POSSIBLE_TI",435,47
+893000,"Toulouse FC","FC Metz","11/18/2017 19:47:57","TI2",436,47
+893000,"Toulouse FC","FC Metz","11/18/2017 19:48:07","Restart",437,47
+893000,"Toulouse FC","FC Metz","11/18/2017 19:48:13","Stop RT1",438,47
+893000,"Toulouse FC","FC Metz","11/18/2017 19:48:21","CONF_PERIOD_SCORE",439,45
+893000,"Toulouse FC","FC Metz","11/18/2017 19:48:27","GCC",440,45
+893000,"Toulouse FC","FC Metz","11/18/2017 20:01:37","Players are coming out",441,45
+893000,"Toulouse FC","FC Metz","11/18/2017 20:02:13","Game about to start",442,45
+893000,"Toulouse FC","FC Metz","11/18/2017 20:02:37","Start RT2 Team 2",443,46
+893000,"Toulouse FC","FC Metz","11/18/2017 20:02:46","SAFE1",444,46
+893000,"Toulouse FC","FC Metz","11/18/2017 20:02:48","AT1",445,46
+893000,"Toulouse FC","FC Metz","11/18/2017 20:02:51","SAFE2",446,46
+893000,"Toulouse FC","FC Metz","11/18/2017 20:02:52","Possible Free Kick",447,46
+893000,"Toulouse FC","FC Metz","11/18/2017 20:02:58","O1",449,46
+893000,"Toulouse FC","FC Metz","11/18/2017 20:02:58","FK2",450,46
+893000,"Toulouse FC","FC Metz","11/18/2017 20:02:58","Ball Position",451,46
+893000,"Toulouse FC","FC Metz","11/18/2017 20:03:18","Restart",452,46
+893000,"Toulouse FC","FC Metz","11/18/2017 20:03:23","POSSIBLE_TI",453,46
+893000,"Toulouse FC","FC Metz","11/18/2017 20:03:24","TI2",454,46
+893000,"Toulouse FC","FC Metz","11/18/2017 20:03:30","Restart",455,46
+893000,"Toulouse FC","FC Metz","11/18/2017 20:03:34","POSSIBLE_TI",456,46
+893000,"Toulouse FC","FC Metz","11/18/2017 20:03:35","TI1",457,46
+893000,"Toulouse FC","FC Metz","11/18/2017 20:03:38","Restart",458,47
+893000,"Toulouse FC","FC Metz","11/18/2017 20:03:53","AT1",459,47
+893000,"Toulouse FC","FC Metz","11/18/2017 20:04:28","DANGER1",460,47
+893000,"Toulouse FC","FC Metz","11/18/2017 20:04:28","DAT1",461,47
+893000,"Toulouse FC","FC Metz","11/18/2017 20:04:43","POSSIBLE_TI",462,48
+893000,"Toulouse FC","FC Metz","11/18/2017 20:04:45","TI1",463,48
+893000,"Toulouse FC","FC Metz","11/18/2017 20:04:47","Restart",464,48
+893000,"Toulouse FC","FC Metz","11/18/2017 20:05:01","POSSIBLE_TI",465,48
+893000,"Toulouse FC","FC Metz","11/18/2017 20:05:03","TI2",466,48
+893000,"Toulouse FC","FC Metz","11/18/2017 20:05:04","Restart",467,48
+893000,"Toulouse FC","FC Metz","11/18/2017 20:05:13","SAFE1",468,48
+893000,"Toulouse FC","FC Metz","11/18/2017 20:05:17","AT1",469,48
+893000,"Toulouse FC","FC Metz","11/18/2017 20:05:38","DANGER1",470,49
+893000,"Toulouse FC","FC Metz","11/18/2017 20:05:38","DAT1",471,49
+893000,"Toulouse FC","FC Metz","11/18/2017 20:05:52","POSSIBLE_TI",472,49
+893000,"Toulouse FC","FC Metz","11/18/2017 20:05:53","TI1",473,49
+893000,"Toulouse FC","FC Metz","11/18/2017 20:05:57","Restart",474,49
+893000,"Toulouse FC","FC Metz","11/18/2017 20:06:08","SHB1",475,49
+893000,"Toulouse FC","FC Metz","11/18/2017 20:06:10","SAFE2",476,49
+893000,"Toulouse FC","FC Metz","11/18/2017 20:06:11","GK2",477,49
+893000,"Toulouse FC","FC Metz","11/18/2017 20:06:30","Restart",478,49
+893000,"Toulouse FC","FC Metz","11/18/2017 20:06:39","AT1",479,50
+893000,"Toulouse FC","FC Metz","11/18/2017 20:06:39","DANGER1",480,50
+893000,"Toulouse FC","FC Metz","11/18/2017 20:06:39","DAT1",481,50
+893000,"Toulouse FC","FC Metz","11/18/2017 20:06:41","PCR1",482,50
+893000,"Toulouse FC","FC Metz","11/18/2017 20:06:45","CR1",483,50
+893000,"Toulouse FC","FC Metz","11/18/2017 20:06:48","Ball Position",484,50
+893000,"Toulouse FC","FC Metz","11/18/2017 20:07:06","Restart",485,50
+893000,"Toulouse FC","FC Metz","11/18/2017 20:07:31","SAFE1",486,50
+893000,"Toulouse FC","FC Metz","11/18/2017 20:07:39","AT1",487,51
+893000,"Toulouse FC","FC Metz","11/18/2017 20:07:43","DANGER1",488,51
+893000,"Toulouse FC","FC Metz","11/18/2017 20:07:43","DAT1",489,51
+893000,"Toulouse FC","FC Metz","11/18/2017 20:07:47","POSSIBLE_TI",490,51
+893000,"Toulouse FC","FC Metz","11/18/2017 20:07:48","TI1",491,51
+893000,"Toulouse FC","FC Metz","11/18/2017 20:07:51","Restart",492,51
+893000,"Toulouse FC","FC Metz","11/18/2017 20:08:03","SAFE2",493,51
+893000,"Toulouse FC","FC Metz","11/18/2017 20:08:25","POSSIBLE_CARDS",494,51
+893000,"Toulouse FC","FC Metz","11/18/2017 20:08:30","YC2",495,51
+893000,"Toulouse FC","FC Metz","11/18/2017 20:08:31","CONF_YC2",496,51
+893000,"Toulouse FC","FC Metz","11/18/2017 20:08:33","Scorer",497,51
+893000,"Toulouse FC","FC Metz","11/18/2017 20:08:37","Possible Free Kick",498,52
+893000,"Toulouse FC","FC Metz","11/18/2017 20:08:39","SAFE1",500,52
+893000,"Toulouse FC","FC Metz","11/18/2017 20:08:39","F2",501,52
+893000,"Toulouse FC","FC Metz","11/18/2017 20:08:39","FK1",502,52
+893000,"Toulouse FC","FC Metz","11/18/2017 20:08:39","Ball Position",503,52
+893000,"Toulouse FC","FC Metz","11/18/2017 20:08:51","Restart",504,52
+893000,"Toulouse FC","FC Metz","11/18/2017 20:09:07","Scorer",505,52
+893000,"Toulouse FC","FC Metz","11/18/2017 20:09:07","Player_DATA_CONFIRMED",506,52
+893000,"Toulouse FC","FC Metz","11/18/2017 20:09:15","AT1",507,52
+893000,"Toulouse FC","FC Metz","11/18/2017 20:09:24","DANGER1",508,52
+893000,"Toulouse FC","FC Metz","11/18/2017 20:09:24","DAT1",509,52
+893000,"Toulouse FC","FC Metz","11/18/2017 20:09:26","POSSIBLE_TI",510,52
+893000,"Toulouse FC","FC Metz","11/18/2017 20:09:27","TI1",511,52
+893000,"Toulouse FC","FC Metz","11/18/2017 20:09:46","Restart",512,53
+893000,"Toulouse FC","FC Metz","11/18/2017 20:09:49","POSSIBLE_TI",513,53
+893000,"Toulouse FC","FC Metz","11/18/2017 20:09:50","TI1",514,53
+893000,"Toulouse FC","FC Metz","11/18/2017 20:09:58","Restart",515,53
+893000,"Toulouse FC","FC Metz","11/18/2017 20:10:02","PCR1",516,53
+893000,"Toulouse FC","FC Metz","11/18/2017 20:10:06","CR1",517,53
+893000,"Toulouse FC","FC Metz","11/18/2017 20:10:09","Ball Position",518,53
+893000,"Toulouse FC","FC Metz","11/18/2017 20:10:26","Restart",519,53
+893000,"Toulouse FC","FC Metz","11/18/2017 20:10:32","SAFE1",520,53
+893000,"Toulouse FC","FC Metz","11/18/2017 20:10:41","AT1",521,54
+893000,"Toulouse FC","FC Metz","11/18/2017 20:10:43","DANGER1",522,54
+893000,"Toulouse FC","FC Metz","11/18/2017 20:10:43","DAT1",523,54
+893000,"Toulouse FC","FC Metz","11/18/2017 20:10:49","PCR1",524,54
+893000,"Toulouse FC","FC Metz","11/18/2017 20:10:51","CR1",525,54
+893000,"Toulouse FC","FC Metz","11/18/2017 20:10:54","Ball Position",526,54
+893000,"Toulouse FC","FC Metz","11/18/2017 20:10:56","Restart",527,54
+893000,"Toulouse FC","FC Metz","11/18/2017 20:11:02","SAFE2",528,54
+893000,"Toulouse FC","FC Metz","11/18/2017 20:11:03","Possible Free Kick",529,54
+893000,"Toulouse FC","FC Metz","11/18/2017 20:11:08","O1",531,54
+893000,"Toulouse FC","FC Metz","11/18/2017 20:11:08","FK2",532,54
+893000,"Toulouse FC","FC Metz","11/18/2017 20:11:08","Ball Position",533,54
+893000,"Toulouse FC","FC Metz","11/18/2017 20:11:27","Restart",534,54
+893000,"Toulouse FC","FC Metz","11/18/2017 20:11:40","SAFE1",535,55
+893000,"Toulouse FC","FC Metz","11/18/2017 20:11:44","AT1",536,55
+893000,"Toulouse FC","FC Metz","11/18/2017 20:11:45","DANGER1",537,55
+893000,"Toulouse FC","FC Metz","11/18/2017 20:11:45","DAT1",538,55
+893000,"Toulouse FC","FC Metz","11/18/2017 20:11:55","SAFE2",539,55
+893000,"Toulouse FC","FC Metz","11/18/2017 20:11:56","AT2",540,55
+893000,"Toulouse FC","FC Metz","11/18/2017 20:11:57","DANGER2",541,55
+893000,"Toulouse FC","FC Metz","11/18/2017 20:11:57","DAT2",542,55
+893000,"Toulouse FC","FC Metz","11/18/2017 20:12:02","PCR2",543,55
+893000,"Toulouse FC","FC Metz","11/18/2017 20:12:11","CR2",544,55
+893000,"Toulouse FC","FC Metz","11/18/2017 20:12:12","Ball Position",545,55
+893000,"Toulouse FC","FC Metz","11/18/2017 20:12:29","Restart",546,55
+893000,"Toulouse FC","FC Metz","11/18/2017 20:12:38","SAFE1",547,56
+893000,"Toulouse FC","FC Metz","11/18/2017 20:12:39","GK1",548,56
+893000,"Toulouse FC","FC Metz","11/18/2017 20:12:58","Restart",549,56
+893000,"Toulouse FC","FC Metz","11/18/2017 20:13:06","AT1",550,56
+893000,"Toulouse FC","FC Metz","11/18/2017 20:13:08","DANGER1",551,56
+893000,"Toulouse FC","FC Metz","11/18/2017 20:13:08","DAT1",552,56
+893000,"Toulouse FC","FC Metz","11/18/2017 20:13:15","SAFE2",553,56
+893000,"Toulouse FC","FC Metz","11/18/2017 20:13:44","Possible Free Kick",554,57
+893000,"Toulouse FC","FC Metz","11/18/2017 20:13:47","F1",556,57
+893000,"Toulouse FC","FC Metz","11/18/2017 20:13:47","FK2",557,57
+893000,"Toulouse FC","FC Metz","11/18/2017 20:13:47","DANGER2",558,57
+893000,"Toulouse FC","FC Metz","11/18/2017 20:13:47","DFK2",559,57
+893000,"Toulouse FC","FC Metz","11/18/2017 20:13:47","Ball Position",560,57
+893000,"Toulouse FC","FC Metz","11/18/2017 20:13:55","Restart",561,57
+893000,"Toulouse FC","FC Metz","11/18/2017 20:14:06","SAFE1",562,57
+893000,"Toulouse FC","FC Metz","11/18/2017 20:14:07","GK1",563,57
+893000,"Toulouse FC","FC Metz","11/18/2017 20:14:12","Restart",564,57
+893000,"Toulouse FC","FC Metz","11/18/2017 20:14:19","AT1",565,57
+893000,"Toulouse FC","FC Metz","11/18/2017 20:14:22","DANGER1",566,57
+893000,"Toulouse FC","FC Metz","11/18/2017 20:14:22","DAT1",567,57
+893000,"Toulouse FC","FC Metz","11/18/2017 20:14:34","SAFE2",568,57
+893000,"Toulouse FC","FC Metz","11/18/2017 20:14:36","GK2",569,57
+893000,"Toulouse FC","FC Metz","11/18/2017 20:15:03","Restart",570,58
+893000,"Toulouse FC","FC Metz","11/18/2017 20:15:15","AT2",571,58
+893000,"Toulouse FC","FC Metz","11/18/2017 20:15:19","DANGER2",572,58
+893000,"Toulouse FC","FC Metz","11/18/2017 20:15:19","DAT2",573,58
+893000,"Toulouse FC","FC Metz","11/18/2017 20:15:39","SAFE1",574,59
+893000,"Toulouse FC","FC Metz","11/18/2017 20:15:41","GK1",575,59
+893000,"Toulouse FC","FC Metz","11/18/2017 20:15:43","Restart",576,59
+893000,"Toulouse FC","FC Metz","11/18/2017 20:15:50","AT1",577,59
+893000,"Toulouse FC","FC Metz","11/18/2017 20:15:55","DANGER1",578,59
+893000,"Toulouse FC","FC Metz","11/18/2017 20:15:55","DAT1",579,59
+893000,"Toulouse FC","FC Metz","11/18/2017 20:15:58","SAFE2",580,59
+893000,"Toulouse FC","FC Metz","11/18/2017 20:16:22","AT1",581,59
+893000,"Toulouse FC","FC Metz","11/18/2017 20:16:26","Possible Free Kick",582,59
+893000,"Toulouse FC","FC Metz","11/18/2017 20:16:36","F2",584,59
+893000,"Toulouse FC","FC Metz","11/18/2017 20:16:36","FK1",585,59
+893000,"Toulouse FC","FC Metz","11/18/2017 20:16:36","DANGER1",586,59
+893000,"Toulouse FC","FC Metz","11/18/2017 20:16:36","DFK1",587,59
+893000,"Toulouse FC","FC Metz","11/18/2017 20:16:36","Ball Position",588,59
+893000,"Toulouse FC","FC Metz","11/18/2017 20:16:59","Restart",589,60
+893000,"Toulouse FC","FC Metz","11/18/2017 20:17:08","SAFE2",590,60
+893000,"Toulouse FC","FC Metz","11/18/2017 20:17:16","Possible Free Kick",591,60
+893000,"Toulouse FC","FC Metz","11/18/2017 20:17:18","F1",593,60
+893000,"Toulouse FC","FC Metz","11/18/2017 20:17:18","FK2",594,60
+893000,"Toulouse FC","FC Metz","11/18/2017 20:17:18","Ball Position",595,60
+893000,"Toulouse FC","FC Metz","11/18/2017 20:17:39","Restart",596,61
+893000,"Toulouse FC","FC Metz","11/18/2017 20:17:41","AT2",597,61
+893000,"Toulouse FC","FC Metz","11/18/2017 20:17:42","DANGER2",598,61
+893000,"Toulouse FC","FC Metz","11/18/2017 20:17:42","DAT2",599,61
+893000,"Toulouse FC","FC Metz","11/18/2017 20:17:48","POSSIBLE_TI",600,61
+893000,"Toulouse FC","FC Metz","11/18/2017 20:17:51","TI2",601,61
+893000,"Toulouse FC","FC Metz","11/18/2017 20:18:05","Restart",602,61
+893000,"Toulouse FC","FC Metz","11/18/2017 20:18:15","SAFE2",603,61
+893000,"Toulouse FC","FC Metz","11/18/2017 20:18:37","SAFE1",604,62
+893000,"Toulouse FC","FC Metz","11/18/2017 20:18:38","POSSIBLE_TI",605,62
+893000,"Toulouse FC","FC Metz","11/18/2017 20:18:41","TI1",606,62
+893000,"Toulouse FC","FC Metz","11/18/2017 20:18:45","Restart",607,62
+893000,"Toulouse FC","FC Metz","11/18/2017 20:18:48","AT1",608,62
+893000,"Toulouse FC","FC Metz","11/18/2017 20:18:51","DANGER1",609,62
+893000,"Toulouse FC","FC Metz","11/18/2017 20:18:51","DAT1",610,62
+893000,"Toulouse FC","FC Metz","11/18/2017 20:19:18","SHB1",611,62
+893000,"Toulouse FC","FC Metz","11/18/2017 20:19:21","SAFE2",612,62
+893000,"Toulouse FC","FC Metz","11/18/2017 20:19:23","GK2",613,62
+893000,"Toulouse FC","FC Metz","11/18/2017 20:19:53","Restart",614,63
+893000,"Toulouse FC","FC Metz","11/18/2017 20:19:57","SAFE1",615,63
+893000,"Toulouse FC","FC Metz","11/18/2017 20:19:58","Possible Free Kick",616,63
+893000,"Toulouse FC","FC Metz","11/18/2017 20:20:03","F2",618,63
+893000,"Toulouse FC","FC Metz","11/18/2017 20:20:03","FK1",619,63
+893000,"Toulouse FC","FC Metz","11/18/2017 20:20:03","Ball Position",620,63
+893000,"Toulouse FC","FC Metz","11/18/2017 20:20:25","SUB1",621,63
+893000,"Toulouse FC","FC Metz","11/18/2017 20:20:40","Restart",622,64
+893000,"Toulouse FC","FC Metz","11/18/2017 20:20:58","SAFE2",623,64
+893000,"Toulouse FC","FC Metz","11/18/2017 20:20:59","POSSIBLE_TI",624,64
+893000,"Toulouse FC","FC Metz","11/18/2017 20:21:01","TI2",625,64
+893000,"Toulouse FC","FC Metz","11/18/2017 20:21:07","Player_DATA_CONFIRMED",626,64
+893000,"Toulouse FC","FC Metz","11/18/2017 20:21:09","Restart",627,64
+893000,"Toulouse FC","FC Metz","11/18/2017 20:21:20","SAFE1",628,64
+893000,"Toulouse FC","FC Metz","11/18/2017 20:21:23","AT1",629,64
+893000,"Toulouse FC","FC Metz","11/18/2017 20:21:28","SAFE2",630,64
+893000,"Toulouse FC","FC Metz","11/18/2017 20:21:30","AT2",631,64
+893000,"Toulouse FC","FC Metz","11/18/2017 20:21:32","DANGER2",632,64
+893000,"Toulouse FC","FC Metz","11/18/2017 20:21:32","DAT2",633,64
+893000,"Toulouse FC","FC Metz","11/18/2017 20:21:37","SAFE1",634,65
+893000,"Toulouse FC","FC Metz","11/18/2017 20:21:45","AT1",635,65
+893000,"Toulouse FC","FC Metz","11/18/2017 20:21:52","DANGER1",636,65
+893000,"Toulouse FC","FC Metz","11/18/2017 20:21:52","DAT1",637,65
+893000,"Toulouse FC","FC Metz","11/18/2017 20:21:59","SAFE2",638,65
+893000,"Toulouse FC","FC Metz","11/18/2017 20:22:21","SAFE1",639,65
+893000,"Toulouse FC","FC Metz","11/18/2017 20:22:29","AT1",640,65
+893000,"Toulouse FC","FC Metz","11/18/2017 20:22:43","DANGER1",641,66
+893000,"Toulouse FC","FC Metz","11/18/2017 20:22:43","DAT1",642,66
+893000,"Toulouse FC","FC Metz","11/18/2017 20:22:57","POSSIBLE_TI",643,66
+893000,"Toulouse FC","FC Metz","11/18/2017 20:22:59","TI1",644,66
+893000,"Toulouse FC","FC Metz","11/18/2017 20:22:59","Restart",645,66
+893000,"Toulouse FC","FC Metz","11/18/2017 20:23:10","SAFE1",646,66
+893000,"Toulouse FC","FC Metz","11/18/2017 20:23:13","AT1",647,66
+893000,"Toulouse FC","FC Metz","11/18/2017 20:23:15","DANGER1",648,66
+893000,"Toulouse FC","FC Metz","11/18/2017 20:23:15","DAT1",649,66
+893000,"Toulouse FC","FC Metz","11/18/2017 20:23:21","POSSIBLE_TI",650,66
+893000,"Toulouse FC","FC Metz","11/18/2017 20:23:23","TI1",651,66
+893000,"Toulouse FC","FC Metz","11/18/2017 20:23:32","Restart",652,66
+893000,"Toulouse FC","FC Metz","11/18/2017 20:23:42","POSSIBLE_TI",653,67
+893000,"Toulouse FC","FC Metz","11/18/2017 20:23:43","TI1",654,67
+893000,"Toulouse FC","FC Metz","11/18/2017 20:24:02","SUB1",655,67
+893000,"Toulouse FC","FC Metz","11/18/2017 20:24:15","Restart",656,67
+893000,"Toulouse FC","FC Metz","11/18/2017 20:24:20","PCR1",657,67
+893000,"Toulouse FC","FC Metz","11/18/2017 20:24:27","CR1",658,67
+893000,"Toulouse FC","FC Metz","11/18/2017 20:24:30","Ball Position",659,67
+893000,"Toulouse FC","FC Metz","11/18/2017 20:24:39","Player_DATA_CONFIRMED",660,68
+893000,"Toulouse FC","FC Metz","11/18/2017 20:24:45","Restart",661,68
+893000,"Toulouse FC","FC Metz","11/18/2017 20:24:55","SHW1",662,68
+893000,"Toulouse FC","FC Metz","11/18/2017 20:25:05","SHB1",663,68
+893000,"Toulouse FC","FC Metz","11/18/2017 20:25:06","SAFE2",664,68
+893000,"Toulouse FC","FC Metz","11/18/2017 20:25:08","GK2",665,68
+893000,"Toulouse FC","FC Metz","11/18/2017 20:25:35","Restart",666,68
+893000,"Toulouse FC","FC Metz","11/18/2017 20:25:56","Possible Free Kick",667,69
+893000,"Toulouse FC","FC Metz","11/18/2017 20:26:02","F1",669,69
+893000,"Toulouse FC","FC Metz","11/18/2017 20:26:02","FK2",670,69
+893000,"Toulouse FC","FC Metz","11/18/2017 20:26:02","Ball Position",671,69
+893000,"Toulouse FC","FC Metz","11/18/2017 20:26:21","Restart",672,69
+893000,"Toulouse FC","FC Metz","11/18/2017 20:26:22","AT2",673,69
+893000,"Toulouse FC","FC Metz","11/18/2017 20:26:38","SAFE1",674,70
+893000,"Toulouse FC","FC Metz","11/18/2017 20:26:40","Possible Free Kick",675,70
+893000,"Toulouse FC","FC Metz","11/18/2017 20:26:45","O2",677,70
+893000,"Toulouse FC","FC Metz","11/18/2017 20:26:45","FK1",678,70
+893000,"Toulouse FC","FC Metz","11/18/2017 20:26:46","Ball Position",679,70
+893000,"Toulouse FC","FC Metz","11/18/2017 20:26:47","Restart",680,70
+893000,"Toulouse FC","FC Metz","11/18/2017 20:26:56","AT1",681,70
+893000,"Toulouse FC","FC Metz","11/18/2017 20:27:02","SAFE1",682,70
+893000,"Toulouse FC","FC Metz","11/18/2017 20:27:10","AT1",683,70
+893000,"Toulouse FC","FC Metz","11/18/2017 20:27:18","SAFE2",684,70
+893000,"Toulouse FC","FC Metz","11/18/2017 20:27:27","SAFE1",685,70
+893000,"Toulouse FC","FC Metz","11/18/2017 20:27:29","AT1",686,70
+893000,"Toulouse FC","FC Metz","11/18/2017 20:27:34","DANGER1",687,70
+893000,"Toulouse FC","FC Metz","11/18/2017 20:27:34","DAT1",688,70
+893000,"Toulouse FC","FC Metz","11/18/2017 20:27:49","SAFE2",689,71
+893000,"Toulouse FC","FC Metz","11/18/2017 20:28:10","SAFE1",690,71
+893000,"Toulouse FC","FC Metz","11/18/2017 20:28:22","AT1",691,71
+893000,"Toulouse FC","FC Metz","11/18/2017 20:28:25","DANGER1",692,71
+893000,"Toulouse FC","FC Metz","11/18/2017 20:28:25","DAT1",693,71
+893000,"Toulouse FC","FC Metz","11/18/2017 20:28:31","SAFE2",694,71
+893000,"Toulouse FC","FC Metz","11/18/2017 20:28:33","GK2",695,71
+893000,"Toulouse FC","FC Metz","11/18/2017 20:28:43","POSSIBLE_CARDS",696,72
+893000,"Toulouse FC","FC Metz","11/18/2017 20:28:46","YC1",697,72
+893000,"Toulouse FC","FC Metz","11/18/2017 20:28:53","CONF_YC1",698,72
+893000,"Toulouse FC","FC Metz","11/18/2017 20:28:53","Scorer",699,72
+893000,"Toulouse FC","FC Metz","11/18/2017 20:29:00","Restart",700,72
+893000,"Toulouse FC","FC Metz","11/18/2017 20:29:13","SAFE2",701,72
+893000,"Toulouse FC","FC Metz","11/18/2017 20:29:14","POSSIBLE_TI",702,72
+893000,"Toulouse FC","FC Metz","11/18/2017 20:29:16","TI2",703,72
+893000,"Toulouse FC","FC Metz","11/18/2017 20:29:22","Restart",704,72
+893000,"Toulouse FC","FC Metz","11/18/2017 20:29:27","AT2",705,72
+893000,"Toulouse FC","FC Metz","11/18/2017 20:29:28","DANGER2",706,72
+893000,"Toulouse FC","FC Metz","11/18/2017 20:29:28","DAT2",707,72
+893000,"Toulouse FC","FC Metz","11/18/2017 20:29:35","SAFE1",708,72
+893000,"Toulouse FC","FC Metz","11/18/2017 20:29:37","Scorer",709,73
+893000,"Toulouse FC","FC Metz","11/18/2017 20:29:37","Player_DATA_CONFIRMED",710,73
+893000,"Toulouse FC","FC Metz","11/18/2017 20:29:49","AT1",711,73
+893000,"Toulouse FC","FC Metz","11/18/2017 20:29:51","DANGER1",712,73
+893000,"Toulouse FC","FC Metz","11/18/2017 20:29:51","DAT1",713,73
+893000,"Toulouse FC","FC Metz","11/18/2017 20:30:03","SAFE2",714,73
+893000,"Toulouse FC","FC Metz","11/18/2017 20:30:05","Possible Free Kick",715,73
+893000,"Toulouse FC","FC Metz","11/18/2017 20:30:08","F1",717,73
+893000,"Toulouse FC","FC Metz","11/18/2017 20:30:08","FK2",718,73
+893000,"Toulouse FC","FC Metz","11/18/2017 20:30:08","Ball Position",719,73
+893000,"Toulouse FC","FC Metz","11/18/2017 20:30:27","Restart",720,73
+893000,"Toulouse FC","FC Metz","11/18/2017 20:30:33","AT2",721,73
+893000,"Toulouse FC","FC Metz","11/18/2017 20:30:35","DANGER2",722,73
+893000,"Toulouse FC","FC Metz","11/18/2017 20:30:35","DAT2",723,73
+893000,"Toulouse FC","FC Metz","11/18/2017 20:30:39","POSSIBLE_TI",724,74
+893000,"Toulouse FC","FC Metz","11/18/2017 20:30:42","TI2",725,74
+893000,"Toulouse FC","FC Metz","11/18/2017 20:30:53","Restart",726,74
+893000,"Toulouse FC","FC Metz","11/18/2017 20:31:02","Possible Free Kick",727,74
+893000,"Toulouse FC","FC Metz","11/18/2017 20:31:06","F1",729,74
+893000,"Toulouse FC","FC Metz","11/18/2017 20:31:06","FK2",730,74
+893000,"Toulouse FC","FC Metz","11/18/2017 20:31:06","DFK2",731,74
+893000,"Toulouse FC","FC Metz","11/18/2017 20:31:06","Ball Position",732,74
+893000,"Toulouse FC","FC Metz","11/18/2017 20:31:21","Restart",733,74
+893000,"Toulouse FC","FC Metz","11/18/2017 20:31:31","SHB2",734,74
+893000,"Toulouse FC","FC Metz","11/18/2017 20:31:32","SAFE1",735,74
+893000,"Toulouse FC","FC Metz","11/18/2017 20:31:34","GK1",736,74
+893000,"Toulouse FC","FC Metz","11/18/2017 20:31:54","SUB1",737,75
+893000,"Toulouse FC","FC Metz","11/18/2017 20:32:00","Restart",738,75
+893000,"Toulouse FC","FC Metz","11/18/2017 20:32:26","AT1",739,75
+893000,"Toulouse FC","FC Metz","11/18/2017 20:32:32","DANGER1",740,75
+893000,"Toulouse FC","FC Metz","11/18/2017 20:32:32","DAT1",741,75
+893000,"Toulouse FC","FC Metz","11/18/2017 20:32:37","Player_DATA_CONFIRMED",742,76
+893000,"Toulouse FC","FC Metz","11/18/2017 20:32:39","SAFE2",743,76
+893000,"Toulouse FC","FC Metz","11/18/2017 20:32:40","AT2",744,76
+893000,"Toulouse FC","FC Metz","11/18/2017 20:32:49","DANGER2",745,76
+893000,"Toulouse FC","FC Metz","11/18/2017 20:32:49","DAT2",746,76
+893000,"Toulouse FC","FC Metz","11/18/2017 20:33:00","SHB2",747,76
+893000,"Toulouse FC","FC Metz","11/18/2017 20:33:03","SAFE1",748,76
+893000,"Toulouse FC","FC Metz","11/18/2017 20:33:05","GK1",749,76
+893000,"Toulouse FC","FC Metz","11/18/2017 20:33:07","Restart",750,76
+893000,"Toulouse FC","FC Metz","11/18/2017 20:33:25","SAFE2",751,76
+893000,"Toulouse FC","FC Metz","11/18/2017 20:33:33","SAFE1",752,76
+893000,"Toulouse FC","FC Metz","11/18/2017 20:33:34","AT1",753,76
+893000,"Toulouse FC","FC Metz","11/18/2017 20:33:39","DANGER1",754,77
+893000,"Toulouse FC","FC Metz","11/18/2017 20:33:39","DAT1",755,77
+893000,"Toulouse FC","FC Metz","11/18/2017 20:33:44","SHB1",756,77
+893000,"Toulouse FC","FC Metz","11/18/2017 20:33:48","SAFE2",757,77
+893000,"Toulouse FC","FC Metz","11/18/2017 20:33:50","GK2",758,77
+893000,"Toulouse FC","FC Metz","11/18/2017 20:34:11","Restart",759,77
+893000,"Toulouse FC","FC Metz","11/18/2017 20:34:32","SAFE1",760,77
+893000,"Toulouse FC","FC Metz","11/18/2017 20:34:38","AT1",761,78
+893000,"Toulouse FC","FC Metz","11/18/2017 20:34:42","DANGER1",762,78
+893000,"Toulouse FC","FC Metz","11/18/2017 20:34:42","DAT1",763,78
+893000,"Toulouse FC","FC Metz","11/18/2017 20:34:51","SAFE2",764,78
+893000,"Toulouse FC","FC Metz","11/18/2017 20:34:53","Possible Free Kick",765,78
+893000,"Toulouse FC","FC Metz","11/18/2017 20:34:57","F1",767,78
+893000,"Toulouse FC","FC Metz","11/18/2017 20:34:57","FK2",768,78
+893000,"Toulouse FC","FC Metz","11/18/2017 20:34:57","Ball Position",769,78
+893000,"Toulouse FC","FC Metz","11/18/2017 20:35:15","Restart",770,78
+893000,"Toulouse FC","FC Metz","11/18/2017 20:35:25","Possible Free Kick",771,78
+893000,"Toulouse FC","FC Metz","11/18/2017 20:35:29","SAFE1",773,78
+893000,"Toulouse FC","FC Metz","11/18/2017 20:35:29","F2",774,78
+893000,"Toulouse FC","FC Metz","11/18/2017 20:35:29","FK1",775,78
+893000,"Toulouse FC","FC Metz","11/18/2017 20:35:29","Ball Position",776,78
+893000,"Toulouse FC","FC Metz","11/18/2017 20:35:30","Restart",777,78
+893000,"Toulouse FC","FC Metz","11/18/2017 20:35:32","Possible Free Kick",778,78
+893000,"Toulouse FC","FC Metz","11/18/2017 20:35:37","F2",780,78
+893000,"Toulouse FC","FC Metz","11/18/2017 20:35:37","FK1",781,78
+893000,"Toulouse FC","FC Metz","11/18/2017 20:35:37","DANGER1",782,78
+893000,"Toulouse FC","FC Metz","11/18/2017 20:35:37","DFK1",783,78
+893000,"Toulouse FC","FC Metz","11/18/2017 20:35:37","Ball Position",784,78
+893000,"Toulouse FC","FC Metz","11/18/2017 20:35:39","Restart",785,79
+893000,"Toulouse FC","FC Metz","11/18/2017 20:35:57","GOAL1",786,79
+893000,"Toulouse FC","FC Metz","11/18/2017 20:36:03","CGOAL1",787,79
+893000,"Toulouse FC","FC Metz","11/18/2017 20:36:05","PCR1",788,79
+893000,"Toulouse FC","FC Metz","11/18/2017 20:36:10","CR1",789,79
+893000,"Toulouse FC","FC Metz","11/18/2017 20:36:13","Ball Position",790,79
+893000,"Toulouse FC","FC Metz","11/18/2017 20:36:16","Restart",791,79
+893000,"Toulouse FC","FC Metz","11/18/2017 20:36:16","System Message",792,79
+893000,"Toulouse FC","FC Metz","11/18/2017 20:36:31","SHB1",793,79
+893000,"Toulouse FC","FC Metz","11/18/2017 20:36:34","SAFE2",794,79
+893000,"Toulouse FC","FC Metz","11/18/2017 20:36:39","GK2",795,80
+893000,"Toulouse FC","FC Metz","11/18/2017 20:36:43","Restart",796,80
+893000,"Toulouse FC","FC Metz","11/18/2017 20:36:47","System Message",797,80
+893000,"Toulouse FC","FC Metz","11/18/2017 20:36:49","System Message",798,80
+893000,"Toulouse FC","FC Metz","11/18/2017 20:37:09","AT1",799,80
+893000,"Toulouse FC","FC Metz","11/18/2017 20:37:10","DANGER1",800,80
+893000,"Toulouse FC","FC Metz","11/18/2017 20:37:10","DAT1",801,80
+893000,"Toulouse FC","FC Metz","11/18/2017 20:37:18","SAFE2",802,80
+893000,"Toulouse FC","FC Metz","11/18/2017 20:37:25","SAFE1",803,80
+893000,"Toulouse FC","FC Metz","11/18/2017 20:37:27","AT1",804,80
+893000,"Toulouse FC","FC Metz","11/18/2017 20:37:32","DANGER1",805,80
+893000,"Toulouse FC","FC Metz","11/18/2017 20:37:32","DAT1",806,80
+893000,"Toulouse FC","FC Metz","11/18/2017 20:37:41","SHB1",807,81
+893000,"Toulouse FC","FC Metz","11/18/2017 20:37:42","SAFE2",808,81
+893000,"Toulouse FC","FC Metz","11/18/2017 20:37:43","GK2",809,81
+893000,"Toulouse FC","FC Metz","11/18/2017 20:38:04","Restart",810,81
+893000,"Toulouse FC","FC Metz","11/18/2017 20:38:15","SAFE2",811,81
+893000,"Toulouse FC","FC Metz","11/18/2017 20:38:16","Possible Free Kick",812,81
+893000,"Toulouse FC","FC Metz","11/18/2017 20:38:20","F1",814,81
+893000,"Toulouse FC","FC Metz","11/18/2017 20:38:20","FK2",815,81
+893000,"Toulouse FC","FC Metz","11/18/2017 20:38:20","DANGER2",816,81
+893000,"Toulouse FC","FC Metz","11/18/2017 20:38:20","DFK2",817,81
+893000,"Toulouse FC","FC Metz","11/18/2017 20:38:20","Ball Position",818,81
+893000,"Toulouse FC","FC Metz","11/18/2017 20:38:43","Restart",819,82
+893000,"Toulouse FC","FC Metz","11/18/2017 20:38:49","PCR2",820,82
+893000,"Toulouse FC","FC Metz","11/18/2017 20:38:54","SHB2",821,82
+893000,"Toulouse FC","FC Metz","11/18/2017 20:38:57","CR2",822,82
+893000,"Toulouse FC","FC Metz","11/18/2017 20:39:02","Ball Position",823,82
+893000,"Toulouse FC","FC Metz","11/18/2017 20:39:15","Restart",824,82
+893000,"Toulouse FC","FC Metz","11/18/2017 20:39:43","SAFE1",825,83
+893000,"Toulouse FC","FC Metz","11/18/2017 20:39:47","AT1",826,83
+893000,"Toulouse FC","FC Metz","11/18/2017 20:39:53","SAFE2",827,83
+893000,"Toulouse FC","FC Metz","11/18/2017 20:39:55","AT2",828,83
+893000,"Toulouse FC","FC Metz","11/18/2017 20:39:56","DANGER2",829,83
+893000,"Toulouse FC","FC Metz","11/18/2017 20:39:56","DAT2",830,83
+893000,"Toulouse FC","FC Metz","11/18/2017 20:40:07","SHG2",831,83
+893000,"Toulouse FC","FC Metz","11/18/2017 20:40:11","SHG2",832,83
+893000,"Toulouse FC","FC Metz","11/18/2017 20:40:13","SAFE1",833,83
+893000,"Toulouse FC","FC Metz","11/18/2017 20:40:18","AT1",834,83
+893000,"Toulouse FC","FC Metz","11/18/2017 20:40:20","DANGER1",835,83
+893000,"Toulouse FC","FC Metz","11/18/2017 20:40:20","DAT1",836,83
+893000,"Toulouse FC","FC Metz","11/18/2017 20:40:39","SAFE2",837,84
+893000,"Toulouse FC","FC Metz","11/18/2017 20:40:41","AT2",838,84
+893000,"Toulouse FC","FC Metz","11/18/2017 20:40:51","DANGER2",839,84
+893000,"Toulouse FC","FC Metz","11/18/2017 20:40:51","DAT2",840,84
+893000,"Toulouse FC","FC Metz","11/18/2017 20:41:20","SAFE1",841,84
+893000,"Toulouse FC","FC Metz","11/18/2017 20:41:37","AT1",842,85
+893000,"Toulouse FC","FC Metz","11/18/2017 20:41:38","DANGER1",843,85
+893000,"Toulouse FC","FC Metz","11/18/2017 20:41:38","DAT1",844,85
+893000,"Toulouse FC","FC Metz","11/18/2017 20:42:35","SAFE2",845,85
+893000,"Toulouse FC","FC Metz","11/18/2017 20:42:43","AT2",846,86
+893000,"Toulouse FC","FC Metz","11/18/2017 20:42:44","DANGER2",847,86
+893000,"Toulouse FC","FC Metz","11/18/2017 20:42:44","DAT2",848,86
+893000,"Toulouse FC","FC Metz","11/18/2017 20:42:51","SHG2",849,86
+893000,"Toulouse FC","FC Metz","11/18/2017 20:42:54","SAFE1",850,86
+893000,"Toulouse FC","FC Metz","11/18/2017 20:43:05","AT1",851,86
+893000,"Toulouse FC","FC Metz","11/18/2017 20:43:15","DANGER1",852,86
+893000,"Toulouse FC","FC Metz","11/18/2017 20:43:15","DAT1",853,86
+893000,"Toulouse FC","FC Metz","11/18/2017 20:43:30","PCR1",854,86
+893000,"Toulouse FC","FC Metz","11/18/2017 20:43:34","CR1",855,86
+893000,"Toulouse FC","FC Metz","11/18/2017 20:43:41","Ball Position",856,87
+893000,"Toulouse FC","FC Metz","11/18/2017 20:44:07","Restart",857,87
+893000,"Toulouse FC","FC Metz","11/18/2017 20:44:27","SAFE2",858,87
+893000,"Toulouse FC","FC Metz","11/18/2017 20:44:33","AT2",859,87
+893000,"Toulouse FC","FC Metz","11/18/2017 20:44:35","POSSIBLE_TI",860,87
+893000,"Toulouse FC","FC Metz","11/18/2017 20:44:35","TI2",861,87
+893000,"Toulouse FC","FC Metz","11/18/2017 20:44:48","Restart",862,88
+893000,"Toulouse FC","FC Metz","11/18/2017 20:44:54","SAFE1",863,88
+893000,"Toulouse FC","FC Metz","11/18/2017 20:45:06","SAFE2",864,88
+893000,"Toulouse FC","FC Metz","11/18/2017 20:45:08","AT2",865,88
+893000,"Toulouse FC","FC Metz","11/18/2017 20:45:13","DANGER2",866,88
+893000,"Toulouse FC","FC Metz","11/18/2017 20:45:13","DAT2",867,88
+893000,"Toulouse FC","FC Metz","11/18/2017 20:45:14","SAFE1",868,88
+893000,"Toulouse FC","FC Metz","11/18/2017 20:45:19","AT1",869,88
+893000,"Toulouse FC","FC Metz","11/18/2017 20:45:36","DANGER1",870,88
+893000,"Toulouse FC","FC Metz","11/18/2017 20:45:36","DAT1",871,88
+893000,"Toulouse FC","FC Metz","11/18/2017 20:45:42","SAFE2",872,89
+893000,"Toulouse FC","FC Metz","11/18/2017 20:46:04","AT2",873,89
+893000,"Toulouse FC","FC Metz","11/18/2017 20:46:05","SAFE1",874,89
+893000,"Toulouse FC","FC Metz","11/18/2017 20:46:17","AT1",875,89
+893000,"Toulouse FC","FC Metz","11/18/2017 20:46:25","SAFE2",876,89
+893000,"Toulouse FC","FC Metz","11/18/2017 20:46:29","AT2",877,89
+893000,"Toulouse FC","FC Metz","11/18/2017 20:46:33","DANGER2",878,89
+893000,"Toulouse FC","FC Metz","11/18/2017 20:46:33","DAT2",879,89
+893000,"Toulouse FC","FC Metz","11/18/2017 20:46:45","POSSIBLE_TI",880,90
+893000,"Toulouse FC","FC Metz","11/18/2017 20:46:46","TI2",881,90
+893000,"Toulouse FC","FC Metz","11/18/2017 20:47:06","SUB2",882,90
+893000,"Toulouse FC","FC Metz","11/18/2017 20:47:29","Restart",883,90
+893000,"Toulouse FC","FC Metz","11/18/2017 20:47:37","Player_DATA_CONFIRMED",884,91
+893000,"Toulouse FC","FC Metz","11/18/2017 20:47:38","SAFE1",885,91
+893000,"Toulouse FC","FC Metz","11/18/2017 20:47:52","Extra Time",886,91
+893000,"Toulouse FC","FC Metz","11/18/2017 20:47:56","AT1",887,91
+893000,"Toulouse FC","FC Metz","11/18/2017 20:48:00","DANGER1",888,91
+893000,"Toulouse FC","FC Metz","11/18/2017 20:48:00","DAT1",889,91
+893000,"Toulouse FC","FC Metz","11/18/2017 20:48:06","SAFE2",890,91
+893000,"Toulouse FC","FC Metz","11/18/2017 20:48:09","Possible Free Kick",891,91
+893000,"Toulouse FC","FC Metz","11/18/2017 20:48:12","F1",893,91
+893000,"Toulouse FC","FC Metz","11/18/2017 20:48:12","FK2",894,91
+893000,"Toulouse FC","FC Metz","11/18/2017 20:48:12","Ball Position",895,91
+893000,"Toulouse FC","FC Metz","11/18/2017 20:48:28","Restart",896,91
+893000,"Toulouse FC","FC Metz","11/18/2017 20:48:33","SAFE1",897,91
+893000,"Toulouse FC","FC Metz","11/18/2017 20:48:36","AT1",898,91
+893000,"Toulouse FC","FC Metz","11/18/2017 20:48:39","DANGER1",899,92
+893000,"Toulouse FC","FC Metz","11/18/2017 20:48:39","DAT1",900,92
+893000,"Toulouse FC","FC Metz","11/18/2017 20:48:47","SAFE2",901,92
+893000,"Toulouse FC","FC Metz","11/18/2017 20:48:56","AT2",902,92
+893000,"Toulouse FC","FC Metz","11/18/2017 20:49:00","DANGER2",903,92
+893000,"Toulouse FC","FC Metz","11/18/2017 20:49:00","DAT2",904,92
+893000,"Toulouse FC","FC Metz","11/18/2017 20:49:17","SAFE1",905,92
+893000,"Toulouse FC","FC Metz","11/18/2017 20:49:18","Possible Free Kick",906,92
+893000,"Toulouse FC","FC Metz","11/18/2017 20:49:21","F2",908,92
+893000,"Toulouse FC","FC Metz","11/18/2017 20:49:21","FK1",909,92
+893000,"Toulouse FC","FC Metz","11/18/2017 20:49:21","Ball Position",910,92
+893000,"Toulouse FC","FC Metz","11/18/2017 20:49:24","Restart",911,92
+893000,"Toulouse FC","FC Metz","11/18/2017 20:49:29","AT1",912,92
+893000,"Toulouse FC","FC Metz","11/18/2017 20:49:35","DANGER1",913,92
+893000,"Toulouse FC","FC Metz","11/18/2017 20:49:35","DAT1",914,92
+893000,"Toulouse FC","FC Metz","11/18/2017 20:50:39","Stop RT2",915,93
+893000,"Toulouse FC","FC Metz","11/18/2017 20:50:39","Stop Game",916,93
+893000,"Toulouse FC","FC Metz","11/18/2017 20:50:51","CONF_PERIOD_SCORE",917,93

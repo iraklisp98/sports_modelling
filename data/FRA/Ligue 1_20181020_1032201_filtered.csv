@@ -1,0 +1,929 @@
+"RBallID","HomeTeam","AwayTeam","Timestamp","Incident","IncidentNumber","Minute"
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 14:12:19","Scout in Stadion",0,0
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 14:12:21","Transmission Online",1,0
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 14:12:35","GCC",2,0
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 14:15:45","Lineup changed",3,0
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 14:52:03","GCC",4,0
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 14:54:58","GCC",5,0
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 14:58:02","Players are coming out",6,0
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 14:58:22","Jersey Changed",7,0
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 14:58:22","Jersey Changed",8,0
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 14:58:26","Players lined up",9,0
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 14:58:52","Shake hands",10,0
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 14:59:34","Flip coin",11,0
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:00:08","Photo taking",12,0
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:01:10","System Message",13,0
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:01:36","Game about to start",14,0
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:02:30","Start RT1 Team 1",15,1
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:02:33","AT1",16,1
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:03:07","DANGER1",17,1
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:03:07","DAT1",18,1
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:03:13","SAFE1",19,1
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:03:14","AT1",20,1
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:03:49","DANGER1",21,2
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:03:49","DAT1",22,2
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:03:56","SAFE2",23,2
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:03:58","AT1",24,2
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:04:08","DANGER1",25,2
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:04:08","DAT1",26,2
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:04:13","PCR1",27,2
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:04:18","CR1",28,2
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:04:19","Ball Position",29,2
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:04:46","Restart",30,3
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:05:02","SAFE2",31,3
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:05:15","AT2",32,3
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:05:20","SAFE1",33,3
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:05:21","POSSIBLE_TI",34,3
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:05:22","TI1",35,3
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:05:25","Restart",36,3
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:05:32","AT1",37,4
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:05:43","DANGER1",38,4
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:05:43","DAT1",39,4
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:05:49","POSSIBLE_TI",40,4
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:05:50","TI1",41,4
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:05:55","Restart",42,4
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:06:06","SAFE1",43,4
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:06:07","AT1",44,4
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:06:19","DANGER1",45,4
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:06:19","DAT1",46,4
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:06:38","SHB1",47,5
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:06:39","SAFE2",48,5
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:06:39","GK2",49,5
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:07:00","Restart",50,5
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:07:01","AT2",51,5
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:07:13","DANGER2",52,5
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:07:13","DAT2",53,5
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:07:16","Possible Free Kick",54,5
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:07:19","SAFE1",56,5
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:07:19","O2",57,5
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:07:19","FK1",58,5
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:07:19","Ball Position",59,5
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:07:23","Restart",60,5
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:07:29","AT2",61,5
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:07:33","DANGER2",62,6
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:07:33","DAT2",63,6
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:07:39","SAFE1",64,6
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:07:42","AT1",65,6
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:07:55","POSSIBLE_TI",66,6
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:07:56","TI2",67,6
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:08:06","Injury Break",68,6
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:08:55","Restart",69,7
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:08:58","SAFE1",70,7
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:09:03","AT1",71,7
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:09:22","DANGER1",72,7
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:09:22","DAT1",73,7
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:09:27","SAFE2",74,7
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:09:29","AT2",75,7
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:09:35","POSSIBLE_TI",76,8
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:09:37","TI2",77,8
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:09:46","Restart",78,8
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:09:54","SAFE1",79,8
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:09:56","Possible Free Kick",80,8
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:10:00","O2",82,8
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:10:00","FK1",83,8
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:10:00","Ball Position",84,8
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:10:01","Restart",85,8
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:10:05","AT1",86,8
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:10:09","DANGER1",87,8
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:10:09","DAT1",88,8
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:10:13","Possible Free Kick",89,8
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:10:16","SAFE2",91,8
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:10:16","O1",92,8
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:10:16","FK2",93,8
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:10:16","Ball Position",94,8
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:10:20","Restart",95,8
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:10:26","AT2",96,8
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:10:48","SAFE1",97,9
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:10:48","AT1",98,9
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:10:49","Possible Free Kick",99,9
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:10:50","No Free Kick",101,9
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:10:51","POSSIBLE_TI",102,9
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:10:51","TI1",103,9
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:10:53","Restart",104,9
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:11:26","DANGER1",105,9
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:11:26","DAT1",106,9
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:11:32","SAFE2",107,10
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:11:33","GK2",108,10
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:11:51","Restart",109,10
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:11:52","AT2",110,10
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:11:58","POSSIBLE_TI",111,10
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:11:59","TI2",112,10
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:12:13","Restart",113,10
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:12:19","Possible Free Kick",114,10
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:12:23","F1",116,10
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:12:23","FK2",117,10
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:12:23","DANGER2",118,10
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:12:23","DFK2",119,10
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:12:23","Ball Position",120,10
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:12:42","Restart",121,11
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:12:47","SAFE1",122,11
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:12:49","AT1",123,11
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:12:51","SAFE2",124,11
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:12:51","AT2",125,11
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:12:53","SAFE1",126,11
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:12:54","AT1",127,11
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:12:59","DANGER1",128,11
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:12:59","DAT1",129,11
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:13:03","SAFE2",130,11
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:13:07","AT1",131,11
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:13:07","DANGER1",132,11
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:13:07","DAT1",133,11
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:13:21","PCR2",134,11
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:13:21","DANGER2",135,11
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:13:23","NCR2",136,11
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:13:24","PCR1",137,11
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:13:24","DANGER1",138,11
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:13:27","SHG1",139,11
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:13:28","CR1",140,11
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:13:29","Ball Position",141,11
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:13:48","Restart",142,12
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:13:51","GOAL1",143,12
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:14:15","Scorer",144,12
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:14:48","CONF_GOAL1",145,13
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:14:48","KO2",146,13
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:14:48","SAFE2",147,13
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:14:54","AT2",148,13
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:15:17","Player_DATA_CONFIRMED",149,13
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:15:18","Assist",150,13
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:15:41","DANGER2",151,14
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:15:41","DAT2",152,14
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:15:43","Time Correction",153,14
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:15:46","SAFE1",154,14
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:15:47","GK1",155,14
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:15:56","Restart",156,14
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:16:10","AT1",157,14
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:16:48","DANGER1",158,15
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:16:48","DAT1",159,15
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:16:56","Possible Free Kick",160,15
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:17:05","F2",162,15
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:17:05","FK1",163,15
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:17:05","DFK1",164,15
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:17:05","Ball Position",165,15
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:17:48","Restart",166,16
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:18:14","SAFE1",167,16
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:18:14","AT1",168,16
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:18:26","DANGER1",169,16
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:18:26","DAT1",170,16
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:18:30","SAFE2",171,17
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:18:35","AT2",172,17
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:18:39","SAFE1",173,17
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:18:39","AT1",174,17
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:18:43","Possible Free Kick",175,17
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:18:47","F1",177,17
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:18:47","FK2",178,17
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:18:47","DANGER2",179,17
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:18:47","DFK2",180,17
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:18:47","Ball Position",181,17
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:19:01","Restart",182,17
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:19:03","SAFE2",183,17
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:19:03","AT2",184,17
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:19:13","SAFE1",185,17
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:19:19","AT1",186,17
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:19:25","SAFE2",187,17
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:19:26","AT2",188,17
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:19:33","SAFE1",189,18
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:19:36","AT2",190,18
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:19:37","DANGER2",191,18
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:19:37","DAT2",192,18
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:19:45","SAFE1",193,18
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:19:45","AT1",194,18
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:19:48","DANGER1",195,18
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:19:48","DAT1",196,18
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:19:56","POSSIBLE_TI",197,18
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:19:57","TI1",198,18
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:20:44","Restart",199,19
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:20:48","SAFE1",200,19
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:20:49","AT1",201,19
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:21:13","SAFE1",202,19
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:21:24","AT1",203,19
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:21:32","DANGER1",204,20
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:21:32","DAT1",205,20
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:21:42","SAFE2",206,20
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:21:47","POSSIBLE_TI",207,20
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:21:48","TI2",208,20
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:22:04","Restart",209,20
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:22:06","AT2",210,20
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:22:10","SAFE1",211,20
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:22:10","AT1",212,20
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:22:29","SAFE2",213,20
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:22:33","AT2",214,21
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:22:38","SAFE1",215,21
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:22:39","AT1",216,21
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:23:03","DANGER1",217,21
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:23:03","DAT1",218,21
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:23:10","SHG1",219,21
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:23:11","SAFE2",220,21
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:23:22","AT2",221,21
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:23:28","SAFE1",222,21
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:23:29","AT1",223,21
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:23:33","DANGER1",224,22
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:23:33","DAT1",225,22
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:23:37","SAFE2",226,22
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:23:45","AT2",227,22
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:24:11","DANGER2",228,22
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:24:11","DAT2",229,22
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:24:23","SHB2",230,22
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:24:24","SAFE1",231,22
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:24:25","GK1",232,22
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:24:35","Restart",233,23
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:24:47","AT1",234,23
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:24:48","SAFE2",235,23
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:24:49","AT2",236,23
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:24:50","DANGER2",237,23
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:24:50","DAT2",238,23
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:24:56","SAFE2",239,23
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:24:57","AT2",240,23
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:25:18","DANGER2",241,23
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:25:18","DAT2",242,23
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:25:20","SAFE1",243,23
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:25:36","AT1",244,24
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:25:43","DANGER1",245,24
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:25:43","DAT1",246,24
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:26:05","POSSIBLE_TI",247,24
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:26:06","TI1",248,24
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:26:14","Restart",249,24
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:26:20","SAFE2",250,24
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:26:22","AT2",251,24
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:26:29","SAFE1",252,24
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:26:30","AT1",253,24
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:26:37","DANGER1",254,25
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:26:37","DAT1",255,25
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:26:45","SAFE2",256,25
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:26:51","Possible Free Kick",257,25
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:26:52","F1",259,25
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:26:52","FK2",260,25
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:26:52","Ball Position",261,25
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:27:14","Restart",262,25
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:27:15","AT2",263,25
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:27:20","DANGER2",264,25
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:27:20","DAT2",265,25
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:27:31","Possible Free Kick",266,26
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:27:36","F1",268,26
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:27:36","FK2",269,26
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:27:36","DFK2",270,26
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:27:36","Ball Position",271,26
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:28:08","Restart",272,26
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:28:14","SAFE1",273,26
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:28:16","AT2",274,26
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:28:16","DANGER2",275,26
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:28:16","DAT2",276,26
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:28:20","Possible Free Kick",277,26
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:28:23","SAFE1",279,26
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:28:23","F2",280,26
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:28:23","FK1",281,26
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:28:23","Ball Position",282,26
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:28:32","Restart",283,27
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:28:40","AT1",284,27
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:29:12","DANGER1",285,27
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:29:12","DAT1",286,27
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:29:18","SAFE2",287,27
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:29:20","AT2",288,27
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:29:31","SAFE1",289,28
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:29:32","AT1",290,28
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:29:32","POSSIBLE_TI",291,28
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:29:33","TI1",292,28
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:29:38","Restart",293,28
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:29:53","SAFE1",294,28
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:30:03","AT2",295,28
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:30:04","POSSIBLE_TI",296,28
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:30:05","TI2",297,28
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:30:11","Restart",298,28
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:30:13","DANGER2",299,28
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:30:13","DAT2",300,28
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:30:24","SAFE1",301,28
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:30:31","Possible Free Kick",302,29
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:30:32","F2",304,29
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:30:32","FK1",305,29
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:30:32","Ball Position",306,29
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:30:39","Restart",307,29
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:30:53","AT1",308,29
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:31:02","DANGER1",309,29
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:31:02","DAT1",310,29
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:31:05","SAFE2",311,29
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:31:18","AT2",312,29
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:31:27","DANGER2",313,29
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:31:27","DAT2",314,29
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:31:39","SAFE1",315,30
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:31:47","AT1",316,30
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:31:51","DANGER1",317,30
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:31:51","DAT1",318,30
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:32:07","SAFE1",319,30
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:32:25","AT1",320,30
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:32:28","DANGER1",321,30
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:32:28","DAT1",322,30
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:32:38","PCR1",323,31
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:32:43","CR1",324,31
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:32:44","Ball Position",325,31
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:33:00","Restart",326,31
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:33:06","SAFE2",327,31
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:33:08","AT1",328,31
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:33:09","DANGER1",329,31
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:33:09","DAT1",330,31
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:33:12","SHB1",331,31
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:33:14","SAFE2",332,31
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:33:14","GK2",333,31
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:33:36","Restart",334,32
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:33:38","AT2",335,32
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:33:42","POSSIBLE_TI",336,32
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:33:43","NO_TI",337,32
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:33:44","POSSIBLE_TI",338,32
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:33:45","TI1",339,32
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:33:54","Restart",340,32
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:33:56","SAFE1",341,32
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:34:00","AT1",342,32
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:34:13","DANGER1",343,32
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:34:13","DAT1",344,32
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:34:39","Possible Free Kick",345,33
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:34:48","F2",347,33
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:34:48","FK1",348,33
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:34:48","DFK1",349,33
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:34:48","Ball Position",350,33
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:35:38","Restart",351,34
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:35:41","PCR1",352,34
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:35:44","CR1",353,34
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:35:45","Ball Position",354,34
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:36:00","Restart",355,34
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:36:05","SHG1",356,34
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:36:06","SAFE2",357,34
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:36:07","AT2",358,34
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:36:19","DANGER2",359,34
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:36:19","DAT2",360,34
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:36:27","SAFE1",361,34
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:36:53","AT1",362,35
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:37:15","DANGER1",363,35
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:37:15","DAT1",364,35
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:37:28","BLOCKED1",365,35
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:37:40","SAFE2",366,36
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:37:41","GK2",367,36
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:37:57","Restart",368,36
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:37:58","AT2",369,36
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:38:18","DANGER2",370,36
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:38:18","DAT2",371,36
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:38:23","SAFE1",372,36
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:38:28","AT1",373,36
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:38:33","SAFE2",374,37
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:38:34","AT2",375,37
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:38:43","DANGER2",376,37
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:38:43","DAT2",377,37
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:38:58","SAFE2",378,37
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:38:58","AT2",379,37
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:39:14","DANGER2",380,37
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:39:14","DAT2",381,37
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:39:21","SAFE1",382,37
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:39:33","AT1",383,38
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:39:44","SAFE2",384,38
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:39:48","AT2",385,38
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:40:32","DANGER2",386,39
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:40:32","DAT2",387,39
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:40:47","Possible Free Kick",388,39
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:40:49","SAFE1",390,39
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:40:49","O2",391,39
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:40:49","FK1",392,39
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:40:49","Ball Position",393,39
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:41:04","Restart",394,39
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:41:12","SAFE2",395,39
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:41:13","AT2",396,39
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:41:14","POSSIBLE_TI",397,39
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:41:15","TI2",398,39
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:41:17","Restart",399,39
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:41:23","DANGER2",400,39
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:41:23","DAT2",401,39
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:41:26","SAFE1",402,39
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:41:28","AT1",403,39
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:41:51","DANGER1",404,40
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:41:51","DAT1",405,40
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:42:05","SAFE2",406,40
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:42:06","AT2",407,40
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:42:15","Possible Free Kick",408,40
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:42:19","F1",410,40
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:42:19","FK2",411,40
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:42:19","DANGER2",412,40
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:42:19","DFK2",413,40
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:42:19","Ball Position",414,40
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:42:21","Restart",415,40
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:42:22","SAFE2",416,40
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:42:22","AT2",417,40
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:42:43","SAFE1",418,41
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:42:53","AT1",419,41
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:43:24","DANGER1",420,41
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:43:24","DAT1",421,41
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:43:32","PCR1",422,42
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:43:34","CR1",423,42
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:43:36","Ball Position",424,42
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:44:02","Restart",425,42
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:44:08","GOAL1",426,42
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:44:16","Scorer",427,42
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:45:09","CONF_GOAL1",428,43
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:45:09","KO2",429,43
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:45:09","SAFE2",430,43
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:45:10","AT2",431,43
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:45:45","Player_DATA_CONFIRMED",432,44
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:45:46","Assist",433,44
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:45:47","AT1",434,44
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:45:47","DANGER1",435,44
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:45:47","DAT1",436,44
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:45:48","AT2",437,44
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:45:48","DANGER2",438,44
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:45:48","DAT2",439,44
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:46:09","SAFE2",440,44
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:46:10","AT2",441,44
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:46:34","DANGER2",442,45
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:46:34","DAT2",443,45
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:46:40","SAFE1",444,45
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:46:41","GK1",445,45
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:46:45","Restart",446,45
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:46:59","AT1",447,45
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:47:21","DANGER1",448,45
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:47:21","DAT1",449,45
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:47:30","SHB1",450,45
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:47:35","SAFE2",451,46
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:47:36","GK2",452,46
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:47:42","Extra Time",453,46
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:47:53","Restart",454,46
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:47:56","AT2",455,46
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:48:06","DANGER2",456,46
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:48:06","DAT2",457,46
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:48:11","SHB2",458,46
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:48:11","SAFE1",459,46
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:48:12","GK1",460,46
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:48:22","Restart",461,46
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:48:29","AT1",462,46
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:48:37","Stop RT1",463,47
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 15:48:41","CONF_PERIOD_SCORE",464,45
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:03:54","Players are coming out",465,45
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:05:20","Game about to start",466,45
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:05:48","SUB1",467,45
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:05:54","Start RT2 Team 2",468,46
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:05:56","AT2",469,46
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:06:13","SAFE1",470,46
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:06:15","Player_DATA_CONFIRMED",471,46
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:06:16","AT1",472,46
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:06:22","DANGER1",473,46
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:06:22","DAT1",474,46
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:06:32","SAFE1",475,46
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:06:36","AT1",476,46
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:06:42","SAFE2",477,46
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:06:43","AT2",478,46
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:06:52","DANGER2",479,46
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:06:52","DAT2",480,46
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:07:04","SHG2",481,47
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:07:05","SHG2",482,47
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:07:07","POSSIBLE_TI",483,47
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:07:07","TI2",484,47
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:07:20","Restart",485,47
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:07:27","POSSIBLE_TI",486,47
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:07:28","TI2",487,47
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:07:29","Restart",488,47
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:07:34","SAFE2",489,47
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:07:34","AT2",490,47
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:07:47","DANGER2",491,47
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:07:47","DAT2",492,47
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:07:57","SAFE1",493,48
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:07:59","AT1",494,48
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:08:29","DANGER1",495,48
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:08:29","DAT1",496,48
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:08:35","SAFE2",497,48
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:08:37","AT2",498,48
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:08:42","SAFE1",499,48
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:08:42","AT1",500,48
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:08:56","SAFE2",501,49
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:08:56","AT2",502,49
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:09:00","SAFE1",503,49
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:09:00","AT1",504,49
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:09:06","DANGER1",505,49
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:09:06","DAT1",506,49
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:09:12","Possible Free Kick",507,49
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:09:16","F2",509,49
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:09:16","FK1",510,49
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:09:16","DFK1",511,49
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:09:16","Ball Position",512,49
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:09:44","Restart",513,49
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:09:50","SHB1",514,49
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:09:50","SAFE2",515,49
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:09:51","GK2",516,49
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:10:08","Restart",517,50
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:10:09","AT2",518,50
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:10:18","SAFE2",519,50
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:10:26","AT2",520,50
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:10:32","Possible Free Kick",521,50
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:10:34","F1",523,50
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:10:34","FK2",524,50
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:10:34","DANGER2",525,50
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:10:34","DFK2",526,50
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:10:34","Ball Position",527,50
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:10:36","Restart",528,50
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:10:37","SAFE2",529,50
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:10:38","AT2",530,50
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:11:16","SAFE1",531,51
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:11:16","POSSIBLE_TI",532,51
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:11:18","TI1",533,51
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:11:31","Restart",534,51
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:11:37","AT2",535,51
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:11:41","DANGER2",536,51
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:11:41","DAT2",537,51
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:11:46","SHB2",538,51
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:11:47","SAFE1",539,51
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:11:48","GK1",540,51
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:12:00","Restart",541,52
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:12:08","AT2",542,52
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:12:10","SAFE1",543,52
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:12:11","POSSIBLE_TI",544,52
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:12:12","TI1",545,52
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:12:20","Restart",546,52
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:12:26","AT1",547,52
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:12:32","DANGER1",548,52
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:12:32","DAT1",549,52
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:12:34","SAFE2",550,52
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:12:46","AT2",551,52
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:12:54","DANGER2",552,53
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:12:54","DAT2",553,53
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:13:12","POSSIBLE_TI",554,53
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:13:14","TI2",555,53
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:13:23","Restart",556,53
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:13:28","Possible Free Kick",557,53
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:13:30","SAFE1",559,53
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:13:30","O2",560,53
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:13:30","FK1",561,53
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:13:30","Ball Position",562,53
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:13:44","Restart",563,53
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:13:47","AT1",564,53
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:14:30","DANGER1",565,54
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:14:30","DAT1",566,54
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:14:38","SAFE2",567,54
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:14:39","AT2",568,54
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:14:46","DANGER2",569,54
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:14:46","DAT2",570,54
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:14:53","SAFE1",571,54
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:15:03","POSSIBLE_TI",572,55
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:15:04","TI2",573,55
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:15:42","Restart",574,55
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:16:05","AT1",575,56
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:16:34","AT2",576,56
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:16:34","DANGER2",577,56
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:16:34","DAT2",578,56
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:16:35","AT1",579,56
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:16:35","DANGER1",580,56
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:16:35","DAT1",581,56
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:17:14","PCR1",582,57
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:17:18","CR1",583,57
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:17:19","Ball Position",584,57
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:17:42","Restart",585,57
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:17:49","PCR1",586,57
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:17:50","CR1",587,57
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:17:58","Ball Position",588,58
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:18:09","Restart",589,58
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:18:21","SAFE2",590,58
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:18:25","AT2",591,58
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:18:28","DANGER2",592,58
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:18:28","DAT2",593,58
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:18:33","SAFE1",594,58
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:18:40","AT1",595,58
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:18:50","DANGER1",596,58
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:18:50","DAT1",597,58
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:18:55","Possible Free Kick",598,59
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:19:01","F2",600,59
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:19:01","FK1",601,59
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:19:01","DFK1",602,59
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:19:01","Ball Position",603,59
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:19:38","SUB1",604,59
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:20:07","Restart",605,60
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:20:13","SHB1",606,60
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:20:13","SAFE2",607,60
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:20:14","GK2",608,60
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:20:17","Player_DATA_CONFIRMED",609,60
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:20:21","Restart",610,60
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:20:28","AT2",611,60
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:20:50","Possible Free Kick",612,60
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:20:51","F1",614,60
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:20:51","FK2",615,60
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:20:52","DANGER2",616,60
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:20:52","DFK2",617,60
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:20:52","Ball Position",618,60
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:21:00","Restart",619,61
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:21:10","SAFE1",620,61
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:21:26","AT1",621,61
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:21:33","SAFE2",622,61
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:21:34","POSSIBLE_TI",623,61
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:21:35","TI2",624,61
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:21:43","Restart",625,61
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:21:46","AT2",626,61
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:21:48","SAFE1",627,61
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:21:48","AT1",628,61
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:21:55","DANGER1",629,62
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:21:55","DAT1",630,62
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:22:05","SAFE1",631,62
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:22:05","AT1",632,62
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:22:50","SAFE2",633,62
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:22:50","AT2",634,62
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:22:59","SAFE1",635,63
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:22:59","AT1",636,63
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:23:06","SAFE2",637,63
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:23:07","POSSIBLE_TI",638,63
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:23:08","TI2",639,63
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:23:29","Restart",640,63
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:23:32","AT1",641,63
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:23:33","DANGER1",642,63
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:23:33","DAT1",643,63
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:23:42","PCR1",644,63
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:23:47","CR1",645,63
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:23:51","Ball Position",646,63
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:24:06","Restart",647,64
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:24:24","PCR1",648,64
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:24:25","CR1",649,64
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:24:26","Ball Position",650,64
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:24:30","Restart",651,64
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:24:39","SAFE1",652,64
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:24:40","AT1",653,64
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:24:54","SAFE1",654,65
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:25:09","AT1",655,65
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:25:39","SAFE2",656,65
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:25:39","AT2",657,65
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:25:44","DANGER2",658,65
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:25:44","DAT2",659,65
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:25:47","SAFE1",660,65
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:25:49","AT1",661,65
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:25:51","SAFE2",662,65
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:25:51","AT2",663,65
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:25:53","DANGER2",664,65
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:25:53","DAT2",665,65
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:26:20","SAFE1",666,66
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:26:22","AT1",667,66
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:26:26","DANGER1",668,66
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:26:26","DAT1",669,66
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:26:31","SAFE2",670,66
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:26:36","AT2",671,66
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:27:05","DANGER2",672,67
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:27:05","DAT2",673,67
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:27:18","SAFE1",674,67
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:27:21","AT2",675,67
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:27:22","POSSIBLE_TI",676,67
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:27:22","TI2",677,67
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:27:34","SUB2",678,67
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:27:52","Restart",679,67
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:27:59","SAFE1",680,68
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:28:03","POSSIBLE_TI",681,68
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:28:04","TI1",682,68
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:28:13","Restart",683,68
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:28:17","AT1",684,68
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:28:20","SAFE2",685,68
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:28:20","AT2",686,68
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:28:21","SAFE1",687,68
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:28:22","AT1",688,68
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:28:27","Possible Free Kick",689,68
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:28:28","SAFE1",691,68
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:28:28","F2",692,68
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:28:28","FK1",693,68
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:28:28","Ball Position",694,68
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:28:34","Restart",695,68
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:28:38","AT1",696,68
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:28:45","Player_DATA_CONFIRMED",697,68
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:28:55","DANGER1",698,69
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:28:55","DAT1",699,69
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:29:01","SAFE2",700,69
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:29:06","AT2",701,69
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:29:11","POSSIBLE_TI",702,69
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:29:12","TI2",703,69
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:29:21","Restart",704,69
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:29:34","DANGER2",705,69
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:29:34","DAT2",706,69
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:29:38","SAFE2",707,69
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:29:38","AT2",708,69
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:30:03","DANGER2",709,70
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:30:03","DAT2",710,70
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:30:09","PCR2",711,70
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:30:12","CR2",712,70
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:30:13","Ball Position",713,70
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:30:37","Restart",714,70
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:30:41","SAFE1",715,70
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:30:44","AT2",716,70
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:30:45","DANGER2",717,70
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:30:45","DAT2",718,70
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:30:59","PCR2",719,71
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:31:00","CR2",720,71
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:31:03","Ball Position",721,71
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:31:14","Restart",722,71
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:31:21","SHB2",723,71
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:31:22","SAFE1",724,71
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:31:23","GK1",725,71
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:31:32","Restart",726,71
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:31:39","AT1",727,71
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:32:00","DANGER1",728,72
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:32:00","DAT1",729,72
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:32:04","SAFE2",730,72
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:32:07","AT2",731,72
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:32:18","AT1",732,72
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:32:18","DANGER1",733,72
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:32:18","DAT1",734,72
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:32:20","Possible Free Kick",735,72
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:32:22","SAFE2",737,72
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:32:22","F1",738,72
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:32:22","FK2",739,72
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:32:22","Ball Position",740,72
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:32:55","Restart",741,73
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:32:56","AT2",742,73
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:33:11","Possible Free Kick",743,73
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:33:13","F1",745,73
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:33:13","FK2",746,73
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:33:13","DANGER2",747,73
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:33:13","DFK2",748,73
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:33:13","Ball Position",749,73
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:33:25","Restart",750,73
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:33:37","SAFE2",751,73
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:33:37","AT2",752,73
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:33:56","SAFE1",753,74
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:33:57","AT1",754,74
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:34:03","DANGER1",755,74
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:34:03","DAT1",756,74
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:34:06","Possible Free Kick",757,74
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:34:08","SAFE2",759,74
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:34:08","O1",760,74
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:34:08","FK2",761,74
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:34:08","Ball Position",762,74
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:34:31","SUB2",763,74
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:34:44","Restart",764,74
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:34:45","AT2",765,74
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:34:50","SAFE1",766,74
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:34:52","AT1",767,74
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:34:56","DANGER1",768,75
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:34:56","DAT1",769,75
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:35:02","PCR1",770,75
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:35:04","CR1",771,75
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:35:05","Ball Position",772,75
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:35:09","Restart",773,75
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:35:16","Player_DATA_CONFIRMED",774,75
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:35:18","SAFE2",775,75
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:35:18","GK2",776,75
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:35:39","Restart",777,75
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:35:39","AT2",778,75
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:35:48","POSSIBLE_TI",779,75
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:35:48","TI1",780,75
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:35:50","Restart",781,75
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:35:50","SAFE1",782,75
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:35:54","AT1",783,76
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:36:18","DANGER1",784,76
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:36:18","DAT1",785,76
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:36:45","SHB1",786,76
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:36:46","SAFE2",787,76
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:36:46","GK2",788,76
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:37:04","Restart",789,77
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:37:05","AT2",790,77
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:37:17","Possible Free Kick",791,77
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:37:24","SAFE2",793,77
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:37:24","F1",794,77
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:37:24","FK2",795,77
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:37:24","Ball Position",796,77
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:37:57","Restart",797,78
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:38:00","AT2",798,78
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:38:05","DANGER2",799,78
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:38:05","DAT2",800,78
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:38:07","SAFE1",801,78
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:38:10","AT1",802,78
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:38:14","DANGER1",803,78
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:38:14","DAT1",804,78
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:38:17","SAFE2",805,78
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:38:19","GK2",806,78
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:38:36","Restart",807,78
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:38:40","AT2",808,78
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:38:46","POSSIBLE_TI",809,78
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:38:47","TI2",810,78
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:38:49","Restart",811,78
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:39:07","DANGER2",812,79
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:39:07","DAT2",813,79
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:39:13","PCR2",814,79
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:39:16","CR2",815,79
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:39:19","Ball Position",816,79
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:39:34","Restart",817,79
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:39:42","SHB2",818,79
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:39:42","SAFE1",819,79
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:39:43","GK1",820,79
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:39:51","Restart",821,79
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:40:05","AT1",822,80
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:40:29","DANGER1",823,80
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:40:29","DAT1",824,80
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:40:35","GOAL1",825,80
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:40:45","Scorer",826,80
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:41:43","SUB2",827,81
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:41:44","Player_DATA_CONFIRMED",828,81
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:42:01","CONF_GOAL1",829,82
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:42:02","KO2",830,82
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:42:02","SAFE2",831,82
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:42:05","AT2",832,82
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:42:09","SAFE1",833,82
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:42:11","AT1",834,82
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:42:17","DANGER1",835,82
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:42:17","DAT1",836,82
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:42:25","GOAL1",837,82
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:42:32","Scorer",838,82
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:42:44","Player_DATA_CONFIRMED",839,82
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:43:21","CONF_GOAL1",840,83
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:43:21","KO2",841,83
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:43:21","SAFE2",842,83
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:43:24","AT2",843,83
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:43:45","DANGER2",844,83
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:43:45","DAT2",845,83
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:43:59","PCR2",846,84
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:44:01","CR2",847,84
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:44:03","Ball Position",848,84
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:44:19","Restart",849,84
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:44:28","POSSIBLE_TI",850,84
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:44:29","TI2",851,84
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:44:36","Restart",852,84
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:44:44","PCR2",853,84
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:44:45","CR2",854,84
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:44:47","Ball Position",855,84
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:44:59","Restart",856,85
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:45:20","SAFE1",857,85
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:45:25","SAFE2",858,85
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:45:26","AT2",859,85
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:45:36","Possible Free Kick",860,85
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:45:37","SAFE2",862,85
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:45:38","F1",863,85
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:45:38","FK2",864,85
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:45:38","Ball Position",865,85
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:46:02","SUB1",866,86
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:46:12","Restart",867,86
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:46:12","AT2",868,86
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:46:37","DANGER2",869,86
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:46:37","DAT2",870,86
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:46:42","SAFE1",871,86
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:46:47","AT1",872,86
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:46:53","SAFE2",873,86
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:47:03","AT2",874,87
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:47:14","Player_DATA_CONFIRMED",875,87
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:47:16","SAFE1",876,87
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:47:17","AT2",877,87
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:47:20","DANGER2",878,87
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:47:20","DAT2",879,87
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:47:25","SAFE1",880,87
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:47:37","AT1",881,87
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:47:47","DANGER1",882,87
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:47:47","DAT1",883,87
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:47:53","GOAL1",884,87
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:47:59","Scorer",885,88
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:48:03","Player_DATA_CONFIRMED",886,88
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:48:48","CONF_GOAL1",887,88
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:48:48","KO2",888,88
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:48:48","SAFE2",889,88
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:48:50","AT2",890,88
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:49:13","DANGER2",891,89
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:49:13","DAT2",892,89
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:49:18","Possible Free Kick",893,89
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:49:19","SAFE1",895,89
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:49:19","F2",896,89
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:49:19","FK1",897,89
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:49:19","Ball Position",898,89
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:49:39","Restart",899,89
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:49:44","Player_DATA_CONFIRMED",900,89
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:49:45","AT1",901,89
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:49:54","DANGER1",902,90
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:49:54","DAT1",903,90
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:49:59","SAFE2",904,90
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:49:59","AT2",905,90
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:50:12","DANGER2",906,90
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:50:12","DAT2",907,90
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:50:22","Possible Free Kick",908,90
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:50:29","F1",910,90
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:50:29","FK2",911,90
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:50:29","DFK2",912,90
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:50:29","Ball Position",913,90
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:50:57","Extra Time",914,91
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:51:06","Restart",915,91
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:51:10","SAFE1",916,91
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:51:32","AT1",917,91
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:51:38","DANGER1",918,91
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:51:38","DAT1",919,91
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:51:41","Possible Free Kick",920,91
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:51:46","F2",922,91
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:51:46","FK1",923,91
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:51:46","DFK1",924,91
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:51:46","Ball Position",925,91
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:51:52","Restart",926,91
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:52:09","SAFE2",927,92
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:52:10","POSSIBLE_TI",928,92
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:52:10","TI2",929,92
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:52:14","POSSIBLE_CARDS",930,92
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:52:18","NO_Cards",931,92
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:52:18","Restart",932,92
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:52:29","AT1",933,92
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:52:29","DANGER1",934,92
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:52:29","DAT1",935,92
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:52:31","SAFE2",936,92
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:52:32","AT2",937,92
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:52:35","Possible Free Kick",938,92
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:52:38","SAFE1",940,92
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:52:38","O2",941,92
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:52:38","FK1",942,92
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:52:38","Ball Position",943,92
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:52:42","Restart",944,92
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:52:44","AT1",945,92
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:52:56","DANGER1",946,93
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:52:56","DAT1",947,93
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:53:09","SAFE2",948,93
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:53:10","GK2",949,93
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:53:31","Restart",950,93
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:53:32","AT2",951,93
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:53:36","SAFE1",952,93
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:53:36","AT1",953,93
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:54:00","Stop RT2",954,93
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:54:00","Stop Game",955,93
+1032201,"Paris Saint-Germain FC","Amiens SC","10/20/2018 16:54:04","CONF_PERIOD_SCORE",956,93
