@@ -3,6 +3,7 @@
 
 # Environment variables / secrets
 .env
+.venv/
 
 # Python
 __pycache__/
