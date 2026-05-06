@@ -1,0 +1,33 @@
+# Virtual environment
+.venv/
+
+# Environment variables / secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MLflow
+mlruns/
+
+# Odds API cache
+data/odds_cache/
+
+# Parquet outputs (large, reproducible from source)
+data/processed/
+data/features/
+data/output/
+
+# Dashboard generated data
+dashboard/data/
+
+# OS
+.DS_Store
+Thumbs.db

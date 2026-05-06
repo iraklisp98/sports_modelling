@@ -1,0 +1,28 @@
+# Core data
+pandas>=2.0
+numpy>=1.26
+pyarrow>=14.0        # Parquet read/write
+
+# PySpark
+pyspark>=3.5
+
+# ML
+xgboost>=2.0
+scikit-learn>=1.4
+optuna>=3.5
+
+# Experiment tracking
+mlflow>=2.10
+
+# Odds API & utilities
+requests>=2.31
+rapidfuzz>=3.5
+pyyaml>=6.0
+
+# Visualisation (notebooks / MLflow artifacts)
+matplotlib>=3.8
+seaborn>=0.13
+
+# Notebooks
+jupyter>=1.0
+ipykernel>=6.0
