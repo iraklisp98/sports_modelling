@@ -1,34 +1,20 @@
-# Virtual environment
+# Virtual environments
+venv/
 .venv/
 
-# Environment variables / secrets
-.env
-.venv/
-
-# Python
+# Python bytecode
 __pycache__/
-*.py[cod]
-*.egg-info/
-dist/
-build/
+*.pyc
+*.pyo
 
-# Jupyter
-.ipynb_checkpoints/
+# Data — raw CSVs and processed Parquet are too large for git
+data/
 
-# MLflow
+# MLflow tracking store
 mlruns/
 
-# Odds API cache
-data/odds_cache/
-
-# Parquet outputs (large, reproducible from source)
-data/processed/
-data/features/
-data/output/
-
-# Dashboard generated data
-dashboard/data/
+# Jupyter checkpoints
+.ipynb_checkpoints/
 
 # OS
 .DS_Store
-Thumbs.db
