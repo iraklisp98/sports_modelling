@@ -1,13 +1,27 @@
 # Virtual environments
 venv/
 .venv/
+**/.venv/
 
-# Python bytecode
+# Local agent/tool state
+.codex/
+.claude/
+CLAUDE.md
+
+# Secrets and local config
+.env
+.env.*
+!.env.example
+
+# Python bytecode and caches
 __pycache__/
-*.pyc
-*.pyo
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
 
-# Data — raw CSVs and processed Parquet are too large for git
+# Data - raw CSVs and generated pipeline outputs are too large for git
 data/
 
 # MLflow tracking store
@@ -16,5 +30,13 @@ mlruns/
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
-# OS
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# OS/editor files
 .DS_Store
+Thumbs.db
+.vscode/
+.idea/
