@@ -100,7 +100,7 @@ model_implied_odds >= 1.10 × best_bookmaker_odds
 | Stage | File | Status |
 |---|---|---|
 | 1 — Ingest & Clean | `pipeline/stage1_ingest.py` | Complete |
-| 2 — Feature Engineering | `pipeline/stage2_features.py` | Not started |
+| 2 — Feature Engineering | `pipeline/stage2_features.py` | Complete |
 | 3 — Model Training | `pipeline/stage3_train.py` | Not started |
 | 4 — Odds Generation | `pipeline/stage4_odds_gen.py` | Not started |
 | 5 — Odds Comparison | `pipeline/stage5_compare.py` | Not started |

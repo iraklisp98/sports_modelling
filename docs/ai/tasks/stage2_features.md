@@ -1,6 +1,6 @@
 # Stage 2 — Feature Engineering
 
-**Status:** Not started  
+**Status:** Complete  
 **Script:** `pipeline/stage2_features.py`  
 **Input:** Parquet files from Stage 1 (`data/processed/ENG.parquet`, etc.)  
 **Output:** Feature-enriched Parquet file per league in `data/features/`
@@ -150,57 +150,36 @@ def apply_season_regression(ratings, league_mean, factor=0.2):
 Call this once per season transition inside the main ELO loop.
 
 ### Step 5 — Rolling form features
-For each team, compute the last 5 match values for goals, corners, and points. Sort by date first and **shift by 1** so the current match is excluded.
+For each team, compute the last 5 match values for goals, corners, and points from a unified team history. This matters because a team's recent form includes both home and away matches; splitting by `HomeTeam` and `AwayTeam` separately would throw away half of the history.
+
+Implementation shape:
 
 ```python
-def add_rolling_features(df, window=5):
-    df = df.sort_values("Date").copy()
+# Build one row per team per match, then group by Team.
+history = pd.concat([home_history, away_history], ignore_index=True)
+history = history.sort_values(["Team", "Date", "RBallID"])
 
-    for team_col, goal_col, prefix in [
-        ("HomeTeam", "HomeGoals", "Home"),
-        ("AwayTeam", "AwayGoals", "Away"),
-    ]:
-        # Build a per-team match history
-        team_history = df.groupby(team_col).apply(
-            lambda g: g.assign(
-                **{
-                    f"{prefix}Goals_Last{window}": g[goal_col].shift(1).rolling(window, min_periods=1).mean(),
-                    f"{prefix}Corners_Last{window}": g[f"{prefix}Corners"].shift(1).rolling(window, min_periods=1).mean(),
-                    f"{prefix}Points_Last{window}": (
-                        g["Result"].map({"H": 3, "D": 1, "A": 0} if prefix == "Home"
-                                        else {"A": 3, "D": 1, "H": 0})
-                        .shift(1).rolling(window, min_periods=1).mean()
-                    )
-                }
-            )
-        ).reset_index(drop=True)
-
-    return df
+history["Goals_Last5"] = history.groupby("Team")["Goals"].transform(
+    lambda values: values.shift(1).rolling(window=5, min_periods=1).mean()
+)
 ```
+
+The important detail is `shift(1)`: the current match is excluded before the rolling average is calculated. The first match in a team's history gets `0.0` after missing values are filled.
 
 ### Step 6 — Season win rate
-For each team, compute win rate from the start of the current season up to (but not including) the current match:
+For each team, compute win rate from the start of the current season up to, but not including, the current match. This uses the same unified team history as the rolling features, so a home team's season win rate includes wins it earned away from home earlier in the season.
+
+Implementation shape:
 
 ```python
-def add_season_winrate(df):
-    df = df.sort_values("Date").copy()
-    home_wr, away_wr = [], []
-
-    for _, row in df.iterrows():
-        season_so_far = df[(df["Date"] < row["Date"]) & (df["Season"] == row["Season"])]
-
-        home_matches = season_so_far[season_so_far["HomeTeam"] == row["HomeTeam"]]
-        home_wins = (home_matches["Result"] == "H").sum()
-        home_wr.append(home_wins / len(home_matches) if len(home_matches) > 0 else 0.0)
-
-        away_matches = season_so_far[season_so_far["AwayTeam"] == row["AwayTeam"]]
-        away_wins = (away_matches["Result"] == "A").sum()
-        away_wr.append(away_wins / len(away_matches) if len(away_matches) > 0 else 0.0)
-
-    df["HomeWinRate_Season"] = home_wr
-    df["AwayWinRate_Season"] = away_wr
-    return df
+history["Win"] = (history["Points"] == 3.0).astype(float)
+grouped = history.groupby(["Team", "Season"], sort=False)
+previous_wins = grouped["Win"].cumsum() - history["Win"]
+previous_matches = grouped.cumcount()
+history["WinRate_Season"] = (previous_wins / previous_matches.replace(0, np.nan)).fillna(0.0)
 ```
+
+Again, the feature is pre-match: current-match wins are subtracted before calculating the rate.
 
 ### Step 7 — Encode the target
 XGBoost needs a numeric label:
@@ -217,11 +196,11 @@ df.to_parquet("data/features/ENG_features.parquet", index=False)
 
 ## Acceptance Criteria
 
-- [ ] Script runs without errors: `python pipeline/stage2_features.py`
-- [ ] Output has columns: `HomeElo`, `AwayElo`, `EloDiff`, `HomeGoals_Last5`, `AwayGoals_Last5`, `HomeCorners_Last5`, `AwayCorners_Last5`, `HomePoints_Last5`, `AwayPoints_Last5`, `HomeWinRate_Season`, `AwayWinRate_Season`, `Result`, `ResultCode`
-- [ ] No data leakage: rolling features use `.shift(1)` — the first match of a team's history has `NaN` or `0` for rolling stats, not the result of that match
-- [ ] ELO values at row `i` reflect ratings before match `i`, not after
-- [ ] Three output files created: `data/features/ENG_features.parquet`, `FRA_features.parquet`, `SPA_features.parquet`
+- [x] Script runs without errors: `python pipeline/stage2_features.py`
+- [x] Output has columns: `HomeElo`, `AwayElo`, `EloDiff`, `HomeGoals_Last5`, `AwayGoals_Last5`, `HomeCorners_Last5`, `AwayCorners_Last5`, `HomePoints_Last5`, `AwayPoints_Last5`, `HomeWinRate_Season`, `AwayWinRate_Season`, `Result`, `ResultCode`
+- [x] No data leakage: rolling features use `.shift(1)` — the first match of a team's history has `NaN` or `0` for rolling stats, not the result of that match
+- [x] ELO values at row `i` reflect ratings before match `i`, not after
+- [x] Three output files created: `data/features/ENG_features.parquet`, `FRA_features.parquet`, `SPA_features.parquet`
 
 ---
 
