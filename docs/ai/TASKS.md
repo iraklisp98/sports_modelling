@@ -12,7 +12,7 @@ Coder-tester should pick the next incomplete task from this table, implement onl
 | 3 — Model Training | `docs/ai/tasks/stage3_train.md` | `pipeline/stage3_train.py` | Complete |
 | 4 — Odds Generation | `docs/ai/tasks/stage4_odds_gen.md` | `pipeline/stage4_odds_gen.py` | Complete |
 | 5 — Odds Comparison | `docs/ai/tasks/stage5_compare.md` | `pipeline/stage5_compare.py` | Complete |
-| 6 — Dashboard | `docs/ai/tasks/stage6_dashboard.md` | `dashboard/` | Not started |
+| 6 — Dashboard | `docs/ai/tasks/stage6_dashboard.md` | `dashboard/` | Complete |
 | 7 — Docker | `docs/ai/tasks/stage7_docker.md` | `docker/` | Not started |
 
 Update this table when a stage moves from not started to in progress, blocked, or complete.

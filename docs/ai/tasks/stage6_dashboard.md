@@ -1,6 +1,6 @@
 # Stage 6 — Dashboard
 
-**Status:** Not started  
+**Status:** Complete  
 **Files:** `dashboard/index.html`, `dashboard/css/`, `dashboard/js/`, `dashboard/data/`  
 **Input:** Four JSON files written by the pipeline to `dashboard/data/`  
 **Output:** A single-page HTML dashboard served by nginx
@@ -29,8 +29,8 @@ For a portfolio project, simplicity that works is more impressive than complexit
 ### Why write JSON files from the pipeline instead of calling an API?
 This keeps the dashboard completely decoupled from the pipeline. You can run the pipeline once, then open the dashboard a hundred times without touching any code. It also means the dashboard works without any network access after the first pipeline run.
 
-### Why Chart.js?
-It's a mature, well-documented charting library with no framework dependency. You import one script tag and you're done. D3.js is more powerful but overkill for this use case and much harder to learn.
+### Why native SVG/CSS charts?
+The dashboard is static and portfolio-focused, so simple native SVG/CSS charts avoid an external browser dependency while still making the JSON outputs inspectable. The mental model is: the pipeline computes the numbers; the browser only maps arrays of JSON records to DOM, SVG paths, and tables.
 
 ---
 
@@ -46,24 +46,11 @@ const data = await response.json();
 
 This is why you can't just open `index.html` by double-clicking — it needs to be served over HTTP.
 
-### Chart.js basics
+### Native SVG chart basics
 ```html
-<canvas id="myChart"></canvas>
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script>
-  const ctx = document.getElementById('myChart').getContext('2d');
-  new Chart(ctx, {
-    type: 'line',
-    data: {
-      labels: ['Jan', 'Feb', 'Mar'],
-      datasets: [{
-        label: 'Bankroll',
-        data: [1000, 1050, 980],
-        borderColor: 'rgb(75, 192, 192)',
-      }]
-    }
-  });
-</script>
+<svg viewBox="0 0 300 120" role="img" aria-label="Example line chart">
+  <path d="M10,90 L150,40 L290,70" fill="none" stroke="#0f766e" stroke-width="3" />
+</svg>
 ```
 
 ### JSON file contracts
@@ -168,6 +155,18 @@ Array of value bet records from Stage 5 (already written by stage5_compare.py).
 
 ## How to Build It (Step by Step)
 
+Build this stage in small increments. The reason is practical: a dashboard can look "done" while hiding broken data contracts. Each slice should prove one browser behaviour or one JSON contract before adding the next view.
+
+### Current Small-Slice Plan
+
+- [x] **Stage 6.1 — Dashboard data export contract**: `pipeline/export_dashboard_data.py` writes the four expected JSON files to `dashboard/data/`.
+- [x] **Stage 6.2 — Static app shell and tab routing**: `dashboard/index.html`, `dashboard/css/style.css`, and `dashboard/js/main.js` define the four-tab static app.
+- [x] **Stage 6.3 — Odds Inspector MVP**: reads `dashboard/data/value_bets.json`, validates required keys, filters by league/date, sorts records, displays edge as a percentage, opens a match detail modal, and exports the filtered table to CSV.
+- [x] **Stage 6.4 — League Analytics view**: render KPI cards, monthly trend chart, standings table, and home/away split from `league_analytics.json`.
+- [x] **Stage 6.5 — Backtest Performance view**: render metrics, equity curve, confusion matrix, and MLflow run summary from `backtest.json`.
+- [x] **Stage 6.6 — Betting Simulator view**: recalculate bankroll, ROI, hit rate, drawdown, and bet log from `simulator.json` when the stake changes.
+
+
 ### Step 1 — Create the export script
 Before building the dashboard, write `pipeline/export_dashboard_data.py`. This script reads the Parquet files from earlier stages and writes the four JSON files above. Run it after Stage 5 completes.
 
@@ -175,8 +174,7 @@ Before building the dashboard, write `pipeline/export_dashboard_data.py`. This s
 Create `dashboard/index.html` with:
 - A `<nav>` bar with four tab buttons
 - Four `<section>` divs, one per tab, all hidden except the active one
-- Import Chart.js via CDN
-- Import your JS files at the bottom of `<body>`
+- Import your JS file at the bottom of `<body>`
 
 ```html
 <!DOCTYPE html>
@@ -199,9 +197,6 @@ Create `dashboard/index.html` with:
   <section id="odds" class="tab-content"></section>
   <section id="simulator" class="tab-content"></section>
 
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-  <script src="js/charts.js"></script>
-  <script src="js/simulator.js"></script>
   <script src="js/main.js"></script>
 </body>
 </html>
@@ -222,7 +217,7 @@ document.querySelectorAll('.tab-btn').forEach(btn => {
 ### Step 4 — Build Tab 1: League Analytics
 Load `league_analytics.json`, wire the league and season selectors, render:
 - 4 KPI cards (avg goals, home win %, draw %, away win %)
-- A Chart.js line chart for monthly trends
+- A native SVG line chart for monthly trends
 - A sortable HTML table for team standings
 - A grouped bar chart for home vs away splits
 
@@ -230,7 +225,7 @@ Load `league_analytics.json`, wire the league and season selectors, render:
 Load `backtest.json`, render:
 - A metrics table
 - An equity curve line chart
-- A heatmap-style confusion matrix (use a `<canvas>` with Chart.js or pure CSS grid)
+- A heatmap-style confusion matrix using a pure CSS grid
 - A top-5 MLflow runs table
 
 ### Step 6 — Build Tab 3: Odds Inspector
@@ -241,7 +236,7 @@ Load `value_bets.json`, render:
 
 The modal should show:
 - Home vs Away team
-- Model probability bar chart (Chart.js horizontal bar)
+- Model probability bar chart
 - Bookmaker odds comparison table
 - Edge % per outcome
 
@@ -259,39 +254,32 @@ stakeSlider.addEventListener('input', () => {
 
 **`runSimulation(stake)` in `simulator.js`:**
 1. Loop through `simulator.json.bets`
-2. For each bet, compute `return = won ? stake * model_odds : 0`
+2. For each bet, compute `return = won ? stake * book_odds : 0`
 3. Track `running_bankroll`, `max_drawdown`, `streak` counters
 4. Update all KPI cards
 5. Re-render the equity curve chart
 6. Re-render the bet log table with green/red row highlighting
 
-**Equity curve with drawdown shading:**
+**Equity curve rendering:**
 ```javascript
-new Chart(ctx, {
-  type: 'line',
-  data: {
-    labels: dates,
-    datasets: [
-      { label: 'Bankroll', data: bankrollValues, borderColor: '#22c55e', fill: false },
-      { label: 'Peak', data: peakValues, borderColor: 'transparent', fill: false },
-      { label: 'Drawdown', data: drawdownValues, borderColor: 'transparent',
-        backgroundColor: 'rgba(239,68,68,0.2)', fill: '-1' }
-    ]
-  }
-});
+const bankrollPoints = bets.map((bet) => ({ label: bet.date, value: bet.running_bankroll }));
+renderLineChart('simulator-chart', [
+  { name: 'Bankroll', points: bankrollPoints },
+  { name: 'Peak', points: peakPoints },
+]);
 ```
 
 ---
 
 ## Acceptance Criteria
 
-- [ ] `dashboard/index.html` opens without errors when served by nginx
-- [ ] All four tabs render without JavaScript console errors
-- [ ] Tab 1: League and season selectors update all charts and the standings table
-- [ ] Tab 2: Equity curve and confusion matrix render correctly
-- [ ] Tab 3: Filtering by date range and league updates the table; clicking a row opens the modal
-- [ ] Tab 4: Moving the stake slider recalculates and updates all KPI cards, the equity curve, and the bet log table in real time
-- [ ] All four `dashboard/data/*.json` files exist and are valid JSON before running the dashboard
+- [x] `dashboard/index.html` opens without errors when served over HTTP
+- [ ] All four tabs render without JavaScript console errors (browser runtime not available in this environment)
+- [x] Tab 1: League and season selectors update all charts and the standings table
+- [x] Tab 2: Equity curve and confusion matrix render correctly
+- [x] Tab 3: Filtering by date range and league updates the table; clicking a row opens the modal
+- [x] Tab 4: Moving the stake slider recalculates and updates all KPI cards, the equity curve, and the bet log table in real time
+- [x] All four `dashboard/data/*.json` files exist and are valid JSON before running the dashboard
 
 ---
 

@@ -105,7 +105,7 @@ The build is organised into seven stages. Pipeline stages communicate exclusivel
 ┌──────────────────────────────────────────────────────────────────────┐
 │  STAGE 6 — Dashboard                                   dashboard/    │
 │                                                                      │
-│  Stack: HTML · CSS · JavaScript · Chart.js · nginx (Docker)          │
+│  Stack: HTML · CSS · JavaScript · native SVG/CSS charts · nginx (Docker)          │
 │  • Tab 1: League Analytics — trends, team leaderboards               │
 │  • Tab 2: Backtest Performance — metrics, equity curve, conf. matrix │
 │  • Tab 3: Odds Inspector — filterable value bet table + modal        │
@@ -210,7 +210,7 @@ All columns from Stage 1 output, plus:
 | Experiment tracking | MLflow | Weights & Biases | Open source, local-first, no account required |
 | Odds data | Football-Data.co.uk CSVs | Live odds API | Historical odds are required for the 2017-2020 backtest |
 | Team name matching | Normalised exact match | Fuzzy matching | Deterministic date, home-team, and away-team matching is safer for this historical CSV join |
-| Dashboard | HTML / CSS / Chart.js | Flask + Jinja | No backend needed; pipeline pre-computes everything |
+| Dashboard | HTML / CSS / JavaScript with native SVG/CSS charts | Flask + Jinja | No backend needed; pipeline pre-computes everything |
 | Dashboard server | nginx | Python http.server | Production-grade static file server |
 | Containerisation | Docker + Compose | bare Python scripts | One-command reproducibility on any machine |
 
@@ -266,7 +266,7 @@ sports_modelling/
 │   ├── css/
 │   ├── js/
 │   │   ├── main.js                 # Tab routing + data loading
-│   │   ├── charts.js               # Chart.js wrappers
+│   │   ├── main.js                 # Static dashboard renderers
 │   │   └── simulator.js            # Betting simulator logic
 │   └── data/                       # Pre-computed JSON (written by pipeline)
 │

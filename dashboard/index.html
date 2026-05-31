@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sports Betting Analytics</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="app-header">
+    <div>
+      <p class="eyebrow">Stage 6 Dashboard</p>
+      <h1>Sports Betting Analytics</h1>
+    </div>
+    <div class="status-pill" id="data-status">Loading data</div>
+  </header>
+
+  <nav class="tabs" aria-label="Dashboard sections">
+    <button class="tab-btn active" type="button" data-tab="analytics">League Analytics</button>
+    <button class="tab-btn" type="button" data-tab="backtest">Backtest</button>
+    <button class="tab-btn" type="button" data-tab="odds">Odds Inspector</button>
+    <button class="tab-btn" type="button" data-tab="simulator">Simulator</button>
+  </nav>
+
+  <main>
+    <section id="analytics" class="tab-content active">
+      <div class="panel">
+        <div class="section-heading">
+          <div>
+            <h2>League Analytics</h2>
+            <p>League-level match trends and team tables from the processed feature dataset.</p>
+          </div>
+          <div class="compact-filters">
+            <label>League<select id="analytics-league"></select></label>
+            <label>Season<select id="analytics-season"></select></label>
+          </div>
+        </div>
+        <div class="summary-row" id="analytics-kpis"></div>
+        <div class="dashboard-grid two-col">
+          <div class="subpanel">
+            <h3>Monthly Trends</h3>
+            <div id="monthly-chart" class="chart-box"></div>
+          </div>
+          <div class="subpanel">
+            <h3>Home vs Away Points</h3>
+            <div id="home-away-chart" class="bar-list"></div>
+          </div>
+        </div>
+        <div class="subpanel table-panel">
+          <h3>Team Leaderboard</h3>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Team</th>
+                  <th>Played</th>
+                  <th>Points</th>
+                  <th>GD</th>
+                  <th>GF</th>
+                  <th>GA</th>
+                </tr>
+              </thead>
+              <tbody id="standings-body"></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="backtest" class="tab-content">
+      <div class="panel">
+        <div class="section-heading">
+          <div>
+            <h2>Backtest Performance</h2>
+            <p>Model quality, value-bet equity, and MLflow run comparison.</p>
+          </div>
+        </div>
+        <div class="summary-row" id="backtest-kpis"></div>
+        <div class="dashboard-grid two-col">
+          <div class="subpanel">
+            <h3>Equity Curve</h3>
+            <div id="equity-chart" class="chart-box"></div>
+          </div>
+          <div class="subpanel">
+            <h3>Confusion Matrix</h3>
+            <div id="confusion-matrix" class="matrix-grid"></div>
+          </div>
+        </div>
+        <div class="subpanel table-panel">
+          <h3>Top MLflow Runs</h3>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Run</th>
+                  <th>Log loss</th>
+                  <th>Brier</th>
+                  <th>Accuracy</th>
+                  <th>Estimators</th>
+                  <th>Depth</th>
+                  <th>Learning rate</th>
+                </tr>
+              </thead>
+              <tbody id="mlflow-runs-body"></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="odds" class="tab-content">
+      <div class="panel">
+        <div class="section-heading">
+          <div>
+            <h2>Odds Inspector</h2>
+            <p>Flagged value bets from Stage 5.</p>
+          </div>
+          <button class="secondary-btn" type="button" id="export-csv">Export CSV</button>
+        </div>
+
+        <div class="filters" aria-label="Odds filters">
+          <label>
+            League
+            <select id="league-filter">
+              <option value="all">All leagues</option>
+            </select>
+          </label>
+          <label>
+            Start date
+            <input id="start-date" type="date">
+          </label>
+          <label>
+            End date
+            <input id="end-date" type="date">
+          </label>
+          <label>
+            Sort by
+            <select id="sort-filter">
+              <option value="edge-desc">Edge high to low</option>
+              <option value="date-asc">Date oldest first</option>
+              <option value="date-desc">Date newest first</option>
+              <option value="league-asc">League A to Z</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="summary-row" id="odds-summary"></div>
+
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Date</th>
+                <th>League</th>
+                <th>Match</th>
+                <th>Outcome</th>
+                <th>Model odds</th>
+                <th>Best odds</th>
+                <th>Edge</th>
+                <th>Bookmaker</th>
+              </tr>
+            </thead>
+            <tbody id="value-bets-body"></tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <section id="simulator" class="tab-content">
+      <div class="panel">
+        <div class="section-heading">
+          <div>
+            <h2>Betting Simulator</h2>
+            <p>Replay every flagged value bet with a configurable fixed stake.</p>
+          </div>
+          <label class="stake-control">
+            Stake per bet
+            <input id="stake-slider" type="range" min="1" max="100" step="1" value="10">
+            <span id="stake-value">$10</span>
+          </label>
+        </div>
+        <div class="summary-row six" id="simulator-kpis"></div>
+        <div class="dashboard-grid two-col">
+          <div class="subpanel">
+            <h3>Bankroll Curve</h3>
+            <div id="simulator-chart" class="chart-box"></div>
+          </div>
+          <div class="subpanel">
+            <h3>Summary Stats</h3>
+            <dl class="detail-grid compact" id="simulator-stats"></dl>
+          </div>
+        </div>
+        <div class="subpanel table-panel">
+          <h3>Bet Log</h3>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Date</th>
+                  <th>League</th>
+                  <th>Match</th>
+                  <th>Bet</th>
+                  <th>Result</th>
+                  <th>Odds</th>
+                  <th>Stake</th>
+                  <th>Return</th>
+                  <th>Profit</th>
+                  <th>Bankroll</th>
+                </tr>
+              </thead>
+              <tbody id="simulator-log-body"></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <dialog id="bet-modal">
+    <div class="modal-header">
+      <h2 id="modal-title">Match detail</h2>
+      <button class="icon-btn" type="button" id="close-modal" aria-label="Close match detail">x</button>
+    </div>
+    <dl class="detail-grid" id="modal-details"></dl>
+  </dialog>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

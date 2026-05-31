@@ -65,7 +65,7 @@ A 10% threshold filters out noise and model uncertainty, retaining only high-con
                                   │
 ┌─────────────────────────────────▼───────────────────────────────┐
 │                       DASHBOARD                                 │
-│  Static HTML/CSS/JS + Chart.js                                  │
+│  Static HTML/CSS/JS + native SVG/CSS charts                                  │
 │  Tabs: League Analytics | Backtest | Odds | Betting Simulator    │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -199,7 +199,7 @@ Where `best_bookmaker_odds` is the maximum offered across available Football-Dat
 
 ### Stage 6 — Dashboard
 
-**Stack:** Pure HTML / CSS / JavaScript (Chart.js for visualisations)  
+**Stack:** Pure HTML / CSS / JavaScript (native SVG/CSS visualisations)  
 **Data contract:** Pipeline stages write pre-computed JSON files to `dashboard/data/`. The dashboard reads them at load time — no backend server required.  
 **Deployment:** Docker container running nginx, served on port 8080
 
@@ -224,7 +224,7 @@ Where `best_bookmaker_odds` is the maximum offered across available Football-Dat
 - Date-range filter + league filter
 - Table of all flagged value bets with edge % highlighted green
 - Sortable by edge, date, or league
-- Match detail modal: full odds breakdown across all bookmakers, model probability bar chart
+- Match detail modal: available Stage 5 odds breakdown plus model probability bar chart
 - Export to CSV button
 
 #### Tab 4 — Betting Simulator
@@ -260,7 +260,7 @@ Where `best_bookmaker_odds` is the maximum offered across available Football-Dat
 | Hyperparameter tuning | Optuna | Modern, efficient; better than GridSearch for this scale |
 | Experiment tracking | MLflow | Industry standard MLOps tool; signals ML engineering depth |
 | Odds data | Football-Data.co.uk CSVs | Historical bookmaker odds are available for the backtest seasons |
-| Dashboard | HTML / CSS / Chart.js | No framework dependency; pipeline writes JSON, browser reads it — no backend needed |
+| Dashboard | HTML / CSS / JavaScript with native SVG/CSS charts | No framework dependency; pipeline writes JSON, browser reads it — no backend needed |
 | Dashboard server | nginx (Docker) | Serves static files; zero app-server complexity |
 | Containerisation | Docker + Docker Compose | Reproducible environment; signals production awareness |
 | Notebooks | Jupyter | EDA only — not part of the pipeline |
@@ -288,7 +288,7 @@ sports_modelling/
 │   ├── index.html               # Single-page app entry point
 │   ├── css/
 │   ├── js/
-│   │   ├── charts.js            # Chart.js wrappers
+│   │   ├── main.js              # Static dashboard renderers
 │   │   ├── simulator.js         # Betting simulator logic
 │   │   └── main.js              # Tab routing + data loading
 │   └── data/                    # Pre-computed JSON written by pipeline

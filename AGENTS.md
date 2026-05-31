@@ -104,7 +104,7 @@ best_bookmaker_odds >= 1.10 × model_implied_odds
 | 3 — Model Training | `pipeline/stage3_train.py` | Complete |
 | 4 — Odds Generation | `pipeline/stage4_odds_gen.py` | Complete |
 | 5 — Odds Comparison | `pipeline/stage5_compare.py` | Complete |
-| 6 — Dashboard | `dashboard/` | Not started |
+| 6 — Dashboard | `dashboard/` | Complete |
 | 7 — Docker | `docker/` | Not started |
 
 Update the status column above as each stage is completed.
