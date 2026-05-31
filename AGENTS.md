@@ -105,7 +105,7 @@ best_bookmaker_odds >= 1.10 × model_implied_odds
 | 4 — Odds Generation | `pipeline/stage4_odds_gen.py` | Complete |
 | 5 — Odds Comparison | `pipeline/stage5_compare.py` | Complete |
 | 6 — Dashboard | `dashboard/` | Complete |
-| 7 — Docker | `docker/` | Not started |
+| 7 — Docker | `docker/` | Runtime smoke pending |
 
 Update the status column above as each stage is completed.
 

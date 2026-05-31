@@ -7,7 +7,7 @@ End-to-end sports betting odds arbitrage pipeline for European football. The pro
 Phase 1 covers Premier League, La Liga, and Ligue 1 event-level data from 2017-2020. The goal is to identify value bets where:
 
 ```text
-model_implied_odds >= 1.10 * best_bookmaker_odds
+best_bookmaker_odds >= 1.10 * model_implied_odds
 ```
 
 This repository is for education and portfolio development. It does not place bets and does not provide financial advice.
@@ -22,10 +22,10 @@ This repository is for education and portfolio development. It does not place be
 
 ## Current Repo State
 
-- `pipeline/stage1_ingest.py` exists and writes Parquet outputs under `data/processed/`.
-- Stage 1 is still marked in progress because tests are not present yet.
+- Pipeline stages 1-5 are implemented under `pipeline/`.
+- Stage 6 dashboard is implemented under `dashboard/` and reads precomputed JSON from `dashboard/data/`.
+- Stage 7 Docker packaging is implemented under `docker/`.
 - `analysis/descriptive.ipynb` and `models/training.ipynb` are EDA/reference notebooks, not production pipeline code.
-- `dashboard/`, `docker/`, `config/`, and `tests/` are planned but not created yet.
 
 ## Planned Pipeline Stages
 
@@ -48,11 +48,33 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Run the current Stage 1 script with the venv active:
+Run the full pipeline with the venv active:
 
 ```bash
-python pipeline/stage1_ingest.py
+python pipeline/run_pipeline.py
 ```
+
+Preview the stage order without executing the pipeline:
+
+```bash
+python pipeline/run_pipeline.py --dry-run
+```
+
+## Docker Run
+
+From the project root:
+
+```bash
+docker compose -f docker/docker-compose.yml up --build
+```
+
+When the pipeline container finishes successfully, open:
+
+```text
+http://localhost:8080
+```
+
+The pipeline is a one-shot batch container. The dashboard is an nginx container serving the static files and mounted `dashboard/data/` JSON output.
 
 ## License
 

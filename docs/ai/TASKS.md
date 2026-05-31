@@ -13,6 +13,6 @@ Coder-tester should pick the next incomplete task from this table, implement onl
 | 4 — Odds Generation | `docs/ai/tasks/stage4_odds_gen.md` | `pipeline/stage4_odds_gen.py` | Complete |
 | 5 — Odds Comparison | `docs/ai/tasks/stage5_compare.md` | `pipeline/stage5_compare.py` | Complete |
 | 6 — Dashboard | `docs/ai/tasks/stage6_dashboard.md` | `dashboard/` | Complete |
-| 7 — Docker | `docs/ai/tasks/stage7_docker.md` | `docker/` | Not started |
+| 7 — Docker | `docs/ai/tasks/stage7_docker.md` | `docker/` | Runtime smoke pending |
 
 Update this table when a stage moves from not started to in progress, blocked, or complete.

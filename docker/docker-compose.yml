@@ -1,0 +1,26 @@
+services:
+  pipeline:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.pipeline
+    image: sports-modelling-pipeline:local
+    working_dir: /app
+    environment:
+      MLFLOW_TRACKING_URI: file:/app/mlruns
+    volumes:
+      - ../data:/app/data
+      - ../dashboard/data:/app/dashboard/data
+      - ../mlruns:/app/mlruns
+
+  dashboard:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.dashboard
+    image: sports-modelling-dashboard:local
+    ports:
+      - "8080:80"
+    volumes:
+      - ../dashboard/data:/usr/share/nginx/html/data:ro
+    depends_on:
+      pipeline:
+        condition: service_completed_successfully
