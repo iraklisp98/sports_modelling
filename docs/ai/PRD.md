@@ -14,7 +14,7 @@ Sportsbooks set odds using proprietary models with inherent inefficiencies. When
 The core arbitrage condition is:
 
 ```
-model_implied_odds >= 1.10 × sportsbook_odds
+sportsbook_odds >= 1.10 × model_implied_odds
 ```
 
 A 10% threshold filters out noise and model uncertainty, retaining only high-confidence discrepancies.
@@ -25,7 +25,7 @@ A 10% threshold filters out noise and model uncertainty, retaining only high-con
 
 - Build a reproducible, containerised end-to-end pipeline from raw CSV data to odds comparison output
 - Train and track a match outcome prediction model that produces calibrated win probabilities
-- Integrate with The Odds API to fetch live bookmaker odds for comparison
+- Use Football-Data.co.uk historical odds CSVs for bookmaker comparison
 - Surface results through a dashboard with four views: league analytics, backtest performance, odds inspection, and a betting simulator
 - Demonstrate production-grade engineering practices: modular pipeline stages, experiment tracking with MLflow, and Docker deployment
 
@@ -59,8 +59,8 @@ A 10% threshold filters out noise and model uncertainty, retaining only high-con
                                   │
 ┌─────────────────────────────────▼───────────────────────────────┐
 │                     ODDS COMPARISON                             │
-│  The Odds API → fetch bookmaker odds for matched fixtures        │
-│  Flag bets where model_odds >= 1.10 × bookmaker_odds            │
+│  Football-Data CSVs → historical bookmaker odds               │
+│  Flag bets where bookmaker_odds >= 1.10 × model_odds            │
 └─────────────────────────────────┬───────────────────────────────┘
                                   │
 ┌─────────────────────────────────▼───────────────────────────────┐
@@ -163,22 +163,22 @@ All stages are containerised with Docker. Each stage is independently runnable a
 
 ### Stage 5 — Odds Comparison & Value Bet Flagging
 
-**Input:** Model odds (Stage 4) + bookmaker odds from The Odds API  
+**Input:** Model odds (Stage 4) + historical bookmaker odds from Football-Data.co.uk CSVs  
 **Output:** Flagged value bets table
 
-**The Odds API integration:**
-- Endpoint: `/v4/sports/soccer_*/odds`
-- Markets: `h2h` (1X2)
-- Bookmakers: Bet365, Pinnacle, William Hill (configurable)
-- Odds format: decimal
-- Match fuzzy-matching on team name + date (± 1 day window)
+**Football-Data.co.uk integration:**
+- Source pattern: `https://www.football-data.co.uk/mmz4281/{season_code}/{league_code}.csv`
+- Seasons: 2017-18, 2018-19, 2019-20
+- League codes: `E0` Premier League, `SP1` La Liga, `F1` Ligue 1
+- Bookmaker odds columns: `B365*`, `PS*`, `WH*`, and other supported 1X2 prefixes
+- Match on normalised home team, away team, and match date
 
 **Flagging logic:**
 ```python
-value_bet = model_odds >= 1.10 * best_bookmaker_odds
+value_bet = best_bookmaker_odds >= 1.10 * model_odds
 ```
 
-Where `best_bookmaker_odds` is the maximum offered across configured bookmakers (best available market price).
+Where `best_bookmaker_odds` is the maximum offered across available Football-Data bookmaker columns. Because decimal model odds are fair odds, the bookmaker price must be higher than the model fair price to be value.
 
 **Output schema:**
 | Column | Description |
@@ -186,10 +186,12 @@ Where `best_bookmaker_odds` is the maximum offered across configured bookmakers 
 | `RBallID` | Unique match identifier |
 | `HomeTeam`, `AwayTeam` | Team names |
 | `Date` | Match date |
+| `Season` | Season label |
+| `League` | ENG / SPA / FRA from the matched Football-Data source |
 | `Outcome` | H / D / A |
 | `ModelOdds` | Model-implied decimal odds |
 | `BestBookOdds` | Best available bookmaker odds |
-| `Edge` | `(ModelOdds / BestBookOdds) - 1` as % |
+| `Edge` | `(BestBookOdds / ModelOdds) - 1` as % |
 | `ValueBet` | Boolean flag |
 | `BestBookmaker` | Source of best odds |
 
@@ -257,7 +259,7 @@ Where `best_bookmaker_odds` is the maximum offered across configured bookmakers 
 | Model training | XGBoost + scikit-learn | Strong baseline for tabular data; well-understood |
 | Hyperparameter tuning | Optuna | Modern, efficient; better than GridSearch for this scale |
 | Experiment tracking | MLflow | Industry standard MLOps tool; signals ML engineering depth |
-| Odds API | The Odds API | Clean REST API; free tier covers development usage |
+| Odds data | Football-Data.co.uk CSVs | Historical bookmaker odds are available for the backtest seasons |
 | Dashboard | HTML / CSS / Chart.js | No framework dependency; pipeline writes JSON, browser reads it — no backend needed |
 | Dashboard server | nginx (Docker) | Serves static files; zero app-server complexity |
 | Containerisation | Docker + Docker Compose | Reproducible environment; signals production awareness |
@@ -279,7 +281,7 @@ sports_modelling/
 │   ├── stage2_features.py       # Feature engineering (planned)
 │   ├── stage3_train.py          # Model training + MLflow logging (planned)
 │   ├── stage4_odds_gen.py       # Probability → implied odds (planned)
-│   ├── stage5_compare.py        # Odds API fetch + value bet flagging (planned)
+│   ├── stage5_compare.py        # Football-Data odds comparison + value bet flagging
 │   ├── export_dashboard_data.py # Dashboard JSON export (planned)
 │   └── run_pipeline.py          # Orchestrates all stages end-to-end (planned)
 ├── dashboard/                   # Planned
@@ -345,7 +347,7 @@ sports_modelling/
 | 1–2 | Stage 1: PySpark ingestion + Parquet output + data quality report |
 | 3–4 | Stage 2: Feature engineering module + unit tests |
 | 5–6 | Stage 3: MLflow integration + Optuna tuning + model registry |
-| 7 | Stage 4 & 5: Odds generation + Odds API integration + value bet flagging |
+| 7 | Stage 4 & 5: Odds generation + Football-Data odds comparison + value bet flagging |
 | 8–10 | Stage 6: Dashboard — Tab 1 (analytics) + Tab 2 (backtest) |
 | 11–12 | Stage 6: Dashboard — Tab 3 (odds inspector) + polish |
 | 13 | Docker Compose setup + end-to-end integration test |
@@ -371,8 +373,8 @@ This is where the Data Engineering profile becomes the primary signal.
 
 | Risk | Mitigation |
 |---|---|
-| The Odds API rate limits on free tier | Cache API responses locally; only fetch for unmatched fixtures |
-| Team name mismatches between dataset and API | Fuzzy match with `rapidfuzz`; maintain a name mapping config |
+| Football-Data CSV schema changes | Validate required match columns and supported bookmaker odds prefixes before comparison |
+| Team name mismatches between datasets | Normalise team names before exact date/team matching; add explicit mappings if mismatches remain |
 | Model not calibrated (probabilities don't sum cleanly) | Add calibration step (Platt scaling or isotonic regression) post-training |
 | PySpark overhead on local machine | Use local\[*\] Spark session; acceptable for this data size |
 | MLflow server not running | Default to file-based tracking store (no server needed) |

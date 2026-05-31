@@ -78,10 +78,10 @@ The build is organised into seven stages. Pipeline stages communicate exclusivel
 ┌──────────────────────────────────────────────────────────────────────┐
 │  STAGE 5 — Odds Comparison                pipeline/stage5_compare.py │
 │                                                                      │
-│  Tools: The Odds API · rapidfuzz · requests                          │
-│  • Fetch historical bookmaker odds per match (cached to disk)        │
-│  • Fuzzy-match team names between dataset and API                    │
-│  • For each outcome: edge = (model_odds / best_book_odds) - 1        │
+│  Tools: Football-Data CSVs · pandas · requests                       │
+│  • Download historical Football-Data season CSVs when missing        │
+│  • Match normalised home/away team names and match date                │
+│  • For each outcome: edge = (best_book_odds / model_odds) - 1        │
 │  • Flag value bets where edge >= 10%                                 │
 │                                                                      │
 │  Output: data/output/value_bets.parquet                              │
@@ -182,15 +182,17 @@ All columns from Stage 1 output, plus:
 
 | Column | Type | Description |
 |---|---|---|
+| `RBallID` | string | Match ID |
 | `HomeTeam` | string | |
 | `AwayTeam` | string | |
 | `Date` | date | |
 | `Season` | string | |
+| `League` | string | Matched league code (`ENG`, `SPA`, `FRA`) |
 | `Result` | string | Actual result |
 | `Outcome` | string | The flagged outcome (`H` / `D` / `A`) |
 | `ModelOdds` | float | Model-implied odds for this outcome |
 | `BestBookOdds` | float | Best available bookmaker odds |
-| `Edge` | float | `(ModelOdds / BestBookOdds) - 1` |
+| `Edge` | float | `(BestBookOdds / ModelOdds) - 1` |
 | `ValueBet` | bool | Always `True` in this file |
 | `BestBookmaker` | string | Bookmaker offering best odds |
 
@@ -206,8 +208,8 @@ All columns from Stage 1 output, plus:
 | Model | XGBoost | LightGBM, Logistic Regression | Best tabular baseline; handles NaN natively |
 | Hyperparameter tuning | Optuna | GridSearchCV | Bayesian optimisation; far fewer trials needed |
 | Experiment tracking | MLflow | Weights & Biases | Open source, local-first, no account required |
-| Odds data | The Odds API | Scraping | Clean REST API; free tier sufficient; multi-bookmaker |
-| Team name matching | rapidfuzz | Exact match | Team names differ between data sources |
+| Odds data | Football-Data.co.uk CSVs | Live odds API | Historical odds are required for the 2017-2020 backtest |
+| Team name matching | Normalised exact match | Fuzzy matching | Deterministic date, home-team, and away-team matching is safer for this historical CSV join |
 | Dashboard | HTML / CSS / Chart.js | Flask + Jinja | No backend needed; pipeline pre-computes everything |
 | Dashboard server | nginx | Python http.server | Production-grade static file server |
 | Containerisation | Docker + Compose | bare Python scripts | One-command reproducibility on any machine |
@@ -232,7 +234,7 @@ All rolling features are computed with `.shift(1)` before the window. ELO rating
 The dashboard reads static JSON files. It does not call the pipeline, query a database, or load a model. This means the dashboard works without any Python environment — just nginx. It also means the pipeline can be rerun without restarting the dashboard.
 
 ### 5. Secrets never touch the codebase
-The Odds API key lives in a `.env` file that is in `.gitignore`. Docker Compose reads it as an environment variable. Nothing is hardcoded.
+Stage 5 uses public Football-Data.co.uk CSVs and does not require an API key. Future live-odds integrations should keep any secrets in `.env`, outside the codebase.
 
 ---
 
@@ -248,14 +250,14 @@ sports_modelling/
 │   ├── processed/                  # Stage 1 output — Parquet per league
 │   ├── features/                   # Stage 2 output — feature-enriched Parquet
 │   ├── output/                     # Stage 4 & 5 output — odds + value bets
-│   └── odds_cache/                 # Cached Odds API responses (JSON)
+│   └── bookmaker_odds/football_data/ # Cached Football-Data CSV odds
 │
 ├── pipeline/
 │   ├── stage1_ingest.py            # PySpark CSV → Parquet
 │   ├── stage2_features.py          # ELO + rolling features (planned)
 │   ├── stage3_train.py             # XGBoost + Optuna + MLflow (planned)
 │   ├── stage4_odds_gen.py          # Model inference → implied odds (planned)
-│   ├── stage5_compare.py           # Odds API + value bet flagging (planned)
+│   ├── stage5_compare.py           # Football-Data odds + value bet flagging
 │   ├── export_dashboard_data.py    # Parquet → JSON for dashboard (planned)
 │   └── run_pipeline.py             # Orchestrates all stages in order (planned)
 │
