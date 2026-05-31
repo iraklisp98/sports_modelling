@@ -101,7 +101,7 @@ model_implied_odds >= 1.10 × best_bookmaker_odds
 |---|---|---|
 | 1 — Ingest & Clean | `pipeline/stage1_ingest.py` | Complete |
 | 2 — Feature Engineering | `pipeline/stage2_features.py` | Complete |
-| 3 — Model Training | `pipeline/stage3_train.py` | Not started |
+| 3 — Model Training | `pipeline/stage3_train.py` | Complete |
 | 4 — Odds Generation | `pipeline/stage4_odds_gen.py` | Not started |
 | 5 — Odds Comparison | `pipeline/stage5_compare.py` | Not started |
 | 6 — Dashboard | `dashboard/` | Not started |
@@ -167,7 +167,7 @@ Use these terms the same way throughout so Iraklis builds a consistent mental mo
 | **Value bet** | A match where `model_odds >= 1.10 × bookmaker_odds` |
 | **Edge** | `(model_odds / bookmaker_odds) - 1`, expressed as % |
 | **Implied odds** | `1 / probability` — how we convert model output to decimal odds |
-| **Holdout** | The 2019–2020 season used for final evaluation only |
+| **Holdout** | The available 2019–2020 rows used for final model evaluation only |
 | **Partition** | A PySpark unit of data distribution across workers |
 | **Artifact** | A file output logged by MLflow (model, chart, etc.) |
 | **Production stage** | The MLflow model registry status meaning "use this model" |

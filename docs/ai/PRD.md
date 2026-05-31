@@ -130,14 +130,14 @@ All stages are containerised with Docker. Each stage is independently runnable a
 
 **Model:** XGBoost multi-class classifier (H / D / A)
 
-**Train/test split:** Seasons 2017–2018 and 2018–2019 for training; 2019–2020 holdout for evaluation
+**Train/test split:** Seasons 2017–2018 and 2018–2019 for training; available 2019–2020 rows are held out for evaluation
 
 **Evaluation metrics:**
 - Log Loss (primary — measures probability calibration)
-- Brier Score (secondary — measures sharpness)
+- Multiclass Brier Score (secondary — measures probability sharpness across H/D/A)
 - Accuracy
 - F1 per class (Home / Draw / Away)
-- ROI simulation on flagged value bets (backtest)
+- Holdout prediction export for later ROI simulation after Stage 5 odds comparison
 
 **MLflow tracking:**
 - Each training run logs: hyperparameters, all metrics above, feature importance chart, confusion matrix
@@ -327,9 +327,9 @@ sports_modelling/
 | Metric | Target |
 |---|---|
 | Pipeline runs end-to-end from raw CSVs | Required |
-| Log Loss on 2019–2020 holdout | < 0.95 |
+| Log Loss on 2019–2020 holdout | Target < 0.95; current best checked Stage 3 run 0.9750 |
 | Brier Score on 2019–2020 holdout | < 0.55 |
-| Prediction accuracy | > 55% |
+| Prediction accuracy | > 55%; current best checked Stage 3 run 55.83% |
 | Value bet edge threshold enforced | Exactly 10% |
 | MLflow experiment logged per training run | Required |
 | Dashboard loads all four tabs without error | Required |

@@ -9,7 +9,7 @@ Coder-tester should pick the next incomplete task from this table, implement onl
 | 0 — Environment Setup | `docs/ai/tasks/setup.md` | `.venv/` and installed dependencies | In progress |
 | 1 — Data Ingestion & Cleaning | `docs/ai/tasks/stage1_ingest.md` | `pipeline/stage1_ingest.py` | Complete |
 | 2 — Feature Engineering | `docs/ai/tasks/stage2_features.md` | `pipeline/stage2_features.py` | Complete |
-| 3 — Model Training | `docs/ai/tasks/stage3_train.md` | `pipeline/stage3_train.py` | Not started |
+| 3 — Model Training | `docs/ai/tasks/stage3_train.md` | `pipeline/stage3_train.py` | Complete |
 | 4 — Odds Generation | `docs/ai/tasks/stage4_odds_gen.md` | `pipeline/stage4_odds_gen.py` | Not started |
 | 5 — Odds Comparison | `docs/ai/tasks/stage5_compare.md` | `pipeline/stage5_compare.py` | Not started |
 | 6 — Dashboard | `docs/ai/tasks/stage6_dashboard.md` | `dashboard/` | Not started |
