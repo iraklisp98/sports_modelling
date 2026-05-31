@@ -1,6 +1,6 @@
 # Stage 4 — Odds Generation
 
-**Status:** Not started  
+**Status:** Complete  
 **Script:** `pipeline/stage4_odds_gen.py`  
 **Input:** Feature Parquet files from Stage 2 + Production model from MLflow  
 **Output:** `data/output/model_odds.parquet` — one row per match with model-implied decimal odds
@@ -103,12 +103,12 @@ print(f"Written {len(df)} rows to data/output/model_odds.parquet")
 
 ## Acceptance Criteria
 
-- [ ] Script runs without errors: `python pipeline/stage4_odds_gen.py`
-- [ ] `data/output/model_odds.parquet` created
-- [ ] All probability columns (`P_Home`, `P_Draw`, `P_Away`) are between 0 and 1
-- [ ] Probabilities sum to 1.0 ± 0.001 for every row (assertion passes)
-- [ ] Decimal odds are `1 / probability` — verify a few rows manually
-- [ ] No rows have null odds values
+- [x] Script runs without errors: `python pipeline/stage4_odds_gen.py`
+- [x] `data/output/model_odds.parquet` created
+- [x] All probability columns (`P_Home`, `P_Draw`, `P_Away`) are between 0 and 1
+- [x] Probabilities sum to 1.0 ± 0.001 for every row (assertion passes)
+- [x] Decimal odds are `1 / probability` — verify a few rows manually
+- [x] No rows have null odds values
 
 ---
 

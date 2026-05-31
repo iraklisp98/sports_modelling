@@ -151,7 +151,7 @@ All stages are containerised with Docker. Each stage is independently runnable a
 ### Stage 4 — Odds Generation
 
 **Input:** Trained model + feature dataset (or live feature snapshot)  
-**Output:** DataFrame with columns `[MatchID, HomeTeam, AwayTeam, Date, P_Home, P_Draw, P_Away, ModelOdds_Home, ModelOdds_Draw, ModelOdds_Away]`
+**Output:** DataFrame with columns `[RBallID, HomeTeam, AwayTeam, Date, Season, Result, P_Home, P_Draw, P_Away, ModelOdds_Home, ModelOdds_Draw, ModelOdds_Away]`
 
 **Process:**
 1. Load the Production model from MLflow registry
@@ -183,7 +183,7 @@ Where `best_bookmaker_odds` is the maximum offered across configured bookmakers 
 **Output schema:**
 | Column | Description |
 |---|---|
-| `MatchID` | Unique match identifier |
+| `RBallID` | Unique match identifier |
 | `HomeTeam`, `AwayTeam` | Team names |
 | `Date` | Match date |
 | `Outcome` | H / D / A |
@@ -191,7 +191,7 @@ Where `best_bookmaker_odds` is the maximum offered across configured bookmakers 
 | `BestBookOdds` | Best available bookmaker odds |
 | `Edge` | `(ModelOdds / BestBookOdds) - 1` as % |
 | `ValueBet` | Boolean flag |
-| `Bookmaker` | Source of best odds |
+| `BestBookmaker` | Source of best odds |
 
 ---
 
