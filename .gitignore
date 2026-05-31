@@ -12,6 +12,7 @@ CLAUDE.md
 .env
 .env.*
 !.env.example
+config/settings.yaml
 
 # Python bytecode and caches
 __pycache__/
