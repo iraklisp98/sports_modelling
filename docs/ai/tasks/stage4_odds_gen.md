@@ -9,14 +9,14 @@
 
 ## What
 
-Load the Production model from MLflow, run inference on the full feature dataset, convert the probability outputs to decimal odds, validate them, and write the results.
+Load the calibrated Production model from MLflow, run inference on the full feature dataset, convert the calibrated probability outputs to decimal odds, validate them, and write the results. Stage 4 imports the shared model feature contract from `pipeline/model_features.py` so inference columns stay aligned with Stage 3 training.
 
 ---
 
 ## Why This Approach
 
 ### Why load from MLflow instead of a local file?
-Loading the model via `"models:/match_outcome_xgb/Production"` means this stage always uses whatever is currently in Production. If you retrain and promote a new version in Stage 3, Stage 4 picks it up automatically without any code change. This is how ML systems work in production: stages are decoupled from specific model versions.
+Loading the calibrated sklearn model via `"models:/match_outcome_xgb/Production"` means this stage always uses whatever is currently in Production. If you retrain and promote a new version in Stage 3, Stage 4 picks it up automatically without any code change. This is how ML systems work in production: stages are decoupled from specific model versions.
 
 ### Why convert probabilities to decimal odds?
 Bookmakers express their prices as decimal odds (e.g. 2.50 = $2.50 back for every $1 staked including stake). The formula is:
@@ -37,9 +37,9 @@ Create `pipeline/stage4_odds_gen.py`.
 
 ### Step 2 — Load the Production model
 ```python
-import mlflow.xgboost
+import mlflow.sklearn
 
-model = mlflow.xgboost.load_model("models:/match_outcome_xgb/Production")
+model = mlflow.sklearn.load_model("models:/match_outcome_xgb/Production")
 ```
 
 ### Step 3 — Load feature data

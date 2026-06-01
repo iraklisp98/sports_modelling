@@ -107,14 +107,20 @@ All stages are containerised with Docker. Each stage is independently runnable a
 |---|---|
 | `HomeElo`, `AwayElo` | Dynamic ELO rating at kick-off |
 | `EloDiff` | Home minus Away ELO |
+| `AbsEloDiff` | Absolute ELO gap for matchup closeness |
 | `HomeGoals_Last5` | Rolling 5-match goals scored (home) |
 | `AwayGoals_Last5` | Rolling 5-match goals scored (away) |
+| `AbsGoalsLast5Diff` | Absolute gap between home/away recent goals |
 | `HomeCorners_Last5` | Rolling 5-match corners (home) |
 | `AwayCorners_Last5` | Rolling 5-match corners (away) |
 | `HomePoints_Last5` | Rolling 5-match points (home) |
 | `AwayPoints_Last5` | Rolling 5-match points (away) |
+| `AbsPointsLast5Diff` | Absolute gap between home/away recent points |
+| `HomeDrawRate_Last5`, `AwayDrawRate_Last5` | Rolling 5-match draw rate for each team |
+| `AvgDrawRateLast5`, `AbsDrawRateLast5Diff` | Shared and differential recent draw tendency |
 | `HomeWinRate_Season` | Season win rate at time of match (home) |
 | `AwayWinRate_Season` | Season win rate at time of match (away) |
+| `League_ENG`, `League_SPA`, `League_FRA` | One-hot league indicators |
 | `Result` | Target: H / D / A |
 
 **ELO implementation:**
@@ -181,7 +187,7 @@ All stages are containerised with Docker. Each stage is independently runnable a
 value_bet = best_bookmaker_odds >= 1.10 * model_odds
 ```
 
-Where `best_bookmaker_odds` is the maximum offered across available Football-Data bookmaker columns. Because decimal model odds are fair odds, the bookmaker price must be higher than the model fair price to be value.
+Where `best_bookmaker_odds` is the maximum offered across available Football-Data bookmaker columns. Because decimal model odds are fair odds, the bookmaker price must be higher than the model fair price to be value. Stage 5 also applies an odds sanity policy before surfacing a bet: minimum model probability, bookmaker odds bounds, and a maximum edge cap to reject long-shot/outlier rows.
 
 **Output schema:**
 | Column | Description |
@@ -332,10 +338,10 @@ sports_modelling/
 | Metric | Target |
 |---|---|
 | Pipeline runs end-to-end from raw CSVs | Required |
-| Log Loss on 2019–2020 holdout | Target < 0.95; current best checked Stage 3 run 0.9750 |
+| Log Loss on 2019-2020 holdout | Target < 0.95; latest generated Production run 0.9964 |
 | Brier Score on 2019–2020 holdout | < 0.55 |
-| Prediction accuracy | > 55%; current best checked Stage 3 run 55.83% |
-| Value bet edge threshold enforced | Exactly 10% |
+| Prediction accuracy | > 55%; latest generated Production run 51.88% |
+| Value bet edge threshold enforced | At least 10%, plus Stage 5 sanity filters |
 | MLflow experiment logged per training run | Required |
 | Dashboard loads all four tabs without error | Required |
 | Full environment reproducible via Docker | Required |
@@ -378,7 +384,7 @@ This is where the Data Engineering profile becomes the primary signal.
 |---|---|
 | Football-Data CSV schema changes | Validate required match columns and supported bookmaker odds prefixes before comparison |
 | Team name mismatches between datasets | Normalise team names before exact date/team matching; add explicit mappings if mismatches remain |
-| Model not calibrated (probabilities don't sum cleanly) | Add calibration step (Platt scaling or isotonic regression) post-training |
+| Model miscalibration by outcome bucket | Track calibration diagnostics and use a calibrated sklearn wrapper around XGBoost |
 | PySpark overhead on local machine | Use local\[*\] Spark session; acceptable for this data size |
 | MLflow server not running | Default to file-based tracking store (no server needed) |
 

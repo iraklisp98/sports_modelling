@@ -8,32 +8,24 @@ from typing import Iterable
 
 import numpy as np
 import pandas as pd
+try:
+    from pipeline.model_features import BASE_FEATURE_COLUMNS, FEATURE_COLUMNS, LEAGUE_FEATURE_COLUMNS, LEAGUES, add_league_indicator_features
+except ModuleNotFoundError:
+    from model_features import BASE_FEATURE_COLUMNS, FEATURE_COLUMNS, LEAGUE_FEATURE_COLUMNS, LEAGUES, add_league_indicator_features
+from sklearn.calibration import CalibratedClassifierCV
 from sklearn.metrics import accuracy_score, confusion_matrix, f1_score, log_loss
 from sklearn.model_selection import TimeSeriesSplit
 from xgboost import XGBClassifier
 
 FEATURES_DIR = Path("data/features")
 ARTIFACTS_DIR = Path("data/model_artifacts/stage3")
-LEAGUES = ("ENG", "SPA", "FRA")
 
 HOLDOUT_SEASON = "2019-20"
 TARGET_COLUMN = "ResultCode"
 LABELS = (0, 1, 2)
 LABEL_NAMES = {0: "home", 1: "draw", 2: "away"}
-
-FEATURE_COLUMNS = [
-    "HomeElo",
-    "AwayElo",
-    "EloDiff",
-    "HomeGoals_Last5",
-    "AwayGoals_Last5",
-    "HomeCorners_Last5",
-    "AwayCorners_Last5",
-    "HomePoints_Last5",
-    "AwayPoints_Last5",
-    "HomeWinRate_Season",
-    "AwayWinRate_Season",
-]
+DRAW_CLASS_WEIGHT_MULTIPLIER = 1.25
+DRAW_OVERLAY_WEIGHT = 0.20
 
 DEFAULT_XGB_PARAMS = {
     "objective": "multi:softprob",
@@ -49,10 +41,24 @@ DEFAULT_XGB_PARAMS = {
     "n_jobs": 1,
 }
 
+DEFAULT_DRAW_XGB_PARAMS = {
+    "objective": "binary:logistic",
+    "eval_metric": "logloss",
+    "n_estimators": 150,
+    "max_depth": 3,
+    "learning_rate": 0.05,
+    "subsample": 0.85,
+    "colsample_bytree": 0.85,
+    "min_child_weight": 2,
+    "random_state": 42,
+    "n_jobs": 1,
+}
+
 
 @dataclass(frozen=True)
 class TrainingRunSummary:
     train_rows: int
+    calibration_rows: int
     holdout_rows: int
     metrics: dict[str, float]
     model_path: Path
@@ -63,7 +69,7 @@ class TrainingRunSummary:
     def line(self) -> str:
         run = self.mlflow_run_id or "not logged"
         return (
-            f"train_rows={self.train_rows}, holdout_rows={self.holdout_rows}, "
+            f"train_rows={self.train_rows}, calibration_rows={self.calibration_rows}, holdout_rows={self.holdout_rows}, "
             f"log_loss={self.metrics['holdout_log_loss']:.4f}, "
             f"accuracy={self.metrics['holdout_accuracy']:.4f}, "
             f"model={self.model_path}, mlflow_run_id={run}, "
@@ -91,11 +97,12 @@ def load_feature_data(
 
     combined = pd.concat(frames, ignore_index=True)
     combined["Date"] = pd.to_datetime(combined["Date"])
+    combined = add_league_indicator_features(combined, leagues=leagues)
     return combined.sort_values(["Date", "RBallID"], kind="mergesort").reset_index(drop=True)
 
 
 def validate_training_columns(df: pd.DataFrame) -> None:
-    required = ["RBallID", "Date", "Season", TARGET_COLUMN, *FEATURE_COLUMNS]
+    required = ["RBallID", "Date", "Season", "League", TARGET_COLUMN, *BASE_FEATURE_COLUMNS]
     missing = [column for column in required if column not in df.columns]
     if missing:
         raise ValueError(f"Missing required Stage 2 columns: {missing}")
@@ -145,7 +152,8 @@ def select_features_and_target(
     validate_training_columns(df)
 
     columns = list(feature_columns)
-    X = df[columns].apply(pd.to_numeric, errors="raise").astype("float64")
+    encoded = add_league_indicator_features(df)
+    X = encoded[columns].apply(pd.to_numeric, errors="raise").astype("float64")
     y = df[target_column].astype("int64")
 
     unknown_labels = sorted(set(y.unique()) - set(LABELS))
@@ -159,6 +167,10 @@ def normalize_probabilities(y_proba: np.ndarray) -> np.ndarray:
     proba = np.asarray(y_proba, dtype=float)
     if proba.ndim != 2 or proba.shape[1] != len(LABELS):
         raise ValueError(f"Expected probability matrix with {len(LABELS)} columns")
+    if not np.isfinite(proba).all():
+        raise ValueError("Probability matrix must contain only finite values")
+    if (proba < 0).any():
+        raise ValueError("Probability values must be non-negative")
 
     row_sums = proba.sum(axis=1, keepdims=True)
     if np.any(row_sums <= 0):
@@ -175,22 +187,240 @@ def multiclass_brier_score(y_true: pd.Series | np.ndarray, y_proba: np.ndarray) 
 
 def evaluate_predictions(y_true: pd.Series | np.ndarray, y_proba: np.ndarray) -> dict[str, float]:
     proba = normalize_probabilities(y_proba)
+    y_array = np.asarray(y_true, dtype=int)
     predicted = np.argmax(proba, axis=1)
-    f1_values = f1_score(y_true, predicted, labels=list(LABELS), average=None, zero_division=0)
+    f1_values = f1_score(y_array, predicted, labels=list(LABELS), average=None, zero_division=0)
     metrics = {
-        "holdout_log_loss": float(log_loss(y_true, proba, labels=list(LABELS))),
-        "holdout_brier_score": multiclass_brier_score(y_true, proba),
-        "holdout_accuracy": float(accuracy_score(y_true, predicted)),
+        "holdout_log_loss": float(log_loss(y_array, proba, labels=list(LABELS))),
+        "holdout_brier_score": multiclass_brier_score(y_array, proba),
+        "holdout_accuracy": float(accuracy_score(y_array, predicted)),
     }
     for label, value in zip(LABELS, f1_values):
-        metrics[f"holdout_f1_{LABEL_NAMES[label]}"] = float(value)
+        name = LABEL_NAMES[label]
+        metrics[f"holdout_f1_{name}"] = float(value)
+        metrics[f"holdout_actual_{name}"] = int(np.sum(y_array == label))
+        metrics[f"holdout_predicted_{name}"] = int(np.sum(predicted == label))
     return metrics
+
+
+def draw_binary_labels(y: pd.Series | np.ndarray) -> pd.Series:
+    y_series = pd.Series(np.asarray(y, dtype=int))
+    unknown_labels = sorted(set(y_series.unique()) - set(LABELS))
+    if unknown_labels:
+        raise ValueError(f"Unexpected target labels for draw binary labels: {unknown_labels}")
+    return (y_series == 1).astype("int64")
+
+
+def compute_binary_sample_weights(y_binary: pd.Series | np.ndarray) -> np.ndarray:
+    y_array = np.asarray(y_binary, dtype=int)
+    unknown_labels = sorted(set(np.unique(y_array)) - {0, 1})
+    if unknown_labels:
+        raise ValueError(f"Unexpected binary labels for sample weights: {unknown_labels}")
+    counts = {label: int(np.sum(y_array == label)) for label in (0, 1)}
+    if any(count == 0 for count in counts.values()):
+        raise ValueError(f"Both binary classes are required for sample weighting: {counts}")
+    total = len(y_array)
+    class_weights = {label: total / (2 * count) for label, count in counts.items()}
+    weights = np.asarray([class_weights[label] for label in y_array], dtype=float)
+    return weights / weights.mean()
+
+
+def blend_draw_probability(
+    multiclass_proba: np.ndarray,
+    draw_proba: pd.Series | np.ndarray,
+    blend_weight: float = DRAW_OVERLAY_WEIGHT,
+) -> np.ndarray:
+    if blend_weight < 0.0 or blend_weight > 1.0:
+        raise ValueError("blend_weight must be between 0 and 1")
+    base = normalize_probabilities(multiclass_proba)
+    draw = np.asarray(draw_proba, dtype=float).reshape(-1)
+    if len(draw) != len(base):
+        raise ValueError("draw_proba must have one value per probability row")
+    if not np.isfinite(draw).all() or (draw < 0).any() or (draw > 1).any():
+        raise ValueError("draw_proba values must be finite probabilities between 0 and 1")
+
+    blended_draw = ((1.0 - blend_weight) * base[:, 1]) + (blend_weight * draw)
+    remaining = 1.0 - blended_draw
+    old_non_draw = base[:, 0] + base[:, 2]
+    home_share = np.divide(base[:, 0], old_non_draw, out=np.full(len(base), 0.5), where=old_non_draw > 0.0)
+    away_share = 1.0 - home_share
+    blended = np.column_stack([remaining * home_share, blended_draw, remaining * away_share])
+    return normalize_probabilities(blended)
+
+
+class DrawAdjustedModel:
+    def __init__(self, multiclass_model: object, draw_model: object, blend_weight: float, feature_names: Iterable[str]):
+        self.multiclass_model = multiclass_model
+        self.draw_model = draw_model
+        self.blend_weight = float(blend_weight)
+        self.classes_ = np.asarray(LABELS)
+        self.feature_names_in_ = np.asarray(list(feature_names), dtype=object)
+
+    def predict_proba(self, X: pd.DataFrame | np.ndarray) -> np.ndarray:
+        base_proba = normalize_probabilities(self.multiclass_model.predict_proba(X))
+        draw_matrix = np.asarray(self.draw_model.predict_proba(X), dtype=float)
+        if draw_matrix.ndim != 2 or draw_matrix.shape[1] != 2:
+            raise ValueError("Draw model must return a two-column probability matrix")
+        return blend_draw_probability(base_proba, draw_matrix[:, 1], blend_weight=self.blend_weight)
+
+    def predict(self, X: pd.DataFrame | np.ndarray) -> np.ndarray:
+        return np.argmax(self.predict_proba(X), axis=1)
+
+
+def class_prior_probabilities(y_train: pd.Series | np.ndarray, rows: int) -> np.ndarray:
+    y_array = np.asarray(y_train, dtype=int)
+    counts = np.asarray([np.sum(y_array == label) for label in LABELS], dtype=float)
+    if np.any(counts == 0):
+        raise ValueError("All classes are required to build class-prior probabilities")
+    probabilities = counts / counts.sum()
+    return np.tile(probabilities, (rows, 1))
+
+
+def hard_class_predictions(label: int, rows: int) -> np.ndarray:
+    if label not in LABELS:
+        raise ValueError(f"Unexpected hard baseline label: {label}")
+    if rows < 0:
+        raise ValueError("rows must be non-negative")
+    return np.full(rows, label, dtype=int)
+
+
+def majority_class_predictions(y_train: pd.Series | np.ndarray, rows: int) -> np.ndarray:
+    y_array = np.asarray(y_train, dtype=int)
+    if len(y_array) == 0:
+        raise ValueError("At least one training label is required for the majority-class baseline")
+    unknown_labels = sorted(set(np.unique(y_array)) - set(LABELS))
+    if unknown_labels:
+        raise ValueError(f"Unexpected target labels for majority-class baseline: {unknown_labels}")
+    counts = {label: int(np.sum(y_array == label)) for label in LABELS}
+    majority_label = max(LABELS, key=lambda label: (counts[label], -label))
+    return hard_class_predictions(majority_label, rows)
+
+
+def always_home_predictions(rows: int) -> np.ndarray:
+    return hard_class_predictions(0, rows)
+
+
+def majority_class_probabilities(
+    y_train: pd.Series | np.ndarray,
+    rows: int,
+    confidence: float = 0.98,
+) -> np.ndarray:
+    return hard_predictions_to_probabilities(majority_class_predictions(y_train, rows), confidence=confidence)
+
+
+def always_home_probabilities(rows: int, confidence: float = 0.98) -> np.ndarray:
+    return hard_predictions_to_probabilities(always_home_predictions(rows), confidence=confidence)
+
+
+def hard_predictions_to_probabilities(predicted: pd.Series | np.ndarray, confidence: float = 0.98) -> np.ndarray:
+    if confidence <= 0.0 or confidence >= 1.0:
+        raise ValueError("confidence must be between 0 and 1")
+    predicted_array = np.asarray(predicted, dtype=int)
+    unknown_labels = sorted(set(np.unique(predicted_array)) - set(LABELS))
+    if unknown_labels:
+        raise ValueError(f"Unexpected hard baseline labels: {unknown_labels}")
+    remainder = (1.0 - confidence) / (len(LABELS) - 1)
+    proba = np.full((len(predicted_array), len(LABELS)), remainder, dtype=float)
+    for row_index, label in enumerate(predicted_array):
+        proba[row_index, label] = confidence
+    return normalize_probabilities(proba)
+
+
+def elo_heuristic_probabilities(holdout_df: pd.DataFrame, y_train: pd.Series | np.ndarray) -> np.ndarray:
+    required = ["HomeElo", "AwayElo"]
+    missing = [column for column in required if column not in holdout_df.columns]
+    if missing:
+        raise ValueError(f"Missing ELO columns for benchmark: {missing}")
+
+    y_array = np.asarray(y_train, dtype=int)
+    draw_rate = float(np.mean(y_array == 1))
+    home_binary = 1.0 / (1.0 + 10.0 ** ((holdout_df["AwayElo"].astype(float) - holdout_df["HomeElo"].astype(float)) / 400.0))
+    p_draw = np.full(len(holdout_df), draw_rate, dtype=float)
+    non_draw = 1.0 - p_draw
+    proba = np.column_stack([non_draw * home_binary, p_draw, non_draw * (1.0 - home_binary)])
+    return normalize_probabilities(proba)
+
+
+def compact_benchmark_metrics(name: str, y_true: pd.Series | np.ndarray, y_proba: np.ndarray) -> dict[str, object]:
+    metrics = evaluate_predictions(y_true, y_proba)
+    return {
+        "model": name,
+        "type": "probabilistic",
+        "log_loss": round(metrics["holdout_log_loss"], 6),
+        "brier_score": round(metrics["holdout_brier_score"], 6),
+        "accuracy": round(metrics["holdout_accuracy"], 6),
+        "f1_home": round(metrics["holdout_f1_home"], 6),
+        "f1_draw": round(metrics["holdout_f1_draw"], 6),
+        "f1_away": round(metrics["holdout_f1_away"], 6),
+        "predicted_home": int(metrics["holdout_predicted_home"]),
+        "predicted_draw": int(metrics["holdout_predicted_draw"]),
+        "predicted_away": int(metrics["holdout_predicted_away"]),
+    }
+
+
+def compact_hard_baseline_metrics(name: str, y_true: pd.Series | np.ndarray, predicted: pd.Series | np.ndarray) -> dict[str, object]:
+    y_array = np.asarray(y_true, dtype=int)
+    predicted_array = np.asarray(predicted, dtype=int)
+    f1_values = f1_score(y_array, predicted_array, labels=list(LABELS), average=None, zero_division=0)
+    row = {
+        "model": name,
+        "type": "hard_class",
+        "accuracy": round(float(accuracy_score(y_array, predicted_array)), 6),
+        "log_loss": None,
+        "brier_score": None,
+    }
+    for label, value in zip(LABELS, f1_values):
+        name_suffix = LABEL_NAMES[label]
+        row[f"f1_{name_suffix}"] = round(float(value), 6)
+        row[f"predicted_{name_suffix}"] = int(np.sum(predicted_array == label))
+    return row
+
+
+def build_model_benchmarks(
+    y_train: pd.Series | np.ndarray,
+    holdout_df: pd.DataFrame,
+    y_holdout: pd.Series | np.ndarray,
+    model_proba: np.ndarray,
+    draw_overlay_proba: np.ndarray | None = None,
+) -> list[dict[str, object]]:
+    rows = len(holdout_df)
+    benchmarks = [
+        compact_benchmark_metrics("historical_class_prior", y_holdout, class_prior_probabilities(y_train, rows)),
+        compact_hard_baseline_metrics("majority_class", y_holdout, majority_class_predictions(y_train, rows)),
+        compact_hard_baseline_metrics("always_home", y_holdout, always_home_predictions(rows)),
+        compact_benchmark_metrics("elo_heuristic", y_holdout, elo_heuristic_probabilities(holdout_df, y_train)),
+        compact_benchmark_metrics("calibrated_xgboost", y_holdout, model_proba),
+    ]
+    if draw_overlay_proba is not None:
+        row = compact_benchmark_metrics("calibrated_xgboost_draw_overlay", y_holdout, draw_overlay_proba)
+        row["draw_overlay_weight"] = DRAW_OVERLAY_WEIGHT
+        benchmarks.append(row)
+    return benchmarks
+
+
+def compute_class_sample_weights(
+    y: pd.Series | np.ndarray,
+    draw_multiplier: float = DRAW_CLASS_WEIGHT_MULTIPLIER,
+) -> np.ndarray:
+    y_array = np.asarray(y, dtype=int)
+    unknown_labels = sorted(set(np.unique(y_array)) - set(LABELS))
+    if unknown_labels:
+        raise ValueError(f"Unexpected target labels for sample weights: {unknown_labels}")
+    counts = {label: int(np.sum(y_array == label)) for label in LABELS}
+    if any(count == 0 for count in counts.values()):
+        raise ValueError(f"All classes are required for sample weighting: {counts}")
+    total = len(y_array)
+    class_weights = {label: total / (len(LABELS) * count) for label, count in counts.items()}
+    class_weights[1] *= float(draw_multiplier)
+    weights = np.asarray([class_weights[label] for label in y_array], dtype=float)
+    return weights / weights.mean()
 
 
 def tune_hyperparameters(
     X_train: pd.DataFrame,
     y_train: pd.Series,
     trials: int,
+    sample_weight: np.ndarray | None = None,
     random_state: int = 42,
 ) -> dict[str, object]:
     if trials <= 0:
@@ -218,7 +448,9 @@ def tune_hyperparameters(
         scores = []
         for train_index, val_index in tscv.split(X_train):
             model = XGBClassifier(**params)
-            model.fit(X_train.iloc[train_index], y_train.iloc[train_index])
+            y_fold_train = y_train.iloc[train_index]
+            fit_weight = compute_class_sample_weights(y_fold_train) if sample_weight is not None else None
+            model.fit(X_train.iloc[train_index], y_fold_train, sample_weight=fit_weight)
             proba = model.predict_proba(X_train.iloc[val_index])
             scores.append(log_loss(y_train.iloc[val_index], proba, labels=list(LABELS)))
         return float(np.mean(scores))
@@ -228,10 +460,59 @@ def tune_hyperparameters(
     return {**DEFAULT_XGB_PARAMS, **study.best_params, "random_state": random_state}
 
 
-def train_classifier(X_train: pd.DataFrame, y_train: pd.Series, params: dict[str, object]) -> XGBClassifier:
+def train_classifier(
+    X_train: pd.DataFrame,
+    y_train: pd.Series,
+    params: dict[str, object],
+    sample_weight: np.ndarray | None = None,
+) -> XGBClassifier:
     model = XGBClassifier(**params)
-    model.fit(X_train, y_train)
+    model.fit(X_train, y_train, sample_weight=sample_weight)
     return model
+
+
+def train_draw_classifier(
+    X_train: pd.DataFrame,
+    y_train: pd.Series,
+    params: dict[str, object] | None = None,
+) -> XGBClassifier:
+    draw_labels = draw_binary_labels(y_train)
+    sample_weight = compute_binary_sample_weights(draw_labels)
+    model = XGBClassifier(**(params or DEFAULT_DRAW_XGB_PARAMS))
+    model.fit(X_train, draw_labels, sample_weight=sample_weight)
+    return model
+
+
+def split_model_calibration_data(
+    train_df: pd.DataFrame,
+    calibration_fraction: float = 0.2,
+    min_calibration_rows: int = 300,
+) -> tuple[pd.DataFrame, pd.DataFrame]:
+    ordered = train_df.sort_values(["Date", "RBallID"], kind="mergesort").reset_index(drop=True)
+    calibration_rows = max(min_calibration_rows, int(round(len(ordered) * calibration_fraction)))
+    if len(ordered) <= calibration_rows:
+        raise ValueError("Training data is too small to reserve a calibration split")
+    model_df = ordered.iloc[:-calibration_rows].copy().reset_index(drop=True)
+    calibration_df = ordered.iloc[-calibration_rows:].copy().reset_index(drop=True)
+    if set(calibration_df[TARGET_COLUMN].unique()) != set(LABELS):
+        raise ValueError("Calibration split must contain all result classes")
+    return model_df, calibration_df
+
+
+def calibrate_classifier(
+    base_model: XGBClassifier,
+    X_calibration: pd.DataFrame,
+    y_calibration: pd.Series,
+    method: str = "sigmoid",
+):
+    try:
+        from sklearn.frozen import FrozenEstimator
+
+        calibrated = CalibratedClassifierCV(estimator=FrozenEstimator(base_model), method=method)
+    except ImportError:
+        calibrated = CalibratedClassifierCV(estimator=base_model, method=method, cv="prefit")
+    calibrated.fit(X_calibration, y_calibration)
+    return calibrated
 
 
 def write_json(path: Path, payload: dict[str, object]) -> None:
@@ -277,7 +558,7 @@ def write_confusion_matrix(y_true: pd.Series, y_proba: np.ndarray, output_path: 
 
 
 def log_mlflow_run(
-    model: XGBClassifier,
+    model: object,
     params: dict[str, object],
     metrics: dict[str, float],
     artifact_paths: Iterable[Path],
@@ -285,18 +566,18 @@ def log_mlflow_run(
 ) -> tuple[str | None, str | None]:
     try:
         import mlflow
-        import mlflow.xgboost
+        import mlflow.sklearn
     except ImportError:
         return None, None
 
     mlflow.set_tracking_uri(tracking_uri or "file:mlruns")
     mlflow.set_experiment("match_outcome_prediction")
-    with mlflow.start_run(run_name="stage3_xgboost_multiclass"):
+    with mlflow.start_run(run_name="stage3_xgboost_calibrated"):
         mlflow.log_params(params)
         mlflow.log_metrics(metrics)
         for path in artifact_paths:
             mlflow.log_artifact(str(path))
-        model_info = mlflow.xgboost.log_model(model, artifact_path="model")
+        model_info = mlflow.sklearn.log_model(model, artifact_path="model")
         return mlflow.active_run().info.run_id, model_info.model_uri
 
 
@@ -335,12 +616,25 @@ def run_pipeline(
 ) -> TrainingRunSummary:
     df = load_feature_data(leagues=leagues, features_dir=features_dir)
     train_df, holdout_df = split_train_holdout(df)
-    X_train, y_train = select_features_and_target(train_df)
+    model_train_df, calibration_df = split_model_calibration_data(train_df)
+    X_train, y_train = select_features_and_target(model_train_df)
+    X_calibration, y_calibration = select_features_and_target(calibration_df)
     X_holdout, y_holdout = select_features_and_target(holdout_df)
 
-    params = tune_hyperparameters(X_train, y_train, trials=trials)
-    model = train_classifier(X_train, y_train, params=params)
-    holdout_proba = normalize_probabilities(model.predict_proba(X_holdout))
+    train_sample_weight = compute_class_sample_weights(y_train)
+    params = tune_hyperparameters(X_train, y_train, trials=trials, sample_weight=train_sample_weight)
+    model = train_classifier(X_train, y_train, params=params, sample_weight=train_sample_weight)
+    calibrated_model = calibrate_classifier(model, X_calibration, y_calibration)
+    draw_model = train_draw_classifier(X_train, y_train)
+    calibrated_draw_model = calibrate_classifier(draw_model, X_calibration, draw_binary_labels(y_calibration))
+    production_model = DrawAdjustedModel(
+        multiclass_model=calibrated_model,
+        draw_model=calibrated_draw_model,
+        blend_weight=DRAW_OVERLAY_WEIGHT,
+        feature_names=FEATURE_COLUMNS,
+    )
+    base_holdout_proba = normalize_probabilities(calibrated_model.predict_proba(X_holdout))
+    holdout_proba = normalize_probabilities(production_model.predict_proba(X_holdout))
     metrics = evaluate_predictions(y_holdout, holdout_proba)
 
     artifacts_dir.mkdir(parents=True, exist_ok=True)
@@ -349,9 +643,14 @@ def run_pipeline(
     predictions_path = artifacts_dir / "holdout_predictions.parquet"
     feature_importance_path = artifacts_dir / "feature_importance.png"
     confusion_matrix_path = artifacts_dir / "confusion_matrix.png"
+    benchmarks_path = artifacts_dir / "model_benchmarks.json"
+
+    _, y_benchmark = select_features_and_target(train_df)
+    benchmarks = build_model_benchmarks(y_benchmark, holdout_df, y_holdout, base_holdout_proba, draw_overlay_proba=holdout_proba)
 
     model.save_model(model_path)
     write_json(metrics_path, metrics)
+    write_json(benchmarks_path, {"benchmarks": benchmarks})
     write_feature_importance(model, feature_importance_path)
     write_confusion_matrix(y_holdout, holdout_proba, confusion_matrix_path)
 
@@ -361,11 +660,12 @@ def run_pipeline(
     predictions["P_Away"] = holdout_proba[:, 2]
     predictions.to_parquet(predictions_path, index=False)
 
+    logged_params = {**params, "draw_overlay_weight": DRAW_OVERLAY_WEIGHT}
     mlflow_run_id, model_uri = log_mlflow_run(
-        model=model,
-        params=params,
+        model=production_model,
+        params=logged_params,
         metrics=metrics,
-        artifact_paths=[metrics_path, predictions_path, feature_importance_path, confusion_matrix_path],
+        artifact_paths=[metrics_path, predictions_path, feature_importance_path, confusion_matrix_path, benchmarks_path],
         tracking_uri=tracking_uri,
     )
     registered_model_version = register_production_model(
@@ -374,7 +674,8 @@ def run_pipeline(
     )
 
     return TrainingRunSummary(
-        train_rows=len(train_df),
+        train_rows=len(model_train_df),
+        calibration_rows=len(calibration_df),
         holdout_rows=len(holdout_df),
         metrics=metrics,
         model_path=model_path,

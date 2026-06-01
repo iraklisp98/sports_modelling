@@ -9,7 +9,7 @@
 
 ## What
 
-Compare model-implied fair odds against historical bookmaker closing odds from Football-Data.co.uk. For each matched fixture and each 1X2 outcome, Stage 5 takes the best available bookmaker price, computes the edge, and writes only bets that clear the 10% value threshold.
+Compare model-implied fair odds against historical bookmaker closing odds from Football-Data.co.uk. For each matched fixture and each 1X2 outcome, Stage 5 takes the best available bookmaker price, computes the edge, and writes only bets that clear the 10% value threshold plus the odds sanity policy.
 
 ---
 
@@ -30,6 +30,17 @@ edge = (best_bookmaker_odds / model_odds) - 1
 ```
 
 This fixes the common mistake of treating higher model odds as better. With decimal odds, higher model odds actually mean lower model probability.
+
+### Why add odds sanity filters?
+A 10% edge is necessary, but it is not enough. Very large bookmaker prices, tiny model probabilities, or extreme calculated edges are usually where model noise and historical data quirks show up. Stage 5 now uses a small risk policy before surfacing a value bet:
+
+```text
+ModelProbability >= 35%
+1.20 <= BestBookOdds <= 8.00
+10% <= Edge <= 30%
+```
+
+These bounds keep the dashboard focused on bets the model has enough confidence in and remove long-shot outliers that make the backtest look better than it really is. The values are exposed as CLI arguments so the policy is testable and tunable without changing code.
 
 ---
 
@@ -59,7 +70,8 @@ Supported bookmaker prefixes currently include `B365`, `PS`, `WH`, `BW`, `IW`, `
 4. Match model rows to bookmaker rows by normalised `Date`, `HomeTeam`, and `AwayTeam`.
 5. For each outcome, select the highest bookmaker odds and the bookmaker that offered it.
 6. Compute `Edge = (BestBookOdds / ModelOdds) - 1`.
-7. Keep rows where `Edge >= 0.10` and write Parquet + dashboard JSON.
+7. Keep rows where `Edge >= 0.10` and the odds sanity policy passes.
+8. Write Parquet + dashboard JSON.
 
 ---
 
@@ -71,7 +83,8 @@ Supported bookmaker prefixes currently include `B365`, `PS`, `WH`, `BW`, `IW`, `
 - [x] `dashboard/data/value_bets.json` is written by `run_pipeline`
 - [x] Output columns are: `RBallID`, `HomeTeam`, `AwayTeam`, `Date`, `Season`, `League`, `Result`, `Outcome`, `ModelOdds`, `BestBookOdds`, `Edge`, `ValueBet`, `BestBookmaker`
 - [x] All `Edge` values in the output are at least the configured threshold
-- [x] Unit tests cover best bookmaker selection, edge direction, CSV normalisation, and output writing
+- [x] Value bets must pass the configured probability, bookmaker-odds, and max-edge sanity policy
+- [x] Unit tests cover best bookmaker selection, edge direction, odds sanity filtering, CSV normalisation, and output writing
 
 Narrow test command:
 
@@ -93,7 +106,7 @@ Broader Stage 4/5 contract check:
 A: "This is a historical backtest. I need bookmaker odds from the same seasons as the matches, not current or upcoming odds. Football-Data provides reproducible historical season CSVs, so anyone can rerun the comparison without an API key."
 
 **Q: Walk me through the odds comparison logic.**  
-A: "The model outputs probabilities, then Stage 4 converts them to fair decimal odds using `1 / probability`. Stage 5 compares those fair odds to the best historical bookmaker price. If the bookmaker price is at least 10% higher than my fair price, I flag it as value."
+A: "The model outputs probabilities, then Stage 4 converts them to fair decimal odds using `1 / probability`. Stage 5 compares those fair odds to the best historical bookmaker price. A bet is flagged only if the bookmaker price is at least 10% higher than my fair price and it passes sanity checks for model probability, bookmaker odds, and maximum edge."
 
 **Q: Why is the edge formula `bookmaker_odds / model_odds - 1`?**  
 A: "Because decimal model odds are fair odds. If my model says fair odds are 2.00 and the market offers 2.25, the market is paying 12.5% more than fair value. The opposite formula would incorrectly reward outcomes my model thinks are less likely."

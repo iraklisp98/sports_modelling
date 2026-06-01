@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import math
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Iterable
@@ -14,6 +15,10 @@ FOOTBALL_DATA_DIR = Path("data/bookmaker_odds/football_data")
 VALUE_BETS_PATH = Path("data/output/value_bets.parquet")
 DASHBOARD_JSON_PATH = Path("dashboard/data/value_bets.json")
 EDGE_THRESHOLD = 0.10
+MIN_MODEL_PROBABILITY = 0.35
+MIN_BOOKMAKER_ODDS = 1.20
+MAX_BOOKMAKER_ODDS = 8.0
+MAX_EDGE = 0.30
 FOOTBALL_DATA_BASE_URL = "https://www.football-data.co.uk/mmz4281"
 SEASON_CODES = ("1718", "1819", "1920")
 FOOTBALL_DATA_LEAGUE_CODES = {"ENG": "E0", "SPA": "SP1", "FRA": "F1"}
@@ -124,6 +129,14 @@ TEAM_NAME_ALIASES = {
     "west ham united fc": "west ham",
     "wolverhampton wanderers fc": "wolves",
 }
+
+@dataclass(frozen=True)
+class ValueBetRiskPolicy:
+    min_model_probability: float = MIN_MODEL_PROBABILITY
+    min_bookmaker_odds: float = MIN_BOOKMAKER_ODDS
+    max_bookmaker_odds: float = MAX_BOOKMAKER_ODDS
+    max_edge: float = MAX_EDGE
+
 
 @dataclass(frozen=True)
 class OddsComparisonSummary:
@@ -334,6 +347,46 @@ def best_odds_for_outcome(row: pd.Series, outcome: str) -> tuple[float | None, s
     return price, bookmaker
 
 
+def validate_risk_policy(policy: ValueBetRiskPolicy) -> None:
+    values = {
+        "min_model_probability": policy.min_model_probability,
+        "min_bookmaker_odds": policy.min_bookmaker_odds,
+        "max_bookmaker_odds": policy.max_bookmaker_odds,
+        "max_edge": policy.max_edge,
+    }
+    non_finite = [name for name, value in values.items() if not math.isfinite(float(value))]
+    if non_finite:
+        raise ValueError(f"Risk policy values must be finite: {non_finite}")
+    if policy.min_model_probability <= 0.0 or policy.min_model_probability >= 1.0:
+        raise ValueError("min_model_probability must be between 0 and 1")
+    if policy.min_bookmaker_odds <= 1.0:
+        raise ValueError("min_bookmaker_odds must be greater than 1.0")
+    if policy.max_bookmaker_odds <= policy.min_bookmaker_odds:
+        raise ValueError("max_bookmaker_odds must be greater than min_bookmaker_odds")
+    if policy.max_edge < 0.0:
+        raise ValueError("max_edge must be non-negative")
+
+
+def model_probability_from_odds(model_odds: float) -> float:
+    if model_odds <= 0.0:
+        raise ValueError("model_odds must be positive")
+    return 1.0 / model_odds
+
+
+def passes_value_bet_risk_policy(
+    model_odds: float,
+    best_book_odds: float,
+    edge: float,
+    policy: ValueBetRiskPolicy,
+) -> bool:
+    validate_risk_policy(policy)
+    if model_probability_from_odds(model_odds) < policy.min_model_probability:
+        return False
+    if best_book_odds < policy.min_bookmaker_odds or best_book_odds > policy.max_bookmaker_odds:
+        return False
+    if edge > policy.max_edge:
+        return False
+    return True
 
 def validate_normalized_bookmaker_columns(df: pd.DataFrame, match_columns: Iterable[str]) -> None:
     required = [*match_columns, *NORMALIZED_BOOKMAKER_COLUMNS[1:]]
@@ -392,6 +445,7 @@ def compare_model_to_bookmaker_odds(
     bookmaker_odds_df: pd.DataFrame,
     edge_threshold: float = EDGE_THRESHOLD,
     match_columns: Iterable[str] = MATCH_COLUMNS,
+    risk_policy: ValueBetRiskPolicy = ValueBetRiskPolicy(),
 ) -> pd.DataFrame:
     match_columns = list(match_columns)
     validate_model_odds_columns(model_odds_df)
@@ -400,6 +454,7 @@ def compare_model_to_bookmaker_odds(
         raise ValueError(f"Missing required model odds match columns: {missing_match_columns}")
     if edge_threshold < 0:
         raise ValueError("edge_threshold must be non-negative")
+    validate_risk_policy(risk_policy)
 
     best_odds = build_best_bookmaker_odds_frame(bookmaker_odds_df, match_columns=match_columns)
     merged = model_odds_df.merge(best_odds, on=match_columns, how="inner")
@@ -417,8 +472,10 @@ def compare_model_to_bookmaker_odds(
             if pd.isna(model_odds) or pd.isna(best_book_odds) or model_odds <= 0 or best_book_odds <= 0:
                 continue
 
-            edge = (float(best_book_odds) / float(model_odds)) - 1.0
-            if edge >= edge_threshold:
+            model_odds = float(model_odds)
+            best_book_odds = float(best_book_odds)
+            edge = (best_book_odds / model_odds) - 1.0
+            if edge >= edge_threshold and passes_value_bet_risk_policy(model_odds, best_book_odds, edge, risk_policy):
                 value_bets.append(
                     {
                         "RBallID": row["RBallID"],
@@ -429,8 +486,8 @@ def compare_model_to_bookmaker_odds(
                         "League": row.get("League", pd.NA),
                         "Result": row["Result"],
                         "Outcome": outcome,
-                        "ModelOdds": float(model_odds),
-                        "BestBookOdds": float(best_book_odds),
+                        "ModelOdds": model_odds,
+                        "BestBookOdds": best_book_odds,
                         "Edge": edge,
                         "ValueBet": True,
                         "BestBookmaker": row[best_bookmaker_column],
@@ -473,7 +530,15 @@ def match_model_to_bookmaker_odds(model_odds: pd.DataFrame, bookmaker_odds: pd.D
     return merged.drop(columns=["HomeTeamKey", "AwayTeamKey"])
 
 
-def compute_value_bets(matched_odds: pd.DataFrame, edge_threshold: float = EDGE_THRESHOLD) -> pd.DataFrame:
+def compute_value_bets(
+    matched_odds: pd.DataFrame,
+    edge_threshold: float = EDGE_THRESHOLD,
+    risk_policy: ValueBetRiskPolicy = ValueBetRiskPolicy(),
+) -> pd.DataFrame:
+    if edge_threshold < 0:
+        raise ValueError("edge_threshold must be non-negative")
+    validate_risk_policy(risk_policy)
+
     rows: list[dict[str, object]] = []
     for row in matched_odds.itertuples(index=False):
         row_series = pd.Series(row._asdict())
@@ -487,8 +552,10 @@ def compute_value_bets(matched_odds: pd.DataFrame, edge_threshold: float = EDGE_
                 continue
 
             model_odds = float(row_series[model_column])
+            if model_odds <= 0.0:
+                continue
             edge = (best_odds / model_odds) - 1.0
-            if edge >= edge_threshold:
+            if edge >= edge_threshold and passes_value_bet_risk_policy(model_odds, best_odds, edge, risk_policy):
                 rows.append(
                     {
                         "RBallID": row_series["RBallID"],
@@ -528,6 +595,7 @@ def run_pipeline(
     output_path: Path = VALUE_BETS_PATH,
     dashboard_json_path: Path = DASHBOARD_JSON_PATH,
     edge_threshold: float = EDGE_THRESHOLD,
+    risk_policy: ValueBetRiskPolicy = ValueBetRiskPolicy(),
 ) -> OddsComparisonSummary:
     if not model_odds_path.exists():
         raise FileNotFoundError(f"Missing Stage 4 model odds file: {model_odds_path}")
@@ -537,7 +605,7 @@ def run_pipeline(
     matched = match_model_to_bookmaker_odds(model_odds, bookmaker_odds)
     if matched.empty:
         raise ValueError("Stage 5 matched zero model rows to Football-Data odds; check team names, dates, and input seasons")
-    value_bets = compute_value_bets(matched, edge_threshold=edge_threshold)
+    value_bets = compute_value_bets(matched, edge_threshold=edge_threshold, risk_policy=risk_policy)
     write_outputs(value_bets, output_path=output_path, dashboard_json_path=dashboard_json_path)
 
     return OddsComparisonSummary(
@@ -556,6 +624,10 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--output-path", type=Path, default=VALUE_BETS_PATH)
     parser.add_argument("--dashboard-json-path", type=Path, default=DASHBOARD_JSON_PATH)
     parser.add_argument("--edge-threshold", type=float, default=EDGE_THRESHOLD)
+    parser.add_argument("--min-model-probability", type=float, default=MIN_MODEL_PROBABILITY)
+    parser.add_argument("--min-bookmaker-odds", type=float, default=MIN_BOOKMAKER_ODDS)
+    parser.add_argument("--max-bookmaker-odds", type=float, default=MAX_BOOKMAKER_ODDS)
+    parser.add_argument("--max-edge", type=float, default=MAX_EDGE)
     return parser.parse_args()
 
 
@@ -567,5 +639,11 @@ if __name__ == "__main__":
         output_path=args.output_path,
         dashboard_json_path=args.dashboard_json_path,
         edge_threshold=args.edge_threshold,
+        risk_policy=ValueBetRiskPolicy(
+            min_model_probability=args.min_model_probability,
+            min_bookmaker_odds=args.min_bookmaker_odds,
+            max_bookmaker_odds=args.max_bookmaker_odds,
+            max_edge=args.max_edge,
+        ),
     )
     print(summary.line())

@@ -6,6 +6,8 @@ import pandas as pd
 
 from pipeline.stage5_compare import (
     VALUE_BET_COLUMNS,
+    ValueBetRiskPolicy,
+    compute_value_bets,
     football_data_url,
     load_football_data_csv,
     match_model_to_bookmaker_odds,
@@ -98,6 +100,7 @@ class Stage5CompareTests(unittest.TestCase):
             sample_model_odds(),
             sample_bookmaker_odds(),
             edge_threshold=0.10,
+            risk_policy=ValueBetRiskPolicy(min_model_probability=0.10, max_bookmaker_odds=15.0, max_edge=0.50),
         )
 
         self.assertEqual(value_bets.columns.tolist(), VALUE_BET_COLUMNS)
@@ -131,6 +134,132 @@ class Stage5CompareTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "edge_threshold"):
             compare_model_to_bookmaker_odds(sample_model_odds(), sample_bookmaker_odds(), edge_threshold=-0.01)
 
+    def test_compare_model_to_bookmaker_odds_rejects_tiny_model_probability(self):
+        model_odds = sample_model_odds().assign(
+            ModelOdds_Home=12.00,
+            ModelOdds_Draw=12.00,
+            ModelOdds_Away=12.00,
+        )
+        bookmaker_odds = sample_bookmaker_odds().assign(
+            Odds_Home=14.00,
+            Odds_Draw=14.00,
+            Odds_Away=14.00,
+        )
+
+        value_bets = compare_model_to_bookmaker_odds(model_odds, bookmaker_odds, edge_threshold=0.10)
+
+        self.assertTrue(value_bets.empty)
+
+    def test_compare_model_to_bookmaker_odds_rejects_extreme_bookmaker_price(self):
+        model_odds = sample_model_odds().iloc[[0]].assign(
+            ModelOdds_Home=2.00,
+            ModelOdds_Draw=4.00,
+            ModelOdds_Away=4.00,
+        )
+        bookmaker_odds = sample_bookmaker_odds().iloc[[2]].assign(Odds_Home=31.00)
+
+        value_bets = compare_model_to_bookmaker_odds(
+            model_odds,
+            bookmaker_odds,
+            edge_threshold=0.10,
+            risk_policy=ValueBetRiskPolicy(max_bookmaker_odds=30.0, max_edge=20.0),
+        )
+
+        self.assertTrue(value_bets.empty)
+
+    def test_compare_model_to_bookmaker_odds_rejects_bookmaker_price_below_minimum(self):
+        model_odds = sample_model_odds().iloc[[0]].assign(
+            ModelOdds_Home=1.05,
+            ModelOdds_Draw=4.00,
+            ModelOdds_Away=4.00,
+        )
+        bookmaker_odds = sample_bookmaker_odds().iloc[[2]].assign(Odds_Home=1.17)
+
+        value_bets = compare_model_to_bookmaker_odds(
+            model_odds,
+            bookmaker_odds,
+            edge_threshold=0.10,
+            risk_policy=ValueBetRiskPolicy(min_bookmaker_odds=1.20, max_edge=1.0),
+        )
+
+        self.assertTrue(value_bets.empty)
+
+    def test_compare_model_to_bookmaker_odds_rejects_extreme_edge_outlier(self):
+        model_odds = sample_model_odds().iloc[[0]].assign(
+            ModelOdds_Home=2.00,
+            ModelOdds_Draw=4.00,
+            ModelOdds_Away=4.00,
+        )
+        bookmaker_odds = sample_bookmaker_odds().iloc[[2]].assign(Odds_Home=5.00)
+
+        value_bets = compare_model_to_bookmaker_odds(
+            model_odds,
+            bookmaker_odds,
+            edge_threshold=0.10,
+            risk_policy=ValueBetRiskPolicy(max_bookmaker_odds=15.0, max_edge=0.50),
+        )
+
+        self.assertTrue(value_bets.empty)
+
+    def test_compute_value_bets_applies_risk_policy_on_matched_football_data_rows(self):
+        matched = pd.DataFrame(
+            [
+                {
+                    "RBallID": 1,
+                    "HomeTeam": "Liverpool",
+                    "AwayTeam": "Everton",
+                    "Date": "2019-08-10",
+                    "Season": "2019-20",
+                    "League": "ENG",
+                    "Result": "H",
+                    "ModelOdds_Home": 2.00,
+                    "ModelOdds_Draw": 4.00,
+                    "ModelOdds_Away": 12.00,
+                    "B365_H": 2.25,
+                    "B365_D": 4.30,
+                    "B365_A": 14.00,
+                }
+            ]
+        )
+
+        value_bets = compute_value_bets(matched, edge_threshold=0.10)
+
+        self.assertEqual(value_bets[["RBallID", "Outcome"]].values.tolist(), [[1, "H"]])
+        self.assertAlmostEqual(value_bets.loc[0, "Edge"], 0.125)
+
+    def test_risk_policy_rejects_invalid_bounds(self):
+        with self.assertRaisesRegex(ValueError, "min_model_probability"):
+            compare_model_to_bookmaker_odds(
+                sample_model_odds(),
+                sample_bookmaker_odds(),
+                risk_policy=ValueBetRiskPolicy(min_model_probability=1.2),
+            )
+        with self.assertRaisesRegex(ValueError, "max_bookmaker_odds"):
+            compare_model_to_bookmaker_odds(
+                sample_model_odds(),
+                sample_bookmaker_odds(),
+                risk_policy=ValueBetRiskPolicy(min_bookmaker_odds=3.0, max_bookmaker_odds=2.0),
+            )
+        with self.assertRaisesRegex(ValueError, "max_edge"):
+            compare_model_to_bookmaker_odds(
+                sample_model_odds(),
+                sample_bookmaker_odds(),
+                risk_policy=ValueBetRiskPolicy(max_edge=-0.1),
+            )
+
+    def test_risk_policy_rejects_non_finite_values(self):
+        with self.assertRaisesRegex(ValueError, "finite"):
+            compare_model_to_bookmaker_odds(
+                sample_model_odds(),
+                sample_bookmaker_odds(),
+                risk_policy=ValueBetRiskPolicy(min_model_probability=float("nan")),
+            )
+        with self.assertRaisesRegex(ValueError, "finite"):
+            compare_model_to_bookmaker_odds(
+                sample_model_odds(),
+                sample_bookmaker_odds(),
+                risk_policy=ValueBetRiskPolicy(max_edge=float("inf")),
+            )
 
     def test_normalise_team_name_handles_stage4_and_football_data_aliases(self):
         self.assertEqual(normalise_team_name("Arsenal FC"), "arsenal")
@@ -216,8 +345,8 @@ class Stage5CompareTests(unittest.TestCase):
         self.assertTrue(json_exists)
         self.assertEqual(summary.model_rows, 2)
         self.assertEqual(summary.matched_rows, 1)
-        self.assertEqual(summary.value_bets, 2)
-        self.assertEqual(written[["RBallID", "Outcome"]].values.tolist(), [[1, "H"], [1, "A"]])
+        self.assertEqual(summary.value_bets, 1)
+        self.assertEqual(written[["RBallID", "Outcome"]].values.tolist(), [[1, "H"]])
 
 
 if __name__ == "__main__":

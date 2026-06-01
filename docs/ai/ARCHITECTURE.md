@@ -81,7 +81,8 @@ The build is organised into seven stages. Pipeline stages communicate exclusivel
 │  • Download historical Football-Data season CSVs when missing        │
 │  • Match normalised home/away team names and match date                │
 │  • For each outcome: edge = (best_book_odds / model_odds) - 1        │
-│  • Flag value bets where edge >= 10%                                 │
+│  • Apply probability, odds-range, and max-edge sanity filters        │
+│  • Flag value bets where edge >= 10% and filters pass                │
 │                                                                      │
 │  Output: data/output/value_bets.parquet                              │
 │          dashboard/data/value_bets.json                              │
@@ -151,14 +152,24 @@ All columns from Stage 1 output, plus:
 | `HomeElo` | float | Home team ELO before kick-off |
 | `AwayElo` | float | Away team ELO before kick-off |
 | `EloDiff` | float | `HomeElo - AwayElo` |
+| `AbsEloDiff` | float | Absolute ELO gap for draw/closeness signal |
 | `HomeGoals_Last5` | float | Rolling 5-match avg goals (home) |
 | `AwayGoals_Last5` | float | Rolling 5-match avg goals (away) |
+| `AbsGoalsLast5Diff` | float | Absolute recent-goals gap |
 | `HomeCorners_Last5` | float | Rolling 5-match avg corners (home) |
 | `AwayCorners_Last5` | float | Rolling 5-match avg corners (away) |
 | `HomePoints_Last5` | float | Rolling 5-match avg points (home) |
 | `AwayPoints_Last5` | float | Rolling 5-match avg points (away) |
+| `AbsPointsLast5Diff` | float | Absolute recent-points gap |
+| `HomeDrawRate_Last5` | float | Rolling 5-match draw rate (home team) |
+| `AwayDrawRate_Last5` | float | Rolling 5-match draw rate (away team) |
+| `AvgDrawRateLast5` | float | Average recent draw tendency between teams |
+| `AbsDrawRateLast5Diff` | float | Absolute recent draw-rate gap |
 | `HomeWinRate_Season` | float | Season win rate to date (home) |
 | `AwayWinRate_Season` | float | Season win rate to date (away) |
+| `League_ENG` | float | One-hot league indicator |
+| `League_SPA` | float | One-hot league indicator |
+| `League_FRA` | float | One-hot league indicator |
 
 ### Stage 4 → Stage 5: Model odds Parquet
 

@@ -7,27 +7,16 @@ from typing import Iterable
 
 import numpy as np
 import pandas as pd
+try:
+    from pipeline.model_features import BASE_FEATURE_COLUMNS, FEATURE_COLUMNS, LEAGUE_FEATURE_COLUMNS, LEAGUES, add_league_indicator_features
+except ModuleNotFoundError:
+    from model_features import BASE_FEATURE_COLUMNS, FEATURE_COLUMNS, LEAGUE_FEATURE_COLUMNS, LEAGUES, add_league_indicator_features
 
 FEATURES_DIR = Path('data/features')
 OUTPUT_PATH = Path('data/output/model_odds.parquet')
-LEAGUES = ('ENG', 'SPA', 'FRA')
 MODEL_NAME = 'match_outcome_xgb'
 MODEL_STAGE = 'Production'
 TRACKING_URI = 'file:mlruns'
-
-FEATURE_COLUMNS = [
-    'HomeElo',
-    'AwayElo',
-    'EloDiff',
-    'HomeGoals_Last5',
-    'AwayGoals_Last5',
-    'HomeCorners_Last5',
-    'AwayCorners_Last5',
-    'HomePoints_Last5',
-    'AwayPoints_Last5',
-    'HomeWinRate_Season',
-    'AwayWinRate_Season',
-]
 
 REQUIRED_COLUMNS = [
     'RBallID',
@@ -35,7 +24,8 @@ REQUIRED_COLUMNS = [
     'AwayTeam',
     'Date',
     'Season',
-    *FEATURE_COLUMNS,
+    'League',
+    *BASE_FEATURE_COLUMNS,
 ]
 
 OUTPUT_COLUMNS = [
@@ -83,6 +73,7 @@ def load_feature_data(
 
     combined = pd.concat(frames, ignore_index=True)
     combined['Date'] = pd.to_datetime(combined['Date'])
+    combined = add_league_indicator_features(combined, leagues=leagues)
     return combined.sort_values(['Date', 'RBallID'], kind='mergesort').reset_index(drop=True)
 
 
@@ -99,18 +90,25 @@ def load_production_model(
 ):
     try:
         import mlflow
-        import mlflow.xgboost
+        import mlflow.sklearn
     except ImportError as exc:
         raise RuntimeError('MLflow is required to load the Production model') from exc
 
     mlflow.set_tracking_uri(tracking_uri or TRACKING_URI)
     model_uri = f'models:/{model_name}/{model_stage}'
-    return mlflow.xgboost.load_model(model_uri)
+    return mlflow.sklearn.load_model(model_uri)
 
-
-def select_model_features(df: pd.DataFrame) -> pd.DataFrame:
+def select_model_features(
+    df: pd.DataFrame,
+    feature_columns: Iterable[str] = FEATURE_COLUMNS,
+) -> pd.DataFrame:
     validate_feature_columns(df)
-    return df[list(FEATURE_COLUMNS)].apply(pd.to_numeric, errors='raise').astype('float64')
+    featured = add_league_indicator_features(df)
+    columns = list(feature_columns)
+    missing = [column for column in columns if column not in featured.columns]
+    if missing:
+        raise ValueError(f'Missing required model feature columns: {missing}')
+    return featured[columns].apply(pd.to_numeric, errors='raise').astype('float64')
 
 
 def validate_model_class_order(model) -> None:
@@ -147,8 +145,9 @@ def build_model_odds_frame(df: pd.DataFrame, model) -> pd.DataFrame:
     validate_feature_columns(df)
 
     ordered = df.sort_values(['Date', 'RBallID'], kind='mergesort').reset_index(drop=True).copy()
-    features = select_model_features(ordered)
     validate_model_class_order(model)
+    expected_features = tuple(getattr(model, 'feature_names_in_', FEATURE_COLUMNS))
+    features = select_model_features(ordered, feature_columns=expected_features)
     proba = validate_probability_matrix(model.predict_proba(features))
     odds = probabilities_to_odds(proba)
 

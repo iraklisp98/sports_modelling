@@ -7,12 +7,16 @@ import numpy as np
 import pandas as pd
 
 from pipeline.stage4_odds_gen import (
+    BASE_FEATURE_COLUMNS,
     FEATURE_COLUMNS,
+    LEAGUE_FEATURE_COLUMNS,
+    add_league_indicator_features,
     OUTPUT_COLUMNS,
     build_model_odds_frame,
     load_production_model,
     probabilities_to_odds,
     run_pipeline,
+    select_model_features,
     validate_model_class_order,
     validate_probability_matrix,
 )
@@ -27,9 +31,10 @@ def sample_features() -> pd.DataFrame:
             "AwayTeam": f"Away {idx}",
             "Date": f"2017-08-0{idx}",
             "Season": season,
+            "League": ["ENG", "SPA"][idx - 1],
             "Result": ["H", "D"][idx - 1],
         }
-        for offset, column in enumerate(FEATURE_COLUMNS):
+        for offset, column in enumerate(BASE_FEATURE_COLUMNS):
             row[column] = float(idx + offset)
         rows.append(row)
     return pd.DataFrame(rows[::-1])
@@ -47,6 +52,15 @@ class FakeModel:
 
 
 class Stage4OddsGenTests(unittest.TestCase):
+    def test_add_league_indicator_features_matches_training_contract(self):
+        df = sample_features().assign(League=["ENG", "SPA"])
+
+        featured = add_league_indicator_features(df)
+
+        self.assertEqual(list(LEAGUE_FEATURE_COLUMNS), ["League_ENG", "League_SPA", "League_FRA"])
+        self.assertEqual(featured.loc[0, ["League_ENG", "League_SPA", "League_FRA"]].tolist(), [1.0, 0.0, 0.0])
+        self.assertEqual(featured.loc[1, ["League_ENG", "League_SPA", "League_FRA"]].tolist(), [0.0, 1.0, 0.0])
+
     def test_validate_probability_matrix_accepts_probabilities_that_sum_to_one(self):
         proba = np.array([[0.5, 0.25, 0.25], [0.2, 0.3, 0.5]])
 
@@ -79,11 +93,28 @@ class Stage4OddsGenTests(unittest.TestCase):
 
     def test_load_production_model_uses_registry_uri(self):
         fake_model = object()
-        with patch("mlflow.xgboost.load_model", return_value=fake_model) as mocked_load:
+        with patch("mlflow.sklearn.load_model", return_value=fake_model) as mocked_load:
             loaded = load_production_model(tracking_uri="file:mlruns")
 
         mocked_load.assert_called_once_with("models:/match_outcome_xgb/Production")
         self.assertIs(loaded, fake_model)
+
+    def test_select_model_features_adds_numeric_league_indicators(self):
+        features = select_model_features(sample_features())
+
+        self.assertEqual(features.columns.tolist(), list(FEATURE_COLUMNS))
+        self.assertEqual(features[["League_ENG", "League_SPA", "League_FRA"]].values.tolist(), [
+            [0.0, 1.0, 0.0],
+            [1.0, 0.0, 0.0],
+        ])
+        self.assertTrue(all(str(features[column].dtype) == "float64" for column in ["League_ENG", "League_SPA", "League_FRA"]))
+
+    def test_select_model_features_rejects_unknown_league_labels(self):
+        df = sample_features()
+        df.loc[0, "League"] = "ITA"
+
+        with self.assertRaisesRegex(ValueError, "Unexpected league labels"):
+            select_model_features(df)
 
     def test_build_model_odds_frame_sorts_rows_and_adds_odds(self):
         df = sample_features()
@@ -97,7 +128,11 @@ class Stage4OddsGenTests(unittest.TestCase):
         self.assertEqual(odds_df["P_Home"].tolist(), [0.2, 0.5])
         self.assertAlmostEqual(odds_df.loc[0, "ModelOdds_Home"], 5.0)
         self.assertAlmostEqual(odds_df.loc[1, "ModelOdds_Draw"], 4.0)
-        self.assertEqual(model.seen_features.columns.tolist(), FEATURE_COLUMNS)
+        self.assertEqual(model.seen_features.columns.tolist(), list(FEATURE_COLUMNS))
+        self.assertEqual(model.seen_features[["League_ENG", "League_SPA", "League_FRA"]].values.tolist(), [
+            [1.0, 0.0, 0.0],
+            [0.0, 1.0, 0.0],
+        ])
         self.assertTrue(odds_df["Date"].is_monotonic_increasing)
 
     def test_run_pipeline_writes_model_odds_parquet(self):

@@ -43,12 +43,19 @@ STAGE2_FEATURE_COLUMNS = [
     "HomeElo",
     "AwayElo",
     "EloDiff",
+    "AbsEloDiff",
     "HomeGoals_Last5",
     "AwayGoals_Last5",
+    "AbsGoalsLast5Diff",
     "HomeCorners_Last5",
     "AwayCorners_Last5",
     "HomePoints_Last5",
     "AwayPoints_Last5",
+    "AbsPointsLast5Diff",
+    "HomeDrawRate_Last5",
+    "AwayDrawRate_Last5",
+    "AvgDrawRateLast5",
+    "AbsDrawRateLast5Diff",
     "HomeWinRate_Season",
     "AwayWinRate_Season",
 ]
@@ -165,6 +172,7 @@ def add_elo_features(
 def _team_match_history(df: pd.DataFrame) -> pd.DataFrame:
     home_points = df["Result"].map({"H": 3.0, "D": 1.0, "A": 0.0})
     away_points = df["Result"].map({"H": 0.0, "D": 1.0, "A": 3.0})
+    draw_flag = (df["Result"] == "D").astype(float)
 
     home_history = pd.DataFrame(
         {
@@ -175,6 +183,7 @@ def _team_match_history(df: pd.DataFrame) -> pd.DataFrame:
             "Goals": df["HomeGoals"],
             "Corners": df["HomeCorners"],
             "Points": home_points,
+            "Draw": draw_flag,
         }
     )
     away_history = pd.DataFrame(
@@ -186,6 +195,7 @@ def _team_match_history(df: pd.DataFrame) -> pd.DataFrame:
             "Goals": df["AwayGoals"],
             "Corners": df["AwayCorners"],
             "Points": away_points,
+            "Draw": draw_flag,
         }
     )
 
@@ -204,15 +214,16 @@ def add_rolling_features(df: pd.DataFrame, window: int = ROLLING_WINDOW) -> pd.D
         ("Goals", "Goals_Last5"),
         ("Corners", "Corners_Last5"),
         ("Points", "Points_Last5"),
+        ("Draw", "DrawRate_Last5"),
     ]:
         history[target] = grouped[source].transform(
             lambda values: values.shift(1).rolling(window=window, min_periods=1).mean()
         )
-    history[["Goals_Last5", "Corners_Last5", "Points_Last5"]] = history[
-        ["Goals_Last5", "Corners_Last5", "Points_Last5"]
+    history[["Goals_Last5", "Corners_Last5", "Points_Last5", "DrawRate_Last5"]] = history[
+        ["Goals_Last5", "Corners_Last5", "Points_Last5", "DrawRate_Last5"]
     ].fillna(0.0)
 
-    feature_history = history[["RBallID", "Team", "Goals_Last5", "Corners_Last5", "Points_Last5"]]
+    feature_history = history[["RBallID", "Team", "Goals_Last5", "Corners_Last5", "Points_Last5", "DrawRate_Last5"]]
 
     home_features = feature_history.rename(
         columns={
@@ -220,6 +231,7 @@ def add_rolling_features(df: pd.DataFrame, window: int = ROLLING_WINDOW) -> pd.D
             "Goals_Last5": "HomeGoals_Last5",
             "Corners_Last5": "HomeCorners_Last5",
             "Points_Last5": "HomePoints_Last5",
+            "DrawRate_Last5": "HomeDrawRate_Last5",
         }
     )
     away_features = feature_history.rename(
@@ -228,6 +240,7 @@ def add_rolling_features(df: pd.DataFrame, window: int = ROLLING_WINDOW) -> pd.D
             "Goals_Last5": "AwayGoals_Last5",
             "Corners_Last5": "AwayCorners_Last5",
             "Points_Last5": "AwayPoints_Last5",
+            "DrawRate_Last5": "AwayDrawRate_Last5",
         }
     )
 
@@ -258,6 +271,16 @@ def add_season_win_rates(df: pd.DataFrame) -> pd.DataFrame:
     return featured
 
 
+def add_draw_signal_features(df: pd.DataFrame) -> pd.DataFrame:
+    featured = df.copy()
+    featured["AbsEloDiff"] = featured["EloDiff"].abs()
+    featured["AbsGoalsLast5Diff"] = (featured["HomeGoals_Last5"] - featured["AwayGoals_Last5"]).abs()
+    featured["AbsPointsLast5Diff"] = (featured["HomePoints_Last5"] - featured["AwayPoints_Last5"]).abs()
+    featured["AvgDrawRateLast5"] = (featured["HomeDrawRate_Last5"] + featured["AwayDrawRate_Last5"]) / 2.0
+    featured["AbsDrawRateLast5Diff"] = (featured["HomeDrawRate_Last5"] - featured["AwayDrawRate_Last5"]).abs()
+    return featured
+
+
 def build_feature_dataset(df: pd.DataFrame) -> pd.DataFrame:
     validate_stage1_columns(df)
     featured = sort_matches(df)
@@ -265,6 +288,7 @@ def build_feature_dataset(df: pd.DataFrame) -> pd.DataFrame:
     featured = add_elo_features(featured)
     featured = add_rolling_features(featured)
     featured = add_season_win_rates(featured)
+    featured = add_draw_signal_features(featured)
     return featured
 
 

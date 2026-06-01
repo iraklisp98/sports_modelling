@@ -10,6 +10,8 @@ Phase 1 covers Premier League, La Liga, and Ligue 1 historical Football-Data.co.
 best_bookmaker_odds >= 1.10 * model_implied_odds
 ```
 
+Stage 5 also applies odds sanity filters so extreme long-shot prices and unrealistic edge outliers do not become dashboard bets.
+
 This repository is for education and portfolio development. It does not place bets and does not provide financial advice.
 
 ## Documentation
@@ -32,8 +34,8 @@ This repository is for education and portfolio development. It does not place be
 | Stage | Output |
 |---|---|
 | 1 - Ingest & Clean | Match-level Parquet files in `data/processed/` |
-| 2 - Feature Engineering | ELO, rolling form, and season features |
-| 3 - Model Training | XGBoost model tracked with MLflow |
+| 2 - Feature Engineering | ELO, rolling form, draw signals, and season features |
+| 3 - Model Training | Calibrated/tuned XGBoost model tracked with MLflow and baseline benchmarks |
 | 4 - Odds Generation | Model probabilities and implied odds |
 | 5 - Odds Comparison | Flagged value bets |
 | 5.5 - Model Diagnostics | Calibration and value-bet bucket diagnostics |

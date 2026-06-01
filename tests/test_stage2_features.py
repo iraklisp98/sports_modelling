@@ -132,6 +132,19 @@ class Stage2FeatureTests(unittest.TestCase):
         self.assertEqual(third["HomePoints_Last5"], 2.0)
         self.assertNotEqual(third["HomeGoals_Last5"], third["HomeGoals"])
 
+    def test_recent_draw_rate_features_exclude_current_match(self):
+        featured = build_feature_dataset(sample_matches())
+        first = featured.loc[featured["RBallID"] == 1].iloc[0]
+        second = featured.loc[featured["RBallID"] == 2].iloc[0]
+        third = featured.loc[featured["RBallID"] == 3].iloc[0]
+
+        self.assertEqual(first["HomeDrawRate_Last5"], 0.0)
+        self.assertEqual(first["AwayDrawRate_Last5"], 0.0)
+        self.assertEqual(second["HomeDrawRate_Last5"], 0.0)
+        self.assertEqual(second["AwayDrawRate_Last5"], 0.0)
+        self.assertEqual(third["HomeDrawRate_Last5"], 0.5)
+        self.assertEqual(third["AwayDrawRate_Last5"], 0.5)
+
     def test_season_win_rate_resets_and_excludes_current_match(self):
         featured = build_feature_dataset(sample_matches())
         first = featured.loc[featured["RBallID"] == 1].iloc[0]
@@ -178,6 +191,21 @@ class Stage2FeatureTests(unittest.TestCase):
         self.assertLess(fourth["HomeElo"], 1500.0)
         self.assertGreater(fourth["HomeElo"], 1400.0)
         self.assertEqual(fifth["HomeElo"], 1400.0)
+
+
+    def test_draw_signal_features_measure_team_closeness_before_match(self):
+        featured = build_feature_dataset(sample_matches())
+        first = featured.loc[featured["RBallID"] == 1].iloc[0]
+        third = featured.loc[featured["RBallID"] == 3].iloc[0]
+
+        self.assertEqual(first["AbsEloDiff"], 0.0)
+        self.assertEqual(first["AbsGoalsLast5Diff"], 0.0)
+        self.assertEqual(first["AbsPointsLast5Diff"], 0.0)
+        self.assertAlmostEqual(third["AbsEloDiff"], abs(third["EloDiff"]))
+        self.assertAlmostEqual(third["AbsGoalsLast5Diff"], abs(third["HomeGoals_Last5"] - third["AwayGoals_Last5"]))
+        self.assertAlmostEqual(third["AbsPointsLast5Diff"], abs(third["HomePoints_Last5"] - third["AwayPoints_Last5"]))
+        self.assertAlmostEqual(third["AvgDrawRateLast5"], (third["HomeDrawRate_Last5"] + third["AwayDrawRate_Last5"]) / 2.0)
+        self.assertAlmostEqual(third["AbsDrawRateLast5Diff"], abs(third["HomeDrawRate_Last5"] - third["AwayDrawRate_Last5"]))
 
     def test_output_schema_and_row_count(self):
         raw = sample_matches()
