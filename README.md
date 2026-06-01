@@ -36,6 +36,7 @@ This repository is for education and portfolio development. It does not place be
 | 3 - Model Training | XGBoost model tracked with MLflow |
 | 4 - Odds Generation | Model probabilities and implied odds |
 | 5 - Odds Comparison | Flagged value bets |
+| 5.5 - Model Diagnostics | Calibration and value-bet bucket diagnostics |
 | 6 - Dashboard | Static HTML/CSS/JS dashboard using JSON outputs |
 | 7 - Docker | Reproducible local run environment |
 

@@ -257,6 +257,7 @@ sports_modelling/
 │   ├── stage3_train.py             # XGBoost + Optuna + MLflow
 │   ├── stage4_odds_gen.py          # Model inference -> implied odds
 │   ├── stage5_compare.py           # Football-Data odds + value bet flagging
+│   ├── model_diagnostics.py        # Calibration + value-bet bucket diagnostics
 │   ├── export_dashboard_data.py    # Parquet -> JSON for dashboard
 │   └── run_pipeline.py             # Orchestrates all stages in order
 │

@@ -22,6 +22,7 @@ class DockerConfigTests(unittest.TestCase):
                 "stage3_train",
                 "stage4_odds_gen",
                 "stage5_compare",
+                "model_diagnostics",
                 "export_dashboard_data",
             ],
         )

@@ -64,6 +64,7 @@ The script supports Optuna with `--trials N`, but defaults to `--trials 0` for a
 - Multiclass Brier score: mean squared error between one-hot labels and 3-class probabilities
 - Holdout accuracy
 - F1 per class: home, draw, away
+- Calibration by outcome/probability bucket is produced by `pipeline/model_diagnostics.py` from Stage 3 holdout predictions
 
 ROI/backtest metrics are intentionally deferred until Stage 5, because bookmaker odds and flagged value bets do not exist in Stage 3.
 
@@ -76,6 +77,7 @@ Ignored local artifacts under `data/model_artifacts/stage3/`:
 - `holdout_predictions.parquet`
 - `feature_importance.png`
 - `confusion_matrix.png`
+- `model_diagnostics.json` after Stage 5.5 runs
 
 MLflow outputs under ignored `mlruns/`:
 
