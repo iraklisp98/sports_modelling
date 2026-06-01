@@ -16,7 +16,6 @@ FEATURES_DIR = Path("data/features")
 ARTIFACTS_DIR = Path("data/model_artifacts/stage3")
 LEAGUES = ("ENG", "SPA", "FRA")
 
-TRAIN_SEASONS = ("2017-18", "2018-19")
 HOLDOUT_SEASON = "2019-20"
 TARGET_COLUMN = "ResultCode"
 LABELS = (0, 1, 2)
@@ -102,17 +101,33 @@ def validate_training_columns(df: pd.DataFrame) -> None:
         raise ValueError(f"Missing required Stage 2 columns: {missing}")
 
 
+def season_start_year(season: str) -> int:
+    try:
+        return int(str(season).split("-", maxsplit=1)[0])
+    except (TypeError, ValueError) as exc:
+        raise ValueError(f"Invalid season label: {season!r}") from exc
+
+
 def split_train_holdout(
     df: pd.DataFrame,
-    train_seasons: Iterable[str] = TRAIN_SEASONS,
+    train_seasons: Iterable[str] | None = None,
     holdout_season: str = HOLDOUT_SEASON,
 ) -> tuple[pd.DataFrame, pd.DataFrame]:
     validate_training_columns(df)
 
-    train = df[df["Season"].isin(tuple(train_seasons))].copy()
+    if train_seasons is None:
+        holdout_start = season_start_year(holdout_season)
+        season_starts = df["Season"].map(season_start_year)
+        train = df[season_starts < holdout_start].copy()
+        train_scope = f"before {holdout_season}"
+    else:
+        selected_train_seasons = tuple(train_seasons)
+        train = df[df["Season"].isin(selected_train_seasons)].copy()
+        train_scope = str(selected_train_seasons)
+
     holdout = df[df["Season"] == holdout_season].copy()
     if train.empty:
-        raise ValueError(f"No training rows found for seasons: {tuple(train_seasons)}")
+        raise ValueError(f"No training rows found for seasons: {train_scope}")
     if holdout.empty:
         raise ValueError(f"No holdout rows found for season: {holdout_season}")
 

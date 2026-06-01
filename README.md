@@ -1,10 +1,10 @@
 # Sports Modelling
 
-End-to-end sports betting odds arbitrage pipeline for European football. The project is being rebuilt from exploratory notebooks into production-style pipeline stages: raw event CSVs -> PySpark cleaning -> feature engineering -> XGBoost + MLflow -> odds comparison -> static dashboard -> Docker packaging.
+End-to-end sports betting odds arbitrage pipeline for European football. The project is being rebuilt from exploratory notebooks into production-style pipeline stages: Football-Data CSV download -> match-level Parquet -> feature engineering -> XGBoost + MLflow -> odds comparison -> static dashboard -> Docker packaging.
 
 ## Current Scope
 
-Phase 1 covers Premier League, La Liga, and Ligue 1 event-level data from 2017-2020. The goal is to identify value bets where:
+Phase 1 covers Premier League, La Liga, and Ligue 1 historical Football-Data.co.uk seasons from 2010-11 through 2019-20. The goal is to identify value bets where:
 
 ```text
 best_bookmaker_odds >= 1.10 * model_implied_odds

@@ -1,215 +1,108 @@
 # Stage 1 — Data Ingestion & Cleaning
 
-**Status:** Complete  
-**Script:** `pipeline/stage1_ingest.py`  
-**Input:** Raw event-level CSVs in `data/ENG/`, `data/FRA/`, `data/SPA/`  
+**Status:** Complete
+**Script:** `pipeline/stage1_ingest.py`
+**Default input:** Football-Data.co.uk season CSVs downloaded from `https://www.football-data.co.uk/mmz4281/{season_code}/{league_code}.csv`
+**Cache:** `data/bookmaker_odds/football_data/`
 **Output:** One Parquet file per league in `data/processed/` + a data quality report
 
 ---
 
 ## What
 
-Read thousands of per-match CSV files, merge them into one dataset per league, clean and validate the data, pivot from event-level rows to match-level rows, and write the result as Parquet.
+Stage 1 now downloads reproducible historical match CSVs directly from Football-Data.co.uk for Premier League, La Liga, and Ligue 1. It normalises those CSVs into the same match-level schema Stage 2 already expects, then writes Parquet files per league.
+
+The old event-level PySpark path is still available with `--source event-csv`, but the default path is Football-Data because it gives us more seasons and uses the same source as the bookmaker odds comparison.
 
 ---
 
 ## Why This Approach
 
-### Why PySpark instead of pandas?
-pandas loads the entire dataset into memory on a single CPU core. That works fine today at 180MB, but Phase 2 brings in live API data continuously — the volume will grow. PySpark distributes the work across CPU cores and, if needed, across machines. By writing Spark code now, you make zero changes when the data gets bigger.
+### Why download in Stage 1?
+A pipeline should own its inputs. If a hiring manager clones the repo, they should not need a hidden manual step where someone downloaded CSVs earlier. Stage 1 now fetches missing files, caches them, and creates deterministic outputs.
 
-The other reason: PySpark fluency is a hard requirement on most Data Engineer job descriptions. Hiring managers will ask "have you worked with Spark?" and you want to say yes with a real example.
+### Why Football-Data.co.uk?
+The project needs historical match results and bookmaker odds for the same fixtures. Football-Data publishes season-level CSVs with results, match stats, team names, dates, and closing odds. Using it for both Stage 1 and Stage 5 removes a major source-matching problem.
 
-### Why Parquet instead of CSV?
-CSV stores data row by row. When the next stage needs only 5 columns out of 20, it still reads all 20.
+### Why still write the old Stage 1 schema?
+Stage 2 should not care where the raw data came from. Keeping the contract stable means the rest of the pipeline can keep reading:
 
-Parquet is **columnar** — data is stored column by column. Reading 5 columns from a 20-column Parquet file means reading roughly 25% of the data. It also:
-- Enforces schema (no silent type mismatches downstream)
-- Compresses significantly better than CSV
-- Is the default format in every modern data warehouse (Snowflake, BigQuery, Databricks)
+`RBallID, HomeTeam, AwayTeam, Date, Season, HomeGoals, AwayGoals, HomeCorners, AwayCorners, HomeShotsOnTarget, AwayShotsOnTarget, HomeFouls, AwayFouls, HomeOffsides, AwayOffsides`
 
-### Why pivot from event-level to match-level here?
-Every downstream stage (features, model, odds) thinks in matches, not events. Doing the pivot once in Stage 1 means every other stage gets a clean, flat table. This is the **single responsibility principle** applied to pipeline design.
+That is the engineering point: a data contract lets you replace the source without rewriting every downstream stage.
 
 ---
 
-## New Concepts to Learn Before Building
+## Current Download Scope
 
-### PySpark basics
-PySpark is a Python API for Apache Spark. The key mental model: **nothing actually runs until you call an action** (like `.write()` or `.collect()`). Before that, Spark just builds a plan. This is called **lazy evaluation**.
-
-```python
-from pyspark.sql import SparkSession
-
-spark = SparkSession.builder \
-    .appName("sports_modelling_stage1") \
-    .master("local[*]") \  # use all available CPU cores on this machine
-    .getOrCreate()
-```
-
-`local[*]` means "run locally, use all cores." In production this would point to a cluster.
-
-### PySpark vs pandas key differences
-| Operation | pandas | PySpark |
+| League | Football-Data code | Output |
 |---|---|---|
-| Read CSV | `pd.read_csv()` | `spark.read.csv()` |
-| Filter rows | `df[df.col > 0]` | `df.filter(df.col > 0)` |
-| Group & aggregate | `df.groupby().agg()` | `df.groupBy().agg()` |
-| Write output | `df.to_parquet()` | `df.write.parquet()` |
+| Premier League | `E0` | `data/processed/ENG.parquet` |
+| La Liga | `SP1` | `data/processed/SPA.parquet` |
+| Ligue 1 | `F1` | `data/processed/FRA.parquet` |
 
-The logic is nearly identical — the API is slightly different.
+Default seasons are `1011` through `1920`, which become season labels `2010-11` through `2019-20`. The holdout remains `2019-20`; Stage 3 trains on every available season before that by default.
 
 ---
 
-## How to Build It (Step by Step)
+## How It Works
 
-### Step 1 — Create the script file
-Create `pipeline/stage1_ingest.py`.
+1. Build each source URL: `https://www.football-data.co.uk/mmz4281/{season_code}/{league_code}.csv`.
+2. Download missing CSVs into `data/bookmaker_odds/football_data/`.
+3. Parse mixed date formats safely with day-first preference.
+4. Derive the season label from match date: August or later starts a new season.
+5. Map Football-Data columns into the Stage 1 contract:
+   - `FTHG`, `FTAG` -> goals
+   - `HC`, `AC` -> corners
+   - `HST`, `AST` -> shots on target
+   - `HF`, `AF` -> fouls
+   - `HO`, `AO` -> offsides when available, otherwise `0`
+6. Create deterministic `RBallID` values from league, season, date, home team, and away team.
+7. Sort, deduplicate by `RBallID`, and write Parquet.
 
-### Step 2 — Start a Spark session
-```python
-from pyspark.sql import SparkSession
+---
 
-spark = SparkSession.builder \
-    .appName("stage1_ingest") \
-    .master("local[*]") \
-    .getOrCreate()
+## Commands
+
+Run the default Football-Data ingestion:
+
+```bash
+python pipeline/stage1_ingest.py
 ```
 
-### Step 3 — Read all CSVs for a league
-Each league folder contains hundreds of per-match CSV files. Use a wildcard path to read them all at once:
-```python
-df = spark.read.csv("data/ENG/*.csv", header=True, inferSchema=True)
-```
-`inferSchema=True` tells Spark to detect column types. For production you'd define the schema explicitly — but `inferSchema` is fine here.
+Run a tiny sample while developing:
 
-### Step 4 — Inspect the raw schema
-Before cleaning anything, print the schema and a few rows. Understand what you have.
-```python
-df.printSchema()
-df.show(5)
+```bash
+python pipeline/stage1_ingest.py --season-codes 1920 --leagues ENG
 ```
 
-The raw event schema:
-| Column | Type | Description |
-|---|---|---|
-| `RBallID` | string | Unique match ID |
-| `HomeTeam` | string | Home team name |
-| `AwayTeam` | string | Away team name |
-| `Timestamp` | string | Match date/time |
-| `Incident` | string | Event type code (GOAL1, CR2, SHG1...) |
-| `IncidentNumber` | int | Sequential ID within match |
-| `Minute` | int | Minute of the event |
+Run the old event-level CSV path only if those local files exist:
 
-### Step 5 — Filter out non-play records
-Some rows have `Minute = 0` or null — these are administrative entries, not real match events. Drop them.
-```python
-df = df.filter(df.Minute > 0)
+```bash
+python pipeline/stage1_ingest.py --source event-csv
 ```
-
-### Step 6 — Parse the Timestamp column
-Cast it to a proper date type and extract the season:
-- August or later → new season starts
-- Season label: "2017-18", "2018-19", "2019-20"
-
-```python
-from pyspark.sql import functions as F
-
-df = df.withColumn("Date", F.to_date("Timestamp")) \
-       .withColumn("Year", F.year("Date")) \
-       .withColumn("Month", F.month("Date")) \
-       .withColumn("Season", F.when(F.col("Month") >= 8,
-                       F.concat(F.col("Year").cast("string"),
-                                F.lit("-"),
-                                (F.col("Year") + 1).cast("string").substr(3, 2)))
-                   .otherwise(
-                       F.concat((F.col("Year") - 1).cast("string"),
-                                F.lit("-"),
-                                F.col("Year").cast("string").substr(3, 2))))
-```
-
-### Step 7 — Pivot events to match-level columns
-The goal is one row per match with columns like `HomeGoals`, `AwayGoals`, `HomeCorners`, etc.
-
-The incident codes encode both the event type and which team:
-- `GOAL1` = home team goal, `GOAL2` = away team goal
-- `CR1` = home corner, `CR2` = away corner
-- `SHG1` = home shot on goal, `SHG2` = away shot on goal
-- `SF1` = home foul, `SF2` = away foul
-
-Count each incident type per match, then pivot:
-```python
-from pyspark.sql import functions as F
-
-incident_map = {
-    "GOAL1": "HomeGoals",  "GOAL2": "AwayGoals",
-    "CR1":   "HomeCorners","CR2":   "AwayCorners",
-    "SHG1":  "HomeShotsOnTarget", "SHG2": "AwayShotsOnTarget",
-    "SF1":   "HomeFouls",  "SF2":   "AwayFouls",
-    "OS1":   "HomeOffsides","OS2":  "AwayOffsides",
-}
-
-# Count each incident type per match
-counts = df.groupBy("RBallID", "HomeTeam", "AwayTeam", "Date", "Season", "Incident") \
-           .agg(F.count("*").alias("Count"))
-
-# Pivot incident types into columns
-match_df = counts.groupBy("RBallID", "HomeTeam", "AwayTeam", "Date", "Season") \
-                 .pivot("Incident") \
-                 .agg(F.first("Count")) \
-                 .fillna(0)
-
-# Rename columns using the incident map
-for code, name in incident_map.items():
-    if code in match_df.columns:
-        match_df = match_df.withColumnRenamed(code, name)
-```
-
-### Step 8 — Validate the output
-Before writing, run basic checks:
-```python
-row_count = match_df.count()
-null_counts = {col: match_df.filter(F.col(col).isNull()).count()
-               for col in ["HomeTeam", "AwayTeam", "Date", "Season"]}
-date_range = match_df.agg(F.min("Date"), F.max("Date")).collect()[0]
-
-print(f"Rows: {row_count}")
-print(f"Nulls: {null_counts}")
-print(f"Date range: {date_range[0]} to {date_range[1]}")
-```
-
-These four numbers become your **data quality report**. Write them to a text file alongside the Parquet output.
-
-### Step 9 — Write Parquet output
-```python
-match_df.write.mode("overwrite").parquet("data/processed/ENG.parquet")
-```
-
-`mode("overwrite")` means re-running the script replaces the old file cleanly. Never use `append` here — you'd get duplicate data.
-
-### Step 10 — Loop over all three leagues
-Wrap everything in a function `process_league(league: str)` and call it for ENG, FRA, SPA.
 
 ---
 
 ## Acceptance Criteria
 
-- [x] Script runs without errors: `python pipeline/stage1_ingest.py`
-- [x] Three Parquet files created: `data/processed/ENG.parquet`, `FRA.parquet`, `SPA.parquet`
-- [x] Each file has one row per match (verified by zero duplicate `RBallID` values)
-- [x] No nulls in `HomeTeam`, `AwayTeam`, `Date`, `Season`
-- [x] Data quality report printed to console and written to `data/processed/quality_report.txt`
-- [x] Date range covers the available raw data: ENG 2017-08-11 to 2019-12-29; SPA 2017-08-18 to 2019-12-22; FRA 2017-08-04 to 2019-12-21
+- [x] Script downloads missing Football-Data CSVs into the local cache
+- [x] Script writes `data/processed/ENG.parquet`, `SPA.parquet`, and `FRA.parquet`
+- [x] Output keeps the Stage 1 -> Stage 2 schema stable
+- [x] Required source columns are validated before writing output
+- [x] Missing optional stat columns are handled explicitly, not silently ignored
+- [x] Data quality report is written to `data/processed/quality_report.txt`
+- [x] Unit tests cover URL construction, cache paths, schema validation, and Football-Data normalization
 
 ---
 
 ## Interview Q&A
 
-**Q: Why did you use PySpark for a 180MB dataset? pandas would have been simpler.**  
-A: "The pipeline is designed for Phase 2 where data comes from a live API on a daily schedule — the volume grows continuously. Switching from pandas to Spark later would mean rewriting every stage. By writing Spark code now, Phase 2 is just a change to the data source, not the processing logic."
+**Q: Why move downloading into Stage 1?**
+A: "Because the pipeline should be reproducible from a fresh clone. Stage 1 owns raw data acquisition, caches immutable source files, and emits a clean Parquet contract for downstream stages. That removes manual setup and makes Docker useful."
 
-**Q: What is Parquet and why use it over CSV?**  
-A: "Parquet is a columnar file format — data is stored column by column rather than row by row. When you only need 5 of 20 columns, Parquet reads roughly 25% of the data. It also enforces schema and compresses better. Every modern data warehouse — BigQuery, Snowflake, Databricks — uses Parquet as its default storage format."
+**Q: Why did changing Stage 1 not break Stage 2?**
+A: "Because the boundary between stages is a data contract, not a function call. As long as Stage 1 writes the same columns and types, Stage 2 can stay unchanged even if the raw source changes completely."
 
-**Q: What is lazy evaluation in Spark?**  
-A: "Spark doesn't execute transformations immediately. When you call `.filter()` or `.groupBy()`, Spark just adds those steps to a logical plan. Execution only happens when you call an action like `.write()` or `.count()`. This lets Spark optimise the full execution plan before running anything — it might reorder operations, push filters down, or combine steps."
+**Q: Why keep Parquet?**
+A: "Parquet is columnar, compressed, schema-aware, and standard in data engineering stacks. It is the right intermediate format for a multi-stage batch pipeline."

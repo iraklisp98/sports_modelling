@@ -22,7 +22,7 @@ Without experiment tracking, you cannot answer which model was trained, with whi
 The current model input is tabular: ELO ratings, rolling form, corners, points, and season win rates. XGBoost is a strong baseline for tabular classification and gives feature importance artifacts that are easy to explain in an interview.
 
 ### Why time-based splitting?
-Football data is chronological. A random split can train on future matches and validate on earlier matches, which leaks future information. Stage 3 trains on `2017-18` and `2018-19`, then evaluates on the available `2019-20` holdout snapshot.
+Football data is chronological. A random split can train on future matches and validate on earlier matches, which leaks future information. Stage 3 trains on every available season before `2019-20`, then evaluates on the `2019-20` holdout snapshot.
 
 ### Why Optuna is optional by CLI
 The script supports Optuna with `--trials N`, but defaults to `--trials 0` for a fast reproducible baseline. This keeps local development quick while still allowing proper hyperparameter search when needed.
@@ -55,8 +55,8 @@ The script supports Optuna with `--trials N`, but defaults to `--trials 0` for a
 
 ### Split
 
-- Train: `2017-18`, `2018-19`
-- Holdout: available `2019-20` rows currently ending in December 2019
+- Train: every available season before `2019-20`
+- Holdout: `2019-20`
 
 ### Metrics
 
@@ -136,7 +136,7 @@ model = mlflow.xgboost.load_model("models:/match_outcome_xgb/Production")
 - [x] Holdout accuracy target `> 55%` met in a 30-trial tuning run: `0.5583`
 - [ ] Holdout log-loss target `< 0.95` not yet met; best checked 30-trial run: `0.9750`
 
-The log-loss gap is a model-quality improvement item, not a pipeline implementation blocker. Likely next improvements are calibration, richer features, and more complete 2019-20 data.
+The log-loss gap is a model-quality improvement item, not a pipeline implementation blocker. Likely next improvements are calibration, richer features, and cleaner betting-market filters.
 
 ---
 

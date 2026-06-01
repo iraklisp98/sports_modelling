@@ -82,11 +82,11 @@ This means:
 
 **Full spec:** See `docs/ai/PRD.md` — this is the source of truth for scope, architecture, and success criteria.
 
-**One-line summary:** An end-to-end sports betting odds arbitrage pipeline. Raw CSVs → PySpark cleaning → feature engineering → XGBoost model tracked with MLflow → odds comparison via Football-Data.co.uk historical odds → value bet flagging → HTML/CSS/JS dashboard with a betting simulator.
+**One-line summary:** An end-to-end sports betting odds arbitrage pipeline. Football-Data.co.uk CSV download → match-level Parquet → feature engineering → XGBoost model tracked with MLflow → odds comparison → value bet flagging → HTML/CSS/JS dashboard with a betting simulator.
 
 **Portfolio goal:** When a hiring manager opens the GitHub repo, they should see a project that looks like it came from someone already doing DE/MLE work — not a Jupyter notebook.
 
-**Data:** Event-level football match data for Premier League, La Liga, and Ligue 1, seasons 2017–2020.
+**Data:** Football-Data.co.uk historical match and odds CSVs for Premier League, La Liga, and Ligue 1, seasons 2010–2020 by default.
 
 **Arbitrage condition:**
 ```
@@ -167,7 +167,7 @@ Use these terms the same way throughout so Iraklis builds a consistent mental mo
 | **Value bet** | A match where `bookmaker_odds >= 1.10 × model_odds` |
 | **Edge** | `(bookmaker_odds / model_odds) - 1`, expressed as % |
 | **Implied odds** | `1 / probability` — how we convert model output to decimal odds |
-| **Holdout** | The available 2019–2020 rows used for final model evaluation only |
+| **Holdout** | The 2019–2020 rows used for final model evaluation only |
 | **Partition** | A PySpark unit of data distribution across workers |
 | **Artifact** | A file output logged by MLflow (model, chart, etc.) |
 | **Production stage** | The MLflow model registry status meaning "use this model" |
@@ -230,8 +230,8 @@ The existing notebooks (`analysis/descriptive.ipynb`, `models/training.ipynb`) a
 
 ## Current State of the Repo
 
-- `data/ENG/`, `data/FRA/`, `data/SPA/`: Raw event-level CSVs, ~180MB total, 3 seasons (2017–2020)
-- `data/processed/`: Legacy merged CSVs from `merge_datasets.py`; Stage 1 is expected to replace these with Parquet
+- `data/bookmaker_odds/football_data/`: Cached Football-Data.co.uk season CSVs used by Stage 1 and Stage 5
+- `data/processed/`: Stage 1 Parquet outputs consumed by Stage 2
 - `analysis/descriptive.ipynb`: Descriptive stats, distribution fitting, team rankings — complete
 - `models/training.ipynb`: ELO system + XGBoost classifier — complete as exploration, not production-ready
 - `merge_datasets.py`: Legacy one-off merge script that Stage 1 is expected to supersede

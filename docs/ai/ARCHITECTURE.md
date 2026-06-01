@@ -14,20 +14,19 @@ The build is organised into seven stages. Pipeline stages communicate exclusivel
 ┌──────────────────────────────────────────────────────────────────────┐
 │                          DATA SOURCES                                │
 │                                                                      │
-│   data/ENG/*.csv          data/FRA/*.csv          data/SPA/*.csv     │
-│   (event-level,           (event-level,           (event-level,      │
-│    ~950 files)             ~940 files)             ~927 files)        │
+│   Football-Data.co.uk season CSVs                                  │
+│   E0 Premier League · SP1 La Liga · F1 Ligue 1 · 2010-11 to 2019-20 │
 └───────────────────────────────┬──────────────────────────────────────┘
                                 │
                                 ▼
 ┌──────────────────────────────────────────────────────────────────────┐
 │  STAGE 1 — Ingest & Clean                  pipeline/stage1_ingest.py │
 │                                                                      │
-│  Tool: PySpark                                                       │
-│  • Merge per-match CSVs into one dataset per league                  │
-│  • Filter noise (Minute = 0 rows)                                    │
-│  • Parse timestamps, assign season labels                            │
-│  • Pivot event rows → one row per match                              │
+│  Tools: pandas · requests                                            │
+│  • Download missing Football-Data season CSVs into a local cache      │
+│  • Parse dates, assign season labels                                 │
+│  • Normalize result/stat columns into the match-level contract        │
+│  • Generate deterministic match IDs and deduplicate fixtures          │
 │  • Validate schema, emit data quality report                         │
 │                                                                      │
 │  Output: data/processed/{ENG,FRA,SPA}.parquet                        │
@@ -52,7 +51,7 @@ The build is organised into seven stages. Pipeline stages communicate exclusivel
 │                                                                      │
 │  Tools: XGBoost · Optuna · MLflow                                    │
 │  • Combine all three leagues into one training dataset               │
-│  • Time-series cross-validation (train on 2017–19, test on 2019–20) │
+│  • Time-aware split: train before 2019–20, hold out 2019–20          │
 │  • Optuna tunes hyperparameters (50 trials, minimise log loss)       │
 │  • Final model trained, evaluated (log loss, Brier, accuracy, F1)   │
 │  • All params, metrics, and artifacts logged to MLflow               │
@@ -202,13 +201,13 @@ All columns from Stage 1 output, plus:
 
 | Component | Technology | Alternative considered | Reason for choice |
 |---|---|---|---|
-| Ingestion | PySpark | pandas | Scales to Phase 2 API volumes without code changes |
+| Ingestion | pandas + requests | manual CSV download | Reproducible source download plus simple normalization into the pipeline contract |
 | Intermediate storage | Parquet | CSV | Columnar, schema-enforced, faster reads, industry standard |
 | Feature engineering | pandas | PySpark | ELO is sequential and stateful; pandas is simpler for this |
 | Model | XGBoost | LightGBM, Logistic Regression | Best tabular baseline; handles NaN natively |
 | Hyperparameter tuning | Optuna | GridSearchCV | Bayesian optimisation; far fewer trials needed |
 | Experiment tracking | MLflow | Weights & Biases | Open source, local-first, no account required |
-| Odds data | Football-Data.co.uk CSVs | Live odds API | Historical odds are required for the 2017-2020 backtest |
+| Match and odds data | Football-Data.co.uk CSVs | Live odds API | Historical results and bookmaker odds are required for reproducible backtesting |
 | Team name matching | Normalised exact match | Fuzzy matching | Deterministic date, home-team, and away-team matching is safer for this historical CSV join |
 | Dashboard | HTML / CSS / JavaScript with native SVG/CSS charts | Flask + Jinja | No backend needed; pipeline pre-computes everything |
 | Dashboard server | nginx | Python http.server | Production-grade static file server |
@@ -234,7 +233,7 @@ All rolling features are computed with `.shift(1)` before the window. ELO rating
 The dashboard reads static JSON files. It does not call the pipeline, query a database, or load a model. This means the dashboard works without any Python environment — just nginx. It also means the pipeline can be rerun without restarting the dashboard.
 
 ### 5. Secrets never touch the codebase
-Stage 5 uses public Football-Data.co.uk CSVs and does not require an API key. Future live-odds integrations should keep any secrets in `.env`, outside the codebase.
+Stage 1 and Stage 5 use public Football-Data.co.uk CSVs and do not require an API key. Future live-odds integrations should keep any secrets in `.env`, outside the codebase.
 
 ---
 
@@ -246,22 +245,22 @@ sports_modelling/
 ├── data/
 │   ├── ENG/                        # Raw per-match CSVs (~950 files)
 │   ├── FRA/                        # Raw per-match CSVs (~940 files)
-│   ├── SPA/                        # Raw per-match CSVs (~927 files)
+│   ├── SPA/                        # Legacy local event CSVs (optional fallback)
 │   ├── processed/                  # Stage 1 output — Parquet per league
 │   ├── features/                   # Stage 2 output — feature-enriched Parquet
 │   ├── output/                     # Stage 4 & 5 output — odds + value bets
-│   └── bookmaker_odds/football_data/ # Cached Football-Data CSV odds
+│   └── bookmaker_odds/football_data/ # Cached Football-Data match/odds CSVs
 │
 ├── pipeline/
-│   ├── stage1_ingest.py            # PySpark CSV → Parquet
-│   ├── stage2_features.py          # ELO + rolling features (planned)
-│   ├── stage3_train.py             # XGBoost + Optuna + MLflow (planned)
-│   ├── stage4_odds_gen.py          # Model inference → implied odds (planned)
+│   ├── stage1_ingest.py            # Football-Data CSV download -> Parquet
+│   ├── stage2_features.py          # ELO + rolling features
+│   ├── stage3_train.py             # XGBoost + Optuna + MLflow
+│   ├── stage4_odds_gen.py          # Model inference -> implied odds
 │   ├── stage5_compare.py           # Football-Data odds + value bet flagging
-│   ├── export_dashboard_data.py    # Parquet → JSON for dashboard (planned)
-│   └── run_pipeline.py             # Orchestrates all stages in order (planned)
+│   ├── export_dashboard_data.py    # Parquet -> JSON for dashboard
+│   └── run_pipeline.py             # Orchestrates all stages in order
 │
-├── dashboard/                   # Planned
+├── dashboard/
 │   ├── index.html                  # Single-page app
 │   ├── css/
 │   ├── js/
@@ -270,9 +269,9 @@ sports_modelling/
 │   │   └── simulator.js            # Betting simulator logic
 │   └── data/                       # Pre-computed JSON (written by pipeline)
 │
-├── mlruns/                         # Planned MLflow tracking store
+├── mlruns/                         # Local MLflow tracking store
 │
-├── docker/                      # Planned
+├── docker/
 │   ├── Dockerfile.pipeline
 │   ├── Dockerfile.dashboard
 │   ├── nginx.conf
@@ -281,7 +280,7 @@ sports_modelling/
 ├── config/                      # Planned
 │   └── settings.yaml               # Thresholds, API config, league keys
 │
-├── tests/                       # Planned
+├── tests/
 │   ├── test_features.py
 │   ├── test_odds_comparison.py
 │   └── test_pipeline_integration.py
@@ -316,8 +315,8 @@ Phase 2 replaces the static CSV source with live API ingestion. The diagram belo
 ```
 Phase 1 (current)              Phase 2 (future)
 ─────────────────              ────────────────
-Raw CSVs                  →    Football Data API (daily pull)
-Stage 1: PySpark CSV read →    Stage 1: API client + DB write
+Football-Data CSVs       ->    Football Data API (daily pull)
+Stage 1: Football-Data CSV download → Stage 1: API client + DB write
                                + PostgreSQL / S3 storage
                                + Airflow DAG (replaces run_pipeline.py)
                                + Scheduled daily runs

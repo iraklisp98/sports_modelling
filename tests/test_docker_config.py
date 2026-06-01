@@ -54,6 +54,7 @@ class DockerConfigTests(unittest.TestCase):
         self.assertIn("pipeline", services)
         self.assertIn("dashboard", services)
         self.assertEqual(services["dashboard"]["ports"], ["8080:80"])
+        self.assertEqual(services["pipeline"]["user"], "${UID:-1000}:${GID:-1000}")
         self.assertEqual(services["dashboard"]["depends_on"]["pipeline"]["condition"], "service_completed_successfully")
         self.assertIn("../data:/app/data", services["pipeline"]["volumes"])
         self.assertIn("../dashboard/data:/app/dashboard/data", services["pipeline"]["volumes"])

@@ -4,6 +4,7 @@ services:
       context: ..
       dockerfile: docker/Dockerfile.pipeline
     image: sports-modelling-pipeline:local
+    user: "${UID:-1000}:${GID:-1000}"
     working_dir: /app
     environment:
       MLFLOW_TRACKING_URI: file:/app/mlruns

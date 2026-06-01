@@ -16,7 +16,7 @@ Compare model-implied fair odds against historical bookmaker closing odds from F
 ## Why This Approach
 
 ### Why Football-Data.co.uk instead of The Odds API?
-The project is backtesting matches from 2017-2020. A live odds API is useful for future fixtures, but it is the wrong source for historical validation unless the historical market is available for the exact period. Football-Data publishes season-level CSVs with match results, team names, dates, and historical bookmaker 1X2 odds, so the backtest can be reproduced without an API key.
+The project is backtesting historical matches with `2019-20` kept as the final holdout window. A live odds API is useful for future fixtures, but it is the wrong source for historical validation unless the historical market is available for the exact period. Football-Data publishes season-level CSVs with match results, team names, dates, and historical bookmaker 1X2 odds, so the backtest can be reproduced without an API key.
 
 ### Why take the best bookmaker odds?
 A bettor chooses the best available market price, not the average price. If Bet365 offers 2.10 and Pinnacle offers 2.25, the realistic comparison is against 2.25.

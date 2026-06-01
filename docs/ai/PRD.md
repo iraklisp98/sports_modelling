@@ -1,9 +1,9 @@
 # PRD: Sports Betting Odds Arbitrage Pipeline
 
-**Author:** Iraklis Papageorgiou  
-**Status:** In Progress  
-**Phase:** 1 of 2  
-**Last Updated:** 2026-05-31
+**Author:** Iraklis Papageorgiou
+**Status:** In Progress
+**Phase:** 1 of 2
+**Last Updated:** 2026-06-01
 
 ---
 
@@ -43,7 +43,7 @@ A 10% threshold filters out noise and model uncertainty, retaining only high-con
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                        DATA LAYER                               │
-│  Raw CSVs (ENG / FRA / SPA)  →  PySpark cleaning & merging     │
+│  Football-Data CSVs (ENG / SPA / FRA) -> Stage 1 normalization │
 └─────────────────────────────────┬───────────────────────────────┘
                                   │
 ┌─────────────────────────────────▼───────────────────────────────┐
@@ -78,25 +78,28 @@ All stages are containerised with Docker. Each stage is independently runnable a
 
 ### Stage 1 — Data Ingestion & Cleaning
 
-**Input:** Raw event-level CSVs in `data/ENG/`, `data/FRA/`, `data/SPA/`  
+**Input:** Football-Data.co.uk season CSVs downloaded from `https://www.football-data.co.uk/mmz4281/{season_code}/{league_code}.csv`
+**Cache:** `data/bookmaker_odds/football_data/`
 **Output:** Parquet files in `data/processed/` (one per league)
 
 **Responsibilities:**
-- Merge per-match CSVs into a single dataset per league using PySpark
-- Parse and standardise timestamps; assign season labels (Aug–Jul)
-- Pivot event-level rows into match-level feature columns (goals, corners, shots, fouls, etc.)
-- Validate schema and emit a data quality report (null rates, row counts, date ranges)
+- Download missing Football-Data CSVs for Premier League, La Liga, and Ligue 1
+- Parse and standardise match dates; assign season labels (Aug-Jul)
+- Normalise Football-Data result/stat columns into the Stage 1 match-level contract
+- Generate deterministic match IDs and deduplicate by `RBallID`
+- Validate schema and emit a data quality report (row counts, seasons, source files)
 - Write Parquet output for efficient downstream reads
 
 **Key engineering decisions:**
-- PySpark handles the ~180MB combined dataset and will scale to larger datasets in Phase 2 without code changes
+- Stage 1 owns raw data acquisition, so the project can run from a fresh clone
+- The old event-level PySpark path remains available with `--source event-csv`, but Football-Data is the default source
 - Parquet over CSV: columnar format cuts downstream read time and enforces schema
 
 ---
 
 ### Stage 2 — Feature Engineering
 
-**Input:** Processed Parquet files  
+**Input:** Processed Parquet files
 **Output:** Feature-enriched dataset ready for training
 
 **Features produced:**
@@ -125,12 +128,12 @@ All stages are containerised with Docker. Each stage is independently runnable a
 
 ### Stage 3 — Model Training & Experiment Tracking
 
-**Input:** Feature dataset from Stage 2  
+**Input:** Feature dataset from Stage 2
 **Output:** Serialised model artifact + MLflow experiment run
 
 **Model:** XGBoost multi-class classifier (H / D / A)
 
-**Train/test split:** Seasons 2017–2018 and 2018–2019 for training; available 2019–2020 rows are held out for evaluation
+**Train/test split:** Every available season before `2019-20` is used for training; `2019-20` remains the final holdout for evaluation
 
 **Evaluation metrics:**
 - Log Loss (primary — measures probability calibration)
@@ -150,7 +153,7 @@ All stages are containerised with Docker. Each stage is independently runnable a
 
 ### Stage 4 — Odds Generation
 
-**Input:** Trained model + feature dataset (or live feature snapshot)  
+**Input:** Trained model + feature dataset (or live feature snapshot)
 **Output:** DataFrame with columns `[RBallID, HomeTeam, AwayTeam, Date, Season, Result, P_Home, P_Draw, P_Away, ModelOdds_Home, ModelOdds_Draw, ModelOdds_Away]`
 
 **Process:**
@@ -163,12 +166,12 @@ All stages are containerised with Docker. Each stage is independently runnable a
 
 ### Stage 5 — Odds Comparison & Value Bet Flagging
 
-**Input:** Model odds (Stage 4) + historical bookmaker odds from Football-Data.co.uk CSVs  
+**Input:** Model odds (Stage 4) + historical bookmaker odds from Football-Data.co.uk CSVs
 **Output:** Flagged value bets table
 
 **Football-Data.co.uk integration:**
 - Source pattern: `https://www.football-data.co.uk/mmz4281/{season_code}/{league_code}.csv`
-- Seasons: 2017-18, 2018-19, 2019-20
+- Default cached seasons: `1011` through `1920`; the 2019-20 season remains the holdout-focused comparison period
 - League codes: `E0` Premier League, `SP1` La Liga, `F1` Ligue 1
 - Bookmaker odds columns: `B365*`, `PS*`, `WH*`, and other supported 1X2 prefixes
 - Match on normalised home team, away team, and match date
@@ -199,8 +202,8 @@ Where `best_bookmaker_odds` is the maximum offered across available Football-Dat
 
 ### Stage 6 — Dashboard
 
-**Stack:** Pure HTML / CSS / JavaScript (native SVG/CSS visualisations)  
-**Data contract:** Pipeline stages write pre-computed JSON files to `dashboard/data/`. The dashboard reads them at load time — no backend server required.  
+**Stack:** Pure HTML / CSS / JavaScript (native SVG/CSS visualisations)
+**Data contract:** Pipeline stages write pre-computed JSON files to `dashboard/data/`. The dashboard reads them at load time — no backend server required.
 **Deployment:** Docker container running nginx, served on port 8080
 
 **Four tabs:**

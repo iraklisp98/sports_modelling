@@ -14,7 +14,7 @@ from pipeline.stage3_train import (
 
 def sample_feature_rows() -> pd.DataFrame:
     rows = []
-    seasons = ["2017-18", "2018-19", "2019-20"]
+    seasons = ["2016-17", "2017-18", "2018-19", "2019-20"]
     for idx, season in enumerate(seasons, start=1):
         row = {
             "RBallID": idx,
@@ -29,13 +29,19 @@ def sample_feature_rows() -> pd.DataFrame:
 
 
 class Stage3TrainTests(unittest.TestCase):
-    def test_split_train_holdout_uses_2019_20_only_for_holdout(self):
+    def test_split_train_holdout_uses_all_pre_holdout_seasons_by_default(self):
         train, holdout = split_train_holdout(sample_feature_rows())
+
+        self.assertEqual(train["Season"].tolist(), ["2016-17", "2017-18", "2018-19"])
+        self.assertEqual(holdout["Season"].tolist(), ["2019-20"])
+        self.assertEqual(train["RBallID"].tolist(), [1, 2, 3])
+        self.assertEqual(holdout["RBallID"].tolist(), [4])
+
+    def test_split_train_holdout_accepts_explicit_training_seasons(self):
+        train, holdout = split_train_holdout(sample_feature_rows(), train_seasons=("2017-18", "2018-19"))
 
         self.assertEqual(train["Season"].tolist(), ["2017-18", "2018-19"])
         self.assertEqual(holdout["Season"].tolist(), ["2019-20"])
-        self.assertEqual(train["RBallID"].tolist(), [1, 2])
-        self.assertEqual(holdout["RBallID"].tolist(), [3])
 
     def test_select_features_and_target_keeps_expected_numeric_columns_only(self):
         df = sample_feature_rows()
@@ -44,7 +50,7 @@ class Stage3TrainTests(unittest.TestCase):
         X, y = select_features_and_target(df)
 
         self.assertEqual(X.columns.tolist(), FEATURE_COLUMNS)
-        self.assertEqual(y.tolist(), [0, 1, 2])
+        self.assertEqual(y.tolist(), [0, 1, 2, 0])
         self.assertTrue(all(str(dtype) == "float64" for dtype in X.dtypes))
 
     def test_select_features_and_target_rejects_unknown_labels(self):
