@@ -1,4 +1,6 @@
+import tempfile
 import unittest
+from pathlib import Path
 from unittest.mock import Mock, patch
 
 import numpy as np
@@ -23,6 +25,8 @@ from pipeline.stage3_train import (
     majority_class_probabilities,
     multiclass_brier_score,
     normalize_probabilities,
+    run_pipeline,
+    select_draw_overlay_weight,
     select_features_and_target,
     split_model_calibration_data,
     split_train_holdout,
@@ -238,6 +242,104 @@ class Stage3TrainTests(unittest.TestCase):
             blend_draw_probability(np.array([[0.4, 0.3, 0.3]]), np.array([1.2]))
         with self.assertRaisesRegex(ValueError, "one value per"):
             blend_draw_probability(np.array([[0.4, 0.3, 0.3]]), np.array([0.2, 0.3]))
+
+
+    def test_select_draw_overlay_weight_includes_zero_as_valid_candidate(self):
+        y_true = pd.Series([0, 1, 2])
+        base = np.array([[0.70, 0.20, 0.10], [0.20, 0.60, 0.20], [0.10, 0.20, 0.70]])
+        draw = np.array([0.80, 0.10, 0.80])
+
+        selected, results = select_draw_overlay_weight(y_true, base, draw, candidate_weights=[0.0, 0.5])
+
+        self.assertEqual(selected, 0.0)
+        self.assertIn(0.0, [row["draw_overlay_weight"] for row in results])
+
+    def test_select_draw_overlay_weight_chooses_lowest_validation_log_loss(self):
+        y_true = pd.Series([0, 1, 2])
+        base = np.array([[0.70, 0.20, 0.10], [0.20, 0.30, 0.50], [0.10, 0.20, 0.70]])
+        draw = np.array([0.05, 0.80, 0.05])
+
+        selected, results = select_draw_overlay_weight(y_true, base, draw, candidate_weights=[0.0, 0.5, 1.0])
+
+        losses = {row["draw_overlay_weight"]: row["validation_log_loss"] for row in results}
+        self.assertEqual(selected, min(losses, key=losses.get))
+        self.assertLess(losses[selected], losses[0.0])
+
+    def test_select_draw_overlay_weight_breaks_ties_with_smaller_weight(self):
+        y_true = pd.Series([0, 1, 2])
+        base = np.array([[0.70, 0.20, 0.10], [0.20, 0.60, 0.20], [0.10, 0.20, 0.70]])
+        draw = base[:, 1]
+
+        selected, _ = select_draw_overlay_weight(y_true, base, draw, candidate_weights=[0.5, 0.0, 0.25])
+
+        self.assertEqual(selected, 0.0)
+
+    def test_select_draw_overlay_weight_rejects_invalid_candidates(self):
+        y_true = pd.Series([0, 1, 2])
+        base = np.array([[0.70, 0.20, 0.10], [0.20, 0.60, 0.20], [0.10, 0.20, 0.70]])
+        draw = np.array([0.20, 0.60, 0.20])
+
+        with self.assertRaisesRegex(ValueError, "between 0 and 1"):
+            select_draw_overlay_weight(y_true, base, draw, candidate_weights=[0.0, 1.2])
+
+    def test_run_pipeline_selects_weight_from_calibration_labels_not_holdout(self):
+        def make_rows(season: str, labels: list[int], start_id: int) -> pd.DataFrame:
+            rows = []
+            for offset, label in enumerate(labels):
+                row = {
+                    "RBallID": start_id + offset,
+                    "Date": f"2018-09-{offset + 1:02d}" if season != "2019-20" else f"2019-09-{offset + 1:02d}",
+                    "Season": season,
+                    "League": "ENG",
+                    "HomeTeam": f"Home {start_id + offset}",
+                    "AwayTeam": f"Away {start_id + offset}",
+                    "Result": ["H", "D", "A"][label],
+                    "ResultCode": label,
+                }
+                for index, column in enumerate(BASE_FEATURE_COLUMNS):
+                    row[column] = float(start_id + offset + index)
+                rows.append(row)
+            return pd.DataFrame(rows)
+
+        model_df = make_rows("2018-19", [0, 1, 2], 1)
+        calibration_df = make_rows("2018-19", [0, 1, 2], 10)
+        holdout_df = make_rows("2019-20", [2, 2, 2], 20)
+        base_model = Mock()
+        base_model.save_model = Mock()
+        calibrated_model = Mock()
+        calibrated_model.predict_proba.side_effect = [
+            np.array([[0.70, 0.20, 0.10], [0.20, 0.30, 0.50], [0.10, 0.20, 0.70]]),
+            np.array([[0.10, 0.20, 0.70], [0.10, 0.20, 0.70], [0.10, 0.20, 0.70]]),
+            np.array([[0.10, 0.20, 0.70], [0.10, 0.20, 0.70], [0.10, 0.20, 0.70]]),
+        ]
+        calibrated_draw_model = Mock()
+        calibrated_draw_model.predict_proba.side_effect = [
+            np.array([[0.95, 0.05], [0.20, 0.80], [0.95, 0.05]]),
+            np.array([[0.50, 0.50], [0.50, 0.50], [0.50, 0.50]]),
+        ]
+
+        seen_labels = []
+
+        def selecting_weight(y_validation, multiclass_proba, draw_proba, candidate_weights=None):
+            seen_labels.extend(np.asarray(y_validation, dtype=int).tolist())
+            return select_draw_overlay_weight(y_validation, multiclass_proba, draw_proba, candidate_weights or [0.0, 0.5, 1.0])
+
+        with tempfile.TemporaryDirectory() as tmpdir:
+            with patch("pipeline.stage3_train.load_feature_data", return_value=pd.concat([model_df, calibration_df, holdout_df])), \
+                patch("pipeline.stage3_train.split_train_holdout", return_value=(pd.concat([model_df, calibration_df]), holdout_df)), \
+                patch("pipeline.stage3_train.split_model_calibration_data", return_value=(model_df, calibration_df)), \
+                patch("pipeline.stage3_train.tune_hyperparameters", return_value={"random_state": 42}), \
+                patch("pipeline.stage3_train.train_classifier", return_value=base_model), \
+                patch("pipeline.stage3_train.train_draw_classifier", return_value=Mock()), \
+                patch("pipeline.stage3_train.calibrate_classifier", side_effect=[calibrated_model, calibrated_draw_model]), \
+                patch("pipeline.stage3_train.select_draw_overlay_weight", side_effect=selecting_weight), \
+                patch("pipeline.stage3_train.write_feature_importance"), \
+                patch("pipeline.stage3_train.write_confusion_matrix"), \
+                patch("pipeline.stage3_train.log_mlflow_run", return_value=(None, None)), \
+                patch("pipeline.stage3_train.register_production_model", return_value=None):
+                run_pipeline(artifacts_dir=Path(tmpdir), trials=0)
+
+        self.assertEqual(seen_labels, [0, 1, 2])
 
     def test_compute_class_sample_weights_upweights_underrepresented_draws(self):
         y = pd.Series([0] * 7 + [1] * 2 + [2] * 5)

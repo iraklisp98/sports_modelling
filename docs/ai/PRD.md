@@ -147,6 +147,7 @@ All stages are containerised with Docker. Each stage is independently runnable a
 - Accuracy
 - F1 per class (Home / Draw / Away)
 - Holdout prediction export for later ROI simulation after Stage 5 odds comparison
+- Benchmark comparison against simpler probabilistic models, including a planned Poisson expected-goals model that derives 1X2 probabilities from scoreline probabilities
 
 **MLflow tracking:**
 - Each training run logs: hyperparameters, all metrics above, feature importance chart, confusion matrix
@@ -266,6 +267,7 @@ Where `best_bookmaker_odds` is the maximum offered across available Football-Dat
 | Data processing | PySpark | Scales to Phase 2 volumes; columnar processing; industry standard for DE roles |
 | Feature engineering | Python / Pandas | Familiar, fast for tabular feature logic |
 | Model training | XGBoost + scikit-learn | Strong baseline for tabular data; well-understood |
+| Model benchmarking | PoissonRegressor + scoreline aggregation | Interpretable football-specific comparison model; expected goals naturally derive home/draw/away probabilities |
 | Hyperparameter tuning | Optuna | Modern, efficient; better than GridSearch for this scale |
 | Experiment tracking | MLflow | Industry standard MLOps tool; signals ML engineering depth |
 | Odds data | Football-Data.co.uk CSVs | Historical bookmaker odds are available for the backtest seasons |
@@ -341,6 +343,7 @@ sports_modelling/
 | Log Loss on 2019-2020 holdout | Target < 0.95; latest generated Production run 0.9964 |
 | Brier Score on 2019–2020 holdout | < 0.55 |
 | Prediction accuracy | > 55%; latest generated Production run 51.88% |
+| Poisson expected-goals benchmark | Required for next model-quality iteration; compare log loss and Brier score against calibrated XGBoost on the same 2019-20 holdout |
 | Value bet edge threshold enforced | At least 10%, plus Stage 5 sanity filters |
 | MLflow experiment logged per training run | Required |
 | Dashboard loads all four tabs without error | Required |

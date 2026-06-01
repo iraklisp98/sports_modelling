@@ -60,6 +60,20 @@ The build is organised into seven stages. Pipeline stages communicate exclusivel
 │  Output: mlruns/ (experiment tracking + model artifact)              │
 └───────────────────────────────┬──────────────────────────────────────┘
                                 │  MLflow Model Registry
+                                │
+┌──────────────────────────────────────────────────────────────────────┐
+│  MODEL IMPROVEMENT BENCHMARK       pipeline/poisson_goal_model.py    │
+│                                                                      │
+│  Tool: sklearn PoissonRegressor                                      │
+│  • Train separate expected-goals models for home and away goals      │
+│  • Convert expected goals into a Poisson scoreline grid              │
+│  • Derive P(Home), P(Draw), P(Away) from scoreline probabilities     │
+│  • Compare holdout log loss/Brier/F1 against calibrated XGBoost      │
+│                                                                      │
+│  Output: data/output/poisson_model_odds.parquet                      │
+│          data/model_artifacts/poisson_goal_model/                    │
+└───────────────────────────────┬──────────────────────────────────────┘
+                                │  Same probability/odds contract
                                 ▼
 ┌──────────────────────────────────────────────────────────────────────┐
 │  STAGE 4 — Odds Generation                pipeline/stage4_odds_gen.py│
@@ -216,6 +230,7 @@ All columns from Stage 1 output, plus:
 | Intermediate storage | Parquet | CSV | Columnar, schema-enforced, faster reads, industry standard |
 | Feature engineering | pandas | PySpark | ELO is sequential and stateful; pandas is simpler for this |
 | Model | XGBoost | LightGBM, Logistic Regression | Best tabular baseline; handles NaN natively |
+| Model benchmark | Poisson expected-goals model | More XGBoost feature tuning | Football-specific, interpretable benchmark that derives 1X2 probabilities from scorelines |
 | Hyperparameter tuning | Optuna | GridSearchCV | Bayesian optimisation; far fewer trials needed |
 | Experiment tracking | MLflow | Weights & Biases | Open source, local-first, no account required |
 | Match and odds data | Football-Data.co.uk CSVs | Live odds API | Historical results and bookmaker odds are required for reproducible backtesting |

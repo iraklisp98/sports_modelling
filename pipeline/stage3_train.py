@@ -26,6 +26,7 @@ LABELS = (0, 1, 2)
 LABEL_NAMES = {0: "home", 1: "draw", 2: "away"}
 DRAW_CLASS_WEIGHT_MULTIPLIER = 1.25
 DRAW_OVERLAY_WEIGHT = 0.20
+DRAW_OVERLAY_WEIGHT_CANDIDATES = (0.0, 0.05, 0.10, 0.15, 0.20, 0.25, 0.30, 0.35, 0.40)
 
 DEFAULT_XGB_PARAMS = {
     "objective": "multi:softprob",
@@ -248,6 +249,37 @@ def blend_draw_probability(
     return normalize_probabilities(blended)
 
 
+def select_draw_overlay_weight(
+    y_validation: pd.Series | np.ndarray,
+    multiclass_proba: np.ndarray,
+    draw_proba: pd.Series | np.ndarray,
+    candidate_weights: Iterable[float] = DRAW_OVERLAY_WEIGHT_CANDIDATES,
+) -> tuple[float, list[dict[str, float]]]:
+    y_array = np.asarray(y_validation, dtype=int)
+    unknown_labels = sorted(set(np.unique(y_array)) - set(LABELS))
+    if unknown_labels:
+        raise ValueError(f"Unexpected target labels for draw-overlay selection: {unknown_labels}")
+
+    candidates = [float(weight) for weight in candidate_weights]
+    if not candidates:
+        raise ValueError("At least one draw-overlay candidate weight is required")
+
+    results = []
+    for weight in candidates:
+        if weight < 0.0 or weight > 1.0:
+            raise ValueError("draw-overlay candidate weights must be between 0 and 1")
+        blended = blend_draw_probability(multiclass_proba, draw_proba, blend_weight=weight)
+        results.append(
+            {
+                "draw_overlay_weight": weight,
+                "validation_log_loss": float(log_loss(y_array, blended, labels=list(LABELS))),
+            }
+        )
+
+    selected = min(results, key=lambda row: (row["validation_log_loss"], row["draw_overlay_weight"]))
+    return float(selected["draw_overlay_weight"]), results
+
+
 class DrawAdjustedModel:
     def __init__(self, multiclass_model: object, draw_model: object, blend_weight: float, feature_names: Iterable[str]):
         self.multiclass_model = multiclass_model
@@ -382,6 +414,7 @@ def build_model_benchmarks(
     y_holdout: pd.Series | np.ndarray,
     model_proba: np.ndarray,
     draw_overlay_proba: np.ndarray | None = None,
+    draw_overlay_weight: float | None = None,
 ) -> list[dict[str, object]]:
     rows = len(holdout_df)
     benchmarks = [
@@ -393,7 +426,7 @@ def build_model_benchmarks(
     ]
     if draw_overlay_proba is not None:
         row = compact_benchmark_metrics("calibrated_xgboost_draw_overlay", y_holdout, draw_overlay_proba)
-        row["draw_overlay_weight"] = DRAW_OVERLAY_WEIGHT
+        row["draw_overlay_weight"] = float(draw_overlay_weight if draw_overlay_weight is not None else DRAW_OVERLAY_WEIGHT)
         benchmarks.append(row)
     return benchmarks
 
@@ -627,15 +660,27 @@ def run_pipeline(
     calibrated_model = calibrate_classifier(model, X_calibration, y_calibration)
     draw_model = train_draw_classifier(X_train, y_train)
     calibrated_draw_model = calibrate_classifier(draw_model, X_calibration, draw_binary_labels(y_calibration))
-    production_model = DrawAdjustedModel(
+    calibration_base_proba = normalize_probabilities(calibrated_model.predict_proba(X_calibration))
+    calibration_draw_proba = np.asarray(calibrated_draw_model.predict_proba(X_calibration), dtype=float)[:, 1]
+    selected_draw_overlay_weight, draw_overlay_weight_results = select_draw_overlay_weight(
+        y_calibration,
+        calibration_base_proba,
+        calibration_draw_proba,
+    )
+    selected_overlay_model = DrawAdjustedModel(
         multiclass_model=calibrated_model,
         draw_model=calibrated_draw_model,
-        blend_weight=DRAW_OVERLAY_WEIGHT,
+        blend_weight=selected_draw_overlay_weight,
         feature_names=FEATURE_COLUMNS,
     )
     base_holdout_proba = normalize_probabilities(calibrated_model.predict_proba(X_holdout))
-    holdout_proba = normalize_probabilities(production_model.predict_proba(X_holdout))
-    metrics = evaluate_predictions(y_holdout, holdout_proba)
+    selected_overlay_holdout_proba = normalize_probabilities(selected_overlay_model.predict_proba(X_holdout))
+    base_metrics = evaluate_predictions(y_holdout, base_holdout_proba)
+    selected_overlay_metrics = evaluate_predictions(y_holdout, selected_overlay_holdout_proba)
+    overlay_accepted = selected_overlay_metrics["holdout_log_loss"] < base_metrics["holdout_log_loss"]
+    production_model = selected_overlay_model if overlay_accepted else calibrated_model
+    holdout_proba = selected_overlay_holdout_proba if overlay_accepted else base_holdout_proba
+    metrics = selected_overlay_metrics if overlay_accepted else base_metrics
 
     artifacts_dir.mkdir(parents=True, exist_ok=True)
     model_path = artifacts_dir / "xgb_match_outcome.json"
@@ -644,13 +689,41 @@ def run_pipeline(
     feature_importance_path = artifacts_dir / "feature_importance.png"
     confusion_matrix_path = artifacts_dir / "confusion_matrix.png"
     benchmarks_path = artifacts_dir / "model_benchmarks.json"
+    draw_overlay_selection_path = artifacts_dir / "draw_overlay_weight_selection.json"
 
     _, y_benchmark = select_features_and_target(train_df)
-    benchmarks = build_model_benchmarks(y_benchmark, holdout_df, y_holdout, base_holdout_proba, draw_overlay_proba=holdout_proba)
+    benchmarks = build_model_benchmarks(
+        y_benchmark,
+        holdout_df,
+        y_holdout,
+        base_holdout_proba,
+        draw_overlay_proba=selected_overlay_holdout_proba,
+        draw_overlay_weight=selected_draw_overlay_weight,
+    )
 
     model.save_model(model_path)
-    write_json(metrics_path, metrics)
+    write_json(
+        metrics_path,
+        {
+            **metrics,
+            "draw_overlay_weight": selected_draw_overlay_weight if overlay_accepted else 0.0,
+            "selected_draw_overlay_weight": selected_draw_overlay_weight,
+            "draw_overlay_accepted_as_production": overlay_accepted,
+        },
+    )
     write_json(benchmarks_path, {"benchmarks": benchmarks})
+    write_json(
+        draw_overlay_selection_path,
+        {
+            "selection_data": "pre_holdout_calibration_split",
+            "selection_metric": "multiclass_log_loss",
+            "selected_draw_overlay_weight": selected_draw_overlay_weight,
+            "selected_holdout_log_loss": selected_overlay_metrics["holdout_log_loss"],
+            "base_holdout_log_loss": base_metrics["holdout_log_loss"],
+            "accepted_as_production": overlay_accepted,
+            "candidates": draw_overlay_weight_results,
+        },
+    )
     write_feature_importance(model, feature_importance_path)
     write_confusion_matrix(y_holdout, holdout_proba, confusion_matrix_path)
 
@@ -660,12 +733,24 @@ def run_pipeline(
     predictions["P_Away"] = holdout_proba[:, 2]
     predictions.to_parquet(predictions_path, index=False)
 
-    logged_params = {**params, "draw_overlay_weight": DRAW_OVERLAY_WEIGHT}
+    logged_params = {
+        **params,
+        "selected_draw_overlay_weight": selected_draw_overlay_weight,
+        "production_draw_overlay_weight": selected_draw_overlay_weight if overlay_accepted else 0.0,
+        "draw_overlay_accepted_as_production": overlay_accepted,
+    }
     mlflow_run_id, model_uri = log_mlflow_run(
         model=production_model,
         params=logged_params,
         metrics=metrics,
-        artifact_paths=[metrics_path, predictions_path, feature_importance_path, confusion_matrix_path, benchmarks_path],
+        artifact_paths=[
+            metrics_path,
+            predictions_path,
+            feature_importance_path,
+            confusion_matrix_path,
+            benchmarks_path,
+            draw_overlay_selection_path,
+        ],
         tracking_uri=tracking_uri,
     )
     registered_model_version = register_production_model(
