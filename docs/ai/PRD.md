@@ -60,7 +60,7 @@ A 10% threshold filters out noise and model uncertainty, retaining only high-con
 ┌─────────────────────────────────▼───────────────────────────────┐
 │                     ODDS COMPARISON                             │
 │  Football-Data CSVs → historical bookmaker odds               │
-│  Flag bets where bookmaker_odds >= 1.10 × model_odds            │
+│  Flag home/away bets where bookmaker_odds >= 1.10 × model_odds            │
 └─────────────────────────────────┬───────────────────────────────┘
                                   │
 ┌─────────────────────────────────▼───────────────────────────────┐
@@ -188,7 +188,7 @@ All stages are containerised with Docker. Each stage is independently runnable a
 value_bet = best_bookmaker_odds >= 1.10 * model_odds
 ```
 
-Where `best_bookmaker_odds` is the maximum offered across available Football-Data bookmaker columns. Because decimal model odds are fair odds, the bookmaker price must be higher than the model fair price to be value. Stage 5 also applies an odds sanity policy before surfacing a bet: minimum model probability, bookmaker odds bounds, and a maximum edge cap to reject long-shot/outlier rows.
+Stage 5 only evaluates home-win and away-win outcomes for value-bet output. `best_bookmaker_odds` is the maximum offered across available Football-Data bookmaker columns. Because decimal model odds are fair odds, the bookmaker price must be higher than the model fair price to be value. Stage 5 also applies an odds sanity policy before surfacing a bet: minimum model probability, bookmaker odds bounds, and a maximum edge cap to reject long-shot/outlier rows.
 
 **Output schema:**
 | Column | Description |
@@ -198,7 +198,7 @@ Where `best_bookmaker_odds` is the maximum offered across available Football-Dat
 | `Date` | Match date |
 | `Season` | Season label |
 | `League` | ENG / SPA / FRA from the matched Football-Data source |
-| `Outcome` | H / D / A |
+| `Outcome` | H / A |
 | `ModelOdds` | Model-implied decimal odds |
 | `BestBookOdds` | Best available bookmaker odds |
 | `Edge` | `(BestBookOdds / ModelOdds) - 1` as % |

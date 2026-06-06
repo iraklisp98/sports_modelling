@@ -52,7 +52,6 @@ services:
     volumes:
       - ../data:/app/data          # mount host data/ into container
       - ../dashboard/data:/app/dashboard/data
-      - ../mlruns:/app/mlruns
 
   dashboard:
     build:
@@ -158,10 +157,13 @@ services:
     working_dir: /app
     environment:
       MLFLOW_TRACKING_URI: file:/app/mlruns
+      MLFLOW_ALLOW_FILE_STORE: "true"
+      MPLCONFIGDIR: /tmp/matplotlib
+      HOME: /tmp/home
+      GIT_PYTHON_REFRESH: quiet
     volumes:
       - ../data:/app/data
       - ../dashboard/data:/app/dashboard/data
-      - ../mlruns:/app/mlruns
 
   dashboard:
     build:

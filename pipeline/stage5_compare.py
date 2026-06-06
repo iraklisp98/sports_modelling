@@ -15,6 +15,7 @@ FOOTBALL_DATA_DIR = Path("data/bookmaker_odds/football_data")
 VALUE_BETS_PATH = Path("data/output/value_bets.parquet")
 DASHBOARD_JSON_PATH = Path("dashboard/data/value_bets.json")
 EDGE_THRESHOLD = 0.10
+VALUE_BET_OUTCOMES = ("H", "A")
 MIN_MODEL_PROBABILITY = 0.35
 MIN_BOOKMAKER_ODDS = 1.20
 MAX_BOOKMAKER_ODDS = 8.0
@@ -78,6 +79,16 @@ NORMALIZED_BOOKMAKER_COLUMNS = [
     "Odds_Home",
     "Odds_Draw",
     "Odds_Away",
+]
+
+OUTCOME_ORDER = {outcome: index for index, outcome in enumerate(VALUE_BET_OUTCOMES)}
+NORMALIZED_OUTCOME_SPECS = [
+    ("H", "ModelOdds_Home", "BestOdds_Home", "BestBookmaker_Home"),
+    ("A", "ModelOdds_Away", "BestOdds_Away", "BestBookmaker_Away"),
+]
+MATCHED_OUTCOME_SPECS = [
+    ("H", "ModelOdds_Home"),
+    ("A", "ModelOdds_Away"),
 ]
 
 
@@ -460,13 +471,8 @@ def compare_model_to_bookmaker_odds(
     merged = model_odds_df.merge(best_odds, on=match_columns, how="inner")
 
     value_bets: list[dict[str, object]] = []
-    outcome_specs = [
-        ("H", "ModelOdds_Home", "BestOdds_Home", "BestBookmaker_Home"),
-        ("D", "ModelOdds_Draw", "BestOdds_Draw", "BestBookmaker_Draw"),
-        ("A", "ModelOdds_Away", "BestOdds_Away", "BestBookmaker_Away"),
-    ]
     for _, row in merged.iterrows():
-        for outcome, model_column, best_odds_column, best_bookmaker_column in outcome_specs:
+        for outcome, model_column, best_odds_column, best_bookmaker_column in NORMALIZED_OUTCOME_SPECS:
             model_odds = pd.to_numeric(row[model_column], errors="coerce")
             best_book_odds = pd.to_numeric(row[best_odds_column], errors="coerce")
             if pd.isna(model_odds) or pd.isna(best_book_odds) or model_odds <= 0 or best_book_odds <= 0:
@@ -496,8 +502,7 @@ def compare_model_to_bookmaker_odds(
 
     output = pd.DataFrame(value_bets, columns=VALUE_BET_COLUMNS)
     if not output.empty:
-        outcome_order = {"H": 0, "D": 1, "A": 2}
-        output["_OutcomeOrder"] = output["Outcome"].map(outcome_order)
+        output["_OutcomeOrder"] = output["Outcome"].map(OUTCOME_ORDER)
         output = (
             output.sort_values(["Date", "RBallID", "_OutcomeOrder"], kind="mergesort")
             .drop(columns=["_OutcomeOrder"])
@@ -542,11 +547,7 @@ def compute_value_bets(
     rows: list[dict[str, object]] = []
     for row in matched_odds.itertuples(index=False):
         row_series = pd.Series(row._asdict())
-        for outcome, model_column in [
-            ("H", "ModelOdds_Home"),
-            ("D", "ModelOdds_Draw"),
-            ("A", "ModelOdds_Away"),
-        ]:
+        for outcome, model_column in MATCHED_OUTCOME_SPECS:
             best_odds, bookmaker = best_odds_for_outcome(row_series, outcome)
             if best_odds is None:
                 continue
@@ -576,7 +577,7 @@ def compute_value_bets(
 
     value_bets = pd.DataFrame(rows, columns=OUTPUT_COLUMNS)
     if not value_bets.empty:
-        value_bets["_OutcomeOrder"] = value_bets["Outcome"].map({"H": 0, "D": 1, "A": 2})
+        value_bets["_OutcomeOrder"] = value_bets["Outcome"].map(OUTCOME_ORDER)
         value_bets = value_bets.sort_values(["Date", "RBallID", "_OutcomeOrder"], kind="mergesort").drop(columns=["_OutcomeOrder"]).reset_index(drop=True)
     return value_bets
 

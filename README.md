@@ -68,7 +68,7 @@ python pipeline/run_pipeline.py --dry-run
 From the project root:
 
 ```bash
-docker compose -f docker/docker-compose.yml up --build
+docker compose up --build
 ```
 
 When the pipeline container finishes successfully, open:
@@ -77,7 +77,7 @@ When the pipeline container finishes successfully, open:
 http://localhost:8080
 ```
 
-The pipeline is a one-shot batch container. The dashboard is an nginx container serving the static files and mounted `dashboard/data/` JSON output.
+The pipeline is a one-shot batch container. The dashboard is an nginx container serving the static files and mounted `dashboard/data/` JSON output. Docker keeps MLflow inside the pipeline container at `/app/mlruns` instead of bind-mounting the host `mlruns/` directory, because MLflow file-store metadata contains absolute artifact paths that are not portable across host and container filesystems.
 
 ## License
 

@@ -94,9 +94,9 @@ The build is organised into seven stages. Pipeline stages communicate exclusivel
 │  Tools: Football-Data CSVs · pandas · requests                       │
 │  • Download historical Football-Data season CSVs when missing        │
 │  • Match normalised home/away team names and match date                │
-│  • For each outcome: edge = (best_book_odds / model_odds) - 1        │
+│  • For each home/away outcome: edge = (best_book_odds / model_odds) - 1│
 │  • Apply probability, odds-range, and max-edge sanity filters        │
-│  • Flag value bets where edge >= 10% and filters pass                │
+│  • Flag home/away value bets where edge >= 10% and filters pass      │
 │                                                                      │
 │  Output: data/output/value_bets.parquet                              │
 │          dashboard/data/value_bets.json                              │
@@ -213,7 +213,7 @@ All columns from Stage 1 output, plus:
 | `Season` | string | |
 | `League` | string | Matched league code (`ENG`, `SPA`, `FRA`) |
 | `Result` | string | Actual result |
-| `Outcome` | string | The flagged outcome (`H` / `D` / `A`) |
+| `Outcome` | string | The flagged home/away outcome (`H` / `A`) |
 | `ModelOdds` | float | Model-implied odds for this outcome |
 | `BestBookOdds` | float | Best available bookmaker odds |
 | `Edge` | float | `(BestBookOdds / ModelOdds) - 1` |

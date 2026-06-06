@@ -1,7 +1,7 @@
 services:
   pipeline:
     build:
-      context: ..
+      context: .
       dockerfile: docker/Dockerfile.pipeline
     image: sports-modelling-pipeline:local
     user: "${UID:-1000}:${GID:-1000}"
@@ -13,18 +13,18 @@ services:
       HOME: /tmp/home
       GIT_PYTHON_REFRESH: quiet
     volumes:
-      - ../data:/app/data
-      - ../dashboard/data:/app/dashboard/data
+      - ./data:/app/data
+      - ./dashboard/data:/app/dashboard/data
 
   dashboard:
     build:
-      context: ..
+      context: .
       dockerfile: docker/Dockerfile.dashboard
     image: sports-modelling-dashboard:local
     ports:
       - "8080:80"
     volumes:
-      - ../dashboard/data:/usr/share/nginx/html/data:ro
+      - ./dashboard/data:/usr/share/nginx/html/data:ro
     depends_on:
       pipeline:
         condition: service_completed_successfully

@@ -6,6 +6,7 @@ import pandas as pd
 
 from pipeline.stage5_compare import (
     VALUE_BET_COLUMNS,
+    VALUE_BET_OUTCOMES,
     ValueBetRiskPolicy,
     compute_value_bets,
     football_data_url,
@@ -111,6 +112,28 @@ class Stage5CompareTests(unittest.TestCase):
         self.assertAlmostEqual(value_bets.loc[0, "Edge"], (2.10 / 1.90) - 1.0)
         self.assertEqual(value_bets.loc[0, "BestBookmaker"], "pinnacle")
         self.assertGreaterEqual(value_bets["Edge"].min(), 0.10)
+
+    def test_compare_model_to_bookmaker_odds_ignores_draw_edges(self):
+        model_odds = sample_model_odds().assign(
+            ModelOdds_Home=3.00,
+            ModelOdds_Draw=2.00,
+            ModelOdds_Away=7.00,
+        )
+        bookmaker_odds = sample_bookmaker_odds().assign(
+            Odds_Home=3.10,
+            Odds_Draw=2.60,
+            Odds_Away=7.10,
+        )
+
+        value_bets = compare_model_to_bookmaker_odds(
+            model_odds,
+            bookmaker_odds,
+            edge_threshold=0.10,
+            risk_policy=ValueBetRiskPolicy(min_model_probability=0.10, max_bookmaker_odds=15.0, max_edge=0.50),
+        )
+
+        self.assertTrue(value_bets.empty)
+        self.assertEqual(VALUE_BET_OUTCOMES, ("H", "A"))
 
     def test_compare_model_to_bookmaker_odds_returns_empty_contract_when_no_edges(self):
         model_odds = sample_model_odds().assign(

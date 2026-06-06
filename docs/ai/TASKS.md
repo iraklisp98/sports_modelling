@@ -13,6 +13,7 @@ Coder-tester should pick the next incomplete task from this table, implement onl
 | 3.1 — XGBoost Two-Feature Improvement Experiment | `docs/ai/tasks/xgb_two_feature_experiment.md` | metric delta report | Rejected — no log-loss improvement |
 | 3.2 — XGBoost Draw Overlay Weight Experiment | `docs/ai/tasks/xgb_draw_overlay_weight_experiment.md` | metric delta report | Rejected — selected overlay worsened holdout log loss; production remains base calibrated XGBoost |
 | 3.6 — Poisson Goal Model Benchmark | `docs/ai/tasks/poisson_goal_model.md` | `pipeline/poisson_goal_model.py` + benchmark artifacts | Complete |
+| 3.7 — Attack/Defence xG Benchmark | `docs/ai/tasks/attack_defence_xg_benchmark.md` | separate benchmark odds, diagnostics, and ROI comparison artifacts | Complete |
 | 4 — Odds Generation | `docs/ai/tasks/stage4_odds_gen.md` | `pipeline/stage4_odds_gen.py` | Complete |
 | 5 — Odds Comparison | `docs/ai/tasks/stage5_compare.md` | `pipeline/stage5_compare.py` | Complete |
 | 5.5 — Model Diagnostics | `docs/ai/tasks/model_diagnostics.md` | `pipeline/model_diagnostics.py` | Complete |

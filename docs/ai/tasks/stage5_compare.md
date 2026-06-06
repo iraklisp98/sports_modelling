@@ -9,7 +9,7 @@
 
 ## What
 
-Compare model-implied fair odds against historical bookmaker closing odds from Football-Data.co.uk. For each matched fixture and each 1X2 outcome, Stage 5 takes the best available bookmaker price, computes the edge, and writes only bets that clear the 10% value threshold plus the odds sanity policy.
+Compare model-implied fair odds against historical bookmaker closing odds from Football-Data.co.uk. For each matched fixture, Stage 5 evaluates home-win and away-win outcomes only, takes the best available bookmaker price, computes the edge, and writes only bets that clear the 10% value threshold plus the odds sanity policy. Draw probabilities remain part of the model output, but draws are not surfaced as actionable value bets.
 
 ---
 
@@ -68,7 +68,7 @@ Supported bookmaker prefixes currently include `B365`, `PS`, `WH`, `BW`, `IW`, `
 2. Ensure Football-Data CSVs exist locally; download the expected season/league files if missing.
 3. Normalise Football-Data columns into date, home team, away team, season, league, and bookmaker outcome columns.
 4. Match model rows to bookmaker rows by normalised `Date`, `HomeTeam`, and `AwayTeam`.
-5. For each outcome, select the highest bookmaker odds and the bookmaker that offered it.
+5. For home and away outcomes only, select the highest bookmaker odds and the bookmaker that offered it.
 6. Compute `Edge = (BestBookOdds / ModelOdds) - 1`.
 7. Keep rows where `Edge >= 0.10` and the odds sanity policy passes.
 8. Write Parquet + dashboard JSON.
@@ -82,9 +82,10 @@ Supported bookmaker prefixes currently include `B365`, `PS`, `WH`, `BW`, `IW`, `
 - [x] `data/output/value_bets.parquet` is written by `run_pipeline`
 - [x] `dashboard/data/value_bets.json` is written by `run_pipeline`
 - [x] Output columns are: `RBallID`, `HomeTeam`, `AwayTeam`, `Date`, `Season`, `League`, `Result`, `Outcome`, `ModelOdds`, `BestBookOdds`, `Edge`, `ValueBet`, `BestBookmaker`
+- [x] Only home-win and away-win outcomes are eligible for value-bet output
 - [x] All `Edge` values in the output are at least the configured threshold
 - [x] Value bets must pass the configured probability, bookmaker-odds, and max-edge sanity policy
-- [x] Unit tests cover best bookmaker selection, edge direction, odds sanity filtering, CSV normalisation, and output writing
+- [x] Unit tests cover best bookmaker selection, edge direction, draw exclusion, odds sanity filtering, CSV normalisation, and output writing
 
 Narrow test command:
 
