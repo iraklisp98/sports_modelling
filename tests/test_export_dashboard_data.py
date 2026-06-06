@@ -122,10 +122,11 @@ class ExportDashboardDataTests(unittest.TestCase):
         self.assertEqual(payload["summary"]["max_drawdown"], 10.0)
 
 
-    def test_filter_holdout_value_bets_keeps_only_2019_20(self):
+    def test_filter_holdout_value_bets_keeps_forward_test_seasons(self):
         value_bets = pd.concat(
             [
                 sample_value_bets(),
+                sample_value_bets().assign(Season="2020-21", RBallID=lambda df: df["RBallID"] + "-new"),
                 sample_value_bets().assign(Season="2018-19", RBallID=lambda df: df["RBallID"] + "-old"),
             ],
             ignore_index=True,
@@ -133,8 +134,8 @@ class ExportDashboardDataTests(unittest.TestCase):
 
         holdout = filter_holdout_value_bets(value_bets)
 
-        self.assertEqual(set(holdout["Season"]), {"2019-20"})
-        self.assertEqual(len(holdout), 2)
+        self.assertEqual(set(holdout["Season"]), {"2019-20", "2020-21"})
+        self.assertEqual(len(holdout), 4)
 
 
     def test_build_backtest_loads_metrics_confusion_matrix_and_equity_curve(self):
@@ -204,7 +205,7 @@ class ExportDashboardDataTests(unittest.TestCase):
             features_dir = tmp_path / "features"
             output_dir = tmp_path / "dashboard" / "data"
             features_dir.mkdir(parents=True)
-            for league in ["ENG", "SPA", "FRA"]:
+            for league in ["ENG", "SPA", "FRA", "GER", "ITA"]:
                 sample_features(league=league).to_parquet(features_dir / f"{league}_features.parquet", index=False)
 
             value_bets_path = tmp_path / "value_bets.parquet"
@@ -227,7 +228,7 @@ class ExportDashboardDataTests(unittest.TestCase):
                 payloads[filename] = json.loads(path.read_text(encoding="utf-8"))
 
         self.assertEqual(len(summary.files), 4)
-        self.assertEqual(payloads["league_analytics.json"]["leagues"], ["ENG", "FRA", "SPA"])
+        self.assertEqual(payloads["league_analytics.json"]["leagues"], ["ENG", "FRA", "GER", "ITA", "SPA"])
         self.assertEqual(payloads["value_bets.json"][0]["Date"], "2019-08-10")
         self.assertEqual(payloads["simulator.json"]["summary"]["roi_pct"], 10.0)
 

@@ -200,7 +200,7 @@ df.to_parquet("data/features/ENG_features.parquet", index=False)
 - [x] Output has columns: `HomeElo`, `AwayElo`, `EloDiff`, `HomeGoals_Last5`, `AwayGoals_Last5`, `HomeCorners_Last5`, `AwayCorners_Last5`, `HomePoints_Last5`, `AwayPoints_Last5`, `HomeWinRate_Season`, `AwayWinRate_Season`, `Result`, `ResultCode`
 - [x] No data leakage: rolling features use `.shift(1)` — the first match of a team's history has `NaN` or `0` for rolling stats, not the result of that match
 - [x] ELO values at row `i` reflect ratings before match `i`, not after
-- [x] Three output files created: `data/features/ENG_features.parquet`, `FRA_features.parquet`, `SPA_features.parquet`
+- [x] Five output files created: `data/features/ENG_features.parquet`, `FRA_features.parquet`, `GER_features.parquet`, `ITA_features.parquet`, `SPA_features.parquet`
 
 ---
 

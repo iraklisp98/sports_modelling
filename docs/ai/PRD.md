@@ -34,7 +34,7 @@ A 10% threshold filters out noise and model uncertainty, retaining only high-con
 - Live data ingestion from an external API (Phase 2)
 - Automated bet placement
 - Real-money tracking
-- Leagues beyond Premier League, La Liga, and Ligue 1
+- Leagues beyond Premier League, La Liga, Ligue 1, Bundesliga, and Serie A
 
 ---
 
@@ -43,7 +43,7 @@ A 10% threshold filters out noise and model uncertainty, retaining only high-con
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                        DATA LAYER                               │
-│  Football-Data CSVs (ENG / SPA / FRA) -> Stage 1 normalization │
+│  Football-Data CSVs (ENG / SPA / FRA / GER / ITA) -> Stage 1 normalization │
 └─────────────────────────────────┬───────────────────────────────┘
                                   │
 ┌─────────────────────────────────▼───────────────────────────────┐
@@ -83,7 +83,7 @@ All stages are containerised with Docker. Each stage is independently runnable a
 **Output:** Parquet files in `data/processed/` (one per league)
 
 **Responsibilities:**
-- Download missing Football-Data CSVs for Premier League, La Liga, and Ligue 1
+- Download missing Football-Data CSVs for Premier League, La Liga, Ligue 1, Bundesliga, and Serie A
 - Parse and standardise match dates; assign season labels (Aug-Jul)
 - Normalise Football-Data result/stat columns into the Stage 1 match-level contract
 - Generate deterministic match IDs and deduplicate by `RBallID`
@@ -120,7 +120,7 @@ All stages are containerised with Docker. Each stage is independently runnable a
 | `AvgDrawRateLast5`, `AbsDrawRateLast5Diff` | Shared and differential recent draw tendency |
 | `HomeWinRate_Season` | Season win rate at time of match (home) |
 | `AwayWinRate_Season` | Season win rate at time of match (away) |
-| `League_ENG`, `League_SPA`, `League_FRA` | One-hot league indicators |
+| `League_ENG`, `League_SPA`, `League_FRA`, `League_GER`, `League_ITA` | One-hot league indicators |
 | `Result` | Target: H / D / A |
 
 **ELO implementation:**
@@ -178,8 +178,8 @@ All stages are containerised with Docker. Each stage is independently runnable a
 
 **Football-Data.co.uk integration:**
 - Source pattern: `https://www.football-data.co.uk/mmz4281/{season_code}/{league_code}.csv`
-- Default cached seasons: `1011` through `1920`; the 2019-20 season remains the holdout-focused comparison period
-- League codes: `E0` Premier League, `SP1` La Liga, `F1` Ligue 1
+- Default cached seasons: `1011` through `2223`; 2019-20 through 2022-23 form the forward-test comparison window
+- League codes: `E0` Premier League, `SP1` La Liga, `F1` Ligue 1, `D1` Bundesliga, `I1` Serie A
 - Bookmaker odds columns: `B365*`, `PS*`, `WH*`, and other supported 1X2 prefixes
 - Match on normalised home team, away team, and match date
 
@@ -197,7 +197,7 @@ Stage 5 only evaluates home-win and away-win outcomes for value-bet output. `bes
 | `HomeTeam`, `AwayTeam` | Team names |
 | `Date` | Match date |
 | `Season` | Season label |
-| `League` | ENG / SPA / FRA from the matched Football-Data source |
+| `League` | ENG / SPA / FRA / GER / ITA from the matched Football-Data source |
 | `Outcome` | H / A |
 | `ModelOdds` | Model-implied decimal odds |
 | `BestBookOdds` | Best available bookmaker odds |
@@ -216,7 +216,7 @@ Stage 5 only evaluates home-win and away-win outcomes for value-bet output. `bes
 **Four tabs:**
 
 #### Tab 1 — League Analytics
-- League selector (PL / La Liga / Ligue 1)
+- League selector (PL / La Liga / Ligue 1 / Bundesliga / Serie A)
 - Season selector
 - KPI cards: avg goals/match, home win %, draw %, away win %
 - Time series: goals, corners, and shots per month

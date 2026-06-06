@@ -57,9 +57,9 @@ class Stage4OddsGenTests(unittest.TestCase):
 
         featured = add_league_indicator_features(df)
 
-        self.assertEqual(list(LEAGUE_FEATURE_COLUMNS), ["League_ENG", "League_SPA", "League_FRA"])
-        self.assertEqual(featured.loc[0, ["League_ENG", "League_SPA", "League_FRA"]].tolist(), [1.0, 0.0, 0.0])
-        self.assertEqual(featured.loc[1, ["League_ENG", "League_SPA", "League_FRA"]].tolist(), [0.0, 1.0, 0.0])
+        self.assertEqual(list(LEAGUE_FEATURE_COLUMNS), ["League_ENG", "League_SPA", "League_FRA", "League_GER", "League_ITA"])
+        self.assertEqual(featured.loc[0, ["League_ENG", "League_SPA", "League_FRA", "League_GER", "League_ITA"]].tolist(), [1.0, 0.0, 0.0, 0.0, 0.0])
+        self.assertEqual(featured.loc[1, ["League_ENG", "League_SPA", "League_FRA", "League_GER", "League_ITA"]].tolist(), [0.0, 1.0, 0.0, 0.0, 0.0])
 
     def test_validate_probability_matrix_accepts_probabilities_that_sum_to_one(self):
         proba = np.array([[0.5, 0.25, 0.25], [0.2, 0.3, 0.5]])
@@ -103,15 +103,15 @@ class Stage4OddsGenTests(unittest.TestCase):
         features = select_model_features(sample_features())
 
         self.assertEqual(features.columns.tolist(), list(FEATURE_COLUMNS))
-        self.assertEqual(features[["League_ENG", "League_SPA", "League_FRA"]].values.tolist(), [
-            [0.0, 1.0, 0.0],
-            [1.0, 0.0, 0.0],
+        self.assertEqual(features[["League_ENG", "League_SPA", "League_FRA", "League_GER", "League_ITA"]].values.tolist(), [
+            [0.0, 1.0, 0.0, 0.0, 0.0],
+            [1.0, 0.0, 0.0, 0.0, 0.0],
         ])
-        self.assertTrue(all(str(features[column].dtype) == "float64" for column in ["League_ENG", "League_SPA", "League_FRA"]))
+        self.assertTrue(all(str(features[column].dtype) == "float64" for column in ["League_ENG", "League_SPA", "League_FRA", "League_GER", "League_ITA"]))
 
     def test_select_model_features_rejects_unknown_league_labels(self):
         df = sample_features()
-        df.loc[0, "League"] = "ITA"
+        df.loc[0, "League"] = "NED"
 
         with self.assertRaisesRegex(ValueError, "Unexpected league labels"):
             select_model_features(df)
@@ -129,9 +129,9 @@ class Stage4OddsGenTests(unittest.TestCase):
         self.assertAlmostEqual(odds_df.loc[0, "ModelOdds_Home"], 5.0)
         self.assertAlmostEqual(odds_df.loc[1, "ModelOdds_Draw"], 4.0)
         self.assertEqual(model.seen_features.columns.tolist(), list(FEATURE_COLUMNS))
-        self.assertEqual(model.seen_features[["League_ENG", "League_SPA", "League_FRA"]].values.tolist(), [
-            [1.0, 0.0, 0.0],
-            [0.0, 1.0, 0.0],
+        self.assertEqual(model.seen_features[["League_ENG", "League_SPA", "League_FRA", "League_GER", "League_ITA"]].values.tolist(), [
+            [1.0, 0.0, 0.0, 0.0, 0.0],
+            [0.0, 1.0, 0.0, 0.0, 0.0],
         ])
         self.assertTrue(odds_df["Date"].is_monotonic_increasing)
 

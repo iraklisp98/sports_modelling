@@ -71,13 +71,13 @@ class Stage3TrainTests(unittest.TestCase):
 
         featured = add_league_indicator_features(df)
 
-        self.assertEqual(list(LEAGUE_FEATURE_COLUMNS), ["League_ENG", "League_SPA", "League_FRA"])
-        self.assertEqual(featured.loc[0, ["League_ENG", "League_SPA", "League_FRA"]].tolist(), [1.0, 0.0, 0.0])
-        self.assertEqual(featured.loc[1, ["League_ENG", "League_SPA", "League_FRA"]].tolist(), [0.0, 1.0, 0.0])
+        self.assertEqual(list(LEAGUE_FEATURE_COLUMNS), ["League_ENG", "League_SPA", "League_FRA", "League_GER", "League_ITA"])
+        self.assertEqual(featured.loc[0, ["League_ENG", "League_SPA", "League_FRA", "League_GER", "League_ITA"]].tolist(), [1.0, 0.0, 0.0, 0.0, 0.0])
+        self.assertEqual(featured.loc[1, ["League_ENG", "League_SPA", "League_FRA", "League_GER", "League_ITA"]].tolist(), [0.0, 1.0, 0.0, 0.0, 0.0])
         self.assertTrue(all(str(featured[column].dtype) == "float64" for column in LEAGUE_FEATURE_COLUMNS))
 
     def test_add_league_indicator_features_rejects_unknown_league(self):
-        df = sample_feature_rows().assign(League=["ENG", "ITA", "FRA", "ENG"])
+        df = sample_feature_rows().assign(League=["ENG", "NED", "FRA", "ENG"])
 
         with self.assertRaisesRegex(ValueError, "Unexpected league labels"):
             add_league_indicator_features(df)
@@ -95,17 +95,17 @@ class Stage3TrainTests(unittest.TestCase):
     def test_select_features_and_target_adds_numeric_league_indicators(self):
         X, _ = select_features_and_target(sample_feature_rows())
 
-        self.assertEqual(X[["League_ENG", "League_SPA", "League_FRA"]].values.tolist(), [
-            [1.0, 0.0, 0.0],
-            [0.0, 1.0, 0.0],
-            [0.0, 0.0, 1.0],
-            [1.0, 0.0, 0.0],
+        self.assertEqual(X[["League_ENG", "League_SPA", "League_FRA", "League_GER", "League_ITA"]].values.tolist(), [
+            [1.0, 0.0, 0.0, 0.0, 0.0],
+            [0.0, 1.0, 0.0, 0.0, 0.0],
+            [0.0, 0.0, 1.0, 0.0, 0.0],
+            [1.0, 0.0, 0.0, 0.0, 0.0],
         ])
-        self.assertTrue(all(str(X[column].dtype) == "float64" for column in ["League_ENG", "League_SPA", "League_FRA"]))
+        self.assertTrue(all(str(X[column].dtype) == "float64" for column in ["League_ENG", "League_SPA", "League_FRA", "League_GER", "League_ITA"]))
 
     def test_select_features_and_target_rejects_unknown_league_labels(self):
         df = sample_feature_rows()
-        df.loc[0, "League"] = "ITA"
+        df.loc[0, "League"] = "NED"
 
         with self.assertRaisesRegex(ValueError, "Unexpected league labels"):
             select_features_and_target(df)

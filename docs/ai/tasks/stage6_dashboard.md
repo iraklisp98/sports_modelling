@@ -63,7 +63,7 @@ Each JSON file has a defined structure that the dashboard depends on. These are 
 ### `dashboard/data/league_analytics.json`
 ```json
 {
-  "leagues": ["ENG", "FRA", "SPA"],
+  "leagues": ["ENG", "FRA", "GER", "ITA", "SPA"],
   "seasons": ["2017-18", "2018-19", "2019-20"],
   "summary": {
     "ENG": {

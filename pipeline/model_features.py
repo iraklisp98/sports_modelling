@@ -4,7 +4,7 @@ from typing import Iterable
 
 import pandas as pd
 
-LEAGUES = ("ENG", "SPA", "FRA")
+LEAGUES = ("ENG", "SPA", "FRA", "GER", "ITA")
 LEAGUE_FEATURE_COLUMNS = tuple(f"League_{league}" for league in LEAGUES)
 
 BASE_FEATURE_COLUMNS = (

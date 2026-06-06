@@ -4,7 +4,7 @@ End-to-end sports betting odds arbitrage pipeline for European football. The pro
 
 ## Current Scope
 
-Phase 1 covers Premier League, La Liga, and Ligue 1 historical Football-Data.co.uk seasons from 2010-11 through 2019-20. The goal is to identify value bets where:
+Phase 1 covers Premier League, La Liga, Ligue 1, Bundesliga, and Serie A historical Football-Data.co.uk seasons from 2010-11 through 2022-23. The goal is to identify value bets where:
 
 ```text
 best_bookmaker_odds >= 1.10 * model_implied_odds

@@ -16,13 +16,15 @@ DEFAULT_LEAGUES = (
     ("ENG", "data/ENG", "data/processed/ENG.parquet"),
     ("SPA", "data/SPA", "data/processed/SPA.parquet"),
     ("FRA", "data/FRA", "data/processed/FRA.parquet"),
+    ("GER", "data/GER", "data/processed/GER.parquet"),
+    ("ITA", "data/ITA", "data/processed/ITA.parquet"),
 )
 
 FOOTBALL_DATA_BASE_URL = "https://www.football-data.co.uk/mmz4281"
 FOOTBALL_DATA_DIR = Path("data/bookmaker_odds/football_data")
 PROCESSED_DIR = Path("data/processed")
-FOOTBALL_DATA_LEAGUE_CODES = {"ENG": "E0", "SPA": "SP1", "FRA": "F1"}
-DEFAULT_SEASON_CODES = tuple(f"{year:02d}{year + 1:02d}" for year in range(10, 20))
+FOOTBALL_DATA_LEAGUE_CODES = {"ENG": "E0", "SPA": "SP1", "FRA": "F1", "GER": "D1", "ITA": "I1"}
+DEFAULT_SEASON_CODES = tuple(f"{year:02d}{year + 1:02d}" for year in range(10, 23))
 
 INCIDENT_MAP = {
     "GOAL1": "HomeGoals",
@@ -406,7 +408,7 @@ def parse_args() -> object:
 
     parser = argparse.ArgumentParser(description="Ingest Football-Data CSVs into Stage 1 match-level Parquet files.")
     parser.add_argument("--source", choices=("football-data", "event-csv"), default="football-data")
-    parser.add_argument("--season-codes", nargs="+", default=list(DEFAULT_SEASON_CODES), help="Football-Data season codes, e.g. 1011 1112 ... 1920")
+    parser.add_argument("--season-codes", nargs="+", default=list(DEFAULT_SEASON_CODES), help="Football-Data season codes, e.g. 1011 1112 ... 2223")
     parser.add_argument("--leagues", nargs="+", choices=list(FOOTBALL_DATA_LEAGUE_CODES), default=list(FOOTBALL_DATA_LEAGUE_CODES))
     parser.add_argument("--cache-dir", type=Path, default=FOOTBALL_DATA_DIR)
     parser.add_argument("--output-dir", type=Path, default=PROCESSED_DIR)

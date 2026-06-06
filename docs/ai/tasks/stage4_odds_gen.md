@@ -46,7 +46,7 @@ model = mlflow.sklearn.load_model("models:/match_outcome_xgb/Production")
 ```python
 import pandas as pd
 
-leagues = ["ENG", "FRA", "SPA"]
+leagues = ["ENG", "FRA", "GER", "ITA", "SPA"]
 dfs = [pd.read_parquet(f"data/features/{l}_features.parquet") for l in leagues]
 df = pd.concat(dfs, ignore_index=True).sort_values("Date")
 ```

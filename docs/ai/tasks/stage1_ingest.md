@@ -10,7 +10,7 @@
 
 ## What
 
-Stage 1 now downloads reproducible historical match CSVs directly from Football-Data.co.uk for Premier League, La Liga, and Ligue 1. It normalises those CSVs into the same match-level schema Stage 2 already expects, then writes Parquet files per league.
+Stage 1 now downloads reproducible historical match CSVs directly from Football-Data.co.uk for Premier League, La Liga, Ligue 1, Bundesliga, and Serie A. It normalises those CSVs into the same match-level schema Stage 2 already expects, then writes Parquet files per league.
 
 The old event-level PySpark path is still available with `--source event-csv`, but the default path is Football-Data because it gives us more seasons and uses the same source as the bookmaker odds comparison.
 
@@ -40,8 +40,10 @@ That is the engineering point: a data contract lets you replace the source witho
 | Premier League | `E0` | `data/processed/ENG.parquet` |
 | La Liga | `SP1` | `data/processed/SPA.parquet` |
 | Ligue 1 | `F1` | `data/processed/FRA.parquet` |
+| Bundesliga | `D1` | `data/processed/GER.parquet` |
+| Serie A | `I1` | `data/processed/ITA.parquet` |
 
-Default seasons are `1011` through `1920`, which become season labels `2010-11` through `2019-20`. The holdout remains `2019-20`; Stage 3 trains on every available season before that by default.
+Default seasons are `1011` through `2223`, which become season labels `2010-11` through `2022-23`. The holdout remains `2019-20`; Stage 3 trains on every available season before that by default.
 
 ---
 
@@ -87,7 +89,7 @@ python pipeline/stage1_ingest.py --source event-csv
 ## Acceptance Criteria
 
 - [x] Script downloads missing Football-Data CSVs into the local cache
-- [x] Script writes `data/processed/ENG.parquet`, `SPA.parquet`, and `FRA.parquet`
+- [x] Script writes `data/processed/ENG.parquet`, `SPA.parquet`, `FRA.parquet`, `GER.parquet`, and `ITA.parquet`
 - [x] Output keeps the Stage 1 -> Stage 2 schema stable
 - [x] Required source columns are validated before writing output
 - [x] Missing optional stat columns are handled explicitly, not silently ignored

@@ -5,11 +5,13 @@ from tempfile import TemporaryDirectory
 import pandas as pd
 
 from pipeline.stage5_compare import (
+    SEASON_CODES,
     VALUE_BET_COLUMNS,
     VALUE_BET_OUTCOMES,
     ValueBetRiskPolicy,
     compute_value_bets,
     football_data_url,
+    infer_league_from_file,
     load_football_data_csv,
     match_model_to_bookmaker_odds,
     normalise_team_name,
@@ -290,11 +292,23 @@ class Stage5CompareTests(unittest.TestCase):
         self.assertEqual(normalise_team_name("Paris SG"), "paris sg")
         self.assertEqual(normalise_team_name("Man United"), "manchester united")
 
+    def test_default_odds_seasons_include_forward_test_window(self):
+        self.assertEqual(SEASON_CODES[0], "1011")
+        self.assertEqual(SEASON_CODES[-1], "2223")
+        self.assertIn("2021", SEASON_CODES)
+        self.assertIn("2122", SEASON_CODES)
+
     def test_football_data_url_uses_season_and_league_codes(self):
         self.assertEqual(
             football_data_url("1920", "ENG"),
             "https://www.football-data.co.uk/mmz4281/1920/E0.csv",
         )
+        self.assertEqual(football_data_url("1920", "GER"), "https://www.football-data.co.uk/mmz4281/1920/D1.csv")
+        self.assertEqual(football_data_url("1920", "ITA"), "https://www.football-data.co.uk/mmz4281/1920/I1.csv")
+
+    def test_infer_league_from_file_handles_new_league_codes(self):
+        self.assertEqual(infer_league_from_file(Path("D1_1920.csv")), "GER")
+        self.assertEqual(infer_league_from_file(Path("I1_1920.csv")), "ITA")
 
     def test_parse_football_data_date_handles_day_first_dates(self):
         parsed = parse_football_data_date(pd.Series(["11/08/2019", "2019-08-12"]))

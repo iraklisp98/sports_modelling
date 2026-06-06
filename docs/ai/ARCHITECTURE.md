@@ -15,7 +15,7 @@ The build is organised into seven stages. Pipeline stages communicate exclusivel
 │                          DATA SOURCES                                │
 │                                                                      │
 │   Football-Data.co.uk season CSVs                                  │
-│   E0 Premier League · SP1 La Liga · F1 Ligue 1 · 2010-11 to 2019-20 │
+│   E0 Premier League · SP1 La Liga · F1 Ligue 1 · D1 Bundesliga · I1 Serie A · 2010-11 to 2022-23 │
 └───────────────────────────────┬──────────────────────────────────────┘
                                 │
                                 ▼
@@ -29,7 +29,7 @@ The build is organised into seven stages. Pipeline stages communicate exclusivel
 │  • Generate deterministic match IDs and deduplicate fixtures          │
 │  • Validate schema, emit data quality report                         │
 │                                                                      │
-│  Output: data/processed/{ENG,FRA,SPA}.parquet                        │
+│  Output: data/processed/{ENG,FRA,GER,ITA,SPA}.parquet                        │
 └───────────────────────────────┬──────────────────────────────────────┘
                                 │  Parquet (match-level, fixed schema)
                                 ▼
@@ -42,7 +42,7 @@ The build is organised into seven stages. Pipeline stages communicate exclusivel
 │  • Season win rates (no data leakage — always computed before match) │
 │  • Encode target: H=0, D=1, A=2                                      │
 │                                                                      │
-│  Output: data/features/{ENG,FRA,SPA}_features.parquet                │
+│  Output: data/features/{ENG,FRA,GER,ITA,SPA}_features.parquet                │
 └───────────────────────────────┬──────────────────────────────────────┘
                                 │  Parquet (feature-enriched)
                                 ▼
@@ -184,6 +184,8 @@ All columns from Stage 1 output, plus:
 | `League_ENG` | float | One-hot league indicator |
 | `League_SPA` | float | One-hot league indicator |
 | `League_FRA` | float | One-hot league indicator |
+| `League_GER` | float | One-hot league indicator |
+| `League_ITA` | float | One-hot league indicator |
 
 ### Stage 4 → Stage 5: Model odds Parquet
 
@@ -211,7 +213,7 @@ All columns from Stage 1 output, plus:
 | `AwayTeam` | string | |
 | `Date` | date | |
 | `Season` | string | |
-| `League` | string | Matched league code (`ENG`, `SPA`, `FRA`) |
+| `League` | string | Matched league code (`ENG`, `SPA`, `FRA`, `GER`, `ITA`) |
 | `Result` | string | Actual result |
 | `Outcome` | string | The flagged home/away outcome (`H` / `A`) |
 | `ModelOdds` | float | Model-implied odds for this outcome |

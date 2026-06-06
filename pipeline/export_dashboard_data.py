@@ -16,14 +16,16 @@ METRICS_PATH = Path("data/model_artifacts/stage3/metrics.json")
 HOLDOUT_PREDICTIONS_PATH = Path("data/model_artifacts/stage3/holdout_predictions.parquet")
 DASHBOARD_DATA_DIR = Path("dashboard/data")
 MLRUNS_DIR = Path("mlruns")
-LEAGUES = ("ENG", "SPA", "FRA")
-HOLDOUT_SEASONS = ("2019-20",)
+LEAGUES = ("ENG", "SPA", "FRA", "GER", "ITA")
+HOLDOUT_SEASONS = ("2019-20", "2020-21", "2021-22", "2022-23")
 DEFAULT_STAKE = 10.0
 
 LEAGUE_LABELS = {
     "ENG": "Premier League",
     "SPA": "La Liga",
     "FRA": "Ligue 1",
+    "GER": "Bundesliga",
+    "ITA": "Serie A",
 }
 
 RESULT_TO_CODE = {"H": 0, "D": 1, "A": 2}

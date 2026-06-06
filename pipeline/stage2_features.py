@@ -9,7 +9,7 @@ import pandas as pd
 
 PROCESSED_DIR = Path("data/processed")
 FEATURES_DIR = Path("data/features")
-LEAGUES = ("ENG", "SPA", "FRA")
+LEAGUES = ("ENG", "SPA", "FRA", "GER", "ITA")
 
 STARTING_ELO = 1500.0
 LEAGUE_MEAN_ELO = 1500.0

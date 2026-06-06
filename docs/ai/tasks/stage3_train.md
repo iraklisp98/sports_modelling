@@ -26,7 +26,7 @@ Football data is chronological. A random split can train on future matches and v
 
 
 ### Why league indicator features?
-The model trains one global classifier across Premier League, La Liga, and Ligue 1. League one-hot features let the model learn league-level differences in home advantage, draw tendency, and match environment without training three separate small models. Stage 3 and Stage 4 share the same feature contract through `pipeline/model_features.py` so training and inference cannot silently drift.
+The model trains one global classifier across Premier League, La Liga, Ligue 1, Bundesliga, and Serie A. League one-hot features let the model learn league-level differences in home advantage, draw tendency, and match environment without training three separate small models. Stage 3 and Stage 4 share the same feature contract through `pipeline/model_features.py` so training and inference cannot silently drift.
 
 ### Why draw-aware features and weighting?
 Draws are not simply a minority class; they usually happen when team strength and recent form are close. Stage 2 adds symmetric closeness features such as absolute ELO gap, recent points gap, and rolling draw rates. Stage 3 also uses class-balanced sample weights with a modest draw multiplier so draw mistakes matter during XGBoost fitting without turning the model into a forced draw predictor.
@@ -82,7 +82,7 @@ The script supports Optuna with `--trials N`, but defaults to `--trials 0` for a
     "HomeDrawRate_Last5", "AwayDrawRate_Last5",
     "AvgDrawRateLast5", "AbsDrawRateLast5Diff",
     "HomeWinRate_Season", "AwayWinRate_Season",
-    "League_ENG", "League_SPA", "League_FRA",
+    "League_ENG", "League_SPA", "League_FRA", "League_GER", "League_ITA",
 ]
 ```
 

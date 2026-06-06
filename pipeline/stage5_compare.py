@@ -21,13 +21,15 @@ MIN_BOOKMAKER_ODDS = 1.20
 MAX_BOOKMAKER_ODDS = 8.0
 MAX_EDGE = 0.30
 FOOTBALL_DATA_BASE_URL = "https://www.football-data.co.uk/mmz4281"
-SEASON_CODES = ("1718", "1819", "1920")
-FOOTBALL_DATA_LEAGUE_CODES = {"ENG": "E0", "SPA": "SP1", "FRA": "F1"}
+SEASON_CODES = tuple(f"{year:02d}{year + 1:02d}" for year in range(10, 23))
+FOOTBALL_DATA_LEAGUE_CODES = {"ENG": "E0", "SPA": "SP1", "FRA": "F1", "GER": "D1", "ITA": "I1"}
 
 LEAGUE_FILE_PATTERNS = {
     "ENG": ("E0*.csv", "eng*.csv", "premier*.csv"),
     "SPA": ("SP1*.csv", "spa*.csv", "la_liga*.csv"),
     "FRA": ("F1*.csv", "fra*.csv", "ligue*.csv"),
+    "GER": ("D1*.csv", "ger*.csv", "bundesliga*.csv"),
+    "ITA": ("I1*.csv", "ita*.csv", "serie*.csv"),
 }
 
 BOOKMAKER_PREFIXES = {
@@ -251,6 +253,10 @@ def infer_league_from_file(path: Path) -> str:
         return "SPA"
     if name.startswith("f1") or "ligue" in name or "fra" in name:
         return "FRA"
+    if name.startswith("d1") or "bundesliga" in name or "ger" in name:
+        return "GER"
+    if name.startswith("i1") or "serie" in name or "ita" in name:
+        return "ITA"
     return "UNKNOWN"
 
 
