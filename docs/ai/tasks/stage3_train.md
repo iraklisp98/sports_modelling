@@ -22,7 +22,7 @@ Without experiment tracking, you cannot answer which model was trained, with whi
 The current model input is tabular: ELO ratings, rolling form, corners, points, and season win rates. XGBoost is a strong baseline for tabular classification and gives feature importance artifacts that are easy to explain in an interview.
 
 ### Why time-based splitting?
-Football data is chronological. A random split can train on future matches and validate on earlier matches, which leaks future information. Stage 3 trains on every available season before `2019-20`, reserves the latest part of that training window for probability calibration, then evaluates on the untouched `2019-20` holdout snapshot.
+Football data is chronological. A random split can train on future matches and validate on earlier matches, which leaks future information. Stage 3 trains on every available season before `2019-20`, reserves the latest part of that training window for probability calibration, then evaluates on the untouched `2019-20` holdout snapshot. The default calibration method is isotonic regression, exposed through `--calibration-method`, so calibration is an explicit experiment setting rather than a hidden post-processing step.
 
 
 ### Why league indicator features?

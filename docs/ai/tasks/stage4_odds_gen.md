@@ -51,6 +51,9 @@ dfs = [pd.read_parquet(f"data/features/{l}_features.parquet") for l in leagues]
 df = pd.concat(dfs, ignore_index=True).sort_values("Date")
 ```
 
+### Probability floor
+Isotonic calibration can produce exact zero probabilities for rare classes. Stage 4 clips probabilities to a tiny positive floor before converting to decimal odds, then renormalises the row. This is a numerical guardrail, not a value-bet filter: it prevents infinite odds while preserving the model probability distribution as closely as possible.
+
 ### Step 4 — Run inference
 ```python
 FEATURES = [

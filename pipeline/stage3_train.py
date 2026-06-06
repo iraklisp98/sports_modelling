@@ -27,6 +27,8 @@ LABEL_NAMES = {0: "home", 1: "draw", 2: "away"}
 DRAW_CLASS_WEIGHT_MULTIPLIER = 1.25
 DRAW_OVERLAY_WEIGHT = 0.20
 DRAW_OVERLAY_WEIGHT_CANDIDATES = (0.0, 0.05, 0.10, 0.15, 0.20, 0.25, 0.30, 0.35, 0.40)
+CALIBRATION_METHODS = ("sigmoid", "isotonic")
+DEFAULT_CALIBRATION_METHOD = "isotonic"
 
 DEFAULT_XGB_PARAMS = {
     "objective": "multi:softprob",
@@ -538,6 +540,8 @@ def calibrate_classifier(
     y_calibration: pd.Series,
     method: str = "sigmoid",
 ):
+    if method not in CALIBRATION_METHODS:
+        raise ValueError(f"Unsupported calibration method: {method}")
     try:
         from sklearn.frozen import FrozenEstimator
 
@@ -646,7 +650,10 @@ def run_pipeline(
     artifacts_dir: Path = ARTIFACTS_DIR,
     trials: int = 0,
     tracking_uri: str | None = None,
+    calibration_method: str = DEFAULT_CALIBRATION_METHOD,
 ) -> TrainingRunSummary:
+    if calibration_method not in CALIBRATION_METHODS:
+        raise ValueError(f"Unsupported calibration method: {calibration_method}")
     df = load_feature_data(leagues=leagues, features_dir=features_dir)
     train_df, holdout_df = split_train_holdout(df)
     model_train_df, calibration_df = split_model_calibration_data(train_df)
@@ -657,9 +664,9 @@ def run_pipeline(
     train_sample_weight = compute_class_sample_weights(y_train)
     params = tune_hyperparameters(X_train, y_train, trials=trials, sample_weight=train_sample_weight)
     model = train_classifier(X_train, y_train, params=params, sample_weight=train_sample_weight)
-    calibrated_model = calibrate_classifier(model, X_calibration, y_calibration)
+    calibrated_model = calibrate_classifier(model, X_calibration, y_calibration, method=calibration_method)
     draw_model = train_draw_classifier(X_train, y_train)
-    calibrated_draw_model = calibrate_classifier(draw_model, X_calibration, draw_binary_labels(y_calibration))
+    calibrated_draw_model = calibrate_classifier(draw_model, X_calibration, draw_binary_labels(y_calibration), method=calibration_method)
     calibration_base_proba = normalize_probabilities(calibrated_model.predict_proba(X_calibration))
     calibration_draw_proba = np.asarray(calibrated_draw_model.predict_proba(X_calibration), dtype=float)[:, 1]
     selected_draw_overlay_weight, draw_overlay_weight_results = select_draw_overlay_weight(
@@ -709,6 +716,7 @@ def run_pipeline(
             "draw_overlay_weight": selected_draw_overlay_weight if overlay_accepted else 0.0,
             "selected_draw_overlay_weight": selected_draw_overlay_weight,
             "draw_overlay_accepted_as_production": overlay_accepted,
+            "calibration_method": calibration_method,
         },
     )
     write_json(benchmarks_path, {"benchmarks": benchmarks})
@@ -738,6 +746,7 @@ def run_pipeline(
         "selected_draw_overlay_weight": selected_draw_overlay_weight,
         "production_draw_overlay_weight": selected_draw_overlay_weight if overlay_accepted else 0.0,
         "draw_overlay_accepted_as_production": overlay_accepted,
+        "calibration_method": calibration_method,
     }
     mlflow_run_id, model_uri = log_mlflow_run(
         model=production_model,
@@ -776,6 +785,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--artifacts-dir", type=Path, default=ARTIFACTS_DIR)
     parser.add_argument("--trials", type=int, default=0, help="Optional Optuna trials. Default keeps the run fast.")
     parser.add_argument("--tracking-uri", default=None, help="Optional MLflow tracking URI.")
+    parser.add_argument("--calibration-method", choices=CALIBRATION_METHODS, default=DEFAULT_CALIBRATION_METHOD)
     return parser.parse_args()
 
 
@@ -786,5 +796,6 @@ if __name__ == "__main__":
         artifacts_dir=args.artifacts_dir,
         trials=args.trials,
         tracking_uri=args.tracking_uri,
+        calibration_method=args.calibration_method,
     )
     print(summary.line())

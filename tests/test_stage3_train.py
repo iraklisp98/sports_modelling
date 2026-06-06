@@ -162,6 +162,15 @@ class Stage3TrainTests(unittest.TestCase):
         self.assertTrue(np.array_equal(calibrated.classes_, np.array([0, 1, 2])))
         self.assertTrue(np.allclose(proba.sum(axis=1), 1.0))
 
+
+    def test_calibrate_classifier_rejects_unsupported_method(self):
+        X_train = pd.DataFrame({"a": [0.0, 1.0, 2.0], "b": [0.0, 1.0, 2.0]})
+        y_train = pd.Series([0, 1, 2])
+        base_model = LogisticRegression(max_iter=200).fit(X_train, y_train)
+
+        with self.assertRaisesRegex(ValueError, "Unsupported calibration method"):
+            calibrate_classifier(base_model, X_train, y_train, method="unknown")
+
     def test_class_prior_probabilities_repeats_training_distribution(self):
         proba = class_prior_probabilities(pd.Series([0, 0, 1, 2]), rows=3)
 

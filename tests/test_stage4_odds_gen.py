@@ -75,17 +75,23 @@ class Stage4OddsGenTests(unittest.TestCase):
             validate_probability_matrix(proba)
 
     def test_probabilities_to_odds_converts_each_outcome(self):
-        proba = np.array([[0.5, 0.25, 0.2]])
+        proba = np.array([[0.5, 0.25, 0.25]])
 
         odds = probabilities_to_odds(proba)
 
-        self.assertTrue(np.allclose(odds, np.array([[2.0, 4.0, 5.0]])))
+        self.assertTrue(np.allclose(odds, np.array([[2.0, 4.0, 4.0]])))
 
-    def test_probabilities_to_odds_rejects_zero_or_negative_values(self):
-        with self.assertRaisesRegex(ValueError, "strictly positive"):
-            probabilities_to_odds(np.array([[0.5, 0.0, 0.5]]))
-        with self.assertRaisesRegex(ValueError, "strictly positive"):
+    def test_probabilities_to_odds_floors_zero_probabilities_before_conversion(self):
+        odds = probabilities_to_odds(np.array([[0.5, 0.0, 0.5]]), minimum_probability=1e-6)
+
+        self.assertTrue(np.isfinite(odds).all())
+        self.assertGreater(odds[0, 1], 900000)
+
+    def test_probabilities_to_odds_rejects_invalid_probability_values(self):
+        with self.assertRaisesRegex(ValueError, "between 0 and 1"):
             probabilities_to_odds(np.array([[0.5, -0.1, 0.6]]))
+        with self.assertRaisesRegex(ValueError, "strictly positive"):
+            probabilities_to_odds(np.array([[0.5, 0.0, 0.5]]), minimum_probability=0.0)
 
     def test_validate_model_class_order_rejects_unexpected_encoding(self):
         with self.assertRaisesRegex(ValueError, "H/D/A"):

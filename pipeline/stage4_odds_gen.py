@@ -16,6 +16,7 @@ FEATURES_DIR = Path('data/features')
 OUTPUT_PATH = Path('data/output/model_odds.parquet')
 MODEL_NAME = 'match_outcome_xgb'
 MODEL_STAGE = 'Production'
+MIN_ODDS_PROBABILITY = 1e-6
 TRACKING_URI = 'file:mlruns'
 
 REQUIRED_COLUMNS = [
@@ -134,11 +135,15 @@ def validate_probability_matrix(proba: np.ndarray, tolerance: float = 0.001) -> 
     return matrix
 
 
-def probabilities_to_odds(proba: np.ndarray) -> np.ndarray:
-    matrix = np.asarray(proba, dtype=float)
-    if (matrix <= 0).any():
-        raise ValueError('Probabilities must be strictly positive to convert to decimal odds')
-    return 1.0 / matrix
+def probabilities_to_odds(proba: np.ndarray, minimum_probability: float = MIN_ODDS_PROBABILITY) -> np.ndarray:
+    if minimum_probability <= 0.0:
+        raise ValueError('minimum_probability must be strictly positive')
+    matrix = validate_probability_matrix(proba)
+    if (matrix < 0).any():
+        raise ValueError('Probabilities must be non-negative to convert to decimal odds')
+    clipped = np.clip(matrix, minimum_probability, 1.0)
+    clipped = clipped / clipped.sum(axis=1, keepdims=True)
+    return 1.0 / clipped
 
 
 def build_model_odds_frame(df: pd.DataFrame, model) -> pd.DataFrame:
