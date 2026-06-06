@@ -15,6 +15,7 @@ OUTPUT_PATH = Path("data/model_artifacts/stage3/model_diagnostics.json")
 HOLDOUT_SEASONS = ("2019-20", "2020-21", "2021-22", "2022-23")
 OUTCOME_PROBABILITY_COLUMNS = {"H": "P_Home", "D": "P_Draw", "A": "P_Away"}
 PROBABILITY_BINS = tuple(round(value / 10, 1) for value in range(11))
+ODDS_BINS = (1.0, 1.5, 2.0, 2.5, 3.0, 4.0, 6.0, 8.0)
 
 
 @dataclass(frozen=True)
@@ -58,6 +59,18 @@ def probability_bucket(probability: float, bins: Iterable[float] = PROBABILITY_B
         if probability < right or np.isclose(probability, right):
             return _bucket_label(left, right)
     return _bucket_label(values[-2], values[-1])
+
+
+def odds_bucket(odds: float, bins: Iterable[float] = ODDS_BINS) -> str:
+    values = list(bins)
+    if len(values) < 2:
+        raise ValueError("At least two odds bucket edges are required")
+    if odds < values[0]:
+        raise ValueError(f"Decimal odds out of bucket range: {odds}")
+    for left, right in zip(values[:-1], values[1:]):
+        if odds < right or np.isclose(odds, right):
+            return f"{left:.1f}-{right:.1f}"
+    return f"{values[-1]:.1f}+"
 
 
 def validate_holdout_predictions(df: pd.DataFrame) -> None:
@@ -197,6 +210,63 @@ def build_value_bet_diagnostics(
     ]
 
 
+def build_odds_range_diagnostics(
+    value_bets: pd.DataFrame,
+    seasons: Iterable[str] = HOLDOUT_SEASONS,
+    odds_bins: Iterable[float] = ODDS_BINS,
+) -> dict[str, list[dict[str, object]]]:
+    holdout = filter_holdout_value_bets(value_bets, seasons=seasons)
+    if holdout.empty:
+        return {"model_odds_ranges": [], "bookmaker_odds_ranges": []}
+
+    frame = holdout.copy()
+    frame["Won"] = frame["Outcome"] == frame["Result"]
+    frame["FlatStakeProfit"] = np.where(frame["Won"], pd.to_numeric(frame["BestBookOdds"], errors="raise") - 1.0, -1.0)
+    frame["ModelOdds"] = pd.to_numeric(frame["ModelOdds"], errors="raise")
+    frame["BestBookOdds"] = pd.to_numeric(frame["BestBookOdds"], errors="raise")
+    frame["ModelOddsBucket"] = frame["ModelOdds"].map(lambda value: odds_bucket(float(value), bins=odds_bins))
+    frame["BookmakerOddsBucket"] = frame["BestBookOdds"].map(lambda value: odds_bucket(float(value), bins=odds_bins))
+
+    def aggregate(bucket_column: str) -> list[dict[str, object]]:
+        grouped = frame.groupby(["Outcome", bucket_column], sort=True)
+        table = grouped.agg(
+            count=("Won", "size"),
+            wins=("Won", "sum"),
+            hit_rate=("Won", "mean"),
+            avg_model_odds=("ModelOdds", "mean"),
+            avg_book_odds=("BestBookOdds", "mean"),
+            avg_edge=("Edge", "mean"),
+            flat_stake_roi=("FlatStakeProfit", "mean"),
+            home_result_rate=("Result", lambda values: (values == "H").mean()),
+            draw_result_rate=("Result", lambda values: (values == "D").mean()),
+            away_result_rate=("Result", lambda values: (values == "A").mean()),
+        ).reset_index()
+        return [
+            {
+                "outcome": row.Outcome,
+                "bucket": getattr(row, bucket_column),
+                "count": int(row.count),
+                "wins": int(row.wins),
+                "hit_rate": _round(row.hit_rate),
+                "avg_model_odds": _round(row.avg_model_odds),
+                "avg_book_odds": _round(row.avg_book_odds),
+                "avg_edge": _round(row.avg_edge),
+                "flat_stake_roi": _round(row.flat_stake_roi),
+                "actual_result_rates": {
+                    "H": _round(row.home_result_rate),
+                    "D": _round(row.draw_result_rate),
+                    "A": _round(row.away_result_rate),
+                },
+            }
+            for row in table.itertuples(index=False)
+        ]
+
+    return {
+        "model_odds_ranges": aggregate("ModelOddsBucket"),
+        "bookmaker_odds_ranges": aggregate("BookmakerOddsBucket"),
+    }
+
+
 def worst_calibration_bucket(calibration: list[dict[str, object]], min_count: int = 20) -> dict[str, object] | None:
     eligible = [row for row in calibration if int(row["count"]) >= min_count]
     if not eligible:
@@ -212,12 +282,14 @@ def build_diagnostics(
 ) -> dict[str, object]:
     calibration = build_calibration_table(holdout_predictions, bins=bins)
     value_bet_diagnostics = build_value_bet_diagnostics(value_bets, seasons=seasons, bins=bins)
+    odds_range_diagnostics = build_odds_range_diagnostics(value_bets, seasons=seasons)
     return {
         "holdout_seasons": list(seasons),
         "probability_bins": list(bins),
         "outcome_summary": build_outcome_summary(holdout_predictions),
         "calibration_by_outcome_bucket": calibration,
         "value_bets_by_outcome_bucket": value_bet_diagnostics,
+        "value_bets_by_odds_range": odds_range_diagnostics,
         "worst_calibration_bucket": worst_calibration_bucket(calibration),
     }
 

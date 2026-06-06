@@ -10,6 +10,8 @@ from pipeline.model_diagnostics import (
     build_diagnostics,
     build_prediction_rows,
     build_value_bet_diagnostics,
+    build_odds_range_diagnostics,
+    odds_bucket,
     probability_bucket,
     run_pipeline,
 )
@@ -88,6 +90,28 @@ class ModelDiagnosticsTests(unittest.TestCase):
         self.assertEqual(probability_bucket(0.10001, bins=(0.0, 0.1, 0.2, 1.0)), "0.1-0.2")
         self.assertEqual(probability_bucket(1.0, bins=(0.0, 0.1, 0.2, 1.0)), "0.2-1.0")
 
+
+    def test_odds_bucket_boundaries_are_stable(self):
+        self.assertEqual(odds_bucket(1.01, bins=(1.0, 2.0, 3.0)), "1.0-2.0")
+        self.assertEqual(odds_bucket(2.0, bins=(1.0, 2.0, 3.0)), "1.0-2.0")
+        self.assertEqual(odds_bucket(2.01, bins=(1.0, 2.0, 3.0)), "2.0-3.0")
+        self.assertEqual(odds_bucket(5.0, bins=(1.0, 2.0, 3.0)), "3.0+")
+
+    def test_odds_range_diagnostics_include_actual_result_rates_and_roi(self):
+        diagnostics = build_odds_range_diagnostics(sample_value_bets(), seasons=("2019-20",), odds_bins=(1.0, 2.5, 4.0, 8.0))
+        model_lookup = {(row["outcome"], row["bucket"]): row for row in diagnostics["model_odds_ranges"]}
+        book_lookup = {(row["outcome"], row["bucket"]): row for row in diagnostics["bookmaker_odds_ranges"]}
+
+        home_model = model_lookup[("H", "1.0-2.5")]
+        self.assertEqual(home_model["count"], 1)
+        self.assertEqual(home_model["wins"], 1)
+        self.assertEqual(home_model["actual_result_rates"], {"H": 1.0, "D": 0.0, "A": 0.0})
+
+        away_book = book_lookup[("A", "4.0-8.0")]
+        self.assertEqual(away_book["count"], 1)
+        self.assertEqual(away_book["wins"], 0)
+        self.assertEqual(away_book["flat_stake_roi"], -1.0)
+
     def test_value_bet_diagnostics_are_limited_to_holdout_value_bet_rows(self):
         diagnostics = build_value_bet_diagnostics(sample_value_bets(), seasons=("2019-20",), bins=(0.0, 0.5, 1.0))
 
@@ -118,6 +142,7 @@ class ModelDiagnosticsTests(unittest.TestCase):
         self.assertIn("outcome_summary", payload)
         self.assertIn("calibration_by_outcome_bucket", payload)
         self.assertIn("value_bets_by_outcome_bucket", payload)
+        self.assertIn("value_bets_by_odds_range", payload)
         self.assertIn("worst_calibration_bucket", payload)
 
     def test_missing_required_holdout_columns_raises_clear_error(self):

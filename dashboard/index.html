@@ -19,6 +19,7 @@
     <button class="tab-btn active" type="button" data-tab="analytics">League Analytics</button>
     <button class="tab-btn" type="button" data-tab="backtest">Backtest</button>
     <button class="tab-btn" type="button" data-tab="odds">Odds Inspector</button>
+    <button class="tab-btn" type="button" data-tab="calibration">Calibration</button>
     <button class="tab-btn" type="button" data-tab="simulator">Simulator</button>
   </nav>
 
@@ -162,6 +163,52 @@
             </thead>
             <tbody id="value-bets-body"></tbody>
           </table>
+        </div>
+      </div>
+    </section>
+
+
+    <section id="calibration" class="tab-content">
+      <div class="panel">
+        <div class="section-heading">
+          <div>
+            <h2>Calibration Diagnostics</h2>
+            <p>Odds ranges, actual outcomes, and flat-stake results for forward-test value bets.</p>
+          </div>
+          <div class="compact-filters">
+            <label>Range type<select id="calibration-source">
+              <option value="bookmaker_odds_ranges">Bookmaker odds</option>
+              <option value="model_odds_ranges">Model odds</option>
+            </select></label>
+            <label>Outcome<select id="calibration-outcome">
+              <option value="all">Home and away</option>
+              <option value="H">Home</option>
+              <option value="A">Away</option>
+            </select></label>
+          </div>
+        </div>
+        <div class="summary-row" id="calibration-kpis"></div>
+        <div class="subpanel table-panel">
+          <h3>Odds Range Results</h3>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Outcome</th>
+                  <th>Odds range</th>
+                  <th>Bets</th>
+                  <th>Wins</th>
+                  <th>Hit rate</th>
+                  <th>Actual H/D/A</th>
+                  <th>Avg model odds</th>
+                  <th>Avg book odds</th>
+                  <th>Edge</th>
+                  <th>ROI</th>
+                </tr>
+              </thead>
+              <tbody id="calibration-body"></tbody>
+            </table>
+          </div>
         </div>
       </div>
     </section>

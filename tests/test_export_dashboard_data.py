@@ -9,6 +9,7 @@ from pipeline.export_dashboard_data import (
     build_backtest,
     build_league_analytics,
     build_mlflow_runs,
+    load_diagnostics,
     build_simulator,
     filter_holdout_value_bets,
     run_pipeline,
@@ -199,6 +200,13 @@ class ExportDashboardDataTests(unittest.TestCase):
         self.assertEqual([run["run_id"] for run in runs], ["run-4", "run-1", "run-3", "run-0", "run-5"])
         self.assertEqual(runs[0]["learning_rate"], 0.05)
 
+
+    def test_load_diagnostics_returns_default_contract_when_missing(self):
+        payload = load_diagnostics(Path("missing-diagnostics.json"))
+
+        self.assertIn("value_bets_by_odds_range", payload)
+        self.assertEqual(payload["value_bets_by_odds_range"], {"model_odds_ranges": [], "bookmaker_odds_ranges": []})
+
     def test_run_pipeline_writes_all_dashboard_json_files(self):
         with TemporaryDirectory() as tmp_dir:
             tmp_path = Path(tmp_dir)
@@ -222,15 +230,16 @@ class ExportDashboardDataTests(unittest.TestCase):
             )
 
             payloads = {}
-            for filename in ["league_analytics.json", "backtest.json", "value_bets.json", "simulator.json"]:
+            for filename in ["league_analytics.json", "backtest.json", "value_bets.json", "simulator.json", "diagnostics.json"]:
                 path = output_dir / filename
                 self.assertTrue(path.exists(), filename)
                 payloads[filename] = json.loads(path.read_text(encoding="utf-8"))
 
-        self.assertEqual(len(summary.files), 4)
+        self.assertEqual(len(summary.files), 5)
         self.assertEqual(payloads["league_analytics.json"]["leagues"], ["ENG", "FRA", "GER", "ITA", "SPA"])
         self.assertEqual(payloads["value_bets.json"][0]["Date"], "2019-08-10")
         self.assertEqual(payloads["simulator.json"]["summary"]["roi_pct"], 10.0)
+        self.assertIn("value_bets_by_odds_range", payloads["diagnostics.json"])
 
 
 if __name__ == "__main__":

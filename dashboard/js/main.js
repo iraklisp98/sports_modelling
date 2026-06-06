@@ -18,6 +18,7 @@ const state = {
   analytics: null,
   backtest: null,
   simulator: null,
+  diagnostics: null,
   valueBets: [],
   filteredBets: [],
   currentStake: 10,
@@ -420,6 +421,49 @@ function calculateSimulation(stake) {
   };
 }
 
+
+function setupCalibration() {
+  [document.getElementById("calibration-source"), document.getElementById("calibration-outcome")].forEach((control) => {
+    control.addEventListener("input", renderCalibration);
+  });
+  renderCalibration();
+}
+
+function renderCalibration() {
+  const source = document.getElementById("calibration-source").value;
+  const outcome = document.getElementById("calibration-outcome").value;
+  const ranges = state.diagnostics?.value_bets_by_odds_range?.[source] || [];
+  const rows = ranges.filter((row) => outcome === "all" || row.outcome === outcome);
+  const totalBets = rows.reduce((total, row) => total + Number(row.count || 0), 0);
+  const totalWins = rows.reduce((total, row) => total + Number(row.wins || 0), 0);
+  const weightedRoi = totalBets ? rows.reduce((total, row) => total + Number(row.flat_stake_roi || 0) * Number(row.count || 0), 0) / totalBets : 0;
+  const weightedEdge = totalBets ? rows.reduce((total, row) => total + Number(row.avg_edge || 0) * Number(row.count || 0), 0) / totalBets : 0;
+  renderCards("calibration-kpis", [
+    ["Buckets", rows.length],
+    ["Bets", totalBets],
+    ["Hit rate", formatPct(totalBets ? totalWins / totalBets : 0)],
+    ["ROI / Edge", `${formatPct(weightedRoi)} / ${formatPct(weightedEdge)}`],
+  ]);
+
+  document.getElementById("calibration-body").innerHTML = rows.map((row) => {
+    const actual = row.actual_result_rates || {};
+    return `
+      <tr>
+        <td>${escapeHtml(row.outcome)}</td>
+        <td>${escapeHtml(row.bucket)}</td>
+        <td>${row.count}</td>
+        <td>${row.wins}</td>
+        <td>${formatPct(row.hit_rate)}</td>
+        <td>${formatPct(actual.H || 0)} / ${formatPct(actual.D || 0)} / ${formatPct(actual.A || 0)}</td>
+        <td>${formatOdds(row.avg_model_odds)}</td>
+        <td>${formatOdds(row.avg_book_odds)}</td>
+        <td>${formatPct(row.avg_edge)}</td>
+        <td>${formatPct(row.flat_stake_roi)}</td>
+      </tr>
+    `;
+  }).join("");
+}
+
 function setupSimulator() {
   const slider = document.getElementById("stake-slider");
   const defaultStake = Number(state.simulator.default_stake || 10);
@@ -491,20 +535,23 @@ async function init() {
 
   const status = document.getElementById("data-status");
   try {
-    const [analytics, backtest, simulator, valueBets] = await Promise.all([
+    const [analytics, backtest, simulator, diagnostics, valueBets] = await Promise.all([
       loadJson("data/league_analytics.json"),
       loadJson("data/backtest.json"),
       loadJson("data/simulator.json"),
+      loadJson("data/diagnostics.json"),
       loadJson("data/value_bets.json"),
     ]);
     validateValueBets(valueBets);
     state.analytics = analytics;
     state.backtest = backtest;
     state.simulator = simulator;
+    state.diagnostics = diagnostics;
     state.valueBets = valueBets;
     setupAnalytics();
     renderBacktest();
     setupFilters(state.valueBets);
+    setupCalibration();
     applyFilters();
     setupSimulator();
     status.textContent = `${state.valueBets.length} value bets loaded`;

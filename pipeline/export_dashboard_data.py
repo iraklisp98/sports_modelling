@@ -14,6 +14,7 @@ MODEL_ODDS_PATH = Path("data/output/model_odds.parquet")
 VALUE_BETS_PATH = Path("data/output/value_bets.parquet")
 METRICS_PATH = Path("data/model_artifacts/stage3/metrics.json")
 HOLDOUT_PREDICTIONS_PATH = Path("data/model_artifacts/stage3/holdout_predictions.parquet")
+MODEL_DIAGNOSTICS_PATH = Path("data/model_artifacts/stage3/model_diagnostics.json")
 DASHBOARD_DATA_DIR = Path("dashboard/data")
 MLRUNS_DIR = Path("mlruns")
 LEAGUES = ("ENG", "SPA", "FRA", "GER", "ITA")
@@ -398,6 +399,18 @@ def build_backtest(
     }
 
 
+def load_diagnostics(diagnostics_path: Path = MODEL_DIAGNOSTICS_PATH) -> dict[str, object]:
+    if not diagnostics_path.exists():
+        return {
+            "holdout_seasons": list(HOLDOUT_SEASONS),
+            "calibration_by_outcome_bucket": [],
+            "value_bets_by_outcome_bucket": [],
+            "value_bets_by_odds_range": {"model_odds_ranges": [], "bookmaker_odds_ranges": []},
+            "worst_calibration_bucket": None,
+        }
+    return json.loads(diagnostics_path.read_text(encoding="utf-8"))
+
+
 def write_json(path: Path, data: object) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(data, indent=2, sort_keys=True), encoding="utf-8")
@@ -411,6 +424,7 @@ def run_pipeline(
     holdout_predictions_path: Path = HOLDOUT_PREDICTIONS_PATH,
     output_dir: Path = DASHBOARD_DATA_DIR,
     mlruns_dir: Path = MLRUNS_DIR,
+    diagnostics_path: Path = MODEL_DIAGNOSTICS_PATH,
 ) -> DashboardExportSummary:
     features = load_feature_data(features_dir)
     model_odds = pd.read_parquet(model_odds_path) if model_odds_path.exists() else pd.DataFrame()
@@ -424,6 +438,7 @@ def run_pipeline(
         "backtest.json": build_backtest(metrics_path, holdout_predictions_path, value_bets, mlruns_dir),
         "value_bets.json": _records(value_bets),
         "simulator.json": build_simulator(holdout_value_bets, stake=DEFAULT_STAKE),
+        "diagnostics.json": load_diagnostics(diagnostics_path),
     }
 
     written: list[Path] = []
@@ -443,6 +458,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--holdout-predictions-path", type=Path, default=HOLDOUT_PREDICTIONS_PATH)
     parser.add_argument("--output-dir", type=Path, default=DASHBOARD_DATA_DIR)
     parser.add_argument("--mlruns-dir", type=Path, default=MLRUNS_DIR)
+    parser.add_argument("--diagnostics-path", type=Path, default=MODEL_DIAGNOSTICS_PATH)
     return parser.parse_args()
 
 
@@ -456,5 +472,6 @@ if __name__ == "__main__":
         holdout_predictions_path=args.holdout_predictions_path,
         output_dir=args.output_dir,
         mlruns_dir=args.mlruns_dir,
+        diagnostics_path=args.diagnostics_path,
     )
     print(summary.line())
