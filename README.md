@@ -1,66 +1,79 @@
 # Sports Modelling
 
-End-to-end sports betting odds research pipeline for European football, rebuilt from exploratory notebooks into production-style pipeline stages: Football-Data CSV download -> match-level Parquet -> feature engineering -> XGBoost + MLflow -> odds comparison -> strategy diagnostics -> static dashboard -> Docker packaging.
+End-to-end sports betting odds research pipeline for European football. The project converts Football-Data.co.uk historical CSVs into a reproducible ML workflow: ingest -> Parquet -> feature engineering -> MLflow-tracked models -> odds comparison -> calibration diagnostics -> strategy simulation -> static dashboard -> Docker packaging.
 
-## Current Scope
+This is a portfolio project, not betting advice. The value of the repo is the engineering story and the honest model validation: it shows how to test whether a model has a durable edge instead of only showing a lucky backtest.
 
-Phase 1 covers Premier League, La Liga, Ligue 1, Bundesliga, and Serie A historical Football-Data.co.uk seasons from 2010-11 through 2025-26. The original value-bet rule identifies bets where:
+## Final Project Story
 
-```text
-best_bookmaker_odds >= 1.10 * model_implied_odds
-```
+The final candidate is a **market-aware XGBoost value-bet model** trained with an **expanding annual walk-forward policy** across all five leagues.
 
-Stage 5 also applies odds sanity filters so extreme long-shot prices and unrealistic edge outliers do not become dashboard bets. The dashboard also compares benchmark strategies, including the second-stage mispricing model, so the project can show whether an apparent edge survives a forward backtest rather than only showing flagged bets.
-
-Final portfolio conclusion: the engineering pipeline is complete and reproducible. The current five-league mispricing strategy is positive in the forward simulator, but it should be presented as a research result that still needs robustness checks, not as a guaranteed durable betting edge.
-
-This repository is for education and portfolio development. It does not place bets and does not provide financial advice.
-
-## Documentation
-
-- Product requirements: `docs/ai/PRD.md`
-- Architecture notes: `docs/ai/ARCHITECTURE.md`
-- Canonical task status: `docs/ai/TASKS.md`
-- Detailed stage guides: `docs/ai/tasks/`
-- Tutor/agent working agreement: `AGENTS.md`
-
-## Current Repo State
-
-- Pipeline stages 1-5 plus diagnostics and benchmark strategy layers are implemented under `pipeline/`.
-- Stage 6 dashboard is implemented under `dashboard/` and reads precomputed JSON from `dashboard/data/`.
-- Stage 7 Docker packaging is implemented under `docker/`.
-- The project is portfolio-complete: remaining work would be research extensions, not required pipeline completion.
-- `analysis/descriptive.ipynb` and `models/training.ipynb` are EDA/reference notebooks, not production pipeline code.
-
-## Planned Pipeline Stages
-
-| Stage | Output |
+| Result | Evidence |
 |---|---|
-| 1 - Ingest & Clean | Match-level Parquet files in `data/processed/` |
-| 2 - Feature Engineering | ELO, rolling form, draw signals, and season features |
-| 3 - Model Training | Calibrated/tuned XGBoost model tracked with MLflow and baseline benchmarks |
-| 4 - Odds Generation | Model probabilities and implied odds |
-| 5 - Odds Comparison | Flagged value bets |
-| 5.5 - Model Diagnostics | Calibration and value-bet bucket diagnostics |
-| 6 - Dashboard | Static HTML/CSS/JS dashboard using JSON outputs |
-| 7 - Docker | Reproducible local run environment |
+| Final model candidate | Market-aware XGBoost value strategy |
+| Data scope | Premier League, La Liga, Ligue 1, Bundesliga, Serie A; 2010-11 through 2025-26 |
+| Actionable bet scope | Home and away wins only; draws are modelled but not selected as value bets |
+| Best validation protocol | Expanding annual retraining: train through the last completed season, test the next season |
+| Walk-forward ROI | +5.47% across 767 bets, 3/5 positive folds |
+| Dashboard default simulator | Expanding walk-forward XGBoost +5.47%; frozen XGBoost remains visible at +0.19% |
+| League subset audit | All five leagues remained best; filtering leagues did not improve the headline result |
 
-## Environment
+The important modelling conclusion is narrow and defensible: **the strongest candidate is not a globally superior football prediction model; it is a value-bet selection workflow that only becomes interesting under expanding retraining validation.** The project keeps the weaker benchmarks in the dashboard because rejected models are part of the story.
 
-Use the project virtual environment before running scripts:
+## Dashboard
+
+The dashboard is a static HTML/CSS/JS app served by nginx in Docker or opened locally from `dashboard/index.html` after the pipeline exports JSON.
+
+Tabs:
+
+- **Project Story**: final model decision, validation path, rejected benchmarks, league subset audit, and test summary.
+- **League Analytics**: match trends, standings, home/away performance.
+- **Backtest**: ML metrics, equity curve, confusion matrix, MLflow run comparison.
+- **Odds Inspector**: filterable value-bet table with per-match probability/odds modal.
+- **Calibration**: odds buckets, actual outcomes, hit rate, ROI by range.
+- **Simulator**: fixed-stake replay, bankroll curve, strategy comparison, expanding retraining robustness.
+
+## Pipeline Stages
+
+| Stage | Script | Output |
+|---|---|---|
+| 1 - Ingest & Clean | `pipeline/stage1_ingest.py` | Match-level Parquet in `data/processed/` |
+| 2 - Feature Engineering | `pipeline/stage2_features.py` | ELO, rolling form, rest, venue, and pressure features in `data/features/` |
+| 3 - Model Training | `pipeline/stage3_train.py` | XGBoost model, metrics, MLflow artifacts |
+| 3.6 - Poisson Benchmark | `pipeline/poisson_goal_model.py` | Interpretable expected-goals benchmark odds |
+| 4 - Odds Generation | `pipeline/stage4_odds_gen.py` | Model probabilities and implied odds |
+| 5 - Odds Comparison | `pipeline/stage5_compare.py` | Home/away value bets against bookmaker odds |
+| 5.5 - Diagnostics | `pipeline/model_diagnostics.py` and related scripts | Calibration, market baseline, benchmark comparison artifacts |
+| 6 - Dashboard Export | `pipeline/export_dashboard_data.py` | Static dashboard JSON, including `project_summary.json` |
+| 7 - Docker | `docker/` and `docker-compose.yml` | One-command local runtime |
+
+## Run Locally
+
+Activate the venv first:
 
 ```bash
 source .venv/bin/activate
+```
+
+Install dependencies if needed:
+
+```bash
 pip install -r requirements.txt
 ```
 
-Run the full pipeline with the venv active:
+Run the full pipeline:
 
 ```bash
 python pipeline/run_pipeline.py
 ```
 
-Preview the stage order without executing the pipeline:
+Regenerate dashboard JSON only:
+
+```bash
+python pipeline/export_dashboard_data.py
+```
+
+Preview the stage order without executing work:
 
 ```bash
 python pipeline/run_pipeline.py --dry-run
@@ -74,13 +87,38 @@ From the project root:
 docker compose up --build
 ```
 
-When the pipeline container finishes successfully, open:
+When the pipeline container finishes, open:
 
 ```text
 http://localhost:8080
 ```
 
-The pipeline is a one-shot batch container. The dashboard is an nginx container serving the static files and mounted `dashboard/data/` JSON output. Docker keeps MLflow inside the pipeline container at `/app/mlruns` instead of bind-mounting the host `mlruns/` directory, because MLflow file-store metadata contains absolute artifact paths that are not portable across host and container filesystems.
+The pipeline container is a one-shot batch job. The dashboard container serves static files and mounted `dashboard/data/` JSON. MLflow is kept inside the pipeline container at `/app/mlruns` to avoid non-portable host artifact paths.
+
+## Tests
+
+Verification command used for the final pass:
+
+```bash
+python -m unittest discover tests
+```
+
+Latest result: **153 tests OK, 1 skipped**. The final pass adds dashboard/export contract coverage for the new `project_summary.json` story tab. `pytest` is optional; it was not installed in the current `.venv`, so the unittest discovery command is the documented reproducible test path.
+
+## Documentation
+
+- Product requirements: `docs/ai/PRD.md`
+- Architecture notes: `docs/ai/ARCHITECTURE.md`
+- Canonical task status: `docs/ai/TASKS.md`
+- Stage guides: `docs/ai/tasks/`
+- Working agreement: `AGENTS.md`
+- Session findings: `ai.log`
+
+## Portfolio Talking Point
+
+If asked what this project proves, say:
+
+> It proves I can build a reproducible ML engineering pipeline, evaluate models against market odds, reject weak strategies honestly, and communicate the final candidate with walk-forward validation. It does not claim a guaranteed betting edge.
 
 ## License
 

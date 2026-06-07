@@ -20,6 +20,7 @@ const state = {
   simulator: null,
   strategyComparison: null,
   trainingPolicy: null,
+  projectSummary: null,
   activeStrategyId: null,
   diagnostics: null,
   valueBets: [],
@@ -130,6 +131,77 @@ function seasonMonthRange(season) {
   const startYear = Number(season.slice(0, 4));
   const endYear = startYear + 1;
   return { start: `${startYear}-08`, end: `${endYear}-07` };
+}
+
+
+function renderProjectStory() {
+  const payload = state.projectSummary || {};
+  const finalModel = payload.final_model || {};
+  const validation = payload.validation || {};
+  const aggregate = validation.expanding_walk_forward || {};
+  const bestSubset = validation.best_league_subset || {};
+  const bestSubsetAggregate = bestSubset.aggregate || {};
+  const testStatus = payload.test_status || {};
+
+  renderCards("story-kpis", [
+    ["Status", payload.status || "Portfolio complete"],
+    ["Final model", finalModel.name || "Market-aware XGBoost"],
+    ["Walk-forward ROI", formatPct(aggregate.roi ?? 0)],
+    ["Positive folds", `${aggregate.positive_roi_folds ?? 0} / ${aggregate.folds ?? 0}`],
+    ["Best league policy", bestSubset.name || finalModel.league_policy || "all_five"],
+    ["Tests", testStatus.latest_result || "Run pending"],
+  ]);
+
+  document.getElementById("story-status").textContent = payload.status || "Portfolio complete";
+  document.getElementById("story-validation-cards").innerHTML = (payload.validation_steps || []).map((item) => `
+    <div class="decision-card">
+      <span>${escapeHtml(item.step)}</span>
+      <strong>${escapeHtml(item.decision)}</strong>
+      <p>${escapeHtml(item.evidence)}</p>
+    </div>
+  `).join("");
+
+  renderLineChart("story-fold-chart", [
+    {
+      name: "Fold ROI",
+      points: (validation.folds || []).map((fold) => ({
+        label: fold.test_seasons?.[0] || "Fold",
+        value: Number(fold.value_bets?.overall?.roi ?? 0) * 100,
+      })),
+    },
+  ], { label: "Expanding walk-forward fold ROI" });
+
+  document.getElementById("story-model-body").innerHTML = (payload.model_decisions || []).map((row) => `
+    <tr>
+      <td>${escapeHtml(row.model)}</td>
+      <td><span class="decision-badge">${escapeHtml(row.decision)}</span></td>
+      <td>${escapeHtml(row.evidence)}</td>
+    </tr>
+  `).join("");
+
+  document.getElementById("story-league-body").innerHTML = (validation.league_subsets || []).map((subset) => {
+    const summary = subset.aggregate || {};
+    return `
+      <tr class="${Number(summary.roi || 0) >= 0 ? "win-row" : "loss-row"}">
+        <td>${escapeHtml(subset.name)}</td>
+        <td>${summary.bets ?? 0}</td>
+        <td>${formatCurrency((summary.profit ?? 0) * state.currentStake)}</td>
+        <td>${formatPct(summary.roi ?? 0)}</td>
+        <td>${summary.positive_roi_folds ?? 0} / ${summary.folds ?? 0}</td>
+      </tr>
+    `;
+  }).join("");
+
+  document.getElementById("story-production").innerHTML = `
+    <h3>Production Reading</h3>
+    <p>${escapeHtml(finalModel.production_semantics || "Retrain on completed matches, then score the next fixture batch.")}</p>
+    <dl class="detail-grid compact story-details">
+      <dt>Bet scope</dt><dd>${escapeHtml(finalModel.bet_scope || "Home and away wins only")}</dd>
+      <dt>History</dt><dd>${escapeHtml(payload.data_scope?.history_window || "2010-11 through 2025-26")}</dd>
+      <dt>Subset result</dt><dd>${escapeHtml(bestSubset.name || "all_five")} at ${formatPct(bestSubsetAggregate.roi ?? 0)}</dd>
+      <dt>Test command</dt><dd><code>${escapeHtml(testStatus.command || ".venv/bin/python -m unittest discover tests")}</code></dd>
+    </dl>
+  `;
 }
 
 function setupAnalytics() {
@@ -606,14 +678,16 @@ function renderSimulator() {
     ["Average edge", formatWholePct(summary.avg_edge_pct)],
   ].map(([label, value]) => `<dt>${escapeHtml(label)}</dt><dd>${escapeHtml(value)}</dd>`).join("");
 
-  document.getElementById("simulator-log-body").innerHTML = simulation.rows.slice(0, 250).map((row) => `
+  document.getElementById("simulator-log-body").innerHTML = simulation.rows.slice(0, 1000).map((row) => `
     <tr class="${row.won ? "win-row" : "loss-row"}">
       <td>${escapeHtml(row.date)}</td>
       <td>${escapeHtml(row.league)}</td>
       <td>${escapeHtml(`${row.home_team} vs ${row.away_team}`)}</td>
       <td>${escapeHtml(row.outcome)}</td>
       <td>${escapeHtml(row.result)}</td>
+      <td>${row.model_odds == null ? "-" : formatOdds(row.model_odds)}</td>
       <td>${formatOdds(row.book_odds)}</td>
+      <td>${escapeHtml(row.best_bookmaker || "-")}</td>
       <td>${formatCurrency(row.stake)}</td>
       <td>${formatCurrency(row.return)}</td>
       <td>${formatCurrency(row.profit)}</td>
@@ -629,12 +703,13 @@ async function init() {
 
   const status = document.getElementById("data-status");
   try {
-    const [analytics, backtest, simulator, strategyComparison, trainingPolicy, diagnostics, valueBets] = await Promise.all([
+    const [analytics, backtest, simulator, strategyComparison, trainingPolicy, projectSummary, diagnostics, valueBets] = await Promise.all([
       loadJson("data/league_analytics.json"),
       loadJson("data/backtest.json"),
       loadJson("data/simulator.json"),
       loadJson("data/strategy_comparison.json"),
       loadJson("data/training_policy.json"),
+      loadJson("data/project_summary.json"),
       loadJson("data/diagnostics.json"),
       loadJson("data/value_bets.json"),
     ]);
@@ -644,8 +719,10 @@ async function init() {
     state.simulator = simulator;
     state.strategyComparison = strategyComparison;
     state.trainingPolicy = trainingPolicy;
+    state.projectSummary = projectSummary;
     state.diagnostics = diagnostics;
     state.valueBets = valueBets;
+    renderProjectStory();
     setupAnalytics();
     renderBacktest();
     setupFilters(state.valueBets);

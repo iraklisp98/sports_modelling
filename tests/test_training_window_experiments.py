@@ -2,7 +2,7 @@ import unittest
 
 import pandas as pd
 
-from pipeline.training_window_experiments import aggregate_fold_results, expanding_train_window_for_test, recent_train_window_for_test, season_range, summarize_value_bets
+from pipeline.training_window_experiments import aggregate_fold_results, expanding_train_window_for_test, recent_train_window_for_test, season_range, summarize_value_bets, validate_league_subset, value_bet_records
 
 
 class TrainingWindowExperimentTests(unittest.TestCase):
@@ -34,6 +34,39 @@ class TrainingWindowExperimentTests(unittest.TestCase):
         self.assertAlmostEqual(aggregate["roi"], 0.0667)
         self.assertEqual(aggregate["positive_roi_folds"], 1)
         self.assertEqual(aggregate["negative_roi_folds"], 1)
+
+    def test_validate_league_subset_rejects_unknown_league(self):
+        self.assertEqual(validate_league_subset(["ENG", "SPA"]), ("ENG", "SPA"))
+        with self.assertRaisesRegex(ValueError, "Unknown leagues"):
+            validate_league_subset(["ENG", "NED"])
+
+
+    def test_value_bet_records_serializes_real_match_rows(self):
+        value_bets = pd.DataFrame(
+            [
+                {
+                    "RBallID": "ENG-1",
+                    "HomeTeam": "Arsenal",
+                    "AwayTeam": "Chelsea",
+                    "Date": pd.Timestamp("2021-08-08"),
+                    "Season": "2021-22",
+                    "League": "ENG",
+                    "Result": "H",
+                    "Outcome": "H",
+                    "ModelOdds": 1.9,
+                    "BestBookOdds": 2.2,
+                    "Edge": 0.1579,
+                    "BestBookmaker": "Bet365",
+                }
+            ]
+        )
+
+        records = value_bet_records(value_bets)
+
+        self.assertEqual(records[0]["Date"], "2021-08-08")
+        self.assertEqual(records[0]["League"], "ENG")
+        self.assertEqual(records[0]["HomeTeam"], "Arsenal")
+        self.assertEqual(records[0]["BestBookOdds"], 2.2)
 
     def test_summarize_value_bets_returns_overall_and_groups(self):
         value_bets = pd.DataFrame(

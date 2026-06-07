@@ -16,7 +16,8 @@
   </header>
 
   <nav class="tabs" aria-label="Dashboard sections">
-    <button class="tab-btn active" type="button" data-tab="analytics">League Analytics</button>
+    <button class="tab-btn active" type="button" data-tab="story">Project Story</button>
+    <button class="tab-btn" type="button" data-tab="analytics">League Analytics</button>
     <button class="tab-btn" type="button" data-tab="backtest">Backtest</button>
     <button class="tab-btn" type="button" data-tab="odds">Odds Inspector</button>
     <button class="tab-btn" type="button" data-tab="calibration">Calibration</button>
@@ -24,7 +25,65 @@
   </nav>
 
   <main>
-    <section id="analytics" class="tab-content active">
+    <section id="story" class="tab-content active">
+      <div class="panel story-panel">
+        <div class="section-heading">
+          <div>
+            <h2>Project Story</h2>
+            <p>Final model decision, validation ladder, rejected benchmarks, and production reading.</p>
+          </div>
+          <div class="status-pill story-status" id="story-status">Portfolio complete</div>
+        </div>
+        <div class="summary-row six" id="story-kpis"></div>
+        <div class="dashboard-grid two-col story-grid">
+          <div class="subpanel">
+            <h3>Validation Path</h3>
+            <div class="decision-grid" id="story-validation-cards"></div>
+          </div>
+          <div class="subpanel">
+            <h3>Walk-forward Fold ROI</h3>
+            <div id="story-fold-chart" class="chart-box compact-chart"></div>
+          </div>
+        </div>
+        <div class="dashboard-grid two-col story-grid">
+          <div class="subpanel table-panel">
+            <h3>Model Decisions</h3>
+            <div class="table-wrap">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Model</th>
+                    <th>Decision</th>
+                    <th>Evidence</th>
+                  </tr>
+                </thead>
+                <tbody id="story-model-body"></tbody>
+              </table>
+            </div>
+          </div>
+          <div class="subpanel table-panel">
+            <h3>League Subset Audit</h3>
+            <div class="table-wrap">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Subset</th>
+                    <th>Bets</th>
+                    <th>Profit</th>
+                    <th>ROI</th>
+                    <th>Positive folds</th>
+                  </tr>
+                </thead>
+                <tbody id="story-league-body"></tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+        <div class="subpanel story-note" id="story-production"></div>
+      </div>
+    </section>
+
+    <section id="analytics" class="tab-content">
       <div class="panel">
         <div class="section-heading">
           <div>
@@ -292,7 +351,9 @@
                   <th>Match</th>
                   <th>Bet</th>
                   <th>Result</th>
-                  <th>Odds</th>
+                  <th>Model odds</th>
+                  <th>Best book odds</th>
+                  <th>Bookmaker</th>
                   <th>Stake</th>
                   <th>Return</th>
                   <th>Profit</th>

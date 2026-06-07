@@ -2,373 +2,335 @@
 
 ## Overview
 
-This project is a **batch ML pipeline** that processes historical football match data, trains a match outcome prediction model, compares model-implied odds against bookmaker odds, and surfaces the results through a static dashboard.
+This repository is a batch ML engineering project for football odds research. It downloads historical Football-Data.co.uk match and bookmaker-odds CSVs, turns them into typed Parquet datasets, engineers leakage-safe pre-match features, trains and tracks model candidates, compares model-implied odds against bookmaker odds, and publishes the results through a static dashboard.
 
-The build is organised into seven stages. Pipeline stages communicate exclusively through files — no stage calls another stage's code directly. This means any stage can be rerun, replaced, or debugged in isolation. Stage 6 is the static dashboard and Stage 7 is Docker packaging.
+The key architectural choice is file-based stage isolation. Each stage reads a documented input artifact and writes a documented output artifact. That makes the pipeline reproducible, debuggable, and easy to extend without hiding logic inside notebooks.
 
----
+## Final Model Story
 
-## System Diagram
+The completed project should be presented as a **sports betting model research pipeline**, not as a guaranteed profitable betting system.
 
-```
-┌──────────────────────────────────────────────────────────────────────┐
-│                          DATA SOURCES                                │
-│                                                                      │
-│   Football-Data.co.uk season CSVs                                  │
-│   E0 Premier League · SP1 La Liga · F1 Ligue 1 · D1 Bundesliga · I1 Serie A · 2010-11 to 2025-26 │
-└───────────────────────────────┬──────────────────────────────────────┘
-                                │
-                                ▼
-┌──────────────────────────────────────────────────────────────────────┐
-│  STAGE 1 — Ingest & Clean                  pipeline/stage1_ingest.py │
-│                                                                      │
-│  Tools: pandas · requests                                            │
-│  • Download missing Football-Data season CSVs into a local cache      │
-│  • Parse dates, assign season labels                                 │
-│  • Normalize result/stat columns into the match-level contract        │
-│  • Generate deterministic match IDs and deduplicate fixtures          │
-│  • Validate schema, emit data quality report                         │
-│                                                                      │
-│  Output: data/processed/{ENG,FRA,GER,ITA,SPA}.parquet                        │
-└───────────────────────────────┬──────────────────────────────────────┘
-                                │  Parquet (match-level, fixed schema)
-                                ▼
-┌──────────────────────────────────────────────────────────────────────┐
-│  STAGE 2 — Feature Engineering            pipeline/stage2_features.py│
-│                                                                      │
-│  Tool: pandas                                                        │
-│  • Compute dynamic ELO ratings per team (updated after each match)   │
-│  • Rolling 5-match form features (goals, corners, points)            │
-│  • Season win rates (no data leakage — always computed before match) │
-│  • Encode target: H=0, D=1, A=2                                      │
-│                                                                      │
-│  Output: data/features/{ENG,FRA,GER,ITA,SPA}_features.parquet                │
-└───────────────────────────────┬──────────────────────────────────────┘
-                                │  Parquet (feature-enriched)
-                                ▼
-┌──────────────────────────────────────────────────────────────────────┐
-│  STAGE 3 — Model Training                   pipeline/stage3_train.py │
-│                                                                      │
-│  Tools: XGBoost · Optuna · MLflow                                    │
-│  • Combine all five leagues into one training dataset                 │
-│  • Time-aware split: train before 2019–20, hold out 2019–20          │
-│  • Optuna tunes hyperparameters (50 trials, minimise log loss)       │
-│  • Final model trained, evaluated (log loss, Brier, accuracy, F1)   │
-│  • Market-aware features can add normalized bookmaker probabilities │
-│  • All params, metrics, and artifacts logged to MLflow               │
-│  • Best model registered in MLflow Model Registry → "Production"    │
-│                                                                      │
-│  Output: mlruns/ (experiment tracking + model artifact)              │
-└───────────────────────────────┬──────────────────────────────────────┘
-                                │  MLflow Model Registry
-                                │
-┌──────────────────────────────────────────────────────────────────────┐
-│  MODEL IMPROVEMENT BENCHMARK       pipeline/poisson_goal_model.py    │
-│                                                                      │
-│  Tool: sklearn PoissonRegressor                                      │
-│  • Train separate expected-goals models for home and away goals      │
-│  • Convert expected goals into a Poisson scoreline grid              │
-│  • Derive P(Home), P(Draw), P(Away) from scoreline probabilities     │
-│  • Compare holdout log loss/Brier/F1 against calibrated XGBoost      │
-│                                                                      │
-│  Output: data/output/poisson_model_odds.parquet                      │
-│          data/model_artifacts/poisson_goal_model/                    │
-└───────────────────────────────┬──────────────────────────────────────┘
-                                │  Same probability/odds contract
-                                ▼
-┌──────────────────────────────────────────────────────────────────────┐
-│  STAGE 4 — Odds Generation                pipeline/stage4_odds_gen.py│
-│                                                                      │
-│  Tools: MLflow (load) · pandas                                       │
-│  • Load Production model from MLflow registry                        │
-│  • Run inference on feature dataset                                  │
-│  • Convert P(H), P(D), P(A) → decimal odds (1/p)                    │
-│  • Validate: probabilities sum to 1.0 ± 0.001                        │
-│                                                                      │
-│  Output: data/output/model_odds.parquet                              │
-└───────────────────────────────┬──────────────────────────────────────┘
-                                │  Parquet (model-implied odds)
-                                ▼
-┌──────────────────────────────────────────────────────────────────────┐
-│  STAGE 5 — Odds Comparison                pipeline/stage5_compare.py │
-│                                                                      │
-│  Tools: Football-Data CSVs · pandas · requests                       │
-│  • Download historical Football-Data season CSVs when missing        │
-│  • Match normalised home/away team names and match date                │
-│  • For each home/away outcome: edge = (best_book_odds / model_odds) - 1│
-│  • Apply probability, odds-range, and max-edge sanity filters        │
-│  • Flag home/away value bets where edge >= 10% and filters pass      │
-│                                                                      │
-│  Output: data/output/value_bets.parquet                              │
-│          dashboard/data/value_bets.json                              │
-└───────────────────────────────┬──────────────────────────────────────┘
-                                │  JSON
-                                ▼
-┌──────────────────────────────────────────────────────────────────────┐
-│  EXPORT                     pipeline/export_dashboard_data.py        │
-│                                                                      │
-│  • Reads all Parquet outputs and mlruns/                             │
-│  • Writes four JSON files to dashboard/data/                         │
-│                                                                      │
-│  Output: dashboard/data/league_analytics.json                        │
-│          dashboard/data/backtest.json                                │
-│          dashboard/data/value_bets.json   (already written above)    │
-│          dashboard/data/simulator.json                               │
-└───────────────────────────────┬──────────────────────────────────────┘
-                                │  JSON (pre-computed, static)
-                                ▼
-┌──────────────────────────────────────────────────────────────────────┐
-│  STAGE 6 — Dashboard                                   dashboard/    │
-│                                                                      │
-│  Stack: HTML · CSS · JavaScript · native SVG/CSS charts · nginx (Docker)          │
-│  • Tab 1: League Analytics — trends, team leaderboards               │
-│  • Tab 2: Backtest Performance — metrics, equity curve, conf. matrix │
-│  • Tab 3: Odds Inspector — filterable value bet table + modal        │
-│  • Tab 4: Betting Simulator — configurable stake, P&L, drawdown      │
-│                                                                      │
-│  Served at: http://localhost:8080                                     │
-└──────────────────────────────────────────────────────────────────────┘
+Final candidate:
+
+- Model: market-aware XGBoost value strategy.
+- Training policy: expanding annual walk-forward retraining.
+- League policy: all five leagues retained.
+- Bet scope: home and away wins only; draws remain probability outputs but are not value-bet actions.
+- Production interpretation: retrain on all completed matches available up to the current date, then score the next fixture batch. The season-level walk-forward experiment is the historical proxy for that production policy.
+
+Validation summary:
+
+| Experiment | Result | Decision |
+|---|---:|---|
+| Static pre-2019 split | Useful but too narrow | Baseline only |
+| Frozen XGBoost simulator | +0.19% ROI | Comparison only |
+| Full forward Poisson benchmark | -6.92% ROI | Benchmark only |
+| Full forward mispricing model | -16.52% ROI | Rejected as lead strategy |
+| Recent-window walk-forward | -3.29% ROI | Rejected training policy |
+| Expanding annual walk-forward | +5.47% ROI, 3/5 positive folds | Final dashboard default |
+| League subset audit | all_five best ROI | Keep full five-league training pool |
+
+## System Flow
+
+```text
+Football-Data.co.uk CSVs
+        |
+        v
+Stage 1: Ingest & Clean
+        -> data/processed/{ENG,SPA,FRA,GER,ITA}.parquet
+        |
+        v
+Stage 2: Feature Engineering
+        -> data/features/{ENG,SPA,FRA,GER,ITA}_features.parquet
+        |
+        v
+Stage 3: XGBoost Training + MLflow
+        -> mlruns/ and data/model_artifacts/stage3/
+        |
+        +--> Benchmark/experiment layers
+        |    -> poisson_goal_model.py
+        |    -> mispricing_model.py
+        |    -> market_baseline_diagnostics.py
+        |    -> training_window_experiments.py
+        |
+        v
+Stage 4: Odds Generation
+        -> data/output/model_odds.parquet
+        |
+        v
+Stage 5: Odds Comparison
+        -> data/output/value_bets.parquet
+        |
+        v
+Dashboard Export
+        -> dashboard/data/*.json
+        |
+        v
+Static Dashboard
+        -> dashboard/index.html served directly or by nginx
 ```
 
----
+## Stage Contracts
+
+### Stage 1 - Ingest & Clean
+
+Script: `pipeline/stage1_ingest.py`
+
+Inputs:
+
+- Cached or downloaded Football-Data CSVs for `ENG`, `SPA`, `FRA`, `GER`, `ITA`.
+- Default season range: `2010-11` through `2025-26`.
+
+Outputs:
+
+- `data/processed/{league}.parquet`
+- Match-level schema with `RBallID`, teams, date, season, goals, result, corners, shots, fouls, offsides, and bookmaker odds where available.
+
+Purpose:
+
+- Normalize raw CSV differences into one contract.
+- Deduplicate fixtures and assign deterministic IDs.
+- Keep raw-source ingestion separate from modelling.
+
+### Stage 2 - Feature Engineering
+
+Script: `pipeline/stage2_features.py`
+
+Outputs:
+
+- `data/features/{league}_features.parquet`
+
+Feature families:
+
+- Pre-match ELO.
+- Rolling 5-match goals, goals conceded, points, corners, shots on target, fouls, offsides.
+- Venue-specific form.
+- Rest days and fixture congestion.
+- Season-to-date win rates.
+- League indicators.
+
+Leakage rule:
+
+Every rolling feature is shifted before the current match. The row describes what was known before kick-off, not what happened in the match.
+
+### Stage 3 - Model Training
+
+Script: `pipeline/stage3_train.py`
+
+Tools:
+
+- XGBoost for tabular classification.
+- Optuna for hyperparameter search.
+- MLflow for experiment tracking and model artifacts.
+
+Outputs:
+
+- `mlruns/`
+- `data/model_artifacts/stage3/metrics.json`
+- `data/model_artifacts/stage3/holdout_predictions.parquet`
+
+Main point:
+
+The pipeline tracks probability quality, not just accuracy. Log loss and Brier score matter because betting decisions depend on calibrated probabilities.
+
+### Benchmark And Diagnostic Layers
+
+These scripts are not decorative. They explain why the final model was selected.
+
+| Script | Role |
+|---|---|
+| `pipeline/poisson_goal_model.py` | Football-specific expected-goals benchmark converted into 1X2 odds |
+| `pipeline/mispricing_model.py` | Second-stage market-disagreement bet selector, retained as a rejected benchmark |
+| `pipeline/market_baseline_diagnostics.py` | Compares model probabilities against normalized bookmaker-implied probabilities |
+| `pipeline/model_diagnostics.py` | Calibration buckets, odds buckets, actual result rates, flat-stake ROI |
+| `pipeline/compare_value_bet_models.py` | Strategy-level comparison across XGBoost, Poisson, and mispricing outputs |
+| `pipeline/training_window_experiments.py` | Split policy, expanding walk-forward, recent-window, and league-subset experiments |
+
+The most important artifact from this layer is:
+
+- `data/model_artifacts/expanding_walk_forward_training_window.json`
+
+That artifact is what turns the model story from "one backtest looked good" into "we tested a production-like retraining policy across seasons".
+
+### Stage 4 - Odds Generation
+
+Script: `pipeline/stage4_odds_gen.py`
+
+Outputs:
+
+- `data/output/model_odds.parquet`
+
+Contract:
+
+- `P_Home`, `P_Draw`, `P_Away`
+- `ModelOdds_Home`, `ModelOdds_Draw`, `ModelOdds_Away`
+
+Probabilities are validated to sum to 1 within tolerance. Decimal odds are derived as `1 / probability` after numerical hygiene.
+
+### Stage 5 - Odds Comparison
+
+Script: `pipeline/stage5_compare.py`
+
+Outputs:
+
+- `data/output/value_bets.parquet`
+- strategy-specific benchmark value-bet files when generated.
+
+Value-bet rule:
+
+```text
+edge = (best_bookmaker_odds / model_implied_odds) - 1
+value bet = edge >= 10%
+```
+
+Current policy:
+
+- Only home and away outcomes are surfaced as actionable bets.
+- Draws are excluded from value-bet selection because they were unstable and less frequent, but their probabilities remain visible in model odds.
+- Sanity filters remove extreme long-shot odds and unrealistic edge outliers.
+
+### Dashboard Export
+
+Script: `pipeline/export_dashboard_data.py`
+
+Outputs:
+
+- `dashboard/data/league_analytics.json`
+- `dashboard/data/backtest.json`
+- `dashboard/data/value_bets.json`
+- `dashboard/data/simulator.json`
+- `dashboard/data/strategy_comparison.json`
+- `dashboard/data/training_policy.json`
+- `dashboard/data/project_summary.json`
+- `dashboard/data/diagnostics.json`
+
+The export stage is the dashboard boundary. The browser does not import Python, load Parquet, call MLflow, or run models.
+
+### Stage 6 - Dashboard
+
+Directory: `dashboard/`
+
+Tabs:
+
+- Project Story: the executive validation narrative.
+- League Analytics: league and team summaries.
+- Backtest: model metrics and MLflow comparison.
+- Odds Inspector: filterable value-bet table and modal.
+- Calibration: odds bucket diagnostics.
+- Simulator: bankroll replay, strategy comparison, and expanding retraining robustness.
+
+The dashboard is deliberately static. For a portfolio project this is stronger than a backend that adds moving parts without adding value.
+
+### Stage 7 - Docker
+
+Directory: `docker/`
+
+Services:
+
+- `pipeline`: one-shot Python batch container.
+- `dashboard`: nginx static server.
+
+Run:
+
+```bash
+docker compose up --build
+```
+
+Dashboard URL:
+
+```text
+http://localhost:8080
+```
+
+MLflow file-store handling:
+
+The Docker setup keeps MLflow inside the container path instead of bind-mounting a host `mlruns/` directory, because file-store artifact metadata can contain absolute paths that break across host/container boundaries.
 
 ## Data Contracts
 
-Each stage communicates with the next via a file with a defined schema. No stage imports code from another stage.
+### Match Feature Contract
 
-### Stage 1 → Stage 2: Match-level Parquet
+Important columns flowing from Stage 2 into model training:
 
-| Column | Type | Description |
-|---|---|---|
-| `RBallID` | string | Unique match ID |
-| `HomeTeam` | string | Home team name |
-| `AwayTeam` | string | Away team name |
-| `Date` | date | Match date |
-| `Season` | string | e.g. `"2017-18"` |
-| `HomeGoals` | int | Goals scored by home team |
-| `AwayGoals` | int | Goals scored by away team |
-| `HomeCorners` | int | Corners won by home team |
-| `AwayCorners` | int | Corners won by away team |
-| `HomeShotsOnTarget` | int | |
-| `AwayShotsOnTarget` | int | |
-| `HomeFouls` | int | |
-| `AwayFouls` | int | |
-| `HomeOffsides` | int | |
-| `AwayOffsides` | int | |
+| Column | Meaning |
+|---|---|
+| `RBallID` | Stable match identifier |
+| `Date`, `Season`, `League` | Time and competition identity |
+| `HomeTeam`, `AwayTeam` | Fixture teams |
+| `Result`, `ResultCode` | Target label |
+| `HomeElo`, `AwayElo`, `EloDiff` | Pre-match team strength |
+| `*_Last5` | Rolling recent form, shifted to avoid leakage |
+| `HomeRestDays`, `AwayRestDays` | Recovery proxy |
+| `HomeMatchesLast14Days`, `AwayMatchesLast14Days` | Congestion proxy |
+| `League_*` | League indicators |
 
-### Stage 2 → Stages 3 & 4: Feature-enriched Parquet
+### Value Bet Contract
 
-All columns from Stage 1 output, plus:
+| Column | Meaning |
+|---|---|
+| `RBallID` | Match identifier |
+| `League`, `Season`, `Date` | Context |
+| `HomeTeam`, `AwayTeam` | Fixture |
+| `Result` | Actual result |
+| `Outcome` | Flagged outcome, `H` or `A` |
+| `ModelOdds` | Model-implied decimal odds |
+| `BestBookOdds` | Best available bookmaker odds |
+| `Edge` | `(BestBookOdds / ModelOdds) - 1` |
+| `BestBookmaker` | Book offering the best price |
 
-| Column | Type | Description |
-|---|---|---|
-| `Result` | string | `H` / `D` / `A` |
-| `ResultCode` | int | `0` / `1` / `2` |
-| `HomeElo` | float | Home team ELO before kick-off |
-| `AwayElo` | float | Away team ELO before kick-off |
-| `EloDiff` | float | `HomeElo - AwayElo` |
-| `AbsEloDiff` | float | Absolute ELO gap for draw/closeness signal |
-| `HomeGoals_Last5` | float | Rolling 5-match avg goals (home) |
-| `AwayGoals_Last5` | float | Rolling 5-match avg goals (away) |
-| `AbsGoalsLast5Diff` | float | Absolute recent-goals gap |
-| `HomeGoalsAgainst_Last5`, `AwayGoalsAgainst_Last5` | float | Rolling defensive goals conceded |
-| `HomeShotsOnTargetFor_Last5`, `AwayShotsOnTargetFor_Last5` | float | Rolling shot pressure created |
-| `HomeShotsOnTargetAgainst_Last5`, `AwayShotsOnTargetAgainst_Last5` | float | Rolling shot pressure conceded |
-| `HomeCornersAgainst_Last5`, `AwayCornersAgainst_Last5` | float | Rolling corner pressure conceded |
-| `HomeCorners_Last5` | float | Rolling 5-match avg corners (home) |
-| `AwayCorners_Last5` | float | Rolling 5-match avg corners (away) |
-| `HomePoints_Last5` | float | Rolling 5-match avg points (home) |
-| `AwayPoints_Last5` | float | Rolling 5-match avg points (away) |
-| `AbsPointsLast5Diff` | float | Absolute recent-points gap |
-| `HomeDrawRate_Last5` | float | Rolling 5-match draw rate (home team) |
-| `AwayDrawRate_Last5` | float | Rolling 5-match draw rate (away team) |
-| `AvgDrawRateLast5` | float | Average recent draw tendency between teams |
-| `AbsDrawRateLast5Diff` | float | Absolute recent draw-rate gap |
-| `HomeWinRate_Season` | float | Season win rate to date (home) |
-| `AwayWinRate_Season` | float | Season win rate to date (away) |
-| `HomeVenuePoints_Last5`, `AwayVenuePoints_Last5` | float | Venue-specific recent form |
-| `HomeRestDays`, `AwayRestDays` | float | Days since each team last played |
-| `HomeMatchesLast14Days`, `AwayMatchesLast14Days` | float | Fixture congestion proxy |
-| `League_ENG` | float | One-hot league indicator |
-| `League_SPA` | float | One-hot league indicator |
-| `League_FRA` | float | One-hot league indicator |
-| `League_GER` | float | One-hot league indicator |
-| `League_ITA` | float | One-hot league indicator |
+## Testing Strategy
 
-### Stage 4 → Stage 5: Model odds Parquet
+The test suite protects contracts rather than only checking implementation details.
 
-| Column | Type | Description |
-|---|---|---|
-| `RBallID` | string | Match ID |
-| `HomeTeam` | string | |
-| `AwayTeam` | string | |
-| `Date` | date | |
-| `Season` | string | |
-| `Result` | string | Actual result |
-| `P_Home` | float | Model probability of home win |
-| `P_Draw` | float | Model probability of draw |
-| `P_Away` | float | Model probability of away win |
-| `ModelOdds_Home` | float | `1 / P_Home` |
-| `ModelOdds_Draw` | float | `1 / P_Draw` |
-| `ModelOdds_Away` | float | `1 / P_Away` |
+Coverage areas:
 
-### Stage 5 → Dashboard: Value bets Parquet + JSON
+- CSV ingestion and season handling.
+- Leakage-safe feature generation.
+- Model feature lists and market feature construction.
+- Stage 3 training utilities.
+- Odds generation and comparison rules.
+- Calibration and market diagnostics.
+- Poisson, mispricing, and value-bet comparison artifacts.
+- Training-window experiments.
+- Dashboard JSON export contracts.
+- Static dashboard wiring.
+- Docker configuration.
 
-| Column | Type | Description |
-|---|---|---|
-| `RBallID` | string | Match ID |
-| `HomeTeam` | string | |
-| `AwayTeam` | string | |
-| `Date` | date | |
-| `Season` | string | |
-| `League` | string | Matched league code (`ENG`, `SPA`, `FRA`, `GER`, `ITA`) |
-| `Result` | string | Actual result |
-| `Outcome` | string | The flagged home/away outcome (`H` / `A`) |
-| `ModelOdds` | float | Model-implied odds for this outcome |
-| `BestBookOdds` | float | Best available bookmaker odds |
-| `Edge` | float | `(BestBookOdds / ModelOdds) - 1` |
-| `ValueBet` | bool | Always `True` in this file |
-| `BestBookmaker` | string | Bookmaker offering best odds |
+Final verification command:
 
----
-
-## Technology Choices
-
-| Component | Technology | Alternative considered | Reason for choice |
-|---|---|---|---|
-| Ingestion | pandas + requests | manual CSV download | Reproducible source download plus simple normalization into the pipeline contract |
-| Intermediate storage | Parquet | CSV | Columnar, schema-enforced, faster reads, industry standard |
-| Feature engineering | pandas | PySpark | ELO is sequential and stateful; pandas is simpler for this |
-| Model | XGBoost | LightGBM, Logistic Regression | Best tabular baseline; handles NaN natively |
-| Model benchmark | Poisson expected-goals model | More XGBoost feature tuning | Football-specific, interpretable benchmark that derives 1X2 probabilities from scorelines |
-| Hyperparameter tuning | Optuna | GridSearchCV | Bayesian optimisation; far fewer trials needed |
-| Experiment tracking | MLflow | Weights & Biases | Open source, local-first, no account required |
-| Match and odds data | Football-Data.co.uk CSVs | Live odds API | Historical results and bookmaker odds are required for reproducible backtesting |
-| Team name matching | Normalised exact match | Fuzzy matching | Deterministic date, home-team, and away-team matching is safer for this historical CSV join |
-| Dashboard | HTML / CSS / JavaScript with native SVG/CSS charts | Flask + Jinja | No backend needed; pipeline pre-computes everything |
-| Dashboard server | nginx | Python http.server | Production-grade static file server |
-| Containerisation | Docker + Compose | bare Python scripts | One-command reproducibility on any machine |
-
----
-
-## Key Design Principles
-
-### 1. Stages communicate via files, not function calls
-No stage imports code from another stage. Each reads its input file, does its work, and writes its output file. This means:
-- Any stage can be rerun independently
-- A failed stage doesn't corrupt earlier outputs
-- Swapping a stage's implementation only requires keeping the same output schema
-
-### 2. Data contracts are the interface
-The Parquet schema between stages is the only coupling between them. As long as Stage 1 writes the same column names and types, Stage 2 doesn't care whether the source was CSVs, an API, or a database. This is how Phase 2 replaces Stage 1 without touching anything else.
-
-### 3. No data leakage by construction
-All rolling features are computed with `.shift(1)` before the window. ELO ratings stored at row `i` reflect ratings before match `i`. Win rates are computed from matches strictly before the current match date. This isn't a convention — it's enforced in the feature engineering logic.
-
-### 4. The dashboard is decoupled from the pipeline
-The dashboard reads static JSON files. It does not call the pipeline, query a database, or load a model. This means the dashboard works without any Python environment — just nginx. It also means the pipeline can be rerun without restarting the dashboard.
-
-### 5. Secrets never touch the codebase
-Stage 1 and Stage 5 use public Football-Data.co.uk CSVs and do not require an API key. Future live-odds integrations should keep any secrets in `.env`, outside the codebase.
-
----
-
-## Planned Directory Layout
-
-```
-sports_modelling/
-│
-├── data/
-│   ├── ENG/                        # Raw per-match CSVs (~950 files)
-│   ├── FRA/                        # Raw per-match CSVs (~940 files)
-│   ├── SPA/                        # Legacy local event CSVs (optional fallback)
-│   ├── processed/                  # Stage 1 output — Parquet per league
-│   ├── features/                   # Stage 2 output — feature-enriched Parquet
-│   ├── output/                     # Stage 4 & 5 output — odds + value bets
-│   └── bookmaker_odds/football_data/ # Cached Football-Data match/odds CSVs
-│
-├── pipeline/
-│   ├── stage1_ingest.py            # Football-Data CSV download -> Parquet
-│   ├── stage2_features.py          # ELO + rolling features
-│   ├── stage3_train.py             # XGBoost + Optuna + MLflow
-│   ├── stage4_odds_gen.py          # Model inference -> implied odds
-│   ├── stage5_compare.py           # Football-Data odds + value bet flagging
-│   ├── model_diagnostics.py        # Calibration + value-bet bucket diagnostics
-│   ├── export_dashboard_data.py    # Parquet -> JSON for dashboard
-│   └── run_pipeline.py             # Orchestrates all stages in order
-│
-├── dashboard/
-│   ├── index.html                  # Single-page app
-│   ├── css/
-│   ├── js/
-│   │   ├── main.js                 # Tab routing + data loading
-│   │   ├── main.js                 # Static dashboard renderers
-│   │   └── simulator.js            # Betting simulator logic
-│   └── data/                       # Pre-computed JSON (written by pipeline)
-│
-├── mlruns/                         # Local MLflow tracking store
-│
-├── docker/
-│   ├── Dockerfile.pipeline
-│   ├── Dockerfile.dashboard
-│   ├── nginx.conf
-│   └── docker-compose.yml
-│
-├── config/                      # Planned
-│   └── settings.yaml               # Thresholds, API config, league keys
-│
-├── tests/
-│   ├── test_features.py
-│   ├── test_odds_comparison.py
-│   └── test_pipeline_integration.py
-│
-├── analysis/
-│   └── descriptive.ipynb           # EDA only — not part of the pipeline
-│
-├── models/
-│   └── training.ipynb              # Original model exploration
-│
-├── docs/
-│   └── ai/
-│       ├── ARCHITECTURE.md         # This file
-│       ├── PRD.md                  # Product requirements
-│       ├── TASKS.md                # Canonical task status
-│       └── tasks/                  # Step-by-step build guides
-├── .venv/                          # Virtual environment (not committed)
-├── .env                            # Secrets (not committed)
-├── .gitignore
-├── requirements.txt
-├── AGENTS.md                       # Tutor instructions
-├── README.md
-└── LICENSE
+```bash
+python -m unittest discover tests
 ```
 
----
+Latest result: 153 tests OK, 1 skipped. `pytest` can run the same tests if installed, but the repo does not require it for the current suite.
+
+## Why This Is Portfolio-Ready
+
+A hiring manager should be able to see these signals quickly:
+
+- The notebooks are no longer the product; the product is a staged pipeline.
+- Parquet contracts separate data engineering from modelling.
+- MLflow makes experiments reproducible.
+- Calibration and market-baseline diagnostics prevent false confidence.
+- Benchmarks are kept even when they lose.
+- Walk-forward validation tests production-like retraining behavior.
+- The dashboard tells the model story honestly instead of hiding weak results.
+- Docker gives a one-command runtime path.
 
 ## Phase 2 Evolution
 
-Phase 2 replaces the static CSV source with live API ingestion. The diagram below shows what changes (highlighted) vs what stays the same.
+The next realistic extension is live ingestion and scheduled retraining.
 
-```
-Phase 1 (current)              Phase 2 (future)
-─────────────────              ────────────────
-Football-Data CSVs       ->    Football Data API (daily pull)
-Stage 1: Football-Data CSV download → Stage 1: API client + DB write
-                               + PostgreSQL / S3 storage
-                               + Airflow DAG (replaces run_pipeline.py)
-                               + Scheduled daily runs
+Phase 1:
 
-Stages 2–6: unchanged     →    Stages 2–6: unchanged
+```text
+Football-Data historical CSVs -> local batch pipeline -> static dashboard
 ```
 
-Only Stage 1 changes. Everything from Stage 2 onwards reads the same Parquet schema and is completely unaffected by the source format change. This is the direct consequence of the data contract design.
+Phase 2:
 
+```text
+Live football/odds API -> scheduled ingestion -> database or object storage -> retraining job -> static or API-backed dashboard
+```
 
-## Market Mispricing Layer
-
-`pipeline/mispricing_model.py` is a second-stage H/A bet-selection experiment. It does not predict the full match result directly. Instead, it builds one candidate row for each home and away price, uses market probability plus team-strength disagreement features, and predicts whether the offered price has positive expected value. The EV cutoff is selected with rolling pre-holdout validation folds from `2015-16` through `2018-19`, separately for home and away outcomes. By default, the best threshold is kept for each home/away outcome so both sides remain visible for research and later tuning. Positive average ROI and worst-fold ROI are retained in diagnostics so fragile thresholds can be reviewed without hiding them. An explicit away EV floor keeps away bets only when the predicted mispricing signal is much stronger than the rolling-validation cutoff. The selected thresholds are applied unchanged to `2019-20` onward. Outputs are written separately to `data/output/mispricing_value_bets.parquet` and `data/model_artifacts/mispricing_model/` so the strategy can be compared against XGBoost, market-aware XGBoost, and Poisson without changing Stage 5 thresholds.
-
-
-## Portfolio Completion Note
-
-As of the final five-league run, the repository should be presented as a complete sports modelling and betting-strategy research pipeline, not as a guaranteed profitable betting system. The important portfolio signals are the reproducible batch architecture, leakage-safe rolling features, MLflow-tracked training, benchmark model comparison, calibration diagnostics, Docker packaging, and a dashboard that reports strategy results honestly. The current mispricing strategy keeps both home and away candidates visible; home bets are the main profit source, while away bets use a stricter EV floor and remain a tuning target.
+The architecture is ready for that because Stage 2 and later depend on schemas, not on where Stage 1 got the data.

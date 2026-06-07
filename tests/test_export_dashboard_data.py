@@ -10,8 +10,11 @@ from pipeline.export_dashboard_data import (
     build_league_analytics,
     build_mlflow_runs,
     load_diagnostics,
+    load_league_subset_policy,
     load_training_policy,
+    build_project_summary,
     build_simulator,
+    build_training_policy_strategy,
     build_strategy_comparison,
     filter_holdout_value_bets,
     run_pipeline,
@@ -126,6 +129,29 @@ class ExportDashboardDataTests(unittest.TestCase):
 
 
 
+
+    def test_build_training_policy_strategy_replays_expanding_walk_forward_summary(self):
+        training_policy = {
+            "available": True,
+            "aggregate": {"bets": 3, "wins": 2, "profit": 1.5, "roi": 0.5, "hit_rate": 2 / 3},
+            "folds": [
+                {
+                    "test_seasons": ["2021-22"],
+                    "value_bets": {"overall": {"bets": 3, "wins": 2, "profit": 1.5, "roi": 0.5, "hit_rate": 2 / 3}},
+                }
+            ],
+        }
+
+        strategy = build_training_policy_strategy(training_policy, stake=10.0)
+
+        self.assertEqual(strategy["id"], "expanding_walk_forward_xgboost")
+        self.assertEqual(strategy["summary"]["total_bets"], 3)
+        self.assertEqual(strategy["summary"]["wins"], 2)
+        self.assertEqual(strategy["summary"]["total_profit"], 15.0)
+        self.assertEqual(strategy["summary"]["roi_pct"], 50.0)
+        self.assertTrue(strategy["synthetic"])
+        self.assertEqual(len(strategy["bets"]), 3)
+
     def test_build_strategy_comparison_ranks_available_strategy_simulators(self):
         strategies = {
             "xgboost_value": sample_value_bets(),
@@ -138,6 +164,78 @@ class ExportDashboardDataTests(unittest.TestCase):
         self.assertEqual({row["id"] for row in payload["strategies"]}, {"xgboost_value", "mispricing_model"})
         self.assertTrue(all("summary" in row and "bets" in row for row in payload["strategies"]))
         self.assertGreaterEqual(payload["strategies"][0]["summary"]["roi_pct"], payload["strategies"][-1]["summary"]["roi_pct"])
+
+
+
+    def test_build_training_policy_strategy_uses_real_value_bet_records_when_available(self):
+        training_policy = {
+            "available": True,
+            "aggregate": {"bets": 2, "wins": 1, "profit": 1.2, "roi": 0.6, "hit_rate": 0.5},
+            "folds": [
+                {
+                    "test_seasons": ["2021-22"],
+                    "value_bets": {"overall": {"bets": 2, "wins": 1, "profit": 1.2, "roi": 0.6, "hit_rate": 0.5}},
+                    "value_bet_records": [
+                        {
+                            "RBallID": "ENG-1",
+                            "HomeTeam": "Arsenal",
+                            "AwayTeam": "Chelsea",
+                            "Date": "2021-08-13",
+                            "Season": "2021-22",
+                            "League": "ENG",
+                            "Result": "H",
+                            "Outcome": "H",
+                            "ModelOdds": 1.8,
+                            "BestBookOdds": 2.2,
+                            "Edge": 0.22,
+                            "BestBookmaker": "Bet365",
+                        },
+                        {
+                            "RBallID": "SPA-1",
+                            "HomeTeam": "Sevilla",
+                            "AwayTeam": "Valencia",
+                            "Date": "2021-08-14",
+                            "Season": "2021-22",
+                            "League": "SPA",
+                            "Result": "A",
+                            "Outcome": "H",
+                            "ModelOdds": 2.0,
+                            "BestBookOdds": 2.4,
+                            "Edge": 0.2,
+                            "BestBookmaker": "Pinnacle",
+                        },
+                    ],
+                }
+            ],
+        }
+
+        strategy = build_training_policy_strategy(training_policy, stake=10.0)
+
+        self.assertFalse(strategy["synthetic"])
+        self.assertEqual(strategy["bets"][0]["date"], "2021-08-13")
+        self.assertEqual(strategy["bets"][0]["league"], "ENG")
+        self.assertEqual(strategy["bets"][0]["home_team"], "Arsenal")
+        self.assertEqual(strategy["bets"][0]["book_odds"], 2.2)
+        self.assertEqual(strategy["summary"]["total_profit"], 2.0)
+
+    def test_build_strategy_comparison_uses_training_policy_as_primary_when_available(self):
+        strategies = {"xgboost_value": sample_value_bets()}
+        training_policy = {
+            "available": True,
+            "aggregate": {"bets": 3, "wins": 2, "profit": 1.5, "roi": 0.5, "hit_rate": 2 / 3},
+            "folds": [
+                {
+                    "test_seasons": ["2021-22"],
+                    "value_bets": {"overall": {"bets": 3, "wins": 2, "profit": 1.5, "roi": 0.5, "hit_rate": 2 / 3}},
+                }
+            ],
+        }
+
+        payload = build_strategy_comparison(strategies, stake=10.0, training_policy=training_policy)
+
+        self.assertEqual(payload["primary_strategy_id"], "expanding_walk_forward_xgboost")
+        self.assertEqual(payload["strategies"][0]["id"], "expanding_walk_forward_xgboost")
+        self.assertEqual(payload["strategies"][0]["summary"]["total_profit"], 15.0)
 
     def test_filter_holdout_value_bets_keeps_forward_test_seasons(self):
         value_bets = pd.concat(
@@ -217,6 +315,33 @@ class ExportDashboardDataTests(unittest.TestCase):
         self.assertEqual(runs[0]["learning_rate"], 0.05)
 
 
+
+    def test_build_project_summary_tells_final_model_story(self):
+        strategy_comparison = {
+            "strategies": [
+                {"id": "xgboost_value", "label": "XGBoost value", "summary": {"total_bets": 10, "total_profit": 2.0, "roi_pct": 20.0, "hit_rate": 0.6}},
+                {"id": "poisson_goal_model", "label": "Poisson goal model", "summary": {"total_bets": 10, "total_profit": -1.0, "roi_pct": -10.0, "hit_rate": 0.4}},
+                {"id": "mispricing_model", "label": "Mispricing model", "summary": {"total_bets": 10, "total_profit": -2.0, "roi_pct": -20.0, "hit_rate": 0.3}},
+            ]
+        }
+        training_policy = {
+            "available": True,
+            "aggregate": {"roi": 0.0547, "positive_roi_folds": 3, "folds": 5, "bets": 767},
+            "folds": [{"test_seasons": ["2021-22"], "value_bets": {"overall": {"roi": 0.1}}}],
+        }
+        league_subset_policy = {
+            "available": True,
+            "subsets": [{"name": "all_five", "aggregate": {"roi": 0.0547, "profit": 41.96, "bets": 767, "positive_roi_folds": 3, "folds": 5}}],
+        }
+
+        payload = build_project_summary(strategy_comparison, training_policy, league_subset_policy)
+
+        self.assertEqual(payload["status"], "Portfolio complete")
+        self.assertEqual(payload["final_model"]["league_policy"], "all_five")
+        self.assertEqual(payload["validation"]["expanding_walk_forward"]["roi"], 0.0547)
+        self.assertIn("production", payload["final_model"]["production_semantics"].lower())
+        self.assertEqual(payload["test_status"]["command"], ".venv/bin/python -m unittest discover tests")
+
     def test_load_diagnostics_returns_default_contract_when_missing(self):
         payload = load_diagnostics(Path("missing-diagnostics.json"))
 
@@ -232,6 +357,17 @@ class ExportDashboardDataTests(unittest.TestCase):
 
         self.assertTrue(payload["available"])
         self.assertEqual(payload["aggregate"]["roi"], 0.1)
+
+
+    def test_load_league_subset_policy_marks_existing_artifact_available(self):
+        with TemporaryDirectory() as tmp_dir:
+            path = Path(tmp_dir) / "league_policy.json"
+            path.write_text(json.dumps({"model": "x", "subsets": [{"name": "all_five"}]}), encoding="utf-8")
+
+            payload = load_league_subset_policy(path)
+
+        self.assertTrue(payload["available"])
+        self.assertEqual(payload["subsets"][0]["name"], "all_five")
 
     def test_run_pipeline_writes_all_dashboard_json_files(self):
         with TemporaryDirectory() as tmp_dir:
@@ -254,24 +390,26 @@ class ExportDashboardDataTests(unittest.TestCase):
                 output_dir=output_dir,
                 mlruns_dir=tmp_path / "missing_mlruns",
                 training_policy_path=tmp_path / "missing_policy.json",
+                league_subset_policy_path=tmp_path / "missing_league_policy.json",
                 poisson_value_bets_path=tmp_path / "missing_poisson.parquet",
                 market_aware_value_bets_path=tmp_path / "missing_market_aware.parquet",
                 mispricing_value_bets_path=tmp_path / "missing_mispricing.parquet",
             )
 
             payloads = {}
-            for filename in ["league_analytics.json", "backtest.json", "value_bets.json", "simulator.json", "strategy_comparison.json", "training_policy.json", "diagnostics.json"]:
+            for filename in ["league_analytics.json", "backtest.json", "value_bets.json", "simulator.json", "strategy_comparison.json", "training_policy.json", "project_summary.json", "diagnostics.json"]:
                 path = output_dir / filename
                 self.assertTrue(path.exists(), filename)
                 payloads[filename] = json.loads(path.read_text(encoding="utf-8"))
 
-        self.assertEqual(len(summary.files), 7)
+        self.assertEqual(len(summary.files), 8)
         self.assertEqual(payloads["league_analytics.json"]["leagues"], ["ENG", "FRA", "GER", "ITA", "SPA"])
         self.assertEqual(payloads["value_bets.json"][0]["Date"], "2019-08-10")
         self.assertEqual(payloads["simulator.json"]["summary"]["roi_pct"], 10.0)
         self.assertIn("strategies", payloads["strategy_comparison.json"])
         self.assertEqual(payloads["strategy_comparison.json"]["primary_strategy_id"], "xgboost_value")
         self.assertFalse(payloads["training_policy.json"]["available"])
+        self.assertEqual(payloads["project_summary.json"]["status"], "Portfolio complete")
         self.assertIn("value_bets_by_odds_range", payloads["diagnostics.json"])
 
 

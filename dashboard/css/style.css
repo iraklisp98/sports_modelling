@@ -120,6 +120,75 @@ main {
   padding: 22px;
 }
 
+
+.story-panel {
+  display: grid;
+  gap: 16px;
+}
+
+.story-status {
+  border-color: #bbf7d0;
+  background: #f0fdf4;
+  color: var(--green-text);
+  font-weight: 800;
+}
+
+.story-grid {
+  margin-bottom: 0;
+}
+
+.decision-grid {
+  display: grid;
+  gap: 12px;
+}
+
+.decision-card {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #ffffff;
+  padding: 14px;
+}
+
+.decision-card span {
+  display: block;
+  color: var(--accent);
+  font-size: 0.76rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.decision-card strong {
+  display: block;
+  margin-top: 6px;
+  font-size: 1rem;
+}
+
+.decision-card p,
+.story-note p {
+  margin: 8px 0 0;
+  color: var(--muted);
+  line-height: 1.45;
+}
+
+.decision-badge {
+  display: inline-block;
+  padding: 4px 8px;
+  border-radius: 999px;
+  background: #e0f2fe;
+  color: #075985;
+  font-size: 0.78rem;
+  font-weight: 800;
+  white-space: nowrap;
+}
+
+.story-note {
+  margin-top: 0;
+}
+
+.story-details {
+  margin-top: 14px;
+}
+
 .empty-state {
   min-height: 220px;
   display: grid;

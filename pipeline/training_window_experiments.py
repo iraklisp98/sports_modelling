@@ -52,6 +52,7 @@ FEATURES_DIR = Path("data/features")
 OUTPUT_PATH = Path("data/model_artifacts/training_window_experiments.json")
 WALK_FORWARD_OUTPUT_PATH = Path("data/model_artifacts/walk_forward_training_window.json")
 EXPANDING_WALK_FORWARD_OUTPUT_PATH = Path("data/model_artifacts/expanding_walk_forward_training_window.json")
+LEAGUE_SUBSET_OUTPUT_PATH = Path("data/model_artifacts/league_subset_walk_forward.json")
 TEST_SEASONS = ("2023-24", "2024-25", "2025-26")
 EXPERIMENTS = (
     ("long_history_to_2022", "2010-11", "2022-23"),
@@ -61,6 +62,19 @@ EXPERIMENTS = (
 WALK_FORWARD_TEST_SEASONS = ("2021-22", "2022-23", "2023-24", "2024-25", "2025-26")
 DEFAULT_RECENT_WINDOW_SEASONS = 5
 DEFAULT_EXPANDING_START_SEASON = "2010-11"
+LEAGUE_SUBSET_EXPERIMENTS = (
+    ("all_five", ("ENG", "SPA", "FRA", "GER", "ITA")),
+    ("eng_only", ("ENG",)),
+    ("spa_only", ("SPA",)),
+    ("fra_only", ("FRA",)),
+    ("ger_only", ("GER",)),
+    ("ita_only", ("ITA",)),
+    ("eng_spa", ("ENG", "SPA")),
+    ("eng_spa_ger", ("ENG", "SPA", "GER")),
+    ("exclude_fra", ("ENG", "SPA", "GER", "ITA")),
+    ("exclude_ita", ("ENG", "SPA", "FRA", "GER")),
+    ("exclude_fra_ita", ("ENG", "SPA", "GER")),
+)
 
 
 @dataclass(frozen=True)
@@ -135,6 +149,31 @@ def summarize_group(value_bets: pd.DataFrame, columns: list[str]) -> list[dict[s
     return rows
 
 
+def value_bet_records(value_bets: pd.DataFrame) -> list[dict[str, object]]:
+    if value_bets.empty:
+        return []
+    selected = value_bets.sort_values(["Date", "RBallID", "Outcome"], kind="mergesort").copy()
+    columns = [
+        "RBallID",
+        "HomeTeam",
+        "AwayTeam",
+        "Date",
+        "Season",
+        "League",
+        "Result",
+        "Outcome",
+        "ModelOdds",
+        "BestBookOdds",
+        "Edge",
+        "BestBookmaker",
+    ]
+    available = [column for column in columns if column in selected.columns]
+    selected = selected[available]
+    if "Date" in selected.columns:
+        selected["Date"] = pd.to_datetime(selected["Date"]).dt.strftime("%Y-%m-%d")
+    return selected.replace({np.nan: None}).to_dict(orient="records")
+
+
 def summarize_value_bets(value_bets: pd.DataFrame) -> dict[str, object]:
     if value_bets.empty:
         overall = {"bets": 0, "wins": 0, "hit_rate": 0.0, "profit": 0.0, "roi": 0.0}
@@ -164,6 +203,7 @@ def run_experiment(
     bookmaker_odds: pd.DataFrame,
     test_seasons: Iterable[str] = TEST_SEASONS,
     calibration_method: str = DEFAULT_CALIBRATION_METHOD,
+    include_value_bet_records: bool = False,
 ) -> dict[str, object]:
     train_df = data[season_range(data, train_start, train_end)].copy().reset_index(drop=True)
     test_df = filter_test_seasons(data, test_seasons)
@@ -187,7 +227,7 @@ def run_experiment(
     matched = match_model_to_bookmaker_odds(model_odds, bookmaker_odds)
     value_bets = compute_value_bets(matched)
 
-    return {
+    result = {
         "name": name,
         "train_start": train_start,
         "train_end": train_end,
@@ -200,6 +240,9 @@ def run_experiment(
         "metrics": {key: _round(value) for key, value in metrics.items()},
         "value_bets": summarize_value_bets(value_bets),
     }
+    if include_value_bet_records:
+        result["value_bet_records"] = value_bet_records(value_bets)
+    return result
 
 
 def build_experiments(
@@ -209,6 +252,7 @@ def build_experiments(
     football_data_dir: Path = FOOTBALL_DATA_DIR,
     leagues: Iterable[str] = LEAGUES,
     calibration_method: str = DEFAULT_CALIBRATION_METHOD,
+    include_value_bet_records: bool = False,
 ) -> dict[str, object]:
     if calibration_method not in CALIBRATION_METHODS:
         raise ValueError(f"Unsupported calibration method: {calibration_method}")
@@ -224,6 +268,7 @@ def build_experiments(
             bookmaker_odds=bookmaker_odds,
             test_seasons=test_seasons,
             calibration_method=calibration_method,
+            include_value_bet_records=include_value_bet_records,
         )
         for name, train_start, train_end in experiments
     ]
@@ -275,6 +320,7 @@ def build_walk_forward_experiment(
     football_data_dir: Path = FOOTBALL_DATA_DIR,
     leagues: Iterable[str] = LEAGUES,
     calibration_method: str = DEFAULT_CALIBRATION_METHOD,
+    include_value_bet_records: bool = False,
 ) -> dict[str, object]:
     if calibration_method not in CALIBRATION_METHODS:
         raise ValueError(f"Unsupported calibration method: {calibration_method}")
@@ -293,6 +339,7 @@ def build_walk_forward_experiment(
                 bookmaker_odds=bookmaker_odds,
                 test_seasons=(test_season,),
                 calibration_method=calibration_method,
+                include_value_bet_records=include_value_bet_records,
             )
         )
     return {
@@ -324,6 +371,7 @@ def build_expanding_walk_forward_experiment(
     football_data_dir: Path = FOOTBALL_DATA_DIR,
     leagues: Iterable[str] = LEAGUES,
     calibration_method: str = DEFAULT_CALIBRATION_METHOD,
+    include_value_bet_records: bool = False,
 ) -> dict[str, object]:
     if calibration_method not in CALIBRATION_METHODS:
         raise ValueError(f"Unsupported calibration method: {calibration_method}")
@@ -342,6 +390,7 @@ def build_expanding_walk_forward_experiment(
                 bookmaker_odds=bookmaker_odds,
                 test_seasons=(test_season,),
                 calibration_method=calibration_method,
+                include_value_bet_records=include_value_bet_records,
             )
         )
     return {
@@ -355,8 +404,60 @@ def build_expanding_walk_forward_experiment(
     }
 
 
+def validate_league_subset(leagues: Iterable[str]) -> tuple[str, ...]:
+    selected = tuple(leagues)
+    if not selected:
+        raise ValueError("At least one league is required")
+    unknown = sorted(set(selected) - set(LEAGUES))
+    if unknown:
+        raise ValueError(f"Unknown leagues: {unknown}")
+    return selected
+
+
+def build_league_subset_walk_forward_experiment(
+    subset_specs: Iterable[tuple[str, tuple[str, ...]]] = LEAGUE_SUBSET_EXPERIMENTS,
+    test_seasons: Iterable[str] = WALK_FORWARD_TEST_SEASONS,
+    start_season: str = DEFAULT_EXPANDING_START_SEASON,
+    features_dir: Path = FEATURES_DIR,
+    football_data_dir: Path = FOOTBALL_DATA_DIR,
+    calibration_method: str = DEFAULT_CALIBRATION_METHOD,
+) -> dict[str, object]:
+    subsets = []
+    for name, leagues in subset_specs:
+        selected_leagues = validate_league_subset(leagues)
+        payload = build_expanding_walk_forward_experiment(
+            test_seasons=test_seasons,
+            start_season=start_season,
+            features_dir=features_dir,
+            football_data_dir=football_data_dir,
+            leagues=selected_leagues,
+            calibration_method=calibration_method,
+        )
+        subsets.append(
+            {
+                "name": name,
+                "leagues": list(selected_leagues),
+                "aggregate": payload["aggregate"],
+                "folds": payload["folds"],
+            }
+        )
+    subsets.sort(key=lambda item: (float(item["aggregate"].get("roi", 0.0)), float(item["aggregate"].get("profit", 0.0))), reverse=True)
+    return {
+        "model": "market_aware_xgboost_league_subset_expanding_walk_forward",
+        "start_season": start_season,
+        "test_seasons": list(test_seasons),
+        "subsets": subsets,
+    }
+
+
+def run_league_subset_pipeline(output_path: Path = LEAGUE_SUBSET_OUTPUT_PATH) -> ExperimentSummary:
+    payload = build_league_subset_walk_forward_experiment()
+    write_json(output_path, payload)
+    return ExperimentSummary(output_path=output_path, experiments=len(payload["subsets"]))
+
+
 def run_expanding_walk_forward_pipeline(output_path: Path = EXPANDING_WALK_FORWARD_OUTPUT_PATH) -> ExperimentSummary:
-    payload = build_expanding_walk_forward_experiment()
+    payload = build_expanding_walk_forward_experiment(include_value_bet_records=True)
     write_json(output_path, payload)
     return ExperimentSummary(output_path=output_path, experiments=len(payload["folds"]))
 
@@ -380,7 +481,7 @@ def run_pipeline(output_path: Path = OUTPUT_PATH) -> ExperimentSummary:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Compare XGBoost training windows on forward seasons.")
-    parser.add_argument("--mode", choices=("split", "walk-forward", "expanding-walk-forward"), default="split")
+    parser.add_argument("--mode", choices=("split", "walk-forward", "expanding-walk-forward", "league-subsets"), default="split")
     parser.add_argument("--output-path", type=Path, default=None)
     return parser.parse_args()
 
@@ -391,6 +492,8 @@ if __name__ == "__main__":
         summary = run_walk_forward_pipeline(output_path=args.output_path or WALK_FORWARD_OUTPUT_PATH)
     elif args.mode == "expanding-walk-forward":
         summary = run_expanding_walk_forward_pipeline(output_path=args.output_path or EXPANDING_WALK_FORWARD_OUTPUT_PATH)
+    elif args.mode == "league-subsets":
+        summary = run_league_subset_pipeline(output_path=args.output_path or LEAGUE_SUBSET_OUTPUT_PATH)
     else:
         summary = run_pipeline(output_path=args.output_path or OUTPUT_PATH)
     print(summary.line())
