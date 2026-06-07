@@ -11,6 +11,7 @@ from pipeline.model_features import LEAGUE_FEATURE_COLUMNS
 from pipeline.mispricing_model import (
     CANDIDATE_FEATURE_COLUMNS,
     build_candidate_bets,
+    apply_outcome_threshold_floors,
     predict_candidates,
     rolling_validation_thresholds,
     run_pipeline,
@@ -117,7 +118,7 @@ class MispricingModelTests(unittest.TestCase):
 
 
 
-    def test_rolling_validation_thresholds_selects_only_positive_validation_outcomes(self):
+    def test_rolling_validation_thresholds_returns_best_thresholds_by_outcome(self):
         candidates = build_candidate_bets(sample_market_features())
         thresholds, diagnostics = rolling_validation_thresholds(
             candidates,
@@ -131,6 +132,12 @@ class MispricingModelTests(unittest.TestCase):
         self.assertIn("aggregates", diagnostics)
         self.assertIn("raw", diagnostics)
         self.assertEqual(diagnostics["validation_seasons"], ["2018-19"])
+
+
+    def test_apply_outcome_threshold_floors_keeps_stronger_cutoff(self):
+        thresholds = apply_outcome_threshold_floors({"H": 0.14, "A": 0.23}, {"A": 0.45})
+
+        self.assertEqual(thresholds, {"H": 0.14, "A": 0.45})
 
     def test_select_ev_threshold_by_outcome_returns_home_and_away_cutoffs(self):
         candidates = build_candidate_bets(sample_market_features())

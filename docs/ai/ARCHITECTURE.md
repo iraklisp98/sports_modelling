@@ -50,7 +50,7 @@ The build is organised into seven stages. Pipeline stages communicate exclusivel
 │  STAGE 3 — Model Training                   pipeline/stage3_train.py │
 │                                                                      │
 │  Tools: XGBoost · Optuna · MLflow                                    │
-│  • Combine all three leagues into one training dataset               │
+│  • Combine all five leagues into one training dataset                 │
 │  • Time-aware split: train before 2019–20, hold out 2019–20          │
 │  • Optuna tunes hyperparameters (50 trials, minimise log loss)       │
 │  • Final model trained, evaluated (log loss, Brier, accuracy, F1)   │
@@ -366,4 +366,9 @@ Only Stage 1 changes. Everything from Stage 2 onwards reads the same Parquet sch
 
 ## Market Mispricing Layer
 
-`pipeline/mispricing_model.py` is a second-stage H/A bet-selection experiment. It does not predict the full match result directly. Instead, it builds one candidate row for each home and away price, uses market probability plus team-strength disagreement features, and predicts whether the offered price has positive expected value. The EV cutoff is selected with rolling pre-holdout validation folds from `2015-16` through `2018-19`, separately for home and away outcomes. Outcomes with no positive rolling-validation threshold are disabled before the forward test, then the selected thresholds are applied unchanged to `2019-20` onward. Outputs are written separately to `data/output/mispricing_value_bets.parquet` and `data/model_artifacts/mispricing_model/` so the strategy can be compared against XGBoost, market-aware XGBoost, and Poisson without changing Stage 5 thresholds.
+`pipeline/mispricing_model.py` is a second-stage H/A bet-selection experiment. It does not predict the full match result directly. Instead, it builds one candidate row for each home and away price, uses market probability plus team-strength disagreement features, and predicts whether the offered price has positive expected value. The EV cutoff is selected with rolling pre-holdout validation folds from `2015-16` through `2018-19`, separately for home and away outcomes. By default, the best threshold is kept for each home/away outcome so both sides remain visible for research and later tuning. Positive average ROI and worst-fold ROI are retained in diagnostics so fragile thresholds can be reviewed without hiding them. An explicit away EV floor keeps away bets only when the predicted mispricing signal is much stronger than the rolling-validation cutoff. The selected thresholds are applied unchanged to `2019-20` onward. Outputs are written separately to `data/output/mispricing_value_bets.parquet` and `data/model_artifacts/mispricing_model/` so the strategy can be compared against XGBoost, market-aware XGBoost, and Poisson without changing Stage 5 thresholds.
+
+
+## Portfolio Completion Note
+
+As of the final five-league run, the repository should be presented as a complete sports modelling and betting-strategy research pipeline, not as a guaranteed profitable betting system. The important portfolio signals are the reproducible batch architecture, leakage-safe rolling features, MLflow-tracked training, benchmark model comparison, calibration diagnostics, Docker packaging, and a dashboard that reports strategy results honestly. The current mispricing strategy keeps both home and away candidates visible; home bets are the main profit source, while away bets use a stricter EV floor and remain a tuning target.

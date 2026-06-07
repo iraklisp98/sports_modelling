@@ -30,11 +30,12 @@ OUTCOMES = ("H", "A")
 MIN_BOOKMAKER_ODDS = 1.20
 MAX_BOOKMAKER_ODDS = 8.00
 MIN_PREDICTED_EV = 0.0
-EV_THRESHOLD_CANDIDATES = tuple(round(value / 100.0, 2) for value in range(-5, 21))
+EV_THRESHOLD_CANDIDATES = tuple(round(value / 100.0, 2) for value in range(-5, 51))
 MIN_VALIDATION_BETS = 200
 MIN_VALIDATION_BETS_PER_OUTCOME = 50
 ROLLING_VALIDATION_START_SEASON = "2015-16"
 MIN_ROLLING_VALIDATION_FOLDS = 3
+OUTCOME_THRESHOLD_FLOORS = {"A": 0.45}
 
 SIGNED_DIFF_COLUMNS = {
     "EloDiff": "SignalEloDiff",
@@ -342,6 +343,7 @@ def rolling_validation_thresholds(
     threshold_candidates: Iterable[float] = EV_THRESHOLD_CANDIDATES,
     min_validation_bets_per_outcome: int = MIN_VALIDATION_BETS_PER_OUTCOME,
     min_validation_folds: int = MIN_ROLLING_VALIDATION_FOLDS,
+    require_positive_avg_roi: bool = False,
 ) -> tuple[dict[str, float], dict[str, object]]:
     seasons = list(validation_seasons) if validation_seasons is not None else pre_holdout_validation_seasons(candidates)
     if not seasons:
@@ -398,11 +400,12 @@ def rolling_validation_thresholds(
                     "avg_roi": _round(row.avg_roi),
                     "median_roi": _round(row.median_roi),
                     "min_roi": _round(row.min_roi),
+                    "positive_avg_roi": bool(row.avg_roi > 0.0),
                     "total_profit": _round(row.total_profit, 2),
                     "total_bets": int(row.total_bets),
                 }
             )
-        viable = grouped[grouped["avg_roi"] > 0.0].copy()
+        viable = grouped[grouped["avg_roi"] > 0.0].copy() if require_positive_avg_roi else grouped.copy()
         if viable.empty:
             continue
         best = max(
@@ -414,6 +417,7 @@ def rolling_validation_thresholds(
         "validation_seasons": seasons,
         "min_validation_bets_per_outcome": int(min_validation_bets_per_outcome),
         "min_validation_folds": int(min_validation_folds),
+        "require_positive_avg_roi": bool(require_positive_avg_roi),
         "selected_thresholds": thresholds,
         "aggregates": aggregates,
         "raw": rows,
@@ -463,6 +467,14 @@ def select_ev_threshold_by_outcome(
     if not thresholds:
         raise ValueError("No outcomes available for EV threshold selection")
     return thresholds, diagnostics
+
+
+def apply_outcome_threshold_floors(thresholds: dict[str, float], floors: dict[str, float] | None = None) -> dict[str, float]:
+    adjusted = dict(thresholds)
+    for outcome, floor in (floors or {}).items():
+        if outcome in adjusted:
+            adjusted[outcome] = max(float(adjusted[outcome]), float(floor))
+    return adjusted
 
 
 def select_mispriced_bets_by_outcome(scored: pd.DataFrame, thresholds: dict[str, float]) -> pd.DataFrame:
@@ -548,6 +560,8 @@ def run_pipeline(
     min_validation_bets_per_outcome: int = MIN_VALIDATION_BETS_PER_OUTCOME,
     use_outcome_thresholds: bool = True,
     use_rolling_validation: bool = True,
+    require_positive_rolling_roi: bool = False,
+    outcome_threshold_floors: dict[str, float] | None = OUTCOME_THRESHOLD_FLOORS,
 ) -> MispricingRunSummary:
     features = load_feature_data(features_dir=features_dir, leagues=leagues)
     market_features, market_summary = add_market_features(features, football_data_dir=football_data_dir)
@@ -567,6 +581,7 @@ def run_pipeline(
     rolling_outcome_thresholds, rolling_threshold_diagnostics = rolling_validation_thresholds(
         candidates,
         min_validation_bets_per_outcome=min_validation_bets_per_outcome,
+        require_positive_avg_roi=require_positive_rolling_roi,
     )
     outcome_thresholds = rolling_outcome_thresholds if use_rolling_validation else single_season_outcome_thresholds
     if min_predicted_ev is not None:
@@ -576,6 +591,8 @@ def run_pipeline(
         outcome_thresholds = {outcome: selected_threshold for outcome in OUTCOMES}
     if not outcome_thresholds:
         outcome_thresholds = {outcome: selected_threshold for outcome in OUTCOMES}
+    outcome_thresholds_before_floors = dict(outcome_thresholds)
+    outcome_thresholds = apply_outcome_threshold_floors(outcome_thresholds, outcome_threshold_floors)
     train = pd.concat([threshold_train, validation], ignore_index=True)
     model = train_mispricing_classifier(train)
     scored = predict_candidates(model, forward)
@@ -594,6 +611,9 @@ def run_pipeline(
         "min_predicted_ev": float(selected_threshold),
         "use_outcome_thresholds": use_outcome_thresholds and min_predicted_ev is None,
         "use_rolling_validation": use_rolling_validation and min_predicted_ev is None and use_outcome_thresholds,
+        "require_positive_rolling_roi": bool(require_positive_rolling_roi),
+        "outcome_threshold_floors": outcome_threshold_floors or {},
+        "outcome_thresholds_before_floors": outcome_thresholds_before_floors,
         "outcome_thresholds": outcome_thresholds,
         "threshold_selection": threshold_results,
         "outcome_threshold_selection": outcome_threshold_results,

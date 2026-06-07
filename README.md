@@ -1,16 +1,18 @@
 # Sports Modelling
 
-End-to-end sports betting odds arbitrage pipeline for European football. The project is being rebuilt from exploratory notebooks into production-style pipeline stages: Football-Data CSV download -> match-level Parquet -> feature engineering -> XGBoost + MLflow -> odds comparison -> static dashboard -> Docker packaging.
+End-to-end sports betting odds research pipeline for European football, rebuilt from exploratory notebooks into production-style pipeline stages: Football-Data CSV download -> match-level Parquet -> feature engineering -> XGBoost + MLflow -> odds comparison -> strategy diagnostics -> static dashboard -> Docker packaging.
 
 ## Current Scope
 
-Phase 1 covers Premier League, La Liga, Ligue 1, Bundesliga, and Serie A historical Football-Data.co.uk seasons from 2010-11 through 2022-23. The goal is to identify value bets where:
+Phase 1 covers Premier League, La Liga, Ligue 1, Bundesliga, and Serie A historical Football-Data.co.uk seasons from 2010-11 through 2022-23. The original value-bet rule identifies bets where:
 
 ```text
 best_bookmaker_odds >= 1.10 * model_implied_odds
 ```
 
-Stage 5 also applies odds sanity filters so extreme long-shot prices and unrealistic edge outliers do not become dashboard bets.
+Stage 5 also applies odds sanity filters so extreme long-shot prices and unrealistic edge outliers do not become dashboard bets. The dashboard also compares benchmark strategies, including the second-stage mispricing model, so the project can show whether an apparent edge survives a forward backtest rather than only showing flagged bets.
+
+Final portfolio conclusion: the engineering pipeline is complete and reproducible. The current five-league mispricing strategy is positive in the forward simulator, but it should be presented as a research result that still needs robustness checks, not as a guaranteed durable betting edge.
 
 This repository is for education and portfolio development. It does not place bets and does not provide financial advice.
 
@@ -24,9 +26,10 @@ This repository is for education and portfolio development. It does not place be
 
 ## Current Repo State
 
-- Pipeline stages 1-5 are implemented under `pipeline/`.
+- Pipeline stages 1-5 plus diagnostics and benchmark strategy layers are implemented under `pipeline/`.
 - Stage 6 dashboard is implemented under `dashboard/` and reads precomputed JSON from `dashboard/data/`.
 - Stage 7 Docker packaging is implemented under `docker/`.
+- The project is portfolio-complete: remaining work would be research extensions, not required pipeline completion.
 - `analysis/descriptive.ipynb` and `models/training.ipynb` are EDA/reference notebooks, not production pipeline code.
 
 ## Planned Pipeline Stages
