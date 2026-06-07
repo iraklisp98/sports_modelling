@@ -12,7 +12,7 @@ import pandas as pd
 HOLDOUT_PREDICTIONS_PATH = Path("data/model_artifacts/stage3/holdout_predictions.parquet")
 VALUE_BETS_PATH = Path("data/output/value_bets.parquet")
 OUTPUT_PATH = Path("data/model_artifacts/stage3/model_diagnostics.json")
-HOLDOUT_SEASONS = ("2019-20", "2020-21", "2021-22", "2022-23")
+HOLDOUT_SEASONS = ("2019-20", "2020-21", "2021-22", "2022-23", "2023-24", "2024-25", "2025-26")
 OUTCOME_PROBABILITY_COLUMNS = {"H": "P_Home", "D": "P_Draw", "A": "P_Away"}
 PROBABILITY_BINS = tuple(round(value / 10, 1) for value in range(11))
 ODDS_BINS = (1.0, 1.5, 2.0, 2.5, 3.0, 4.0, 6.0, 8.0)

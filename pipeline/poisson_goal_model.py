@@ -20,6 +20,7 @@ try:
         build_model_benchmarks,
         compact_benchmark_metrics,
         evaluate_predictions,
+        season_start_year,
         split_train_holdout,
     )
     from pipeline.stage4_odds_gen import OUTPUT_COLUMNS
@@ -31,6 +32,7 @@ except ModuleNotFoundError:
         build_model_benchmarks,
         compact_benchmark_metrics,
         evaluate_predictions,
+        season_start_year,
         split_train_holdout,
     )
     from stage4_odds_gen import OUTPUT_COLUMNS
@@ -319,21 +321,29 @@ def run_pipeline(
     df = load_feature_data(leagues=leagues, features_dir=features_dir)
     validate_goal_model_columns(df)
     train_df, holdout_df = split_train_holdout(df, holdout_season=holdout_season)
+    holdout_start = season_start_year(holdout_season)
+    forward_df = df[df["Season"].map(season_start_year) >= holdout_start].copy().reset_index(drop=True)
+    if forward_df.empty:
+        raise ValueError(f"No forward rows found from {holdout_season} onward")
 
     home_model, away_model = train_goal_models(train_df)
-    lambdas = predict_lambdas(holdout_df, home_model, away_model)
-    proba = lambdas_to_outcome_probabilities(lambdas, max_goals=max_goals)
+    holdout_lambdas = predict_lambdas(holdout_df, home_model, away_model)
+    holdout_proba = lambdas_to_outcome_probabilities(holdout_lambdas, max_goals=max_goals)
     y_holdout = holdout_df["ResultCode"].astype("int64")
-    metrics = evaluate_predictions(y_holdout, proba)
+    metrics = evaluate_predictions(y_holdout, holdout_proba)
 
-    odds_df = build_poisson_odds_frame(holdout_df, lambdas, proba)
-    predictions_df = build_holdout_predictions_frame(holdout_df, lambdas, proba)
+    forward_lambdas = predict_lambdas(forward_df, home_model, away_model)
+    forward_proba = lambdas_to_outcome_probabilities(forward_lambdas, max_goals=max_goals)
+    odds_df = build_poisson_odds_frame(forward_df, forward_lambdas, forward_proba)
+    predictions_df = build_holdout_predictions_frame(holdout_df, holdout_lambdas, holdout_proba)
     benchmarks = build_poisson_benchmarks(
         train_df,
         holdout_df,
-        proba,
+        holdout_proba,
         existing_benchmarks_path=existing_benchmarks_path,
     )
+    metrics["forward_rows"] = int(len(forward_df))
+    metrics["forward_seasons"] = sorted(forward_df["Season"].dropna().unique().tolist(), key=season_start_year)
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
     artifacts_dir.mkdir(parents=True, exist_ok=True)

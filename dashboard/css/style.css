@@ -543,6 +543,10 @@ code {
   font-weight: 700;
 }
 
+.compact-chart {
+  min-height: 260px;
+}
+
 .empty-mini {
   display: grid;
   min-height: 220px;

@@ -15,7 +15,7 @@ The build is organised into seven stages. Pipeline stages communicate exclusivel
 │                          DATA SOURCES                                │
 │                                                                      │
 │   Football-Data.co.uk season CSVs                                  │
-│   E0 Premier League · SP1 La Liga · F1 Ligue 1 · D1 Bundesliga · I1 Serie A · 2010-11 to 2022-23 │
+│   E0 Premier League · SP1 La Liga · F1 Ligue 1 · D1 Bundesliga · I1 Serie A · 2010-11 to 2025-26 │
 └───────────────────────────────┬──────────────────────────────────────┘
                                 │
                                 ▼

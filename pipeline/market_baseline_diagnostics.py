@@ -31,7 +31,7 @@ except ModuleNotFoundError:
     )
 
 OUTPUT_PATH = Path("data/model_artifacts/market_baseline_diagnostics.json")
-DEFAULT_SEASONS = ("2019-20", "2020-21", "2021-22", "2022-23")
+DEFAULT_SEASONS = ("2019-20", "2020-21", "2021-22", "2022-23", "2023-24", "2024-25", "2025-26")
 OUTCOMES = ("H", "D", "A")
 RESULT_TO_CODE = {"H": 0, "D": 1, "A": 2}
 MODEL_ODDS_COLUMNS = {"H": "ModelOdds_Home", "D": "ModelOdds_Draw", "A": "ModelOdds_Away"}

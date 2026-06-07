@@ -18,10 +18,11 @@ MISPRICING_VALUE_BETS_PATH = Path("data/output/mispricing_value_bets.parquet")
 METRICS_PATH = Path("data/model_artifacts/stage3/metrics.json")
 HOLDOUT_PREDICTIONS_PATH = Path("data/model_artifacts/stage3/holdout_predictions.parquet")
 MODEL_DIAGNOSTICS_PATH = Path("data/model_artifacts/stage3/model_diagnostics.json")
+TRAINING_POLICY_PATH = Path("data/model_artifacts/expanding_walk_forward_training_window.json")
 DASHBOARD_DATA_DIR = Path("dashboard/data")
 MLRUNS_DIR = Path("mlruns")
 LEAGUES = ("ENG", "SPA", "FRA", "GER", "ITA")
-HOLDOUT_SEASONS = ("2019-20", "2020-21", "2021-22", "2022-23")
+HOLDOUT_SEASONS = ("2019-20", "2020-21", "2021-22", "2022-23", "2023-24", "2024-25", "2025-26")
 DEFAULT_STAKE = 10.0
 
 LEAGUE_LABELS = {
@@ -48,7 +49,7 @@ STRATEGY_LABELS = {
     "poisson_goal_model": "Poisson goal model",
     "mispricing_model": "Mispricing model",
 }
-PRIMARY_STRATEGY_ID = "mispricing_model"
+PRIMARY_STRATEGY_ID = "xgboost_value"
 
 
 @dataclass(frozen=True)
@@ -391,15 +392,30 @@ def filter_holdout_value_bets(value_bets: pd.DataFrame, seasons: Iterable[str] =
     return value_bets[value_bets["Season"].isin(tuple(seasons))].copy().reset_index(drop=True)
 
 
+def _season_start_year(season: object) -> int:
+    try:
+        return int(str(season).split("-", maxsplit=1)[0])
+    except (TypeError, ValueError) as exc:
+        raise ValueError(f"Invalid season label: {season!r}") from exc
+
+
 def load_strategy_value_bets(
     strategy_paths: dict[str, Path] = STRATEGY_VALUE_BET_PATHS,
     model_odds: pd.DataFrame | None = None,
+    required_seasons: Iterable[str] = HOLDOUT_SEASONS,
 ) -> dict[str, pd.DataFrame]:
     strategies: dict[str, pd.DataFrame] = {}
+    required = tuple(required_seasons)
+    latest_required = max((_season_start_year(season) for season in required), default=None)
     for strategy_id, path in strategy_paths.items():
         if not path.exists():
             continue
-        strategies[strategy_id] = enrich_value_bets(pd.read_parquet(path), model_odds=model_odds)
+        value_bets = enrich_value_bets(pd.read_parquet(path), model_odds=model_odds)
+        seasons = value_bets.get("Season", pd.Series(dtype=str)).dropna().unique().tolist()
+        latest_available = max((_season_start_year(season) for season in seasons), default=None)
+        if latest_required is not None and latest_available is not None and latest_available < latest_required:
+            continue
+        strategies[strategy_id] = value_bets
     return strategies
 
 
@@ -478,6 +494,19 @@ def load_diagnostics(diagnostics_path: Path = MODEL_DIAGNOSTICS_PATH) -> dict[st
     return json.loads(diagnostics_path.read_text(encoding="utf-8"))
 
 
+def load_training_policy(training_policy_path: Path = TRAINING_POLICY_PATH) -> dict[str, object]:
+    if not training_policy_path.exists():
+        return {
+            "model": "market_aware_xgboost_expanding_walk_forward",
+            "aggregate": {},
+            "folds": [],
+            "available": False,
+        }
+    payload = json.loads(training_policy_path.read_text(encoding="utf-8"))
+    payload["available"] = True
+    return payload
+
+
 def write_json(path: Path, data: object) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(data, indent=2, sort_keys=True), encoding="utf-8")
@@ -492,6 +521,7 @@ def run_pipeline(
     output_dir: Path = DASHBOARD_DATA_DIR,
     mlruns_dir: Path = MLRUNS_DIR,
     diagnostics_path: Path = MODEL_DIAGNOSTICS_PATH,
+    training_policy_path: Path = TRAINING_POLICY_PATH,
     poisson_value_bets_path: Path = POISSON_VALUE_BETS_PATH,
     market_aware_value_bets_path: Path = MARKET_AWARE_VALUE_BETS_PATH,
     mispricing_value_bets_path: Path = MISPRICING_VALUE_BETS_PATH,
@@ -507,7 +537,7 @@ def run_pipeline(
         "poisson_goal_model": poisson_value_bets_path,
         "mispricing_model": mispricing_value_bets_path,
     }
-    strategies = load_strategy_value_bets(strategy_paths, model_odds=model_odds)
+    strategies = load_strategy_value_bets(strategy_paths, model_odds=model_odds, required_seasons=HOLDOUT_SEASONS)
     if "xgboost_value" not in strategies:
         strategies["xgboost_value"] = value_bets
 
@@ -518,6 +548,7 @@ def run_pipeline(
         "value_bets.json": _records(value_bets),
         "simulator.json": build_simulator(holdout_value_bets, stake=DEFAULT_STAKE),
         "strategy_comparison.json": build_strategy_comparison(strategies, stake=DEFAULT_STAKE),
+        "training_policy.json": load_training_policy(training_policy_path),
         "diagnostics.json": load_diagnostics(diagnostics_path),
     }
 
@@ -539,6 +570,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--output-dir", type=Path, default=DASHBOARD_DATA_DIR)
     parser.add_argument("--mlruns-dir", type=Path, default=MLRUNS_DIR)
     parser.add_argument("--diagnostics-path", type=Path, default=MODEL_DIAGNOSTICS_PATH)
+    parser.add_argument("--training-policy-path", type=Path, default=TRAINING_POLICY_PATH)
     parser.add_argument("--poisson-value-bets-path", type=Path, default=POISSON_VALUE_BETS_PATH)
     parser.add_argument("--market-aware-value-bets-path", type=Path, default=MARKET_AWARE_VALUE_BETS_PATH)
     parser.add_argument("--mispricing-value-bets-path", type=Path, default=MISPRICING_VALUE_BETS_PATH)
@@ -556,6 +588,7 @@ if __name__ == "__main__":
         output_dir=args.output_dir,
         mlruns_dir=args.mlruns_dir,
         diagnostics_path=args.diagnostics_path,
+        training_policy_path=args.training_policy_path,
         poisson_value_bets_path=args.poisson_value_bets_path,
         market_aware_value_bets_path=args.market_aware_value_bets_path,
         mispricing_value_bets_path=args.mispricing_value_bets_path,

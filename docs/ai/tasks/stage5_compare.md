@@ -16,7 +16,7 @@ Compare model-implied fair odds against historical bookmaker closing odds from F
 ## Why This Approach
 
 ### Why Football-Data.co.uk instead of The Odds API?
-The project is backtesting historical matches with `2019-20` kept as the first holdout season, followed by 2020-21 through 2022-23 for forward testing. A live odds API is useful for future fixtures, but it is the wrong source for historical validation unless the historical market is available for the exact period. Football-Data publishes season-level CSVs with match results, team names, dates, and historical bookmaker 1X2 odds, so the backtest can be reproduced without an API key.
+The project is backtesting historical matches with `2019-20` kept as the first holdout season, followed by 2020-21 through 2025-26 for forward testing. A live odds API is useful for future fixtures, but it is the wrong source for historical validation unless the historical market is available for the exact period. Football-Data publishes season-level CSVs with match results, team names, dates, and historical bookmaker 1X2 odds, so the backtest can be reproduced without an API key.
 
 ### Why take the best bookmaker odds?
 A bettor chooses the best available market price, not the average price. If Bet365 offers 2.10 and Pinnacle offers 2.25, the realistic comparison is against 2.25.
@@ -54,11 +54,11 @@ https://www.football-data.co.uk/mmz4281/{season_code}/{league_code}.csv
 
 | League | Football-Data code | Seasons |
 |---|---|---|
-| Premier League | `E0` | `1011` through `2223` |
-| La Liga | `SP1` | `1011` through `2223` |
-| Ligue 1 | `F1` | `1011` through `2223` |
-| Bundesliga | `D1` | `1011` through `2223` |
-| Serie A | `I1` | `1011` through `2223` |
+| Premier League | `E0` | `1011` through `2526` |
+| La Liga | `SP1` | `1011` through `2526` |
+| Ligue 1 | `F1` | `1011` through `2526` |
+| Bundesliga | `D1` | `1011` through `2526` |
+| Serie A | `I1` | `1011` through `2526` |
 
 Supported bookmaker prefixes currently include `B365`, `PS`, `WH`, `BW`, `IW`, `LB`, `SB`, `SJ`, and `VC` where the matching `H`, `D`, and `A` columns exist.
 

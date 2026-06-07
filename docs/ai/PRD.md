@@ -187,7 +187,7 @@ All stages are containerised with Docker. Each stage is independently runnable a
 
 **Football-Data.co.uk integration:**
 - Source pattern: `https://www.football-data.co.uk/mmz4281/{season_code}/{league_code}.csv`
-- Default cached seasons: `1011` through `2223`; 2019-20 through 2022-23 form the forward-test comparison window
+- Default cached seasons: `1011` through `2526`; 2019-20 through 2025-26 form the forward-test comparison window
 - League codes: `E0` Premier League, `SP1` La Liga, `F1` Ligue 1, `D1` Bundesliga, `I1` Serie A
 - Bookmaker odds columns: `B365*`, `PS*`, `WH*`, and other supported 1X2 prefixes
 - Match on normalised home team, away team, and match date

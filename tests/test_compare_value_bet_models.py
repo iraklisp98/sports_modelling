@@ -33,6 +33,7 @@ class CompareValueBetModelsTests(unittest.TestCase):
         self.assertAlmostEqual(model["overall"]["profit"], 2.0)
         self.assertEqual({row["Outcome"] for row in model["by_outcome"]}, {"H", "A"})
         self.assertEqual({row["League"] for row in model["by_league"]}, {"ENG", "SPA"})
+        self.assertEqual({(row["League"], row["Season"]) for row in model["by_league_season"]}, {("ENG", "2019-20"), ("SPA", "2020-21")})
 
     def test_run_pipeline_writes_json(self):
         with TemporaryDirectory() as tmp_dir:

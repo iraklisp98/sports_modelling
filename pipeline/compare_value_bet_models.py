@@ -8,7 +8,7 @@ from typing import Iterable
 
 import pandas as pd
 
-DEFAULT_SEASONS = ("2019-20", "2020-21", "2021-22", "2022-23")
+DEFAULT_SEASONS = ("2019-20", "2020-21", "2021-22", "2022-23", "2023-24", "2024-25", "2025-26")
 DEFAULT_OUTPUT_PATH = Path("data/model_artifacts/value_bet_model_comparison.json")
 
 
@@ -89,6 +89,7 @@ def summarize_model(name: str, path: Path, seasons: Iterable[str] | None = DEFAU
         "by_outcome": summarize_group(df, ["Outcome"]),
         "by_league": summarize_group(df, ["League"]),
         "by_season": summarize_group(df, ["Season"]),
+        "by_league_season": summarize_group(df, ["League", "Season"]),
     }
 
 

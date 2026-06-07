@@ -231,6 +231,28 @@
         </div>
         <div class="summary-row six" id="simulator-kpis"></div>
         <div class="subpanel table-panel">
+          <h3>Training Policy Robustness</h3>
+          <div class="summary-row six" id="training-policy-kpis"></div>
+          <div class="dashboard-grid two-col robustness-grid">
+            <div id="training-policy-chart" class="chart-box compact-chart"></div>
+            <div class="table-wrap">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Test season</th>
+                    <th>Train window</th>
+                    <th>Bets</th>
+                    <th>Profit</th>
+                    <th>ROI</th>
+                    <th>Log loss</th>
+                  </tr>
+                </thead>
+                <tbody id="training-policy-body"></tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+        <div class="subpanel table-panel">
           <h3>Strategy Comparison</h3>
           <div class="table-wrap">
             <table>

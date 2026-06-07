@@ -227,9 +227,10 @@ class FootballDataStage1Tests(unittest.TestCase):
         self.assertEqual(football_data_cache_path(Path("cache"), "1920", "ITA"), Path("cache/I1_1920.csv"))
         self.assertEqual(FOOTBALL_DATA_LEAGUE_CODES, {"ENG": "E0", "SPA": "SP1", "FRA": "F1", "GER": "D1", "ITA": "I1"})
         self.assertEqual(DEFAULT_SEASON_CODES[0], "1011")
-        self.assertEqual(DEFAULT_SEASON_CODES[-1], "2223")
+        self.assertEqual(DEFAULT_SEASON_CODES[-1], "2526")
         self.assertIn("2021", DEFAULT_SEASON_CODES)
         self.assertIn("2122", DEFAULT_SEASON_CODES)
+        self.assertIn("2526", DEFAULT_SEASON_CODES)
 
 
 if __name__ == "__main__":

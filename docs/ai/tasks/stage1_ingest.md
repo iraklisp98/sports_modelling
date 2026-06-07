@@ -43,7 +43,7 @@ That is the engineering point: a data contract lets you replace the source witho
 | Bundesliga | `D1` | `data/processed/GER.parquet` |
 | Serie A | `I1` | `data/processed/ITA.parquet` |
 
-Default seasons are `1011` through `2223`, which become season labels `2010-11` through `2022-23`. The holdout remains `2019-20`; Stage 3 trains on every available season before that by default.
+Default seasons are `1011` through `2526`, which become season labels `2010-11` through `2025-26`. The holdout remains `2019-20`; Stage 3 trains on every available season before that by default.
 
 ---
 

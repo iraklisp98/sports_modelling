@@ -294,9 +294,10 @@ class Stage5CompareTests(unittest.TestCase):
 
     def test_default_odds_seasons_include_forward_test_window(self):
         self.assertEqual(SEASON_CODES[0], "1011")
-        self.assertEqual(SEASON_CODES[-1], "2223")
+        self.assertEqual(SEASON_CODES[-1], "2526")
         self.assertIn("2021", SEASON_CODES)
         self.assertIn("2122", SEASON_CODES)
+        self.assertIn("2526", SEASON_CODES)
 
     def test_football_data_url_uses_season_and_league_codes(self):
         self.assertEqual(

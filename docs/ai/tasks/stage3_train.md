@@ -230,7 +230,7 @@ model = mlflow.sklearn.load_model("models:/match_outcome_xgb/Production")
 - [ ] Holdout accuracy target `> 55%` is not met by the latest generated Production run: `0.5188`
 - [ ] Holdout log-loss target `< 0.95` is not met by the latest generated Production run: `0.9964`
 
-The log-loss gap is a model-quality improvement item, not a pipeline implementation blocker. Stage 3 now defaults to market-aware training: Football-Data bookmaker odds are converted into overround-normalized market probabilities, then used as explicit model features alongside team-form features. The latest isolated market-aware experiment (`data/model_artifacts/stage3_market/`) improved the expanded XGBoost holdout log loss to `0.9986` and accuracy to `0.5289`, but still did not beat the raw market baseline over 2019-20 through 2022-23 (`0.9851` model log loss vs `0.9778` market log loss in `market_baseline_diagnostics.json`).
+The log-loss gap is a model-quality improvement item, not a pipeline implementation blocker. Stage 3 now defaults to market-aware training: Football-Data bookmaker odds are converted into overround-normalized market probabilities, then used as explicit model features alongside team-form features. The latest isolated market-aware experiment (`data/model_artifacts/stage3_market/`) improved the expanded XGBoost holdout log loss to `0.9986` and accuracy to `0.5289`, but still did not beat the raw market baseline over 2019-20 through 2025-26 (`0.9851` model log loss vs `0.9778` market log loss in `market_baseline_diagnostics.json`).
 
 ---
 

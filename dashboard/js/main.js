@@ -19,6 +19,7 @@ const state = {
   backtest: null,
   simulator: null,
   strategyComparison: null,
+  trainingPolicy: null,
   activeStrategyId: null,
   diagnostics: null,
   valueBets: [],
@@ -472,6 +473,45 @@ function renderCalibration() {
     `;
   }).join("");
 }
+
+function renderTrainingPolicy() {
+  const payload = state.trainingPolicy || {};
+  const aggregate = payload.aggregate || {};
+  const folds = payload.folds || [];
+  renderCards("training-policy-kpis", [
+    ["Policy", payload.model ? "Expanding annual" : "Unavailable"],
+    ["Walk-forward ROI", formatPct(aggregate.roi ?? 0)],
+    ["Profit", formatCurrency((aggregate.profit ?? 0) * state.currentStake)],
+    ["Positive folds", `${aggregate.positive_roi_folds ?? 0} / ${aggregate.folds ?? folds.length}`],
+    ["Median fold ROI", formatPct(aggregate.median_fold_roi ?? 0)],
+    ["Worst fold", formatPct(Math.min(0, ...folds.map((fold) => Number(fold.value_bets?.overall?.roi ?? 0))))],
+  ]);
+
+  renderLineChart("training-policy-chart", [
+    {
+      name: "Fold ROI",
+      points: folds.map((fold) => ({
+        label: fold.test_seasons?.[0] || "Fold",
+        value: Number(fold.value_bets?.overall?.roi ?? 0) * 100,
+      })),
+    },
+  ], { label: "Expanding walk-forward fold ROI" });
+
+  document.getElementById("training-policy-body").innerHTML = folds.map((fold) => {
+    const summary = fold.value_bets?.overall || {};
+    return `
+      <tr class="${Number(summary.roi || 0) >= 0 ? "win-row" : "loss-row"}">
+        <td>${escapeHtml(fold.test_seasons?.[0] || "")}</td>
+        <td>${escapeHtml(`${fold.train_start} to ${fold.train_end}`)}</td>
+        <td>${summary.bets ?? 0}</td>
+        <td>${formatCurrency((summary.profit ?? 0) * state.currentStake)}</td>
+        <td>${formatPct(summary.roi ?? 0)}</td>
+        <td>${formatNumber(fold.metrics?.holdout_log_loss, 3)}</td>
+      </tr>
+    `;
+  }).join("");
+}
+
 function renderStrategyComparison() {
   const strategies = state.strategyComparison?.strategies || [];
   const body = document.getElementById("strategy-comparison-body");
@@ -532,6 +572,7 @@ function renderSimulator() {
   document.getElementById("stake-value").textContent = formatCurrency(stake);
   const strategy = activeStrategy();
   const simulation = calculateSimulation(stake);
+  renderTrainingPolicy();
   renderStrategyComparison();
   const summary = simulation.summary;
   renderCards("simulator-kpis", [
@@ -588,11 +629,12 @@ async function init() {
 
   const status = document.getElementById("data-status");
   try {
-    const [analytics, backtest, simulator, strategyComparison, diagnostics, valueBets] = await Promise.all([
+    const [analytics, backtest, simulator, strategyComparison, trainingPolicy, diagnostics, valueBets] = await Promise.all([
       loadJson("data/league_analytics.json"),
       loadJson("data/backtest.json"),
       loadJson("data/simulator.json"),
       loadJson("data/strategy_comparison.json"),
+      loadJson("data/training_policy.json"),
       loadJson("data/diagnostics.json"),
       loadJson("data/value_bets.json"),
     ]);
@@ -601,6 +643,7 @@ async function init() {
     state.backtest = backtest;
     state.simulator = simulator;
     state.strategyComparison = strategyComparison;
+    state.trainingPolicy = trainingPolicy;
     state.diagnostics = diagnostics;
     state.valueBets = valueBets;
     setupAnalytics();
