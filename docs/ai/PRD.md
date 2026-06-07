@@ -25,6 +25,7 @@ A 10% threshold filters out noise and model uncertainty, retaining only high-con
 
 - Build a reproducible, containerised end-to-end pipeline from raw CSV data to odds comparison output
 - Train and track a match outcome prediction model that produces calibrated win probabilities
+- Train a market-aware variant that uses overround-normalized bookmaker-implied probabilities as baseline features
 - Use Football-Data.co.uk historical odds CSVs for bookmaker comparison
 - Surface results through a dashboard with four views: league analytics, backtest performance, odds inspection, and a betting simulator
 - Demonstrate production-grade engineering practices: modular pipeline stages, experiment tracking with MLflow, and Docker deployment
@@ -111,6 +112,10 @@ All stages are containerised with Docker. Each stage is independently runnable a
 | `HomeGoals_Last5` | Rolling 5-match goals scored (home) |
 | `AwayGoals_Last5` | Rolling 5-match goals scored (away) |
 | `AbsGoalsLast5Diff` | Absolute gap between home/away recent goals |
+| `HomeGoalsAgainst_Last5`, `AwayGoalsAgainst_Last5` | Rolling 5-match defensive goals conceded |
+| `HomeShotsOnTargetFor_Last5`, `AwayShotsOnTargetFor_Last5` | Rolling shot pressure created |
+| `HomeShotsOnTargetAgainst_Last5`, `AwayShotsOnTargetAgainst_Last5` | Rolling shot pressure conceded |
+| `HomeCornersAgainst_Last5`, `AwayCornersAgainst_Last5` | Rolling territory pressure conceded |
 | `HomeCorners_Last5` | Rolling 5-match corners (home) |
 | `AwayCorners_Last5` | Rolling 5-match corners (away) |
 | `HomePoints_Last5` | Rolling 5-match points (home) |
@@ -120,6 +125,9 @@ All stages are containerised with Docker. Each stage is independently runnable a
 | `AvgDrawRateLast5`, `AbsDrawRateLast5Diff` | Shared and differential recent draw tendency |
 | `HomeWinRate_Season` | Season win rate at time of match (home) |
 | `AwayWinRate_Season` | Season win rate at time of match (away) |
+| `HomeVenuePoints_Last5`, `AwayVenuePoints_Last5` | Venue-specific recent form |
+| `HomeRestDays`, `AwayRestDays` | Days since each team last played |
+| `HomeMatchesLast14Days`, `AwayMatchesLast14Days` | Fixture congestion proxy |
 | `League_ENG`, `League_SPA`, `League_FRA`, `League_GER`, `League_ITA` | One-hot league indicators |
 | `Result` | Target: H / D / A |
 

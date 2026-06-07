@@ -35,6 +35,7 @@ mlruns/
 .ipynb_checkpoints/
 
 # Logs and temporary files
+ai.log
 *.log
 *.tmp
 *.temp

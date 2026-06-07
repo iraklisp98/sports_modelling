@@ -10,6 +10,7 @@ from pipeline.stage4_odds_gen import (
     BASE_FEATURE_COLUMNS,
     FEATURE_COLUMNS,
     LEAGUE_FEATURE_COLUMNS,
+    MARKET_FEATURE_COLUMNS,
     add_league_indicator_features,
     OUTPUT_COLUMNS,
     build_model_odds_frame,
@@ -41,9 +42,11 @@ def sample_features() -> pd.DataFrame:
 
 
 class FakeModel:
-    def __init__(self, proba: np.ndarray, classes_: np.ndarray | None = None):
+    def __init__(self, proba: np.ndarray, classes_: np.ndarray | None = None, feature_names=None):
         self._proba = proba
         self.classes_ = np.array([0, 1, 2]) if classes_ is None else np.asarray(classes_)
+        if feature_names is not None:
+            self.feature_names_in_ = np.asarray(feature_names, dtype=object)
         self.seen_features = None
 
     def predict_proba(self, features: pd.DataFrame) -> np.ndarray:
@@ -183,6 +186,36 @@ class Stage4OddsGenTests(unittest.TestCase):
         self.assertEqual(written["RBallID"].tolist(), [1, 2, 3, 4])
         self.assertTrue(np.allclose(written[["P_Home", "P_Draw", "P_Away"]].sum(axis=1), 1.0))
         self.assertTrue((written[["ModelOdds_Home", "ModelOdds_Draw", "ModelOdds_Away"]] > 0).all().all())
+
+    def test_run_pipeline_adds_market_features_when_model_requires_them(self):
+        with TemporaryDirectory() as tmp_dir:
+            tmp_path = Path(tmp_dir)
+            features_dir = tmp_path / "features"
+            odds_file = tmp_path / "E0_1920.csv"
+            output_path = tmp_path / "output" / "model_odds.parquet"
+            features_dir.mkdir(parents=True, exist_ok=True)
+            sample_features().to_parquet(features_dir / "ENG_features.parquet", index=False)
+            pd.DataFrame(
+                [
+                    {"Date": "01/08/2017", "HomeTeam": "Home 1", "AwayTeam": "Away 1", "B365H": 2.0, "B365D": 3.5, "B365A": 4.5},
+                    {"Date": "02/08/2017", "HomeTeam": "Home 2", "AwayTeam": "Away 2", "B365H": 1.8, "B365D": 3.6, "B365A": 5.0},
+                ]
+            ).to_csv(odds_file, index=False)
+            feature_names = [*FEATURE_COLUMNS, *MARKET_FEATURE_COLUMNS]
+            fake_model = FakeModel(np.array([[0.2, 0.3, 0.5], [0.5, 0.25, 0.25]]), feature_names=feature_names)
+
+            with patch("pipeline.stage4_odds_gen.load_production_model", return_value=fake_model):
+                summary = run_pipeline(
+                    leagues=["ENG"],
+                    features_dir=features_dir,
+                    output_path=output_path,
+                    tracking_uri="file:mlruns",
+                    football_data_dir=odds_file,
+                )
+
+            self.assertEqual(summary.rows, 2)
+            self.assertEqual(fake_model.seen_features.columns.tolist(), feature_names)
+            self.assertTrue(set(MARKET_FEATURE_COLUMNS).issubset(fake_model.seen_features.columns))
 
 
 if __name__ == "__main__":

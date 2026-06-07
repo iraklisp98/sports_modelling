@@ -21,8 +21,10 @@ class DockerConfigTests(unittest.TestCase):
                 "stage1_ingest",
                 "stage2_features",
                 "stage3_train",
+                "poisson_goal_model",
                 "stage4_odds_gen",
                 "stage5_compare",
+                "market_baseline_diagnostics",
                 "model_diagnostics",
                 "export_dashboard_data",
             ],
@@ -31,9 +33,9 @@ class DockerConfigTests(unittest.TestCase):
     def test_pipeline_orchestrator_can_select_stage_slice(self):
         stages = select_stages(from_stage="stage3_train", to_stage="stage5_compare")
 
-        self.assertEqual([stage.name for stage in stages], ["stage3_train", "stage4_odds_gen", "stage5_compare"])
+        self.assertEqual([stage.name for stage in stages], ["stage3_train", "poisson_goal_model", "stage4_odds_gen", "stage5_compare"])
         self.assertIn("--tracking-uri", stages[0].args)
-        self.assertIn("file:mlruns", stages[1].args)
+        self.assertIn("file:mlruns", stages[2].args)
 
     def test_root_compose_supports_plain_docker_compose_up(self):
         compose = yaml.safe_load(ROOT_COMPOSE.read_text(encoding="utf-8"))

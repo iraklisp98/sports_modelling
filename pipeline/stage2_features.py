@@ -47,8 +47,27 @@ STAGE2_FEATURE_COLUMNS = [
     "HomeGoals_Last5",
     "AwayGoals_Last5",
     "AbsGoalsLast5Diff",
+    "HomeGoalsAgainst_Last5",
+    "AwayGoalsAgainst_Last5",
+    "GoalsAgainstLast5Diff",
     "HomeCorners_Last5",
     "AwayCorners_Last5",
+    "HomeCornersAgainst_Last5",
+    "AwayCornersAgainst_Last5",
+    "CornerForLast5Diff",
+    "CornerAgainstLast5Diff",
+    "HomeShotsOnTargetFor_Last5",
+    "AwayShotsOnTargetFor_Last5",
+    "HomeShotsOnTargetAgainst_Last5",
+    "AwayShotsOnTargetAgainst_Last5",
+    "ShotsOnTargetForLast5Diff",
+    "ShotsOnTargetAgainstLast5Diff",
+    "HomeFoulsFor_Last5",
+    "AwayFoulsFor_Last5",
+    "FoulsForLast5Diff",
+    "HomeOffsidesFor_Last5",
+    "AwayOffsidesFor_Last5",
+    "OffsidesForLast5Diff",
     "HomePoints_Last5",
     "AwayPoints_Last5",
     "AbsPointsLast5Diff",
@@ -58,6 +77,21 @@ STAGE2_FEATURE_COLUMNS = [
     "AbsDrawRateLast5Diff",
     "HomeWinRate_Season",
     "AwayWinRate_Season",
+    "HomeVenuePoints_Last5",
+    "AwayVenuePoints_Last5",
+    "VenuePointsLast5Diff",
+    "HomeVenueGoalsFor_Last5",
+    "AwayVenueGoalsFor_Last5",
+    "HomeVenueGoalsAgainst_Last5",
+    "AwayVenueGoalsAgainst_Last5",
+    "HomeVenueWinRate_Season",
+    "AwayVenueWinRate_Season",
+    "HomeRestDays",
+    "AwayRestDays",
+    "RestDaysDiff",
+    "HomeMatchesLast14Days",
+    "AwayMatchesLast14Days",
+    "CongestionDiff",
 ]
 
 RESULT_CODE = {"H": 0, "D": 1, "A": 2}
@@ -180,8 +214,17 @@ def _team_match_history(df: pd.DataFrame) -> pd.DataFrame:
             "Date": df["Date"],
             "Season": df["Season"],
             "Team": df["HomeTeam"],
+            "Venue": "H",
             "Goals": df["HomeGoals"],
+            "GoalsAgainst": df["AwayGoals"],
             "Corners": df["HomeCorners"],
+            "CornersAgainst": df["AwayCorners"],
+            "ShotsOnTarget": df["HomeShotsOnTarget"],
+            "ShotsOnTargetAgainst": df["AwayShotsOnTarget"],
+            "Fouls": df["HomeFouls"],
+            "FoulsAgainst": df["AwayFouls"],
+            "Offsides": df["HomeOffsides"],
+            "OffsidesAgainst": df["AwayOffsides"],
             "Points": home_points,
             "Draw": draw_flag,
         }
@@ -192,8 +235,17 @@ def _team_match_history(df: pd.DataFrame) -> pd.DataFrame:
             "Date": df["Date"],
             "Season": df["Season"],
             "Team": df["AwayTeam"],
+            "Venue": "A",
             "Goals": df["AwayGoals"],
+            "GoalsAgainst": df["HomeGoals"],
             "Corners": df["AwayCorners"],
+            "CornersAgainst": df["HomeCorners"],
+            "ShotsOnTarget": df["AwayShotsOnTarget"],
+            "ShotsOnTargetAgainst": df["HomeShotsOnTarget"],
+            "Fouls": df["AwayFouls"],
+            "FoulsAgainst": df["HomeFouls"],
+            "Offsides": df["AwayOffsides"],
+            "OffsidesAgainst": df["HomeOffsides"],
             "Points": away_points,
             "Draw": draw_flag,
         }
@@ -203,44 +255,152 @@ def _team_match_history(df: pd.DataFrame) -> pd.DataFrame:
     return history.sort_values(["Team", "Date", "RBallID"], kind="mergesort").reset_index(drop=True)
 
 
+def _rolling_mean_by_team(history: pd.DataFrame, source: str, target: str, window: int) -> None:
+    grouped = history.groupby("Team", sort=False)
+    history[target] = grouped[source].transform(
+        lambda values: values.shift(1).rolling(window=window, min_periods=1).mean()
+    )
+
+
+def _rolling_count_by_team(history: pd.DataFrame, days: int = 14) -> pd.Series:
+    counts = pd.Series(0.0, index=history.index)
+    for _, group in history.groupby("Team", sort=False):
+        dates = pd.to_datetime(group["Date"]).reset_index(drop=True)
+        values = []
+        for idx, current_date in enumerate(dates):
+            previous = dates.iloc[:idx]
+            values.append(float(((current_date - previous).dt.days <= days).sum()))
+        counts.loc[group.index] = values
+    return counts
+
+
 def add_rolling_features(df: pd.DataFrame, window: int = ROLLING_WINDOW) -> pd.DataFrame:
     featured = sort_matches(df)
     if "Result" not in featured.columns:
         featured = add_result_columns(featured)
 
     history = _team_match_history(featured)
-    grouped = history.groupby("Team", sort=False)
-    for source, target in [
+    rolling_specs = [
         ("Goals", "Goals_Last5"),
+        ("GoalsAgainst", "GoalsAgainst_Last5"),
         ("Corners", "Corners_Last5"),
+        ("CornersAgainst", "CornersAgainst_Last5"),
+        ("ShotsOnTarget", "ShotsOnTarget_Last5"),
+        ("ShotsOnTargetAgainst", "ShotsOnTargetAgainst_Last5"),
+        ("Fouls", "Fouls_Last5"),
+        ("FoulsAgainst", "FoulsAgainst_Last5"),
+        ("Offsides", "Offsides_Last5"),
+        ("OffsidesAgainst", "OffsidesAgainst_Last5"),
         ("Points", "Points_Last5"),
         ("Draw", "DrawRate_Last5"),
-    ]:
-        history[target] = grouped[source].transform(
-            lambda values: values.shift(1).rolling(window=window, min_periods=1).mean()
-        )
-    history[["Goals_Last5", "Corners_Last5", "Points_Last5", "DrawRate_Last5"]] = history[
-        ["Goals_Last5", "Corners_Last5", "Points_Last5", "DrawRate_Last5"]
-    ].fillna(0.0)
+    ]
+    for source, target in rolling_specs:
+        _rolling_mean_by_team(history, source, target, window)
 
-    feature_history = history[["RBallID", "Team", "Goals_Last5", "Corners_Last5", "Points_Last5", "DrawRate_Last5"]]
+    rolling_columns = [target for _, target in rolling_specs]
+    history[rolling_columns] = history[rolling_columns].fillna(0.0)
+    history["RestDays"] = history.groupby("Team", sort=False)["Date"].diff().dt.days.clip(lower=0).fillna(14.0)
+    history["MatchesLast14Days"] = _rolling_count_by_team(history, days=14)
+
+    feature_history = history[["RBallID", "Team", *rolling_columns, "RestDays", "MatchesLast14Days"]]
 
     home_features = feature_history.rename(
         columns={
             "Team": "HomeTeam",
             "Goals_Last5": "HomeGoals_Last5",
+            "GoalsAgainst_Last5": "HomeGoalsAgainst_Last5",
             "Corners_Last5": "HomeCorners_Last5",
+            "CornersAgainst_Last5": "HomeCornersAgainst_Last5",
+            "ShotsOnTarget_Last5": "HomeShotsOnTargetFor_Last5",
+            "ShotsOnTargetAgainst_Last5": "HomeShotsOnTargetAgainst_Last5",
+            "Fouls_Last5": "HomeFoulsFor_Last5",
+            "FoulsAgainst_Last5": "HomeFoulsAgainst_Last5",
+            "Offsides_Last5": "HomeOffsidesFor_Last5",
+            "OffsidesAgainst_Last5": "HomeOffsidesAgainst_Last5",
             "Points_Last5": "HomePoints_Last5",
             "DrawRate_Last5": "HomeDrawRate_Last5",
+            "RestDays": "HomeRestDays",
+            "MatchesLast14Days": "HomeMatchesLast14Days",
         }
     )
     away_features = feature_history.rename(
         columns={
             "Team": "AwayTeam",
             "Goals_Last5": "AwayGoals_Last5",
+            "GoalsAgainst_Last5": "AwayGoalsAgainst_Last5",
             "Corners_Last5": "AwayCorners_Last5",
+            "CornersAgainst_Last5": "AwayCornersAgainst_Last5",
+            "ShotsOnTarget_Last5": "AwayShotsOnTargetFor_Last5",
+            "ShotsOnTargetAgainst_Last5": "AwayShotsOnTargetAgainst_Last5",
+            "Fouls_Last5": "AwayFoulsFor_Last5",
+            "FoulsAgainst_Last5": "AwayFoulsAgainst_Last5",
+            "Offsides_Last5": "AwayOffsidesFor_Last5",
+            "OffsidesAgainst_Last5": "AwayOffsidesAgainst_Last5",
             "Points_Last5": "AwayPoints_Last5",
             "DrawRate_Last5": "AwayDrawRate_Last5",
+            "RestDays": "AwayRestDays",
+            "MatchesLast14Days": "AwayMatchesLast14Days",
+        }
+    )
+
+    featured = featured.merge(home_features, on=["RBallID", "HomeTeam"], how="left")
+    featured = featured.merge(away_features, on=["RBallID", "AwayTeam"], how="left")
+    return featured
+
+
+def add_venue_form_features(df: pd.DataFrame, window: int = ROLLING_WINDOW) -> pd.DataFrame:
+    featured = sort_matches(df)
+    if "Result" not in featured.columns:
+        featured = add_result_columns(featured)
+
+    history = _team_match_history(featured)
+    history = history.sort_values(["Team", "Venue", "Date", "RBallID"], kind="mergesort").reset_index(drop=True)
+    grouped = history.groupby(["Team", "Venue"], sort=False)
+    for source, target in [
+        ("Points", "VenuePoints_Last5"),
+        ("Goals", "VenueGoalsFor_Last5"),
+        ("GoalsAgainst", "VenueGoalsAgainst_Last5"),
+    ]:
+        history[target] = grouped[source].transform(
+            lambda values: values.shift(1).rolling(window=window, min_periods=1).mean()
+        )
+    history[["VenuePoints_Last5", "VenueGoalsFor_Last5", "VenueGoalsAgainst_Last5"]] = history[
+        ["VenuePoints_Last5", "VenueGoalsFor_Last5", "VenueGoalsAgainst_Last5"]
+    ].fillna(0.0)
+
+    history["Win"] = (history["Points"] == 3.0).astype(float)
+    season_grouped = history.groupby(["Team", "Venue", "Season"], sort=False)
+    previous_wins = season_grouped["Win"].cumsum() - history["Win"]
+    previous_matches = season_grouped.cumcount()
+    history["VenueWinRate_Season"] = (previous_wins / previous_matches.replace(0, np.nan)).fillna(0.0)
+
+    venue_features = history[
+        [
+            "RBallID",
+            "Team",
+            "Venue",
+            "VenuePoints_Last5",
+            "VenueGoalsFor_Last5",
+            "VenueGoalsAgainst_Last5",
+            "VenueWinRate_Season",
+        ]
+    ]
+    home_features = venue_features[venue_features["Venue"] == "H"].drop(columns="Venue").rename(
+        columns={
+            "Team": "HomeTeam",
+            "VenuePoints_Last5": "HomeVenuePoints_Last5",
+            "VenueGoalsFor_Last5": "HomeVenueGoalsFor_Last5",
+            "VenueGoalsAgainst_Last5": "HomeVenueGoalsAgainst_Last5",
+            "VenueWinRate_Season": "HomeVenueWinRate_Season",
+        }
+    )
+    away_features = venue_features[venue_features["Venue"] == "A"].drop(columns="Venue").rename(
+        columns={
+            "Team": "AwayTeam",
+            "VenuePoints_Last5": "AwayVenuePoints_Last5",
+            "VenueGoalsFor_Last5": "AwayVenueGoalsFor_Last5",
+            "VenueGoalsAgainst_Last5": "AwayVenueGoalsAgainst_Last5",
+            "VenueWinRate_Season": "AwayVenueWinRate_Season",
         }
     )
 
@@ -275,9 +435,21 @@ def add_draw_signal_features(df: pd.DataFrame) -> pd.DataFrame:
     featured = df.copy()
     featured["AbsEloDiff"] = featured["EloDiff"].abs()
     featured["AbsGoalsLast5Diff"] = (featured["HomeGoals_Last5"] - featured["AwayGoals_Last5"]).abs()
+    featured["GoalsAgainstLast5Diff"] = featured["HomeGoalsAgainst_Last5"] - featured["AwayGoalsAgainst_Last5"]
+    featured["CornerForLast5Diff"] = featured["HomeCorners_Last5"] - featured["AwayCorners_Last5"]
+    featured["CornerAgainstLast5Diff"] = featured["HomeCornersAgainst_Last5"] - featured["AwayCornersAgainst_Last5"]
+    featured["ShotsOnTargetForLast5Diff"] = featured["HomeShotsOnTargetFor_Last5"] - featured["AwayShotsOnTargetFor_Last5"]
+    featured["ShotsOnTargetAgainstLast5Diff"] = (
+        featured["HomeShotsOnTargetAgainst_Last5"] - featured["AwayShotsOnTargetAgainst_Last5"]
+    )
+    featured["FoulsForLast5Diff"] = featured["HomeFoulsFor_Last5"] - featured["AwayFoulsFor_Last5"]
+    featured["OffsidesForLast5Diff"] = featured["HomeOffsidesFor_Last5"] - featured["AwayOffsidesFor_Last5"]
     featured["AbsPointsLast5Diff"] = (featured["HomePoints_Last5"] - featured["AwayPoints_Last5"]).abs()
     featured["AvgDrawRateLast5"] = (featured["HomeDrawRate_Last5"] + featured["AwayDrawRate_Last5"]) / 2.0
     featured["AbsDrawRateLast5Diff"] = (featured["HomeDrawRate_Last5"] - featured["AwayDrawRate_Last5"]).abs()
+    featured["VenuePointsLast5Diff"] = featured["HomeVenuePoints_Last5"] - featured["AwayVenuePoints_Last5"]
+    featured["RestDaysDiff"] = featured["HomeRestDays"] - featured["AwayRestDays"]
+    featured["CongestionDiff"] = featured["HomeMatchesLast14Days"] - featured["AwayMatchesLast14Days"]
     return featured
 
 
@@ -287,6 +459,7 @@ def build_feature_dataset(df: pd.DataFrame) -> pd.DataFrame:
     featured = add_result_columns(featured)
     featured = add_elo_features(featured)
     featured = add_rolling_features(featured)
+    featured = add_venue_form_features(featured)
     featured = add_season_win_rates(featured)
     featured = add_draw_signal_features(featured)
     return featured

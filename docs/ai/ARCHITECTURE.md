@@ -54,6 +54,7 @@ The build is organised into seven stages. Pipeline stages communicate exclusivel
 │  • Time-aware split: train before 2019–20, hold out 2019–20          │
 │  • Optuna tunes hyperparameters (50 trials, minimise log loss)       │
 │  • Final model trained, evaluated (log loss, Brier, accuracy, F1)   │
+│  • Market-aware features can add normalized bookmaker probabilities │
 │  • All params, metrics, and artifacts logged to MLflow               │
 │  • Best model registered in MLflow Model Registry → "Production"    │
 │                                                                      │
@@ -170,6 +171,10 @@ All columns from Stage 1 output, plus:
 | `HomeGoals_Last5` | float | Rolling 5-match avg goals (home) |
 | `AwayGoals_Last5` | float | Rolling 5-match avg goals (away) |
 | `AbsGoalsLast5Diff` | float | Absolute recent-goals gap |
+| `HomeGoalsAgainst_Last5`, `AwayGoalsAgainst_Last5` | float | Rolling defensive goals conceded |
+| `HomeShotsOnTargetFor_Last5`, `AwayShotsOnTargetFor_Last5` | float | Rolling shot pressure created |
+| `HomeShotsOnTargetAgainst_Last5`, `AwayShotsOnTargetAgainst_Last5` | float | Rolling shot pressure conceded |
+| `HomeCornersAgainst_Last5`, `AwayCornersAgainst_Last5` | float | Rolling corner pressure conceded |
 | `HomeCorners_Last5` | float | Rolling 5-match avg corners (home) |
 | `AwayCorners_Last5` | float | Rolling 5-match avg corners (away) |
 | `HomePoints_Last5` | float | Rolling 5-match avg points (home) |
@@ -181,6 +186,9 @@ All columns from Stage 1 output, plus:
 | `AbsDrawRateLast5Diff` | float | Absolute recent draw-rate gap |
 | `HomeWinRate_Season` | float | Season win rate to date (home) |
 | `AwayWinRate_Season` | float | Season win rate to date (away) |
+| `HomeVenuePoints_Last5`, `AwayVenuePoints_Last5` | float | Venue-specific recent form |
+| `HomeRestDays`, `AwayRestDays` | float | Days since each team last played |
+| `HomeMatchesLast14Days`, `AwayMatchesLast14Days` | float | Fixture congestion proxy |
 | `League_ENG` | float | One-hot league indicator |
 | `League_SPA` | float | One-hot league indicator |
 | `League_FRA` | float | One-hot league indicator |

@@ -8,9 +8,11 @@ from typing import Iterable
 import numpy as np
 import pandas as pd
 try:
-    from pipeline.model_features import BASE_FEATURE_COLUMNS, FEATURE_COLUMNS, LEAGUE_FEATURE_COLUMNS, LEAGUES, add_league_indicator_features
+    from pipeline.model_features import BASE_FEATURE_COLUMNS, FEATURE_COLUMNS, LEAGUE_FEATURE_COLUMNS, LEAGUES, MARKET_FEATURE_COLUMNS, add_league_indicator_features
+    from pipeline.market_features import FOOTBALL_DATA_DIR, add_market_features
 except ModuleNotFoundError:
-    from model_features import BASE_FEATURE_COLUMNS, FEATURE_COLUMNS, LEAGUE_FEATURE_COLUMNS, LEAGUES, add_league_indicator_features
+    from model_features import BASE_FEATURE_COLUMNS, FEATURE_COLUMNS, LEAGUE_FEATURE_COLUMNS, LEAGUES, MARKET_FEATURE_COLUMNS, add_league_indicator_features
+    from market_features import FOOTBALL_DATA_DIR, add_market_features
 
 FEATURES_DIR = Path('data/features')
 OUTPUT_PATH = Path('data/output/model_odds.parquet')
@@ -177,9 +179,13 @@ def run_pipeline(
     model_name: str = MODEL_NAME,
     model_stage: str = MODEL_STAGE,
     tracking_uri: str | None = TRACKING_URI,
+    football_data_dir: Path = FOOTBALL_DATA_DIR,
 ) -> OddsGenerationSummary:
     df = load_feature_data(leagues=leagues, features_dir=features_dir)
     model = load_production_model(model_name=model_name, model_stage=model_stage, tracking_uri=tracking_uri)
+    expected_features = tuple(getattr(model, 'feature_names_in_', FEATURE_COLUMNS))
+    if any(column in expected_features for column in MARKET_FEATURE_COLUMNS) and not set(MARKET_FEATURE_COLUMNS).issubset(df.columns):
+        df, _ = add_market_features(df, football_data_dir=football_data_dir)
     odds_df = build_model_odds_frame(df, model)
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
@@ -196,6 +202,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument('--model-name', default=MODEL_NAME)
     parser.add_argument('--model-stage', default=MODEL_STAGE)
     parser.add_argument('--tracking-uri', default=TRACKING_URI)
+    parser.add_argument('--football-data-dir', type=Path, default=FOOTBALL_DATA_DIR)
     return parser.parse_args()
 
 
@@ -207,5 +214,6 @@ if __name__ == '__main__':
         model_name=args.model_name,
         model_stage=args.model_stage,
         tracking_uri=args.tracking_uri,
+        football_data_dir=args.football_data_dir,
     )
     print(summary.line())

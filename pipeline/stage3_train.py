@@ -9,9 +9,11 @@ from typing import Iterable
 import numpy as np
 import pandas as pd
 try:
-    from pipeline.model_features import BASE_FEATURE_COLUMNS, FEATURE_COLUMNS, LEAGUE_FEATURE_COLUMNS, LEAGUES, add_league_indicator_features
+    from pipeline.model_features import BASE_FEATURE_COLUMNS, FEATURE_COLUMNS, LEAGUE_FEATURE_COLUMNS, LEAGUES, MARKET_AWARE_FEATURE_COLUMNS, MARKET_FEATURE_COLUMNS, add_league_indicator_features
+    from pipeline.market_features import FOOTBALL_DATA_DIR, add_market_features
 except ModuleNotFoundError:
-    from model_features import BASE_FEATURE_COLUMNS, FEATURE_COLUMNS, LEAGUE_FEATURE_COLUMNS, LEAGUES, add_league_indicator_features
+    from model_features import BASE_FEATURE_COLUMNS, FEATURE_COLUMNS, LEAGUE_FEATURE_COLUMNS, LEAGUES, MARKET_AWARE_FEATURE_COLUMNS, MARKET_FEATURE_COLUMNS, add_league_indicator_features
+    from market_features import FOOTBALL_DATA_DIR, add_market_features
 from sklearn.calibration import CalibratedClassifierCV
 from sklearn.metrics import accuracy_score, confusion_matrix, f1_score, log_loss
 from sklearn.model_selection import TimeSeriesSplit
@@ -557,11 +559,11 @@ def write_json(path: Path, payload: dict[str, object]) -> None:
     path.write_text(json.dumps(payload, indent=2, sort_keys=True), encoding="utf-8")
 
 
-def write_feature_importance(model: XGBClassifier, output_path: Path) -> None:
+def write_feature_importance(model: XGBClassifier, output_path: Path, feature_columns: Iterable[str] = FEATURE_COLUMNS) -> None:
     import matplotlib.pyplot as plt
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    importance = pd.Series(model.feature_importances_, index=FEATURE_COLUMNS).sort_values()
+    importance = pd.Series(model.feature_importances_, index=list(feature_columns)).sort_values()
     fig, ax = plt.subplots(figsize=(8, 5))
     importance.plot.barh(ax=ax)
     ax.set_title("Feature Importance")
@@ -648,18 +650,25 @@ def run_pipeline(
     leagues: Iterable[str] = LEAGUES,
     features_dir: Path = FEATURES_DIR,
     artifacts_dir: Path = ARTIFACTS_DIR,
+    football_data_dir: Path = FOOTBALL_DATA_DIR,
     trials: int = 0,
     tracking_uri: str | None = None,
     calibration_method: str = DEFAULT_CALIBRATION_METHOD,
+    use_market_features: bool = True,
 ) -> TrainingRunSummary:
     if calibration_method not in CALIBRATION_METHODS:
         raise ValueError(f"Unsupported calibration method: {calibration_method}")
     df = load_feature_data(leagues=leagues, features_dir=features_dir)
+    market_summary = None
+    selected_feature_columns = FEATURE_COLUMNS
+    if use_market_features:
+        df, market_summary = add_market_features(df, football_data_dir=football_data_dir)
+        selected_feature_columns = MARKET_AWARE_FEATURE_COLUMNS
     train_df, holdout_df = split_train_holdout(df)
     model_train_df, calibration_df = split_model_calibration_data(train_df)
-    X_train, y_train = select_features_and_target(model_train_df)
-    X_calibration, y_calibration = select_features_and_target(calibration_df)
-    X_holdout, y_holdout = select_features_and_target(holdout_df)
+    X_train, y_train = select_features_and_target(model_train_df, feature_columns=selected_feature_columns)
+    X_calibration, y_calibration = select_features_and_target(calibration_df, feature_columns=selected_feature_columns)
+    X_holdout, y_holdout = select_features_and_target(holdout_df, feature_columns=selected_feature_columns)
 
     train_sample_weight = compute_class_sample_weights(y_train)
     params = tune_hyperparameters(X_train, y_train, trials=trials, sample_weight=train_sample_weight)
@@ -678,7 +687,7 @@ def run_pipeline(
         multiclass_model=calibrated_model,
         draw_model=calibrated_draw_model,
         blend_weight=selected_draw_overlay_weight,
-        feature_names=FEATURE_COLUMNS,
+        feature_names=selected_feature_columns,
     )
     base_holdout_proba = normalize_probabilities(calibrated_model.predict_proba(X_holdout))
     selected_overlay_holdout_proba = normalize_probabilities(selected_overlay_model.predict_proba(X_holdout))
@@ -698,7 +707,7 @@ def run_pipeline(
     benchmarks_path = artifacts_dir / "model_benchmarks.json"
     draw_overlay_selection_path = artifacts_dir / "draw_overlay_weight_selection.json"
 
-    _, y_benchmark = select_features_and_target(train_df)
+    _, y_benchmark = select_features_and_target(train_df, feature_columns=selected_feature_columns)
     benchmarks = build_model_benchmarks(
         y_benchmark,
         holdout_df,
@@ -713,6 +722,11 @@ def run_pipeline(
         metrics_path,
         {
             **metrics,
+            "use_market_features": use_market_features,
+            "market_feature_columns": list(MARKET_FEATURE_COLUMNS) if use_market_features else [],
+            "market_feature_input_rows": market_summary.input_rows if market_summary else None,
+            "market_feature_output_rows": market_summary.output_rows if market_summary else None,
+            "market_feature_dropped_rows": market_summary.dropped_rows if market_summary else None,
             "draw_overlay_weight": selected_draw_overlay_weight if overlay_accepted else 0.0,
             "selected_draw_overlay_weight": selected_draw_overlay_weight,
             "draw_overlay_accepted_as_production": overlay_accepted,
@@ -732,7 +746,7 @@ def run_pipeline(
             "candidates": draw_overlay_weight_results,
         },
     )
-    write_feature_importance(model, feature_importance_path)
+    write_feature_importance(model, feature_importance_path, feature_columns=selected_feature_columns)
     write_confusion_matrix(y_holdout, holdout_proba, confusion_matrix_path)
 
     predictions = holdout_df[["RBallID", "League", "Date", "Season", "HomeTeam", "AwayTeam", "Result"]].copy()
@@ -747,6 +761,7 @@ def run_pipeline(
         "production_draw_overlay_weight": selected_draw_overlay_weight if overlay_accepted else 0.0,
         "draw_overlay_accepted_as_production": overlay_accepted,
         "calibration_method": calibration_method,
+        "use_market_features": use_market_features,
     }
     mlflow_run_id, model_uri = log_mlflow_run(
         model=production_model,
@@ -783,9 +798,11 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Train Stage 3 XGBoost match outcome model.")
     parser.add_argument("--features-dir", type=Path, default=FEATURES_DIR)
     parser.add_argument("--artifacts-dir", type=Path, default=ARTIFACTS_DIR)
+    parser.add_argument("--football-data-dir", type=Path, default=FOOTBALL_DATA_DIR)
     parser.add_argument("--trials", type=int, default=0, help="Optional Optuna trials. Default keeps the run fast.")
     parser.add_argument("--tracking-uri", default=None, help="Optional MLflow tracking URI.")
     parser.add_argument("--calibration-method", choices=CALIBRATION_METHODS, default=DEFAULT_CALIBRATION_METHOD)
+    parser.add_argument("--no-market-features", action="store_true", help="Train the original team-stat-only model.")
     return parser.parse_args()
 
 
@@ -794,8 +811,10 @@ if __name__ == "__main__":
     summary = run_pipeline(
         features_dir=args.features_dir,
         artifacts_dir=args.artifacts_dir,
+        football_data_dir=args.football_data_dir,
         trials=args.trials,
         tracking_uri=args.tracking_uri,
         calibration_method=args.calibration_method,
+        use_market_features=not args.no_market_features,
     )
     print(summary.line())

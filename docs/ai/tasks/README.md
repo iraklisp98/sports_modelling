@@ -12,9 +12,10 @@ Work through them in order. Each stage depends on the output of the previous one
 | 1 — Data Ingestion & Cleaning | [stage1_ingest.md](stage1_ingest.md) | Complete |
 | 2 — Feature Engineering | [stage2_features.md](stage2_features.md) | Complete |
 | 3 — Model Training | [stage3_train.md](stage3_train.md) | Complete |
+| 3.5 — Poisson Goal Benchmark | [poisson_goal_model.md](poisson_goal_model.md) | Complete |
 | 4 — Odds Generation | [stage4_odds_gen.md](stage4_odds_gen.md) | Complete |
-| 5 — Odds Comparison | [stage5_compare.md](stage5_compare.md) | Not started |
-| 6 — Dashboard | [stage6_dashboard.md](stage6_dashboard.md) | Not started |
-| 7 — Docker | [stage7_docker.md](stage7_docker.md) | Not started |
+| 5 — Odds Comparison | [stage5_compare.md](stage5_compare.md) | Complete |
+| 6 — Dashboard | [stage6_dashboard.md](stage6_dashboard.md) | Complete |
+| 7 — Docker | [stage7_docker.md](stage7_docker.md) | Runtime smoke pending |
 
 Update the status column as you complete each stage.

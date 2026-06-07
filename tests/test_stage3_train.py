@@ -346,7 +346,7 @@ class Stage3TrainTests(unittest.TestCase):
                 patch("pipeline.stage3_train.write_confusion_matrix"), \
                 patch("pipeline.stage3_train.log_mlflow_run", return_value=(None, None)), \
                 patch("pipeline.stage3_train.register_production_model", return_value=None):
-                run_pipeline(artifacts_dir=Path(tmpdir), trials=0)
+                run_pipeline(artifacts_dir=Path(tmpdir), trials=0, use_market_features=False)
 
         self.assertEqual(seen_labels, [0, 1, 2])
 

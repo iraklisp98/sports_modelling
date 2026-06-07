@@ -21,8 +21,10 @@ STAGES = (
     PipelineStage("stage1_ingest", Path("pipeline/stage1_ingest.py")),
     PipelineStage("stage2_features", Path("pipeline/stage2_features.py")),
     PipelineStage("stage3_train", Path("pipeline/stage3_train.py"), ("--tracking-uri", TRACKING_URI)),
+    PipelineStage("poisson_goal_model", Path("pipeline/poisson_goal_model.py")),
     PipelineStage("stage4_odds_gen", Path("pipeline/stage4_odds_gen.py"), ("--tracking-uri", TRACKING_URI)),
     PipelineStage("stage5_compare", Path("pipeline/stage5_compare.py")),
+    PipelineStage("market_baseline_diagnostics", Path("pipeline/market_baseline_diagnostics.py")),
     PipelineStage("model_diagnostics", Path("pipeline/model_diagnostics.py")),
     PipelineStage("export_dashboard_data", Path("pipeline/export_dashboard_data.py")),
 )

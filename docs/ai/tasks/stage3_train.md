@@ -70,19 +70,70 @@ The script supports Optuna with `--trials N`, but defaults to `--trials 0` for a
 - `data/features/ENG_features.parquet`
 - `data/features/SPA_features.parquet`
 - `data/features/FRA_features.parquet`
+- `data/features/GER_features.parquet`
+- `data/features/ITA_features.parquet`
 
 ### Feature columns
 
 ```python
 [
-    "HomeElo", "AwayElo", "EloDiff", "AbsEloDiff",
-    "HomeGoals_Last5", "AwayGoals_Last5", "AbsGoalsLast5Diff",
-    "HomeCorners_Last5", "AwayCorners_Last5",
-    "HomePoints_Last5", "AwayPoints_Last5", "AbsPointsLast5Diff",
-    "HomeDrawRate_Last5", "AwayDrawRate_Last5",
-    "AvgDrawRateLast5", "AbsDrawRateLast5Diff",
-    "HomeWinRate_Season", "AwayWinRate_Season",
-    "League_ENG", "League_SPA", "League_FRA", "League_GER", "League_ITA",
+    "HomeElo",
+    "AwayElo",
+    "EloDiff",
+    "AbsEloDiff",
+    "HomeGoals_Last5",
+    "AwayGoals_Last5",
+    "AbsGoalsLast5Diff",
+    "HomeGoalsAgainst_Last5",
+    "AwayGoalsAgainst_Last5",
+    "GoalsAgainstLast5Diff",
+    "HomeCorners_Last5",
+    "AwayCorners_Last5",
+    "HomeCornersAgainst_Last5",
+    "AwayCornersAgainst_Last5",
+    "CornerForLast5Diff",
+    "CornerAgainstLast5Diff",
+    "HomeShotsOnTargetFor_Last5",
+    "AwayShotsOnTargetFor_Last5",
+    "HomeShotsOnTargetAgainst_Last5",
+    "AwayShotsOnTargetAgainst_Last5",
+    "ShotsOnTargetForLast5Diff",
+    "ShotsOnTargetAgainstLast5Diff",
+    "HomeFoulsFor_Last5",
+    "AwayFoulsFor_Last5",
+    "FoulsForLast5Diff",
+    "HomeOffsidesFor_Last5",
+    "AwayOffsidesFor_Last5",
+    "OffsidesForLast5Diff",
+    "HomePoints_Last5",
+    "AwayPoints_Last5",
+    "AbsPointsLast5Diff",
+    "HomeDrawRate_Last5",
+    "AwayDrawRate_Last5",
+    "AvgDrawRateLast5",
+    "AbsDrawRateLast5Diff",
+    "HomeWinRate_Season",
+    "AwayWinRate_Season",
+    "HomeVenuePoints_Last5",
+    "AwayVenuePoints_Last5",
+    "VenuePointsLast5Diff",
+    "HomeVenueGoalsFor_Last5",
+    "AwayVenueGoalsFor_Last5",
+    "HomeVenueGoalsAgainst_Last5",
+    "AwayVenueGoalsAgainst_Last5",
+    "HomeVenueWinRate_Season",
+    "AwayVenueWinRate_Season",
+    "HomeRestDays",
+    "AwayRestDays",
+    "RestDaysDiff",
+    "HomeMatchesLast14Days",
+    "AwayMatchesLast14Days",
+    "CongestionDiff",
+    "League_ENG",
+    "League_SPA",
+    "League_FRA",
+    "League_GER",
+    "League_ITA",
 ]
 ```
 
@@ -179,7 +230,7 @@ model = mlflow.sklearn.load_model("models:/match_outcome_xgb/Production")
 - [ ] Holdout accuracy target `> 55%` is not met by the latest generated Production run: `0.5188`
 - [ ] Holdout log-loss target `< 0.95` is not met by the latest generated Production run: `0.9964`
 
-The log-loss gap is a model-quality improvement item, not a pipeline implementation blocker. The latest generated draw-overlay run improves draw F1 from the same-run base model (`0.0415` to `0.0421`) and accuracy (`0.5188` to `0.5207`), but log loss worsens slightly (`0.9974` to `0.99738` rounded) and remains worse than the previous tuned model. Likely next improvements are richer match-context features or a better draw model trained/evaluated on pre-holdout validation only.
+The log-loss gap is a model-quality improvement item, not a pipeline implementation blocker. Stage 3 now defaults to market-aware training: Football-Data bookmaker odds are converted into overround-normalized market probabilities, then used as explicit model features alongside team-form features. The latest isolated market-aware experiment (`data/model_artifacts/stage3_market/`) improved the expanded XGBoost holdout log loss to `0.9986` and accuracy to `0.5289`, but still did not beat the raw market baseline over 2019-20 through 2022-23 (`0.9851` model log loss vs `0.9778` market log loss in `market_baseline_diagnostics.json`).
 
 ---
 
