@@ -13,6 +13,7 @@ Work through them in order. Each stage depends on the output of the previous one
 | 2 — Feature Engineering | [stage2_features.md](stage2_features.md) | Complete |
 | 3 — Model Training | [stage3_train.md](stage3_train.md) | Complete |
 | 3.5 — Poisson Goal Benchmark | [poisson_goal_model.md](poisson_goal_model.md) | Complete |
+| 3.6 — Market Mispricing Model | `pipeline/mispricing_model.py` | Complete |
 | 4 — Odds Generation | [stage4_odds_gen.md](stage4_odds_gen.md) | Complete |
 | 5 — Odds Comparison | [stage5_compare.md](stage5_compare.md) | Complete |
 | 6 — Dashboard | [stage6_dashboard.md](stage6_dashboard.md) | Complete |

@@ -362,3 +362,8 @@ Stages 2–6: unchanged     →    Stages 2–6: unchanged
 ```
 
 Only Stage 1 changes. Everything from Stage 2 onwards reads the same Parquet schema and is completely unaffected by the source format change. This is the direct consequence of the data contract design.
+
+
+## Market Mispricing Layer
+
+`pipeline/mispricing_model.py` is a second-stage H/A bet-selection experiment. It does not predict the full match result directly. Instead, it builds one candidate row for each home and away price, uses market probability plus team-strength disagreement features, and predicts whether the offered price has positive expected value. The EV cutoff is selected with rolling pre-holdout validation folds from `2015-16` through `2018-19`, separately for home and away outcomes. Outcomes with no positive rolling-validation threshold are disabled before the forward test, then the selected thresholds are applied unchanged to `2019-20` onward. Outputs are written separately to `data/output/mispricing_value_bets.parquet` and `data/model_artifacts/mispricing_model/` so the strategy can be compared against XGBoost, market-aware XGBoost, and Poisson without changing Stage 5 thresholds.

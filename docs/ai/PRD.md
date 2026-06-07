@@ -26,6 +26,7 @@ A 10% threshold filters out noise and model uncertainty, retaining only high-con
 - Build a reproducible, containerised end-to-end pipeline from raw CSV data to odds comparison output
 - Train and track a match outcome prediction model that produces calibrated win probabilities
 - Train a market-aware variant that uses overround-normalized bookmaker-implied probabilities as baseline features
+- Train a second-stage home/away mispricing model that learns when market disagreement is worth betting
 - Use Football-Data.co.uk historical odds CSVs for bookmaker comparison
 - Surface results through a dashboard with four views: league analytics, backtest performance, odds inspection, and a betting simulator
 - Demonstrate production-grade engineering practices: modular pipeline stages, experiment tracking with MLflow, and Docker deployment

@@ -25,6 +25,7 @@ class DockerConfigTests(unittest.TestCase):
                 "stage4_odds_gen",
                 "stage5_compare",
                 "market_baseline_diagnostics",
+                "mispricing_model",
                 "model_diagnostics",
                 "export_dashboard_data",
             ],

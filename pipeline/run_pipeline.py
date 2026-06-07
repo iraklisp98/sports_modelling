@@ -25,6 +25,7 @@ STAGES = (
     PipelineStage("stage4_odds_gen", Path("pipeline/stage4_odds_gen.py"), ("--tracking-uri", TRACKING_URI)),
     PipelineStage("stage5_compare", Path("pipeline/stage5_compare.py")),
     PipelineStage("market_baseline_diagnostics", Path("pipeline/market_baseline_diagnostics.py")),
+    PipelineStage("mispricing_model", Path("pipeline/mispricing_model.py")),
     PipelineStage("model_diagnostics", Path("pipeline/model_diagnostics.py")),
     PipelineStage("export_dashboard_data", Path("pipeline/export_dashboard_data.py")),
 )
