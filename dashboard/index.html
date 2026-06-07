@@ -220,13 +220,35 @@
             <h2>Betting Simulator</h2>
             <p>Replay every flagged value bet with a configurable fixed stake.</p>
           </div>
-          <label class="stake-control">
-            Stake per bet
-            <input id="stake-slider" type="range" min="1" max="100" step="1" value="10">
-            <span id="stake-value">$10</span>
-          </label>
+          <div class="compact-filters">
+            <label>Strategy<select id="strategy-select"></select></label>
+            <label class="stake-control">
+              Stake per bet
+              <input id="stake-slider" type="range" min="1" max="100" step="1" value="10">
+              <span id="stake-value">$10</span>
+            </label>
+          </div>
         </div>
         <div class="summary-row six" id="simulator-kpis"></div>
+        <div class="subpanel table-panel">
+          <h3>Strategy Comparison</h3>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Strategy</th>
+                  <th>Bets</th>
+                  <th>Wins</th>
+                  <th>Hit rate</th>
+                  <th>Profit</th>
+                  <th>ROI</th>
+                  <th>Max DD</th>
+                </tr>
+              </thead>
+              <tbody id="strategy-comparison-body"></tbody>
+            </table>
+          </div>
+        </div>
         <div class="dashboard-grid two-col">
           <div class="subpanel">
             <h3>Bankroll Curve</h3>

@@ -11,6 +11,7 @@ from pipeline.export_dashboard_data import (
     build_mlflow_runs,
     load_diagnostics,
     build_simulator,
+    build_strategy_comparison,
     filter_holdout_value_bets,
     run_pipeline,
 )
@@ -123,6 +124,20 @@ class ExportDashboardDataTests(unittest.TestCase):
         self.assertEqual(payload["summary"]["max_drawdown"], 10.0)
 
 
+
+    def test_build_strategy_comparison_ranks_available_strategy_simulators(self):
+        strategies = {
+            "xgboost_value": sample_value_bets(),
+            "mispricing_model": sample_value_bets().iloc[[0]].copy(),
+        }
+
+        payload = build_strategy_comparison(strategies, primary_strategy_id="mispricing_model", stake=10.0)
+
+        self.assertEqual(payload["primary_strategy_id"], "mispricing_model")
+        self.assertEqual({row["id"] for row in payload["strategies"]}, {"xgboost_value", "mispricing_model"})
+        self.assertTrue(all("summary" in row and "bets" in row for row in payload["strategies"]))
+        self.assertGreaterEqual(payload["strategies"][0]["summary"]["roi_pct"], payload["strategies"][-1]["summary"]["roi_pct"])
+
     def test_filter_holdout_value_bets_keeps_forward_test_seasons(self):
         value_bets = pd.concat(
             [
@@ -227,18 +242,23 @@ class ExportDashboardDataTests(unittest.TestCase):
                 holdout_predictions_path=tmp_path / "missing_predictions.parquet",
                 output_dir=output_dir,
                 mlruns_dir=tmp_path / "missing_mlruns",
+                poisson_value_bets_path=tmp_path / "missing_poisson.parquet",
+                market_aware_value_bets_path=tmp_path / "missing_market_aware.parquet",
+                mispricing_value_bets_path=tmp_path / "missing_mispricing.parquet",
             )
 
             payloads = {}
-            for filename in ["league_analytics.json", "backtest.json", "value_bets.json", "simulator.json", "diagnostics.json"]:
+            for filename in ["league_analytics.json", "backtest.json", "value_bets.json", "simulator.json", "strategy_comparison.json", "diagnostics.json"]:
                 path = output_dir / filename
                 self.assertTrue(path.exists(), filename)
                 payloads[filename] = json.loads(path.read_text(encoding="utf-8"))
 
-        self.assertEqual(len(summary.files), 5)
+        self.assertEqual(len(summary.files), 6)
         self.assertEqual(payloads["league_analytics.json"]["leagues"], ["ENG", "FRA", "GER", "ITA", "SPA"])
         self.assertEqual(payloads["value_bets.json"][0]["Date"], "2019-08-10")
         self.assertEqual(payloads["simulator.json"]["summary"]["roi_pct"], 10.0)
+        self.assertIn("strategies", payloads["strategy_comparison.json"])
+        self.assertEqual(payloads["strategy_comparison.json"]["primary_strategy_id"], "xgboost_value")
         self.assertIn("value_bets_by_odds_range", payloads["diagnostics.json"])
 
 

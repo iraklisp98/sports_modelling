@@ -538,6 +538,11 @@ code {
   background: rgba(254, 226, 226, 0.45);
 }
 
+.active-strategy-row {
+  background: rgba(219, 234, 254, 0.65);
+  font-weight: 700;
+}
+
 .empty-mini {
   display: grid;
   min-height: 220px;

@@ -18,6 +18,8 @@ const state = {
   analytics: null,
   backtest: null,
   simulator: null,
+  strategyComparison: null,
+  activeStrategyId: null,
   diagnostics: null,
   valueBets: [],
   filteredBets: [],
@@ -368,8 +370,15 @@ function exportCsv() {
   URL.revokeObjectURL(url);
 }
 
+function activeStrategy() {
+  const strategies = state.strategyComparison?.strategies || [];
+  return strategies.find((strategy) => strategy.id === state.activeStrategyId) || strategies[0] || state.simulator;
+}
+
 function calculateSimulation(stake) {
-  const starting = stake * state.simulator.bets.length;
+  const strategy = activeStrategy();
+  const bets = strategy?.bets || [];
+  const starting = stake * bets.length;
   let running = starting;
   let peak = starting;
   let maxDrawdown = 0;
@@ -378,7 +387,7 @@ function calculateSimulation(stake) {
   let currentLoss = 0;
   let longestWin = 0;
   let longestLoss = 0;
-  const rows = state.simulator.bets.map((bet) => {
+  const rows = bets.map((bet) => {
     const won = Boolean(bet.won);
     const payout = won ? stake * Number(bet.book_odds) : 0;
     const profit = payout - stake;
@@ -463,12 +472,54 @@ function renderCalibration() {
     `;
   }).join("");
 }
+function renderStrategyComparison() {
+  const strategies = state.strategyComparison?.strategies || [];
+  const body = document.getElementById("strategy-comparison-body");
+  if (!strategies.length) {
+    body.innerHTML = '<tr><td colspan="7">No strategy comparison data available.</td></tr>';
+    return;
+  }
+  body.innerHTML = strategies.map((strategy) => {
+    const summary = strategy.summary || {};
+    const activeClass = strategy.id === state.activeStrategyId ? "active-strategy-row" : "";
+    return `
+      <tr class="${activeClass}" data-strategy-id="${escapeHtml(strategy.id)}">
+        <td>${escapeHtml(strategy.label || strategy.id)}</td>
+        <td>${summary.total_bets ?? 0}</td>
+        <td>${summary.wins ?? 0}</td>
+        <td>${formatPct(summary.hit_rate ?? 0)}</td>
+        <td>${formatCurrency(summary.total_profit ?? 0)}</td>
+        <td>${formatWholePct(summary.roi_pct ?? 0)}</td>
+        <td>${formatCurrency(summary.max_drawdown ?? 0)}</td>
+      </tr>
+    `;
+  }).join("");
+  body.querySelectorAll("tr[data-strategy-id]").forEach((row) => {
+    row.addEventListener("click", () => {
+      state.activeStrategyId = row.dataset.strategyId;
+      document.getElementById("strategy-select").value = state.activeStrategyId;
+      renderSimulator();
+    });
+  });
+}
+
 
 function setupSimulator() {
   const slider = document.getElementById("stake-slider");
-  const defaultStake = Number(state.simulator.default_stake || 10);
+  const strategySelect = document.getElementById("strategy-select");
+  const strategies = state.strategyComparison?.strategies || [];
+  const defaultStake = Number(state.strategyComparison?.default_stake || state.simulator.default_stake || 10);
+  strategySelect.innerHTML = strategies.map((strategy) => `<option value="${escapeHtml(strategy.id)}">${escapeHtml(strategy.label || strategy.id)}</option>`).join("");
+  state.activeStrategyId = state.strategyComparison?.primary_strategy_id || strategies[0]?.id || null;
+  if (state.activeStrategyId) {
+    strategySelect.value = state.activeStrategyId;
+  }
   slider.value = String(defaultStake);
   state.currentStake = defaultStake;
+  strategySelect.addEventListener("input", () => {
+    state.activeStrategyId = strategySelect.value;
+    renderSimulator();
+  });
   slider.addEventListener("input", () => {
     state.currentStake = Number(slider.value);
     renderSimulator();
@@ -479,7 +530,9 @@ function setupSimulator() {
 function renderSimulator() {
   const stake = state.currentStake;
   document.getElementById("stake-value").textContent = formatCurrency(stake);
+  const strategy = activeStrategy();
   const simulation = calculateSimulation(stake);
+  renderStrategyComparison();
   const summary = simulation.summary;
   renderCards("simulator-kpis", [
     ["Starting bankroll", formatCurrency(summary.starting_bankroll)],
@@ -535,10 +588,11 @@ async function init() {
 
   const status = document.getElementById("data-status");
   try {
-    const [analytics, backtest, simulator, diagnostics, valueBets] = await Promise.all([
+    const [analytics, backtest, simulator, strategyComparison, diagnostics, valueBets] = await Promise.all([
       loadJson("data/league_analytics.json"),
       loadJson("data/backtest.json"),
       loadJson("data/simulator.json"),
+      loadJson("data/strategy_comparison.json"),
       loadJson("data/diagnostics.json"),
       loadJson("data/value_bets.json"),
     ]);
@@ -546,6 +600,7 @@ async function init() {
     state.analytics = analytics;
     state.backtest = backtest;
     state.simulator = simulator;
+    state.strategyComparison = strategyComparison;
     state.diagnostics = diagnostics;
     state.valueBets = valueBets;
     setupAnalytics();

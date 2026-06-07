@@ -12,6 +12,9 @@ import pandas as pd
 FEATURES_DIR = Path("data/features")
 MODEL_ODDS_PATH = Path("data/output/model_odds.parquet")
 VALUE_BETS_PATH = Path("data/output/value_bets.parquet")
+POISSON_VALUE_BETS_PATH = Path("data/output/poisson_value_bets.parquet")
+MARKET_AWARE_VALUE_BETS_PATH = Path("data/output/market_aware_value_bets.parquet")
+MISPRICING_VALUE_BETS_PATH = Path("data/output/mispricing_value_bets.parquet")
 METRICS_PATH = Path("data/model_artifacts/stage3/metrics.json")
 HOLDOUT_PREDICTIONS_PATH = Path("data/model_artifacts/stage3/holdout_predictions.parquet")
 MODEL_DIAGNOSTICS_PATH = Path("data/model_artifacts/stage3/model_diagnostics.json")
@@ -31,6 +34,21 @@ LEAGUE_LABELS = {
 
 RESULT_TO_CODE = {"H": 0, "D": 1, "A": 2}
 CODE_TO_RESULT = {0: "H", 1: "D", 2: "A"}
+
+
+STRATEGY_VALUE_BET_PATHS = {
+    "xgboost_value": VALUE_BETS_PATH,
+    "market_aware_xgboost": MARKET_AWARE_VALUE_BETS_PATH,
+    "poisson_goal_model": POISSON_VALUE_BETS_PATH,
+    "mispricing_model": MISPRICING_VALUE_BETS_PATH,
+}
+STRATEGY_LABELS = {
+    "xgboost_value": "XGBoost value",
+    "market_aware_xgboost": "Market-aware XGBoost",
+    "poisson_goal_model": "Poisson goal model",
+    "mispricing_model": "Mispricing model",
+}
+PRIMARY_STRATEGY_ID = "mispricing_model"
 
 
 @dataclass(frozen=True)
@@ -373,6 +391,55 @@ def filter_holdout_value_bets(value_bets: pd.DataFrame, seasons: Iterable[str] =
     return value_bets[value_bets["Season"].isin(tuple(seasons))].copy().reset_index(drop=True)
 
 
+def load_strategy_value_bets(
+    strategy_paths: dict[str, Path] = STRATEGY_VALUE_BET_PATHS,
+    model_odds: pd.DataFrame | None = None,
+) -> dict[str, pd.DataFrame]:
+    strategies: dict[str, pd.DataFrame] = {}
+    for strategy_id, path in strategy_paths.items():
+        if not path.exists():
+            continue
+        strategies[strategy_id] = enrich_value_bets(pd.read_parquet(path), model_odds=model_odds)
+    return strategies
+
+
+def build_strategy_comparison(
+    strategies: dict[str, pd.DataFrame],
+    primary_strategy_id: str = PRIMARY_STRATEGY_ID,
+    stake: float = DEFAULT_STAKE,
+    seasons: Iterable[str] = HOLDOUT_SEASONS,
+) -> dict[str, object]:
+    items = []
+    for strategy_id, value_bets in strategies.items():
+        holdout = filter_holdout_value_bets(value_bets, seasons=seasons)
+        simulator = build_simulator(holdout, stake=stake)
+        summary = simulator["summary"]
+        items.append(
+            {
+                "id": strategy_id,
+                "label": STRATEGY_LABELS.get(strategy_id, strategy_id),
+                "path": str(STRATEGY_VALUE_BET_PATHS.get(strategy_id, "")),
+                "summary": summary,
+                "bets": simulator["bets"],
+            }
+        )
+    items.sort(key=lambda item: (NumberLike(item["summary"].get("roi_pct")), NumberLike(item["summary"].get("total_profit"))), reverse=True)
+    available_ids = [item["id"] for item in items]
+    selected_primary = primary_strategy_id if primary_strategy_id in available_ids else (available_ids[0] if available_ids else None)
+    return {
+        "default_stake": stake,
+        "primary_strategy_id": selected_primary,
+        "strategies": items,
+    }
+
+
+def NumberLike(value: object) -> float:
+    try:
+        return float(value)
+    except (TypeError, ValueError):
+        return 0.0
+
+
 def build_backtest(
     metrics_path: Path = METRICS_PATH,
     holdout_predictions_path: Path = HOLDOUT_PREDICTIONS_PATH,
@@ -425,12 +492,24 @@ def run_pipeline(
     output_dir: Path = DASHBOARD_DATA_DIR,
     mlruns_dir: Path = MLRUNS_DIR,
     diagnostics_path: Path = MODEL_DIAGNOSTICS_PATH,
+    poisson_value_bets_path: Path = POISSON_VALUE_BETS_PATH,
+    market_aware_value_bets_path: Path = MARKET_AWARE_VALUE_BETS_PATH,
+    mispricing_value_bets_path: Path = MISPRICING_VALUE_BETS_PATH,
 ) -> DashboardExportSummary:
     features = load_feature_data(features_dir)
     model_odds = pd.read_parquet(model_odds_path) if model_odds_path.exists() else pd.DataFrame()
     if not value_bets_path.exists():
         raise FileNotFoundError(f"Missing Stage 5 value bets file: {value_bets_path}")
     value_bets = enrich_value_bets(pd.read_parquet(value_bets_path), model_odds=model_odds)
+    strategy_paths = {
+        "xgboost_value": value_bets_path,
+        "market_aware_xgboost": market_aware_value_bets_path,
+        "poisson_goal_model": poisson_value_bets_path,
+        "mispricing_model": mispricing_value_bets_path,
+    }
+    strategies = load_strategy_value_bets(strategy_paths, model_odds=model_odds)
+    if "xgboost_value" not in strategies:
+        strategies["xgboost_value"] = value_bets
 
     holdout_value_bets = filter_holdout_value_bets(value_bets)
     outputs = {
@@ -438,6 +517,7 @@ def run_pipeline(
         "backtest.json": build_backtest(metrics_path, holdout_predictions_path, value_bets, mlruns_dir),
         "value_bets.json": _records(value_bets),
         "simulator.json": build_simulator(holdout_value_bets, stake=DEFAULT_STAKE),
+        "strategy_comparison.json": build_strategy_comparison(strategies, stake=DEFAULT_STAKE),
         "diagnostics.json": load_diagnostics(diagnostics_path),
     }
 
@@ -459,6 +539,9 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--output-dir", type=Path, default=DASHBOARD_DATA_DIR)
     parser.add_argument("--mlruns-dir", type=Path, default=MLRUNS_DIR)
     parser.add_argument("--diagnostics-path", type=Path, default=MODEL_DIAGNOSTICS_PATH)
+    parser.add_argument("--poisson-value-bets-path", type=Path, default=POISSON_VALUE_BETS_PATH)
+    parser.add_argument("--market-aware-value-bets-path", type=Path, default=MARKET_AWARE_VALUE_BETS_PATH)
+    parser.add_argument("--mispricing-value-bets-path", type=Path, default=MISPRICING_VALUE_BETS_PATH)
     return parser.parse_args()
 
 
@@ -473,5 +556,8 @@ if __name__ == "__main__":
         output_dir=args.output_dir,
         mlruns_dir=args.mlruns_dir,
         diagnostics_path=args.diagnostics_path,
+        poisson_value_bets_path=args.poisson_value_bets_path,
+        market_aware_value_bets_path=args.market_aware_value_bets_path,
+        mispricing_value_bets_path=args.mispricing_value_bets_path,
     )
     print(summary.line())
